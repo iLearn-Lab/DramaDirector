@@ -8,9 +8,15 @@
   <a href="https://github.com/Hengji-cs/DramaDirector">
     <img src="https://img.shields.io/badge/🎬%20Project-DramaDirector-2F6BFF?style=for-the-badge&labelColor=1a1a2e" alt="project badge">
   </a>
-  <img src="https://img.shields.io/badge/🎞️%20Task-Short%20Drama%20Generation-0F9D58?style=for-the-badge&labelColor=1a1a2e" alt="task badge">
+  <img src="https://img.shields.io/badge/🎞️%20Task-Video%20Generation-0F9D58?style=for-the-badge&labelColor=1a1a2e" alt="task badge">
+</p>
+<p>
   <img src="https://img.shields.io/badge/🔥%20Training-SFT%20%2B%20GRPO-F2994A?style=for-the-badge&labelColor=1a1a2e" alt="training badge">
   <img src="https://img.shields.io/badge/🧠%20Backbone-Qwen%20LoRA-8E44AD?style=for-the-badge&labelColor=1a1a2e" alt="backbone badge">
+</p>
+
+<p>
+  <a href="https://huggingface.co/PillowTa1k/DramaDirector">🤗 Model Checkpoints: PillowTa1k/DramaDirector</a>
 </p>
 
 <p>
@@ -49,7 +55,7 @@ retrieval-aware policy optimization, first-frame generation, and downstream vide
 ## 📢 News
 
 - Codebase organized around preprocessing, reward modeling, SFT, GRPO, and video generation.
-- Released checkpoints include a reward model and a final RL LoRA adapter.
+- Released checkpoints are hosted on Hugging Face: [PillowTa1k/DramaDirector](https://huggingface.co/PillowTa1k/DramaDirector).
 - The inference pipeline supports both standard Transformers/Unsloth generation and vLLM LoRA serving.
 
 ---
@@ -75,9 +81,6 @@ DramaDirector/
   reward_model/               # Text-visual reward model, hard negative mining, grid search, training
   train/                      # Storyboard SFT and GRPO training
   generation/                 # Inference, prompt packaging, first-frame generation, video generation
-  models/
-    final_model_R10_0.0955.pt # Reward model checkpoint
-    final_rl_lora/            # Final Qwen LoRA adapter after RL
   config.py                   # API keys and local data paths
   pyproject.toml              # Python dependencies managed by uv
 ```
@@ -207,7 +210,7 @@ uv run python train/sft.py
 ```
 
 The SFT stage renders storyboard tasks and trains a LoRA policy over structured storyboard outputs.
-This step is optional if you use the released LoRA checkpoint in `models/final_rl_lora/`.
+This step is optional if you use the released LoRA checkpoint from [PillowTa1k/DramaDirector](https://huggingface.co/PillowTa1k/DramaDirector).
 For full SFT reproduction, the script expects `data/verl_storyboard_sft/train.parquet`, `data/verl_storyboard_sft/val.parquet`, and the internal rendering / short-task packing helpers used during training.
 
 ### 🚀 GRPO Optimization
@@ -252,6 +255,8 @@ The repository provides two inference paths:
 - `generation/infer.py`: standard Transformers/Unsloth LoRA inference.
 - `generation/infer_vllm.py`: vLLM batched LoRA inference.
 
+Download the released LoRA adapter from [PillowTa1k/DramaDirector](https://huggingface.co/PillowTa1k/DramaDirector), then pass its local directory to `--checkpoint`.
+
 Recommended LLM decoding parameters:
 
 ```text
@@ -264,7 +269,7 @@ repetition_penalty = 1.2
 
 ```bash
 uv run python generation/infer_vllm.py \
-  --checkpoint models/final_rl_lora \
+  --checkpoint /path/to/final_rl_lora \
   --base_model ./Qwen/Qwen3-8B \
   --test_file generation/test.json \
   --output_file infer_results.json \
@@ -282,7 +287,7 @@ uv run python generation/infer_vllm.py \
 
 ```bash
 uv run python generation/infer.py \
-  --checkpoint models/final_rl_lora \
+  --checkpoint /path/to/final_rl_lora \
   --base_model ./Qwen/Qwen3-8B \
   --test_file generation/test.json \
   --output_file infer_results.json \
@@ -360,15 +365,11 @@ plot + characters + previous storyboard
 
 ## 📦 Checkpoints
 
-The current release expects:
+Model weights are hosted on Hugging Face instead of stored in this repository:
 
-```text
-models/final_model_R10_0.0955.pt
-models/final_rl_lora/
-```
+- [PillowTa1k/DramaDirector](https://huggingface.co/PillowTa1k/DramaDirector)
 
-- `final_model_R10_0.0955.pt`: reward model checkpoint.
-- `final_rl_lora/`: Qwen LoRA adapter trained for storyboard generation.
+The release includes the reward model checkpoint and the final Qwen LoRA adapter trained for storyboard generation. Download the assets you need and pass their local paths to the corresponding training or inference scripts.
 
 ---
 
