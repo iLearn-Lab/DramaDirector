@@ -9,8 +9,11 @@
     <img src="https://img.shields.io/badge/🎬%20Project-DramaDirector-2F6BFF?style=for-the-badge&labelColor=1a1a2e" alt="project badge">
   </a>
   <img src="https://img.shields.io/badge/🎞️%20Task-Video%20Generation-0F9D58?style=for-the-badge&labelColor=1a1a2e" alt="task badge">
+<<<<<<< HEAD
 </p>
 <p>
+=======
+>>>>>>> 3ad5854bc3a413da32e37dbaf987cbaa0fb73ad7
   <img src="https://img.shields.io/badge/🔥%20Training-SFT%20%2B%20GRPO-F2994A?style=for-the-badge&labelColor=1a1a2e" alt="training badge">
   <img src="https://img.shields.io/badge/🧠%20Backbone-Qwen%20LoRA-8E44AD?style=for-the-badge&labelColor=1a1a2e" alt="backbone badge">
 </p>
