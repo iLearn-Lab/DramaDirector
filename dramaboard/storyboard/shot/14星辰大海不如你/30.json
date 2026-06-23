@@ -1,0 +1,622 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "长发垂落，身体前倾靠近男主",
+                "expression": "眉毛微挑，眼睛注视男主，嘴巴微张"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "头部靠近女主，侧脸对着镜头",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴紧闭"
+            }
+        ],
+        "background": "室内私密空间，背景模糊，暖色调灯光",
+        "description_narrative": "特写镜头，固定机位。女主身穿白色衬衫，长发垂落，身体前倾靠近身穿白色浴袍的男主。男主侧脸对着镜头，头部靠近女主。女主眉毛微挑，眼睛注视男主，嘴巴微张说出“啊你”。",
+        "dialogue": "啊你",
+        "speaker": "女主",
+        "emotion": "惊讶",
+        "duration": 4.27,
+        "description_visual": "特写平拍镜头；室内私密空间，背景模糊，暖色调灯光；画面左侧人物，身穿白色衬衫，长发垂落，身体前倾靠近男主，表情：眉毛微挑，眼睛注视男主，嘴巴微张；画面右侧人物，身穿白色浴袍，头部靠近女主，侧脸对着镜头，表情：眉毛舒展，眼睛微闭，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "低头看着女主，手放在女主肩部附近",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "跨坐在男主身上，手抓着男主衣领",
+                "expression": "眉毛舒展，眼睛直视男主，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，背景有置物架，光线柔和",
+        "description_narrative": "中近景，固定机位。男主身穿白色浴袍，低头看着跨坐在身上的女主，手放在女主肩部附近，眉毛微蹙，嘴巴微张抱怨“你压得我喘不过气”。女主手抓着男主衣领，直视男主。",
+        "dialogue": "你压得我喘不过气",
+        "speaker": "男主",
+        "emotion": "无奈",
+        "duration": 1.8,
+        "description_visual": "中近景平拍镜头；室内，背景有置物架，光线柔和；画面右侧人物，身穿白色浴袍，低头看着女主，手放在女主肩部附近，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面左侧人物，身穿白色衬衫，跨坐在男主身上，手抓着男主衣领，表情：眉毛舒展，眼睛直视男主，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面下方",
+                "action": "抬头看着男主，眼神坚定",
+                "expression": "眉毛微蹙，眼睛上视，嘴巴微张"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面上方",
+                "action": "低头俯视女主",
+                "expression": "眉毛舒展，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，背景模糊，暖光",
+        "description_narrative": "特写镜头，俯拍角度。女主抬头看着男主，眼神坚定，眉毛微蹙，嘴巴微张询问“协议你签不签”。男主低头俯视女主。",
+        "dialogue": "协议你签不签",
+        "speaker": "女主",
+        "emotion": "严肃",
+        "duration": 1.67,
+        "description_visual": "特写俯拍镜头；室内，背景模糊，暖光；画面下方人物，身穿白色衬衫，抬头看着男主，眼神坚定，表情：眉毛微蹙，眼睛上视，嘴巴微张；画面上方人物，身穿白色浴袍，低头俯视女主，表情：眉毛舒展，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "侧头看向一边，避开女主视线",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手抓着男主衣领，身体贴近",
+                "expression": "眉毛微蹙，眼睛注视男主，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，背景有置物架",
+        "description_narrative": "中近景，固定机位。男主侧头看向一边，避开女主视线，眉毛微挑，嘴巴微张拒绝“我不签”。女主手抓着男主衣领，身体贴近。",
+        "dialogue": "我不签",
+        "speaker": "男主",
+        "emotion": "拒绝",
+        "duration": 1.3,
+        "description_visual": "中近景平拍镜头；室内，背景有置物架；画面右侧人物，身穿白色浴袍，侧头看向一边，避开女主视线，表情：眉毛微挑，眼睛看向侧方，嘴巴微张；画面左侧人物，身穿白色衬衫，手抓着男主衣领，身体贴近，表情：眉毛微蹙，眼睛注视男主，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面下方",
+                "action": "抬头瞪着男主，表情倔强",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴紧闭"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面上方",
+                "action": "低头看着女主",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，俯拍角度。女主抬头瞪着男主，表情倔强，眉毛上扬，眼睛睁大，威胁道“你不签我就不起来了”。男主低头看着女主。",
+        "dialogue": "你不签我就不起来了",
+        "speaker": "女主",
+        "emotion": "威胁",
+        "duration": 2.23,
+        "description_visual": "特写俯拍镜头；室内，背景模糊；画面下方人物，身穿白色衬衫，抬头瞪着男主，表情倔强，表情：眉毛上扬，眼睛睁大，嘴巴紧闭；画面上方人物，身穿白色浴袍，低头看着女主，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "头部靠近女主，似乎在躲避",
+                "expression": "眉毛微蹙，眼睛闭着，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "身体前倾，手放在男主颈后",
+                "expression": "眉毛舒展，眼睛注视男主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景有置物架",
+        "description_narrative": "中近景，固定机位。男主头部靠近女主，似乎在躲避，眉毛微蹙，嘴巴微张说着“啊不签不签不签”。女主身体前倾，手放在男主颈后，接着问“最后一条你看了吗”。",
+        "dialogue": "啊不签不签不签，最后一条你看了吗",
+        "speaker": "女主",
+        "emotion": "急切",
+        "duration": 2.9,
+        "description_visual": "中近景平拍镜头；室内，背景有置物架；画面右侧人物，身穿白色浴袍，头部靠近女主，似乎在躲避，表情：眉毛微蹙，眼睛闭着，嘴巴微张；画面左侧人物，身穿白色衬衫，身体前倾，手放在男主颈后，表情：眉毛舒展，眼睛注视男主，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面下方",
+                "action": "抬头看着男主，眼神带笑",
+                "expression": "眉毛舒展，眼睛上视，嘴角上扬"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面上方",
+                "action": "低头看着女主",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，俯拍角度。女主抬头看着男主，眼神带笑，眉毛舒展，嘴角上扬。男主低头看着女主，嘴巴微张说“你有任何需求都可以添加”。",
+        "dialogue": "你有任何需求都可以添加",
+        "speaker": "男主",
+        "emotion": "妥协",
+        "duration": 1.7,
+        "description_visual": "特写俯拍镜头；室内，背景模糊；画面下方人物，身穿白色衬衫，抬头看着男主，眼神带笑，表情：眉毛舒展，眼睛上视，嘴角上扬；画面上方人物，身穿白色浴袍，低头看着女主，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "看着女主，表情认真",
+                "expression": "眉毛舒展，眼睛注视女主，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手放在男主胸前",
+                "expression": "眉毛微蹙，眼睛注视男主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景有置物架",
+        "description_narrative": "中近景，固定机位。男主看着女主，表情认真，眉毛舒展，嘴巴微张。女主手放在男主胸前，眉毛微蹙，嘴巴微张解释“再说了，你我两家都在逼婚”。",
+        "dialogue": "再说了，你我两家都在逼婚",
+        "speaker": "女主",
+        "emotion": "解释",
+        "duration": 1.63,
+        "description_visual": "中近景平拍镜头；室内，背景有置物架；画面右侧人物，身穿白色浴袍，看着女主，表情认真，表情：眉毛舒展，眼睛注视女主，嘴巴微张；画面左侧人物，身穿白色衬衫，手放在男主胸前，表情：眉毛微蹙，眼睛注视男主，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "看着女主，表情疑惑",
+                "expression": "眉毛微挑，眼睛注视女主，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手放在男主胸前",
+                "expression": "眉毛舒展，眼睛注视男主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景有置物架",
+        "description_narrative": "中近景，固定机位。男主看着女主，表情疑惑，眉毛微挑，嘴巴微张。女主手放在男主胸前，眉毛舒展，嘴巴微张劝说“你签了稳赚不赔”。",
+        "dialogue": "你签了稳赚不赔",
+        "speaker": "女主",
+        "emotion": "诱惑",
+        "duration": 1.67,
+        "description_visual": "中近景平拍镜头；室内，背景有置物架；画面右侧人物，身穿白色浴袍，看着女主，表情疑惑，表情：眉毛微挑，眼睛注视女主，嘴巴微张；画面左侧人物，身穿白色衬衫，手放在男主胸前，表情：眉毛舒展，眼睛注视男主，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面下方",
+                "action": "抬头看着男主，眼神狡黠",
+                "expression": "眉毛微挑，眼睛上视，嘴巴微张"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面上方",
+                "action": "低头看着女主",
+                "expression": "眉毛舒展，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，俯拍角度。女主抬头看着男主，眼神狡黠，眉毛微挑，嘴巴微张反问“不是吗”。男主低头看着女主。",
+        "dialogue": "不是吗",
+        "speaker": "女主",
+        "emotion": "反问",
+        "duration": 1.57,
+        "description_visual": "特写俯拍镜头；室内，背景模糊；画面下方人物，身穿白色衬衫，抬头看着男主，眼神狡黠，表情：眉毛微挑，眼睛上视，嘴巴微张；画面上方人物，身穿白色浴袍，低头看着女主，表情：眉毛舒展，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "手指抵在下巴处，思考状",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手放在男主胸前",
+                "expression": "眉毛舒展，眼睛注视男主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景有置物架",
+        "description_narrative": "中近景，固定机位。男主手指抵在下巴处，思考状，眉毛舒展，嘴巴微张说“那你说的，我可以随意修改，嗯，只要不太过分都可以”。女主手放在男主胸前。",
+        "dialogue": "那你说的，我可以随意修改，嗯，只要不太过分都可以",
+        "speaker": "男主",
+        "emotion": "商量",
+        "duration": 5.0,
+        "description_visual": "中近景平拍镜头；室内，背景有置物架；画面右侧人物，身穿白色浴袍，手指抵在下巴处，思考状，表情：眉毛舒展，眼睛下视，嘴巴微张；画面左侧人物，身穿白色衬衫，手放在男主胸前，表情：眉毛舒展，眼睛注视男主，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "凑近男主，笑容灿烂",
+                "expression": "眉毛舒展，眼睛睁大，嘴角上扬露齿笑"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "侧脸对着女主",
+                "expression": "眉毛舒展，眼睛注视女主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，平拍角度。女主凑近男主，笑容灿烂，眉毛舒展，嘴角上扬露齿笑，确认道“真的”。男主侧脸对着女主。",
+        "dialogue": "真的",
+        "speaker": "女主",
+        "emotion": "惊喜",
+        "duration": 5.3,
+        "description_visual": "特写平拍镜头；室内，背景模糊；画面左侧人物，身穿白色衬衫，凑近男主，笑容灿烂，表情：眉毛舒展，眼睛睁大，嘴角上扬露齿笑；画面右侧人物，身穿白色浴袍，侧脸对着女主，表情：眉毛舒展，眼睛注视女主，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手搂住男主脖子，调情",
+                "expression": "眉毛舒展，眼睛注视男主，嘴角上扬"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "被女主搂住",
+                "expression": "眉毛舒展，眼睛注视女主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，平拍角度。女主手搂住男主脖子，调情，眉毛舒展，嘴角上扬说“那我要看看，我未来的老公”。男主被女主搂住。",
+        "dialogue": "那我要看看，我未来的老公",
+        "speaker": "女主",
+        "emotion": "调情",
+        "duration": 3.07,
+        "description_visual": "特写平拍镜头；室内，背景模糊；画面左侧人物，身穿白色衬衫，手搂住男主脖子，调情，表情：眉毛舒展，眼睛注视男主，嘴角上扬；画面右侧人物，身穿白色浴袍，被女主搂住，表情：眉毛舒展，眼睛注视女主，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "斜角",
+        "camera_motion": "拉远",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面中央",
+                "action": "坐在沙发上，被女主压着",
+                "expression": "眉毛舒展，眼睛注视女主，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "跨坐在男主身上",
+                "expression": "眉毛舒展，眼睛注视男主，嘴角上扬"
+            }
+        ],
+        "background": "室内客厅，沙发，置物架，前景有花瓶",
+        "description_narrative": "全景镜头，斜角拉远。男主坐在沙发上，被女主压着，眉毛舒展，嘴巴微张。女主跨坐在男主身上，眉毛舒展，嘴角上扬问“行不行”。",
+        "dialogue": "行不行",
+        "speaker": "女主",
+        "emotion": "期待",
+        "duration": 1.63,
+        "description_visual": "全景斜角镜头（拉远）；室内客厅，沙发，置物架，前景有花瓶；画面中央人物，身穿白色浴袍，坐在沙发上，被女主压着，表情：眉毛舒展，眼睛注视女主，嘴巴微张；画面中央人物，身穿白色衬衫，跨坐在男主身上，表情：眉毛舒展，眼睛注视男主，嘴角上扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "抬头看着女主，表情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手放在男主肩上",
+                "expression": "眉毛舒展，眼睛注视男主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，仰拍角度。男主抬头看着女主，表情惊讶，眉毛上扬，眼睛睁大，嘴巴微张说“玩”。女主手放在男主肩上。",
+        "dialogue": "玩",
+        "speaker": "男主",
+        "emotion": "惊讶",
+        "duration": 1.07,
+        "description_visual": "特写仰拍镜头；室内，背景模糊；画面右侧人物，身穿白色浴袍，抬头看着女主，表情惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张；画面左侧人物，身穿白色衬衫，手放在男主肩上，表情：眉毛舒展，眼睛注视男主，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "手摸着脖子，表情夸张",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手放在男主肩上",
+                "expression": "眉毛舒展，眼睛注视男主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，仰拍角度。男主手摸着脖子，表情夸张，眉毛上扬，眼睛睁大，嘴巴微张说“这么大”。女主手放在男主肩上。",
+        "dialogue": "这么大",
+        "speaker": "男主",
+        "emotion": "夸张",
+        "duration": 0.83,
+        "description_visual": "特写仰拍镜头；室内，背景模糊；画面右侧人物，身穿白色浴袍，手摸着脖子，表情夸张，表情：眉毛上扬，眼睛睁大，嘴巴微张；画面左侧人物，身穿白色衬衫，手放在男主肩上，表情：眉毛舒展，眼睛注视男主，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手指触碰男主嘴唇",
+                "expression": "眉毛舒展，眼睛注视男主，嘴角上扬"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "被女主触碰",
+                "expression": "眉毛舒展，眼睛注视女主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，平拍角度。女主手指触碰男主嘴唇，眉毛舒展，嘴角上扬说“你说”。男主被女主触碰。",
+        "dialogue": "你说",
+        "speaker": "女主",
+        "emotion": "调情",
+        "duration": 2.47,
+        "description_visual": "特写平拍镜头；室内，背景模糊；画面左侧人物，身穿白色衬衫，手指触碰男主嘴唇，表情：眉毛舒展，眼睛注视男主，嘴角上扬；画面右侧人物，身穿白色浴袍，被女主触碰，表情：眉毛舒展，眼睛注视女主，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "被女主手掐住脖子",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴紧闭"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手掐住男主脖子",
+                "expression": "眉毛舒展，眼睛注视男主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，平拍角度。男主被女主手掐住脖子，眉毛舒展，眼睛微闭。女主手掐住男主脖子，眉毛舒展，嘴巴微张说“呢”。",
+        "dialogue": "呢",
+        "speaker": "女主",
+        "emotion": "调情",
+        "duration": 0.63,
+        "description_visual": "特写平拍镜头；室内，背景模糊；画面右侧人物，身穿白色浴袍，被女主手掐住脖子，表情：眉毛舒展，眼睛微闭，嘴巴紧闭；画面左侧人物，身穿白色衬衫，手掐住男主脖子，表情：眉毛舒展，眼睛注视男主，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "头发遮挡部分视线",
+                "expression": "眉毛舒展，眼睛注视男主，嘴巴微张"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "头部靠近女主",
+                "expression": "眉毛舒展，眼睛注视女主，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写镜头，平拍角度。女主头发遮挡部分视线，眉毛舒展，眼睛注视男主。男主头部靠近女主，眉毛舒展，眼睛注视女主。两人无台词，气氛暧昧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "暧昧",
+        "duration": 3.67,
+        "description_visual": "特写平拍镜头；室内，背景模糊；画面左侧人物，身穿白色衬衫，头发遮挡部分视线，表情：眉毛舒展，眼睛注视男主，嘴巴微张；画面右侧人物，身穿白色浴袍，头部靠近女主，表情：眉毛舒展，眼睛注视女主，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "画面过曝，轮廓模糊",
+                "expression": "眉毛舒展，眼睛注视男主，嘴巴微张"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面右侧",
+                "action": "画面过曝，轮廓模糊",
+                "expression": "眉毛舒展，眼睛注视女主，嘴巴微张"
+            }
+        ],
+        "background": "室内，强光过曝",
+        "description_narrative": "特写镜头，平拍角度。画面过曝，女主和男主轮廓模糊，两人靠近。无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "暧昧",
+        "duration": 2.13,
+        "description_visual": "特写平拍镜头；室内，强光过曝；画面左侧人物，身穿白色衬衫，画面过曝，轮廓模糊，表情：眉毛舒展，眼睛注视男主，嘴巴微张；画面右侧人物，身穿白色浴袍，画面过曝，轮廓模糊，表情：眉毛舒展，眼睛注视女主，嘴巴微张。"
+    }
+]

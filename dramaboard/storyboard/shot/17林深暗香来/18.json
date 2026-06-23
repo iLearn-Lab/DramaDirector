@@ -1,0 +1,1024 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "昏暗的走廊，左侧有垂直灯带，右侧有门框，光线幽暗。",
+        "description_narrative": "全景固定镜头拍摄昏暗的走廊，左侧墙壁有一条明亮的垂直灯带，右侧是一个黑色的门框，门内透出深蓝色的光，环境静谧压抑。",
+        "dialogue": "哎。",
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "全景平拍镜头；昏暗的走廊，左侧有垂直灯带，右侧有门框，光线幽暗。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼神惊恐地看向画面右侧",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊，暖色调灯光，隐约可见酒瓶。",
+        "description_narrative": "特写镜头聚焦林语墨，她身穿米色外套和黑色高领衫，眼神惊恐地望向右侧，嘴巴微张，似乎在求救。",
+        "dialogue": "秦总 救我。",
+        "speaker": "林语墨",
+        "emotion": "惊恐",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；室内背景模糊，暖色调灯光，隐约可见酒瓶。；画面中央人物，身穿米色外套，黑色高领内搭，头部微侧，眼神惊恐地看向画面右侧，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面左侧",
+                "action": "头部微转，眼神严肃地看向画面右侧",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "背景模糊，有绿色和橙色灯光。",
+        "description_narrative": "近景镜头拍摄秦总，他身穿黑色大衣和高领毛衣，表情严肃冷峻，目光投向画面右侧，似乎在回应林语墨的求救。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；背景模糊，有绿色和橙色灯光。；画面左侧人物，身穿黑色大衣，黑色高领毛衣，头部微转，眼神严肃地看向画面右侧，表情：眉毛微蹙，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "身体紧贴秦总，手抓着秦总的手臂",
+                "expression": "侧脸，表情依赖"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面右侧",
+                "action": "站立，身体微侧，回头看向后方",
+                "expression": "眉毛微挑，眼神警觉"
+            }
+        ],
+        "background": "酒柜背景，暖色灯光，地面有灯带。",
+        "description_narrative": "中景镜头显示林语墨紧紧抓着秦总的手臂，身体靠在他身后，秦总站立并回头看向后方，背景是摆满酒瓶的酒柜。",
+        "dialogue": "嗯。",
+        "speaker": "秦总",
+        "emotion": "安抚",
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头；酒柜背景，暖色灯光，地面有灯带。；画面左侧人物，身穿米色外套，黑色高领内搭，身体紧贴秦总，手抓着秦总的手臂，表情：侧脸，表情依赖；画面右侧人物，身穿黑色大衣，黑色高领毛衣，站立，身体微侧，回头看向后方，表情：眉毛微挑，眼神警觉。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "一边行走一边整理衣领，面带笑容",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "走廊，左侧有门，右侧有绿色灯光和金属雕塑。",
+        "description_narrative": "中景跟拍棕衣男子，他身穿棕色皮夹克和花衬衫，一边从门口走出整理衣领，一边带着玩味的笑容看向前方。",
+        "dialogue": "老婆，你怎么出来了？",
+        "speaker": "棕衣男子",
+        "emotion": "戏谑",
+        "duration": 2.4,
+        "description_visual": "中景平拍镜头（跟拍）；走廊，左侧有门，右侧有绿色灯光和金属雕塑。；画面中央人物，身穿棕色皮夹克，花衬衫，一边行走一边整理衣领，面带笑容，表情：眉毛舒展，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微转，眼神疑惑",
+                "expression": "眉毛微皱，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "背景模糊，紫色和橙色灯光。",
+        "description_narrative": "近景镜头拍摄秦总，他听到声音后转头，表情疑惑，似乎对“老婆”这个称呼感到意外。",
+        "dialogue": "老婆。",
+        "speaker": "棕衣男子",
+        "emotion": "疑惑",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；背景模糊，紫色和橙色灯光。；画面中央人物，身穿黑色大衣，黑色高领毛衣，头部微转，眼神疑惑，表情：眉毛微皱，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "身体微倾，眼神急切地看向秦总",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "背景模糊，蓝色灯光。",
+        "description_narrative": "特写镜头聚焦林语墨，她紧抓着秦总的手臂，眼神急切地否认，嘴巴微张似乎在辩解。",
+        "dialogue": "我不是他老婆。",
+        "speaker": "林语墨",
+        "emotion": "急切",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；背景模糊，蓝色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，身体微倾，眼神急切地看向秦总，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "站在秦总身后，摇头否认",
+                "expression": "表情坚决"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "站立，看向棕衣男子",
+                "expression": "表情平静"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面右侧",
+                "action": "背对镜头，面向另外两人",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒柜背景，绿色灯光。",
+        "description_narrative": "中景镜头显示三人对峙，林语墨站在秦总身后摇头否认，秦总平静地看向棕衣男子，棕衣男子背对镜头站立。",
+        "dialogue": "我不认识他。",
+        "speaker": "林语墨",
+        "emotion": "坚决",
+        "duration": 1.28,
+        "description_visual": "中景平拍镜头；酒柜背景，绿色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，站在秦总身后，摇头否认，表情：表情坚决；画面中央人物，身穿黑色大衣，黑色高领毛衣，站立，看向棕衣男子，表情：表情平静；画面右侧人物，身穿棕色皮夹克，花衬衫，背对镜头，面向另外两人，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微侧，看向棕衣男子",
+                "expression": "眉毛微挑，眼神冷静"
+            }
+        ],
+        "background": "背景模糊，蓝色和橙色灯光。",
+        "description_narrative": "近景镜头拍摄秦总，他侧头看向棕衣男子，表情冷静，似乎在转述林语墨的话。",
+        "dialogue": "她说她不是你老婆。",
+        "speaker": "秦总",
+        "emotion": "冷静",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；背景模糊，蓝色和橙色灯光。；画面中央人物，身穿黑色大衣，黑色高领毛衣，头部微侧，看向棕衣男子，表情：眉毛微挑，眼神冷静。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸，面带质疑",
+                "expression": "眉毛上扬，嘴角微撇"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他双臂交叉抱在胸前，脸上带着质疑和不屑的笑容，反问对方。",
+        "dialogue": "她怎么不是我老婆呢",
+        "speaker": "棕衣男子",
+        "emotion": "质疑",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，双臂交叉抱胸，面带质疑，表情：眉毛上扬，嘴角微撇。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "紧抓秦总手臂，眼神惊恐",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "背景模糊，绿色灯光。",
+        "description_narrative": "特写镜头聚焦林语墨，她紧抓着秦总的手臂，眼神惊恐地看着棕衣男子，对对方的言论感到害怕。",
+        "dialogue": "她怎么不是我老婆呢",
+        "speaker": "棕衣男子",
+        "emotion": "惊恐",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；背景模糊，绿色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，紧抓秦总手臂，眼神惊恐，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "眼神微动，似乎在思考",
+                "expression": "眉毛微蹙，眼神深邃"
+            }
+        ],
+        "background": "背景模糊，橙色灯光和酒瓶。",
+        "description_narrative": "近景镜头拍摄秦总，他眼神微动，表情严肃，似乎在消化棕衣男子提供的信息。",
+        "dialogue": "她叫林语墨",
+        "speaker": "棕衣男子",
+        "emotion": "严肃",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；背景模糊，橙色灯光和酒瓶。；画面中央人物，身穿黑色大衣，黑色高领毛衣，眼神微动，似乎在思考，表情：眉毛微蹙，眼神深邃。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉，侃侃而谈",
+                "expression": "眉毛舒展，嘴角带笑"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他双臂交叉，脸上带着得意的笑容，详细报出林语墨的年龄。",
+        "dialogue": "今年二十三岁",
+        "speaker": "棕衣男子",
+        "emotion": "得意",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，双臂交叉，侃侃而谈，表情：眉毛舒展，嘴角带笑。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "眼神震惊，身体微颤",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "背景模糊，绿色灯光。",
+        "description_narrative": "特写镜头聚焦林语墨，她听到对方说出自己的身世后，眼神震惊，身体微微颤抖，显得非常不安。",
+        "dialogue": "从小在孤儿院长大",
+        "speaker": "棕衣男子",
+        "emotion": "震惊",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；背景模糊，绿色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，眼神震惊，身体微颤，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "站在秦总身后，表情惊恐",
+                "expression": "表情惊恐"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面右侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒柜背景，紫色灯光。",
+        "description_narrative": "中景镜头显示三人对峙，林语墨站在秦总身后表情惊恐，秦总严肃地看着棕衣男子，棕衣男子继续说出林语墨的工作信息。",
+        "dialogue": "现在在永秦集团工作",
+        "speaker": "棕衣男子",
+        "emotion": "惊恐",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；酒柜背景，紫色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，站在秦总身后，表情惊恐，表情：表情惊恐；画面中央人物，身穿黑色大衣，黑色高领毛衣，站立，表情严肃，表情：表情严肃；画面右侧人物，身穿棕色皮夹克，花衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉，眼神挑衅",
+                "expression": "眉毛微挑，嘴角上扬"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他双臂交叉，眼神挑衅地看着秦总，说出林语墨是老板助理的事实。",
+        "dialogue": "是老板身边的助理",
+        "speaker": "棕衣男子",
+        "emotion": "挑衅",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，双臂交叉，眼神挑衅，表情：眉毛微挑，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "眼神疑惑，看向棕衣男子方向",
+                "expression": "眉毛微蹙，眼神疑惑"
+            }
+        ],
+        "background": "背景模糊，绿色灯光。",
+        "description_narrative": "特写镜头聚焦林语墨，她眼神疑惑地看着棕衣男子的方向，对他为何知道这么多感到不解。",
+        "dialogue": "我说的对不对？",
+        "speaker": "棕衣男子",
+        "emotion": "疑惑",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；背景模糊，绿色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，眼神疑惑，看向棕衣男子方向，表情：眉毛微蹙，眼神疑惑。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "低头看手机，准备展示",
+                "expression": "眉毛舒展，嘴角带笑"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他低头看着手机，脸上带着自信的笑容，准备回答林语墨的疑问。",
+        "dialogue": "你怎么会知道这么清楚？",
+        "speaker": "林语墨",
+        "emotion": "自信",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，低头看手机，准备展示，表情：眉毛舒展，嘴角带笑。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "紧抓秦总手臂，眼神惊恐",
+                "expression": "眉毛紧蹙，眼睛睁大"
+            }
+        ],
+        "background": "背景模糊，蓝色灯光。",
+        "description_narrative": "特写镜头聚焦林语墨，她紧抓着秦总的手臂，眼神惊恐，因为棕衣男子说他手机里全是她的照片。",
+        "dialogue": "我手机里面全是你的照片",
+        "speaker": "棕衣男子",
+        "emotion": "惊恐",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；背景模糊，蓝色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，紧抓秦总手臂，眼神惊恐，表情：眉毛紧蹙，眼睛睁大。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "低头看手机，语气转折",
+                "expression": "眉毛微蹙，眼神专注"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他低头看着手机，语气开始转折，准备进行假设性的质问。",
+        "dialogue": "如果说。",
+        "speaker": "棕衣男子",
+        "emotion": "严肃",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，低头看手机，语气转折，表情：眉毛微蹙，眼神专注。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "手持手机展示，眼神逼视",
+                "expression": "眉毛微挑，眼神锐利"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他手持手机展示屏幕，眼神锐利地逼视对方，提出假设。",
+        "dialogue": "如果说你不是我老婆",
+        "speaker": "棕衣男子",
+        "emotion": "逼视",
+        "duration": 2.72,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，手持手机展示，眼神逼视，表情：眉毛微挑，眼神锐利。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "手持手机，屏幕显示照片墙",
+                "expression": "不可见"
+            }
+        ],
+        "background": "手机屏幕，显示多张照片。",
+        "description_narrative": "特写俯拍镜头展示棕衣男子手中的手机屏幕，上面显示着满满的照片墙，作为他声称的证据。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "特写俯拍镜头；手机屏幕，显示多张照片。；画面中央人物，身穿棕色皮夹克，花衬衫，手持手机，屏幕显示照片墙，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "身体模糊，似乎在后退或摇头",
+                "expression": "表情模糊，看似惊慌"
+            }
+        ],
+        "background": "背景模糊，蓝色灯光。",
+        "description_narrative": "特写镜头拍摄林语墨，画面略显模糊，她似乎在惊慌地后退或摇头否认。",
+        "dialogue": "我没有。",
+        "speaker": "林语墨",
+        "emotion": "惊慌",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；背景模糊，蓝色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，身体模糊，似乎在后退或摇头，表情：表情模糊，看似惊慌。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "站在秦总身后，摆手否认",
+                "expression": "表情坚决"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "站立，看向棕衣男子",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面右侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒柜背景，暖色灯光。",
+        "description_narrative": "中景镜头显示三人对峙，林语墨站在秦总身后摆手坚决否认，秦总严肃地看着棕衣男子。",
+        "dialogue": "我不认识他。",
+        "speaker": "林语墨",
+        "emotion": "坚决",
+        "duration": 1.72,
+        "description_visual": "中景平拍镜头；酒柜背景，暖色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，站在秦总身后，摆手否认，表情：表情坚决；画面中央人物，身穿黑色大衣，黑色高领毛衣，站立，看向棕衣男子，表情：表情严肃；画面右侧人物，身穿棕色皮夹克，花衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "闭眼片刻，似乎在忍耐",
+                "expression": "眉毛紧蹙，眼睛闭合"
+            }
+        ],
+        "background": "背景模糊，蓝色和橙色灯光。",
+        "description_narrative": "近景镜头拍摄秦总，他闭眼片刻，似乎在忍耐或思考，面对棕衣男子的指控。",
+        "dialogue": "你是不是早有预谋",
+        "speaker": "棕衣男子",
+        "emotion": "忍耐",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；背景模糊，蓝色和橙色灯光。；画面中央人物，身穿黑色大衣，黑色高领毛衣，闭眼片刻，似乎在忍耐，表情：眉毛紧蹙，眼睛闭合。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "眼神坚定，看向棕衣男子方向",
+                "expression": "眉毛微蹙，眼神坚定"
+            }
+        ],
+        "background": "背景模糊，紫色灯光。",
+        "description_narrative": "特写镜头聚焦林语墨，她眼神坚定地看着棕衣男子的方向，再次强调自己不认识对方。",
+        "dialogue": "我根本就不认识你。",
+        "speaker": "林语墨",
+        "emotion": "坚定",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；背景模糊，紫色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，眼神坚定，看向棕衣男子方向，表情：眉毛微蹙，眼神坚定。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "表情惊讶，随后转为愤怒",
+                "expression": "眉毛上扬，眼睛睁大"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他表情惊讶，随后转为愤怒，指责林语墨看上了秦总。",
+        "dialogue": "林语墨，你不会看上这个。",
+        "speaker": "棕衣男子",
+        "emotion": "愤怒",
+        "duration": 2.6,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，表情惊讶，随后转为愤怒，表情：眉毛上扬，眼睛睁大。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "眼神冷峻，看向棕衣男子",
+                "expression": "眉毛微蹙，眼神冷漠"
+            }
+        ],
+        "background": "背景模糊，紫色和橙色灯光。",
+        "description_narrative": "近景镜头拍摄秦总，他眼神冷峻地看着棕衣男子，面对对方的侮辱性言论保持沉默。",
+        "dialogue": "小白脸了吧，你还想给我？",
+        "speaker": "棕衣男子",
+        "emotion": "冷漠",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；背景模糊，紫色和橙色灯光。；画面中央人物，身穿黑色大衣，黑色高领毛衣，眼神冷峻，看向棕衣男子，表情：眉毛微蹙，眼神冷漠。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "表情愤怒，质问对方",
+                "expression": "眉毛紧蹙，嘴巴微张"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他表情愤怒地质问林语墨还想给他戴多少次绿帽子。",
+        "dialogue": "戴多少次绿帽子",
+        "speaker": "棕衣男子",
+        "emotion": "愤怒",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，表情愤怒，质问对方，表情：眉毛紧蹙，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "嘴巴微张，似乎在反驳",
+                "expression": "嘴巴微张，表情无奈"
+            }
+        ],
+        "background": "背景模糊，紫色灯光。",
+        "description_narrative": "特写镜头聚焦林语墨，她嘴巴微张，似乎对棕衣男子的无理取闹感到无奈和无语。",
+        "dialogue": "戴多少次绿帽子？",
+        "speaker": "棕衣男子",
+        "emotion": "无奈",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；背景模糊，紫色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，嘴巴微张，似乎在反驳，表情：嘴巴微张，表情无奈。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "表情严肃，再次强调",
+                "expression": "眉毛微蹙，眼神坚定"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他表情严肃，再次强调自己根本不认识林语墨（反话或口误，实际意指林语墨说不认识他）。",
+        "dialogue": "我根本就不认识你。",
+        "speaker": "林语墨",
+        "emotion": "严肃",
+        "duration": 3.6,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，表情严肃，再次强调，表情：眉毛微蹙，眼神坚定。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "站在秦总身边",
+                "expression": "表情平静"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "站立，看向棕衣男子",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面右侧",
+                "action": "站立，面向另外两人",
+                "expression": "表情激动"
+            }
+        ],
+        "background": "酒柜背景，暖色灯光，前景有椅子。",
+        "description_narrative": "全景镜头显示三人对峙，棕衣男子激动地说他们天天睡在一起，林语墨不可能不认识他。",
+        "dialogue": "咱们天天睡在一起，你不认识我。",
+        "speaker": "棕衣男子",
+        "emotion": "激动",
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；酒柜背景，暖色灯光，前景有椅子。；画面左侧人物，身穿米色外套，黑色高领内搭，站在秦总身边，表情：表情平静；画面中央人物，身穿黑色大衣，黑色高领毛衣，站立，看向棕衣男子，表情：表情严肃；画面右侧人物，身穿棕色皮夹克，花衬衫，站立，面向另外两人，表情：表情激动。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "站在秦总身后，表情无奈",
+                "expression": "表情无奈"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "站立，看向棕衣男子",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面右侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒柜背景，绿色灯光。",
+        "description_narrative": "中景镜头显示三人对峙，林语墨无奈地站在秦总身后，秦总严肃地看着棕衣男子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "中景平拍镜头；酒柜背景，绿色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，站在秦总身后，表情无奈，表情：表情无奈；画面中央人物，身穿黑色大衣，黑色高领毛衣，站立，看向棕衣男子，表情：表情严肃；画面右侧人物，身穿棕色皮夹克，花衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "手持手机，语气强硬",
+                "expression": "眉毛微挑，眼神强硬"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他手持手机，语气强硬地表示这是他和老婆的家务事。",
+        "dialogue": "我跟我老婆的家务事。",
+        "speaker": "棕衣男子",
+        "emotion": "强硬",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，手持手机，语气强硬，表情：眉毛微挑，眼神强硬。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "眼神冷峻，看向棕衣男子",
+                "expression": "眉毛微蹙，眼神冷漠"
+            }
+        ],
+        "background": "背景模糊，绿色和橙色灯光。",
+        "description_narrative": "近景镜头拍摄秦总，他眼神冷峻地看着棕衣男子，反问对方是否也要管这件事。",
+        "dialogue": "你也要管吗",
+        "speaker": "棕衣男子",
+        "emotion": "冷漠",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；背景模糊，绿色和橙色灯光。；画面中央人物，身穿黑色大衣，黑色高领毛衣，眼神冷峻，看向棕衣男子，表情：眉毛微蹙，眼神冷漠。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "眼神看向秦总，似乎在等待回应",
+                "expression": "眼神期待"
+            }
+        ],
+        "background": "背景模糊，蓝色灯光。",
+        "description_narrative": "特写镜头聚焦林语墨，她眼神看向秦总，似乎在等待他的回应，表情中带着一丝期待。",
+        "dialogue": "不管她是不是你老婆。",
+        "speaker": "秦总",
+        "emotion": "期待",
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；背景模糊，蓝色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，眼神看向秦总，似乎在等待回应，表情：眼神期待。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "侧头，语气坚定",
+                "expression": "眉毛微蹙，眼神坚定"
+            }
+        ],
+        "background": "背景模糊，紫色和橙色灯光。",
+        "description_narrative": "近景镜头拍摄秦总，他侧头语气坚定地说，只要林语墨不愿意，对方就不能带走她。",
+        "dialogue": "只要她不愿意",
+        "speaker": "秦总",
+        "emotion": "坚定",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；背景模糊，紫色和橙色灯光。；画面中央人物，身穿黑色大衣，黑色高领毛衣，侧头，语气坚定，表情：眉毛微蹙，眼神坚定。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，花衬衫",
+                "position": "画面中央",
+                "action": "表情愤怒，咬牙切齿",
+                "expression": "眉毛紧蹙，嘴巴紧闭"
+            }
+        ],
+        "background": "走廊，垂直灯带，背景模糊。",
+        "description_narrative": "近景镜头拍摄棕衣男子，他表情愤怒，咬牙切齿地听着秦总的宣言。",
+        "dialogue": "你就不能带走她",
+        "speaker": "秦总",
+        "emotion": "愤怒",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；走廊，垂直灯带，背景模糊。；画面中央人物，身穿棕色皮夹克，花衬衫，表情愤怒，咬牙切齿，表情：眉毛紧蹙，嘴巴紧闭。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "侧脸，语气霸气",
+                "expression": "眉毛微挑，眼神锐利"
+            }
+        ],
+        "background": "背景模糊，橙色灯光和酒瓶。",
+        "description_narrative": "近景镜头拍摄秦总，他侧脸语气霸气地表示林语墨的事他管定了。",
+        "dialogue": "她的事。",
+        "speaker": "秦总",
+        "emotion": "霸气",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；背景模糊，橙色灯光和酒瓶。；画面中央人物，身穿黑色大衣，黑色高领毛衣，侧脸，语气霸气，表情：眉毛微挑，眼神锐利。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "眼神看向秦总，表情复杂",
+                "expression": "眼神复杂，嘴巴微张"
+            }
+        ],
+        "background": "背景模糊，绿色灯光。",
+        "description_narrative": "特写镜头聚焦林语墨，她眼神复杂地看着秦总，听到秦总说要管到底，心中五味杂陈。",
+        "dialogue": "我管定了。",
+        "speaker": "秦总",
+        "emotion": "复杂",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；背景模糊，绿色灯光。；画面左侧人物，身穿米色外套，黑色高领内搭，眼神看向秦总，表情复杂，表情：眼神复杂，嘴巴微张。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "米色外套，黑色高领内搭",
+                "position": "画面中央",
+                "action": "画面过曝，逐渐变白",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色强光，细节不可见。",
+        "description_narrative": "特写镜头画面逐渐过曝变白，林语墨的身影在强光中变得模糊，场景在紧张氛围中结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；白色强光，细节不可见。；画面中央人物，身穿米色外套，黑色高领内搭，画面过曝，逐渐变白，表情：不可见。"
+    }
+]

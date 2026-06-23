@@ -1,0 +1,732 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "卫衣男",
+                "gender": "男",
+                "clothing": "黑色印有黄色字母卫衣",
+                "position": "画面左侧",
+                "action": "头部微转，视线看向画面右侧",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间室内，暖色调灯光，背景模糊",
+        "description_narrative": "近景镜头，卫衣男身穿黑色印有黄色字母卫衣，位于画面左侧，头部微转看向右侧，神情略带疑惑，背景为暖色调酒店房间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；酒店房间室内，暖色调灯光，背景模糊；画面左侧人物，身穿黑色印有黄色字母卫衣，头部微转，视线看向画面右侧，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "背景中央",
+                "action": "从卫衣男身后出现，低头注视",
+                "expression": "眉毛平展，眼神冷峻，嘴巴微动"
+            },
+            {
+                "name": "卫衣男",
+                "gender": "男",
+                "clothing": "黑色印有黄色字母卫衣",
+                "position": "前景",
+                "action": "背对镜头，头部被遮挡部分",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店房间，米色墙壁，画框一角",
+        "description_narrative": "中近景，潘瑾辰身穿黑色长风衣从卫衣男身后出现，低头注视前方，神情严肃，卫衣男位于前景背对镜头。",
+        "dialogue": "起来，小崽子。",
+        "speaker": "潘瑾辰",
+        "emotion": "严肃",
+        "duration": 1.8,
+        "description_visual": "中近景平拍镜头；酒店房间，米色墙壁，画框一角；背景中央人物，身穿黑色高领毛衣和黑色长风衣，从卫衣男身后出现，低头注视，表情：眉毛平展，眼神冷峻，嘴巴微动；前景人物，身穿黑色印有黄色字母卫衣，背对镜头，头部被遮挡部分，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "卫衣男",
+                "gender": "男",
+                "clothing": "黑色印有黄色字母卫衣",
+                "position": "画面中央偏左",
+                "action": "背对镜头站立，头部微侧",
+                "expression": "不可见"
+            },
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面右侧",
+                "action": "侧身站立，注视卫衣男",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇紧闭"
+            }
+        ],
+        "background": "酒店房间走廊或门口，暖光",
+        "description_narrative": "中景镜头，卫衣男背对镜头站立，背后黄色字母清晰可见，潘瑾辰站在右侧侧身注视他，两人距离较近。",
+        "dialogue": "你不是走了吗？大个。",
+        "speaker": "卫衣男",
+        "emotion": "挑衅",
+        "duration": 5.64,
+        "description_visual": "中景平拍镜头；酒店房间走廊或门口，暖光；画面中央偏左人物，身穿黑色印有黄色字母卫衣，背对镜头站立，头部微侧，表情：不可见；画面右侧人物，身穿黑色高领毛衣和黑色长风衣，侧身站立，注视卫衣男，表情：眉毛微蹙，眼神锐利，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧床上",
+                "action": "坐在床上，身体微侧",
+                "expression": "眉毛微蹙，眼神忧伤，嘴巴微张"
+            },
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央站立",
+                "action": "身体前倾，低头看晚晚",
+                "expression": "眉毛舒展，眼神关切，嘴巴微动"
+            },
+            {
+                "name": "卫衣男",
+                "gender": "男",
+                "clothing": "黑色印有黄色字母卫衣",
+                "position": "背景右侧",
+                "action": "站立在门口附近",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店卧室，白色床单，木质床头，暖光",
+        "description_narrative": "全景镜头，晚晚身穿白色睡裙坐在左侧床上，潘瑾辰站在床边身体前倾与她对话，卫衣男站在背景右侧门口处。",
+        "dialogue": "我下楼",
+        "speaker": "潘瑾辰",
+        "emotion": "平静",
+        "duration": 3.48,
+        "description_visual": "全景平拍镜头；酒店卧室，白色床单，木质床头，暖光；画面左侧床上人物，身穿白色吊带睡裙，坐在床上，身体微侧，表情：眉毛微蹙，眼神忧伤，嘴巴微张；画面中央站立人物，身穿黑色高领毛衣和黑色长风衣，身体前倾，低头看晚晚，表情：眉毛舒展，眼神关切，嘴巴微动；背景右侧人物，身穿黑色印有黄色字母卫衣，站立在门口附近，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "头部微侧，视线向下",
+                "expression": "眉毛平展，眼神温柔，嘴巴微张说话"
+            }
+        ],
+        "background": "酒店房间墙壁，画框边缘",
+        "description_narrative": "特写镜头，潘瑾辰面部占据画面，暖光打在脸上，他微微侧头解释刚才的去向，神情温和。",
+        "dialogue": "我下楼去买了药",
+        "speaker": "潘瑾辰",
+        "emotion": "温柔",
+        "duration": 2.68,
+        "description_visual": "特写仰拍镜头；酒店房间墙壁，画框边缘；画面中央人物，身穿黑色高领毛衣和黑色长风衣，头部微侧，视线向下，表情：眉毛平展，眼神温柔，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "视线注视前方，嘴唇开合",
+                "expression": "眉毛微扬，眼神专注，嘴巴闭合"
+            }
+        ],
+        "background": "酒店房间墙壁，暖色调",
+        "description_narrative": "特写镜头，潘瑾辰继续解释药的用途，眼神中流露出对晚晚的关心，背景虚化。",
+        "dialogue": "去买了药，孕妇可以吃的。",
+        "speaker": "潘瑾辰",
+        "emotion": "关切",
+        "duration": 2.72,
+        "description_visual": "特写仰拍镜头；酒店房间墙壁，暖色调；画面中央人物，身穿黑色高领毛衣和黑色长风衣，视线注视前方，嘴唇开合，表情：眉毛微扬，眼神专注，嘴巴闭合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧",
+                "action": "坐在床上，手放在被子上",
+                "expression": "眉毛紧锁，眼神低垂，嘴角下撇"
+            }
+        ],
+        "background": "酒店床头，白色枕头，暖光",
+        "description_narrative": "中近景，晚晚坐在床上，神情忧伤纠结，听到潘瑾辰叫她的名字，目光低垂不敢直视。",
+        "dialogue": "晚晚",
+        "speaker": "潘瑾辰",
+        "emotion": "忧伤",
+        "duration": 2.92,
+        "description_visual": "中近景平拍镜头；酒店床头，白色枕头，暖光；画面左侧人物，身穿白色吊带睡裙，坐在床上，手放在被子上，表情：眉毛紧锁，眼神低垂，嘴角下撇。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "头部微转，深情注视",
+                "expression": "眉毛舒展，眼神坚定，嘴唇微启"
+            }
+        ],
+        "background": "酒店房间，画框，暖光",
+        "description_narrative": "特写镜头，潘瑾辰侧脸对着镜头，眼神坚定地表达不想放手的情感，光线柔和。",
+        "dialogue": "我们都不要放手",
+        "speaker": "潘瑾辰",
+        "emotion": "坚定",
+        "duration": 1.8,
+        "description_visual": "特写仰拍镜头；酒店房间，画框，暖光；画面中央人物，身穿黑色高领毛衣和黑色长风衣，头部微转，深情注视，表情：眉毛舒展，眼神坚定，嘴唇微启。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "视线直视前方，询问",
+                "expression": "眉毛微挑，眼神恳切，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，暖色调背景",
+        "description_narrative": "特写镜头，潘瑾辰继续深情告白，询问晚晚是否愿意一起坚持，表情充满期待。",
+        "dialogue": "我们都不要放手，好吗？",
+        "speaker": "潘瑾辰",
+        "emotion": "恳求",
+        "duration": 4.6,
+        "description_visual": "特写仰拍镜头；酒店房间，暖色调背景；画面中央人物，身穿黑色高领毛衣和黑色长风衣，视线直视前方，询问，表情：眉毛微挑，眼神恳切，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧",
+                "action": "坐在床上，抬头看",
+                "expression": "眉毛微蹙，眼神犹豫，嘴巴微动"
+            }
+        ],
+        "background": "酒店床头，白色床品",
+        "description_narrative": "中近景，晚晚抬头看着潘瑾辰，眼中含泪，犹豫地问出心中的担忧，神情脆弱。",
+        "dialogue": "你不怪我。",
+        "speaker": "晚晚",
+        "emotion": "犹豫",
+        "duration": 3.28,
+        "description_visual": "中近景平拍镜头；酒店床头，白色床品；画面左侧人物，身穿白色吊带睡裙，坐在床上，抬头看，表情：眉毛微蹙，眼神犹豫，嘴巴微动。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "头部微侧，深情诉说",
+                "expression": "眉毛平展，眼神深情，嘴唇微动"
+            }
+        ],
+        "background": "酒店房间，暖光",
+        "description_narrative": "特写镜头，潘瑾辰倾诉内心的想法，强调两人相爱的事实，表情真挚。",
+        "dialogue": "我想了很久，我们明明这么相爱。",
+        "speaker": "潘瑾辰",
+        "emotion": "深情",
+        "duration": 1.44,
+        "description_visual": "特写仰拍镜头；酒店房间，暖光；画面中央人物，身穿黑色高领毛衣和黑色长风衣，头部微侧，深情诉说，表情：眉毛平展，眼神深情，嘴唇微动。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧",
+                "action": "坐在床上，倾听",
+                "expression": "眉毛紧锁，眼神难过，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店床头，暖光",
+        "description_narrative": "中近景，晚晚听着潘瑾辰的话，神情难过，回忆起过去的错过和误会，眼眶微红。",
+        "dialogue": "却总是在错过，在误会。",
+        "speaker": "潘瑾辰",
+        "emotion": "难过",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；酒店床头，暖光；画面左侧人物，身穿白色吊带睡裙，坐在床上，倾听，表情：眉毛紧锁，眼神难过，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "直视前方，表白",
+                "expression": "眉毛舒展，眼神真挚，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，暖色调",
+        "description_narrative": "特写镜头，潘瑾辰直接表达爱意，眼神中充满坚定和温柔，背景虚化。",
+        "dialogue": "我爱你。",
+        "speaker": "潘瑾辰",
+        "emotion": "真挚",
+        "duration": 1.4,
+        "description_visual": "特写仰拍镜头；酒店房间，暖色调；画面中央人物，身穿黑色高领毛衣和黑色长风衣，直视前方，表白，表情：眉毛舒展，眼神真挚，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧",
+                "action": "坐在床上，震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店床头，白色床品",
+        "description_narrative": "中近景，晚晚听到潘瑾辰不介意孩子的父亲，露出震惊和感动的表情，手抓紧被子。",
+        "dialogue": "我不管孩子的父亲是谁。",
+        "speaker": "潘瑾辰",
+        "emotion": "震惊",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；酒店床头，白色床品；画面左侧人物，身穿白色吊带睡裙，坐在床上，震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "注视前方，强调",
+                "expression": "眉毛平展，眼神专注，嘴唇紧闭"
+            }
+        ],
+        "background": "酒店房间，暖光",
+        "description_narrative": "特写镜头，潘瑾辰强调他只想要晚晚，神情专注而执着，光线勾勒侧脸轮廓。",
+        "dialogue": "我只要你。",
+        "speaker": "潘瑾辰",
+        "emotion": "专注",
+        "duration": 1.68,
+        "description_visual": "特写仰拍镜头；酒店房间，暖光；画面中央人物，身穿黑色高领毛衣和黑色长风衣，注视前方，强调，表情：眉毛平展，眼神专注，嘴唇紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧",
+                "action": "坐在床上，感动",
+                "expression": "眉毛舒展，眼神感动，嘴角微扬"
+            }
+        ],
+        "background": "酒店床头，暖光",
+        "description_narrative": "中近景，晚晚被潘瑾辰的话打动，眼中含泪，神情从忧伤转为感动，静静看着他。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "感动",
+        "duration": 5.72,
+        "description_visual": "中近景平拍镜头；酒店床头，暖光；画面左侧人物，身穿白色吊带睡裙，坐在床上，感动，表情：眉毛舒展，眼神感动，嘴角微扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "等待回应，注视",
+                "expression": "眉毛平展，眼神期待，嘴巴微闭"
+            }
+        ],
+        "background": "酒店房间，暖色调",
+        "description_narrative": "特写镜头，潘瑾辰说完深情告白后，静静等待晚晚的回应，眼神中充满期待。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 1.84,
+        "description_visual": "特写仰拍镜头；酒店房间，暖色调；画面中央人物，身穿黑色高领毛衣和黑色长风衣，等待回应，注视，表情：眉毛平展，眼神期待，嘴巴微闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "卫衣男",
+                "gender": "男",
+                "clothing": "黑色印有黄色字母卫衣",
+                "position": "画面左侧",
+                "action": "坐着，抬头看潘瑾辰",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴张开"
+            },
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "前景右侧模糊",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店房间，暖光",
+        "description_narrative": "中近景，卫衣男突然插话，愤怒地质问，身体前倾，表情不满，潘瑾辰背影在前景。",
+        "dialogue": "什么鬼？明明是我先来的。",
+        "speaker": "卫衣男",
+        "emotion": "愤怒",
+        "duration": 3.04,
+        "description_visual": "中近景平拍镜头；酒店房间，暖光；画面左侧人物，身穿黑色印有黄色字母卫衣，坐着，抬头看潘瑾辰，表情：眉毛紧锁，眼神愤怒，嘴巴张开；前景右侧模糊人物，身穿黑色高领毛衣和黑色长风衣，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面右侧",
+                "action": "侧脸，微转头",
+                "expression": "眉毛微挑，眼神冷漠，嘴巴微闭"
+            }
+        ],
+        "background": "酒店房间，画框",
+        "description_narrative": "特写镜头，潘瑾辰侧脸对着镜头，听到卫衣男的称呼，表情冷淡，没有回头。",
+        "dialogue": "潘总",
+        "speaker": "卫衣男",
+        "emotion": "冷漠",
+        "duration": 3.24,
+        "description_visual": "特写侧拍镜头；酒店房间，画框；画面右侧人物，身穿黑色高领毛衣和黑色长风衣，侧脸，微转头，表情：眉毛微挑，眼神冷漠，嘴巴微闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "卫衣男",
+                "gender": "男",
+                "clothing": "黑色印有黄色字母卫衣",
+                "position": "画面左侧",
+                "action": "坐着，讽刺地说话",
+                "expression": "眉毛上扬，眼神讽刺，嘴角微撇"
+            }
+        ],
+        "background": "酒店房间，暖光",
+        "description_narrative": "中近景，卫衣男继续用讽刺的语气感谢潘瑾辰，身体后仰，表情不屑。",
+        "dialogue": "感谢你对晚晚的关心和照顾。",
+        "speaker": "卫衣男",
+        "emotion": "讽刺",
+        "duration": 5.4,
+        "description_visual": "中近景平拍镜头；酒店房间，暖光；画面左侧人物，身穿黑色印有黄色字母卫衣，坐着，讽刺地说话，表情：眉毛上扬，眼神讽刺，嘴角微撇。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面右侧",
+                "action": "侧身站立，倾听",
+                "expression": "眉毛平展，眼神平静，嘴巴微闭"
+            }
+        ],
+        "background": "酒店房间，暖色调",
+        "description_narrative": "特写镜头，潘瑾辰侧身站立，面无表情地听着卫衣男让他离远点的要求。",
+        "dialogue": "从现在开始，麻烦你离她远一点。",
+        "speaker": "卫衣男",
+        "emotion": "严肃",
+        "duration": 3.04,
+        "description_visual": "特写侧拍镜头；酒店房间，暖色调；画面右侧人物，身穿黑色高领毛衣和黑色长风衣，侧身站立，倾听，表情：眉毛平展，眼神平静，嘴巴微闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "卫衣男",
+                "gender": "男",
+                "clothing": "黑色印有黄色字母卫衣",
+                "position": "画面左侧",
+                "action": "手指指向潘瑾辰",
+                "expression": "眉毛紧锁，眼神指责，嘴巴张开"
+            }
+        ],
+        "background": "酒店房间，暖光",
+        "description_narrative": "中近景，卫衣男伸出手指着潘瑾辰，声称会照顾晚晚和孩子，并指责他与苏浅浅的关系。",
+        "dialogue": "她和孩子我都会照顾，你跟那个苏浅浅不清不楚。",
+        "speaker": "卫衣男",
+        "emotion": "指责",
+        "duration": 3.36,
+        "description_visual": "中近景平拍镜头；酒店房间，暖光；画面左侧人物，身穿黑色印有黄色字母卫衣，手指指向潘瑾辰，表情：眉毛紧锁，眼神指责，嘴巴张开。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面右侧",
+                "action": "侧脸，辩解",
+                "expression": "眉毛微蹙，眼神认真，嘴巴微动"
+            }
+        ],
+        "background": "酒店房间，画框",
+        "description_narrative": "特写镜头，潘瑾辰侧脸回应，反问拿什么给幸福，并澄清与苏浅浅没关系，神情认真。",
+        "dialogue": "拿什么给晚晚幸福？我跟她没关系。",
+        "speaker": "潘瑾辰",
+        "emotion": "辩解",
+        "duration": 6.08,
+        "description_visual": "特写侧拍镜头；酒店房间，画框；画面右侧人物，身穿黑色高领毛衣和黑色长风衣，侧脸，辩解，表情：眉毛微蹙，眼神认真，嘴巴微动。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧",
+                "action": "坐在床上，认真说话",
+                "expression": "眉毛平展，眼神认真，嘴巴微张"
+            }
+        ],
+        "background": "酒店床头，暖光",
+        "description_narrative": "中近景，晚晚开口揭露真相，表示知道苏浅浅假怀孕嫁入傅家的事，神情严肃。",
+        "dialogue": "苏浅浅假借怀孕，嫁进傅家我都知道。",
+        "speaker": "晚晚",
+        "emotion": "认真",
+        "duration": 3.52,
+        "description_visual": "中近景平拍镜头；酒店床头，暖光；画面左侧人物，身穿白色吊带睡裙，坐在床上，认真说话，表情：眉毛平展，眼神认真，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "解释原因",
+                "expression": "眉毛舒展，眼神释然，嘴巴微动"
+            }
+        ],
+        "background": "酒店房间，暖色调",
+        "description_narrative": "特写镜头，潘瑾辰解释之前没说的原因是因为欠苏家人情，现在已还清，表情轻松。",
+        "dialogue": "我一直没说是因为我欠他们苏家一个人情，现在人情还清了。",
+        "speaker": "潘瑾辰",
+        "emotion": "释然",
+        "duration": 3.16,
+        "description_visual": "特写仰拍镜头；酒店房间，暖色调；画面中央人物，身穿黑色高领毛衣和黑色长风衣，解释原因，表情：眉毛舒展，眼神释然，嘴巴微动。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "承诺",
+                "expression": "眉毛平展，眼神坚定，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，暖光",
+        "description_narrative": "特写镜头，潘瑾辰保证苏浅浅不会再出现，眼神坚定地看着晚晚，给予承诺。",
+        "dialogue": "我保证以后她都不会出现在你的身边。",
+        "speaker": "潘瑾辰",
+        "emotion": "承诺",
+        "duration": 7.32,
+        "description_visual": "特写仰拍镜头；酒店房间，暖光；画面中央人物，身穿黑色高领毛衣和黑色长风衣，承诺，表情：眉毛平展，眼神坚定，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧",
+                "action": "坐在床上，微笑",
+                "expression": "眉毛舒展，眼神温柔，嘴角上扬"
+            }
+        ],
+        "background": "酒店床头，暖光",
+        "description_narrative": "中近景，晚晚听到潘瑾辰说心里只有她，露出欣慰的微笑，眼神中充满爱意。",
+        "dialogue": "一直都是，我心里面都只有你。",
+        "speaker": "潘瑾辰",
+        "emotion": "微笑",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；酒店床头，暖光；画面左侧人物，身穿白色吊带睡裙，坐在床上，微笑，表情：眉毛舒展，眼神温柔，嘴角上扬。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧",
+                "action": "坐在床上，准备告知秘密",
+                "expression": "眉毛微扬，眼神温柔，嘴巴微动"
+            }
+        ],
+        "background": "酒店床头，暖光",
+        "description_narrative": "中近景，晚晚回应潘瑾辰，并表示自己也有事要告诉他，自己不介意，神情温柔坚定。",
+        "dialogue": "以后也是。瑾辰，其实我也有件事要告诉你，我真的不介意。",
+        "speaker": "晚晚",
+        "emotion": "温柔",
+        "duration": 6.76,
+        "description_visual": "中近景平拍镜头；酒店床头，暖光；画面左侧人物，身穿白色吊带睡裙，坐在床上，准备告知秘密，表情：眉毛微扬，眼神温柔，嘴巴微动。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "潘瑾辰",
+                "gender": "男",
+                "clothing": "黑色高领毛衣和黑色长风衣",
+                "position": "画面中央",
+                "action": "体贴地建议",
+                "expression": "眉毛舒展，眼神温柔，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，暖色调",
+        "description_narrative": "特写镜头，潘瑾辰看时间不早，体贴地让晚晚早点休息，语气温柔。",
+        "dialogue": "时间不早了，早点休息。",
+        "speaker": "潘瑾辰",
+        "emotion": "体贴",
+        "duration": 1.8,
+        "description_visual": "特写仰拍镜头；酒店房间，暖色调；画面中央人物，身穿黑色高领毛衣和黑色长风衣，体贴地建议，表情：眉毛舒展，眼神温柔，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "晚晚",
+                "gender": "女",
+                "clothing": "白色吊带睡裙",
+                "position": "画面左侧",
+                "action": "坐在床上，安心微笑",
+                "expression": "眉毛舒展，眼神安心，嘴角上扬"
+            }
+        ],
+        "background": "酒店床头，暖光",
+        "description_narrative": "中近景，晚晚同意明天去医院，并打算届时告诉卫衣男真相，脸上露出安心的笑容。",
+        "dialogue": "我带你明天去医院检查身体。也好，明天去医院再告诉他真相。",
+        "speaker": "晚晚",
+        "emotion": "安心",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；酒店床头，暖光；画面左侧人物，身穿白色吊带睡裙，坐在床上，安心微笑，表情：眉毛舒展，眼神安心，嘴角上扬。"
+    }
+]

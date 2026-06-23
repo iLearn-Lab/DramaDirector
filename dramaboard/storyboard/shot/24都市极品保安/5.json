@@ -1,0 +1,649 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "紫色调背景，模糊光斑，中央显示银色立体大字标题“都市极品保安”。",
+        "description_narrative": "全景固定镜头，画面中央展示银色立体艺术字标题“都市极品保安”，背景为紫色调模糊光斑，营造都市夜景氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.08,
+        "description_visual": "全景平拍镜头；紫色调背景，模糊光斑，中央显示银色立体大字标题“都市极品保安”。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服，黑色裤子",
+                "position": "画面左侧",
+                "action": "行走，头部转向右侧看着人事部经理",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "人事部经理",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫，黑色西裤，戴眼镜",
+                "position": "画面右侧",
+                "action": "行走，头部转向前方，嘴巴张开说话",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴张开"
+            }
+        ],
+        "background": "室内走廊，米色墙壁，背景有橙色指示牌，光线明亮。",
+        "description_narrative": "中景跟拍镜头，方不凡身穿蓝色保安制服在左侧行走，转头看向右侧的人事部经理；人事部经理穿浅蓝色衬衫戴眼镜，一边行走一边张嘴说话，神情傲慢。",
+        "dialogue": "方不凡我跟你说",
+        "speaker": "人事部经理",
+        "emotion": "傲慢",
+        "duration": 0.88,
+        "description_visual": "中景平拍镜头（跟拍）；室内走廊，米色墙壁，背景有橙色指示牌，光线明亮。；画面左侧人物，身穿蓝色保安制服，黑色裤子，行走，头部转向右侧看着人事部经理，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面右侧人物，身穿浅蓝色衬衫，黑色西裤，戴眼镜，行走，头部转向前方，嘴巴张开说话，表情：眉毛舒展，眼睛看向前方，嘴巴张开。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面中央",
+                "action": "抬起右手食指指向前方",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内走廊背景模糊，可见玻璃门框。",
+        "description_narrative": "近景推进镜头，方不凡身穿蓝色保安制服，神情严肃，抬起右手食指指向前方，似乎在强调什么。",
+        "dialogue": "我跟你说",
+        "speaker": "方不凡",
+        "emotion": "严肃",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头（推进）；室内走廊背景模糊，可见玻璃门框。；画面中央人物，身穿蓝色保安制服，抬起右手食指指向前方，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "人事部经理",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫，黑色西裤",
+                "position": "画面中央",
+                "action": "身体向后仰，右手抬起挥舞",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张"
+            }
+        ],
+        "background": "室内走廊，玻璃门，光线明亮。",
+        "description_narrative": "中近景摇镜，人事部经理身体后仰，表情夸张，右手抬起挥舞，大声宣布开除决定。",
+        "dialogue": "你已经被开除了",
+        "speaker": "人事部经理",
+        "emotion": "嚣张",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头（摇镜）；室内走廊，玻璃门，光线明亮。；画面中央人物，身穿浅蓝色衬衫，黑色西裤，身体向后仰，右手抬起挥舞，表情：眉毛上扬，眼睛眯起，嘴巴大张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面左侧",
+                "action": "身体前倾，双手抓住对方手臂",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴张开争辩"
+            },
+            {
+                "name": "人事部经理",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头，仅露出部分头部和肩膀",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内走廊，玻璃门背景。",
+        "description_narrative": "近景固定镜头，方不凡身体前倾，双手抓住人事部经理的手臂，表情激动地质问，嘴巴张开争辩。",
+        "dialogue": "哎你凭什么开除我呀",
+        "speaker": "方不凡",
+        "emotion": "愤怒",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；室内走廊，玻璃门背景。；画面左侧人物，身穿蓝色保安制服，身体前倾，双手抓住对方手臂，表情：眉毛紧锁，眼睛睁大，嘴巴张开争辩；画面右侧前景人物，身穿浅蓝色衬衫，背对镜头，仅露出部分头部和肩膀，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "人事部经理",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧",
+                "action": "转身背对镜头走开，身体晃动",
+                "expression": "侧脸可见，嘴巴微张"
+            },
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面左侧边缘",
+                "action": "站立，头部转向右侧",
+                "expression": "嘴巴微张，神情错愕"
+            }
+        ],
+        "background": "室内走廊，绿色地面，天花板灯管。",
+        "description_narrative": "中景跟拍镜头，人事部经理转身背对镜头走开，身体晃动，方不凡在左侧边缘站立，转头看着经理离去，神情错愕。",
+        "dialogue": "凭什么苏总是你能招惹的起的",
+        "speaker": "人事部经理",
+        "emotion": "轻蔑",
+        "duration": 2.84,
+        "description_visual": "中景平拍镜头（跟拍）；室内走廊，绿色地面，天花板灯管。；画面右侧人物，身穿浅蓝色衬衫，转身背对镜头走开，身体晃动，表情：侧脸可见，嘴巴微张；画面左侧边缘人物，身穿蓝色保安制服，站立，头部转向右侧，表情：嘴巴微张，神情错愕。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面中央",
+                "action": "站立，头部微转",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内走廊，背景有黄色标识牌。",
+        "description_narrative": "近景固定镜头，方不凡身穿蓝色保安制服，胸前佩戴编号BA0103，神情震惊且困惑，直视前方。",
+        "dialogue": "我要见苏总",
+        "speaker": "方不凡",
+        "emotion": "坚定",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；室内走廊，背景有黄色标识牌。；画面中央人物，身穿蓝色保安制服，站立，头部微转，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "人事部经理",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "抬头大笑，右手伸出指向一侧",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴大张"
+            }
+        ],
+        "background": "室内走廊，天花板灯管，绿色地面。",
+        "description_narrative": "中近景仰拍镜头，人事部经理抬头大笑，表情嘲讽，右手伸出指向一侧，似乎在嘲笑方不凡的想法。",
+        "dialogue": "见苏总",
+        "speaker": "人事部经理",
+        "emotion": "嘲讽",
+        "duration": 2.88,
+        "description_visual": "中近景仰拍镜头；室内走廊，天花板灯管，绿色地面。；画面中央人物，身穿浅蓝色衬衫，抬头大笑，右手伸出指向一侧，表情：眉毛舒展，眼睛眯起笑，嘴巴大张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面左侧",
+                "action": "站立，直视前方",
+                "expression": "眉毛平直，眼睛直视对方，嘴巴紧闭"
+            },
+            {
+                "name": "人事部经理",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头，仅露出后脑勺",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内走廊，天花板灯管。",
+        "description_narrative": "近景过肩镜头，方不凡神情严肃地直视前方的人事部经理，眼神中透露出不屈。",
+        "dialogue": "不撒泡尿照照你自己",
+        "speaker": "人事部经理",
+        "emotion": "侮辱",
+        "duration": 1.24,
+        "description_visual": "近景过肩镜头；室内走廊，天花板灯管。；画面左侧人物，身穿蓝色保安制服，站立，直视前方，表情：眉毛平直，眼睛直视对方，嘴巴紧闭；画面右侧前景人物，身穿浅蓝色衬衫，背对镜头，仅露出后脑勺，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "人事部经理",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "抬头向上看，表情不屑",
+                "expression": "眉毛上扬，眼睛眯起，嘴角下撇"
+            }
+        ],
+        "background": "室内走廊，天花板灯管。",
+        "description_narrative": "近景仰拍镜头，人事部经理抬头向上看，表情极度不屑，嘴角下撇，继续羞辱对方。",
+        "dialogue": "你也配",
+        "speaker": "人事部经理",
+        "emotion": "轻蔑",
+        "duration": 1.24,
+        "description_visual": "近景仰拍镜头；室内走廊，天花板灯管。；画面中央人物，身穿浅蓝色衬衫，抬头向上看，表情不屑，表情：眉毛上扬，眼睛眯起，嘴角下撇。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面中央",
+                "action": "头部微侧，表情愤怒",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "室内停车场，背景有车辆轮廓。",
+        "description_narrative": "近景固定镜头，方不凡表情愤怒，眉毛紧锁，眼睛瞪大，嘴巴张开似乎要反驳，背景可见停车场环境。",
+        "dialogue": "你",
+        "speaker": "方不凡",
+        "emotion": "愤怒",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；室内停车场，背景有车辆轮廓。；画面中央人物，身穿蓝色保安制服，头部微侧，表情愤怒，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "地下停车场，车道上方有指示牌，远处一辆黑色轿车开启大灯驶来。",
+        "description_narrative": "全景固定镜头，地下停车场车道远处，一辆黑色轿车开启明亮的大灯正向镜头方向驶来，灯光在地面形成反射。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "全景平拍镜头；地下停车场，车道上方有指示牌，远处一辆黑色轿车开启大灯驶来。。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "推进",
+        "subjects": [],
+        "background": "地下停车场地面，黑色轿车车头局部。",
+        "description_narrative": "低角度特写推进镜头，黑色轿车车头局部，大灯发出刺眼白光，车轮正在转动，车辆正在靠近。",
+        "dialogue": "啊",
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写低角度镜头（推进）；地下停车场地面，黑色轿车车头局部。。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [],
+        "background": "黑色轿车侧面，银色轮毂。",
+        "description_narrative": "低角度跟拍特写，黑色轿车侧面车身反光，银色多辐轮毂清晰可见，车辆正在缓慢行驶。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "特写低角度镜头（跟拍）；黑色轿车侧面，银色轮毂。。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "白色无袖上衣，戴墨镜",
+                "position": "画面中央",
+                "action": "坐在驾驶座，头部侧向左方",
+                "expression": "墨镜遮挡眼睛，嘴唇涂红色口红，表情冷艳"
+            }
+        ],
+        "background": "车内，紫色氛围灯，车窗玻璃。",
+        "description_narrative": "特写固定镜头，白蔷薇坐在驾驶座，戴着黑色墨镜，侧脸轮廓清晰，佩戴银色耳环，车内紫色氛围灯映照。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷艳",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；车内，紫色氛围灯，车窗玻璃。；画面中央人物，身穿白色无袖上衣，戴墨镜，坐在驾驶座，头部侧向左方，表情：墨镜遮挡眼睛，嘴唇涂红色口红，表情冷艳。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "白色无袖连衣裙",
+                "position": "画面中央",
+                "action": "坐在驾驶座，双手握方向盘",
+                "expression": "墨镜遮挡眼睛，嘴唇微闭，神情专注"
+            }
+        ],
+        "background": "车内，紫色氛围灯，车窗外停车场背景。",
+        "description_narrative": "中近景固定镜头，白蔷薇身穿白色无袖连衣裙，戴着墨镜坐在驾驶座，双手握着方向盘，神情专注地看向前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；车内，紫色氛围灯，车窗外停车场背景。；画面中央人物，身穿白色无袖连衣裙，坐在驾驶座，双手握方向盘，表情：墨镜遮挡眼睛，嘴唇微闭，神情专注。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "裸色高跟鞋",
+                "position": "画面左侧",
+                "action": "右脚伸出车外，脚尖点地",
+                "expression": "不可见"
+            }
+        ],
+        "background": "车内车门下沿，停车场地面。",
+        "description_narrative": "低角度特写固定镜头，白蔷薇穿着裸色高跟鞋的右脚伸出车外，脚尖轻点地面，准备下车。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.16,
+        "description_visual": "特写低角度镜头；车内车门下沿，停车场地面。；画面左侧人物，身穿裸色高跟鞋，右脚伸出车外，脚尖点地，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "白色无袖上衣，戴墨镜",
+                "position": "画面中央",
+                "action": "手扶车门，身体探出",
+                "expression": "墨镜遮挡眼睛，嘴唇微张"
+            }
+        ],
+        "background": "停车场背景模糊。",
+        "description_narrative": "近景摇镜，白蔷薇手扶车门，身体探出车外，画面略有动态模糊，展现下车的动作。",
+        "dialogue": "とんねん。",
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头（摇镜）；停车场背景模糊。；画面中央人物，身穿白色无袖上衣，戴墨镜，手扶车门，身体探出，表情：墨镜遮挡眼睛，嘴唇微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "白色无袖上衣，戴墨镜",
+                "position": "画面中央",
+                "action": "站立，手扶墨镜",
+                "expression": "墨镜遮挡眼睛，嘴唇微闭，神情自信"
+            }
+        ],
+        "background": "停车场背景模糊。",
+        "description_narrative": "近景固定镜头，白蔷薇站立，手扶墨镜，画面右侧出现金色竖排文字“白蔷薇 蔷薇集团总裁”，展现其身份。",
+        "dialogue": "So special.",
+        "speaker": "白蔷薇",
+        "emotion": "自信",
+        "duration": 4.16,
+        "description_visual": "近景平拍镜头；停车场背景模糊。；画面中央人物，身穿白色无袖上衣，戴墨镜，站立，手扶墨镜，表情：墨镜遮挡眼睛，嘴唇微闭，神情自信。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "摘下墨镜，微笑",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角上扬"
+            }
+        ],
+        "background": "停车场背景模糊。",
+        "description_narrative": "近景固定镜头，白蔷薇摘下墨镜，露出精致五官，面带微笑，眼神温柔地看向前方。",
+        "dialogue": "Show what I do.",
+        "speaker": "白蔷薇",
+        "emotion": "温柔",
+        "duration": 2.84,
+        "description_visual": "近景平拍镜头；停车场背景模糊。；画面中央人物，身穿白色无袖上衣，摘下墨镜，微笑，表情：眉毛舒展，眼睛注视前方，嘴角上扬。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "微笑，头部微侧",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            }
+        ],
+        "background": "停车场背景模糊。",
+        "description_narrative": "近景固定镜头，白蔷薇面带微笑，头部微侧，眼神中充满笑意，佩戴银色耳环。",
+        "dialogue": "For you forget about.",
+        "speaker": "白蔷薇",
+        "emotion": "愉悦",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；停车场背景模糊。；画面中央人物，身穿白色无袖上衣，微笑，头部微侧，表情：眉毛舒展，眼睛含笑，嘴角上扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面右侧",
+                "action": "转身，手部动作模糊",
+                "expression": "微笑，嘴巴微张"
+            }
+        ],
+        "background": "停车场背景模糊，有车辆轮廓。",
+        "description_narrative": "近景摇镜，白蔷薇转身，画面略有动态模糊，脸上带着微笑，似乎在与某人互动。",
+        "dialogue": "Got it.",
+        "speaker": "白蔷薇",
+        "emotion": "轻松",
+        "duration": 12.72,
+        "description_visual": "近景平拍镜头（摇镜）；停车场背景模糊，有车辆轮廓。；画面右侧人物，身穿白色无袖上衣，转身，手部动作模糊，表情：微笑，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "人事部经理",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "额头出汗，尴尬微笑",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴咧开笑"
+            }
+        ],
+        "background": "停车场，背景有白色车辆。",
+        "description_narrative": "近景固定镜头，人事部经理额头布满汗珠，表情尴尬地咧开嘴笑，眼神躲闪，显得十分紧张。",
+        "dialogue": "You made this mess up, not get you to, don't you ignore or forget about it. Got you wrong.",
+        "speaker": "人事部经理",
+        "emotion": "紧张",
+        "duration": 2.76,
+        "description_visual": "近景平拍镜头；停车场，背景有白色车辆。；画面中央人物，身穿浅蓝色衬衫，额头出汗，尴尬微笑，表情：眉毛微挑，眼睛看向一侧，嘴巴咧开笑。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面左侧",
+                "action": "注视前方，表情平静",
+                "expression": "眉毛平直，眼睛注视前方，嘴唇微闭"
+            },
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面右侧前景",
+                "action": "背对镜头，肩膀模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "停车场，背景有指示牌灯光。",
+        "description_narrative": "近景固定镜头，白蔷薇注视前方，表情平静温柔，前景是方不凡模糊的蓝色制服肩膀，两人对视。",
+        "dialogue": "思念是苦涩蜜糖。",
+        "speaker": "白蔷薇",
+        "emotion": "深情",
+        "duration": 3.44,
+        "description_visual": "近景平拍镜头；停车场，背景有指示牌灯光。；画面左侧人物，身穿白色无袖上衣，注视前方，表情平静，表情：眉毛平直，眼睛注视前方，嘴唇微闭；画面右侧前景人物，身穿蓝色保安制服，背对镜头，肩膀模糊，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面中央",
+                "action": "低头，眼神向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "停车场，背景模糊。",
+        "description_narrative": "近景固定镜头，方不凡低着头，眼神向下，神情略显羞涩或困惑，胸前编号BA0103清晰可见。",
+        "dialogue": "Get your paws off my toes.",
+        "speaker": "方不凡",
+        "emotion": "羞涩",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；停车场，背景模糊。；画面中央人物，身穿蓝色保安制服，低头，眼神向下，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白蔷薇",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面左侧",
+                "action": "微笑注视前方",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            },
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "停车场，背景有指示牌灯光。",
+        "description_narrative": "近景固定镜头，白蔷薇面带微笑注视前方，眼神温柔，前景是方不凡模糊的蓝色制服背影。",
+        "dialogue": "我却渴望。",
+        "speaker": "白蔷薇",
+        "emotion": "温柔",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；停车场，背景有指示牌灯光。；画面左侧人物，身穿白色无袖上衣，微笑注视前方，表情：眉毛舒展，眼睛含笑，嘴角上扬；画面右侧前景人物，身穿蓝色保安制服，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "蓝色保安制服",
+                "position": "画面中央",
+                "action": "低头，头部微垂",
+                "expression": "眉毛低垂，眼睛闭合或下视，嘴巴紧闭"
+            }
+        ],
+        "background": "停车场，背景模糊。",
+        "description_narrative": "俯拍近景固定镜头，方不凡低着头，神情有些不知所措，似乎在思考或害羞。",
+        "dialogue": "Thank you.",
+        "speaker": "方不凡",
+        "emotion": "感激",
+        "duration": 4.36,
+        "description_visual": "近景俯拍镜头；停车场，背景模糊。；画面中央人物，身穿蓝色保安制服，低头，头部微垂，表情：眉毛低垂，眼睛闭合或下视，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白色背景，无其他细节。",
+        "description_narrative": "全景固定镜头，画面呈现纯白色，无其他视觉元素，作为转场或结束画面。",
+        "dialogue": "神兽殿下就跟人家回去嘛。",
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.08,
+        "description_visual": "全景平拍镜头；纯白色背景，无其他细节。。"
+    }
+]

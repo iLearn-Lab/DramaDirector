@@ -1,0 +1,761 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体。",
+        "description_narrative": "画面全黑，持续3.28秒，无可见人物或动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "身体前倾，抬头看向左前方，嘴巴微张",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张呈说话状"
+            },
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色裙子",
+                "position": "画面右侧背景",
+                "action": "坐在西装男身后，头部微侧看向西装男",
+                "expression": "眉毛舒展，眼睛看向西装男，嘴角闭合"
+            }
+        ],
+        "background": "室内场景，背景有白色树干装饰和黄色叶子，光线明亮。",
+        "description_narrative": "中景镜头，西装男坐在左侧，身体前倾，抬头询问，长发女助理坐在右后方注视着他。",
+        "dialogue": "那是什么事？跟我说说呗。",
+        "speaker": "西装男",
+        "emotion": "好奇",
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；室内场景，背景有白色树干装饰和黄色叶子，光线明亮。；画面左侧人物，身穿黑色西装，白色衬衫，条纹领带，身体前倾，抬头看向左前方，嘴巴微张，表情：眉毛微挑，眼睛注视前方，嘴巴微张呈说话状；画面右侧背景人物，身穿白色荷叶边衬衫，黑色裙子，坐在西装男身后，头部微侧看向西装男，表情：眉毛舒展，眼睛看向西装男，嘴角闭合。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "低头，视线向下，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "纯色浅灰背景，光线柔和。",
+        "description_narrative": "特写镜头，短发女经理低头，神情严肃地汇报情况。",
+        "dialogue": "是这样的，南郊的项目部开始停工了。",
+        "speaker": "短发女经理",
+        "emotion": "焦虑",
+        "duration": 4.84,
+        "description_visual": "特写平拍镜头；纯色浅灰背景，光线柔和。；画面中央人物，身穿黑色西装，白色衬衫，低头，视线向下，嘴唇微动，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "保持坐姿，头部微侧，注视前方",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴闭合"
+            },
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色裙子",
+                "position": "画面右侧背景",
+                "action": "坐在后方，视线向前",
+                "expression": "眉毛舒展，眼睛平视，表情平静"
+            }
+        ],
+        "background": "室内场景，白色树干装饰，光线明亮。",
+        "description_narrative": "中景镜头，西装男和长发女助理坐着倾听，西装男表情专注。",
+        "dialogue": "项目部那边的很多人，都在怀疑。",
+        "speaker": "短发女经理",
+        "emotion": "严肃",
+        "duration": 2.88,
+        "description_visual": "中景平拍镜头；室内场景，白色树干装饰，光线明亮。；画面左侧人物，身穿黑色西装，白色衬衫，条纹领带，保持坐姿，头部微侧，注视前方，表情：眉毛平展，眼睛直视前方，嘴巴闭合；画面右侧背景人物，身穿白色荷叶边衬衫，黑色裙子，坐在后方，视线向前，表情：眉毛舒展，眼睛平视，表情平静。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "抬头直视前方，眉头紧锁",
+                "expression": "眉毛紧蹙，眼睛直视，嘴巴微张说话"
+            }
+        ],
+        "background": "纯色浅灰背景。",
+        "description_narrative": "特写镜头，短发女经理表情担忧，继续汇报员工对苏总能力的质疑。",
+        "dialogue": "苏总到底有没有能力能保证苏氏集团的正常运转？",
+        "speaker": "短发女经理",
+        "emotion": "担忧",
+        "duration": 3.56,
+        "description_visual": "特写平拍镜头；纯色浅灰背景。；画面中央人物，身穿黑色西装，白色衬衫，抬头直视前方，眉头紧锁，表情：眉毛紧蹙，眼睛直视，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "低头，视线向下",
+                "expression": "眉毛微垂，眼睛视线下移，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和。",
+        "description_narrative": "俯拍特写，西装男低头沉思，听着关于人心惶惶的描述。",
+        "dialogue": "现在已经人心惶惶了。",
+        "speaker": "短发女经理",
+        "emotion": "凝重",
+        "duration": 2.4,
+        "description_visual": "特写俯拍镜头；室内背景模糊，光线柔和。；画面中央人物，身穿黑色西装，白色衬衫，条纹领带，低头，视线向下，表情：眉毛微垂，眼睛视线下移，嘴巴闭合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "嘴唇微张，继续说话",
+                "expression": "眉毛紧蹙，眼睛略带焦虑，嘴巴微张"
+            }
+        ],
+        "background": "纯色浅灰背景。",
+        "description_narrative": "特写镜头，短发女经理神情焦急，说明员工正在寻找新公司。",
+        "dialogue": "而且已经有不少人都已经去物色新的公司了。",
+        "speaker": "短发女经理",
+        "emotion": "焦急",
+        "duration": 4.56,
+        "description_visual": "特写平拍镜头；纯色浅灰背景。；画面中央人物，身穿黑色西装，白色衬衫，嘴唇微张，继续说话，表情：眉毛紧蹙，眼睛略带焦虑，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "侧头，嘴巴微张发出声音",
+                "expression": "眉毛微挑，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮。",
+        "description_narrative": "侧拍特写，西装男侧头发出“哦”的声音，似乎理解了情况。",
+        "dialogue": "哦，就是说有人要辞职。",
+        "speaker": "西装男",
+        "emotion": "了然",
+        "duration": 3.52,
+        "description_visual": "特写侧拍镜头；室内背景模糊，光线明亮。；画面中央人物，身穿黑色西装，白色衬衫，条纹领带，侧头，嘴巴微张发出声音，表情：眉毛微挑，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "摇头，表情严肃",
+                "expression": "眉毛紧蹙，眼睛直视，嘴巴微张否认"
+            }
+        ],
+        "background": "纯色浅灰背景。",
+        "description_narrative": "特写镜头，短发女经理否定西装男的说法，强调事情没那么简单。",
+        "dialogue": "不只是辞职那么简单。",
+        "speaker": "短发女经理",
+        "emotion": "严肃",
+        "duration": 2.28,
+        "description_visual": "特写平拍镜头；纯色浅灰背景。；画面中央人物，身穿黑色西装，白色衬衫，摇头，表情严肃，表情：眉毛紧蹙，眼睛直视，嘴巴微张否认。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "抬头看向左前方",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴闭合"
+            },
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色裙子",
+                "position": "画面右侧背景",
+                "action": "坐在后方，视线向前",
+                "expression": "眉毛舒展，眼睛平视，表情平静"
+            }
+        ],
+        "background": "室内场景，白色树干装饰。",
+        "description_narrative": "中景镜头，两人坐着倾听经理讲述项目开始实施时的情况。",
+        "dialogue": "南郊项目刚开始实施的时候。",
+        "speaker": "短发女经理",
+        "emotion": "回忆",
+        "duration": 2.6,
+        "description_visual": "中景平拍镜头；室内场景，白色树干装饰。；画面左侧人物，身穿黑色西装，白色衬衫，条纹领带，抬头看向左前方，表情：眉毛微挑，眼睛注视前方，嘴巴闭合；画面右侧背景人物，身穿白色荷叶边衬衫，黑色裙子，坐在后方，视线向前，表情：眉毛舒展，眼睛平视，表情平静。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "皱眉，讲述往事",
+                "expression": "眉毛紧蹙，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "纯色浅灰背景。",
+        "description_narrative": "特写镜头，短发女经理回忆赵氏集团插手干预的情况。",
+        "dialogue": "那时候赵氏集团就插手干预。",
+        "speaker": "短发女经理",
+        "emotion": "凝重",
+        "duration": 3.08,
+        "description_visual": "特写平拍镜头；纯色浅灰背景。；画面中央人物，身穿黑色西装，白色衬衫，皱眉，讲述往事，表情：眉毛紧蹙，眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "低头思考，双臂交叉",
+                "expression": "眉毛微垂，眼睛视线下移，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景模糊。",
+        "description_narrative": "俯拍特写，西装男低头推测一定有商业间谍。",
+        "dialogue": "我想一定是有商务间谍。",
+        "speaker": "西装男",
+        "emotion": "笃定",
+        "duration": 1.52,
+        "description_visual": "特写俯拍镜头；室内背景模糊。；画面中央人物，身穿黑色西装，白色衬衫，条纹领带，低头思考，双臂交叉，表情：眉毛微垂，眼睛视线下移，嘴巴闭合。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "看着前方，提出请求",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "纯色浅灰背景。",
+        "description_narrative": "特写镜头，短发女经理表示想找苏总商量此事。",
+        "dialogue": "所以想找苏总商量一下。",
+        "speaker": "短发女经理",
+        "emotion": "恳切",
+        "duration": 2.44,
+        "description_visual": "特写平拍镜头；纯色浅灰背景。；画面中央人物，身穿黑色西装，白色衬衫，看着前方，提出请求，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "双臂交叉抱胸，发出哼声",
+                "expression": "眉毛微挑，眼睛看向侧面，嘴角微撇"
+            },
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色裙子",
+                "position": "画面右侧背景",
+                "action": "手持手机，看向西装男",
+                "expression": "眉毛微挑，眼睛看向西装男，嘴巴微张"
+            }
+        ],
+        "background": "室内场景，白色树干装饰。",
+        "description_narrative": "中景镜头，西装男抱胸冷哼一声，长发女助理拿着手机在一旁观看。",
+        "dialogue": "哼。",
+        "speaker": "西装男",
+        "emotion": "不屑",
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头；室内场景，白色树干装饰。；画面左侧人物，身穿黑色西装，白色衬衫，条纹领带，双臂交叉抱胸，发出哼声，表情：眉毛微挑，眼睛看向侧面，嘴角微撇；画面右侧背景人物，身穿白色荷叶边衬衫，黑色裙子，手持手机，看向西装男，表情：眉毛微挑，眼睛看向西装男，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "站起身，身体前倾，手势向下",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张说话"
+            },
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色裙子",
+                "position": "画面右侧背景",
+                "action": "坐在后方，手持手机",
+                "expression": "眉毛舒展，眼睛看向西装男，表情平静"
+            }
+        ],
+        "background": "室内场景，白色树干装饰。",
+        "description_narrative": "低角度镜头，西装男站起身，自信地表示这种小事交给他就行，不用找苏总。",
+        "dialogue": "这种小事交给我就行了，不用去找苏总。",
+        "speaker": "西装男",
+        "emotion": "自信",
+        "duration": 3.4,
+        "description_visual": "中景低角度镜头（跟拍）；室内场景，白色树干装饰。；画面中央人物，身穿黑色西装，白色衬衫，条纹领带，站起身，身体前倾，手势向下，表情：眉毛舒展，眼睛注视前方，嘴巴微张说话；画面右侧背景人物，身穿白色荷叶边衬衫，黑色裙子，坐在后方，手持手机，表情：眉毛舒展，眼睛看向西装男，表情平静。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "抬头，眼神怀疑",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "纯色浅灰背景。",
+        "description_narrative": "特写镜头，短发女经理抬头，怀疑地反问“交给你？”。",
+        "dialogue": "交给你？",
+        "speaker": "短发女经理",
+        "emotion": "怀疑",
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；纯色浅灰背景。；画面中央人物，身穿黑色西装，白色衬衫，抬头，眼神怀疑，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "侧头说话",
+                "expression": "眉毛舒展，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮。",
+        "description_narrative": "侧拍特写，西装男说明要和吴经理一起去。",
+        "dialogue": "我跟吴经理。",
+        "speaker": "西装男",
+        "emotion": "平静",
+        "duration": 1.56,
+        "description_visual": "特写侧拍镜头；室内背景模糊，光线明亮。；画面中央人物，身穿黑色西装，白色衬衫，条纹领带，侧头说话，表情：眉毛舒展，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "侧头倾听",
+                "expression": "眉毛舒展，眼睛看向侧面，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景模糊。",
+        "description_narrative": "侧拍特写，长发女助理倾听西装男说要去一趟项目部。",
+        "dialogue": "去一趟项目部。",
+        "speaker": "西装男",
+        "emotion": "平静",
+        "duration": 1.52,
+        "description_visual": "特写侧拍镜头；室内背景模糊。；画面中央人物，身穿白色荷叶边衬衫，侧头倾听，表情：眉毛舒展，眼睛看向侧面，嘴巴闭合。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "侧头交代事项",
+                "expression": "眉毛微垂，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮。",
+        "description_narrative": "侧拍特写，西装男交代如果苏总找他，就打电话。",
+        "dialogue": "如果苏总找我，给我打电话。",
+        "speaker": "西装男",
+        "emotion": "认真",
+        "duration": 1.56,
+        "description_visual": "特写侧拍镜头；室内背景模糊，光线明亮。；画面中央人物，身穿黑色西装，白色衬衫，条纹领带，侧头交代事项，表情：眉毛微垂，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "抬头应答",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊。",
+        "description_narrative": "侧拍特写，长发女助理抬头答应“嗯”。",
+        "dialogue": "嗯。",
+        "speaker": "长发女助理",
+        "emotion": "顺从",
+        "duration": 1.04,
+        "description_visual": "特写侧拍镜头；室内背景模糊。；画面中央人物，身穿白色荷叶边衬衫，抬头应答，表情：眉毛舒展，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "皱眉质疑",
+                "expression": "眉毛紧蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "纯色浅灰背景。",
+        "description_narrative": "特写镜头，短发女经理质疑西装男的能力。",
+        "dialogue": "哎，你能行吗？",
+        "speaker": "短发女经理",
+        "emotion": "怀疑",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；纯色浅灰背景。；画面中央人物，身穿黑色西装，白色衬衫，皱眉质疑，表情：眉毛紧蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "低头冷哼",
+                "expression": "眉毛微挑，眼睛视线下移，嘴角微撇"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮。",
+        "description_narrative": "侧拍特写，西装男冷哼一声，表示行不行试试就知道。",
+        "dialogue": "哼，行不行试试就知道了。",
+        "speaker": "西装男",
+        "emotion": "自信",
+        "duration": 2.0,
+        "description_visual": "特写侧拍镜头；室内背景模糊，光线明亮。；画面中央人物，身穿黑色西装，白色衬衫，条纹领带，低头冷哼，表情：眉毛微挑，眼睛视线下移，嘴角微撇。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "站立，手插口袋，看向左侧",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴微张"
+            },
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面左侧前景",
+                "action": "侧身站立",
+                "expression": "眉毛微蹙，眼睛看向西装男，表情严肃"
+            },
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色裙子",
+                "position": "画面右侧背景",
+                "action": "坐在后方",
+                "expression": "眉毛舒展，眼睛看向前方，表情平静"
+            }
+        ],
+        "background": "室内场景，白色树干装饰。",
+        "description_narrative": "中景镜头，西装男站立，号召去揪出商务部的间谍。",
+        "dialogue": "走吧，去把商务部的间谍给揪出来。",
+        "speaker": "西装男",
+        "emotion": "果断",
+        "duration": 3.56,
+        "description_visual": "中景平拍镜头；室内场景，白色树干装饰。；画面中央人物，身穿黑色西装，白色衬衫，条纹领带，站立，手插口袋，看向左侧，表情：眉毛舒展，眼睛看向左侧，嘴巴微张；画面左侧前景人物，身穿黑色西装，白色衬衫，侧身站立，表情：眉毛微蹙，眼睛看向西装男，表情严肃；画面右侧背景人物，身穿白色荷叶边衬衫，黑色裙子，坐在后方，表情：眉毛舒展，眼睛看向前方，表情平静。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "侧头说话，提出条件",
+                "expression": "眉毛微蹙，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "纯色浅灰背景。",
+        "description_narrative": "特写镜头，短发女经理同意前往，但要求西装男听她的指挥。",
+        "dialogue": "行吧，不过去了项目处，你得听我的。",
+        "speaker": "短发女经理",
+        "emotion": "严肃",
+        "duration": 2.76,
+        "description_visual": "特写平拍镜头；纯色浅灰背景。；画面中央人物，身穿黑色西装，白色衬衫，侧头说话，提出条件，表情：眉毛微蹙，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "点头答应",
+                "expression": "眉毛舒展，眼睛直视，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮。",
+        "description_narrative": "特写镜头，西装男点头表示没问题。",
+        "dialogue": "没问题。",
+        "speaker": "西装男",
+        "emotion": "自信",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；室内背景模糊，光线明亮。；画面中央人物，身穿黑色西装，白色衬衫，条纹领带，点头答应，表情：眉毛舒展，眼睛直视，嘴巴闭合。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "注视前方",
+                "expression": "眉毛舒展，眼睛直视，嘴巴闭合"
+            }
+        ],
+        "background": "纯色浅灰背景。",
+        "description_narrative": "特写镜头，短发女经理注视前方，画面无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；纯色浅灰背景。；画面中央人物，身穿黑色西装，白色衬衫，注视前方，表情：眉毛舒展，眼睛直视，嘴巴闭合。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧背景",
+                "action": "转身背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "短发女经理",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧前景",
+                "action": "背影模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内场景，白色树干装饰。",
+        "description_narrative": "过肩镜头，西装男转身准备离开，短发女经理在前景。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "中景过肩镜头（跟拍）；室内场景，白色树干装饰。；画面左侧背景人物，身穿黑色西装，转身背对镜头，表情：不可见；画面右侧前景人物，身穿黑色西装，背影模糊，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色裙子",
+                "position": "画面右侧",
+                "action": "坐在长凳上，手持手机",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内场景，白色树干装饰，地面有白色石子。",
+        "description_narrative": "中景镜头，长发女助理坐在长凳上，看着离开的两人。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "好奇",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；室内场景，白色树干装饰，地面有白色石子。；画面右侧人物，身穿白色荷叶边衬衫，黑色裙子，坐在长凳上，手持手机，表情：眉毛舒展，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "手持手机，说话",
+                "expression": "眉毛舒展，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊。",
+        "description_narrative": "侧拍特写，长发女助理手持手机，说“走吧”。",
+        "dialogue": "走吧。",
+        "speaker": "长发女助理",
+        "emotion": "轻松",
+        "duration": 0.76,
+        "description_visual": "特写侧拍镜头；室内背景模糊。；画面中央人物，身穿白色荷叶边衬衫，手持手机，说话，表情：眉毛舒展，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "长发女助理",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "手持手机，微笑",
+                "expression": "眉毛舒展，眼睛看向侧面，嘴角上扬"
+            }
+        ],
+        "background": "室内背景模糊。",
+        "description_narrative": "侧拍特写，长发女助理面带微笑，画面无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愉悦",
+        "duration": 0.76,
+        "description_visual": "特写侧拍镜头；室内背景模糊。；画面中央人物，身穿白色荷叶边衬衫，手持手机，微笑，表情：眉毛舒展，眼睛看向侧面，嘴角上扬。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景，无可见物体。",
+        "description_narrative": "画面全白，持续3.44秒，无可见人物或动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.44,
+        "description_visual": "全景平拍镜头；纯白背景，无可见物体。。"
+    }
+]

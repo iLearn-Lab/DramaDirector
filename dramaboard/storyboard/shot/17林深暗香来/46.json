@@ -1,0 +1,952 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "浅灰色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "双手拿着文件夹，低头看着文件",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室场景，背景有沙发和窗户，光线明亮",
+        "description_narrative": "中景固定镜头，助理身穿浅灰色西装站在办公桌前，双手拿着文件夹低头查看，神情专注严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；办公室场景，背景有沙发和窗户，光线明亮；画面中央人物，身穿浅灰色西装，白色衬衫，双手拿着文件夹，低头看着文件，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面左侧背景",
+                "action": "站立，双手交握在身前，低头",
+                "expression": "眉毛微垂，眼睛下视，嘴唇微抿"
+            },
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面左前景",
+                "action": "伸手递出文件夹",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室书架背景，光线柔和",
+        "description_narrative": "过肩镜头，语墨身穿蓝色开衫站在后方，神情担忧地低头，前景中助理的手将文件夹递给桌后的人。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景过肩镜头；办公室书架背景，光线柔和；画面左侧背景人物，身穿浅蓝色长款针织开衫，黑色高领衫，站立，双手交握在身前，低头，表情：眉毛微垂，眼睛下视，嘴唇微抿；画面左前景人物，身穿浅灰色西装，伸手递出文件夹，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "深灰色西装三件套，黑色衬衫领带",
+                "position": "画面中央",
+                "action": "坐在椅子上，手持文件阅读",
+                "expression": "眉毛舒展，眼睛注视文件，嘴巴微闭"
+            }
+        ],
+        "background": "办公室办公桌，有文件和蓝色文件夹",
+        "description_narrative": "近景固定镜头，秦总身穿深灰色西装坐在办公桌后，手持文件仔细阅读，神情严肃。",
+        "dialogue": "我已经查过了，范岩和刘珊珊小姐。",
+        "speaker": "秦总",
+        "emotion": "严肃",
+        "duration": 2.44,
+        "description_visual": "近景平拍镜头；办公室办公桌，有文件和蓝色文件夹；画面中央人物，身穿深灰色西装三件套，黑色衬衫领带，坐在椅子上，手持文件阅读，表情：眉毛舒展，眼睛注视文件，嘴巴微闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "低头倾听",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨低头倾听，神情略显沉重，长发垂在肩前。",
+        "dialogue": "范岩和刘珊珊小姐",
+        "speaker": "秦总",
+        "emotion": "担忧",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，低头倾听，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "微微抬头，眼神闪烁",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨听到消息后微微抬头，眼神中流露出惊讶和疑惑。",
+        "dialogue": "之前就是情侣关系",
+        "speaker": "秦总",
+        "emotion": "惊讶",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，微微抬头，眼神闪烁，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "摇头，嘴巴张开说话",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨难以置信地摇头，嘴巴微张表示质疑。",
+        "dialogue": "怎么可能",
+        "speaker": "语墨",
+        "emotion": "震惊",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，摇头，嘴巴张开说话，表情：眉毛紧蹙，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，牛仔裤",
+                "position": "画面左侧",
+                "action": "站立，身体微侧，看向桌后",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "办公室书架背景",
+        "description_narrative": "中景镜头，语墨站在办公桌旁，身体微侧，神情困惑地看着桌后的人。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "困惑",
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；办公室书架背景；画面左侧人物，身穿浅蓝色长款针织开衫，牛仔裤，站立，身体微侧，看向桌后，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "侧头说话",
+                "expression": "眉毛微扬，眼睛看向侧面，嘴巴张开"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨侧头解释，神情急切，为朋友辩护。",
+        "dialogue": "珊珊从来没跟我说过。",
+        "speaker": "语墨",
+        "emotion": "急切",
+        "duration": 2.48,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，侧头说话，表情：眉毛微扬，眼睛看向侧面，嘴巴张开。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "不可见",
+                "position": "画面下方",
+                "action": "手持文件展示",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公桌桌面，有蓝色文件夹",
+        "description_narrative": "俯拍特写，一双手拿着两份资料，分别是刘珊珊和范岩的照片及信息。",
+        "dialogue": "肯定是范岩",
+        "speaker": "语墨",
+        "emotion": "笃定",
+        "duration": 1.28,
+        "description_visual": "特写俯拍镜头；办公桌桌面，有蓝色文件夹；画面下方人物，身穿不可见，手持文件展示，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "浅灰色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "站立，低头看向桌后",
+                "expression": "眉毛平展，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "办公室场景，背景有沙发",
+        "description_narrative": "中景镜头，助理站在桌前，低头向秦总汇报情况，神情认真。",
+        "dialogue": "单方面骚扰珊珊。",
+        "speaker": "助理",
+        "emotion": "认真",
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头；办公室场景，背景有沙发；画面中央人物，身穿浅灰色西装，白色衬衫，站立，低头看向桌后，表情：眉毛平展，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "深灰色西装三件套，黑色衬衫领带",
+                "position": "画面中央",
+                "action": "低头翻阅文件",
+                "expression": "眉毛微蹙，眼睛注视文件，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室办公桌",
+        "description_narrative": "近景镜头，秦总低头翻阅桌上的文件，神情专注，正在核实信息。",
+        "dialogue": "我已经查清楚了",
+        "speaker": "秦总",
+        "emotion": "专注",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；办公室办公桌；画面中央人物，身穿深灰色西装三件套，黑色衬衫领带，低头翻阅文件，表情：眉毛微蹙，眼睛注视文件，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "不可见",
+                "position": "画面右侧",
+                "action": "手指指向照片",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公桌桌面，有文件和鼠标",
+        "description_narrative": "俯拍特写，一只手拿起一张范岩的照片，放在资料上方。",
+        "dialogue": "范岩跟刘珊珊小姐。",
+        "speaker": "秦总",
+        "emotion": "冷静",
+        "duration": 1.36,
+        "description_visual": "特写俯拍镜头；办公桌桌面，有文件和鼠标；画面右侧人物，身穿不可见，手指指向照片，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "直视前方，眼神震惊",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨听到真相后瞪大眼睛，神情震惊，无法接受事实。",
+        "dialogue": "去年就已经在一起了",
+        "speaker": "秦总",
+        "emotion": "震惊",
+        "duration": 4.72,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，直视前方，眼神震惊，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "不可见",
+                "position": "画面中央",
+                "action": "双手翻看照片",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公桌桌面，有文件和鼠标",
+        "description_narrative": "俯拍特写，双手拿着几张刘珊珊的照片，正在翻看。",
+        "dialogue": "那珊珊为什么会突然和一个五十岁的老男人在一起？",
+        "speaker": "语墨",
+        "emotion": "疑惑",
+        "duration": 1.88,
+        "description_visual": "特写俯拍镜头；办公桌桌面，有文件和鼠标；画面中央人物，身穿不可见，双手翻看照片，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "直视前方，提出假设",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨眉头紧锁，提出自己的猜测，神情担忧。",
+        "dialogue": "难道是范岩逼着她这么做的？",
+        "speaker": "语墨",
+        "emotion": "担忧",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，直视前方，提出假设，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，牛仔裤",
+                "position": "画面左侧",
+                "action": "转身准备离开",
+                "expression": "眉毛紧蹙，眼睛坚定，嘴巴微张"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "深灰色西装",
+                "position": "画面右侧",
+                "action": "坐着看文件",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室场景",
+        "description_narrative": "中景镜头，语墨决定亲自去问清楚，转身准备离开办公室。",
+        "dialogue": "不行，我要去问清楚。",
+        "speaker": "语墨",
+        "emotion": "坚决",
+        "duration": 5.4,
+        "description_visual": "中景平拍镜头；办公室场景；画面左侧人物，身穿浅蓝色长款针织开衫，牛仔裤，转身准备离开，表情：眉毛紧蹙，眼睛坚定，嘴巴微张；画面右侧人物，身穿深灰色西装，坐着看文件，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "不可见",
+                "position": "画面中央",
+                "action": "手持一张合影照片",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公桌桌面",
+        "description_narrative": "俯拍特写，手中拿着一张范岩和刘珊珊的亲密合影。",
+        "dialogue": "秦总，我有事，我先走了。",
+        "speaker": "语墨",
+        "emotion": "急切",
+        "duration": 1.88,
+        "description_visual": "特写俯拍镜头；办公桌桌面；画面中央人物，身穿不可见，手持一张合影照片，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "深灰色西装三件套，黑色衬衫领带",
+                "position": "画面中央",
+                "action": "手持纸张阅读",
+                "expression": "眉毛微蹙，眼睛注视纸张，嘴巴微张"
+            }
+        ],
+        "background": "办公室办公桌",
+        "description_narrative": "近景镜头，秦总看着手中的资料，似乎发现了新的线索。",
+        "dialogue": "刘珊珊前",
+        "speaker": "秦总",
+        "emotion": "疑惑",
+        "duration": 2.72,
+        "description_visual": "近景平拍镜头；办公室办公桌；画面中央人物，身穿深灰色西装三件套，黑色衬衫领带，手持纸张阅读，表情：眉毛微蹙，眼睛注视纸张，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "深灰色西装三件套，黑色衬衫领带",
+                "position": "画面中央",
+                "action": "抬头，眼神惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "特写镜头，秦总看到照片后露出惊讶的表情，似乎认出了照片中的人。",
+        "dialogue": "男友居然是他",
+        "speaker": "秦总",
+        "emotion": "震惊",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；办公室背景；画面中央人物，身穿深灰色西装三件套，黑色衬衫领带，抬头，眼神惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "灰色西装三件套，白色衬衫",
+                "position": "画面中央",
+                "action": "坐在办公桌后，抬头看",
+                "expression": "眉毛微扬，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "办公室书架背景，有白色小熊摆件",
+        "description_narrative": "中景镜头，浩然坐在办公桌后，看到有人进来，抬头打招呼。",
+        "dialogue": "语墨",
+        "speaker": "浩然",
+        "emotion": "惊讶",
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；办公室书架背景，有白色小熊摆件；画面中央人物，身穿灰色西装三件套，白色衬衫，坐在办公桌后，抬头看，表情：眉毛微扬，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，看着对方",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "办公室门口",
+        "description_narrative": "中近景镜头，语墨站在办公桌前，神情焦急地看着浩然。",
+        "dialogue": "你怎么来了？",
+        "speaker": "浩然",
+        "emotion": "疑惑",
+        "duration": 4.08,
+        "description_visual": "中近景平拍镜头；办公室门口；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，站立，看着对方，表情：眉毛微蹙，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "灰色西装三件套，白色衬衫",
+                "position": "画面中央",
+                "action": "看着对方，倾听",
+                "expression": "眉毛平展，眼睛注视对方，嘴巴微闭"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "特写镜头，浩然看着语墨，认真倾听她的问题。",
+        "dialogue": "浩然，那个珊珊男朋友的事情，你查的怎么样了？",
+        "speaker": "语墨",
+        "emotion": "焦急",
+        "duration": 4.64,
+        "description_visual": "特写平拍镜头；办公室背景；画面中央人物，身穿灰色西装三件套，白色衬衫，看着对方，倾听，表情：眉毛平展，眼睛注视对方，嘴巴微闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "倾听，神情担忧",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨紧张地等待浩然的回答，神情担忧。",
+        "dialogue": "我正准备",
+        "speaker": "浩然",
+        "emotion": "严肃",
+        "duration": 5.8,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，倾听，神情担忧，表情：眉毛微蹙，眼睛注视对方，嘴巴微闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "灰色西装三件套，白色衬衫",
+                "position": "画面中央",
+                "action": "说话，神情严肃",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张开"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "特写镜头，浩然向语墨汇报调查结果，神情凝重。",
+        "dialogue": "所有的信息都查不到",
+        "speaker": "浩然",
+        "emotion": "凝重",
+        "duration": 4.4,
+        "description_visual": "特写平拍镜头；办公室背景；画面中央人物，身穿灰色西装三件套，白色衬衫，说话，神情严肃，表情：眉毛微蹙，眼睛注视前方，嘴巴张开。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "倾听，神情震惊",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨听到查不到信息后，露出震惊的表情。",
+        "dialogue": "不仅是他，就连珊珊的信息也被强行封锁了，怎么会这样？",
+        "speaker": "浩然",
+        "emotion": "困惑",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，倾听，神情震惊，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "灰色西装三件套，白色衬衫",
+                "position": "画面中央",
+                "action": "站立，分析情况",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张开"
+            }
+        ],
+        "background": "办公室书架背景",
+        "description_narrative": "中近景镜头，浩然站着分析情况，提出两种可能性。",
+        "dialogue": "不清楚，不过有两种可能。",
+        "speaker": "浩然",
+        "emotion": "分析",
+        "duration": 2.84,
+        "description_visual": "中近景平拍镜头；办公室书架背景；画面中央人物，身穿灰色西装三件套，白色衬衫，站立，分析情况，表情：眉毛微蹙，眼睛注视前方，嘴巴张开。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "倾听，神情紧张",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨紧张地听着浩然的分析，眉头紧锁。",
+        "dialogue": "要么",
+        "speaker": "浩然",
+        "emotion": "严肃",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，倾听，神情紧张，表情：眉毛微蹙，眼睛注视对方，嘴巴微闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "灰色西装三件套，白色衬衫",
+                "position": "画面中央",
+                "action": "说话，解释第一种可能",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴张开"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "特写镜头，浩然解释第一种可能性，神情严肃。",
+        "dialogue": "就是这个人的身份地位太高。",
+        "speaker": "浩然",
+        "emotion": "严肃",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；办公室背景；画面中央人物，身穿灰色西装三件套，白色衬衫，说话，解释第一种可能，表情：眉毛平展，眼睛注视前方，嘴巴张开。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "倾听，神情担忧",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨低头思考，神情愈发担忧。",
+        "dialogue": "要么",
+        "speaker": "浩然",
+        "emotion": "严肃",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，倾听，神情担忧，表情：眉毛微蹙，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "灰色西装三件套，白色衬衫",
+                "position": "画面中央",
+                "action": "说话，解释第二种可能",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张开"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "特写镜头，浩然解释第二种可能性，神情凝重。",
+        "dialogue": "就是她男朋友",
+        "speaker": "浩然",
+        "emotion": "凝重",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；办公室背景；画面中央人物，身穿灰色西装三件套，白色衬衫，说话，解释第二种可能，表情：眉毛微蹙，眼睛注视前方，嘴巴张开。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "倾听，神情震惊",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨听到涉及刑事案件后，露出震惊的表情。",
+        "dialogue": "涉嫌刑事案件。",
+        "speaker": "浩然",
+        "emotion": "震惊",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，倾听，神情震惊，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "灰色西装三件套，白色衬衫",
+                "position": "画面中央",
+                "action": "说话，补充信息",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张开"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "特写镜头，浩然继续补充信息，神情严肃。",
+        "dialogue": "就连珊珊",
+        "speaker": "浩然",
+        "emotion": "严肃",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；办公室背景；画面中央人物，身穿灰色西装三件套，白色衬衫，说话，补充信息，表情：眉毛微蹙，眼睛注视前方，嘴巴张开。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色长款针织开衫，黑色高领衫",
+                "position": "画面中央",
+                "action": "倾听，神情担忧",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，语墨听到珊珊也牵涉其中，神情更加担忧。",
+        "dialogue": "也牵涉其中。",
+        "speaker": "浩然",
+        "emotion": "担忧",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝色长款针织开衫，黑色高领衫，倾听，神情担忧，表情：眉毛紧蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "深灰色西装三件套，黑色衬衫领带",
+                "position": "画面中央",
+                "action": "坐在椅子上，闭眼思考",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室背景，光线柔和",
+        "description_narrative": "近景镜头，秦总靠在椅背上闭目沉思，似乎在消化刚才的信息。",
+        "dialogue": "秦总",
+        "speaker": "助理",
+        "emotion": "沉思",
+        "duration": 4.52,
+        "description_visual": "近景平拍镜头；办公室背景，光线柔和；画面中央人物，身穿深灰色西装三件套，黑色衬衫领带，坐在椅子上，闭眼思考，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "浅灰色西装，白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在桌沿，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视秦总，嘴巴张开"
+            }
+        ],
+        "background": "办公室办公桌，有大象摆件",
+        "description_narrative": "中景镜头，助理坐在桌沿，身体前倾向秦总进言。",
+        "dialogue": "我看那刘珊珊小姐",
+        "speaker": "助理",
+        "emotion": "怀疑",
+        "duration": 2.64,
+        "description_visual": "中景平拍镜头；办公室办公桌，有大象摆件；画面左侧人物，身穿浅灰色西装，白色衬衫，坐在桌沿，身体前倾，表情：眉毛微蹙，眼睛注视秦总，嘴巴张开。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "深灰色西装三件套，黑色衬衫领带",
+                "position": "画面中央",
+                "action": "睁眼，看向助理",
+                "expression": "眉毛微挑，眼睛注视助理，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "近景镜头，秦总睁开眼看向助理，等待他继续说下去。",
+        "dialogue": "心思也不像表面这么单纯。",
+        "speaker": "助理",
+        "emotion": "怀疑",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；办公室背景；画面中央人物，身穿深灰色西装三件套，黑色衬衫领带，睁眼，看向助理，表情：眉毛微挑，眼睛注视助理，嘴巴紧闭。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装套裙",
+                "position": "画面左侧门口",
+                "action": "推门进入",
+                "expression": "眉毛微扬，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "办公室门口，有装饰摆件",
+        "description_narrative": "全景镜头，一名黑衣女子突然推门进入办公室，神情坚定。",
+        "dialogue": "说不定景山酒店那一晚，就是她联合宏宇集团设计您的。",
+        "speaker": "助理",
+        "emotion": "笃定",
+        "duration": 0.92,
+        "description_visual": "全景平拍镜头；办公室门口，有装饰摆件；画面左侧门口人物，身穿黑色西装套裙，推门进入，表情：眉毛微扬，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "浅灰色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "回头看向门口",
+                "expression": "眉毛微挑，眼睛看向后方，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "中近景镜头，助理听到声音回头看向门口，神情惊讶。",
+        "dialogue": "不行。",
+        "speaker": "黑衣女子",
+        "emotion": "惊讶",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；办公室背景；画面中央人物，身穿浅灰色西装，白色衬衫，回头看向门口，表情：眉毛微挑，眼睛看向后方，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装套裙，金色胸针",
+                "position": "画面中央",
+                "action": "站立，说话",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张开"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "近景镜头，黑衣女子走进办公室，直接说出惊人言论。",
+        "dialogue": "我怀了你的孩子，你不能赶我走。",
+        "speaker": "黑衣女子",
+        "emotion": "坚定",
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；办公室背景；画面中央人物，身穿黑色西装套裙，金色胸针，站立，说话，表情：眉毛微蹙，眼睛注视前方，嘴巴张开。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "深灰色西装",
+                "position": "画面中央",
+                "action": "抬头，震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "特写镜头，秦总听到消息后震惊地抬头，画面略显模糊表现冲击感。",
+        "dialogue": "什么",
+        "speaker": "秦总",
+        "emotion": "震惊",
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；模糊的办公室背景；画面中央人物，身穿深灰色西装，抬头，震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "画面渐白，剧情在震惊中戛然而止。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "全景平拍镜头；白色屏幕。"
+    }
+]

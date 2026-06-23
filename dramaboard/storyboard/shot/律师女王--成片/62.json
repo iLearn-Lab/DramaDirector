@@ -1,0 +1,940 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色警服",
+                "position": "画面左侧，铁栏后",
+                "action": "站立，双手插兜",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            },
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面右侧，审讯椅上",
+                "action": "坐着，双手被铐在椅子扶手上",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴闭合"
+            }
+        ],
+        "background": "审讯室，铁栏杆分隔空间，冷色调灯光",
+        "description_narrative": "全景镜头，审讯室内，警察站在铁栏后，秦迦坐在审讯椅上，双手被铐。警察开口说话。",
+        "dialogue": "请讲。",
+        "speaker": "警察",
+        "emotion": "严肃",
+        "duration": 1.24,
+        "description_visual": "全景平拍镜头；审讯室，铁栏杆分隔空间，冷色调灯光；画面左侧，铁栏后人物，身穿深色警服，站立，双手插兜，表情：眉毛微蹙，眼睛直视前方，嘴巴微张；画面右侧，审讯椅上人物，身穿白色西装外套，坐着，双手被铐在椅子扶手上，表情：眉毛舒展，眼睛看向左侧，嘴巴闭合。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "坐着，头部微低",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "审讯室背景，模糊",
+        "description_narrative": "近景镜头，秦迦低着头，神情忧虑，倾听警察的问话。",
+        "dialogue": "上次他离开以后，我问你的问题。",
+        "speaker": "警察",
+        "emotion": "忧虑",
+        "duration": 2.82,
+        "description_visual": "近景平拍镜头；审讯室背景，模糊；画面中央人物，身穿白色西装外套，坐着，头部微低，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色警服",
+                "position": "画面中央，铁栏后",
+                "action": "站立，身体微前倾",
+                "expression": "眉毛紧锁，眼睛透过眼镜注视，嘴巴微张"
+            }
+        ],
+        "background": "铁栏杆前景，审讯室背景",
+        "description_narrative": "近景镜头，警察透过铁栏杆，表情严肃地追问秦迦。",
+        "dialogue": "我想再问一遍，我能相信他吗？他可是温书华的儿子。",
+        "speaker": "警察",
+        "emotion": "严肃",
+        "duration": 4.64,
+        "description_visual": "近景平拍镜头；铁栏杆前景，审讯室背景；画面中央，铁栏后人物，身穿深色警服，站立，身体微前倾，表情：眉毛紧锁，眼睛透过眼镜注视，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "坐着，闭眼片刻后睁开",
+                "expression": "眉毛微蹙，眼睛闭合后睁开，嘴巴微张"
+            }
+        ],
+        "background": "审讯室背景",
+        "description_narrative": "近景镜头，秦迦听到“温书华的儿子”后，闭眼思考，神情复杂。",
+        "dialogue": "我不知道，这一切都只是我们的猜测。",
+        "speaker": "秦迦",
+        "emotion": "纠结",
+        "duration": 4.36,
+        "description_visual": "近景平拍镜头；审讯室背景；画面中央人物，身穿白色西装外套，坐着，闭眼片刻后睁开，表情：眉毛微蹙，眼睛闭合后睁开，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "坐着，抬头",
+                "expression": "眉毛微扬，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "审讯室背景",
+        "description_narrative": "近景镜头，秦迦抬头，语气坚定地表达自己的立场。",
+        "dialogue": "但是在真凶还没有出来之前。",
+        "speaker": "秦迦",
+        "emotion": "坚定",
+        "duration": 2.34,
+        "description_visual": "近景平拍镜头；审讯室背景；画面中央人物，身穿白色西装外套，坐着，抬头，表情：眉毛微扬，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色警服",
+                "position": "画面中央，铁栏后",
+                "action": "站立，闭眼叹气",
+                "expression": "眉毛紧锁，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "铁栏杆前景",
+        "description_narrative": "近景镜头，警察闭上眼睛，似乎对秦迦的回答感到无奈。",
+        "dialogue": "我会选择一直相信我师傅。",
+        "speaker": "秦迦",
+        "emotion": "无奈",
+        "duration": 2.22,
+        "description_visual": "近景平拍镜头；铁栏杆前景；画面中央，铁栏后人物，身穿深色警服，站立，闭眼叹气，表情：眉毛紧锁，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色警服",
+                "position": "画面中央，铁栏后",
+                "action": "站立，睁眼注视",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "铁栏杆前景",
+        "description_narrative": "近景镜头，警察睁开眼，继续用言语施压。",
+        "dialogue": "秦迦，你别忘了，你上次被抓进来，是谁报的警。",
+        "speaker": "警察",
+        "emotion": "试探",
+        "duration": 3.04,
+        "description_visual": "近景平拍镜头；铁栏杆前景；画面中央，铁栏后人物，身穿深色警服，站立，睁眼注视，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "坐着，眼神疑惑",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "审讯室背景",
+        "description_narrative": "近景镜头，秦迦听到“报警人”一词，露出疑惑的神情。",
+        "dialogue": "那报警人，不是还没有查到吗？",
+        "speaker": "秦迦",
+        "emotion": "疑惑",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；审讯室背景；画面中央人物，身穿白色西装外套，坐着，眼神疑惑，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色警服",
+                "position": "画面左侧，铁栏后",
+                "action": "站立，沉默",
+                "expression": "眉毛平展，眼睛注视，嘴巴闭合"
+            },
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面右侧",
+                "action": "坐着，等待回答",
+                "expression": "眉毛微蹙，眼睛注视警察，嘴巴闭合"
+            }
+        ],
+        "background": "审讯室全景",
+        "description_narrative": "全景镜头，两人对视，气氛紧张，警察沉默不语。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；审讯室全景；画面左侧，铁栏后人物，身穿深色警服，站立，沉默，表情：眉毛平展，眼睛注视，嘴巴闭合；画面右侧人物，身穿白色西装外套，坐着，等待回答，表情：眉毛微蹙，眼睛注视警察，嘴巴闭合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色警服",
+                "position": "画面中央，铁栏后",
+                "action": "站立，侧头",
+                "expression": "眉毛微蹙，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "铁栏杆前景",
+        "description_narrative": "近景镜头，警察侧头，继续揭露线索。",
+        "dialogue": "当时你和李晨，一群人的位置。",
+        "speaker": "警察",
+        "emotion": "严肃",
+        "duration": 2.54,
+        "description_visual": "近景平拍镜头；铁栏杆前景；画面中央，铁栏后人物，身穿深色警服，站立，侧头，表情：眉毛微蹙，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "坐着，低头",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴闭合"
+            }
+        ],
+        "background": "审讯室背景",
+        "description_narrative": "近景镜头，秦迦低头沉思，似乎在回忆当时的情况。",
+        "dialogue": "除了你们，没有人知道。",
+        "speaker": "警察",
+        "emotion": "沉思",
+        "duration": 2.48,
+        "description_visual": "近景平拍镜头；审讯室背景；画面中央人物，身穿白色西装外套，坐着，低头，表情：眉毛微蹙，眼睛视线下移，嘴巴闭合。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色警服",
+                "position": "画面中央，铁栏后",
+                "action": "站立，直视",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "铁栏杆前景",
+        "description_narrative": "近景镜头，警察目光锐利，指出关键人物温羡。",
+        "dialogue": "只有给你装了定位，并且当晚跟温书华，吃饭的温羡知道。",
+        "speaker": "警察",
+        "emotion": "锐利",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；铁栏杆前景；画面中央，铁栏后人物，身穿深色警服，站立，直视，表情：眉毛紧锁，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "坐着，眼神波动",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "审讯室背景",
+        "description_narrative": "近景镜头，秦迦听到温羡的名字，眼神中闪过一丝波动。",
+        "dialogue": "那也不能证明，就是我师傅啊，你有证据吗？",
+        "speaker": "秦迦",
+        "emotion": "波动",
+        "duration": 4.06,
+        "description_visual": "近景平拍镜头；审讯室背景；画面中央人物，身穿白色西装外套，坐着，眼神波动，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色警服",
+                "position": "画面左侧",
+                "action": "站立，转身",
+                "expression": "眉毛平展，眼睛看向别处，嘴巴闭合"
+            },
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面右侧",
+                "action": "坐着，注视警察",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "审讯室全景",
+        "description_narrative": "全景镜头，警察转身准备离开，留下秦迦在椅子上。",
+        "dialogue": "明天的审讯正常进行。",
+        "speaker": "警察",
+        "emotion": "冷漠",
+        "duration": 3.6,
+        "description_visual": "全景平拍镜头；审讯室全景；画面左侧人物，身穿深色警服，站立，转身，表情：眉毛平展，眼睛看向别处，嘴巴闭合；画面右侧人物，身穿白色西装外套，坐着，注视警察，表情：眉毛微蹙，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色警服",
+                "position": "画面中央",
+                "action": "站立，闭眼",
+                "expression": "眉毛紧锁，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "铁栏杆前景",
+        "description_narrative": "近景镜头，警察闭眼，似乎在思考下一步计划。",
+        "dialogue": "现在，就看温羡的了。",
+        "speaker": "警察",
+        "emotion": "思考",
+        "duration": 2.7,
+        "description_visual": "近景平拍镜头；铁栏杆前景；画面中央人物，身穿深色警服，站立，闭眼，表情：眉毛紧锁，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "坐着，眼神坚定",
+                "expression": "眉毛微扬，眼睛直视前方，嘴巴闭合"
+            }
+        ],
+        "background": "审讯室背景",
+        "description_narrative": "近景镜头，秦迦眼神坚定，似乎在心中默默信任温羡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "坚定",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；审讯室背景；画面中央人物，身穿白色西装外套，坐着，眼神坚定，表情：眉毛微扬，眼睛直视前方，嘴巴闭合。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "高楼大厦，蓝天",
+        "description_narrative": "远景仰拍镜头，展示温书华家餐厅所在的高楼，转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "远景仰拍镜头；高楼大厦，蓝天。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温书华",
+                "gender": "男",
+                "clothing": "蓝色衬衫",
+                "position": "画面右侧，沙发上",
+                "action": "坐着，看手机",
+                "expression": "眉毛平展，眼睛看手机，嘴巴闭合"
+            },
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面背景，门口",
+                "action": "站立，进入房间",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "现代客厅，白色沙发，茶几",
+        "description_narrative": "全景镜头，温书华坐在沙发上看手机，温羡从门口匆忙进入。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.54,
+        "description_visual": "全景平拍镜头；现代客厅，白色沙发，茶几；画面右侧，沙发上人物，身穿蓝色衬衫，坐着，看手机，表情：眉毛平展，眼睛看手机，嘴巴闭合；画面背景，门口人物，身穿白色连帽卫衣，站立，进入房间，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "手放置追踪器",
+                "expression": null
+            }
+        ],
+        "background": "大理石桌面",
+        "description_narrative": "特写镜头，一只手将一个小型追踪器放在桌面上。",
+        "dialogue": "来。",
+        "speaker": "温书华",
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "特写俯拍镜头；大理石桌面；画面中央人物，身穿未知，手放置追踪器。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温书华",
+                "gender": "男",
+                "clothing": "蓝色衬衫",
+                "position": "画面中央",
+                "action": "坐着，抬头",
+                "expression": "眉毛微挑，眼睛看向上方，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景，模糊",
+        "description_narrative": "近景镜头，温书华抬头，语气略带责备地问温羡。",
+        "dialogue": "慌里慌张干什么呀。",
+        "speaker": "温书华",
+        "emotion": "责备",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；客厅背景，模糊；画面中央人物，身穿蓝色衬衫，坐着，抬头，表情：眉毛微挑，眼睛看向上方，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "转身，回头",
+                "expression": "眉毛微蹙，眼睛看向后方，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景",
+        "description_narrative": "近景镜头，温羡转身，神情焦急地解释。",
+        "dialogue": "秦迦，明天早上就要审讯了，我赶紧找线索去。",
+        "speaker": "温羡",
+        "emotion": "焦急",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；客厅背景；画面中央人物，身穿白色连帽卫衣，转身，回头，表情：眉毛微蹙，眼睛看向后方，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温书华",
+                "gender": "男",
+                "clothing": "蓝色衬衫",
+                "position": "画面中央",
+                "action": "坐着，看手机",
+                "expression": "眉毛微蹙，眼睛看手机，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景",
+        "description_narrative": "近景镜头，温书华重复温羡的话，语气玩味。",
+        "dialogue": "找线索。",
+        "speaker": "温书华",
+        "emotion": "玩味",
+        "duration": 1.78,
+        "description_visual": "近景平拍镜头；客厅背景；画面中央人物，身穿蓝色衬衫，坐着，看手机，表情：眉毛微蹙，眼睛看手机，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "站立，点头",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景",
+        "description_narrative": "近景镜头，温羡确认，准备离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "确认",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；客厅背景；画面中央人物，身穿白色连帽卫衣，站立，点头，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温书华",
+                "gender": "男",
+                "clothing": "蓝色衬衫",
+                "position": "画面中央",
+                "action": "坐着，抬头",
+                "expression": "眉毛微挑，眼睛看向上方，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景",
+        "description_narrative": "近景镜头，温书华追问线索在哪里。",
+        "dialogue": "上哪找？",
+        "speaker": "温书华",
+        "emotion": "追问",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；客厅背景；画面中央人物，身穿蓝色衬衫，坐着，抬头，表情：眉毛微挑，眼睛看向上方，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "站立，解释",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景",
+        "description_narrative": "近景镜头，温羡解释秦迦留有视频证据。",
+        "dialogue": "秦迦当初留了心眼，录了视频，我去取去。",
+        "speaker": "温羡",
+        "emotion": "急切",
+        "duration": 2.88,
+        "description_visual": "近景平拍镜头；客厅背景；画面中央人物，身穿白色连帽卫衣，站立，解释，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面左侧，行走",
+                "action": "转身离开",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "温书华",
+                "gender": "男",
+                "clothing": "蓝色衬衫",
+                "position": "画面右侧，沙发上",
+                "action": "坐着，看手机",
+                "expression": "眉毛平展，眼睛看手机，嘴巴微张"
+            }
+        ],
+        "background": "客厅全景",
+        "description_narrative": "全景镜头，温羡转身离开，温书华表面敷衍关心。",
+        "dialogue": "行了不跟你多说。",
+        "speaker": "温羡",
+        "emotion": "匆忙",
+        "duration": 2.1,
+        "description_visual": "全景平拍镜头；客厅全景；画面左侧，行走人物，身穿白色连帽卫衣，转身离开，表情：眉毛平展，眼睛看向前方，嘴巴闭合；画面右侧，沙发上人物，身穿蓝色衬衫，坐着，看手机，表情：眉毛平展，眼睛看手机，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温书华",
+                "gender": "男",
+                "clothing": "蓝色衬衫",
+                "position": "画面中央",
+                "action": "坐着，看手机",
+                "expression": "眉毛微蹙，眼睛看手机，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景",
+        "description_narrative": "近景镜头，温书华看着手机，眼神变得阴冷。",
+        "dialogue": "你给我盯住温羡。",
+        "speaker": "温书华",
+        "emotion": "阴冷",
+        "duration": 6.1,
+        "description_visual": "近景平拍镜头；客厅背景；画面中央人物，身穿蓝色衬衫，坐着，看手机，表情：眉毛微蹙，眼睛看手机，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温书华",
+                "gender": "男",
+                "clothing": "蓝色衬衫",
+                "position": "画面中央",
+                "action": "打电话",
+                "expression": "眉毛紧锁，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景",
+        "description_narrative": "近景镜头，温书华打电话给手下，命令阻止温羡找到证据。",
+        "dialogue": "绝对不能让他找到证据，是。",
+        "speaker": "温书华",
+        "emotion": "狠毒",
+        "duration": 2.34,
+        "description_visual": "近景平拍镜头；客厅背景；画面中央人物，身穿蓝色衬衫，打电话，表情：眉毛紧锁，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "高楼大厦，蓝天",
+        "description_narrative": "远景仰拍镜头，展示秦迦办公室所在的高楼，转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "远景仰拍镜头；高楼大厦，蓝天。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央，门口",
+                "action": "推门进入",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "办公室门口",
+        "description_narrative": "中景镜头，温羡推开办公室门，进入房间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "警惕",
+        "duration": 1.5,
+        "description_visual": "中景平拍镜头；办公室门口；画面中央，门口人物，身穿白色连帽卫衣，推门进入，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "棕色门板，门把手",
+        "description_narrative": "特写镜头，门把手特写，暗示有人进入。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.36,
+        "description_visual": "特写平拍镜头；棕色门板，门把手。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "黑色手套",
+                "position": "画面中央",
+                "action": "戴手套的手握住门把手",
+                "expression": null
+            }
+        ],
+        "background": "门把手",
+        "description_narrative": "特写镜头，一只戴着黑色手套的手握住门把手，暗示入侵者。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头；门把手；画面中央人物，身穿黑色手套，戴手套的手握住门把手。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央，桌前",
+                "action": "坐下，打开电脑",
+                "expression": "眉毛微蹙，眼睛看屏幕，嘴巴闭合"
+            }
+        ],
+        "background": "办公室书桌",
+        "description_narrative": "中近景镜头，温羡坐在书桌前，打开笔记本电脑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 0.56,
+        "description_visual": "中近景平拍镜头；办公室书桌；画面中央，桌前人物，身穿白色连帽卫衣，坐下，打开电脑，表情：眉毛微蹙，眼睛看屏幕，嘴巴闭合。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "操作电脑",
+                "expression": "眉毛微蹙，眼睛看屏幕，嘴巴闭合"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "近景镜头，温羡专注地操作电脑，寻找证据。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.14,
+        "description_visual": "近景平拍镜头；办公室背景；画面中央人物，身穿白色连帽卫衣，操作电脑，表情：眉毛微蹙，眼睛看屏幕，嘴巴闭合。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "插入U盘",
+                "expression": null
+            }
+        ],
+        "background": "笔记本电脑键盘",
+        "description_narrative": "特写镜头，温羡将U盘插入笔记本电脑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "特写俯拍镜头；笔记本电脑键盘；画面中央人物，身穿白色连帽卫衣，插入U盘。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "笔记本电脑屏幕，桌面图标",
+        "description_narrative": "近景镜头，电脑屏幕亮起，显示桌面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.7,
+        "description_visual": "近景平拍镜头；笔记本电脑屏幕，桌面图标。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央，桌前",
+                "action": "操作电脑",
+                "expression": "眉毛微蹙，眼睛看屏幕，嘴巴闭合"
+            }
+        ],
+        "background": "办公室书桌，相机，笔筒",
+        "description_narrative": "中景镜头，温羡在电脑前忙碌，桌上放着相机等物品。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "忙碌",
+        "duration": 1.28,
+        "description_visual": "中景平拍镜头；办公室书桌，相机，笔筒；画面中央，桌前人物，身穿白色连帽卫衣，操作电脑，表情：眉毛微蹙，眼睛看屏幕，嘴巴闭合。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "站立，看向门口",
+                "expression": "眉毛微蹙，眼睛看向门口，嘴巴闭合"
+            }
+        ],
+        "background": "办公室门口",
+        "description_narrative": "中景镜头，温羡似乎听到了什么，站起来看向门口。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "警惕",
+        "duration": 5.72,
+        "description_visual": "中景平拍镜头；办公室门口；画面中央人物，身穿白色连帽卫衣，站立，看向门口，表情：眉毛微蹙，眼睛看向门口，嘴巴闭合。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央，门缝",
+                "action": "透过门缝查看",
+                "expression": "眉毛微蹙，眼睛透过门缝，嘴巴闭合"
+            }
+        ],
+        "background": "门缝",
+        "description_narrative": "近景镜头，温羡透过门缝向外查看，神情紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.76,
+        "description_visual": "近景平拍镜头；门缝；画面中央，门缝人物，身穿白色连帽卫衣，透过门缝查看，表情：眉毛微蹙，眼睛透过门缝，嘴巴闭合。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "被棍棒击打头部",
+                "expression": "眉毛紧锁，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头，一根棍棒从后方击打温羡的头部，画面晃动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 0.64,
+        "description_visual": "特写平拍镜头（跟拍）；模糊背景；画面中央人物，身穿白色连帽卫衣，被棍棒击打头部，表情：眉毛紧锁，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色闪光",
+        "description_narrative": "特写镜头，画面变为白色闪光，暗示温羡被打晕或视频结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.88,
+        "description_visual": "特写平拍镜头；白色闪光。"
+    }
+]

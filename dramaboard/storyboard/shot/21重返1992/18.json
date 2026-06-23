@@ -1,0 +1,745 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央",
+                "action": "身体前倾，被身后男子抓住肩膀，面部表情愤怒",
+                "expression": "眉毛紧锁，眼睛瞪视前方，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "深色红花衬衫",
+                "position": "画面左侧",
+                "action": "双手抓住樊泽亮的肩膀和手臂，用力 restrain",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头，站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色砖墙房屋门口，红色木门，光线明亮",
+        "description_narrative": "中景镜头，樊泽亮身穿白色背心被花衬衫男从身后抓住，他愤怒地瞪着前方的漫画衬衫男，花衬衫男用力按住他，背景是白墙红门的院子。",
+        "dialogue": "一天我给你算一百，怎么样",
+        "speaker": "漫画衬衫男",
+        "emotion": "愤怒",
+        "duration": 3.0,
+        "description_visual": "中景平拍镜头；白色砖墙房屋门口，红色木门，光线明亮；画面中央人物，身穿白色背心，黑色长裤，身体前倾，被身后男子抓住肩膀，面部表情愤怒，表情：眉毛紧锁，眼睛瞪视前方，嘴巴微张；画面左侧人物，身穿深色红花衬衫，双手抓住樊泽亮的肩膀和手臂，用力 restrain，表情：眉毛微挑，眼睛注视前方，嘴巴紧闭；画面右侧前景人物，身穿黑白漫画图案衬衫，背对镜头，站立，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "头部微侧，咬牙切齿",
+                "expression": "眉毛紧蹙，眼睛充满血丝且怒视，牙齿紧咬"
+            }
+        ],
+        "background": "模糊的背景，聚焦于人物面部",
+        "description_narrative": "特写镜头推进至樊泽亮面部，他咬牙切齿，眼神中透露出极度的愤怒和决绝，仿佛在内心呐喊。",
+        "dialogue": "我重活一世",
+        "speaker": "樊泽亮",
+        "emotion": "愤怒",
+        "duration": 3.32,
+        "description_visual": "特写平拍镜头（推进）；模糊的背景，聚焦于人物面部；画面中央人物，身穿白色背心，头部微侧，咬牙切齿，表情：眉毛紧蹙，眼睛充满血丝且怒视，牙齿紧咬。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "被花衬衫男按住，身体前倾挣扎",
+                "expression": "侧脸，表情痛苦且愤怒"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "深色红花衬衫",
+                "position": "画面左后侧",
+                "action": "从背后抱住樊泽亮",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色连衣裙",
+                "position": "画面右侧",
+                "action": "被漫画衬衫男掐住脖子，双手抓着对方手腕",
+                "expression": "眼睛紧闭，嘴巴微张，表情痛苦"
+            },
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面右侧",
+                "action": "单手掐住黄裙女子脖子，另一只手拿着东西",
+                "expression": "表情嚣张，嘴巴微张"
+            }
+        ],
+        "background": "院子全景，白砖房，木桌，阳光斑驳",
+        "description_narrative": "全景镜头展示院子局势，樊泽亮被 restrain 在左侧，右侧漫画衬衫男正掐着黄裙女子的脖子，女子痛苦挣扎，樊泽亮愤怒地看着这一幕。",
+        "dialogue": "不是为了再被人踩",
+        "speaker": "樊泽亮",
+        "emotion": "愤怒",
+        "duration": 1.4,
+        "description_visual": "全景平拍镜头；院子全景，白砖房，木桌，阳光斑驳；画面左侧人物，身穿白色背心，黑色长裤，被花衬衫男按住，身体前倾挣扎，表情：侧脸，表情痛苦且愤怒；画面左后侧人物，身穿深色红花衬衫，从背后抱住樊泽亮，表情：表情严肃；画面右侧人物，身穿黄色连衣裙，被漫画衬衫男掐住脖子，双手抓着对方手腕，表情：眼睛紧闭，嘴巴微张，表情痛苦；画面右侧人物，身穿黑白漫画图案衬衫，单手掐住黄裙女子脖子，另一只手拿着东西，表情：表情嚣张，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "棕色外套，白色背心",
+                "position": "画面中央",
+                "action": "身体剧烈前倾，似乎在挣脱束缚",
+                "expression": "侧脸，嘴巴张大，表情狰狞"
+            }
+        ],
+        "background": "白色砖墙，绿色墙裙，木桌一角",
+        "description_narrative": "镜头跟随樊泽亮的动作，他身穿棕色外套，身体用力前倾挣扎，面部表情因用力而扭曲，显示出极度的不甘。",
+        "dialogue": "脚下",
+        "speaker": "樊泽亮",
+        "emotion": "愤怒",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头（跟拍）；白色砖墙，绿色墙裙，木桌一角；画面中央人物，身穿棕色外套，白色背心，身体剧烈前倾，似乎在挣脱束缚，表情：侧脸，嘴巴张大，表情狰狞。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面左侧",
+                "action": "脱下外套，手臂前伸，做出攻击姿态",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴紧闭用力"
+            },
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头，面对樊泽亮",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色木门，白色墙壁，绿色植物",
+        "description_narrative": "过肩镜头，樊泽亮甩掉外套，露出白色背心，手臂肌肉紧绷，眼神凶狠地瞪着对面的漫画衬衫男，准备拼命。",
+        "dialogue": "你若毁我天堂",
+        "speaker": "樊泽亮",
+        "emotion": "愤怒",
+        "duration": 1.76,
+        "description_visual": "中近景过肩镜头；红色木门，白色墙壁，绿色植物；画面左侧人物，身穿白色背心，脱下外套，手臂前伸，做出攻击姿态，表情：眉毛紧锁，眼睛瞪大，嘴巴紧闭用力；画面右侧前景人物，身穿黑白漫画图案衬衫，背对镜头，面对樊泽亮，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央",
+                "action": "双腿分开站立，双臂张开，身体前倾",
+                "expression": "表情凶狠，眼神坚定"
+            },
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色连衣裙",
+                "position": "画面左后景",
+                "action": "站立观望",
+                "expression": "担忧"
+            }
+        ],
+        "background": "白砖房，木桌，茶壶，阳光强烈",
+        "description_narrative": "低角度中景，樊泽亮双腿分开站稳，双臂张开呈防御或攻击姿态，眼神死死盯着前方，背景中黄裙女子担忧地看着。",
+        "dialogue": "我拼了命也要把你带入地狱",
+        "speaker": "樊泽亮",
+        "emotion": "疯狂",
+        "duration": 1.76,
+        "description_visual": "中景低角度镜头；白砖房，木桌，茶壶，阳光强烈；画面中央人物，身穿白色背心，黑色长裤，双腿分开站立，双臂张开，身体前倾，表情：表情凶狠，眼神坚定；画面左后景人物，身穿黄色连衣裙，站立观望，表情：担忧。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面左侧",
+                "action": "挥舞木质椅子",
+                "expression": "背对镜头，动作迅猛"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "深色红花衬衫",
+                "position": "画面右下角",
+                "action": "坐在椅子上，抬头看",
+                "expression": "惊讶"
+            }
+        ],
+        "background": "白色砖墙，绿色植物，红色窗户",
+        "description_narrative": "镜头摇向樊泽亮，他抓起一把木椅用力挥舞，动作幅度极大，花衬衫男坐在右下角抬头惊愕地看着。",
+        "dialogue": "如果守护心爱的人被称为疯子",
+        "speaker": "樊泽亮",
+        "emotion": "疯狂",
+        "duration": 1.52,
+        "description_visual": "中景平拍镜头（摇镜）；白色砖墙，绿色植物，红色窗户；画面左侧人物，身穿白色背心，挥舞木质椅子，表情：背对镜头，动作迅猛；画面右下角人物，身穿深色红花衬衫，坐在椅子上，抬头看，表情：惊讶。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央",
+                "action": "单手拎着木椅，身体微侧",
+                "expression": "表情严肃，眼神犀利"
+            }
+        ],
+        "background": "白砖房，红色门窗，木桌",
+        "description_narrative": "中景镜头，樊泽亮单手拎着木椅站在院子中央，身体微侧，眼神坚定地看向前方，地上躺着被打倒的人。",
+        "dialogue": "你若毁我天堂",
+        "speaker": "樊泽亮",
+        "emotion": "坚定",
+        "duration": 1.32,
+        "description_visual": "中景平拍镜头；白砖房，红色门窗，木桌；画面中央人物，身穿白色背心，黑色长裤，单手拎着木椅，身体微侧，表情：表情严肃，眼神犀利。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央",
+                "action": "手持木椅，站立",
+                "expression": "嘴巴微张，眼神凶狠"
+            },
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色连衣裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "担忧"
+            }
+        ],
+        "background": "白砖房，木桌，茶壶",
+        "description_narrative": "中景镜头，樊泽亮手持木椅站在院子中，表情癫狂，右侧黄裙女子站在一旁，地上躺着一个人。",
+        "dialogue": "那我宁愿癫狂一世",
+        "speaker": "樊泽亮",
+        "emotion": "疯狂",
+        "duration": 1.64,
+        "description_visual": "中景平拍镜头；白砖房，木桌，茶壶；画面中央人物，身穿白色背心，黑色长裤，手持木椅，站立，表情：嘴巴微张，眼神凶狠；画面右侧人物，身穿黄色连衣裙，站立，表情：担忧。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央",
+                "action": "背对镜头，手持椅子",
+                "expression": "不可见"
+            },
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色连衣裙",
+                "position": "画面左侧",
+                "action": "站立观看",
+                "expression": "表情担忧"
+            }
+        ],
+        "background": "白砖房，木桌，绿植",
+        "description_narrative": "中景镜头，樊泽亮背对镜头手持椅子，左侧黄裙女子担忧地看着他，氛围紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.84,
+        "description_visual": "中景平拍镜头；白砖房，木桌，绿植；画面中央人物，身穿白色背心，黑色长裤，背对镜头，手持椅子，表情：不可见；画面左侧人物，身穿黄色连衣裙，站立观看，表情：表情担忧。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头，身体前倾",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴微张喘息"
+            }
+        ],
+        "background": "红色木门，白色墙壁",
+        "description_narrative": "近景镜头，樊泽亮低头喘息，汗水顺着脸颊流下，表情疲惫但眼神依然凶狠。",
+        "dialogue": "还愣着干嘛",
+        "speaker": "樊泽亮",
+        "emotion": "愤怒",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；红色木门，白色墙壁；画面中央人物，身穿白色背心，低头，身体前倾，表情：眉毛紧锁，眼睛向下看，嘴巴微张喘息。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "几何衬衫男",
+                "gender": "男",
+                "clothing": "彩色几何图案衬衫，蓝色牛仔裤",
+                "position": "画面右侧前景",
+                "action": "冲入画面，动作模糊",
+                "expression": "不可见"
+            },
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "与人扭打",
+                "expression": "不可见"
+            },
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色连衣裙",
+                "position": "画面左侧",
+                "action": "后退，惊恐",
+                "expression": "嘴巴微张，眼睛睁大"
+            }
+        ],
+        "background": "白砖房，木桌",
+        "description_narrative": "镜头跟随动作，一名身穿彩色几何衬衫的男子冲入画面与樊泽亮扭打，左侧黄裙女子惊恐后退。",
+        "dialogue": "上啊",
+        "speaker": "漫画衬衫男",
+        "emotion": "混乱",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头（跟拍）；白砖房，木桌；画面右侧前景人物，身穿彩色几何图案衬衫，蓝色牛仔裤，冲入画面，动作模糊，表情：不可见；画面中央人物，身穿白色背心，与人扭打，表情：不可见；画面左侧人物，身穿黄色连衣裙，后退，惊恐，表情：嘴巴微张，眼睛睁大。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "被多人按住，低头挣扎",
+                "expression": "眉毛紧蹙，眼睛向下，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "深色红花衬衫",
+                "position": "画面右侧",
+                "action": "手臂抓住樊泽亮",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色砖墙，模糊背景",
+        "description_narrative": "俯拍特写，樊泽亮被多人按住，他低头挣扎，表情痛苦，花衬衫男的手臂紧紧抓着他。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 2.76,
+        "description_visual": "特写俯拍镜头；白色砖墙，模糊背景；画面中央人物，身穿白色背心，被多人按住，低头挣扎，表情：眉毛紧蹙，眼睛向下，嘴巴微张；画面右侧人物，身穿深色红花衬衫，手臂抓住樊泽亮，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "几何衬衫男",
+                "gender": "男",
+                "clothing": "彩色几何图案衬衫",
+                "position": "画面左侧前景",
+                "action": "背对镜头，抓住樊泽亮",
+                "expression": "不可见"
+            },
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "被按住，身体扭曲",
+                "expression": "侧脸，表情痛苦"
+            },
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面右侧",
+                "action": "站立观看",
+                "expression": "冷漠"
+            }
+        ],
+        "background": "院子，绿植",
+        "description_narrative": "中景镜头，几何衬衫男背对镜头抓住樊泽亮，樊泽亮被按在中间挣扎，右侧漫画衬衫男冷漠地看着。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "压抑",
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；院子，绿植；画面左侧前景人物，身穿彩色几何图案衬衫，背对镜头，抓住樊泽亮，表情：不可见；画面中央人物，身穿白色背心，被按住，身体扭曲，表情：侧脸，表情痛苦；画面右侧人物，身穿黑白漫画图案衬衫，站立观看，表情：冷漠。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "樊泽亮",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "被按住，抬头怒视",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "红色木门，模糊背景",
+        "description_narrative": "近景镜头，樊泽亮被按住但强行抬头，眼神充满杀气地瞪着前方，嘴角带血。",
+        "dialogue": "小子",
+        "speaker": "花衬衫男",
+        "emotion": "愤怒",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；红色木门，模糊背景；画面中央人物，身穿白色背心，被按住，抬头怒视，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面右侧",
+                "action": "举起拳头，准备打人",
+                "expression": "表情嚣张"
+            },
+            {
+                "name": "周县长",
+                "gender": "男",
+                "clothing": "黑色中山装",
+                "position": "画面左后景",
+                "action": "从门口走出，站立",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "白 Polo 衫男子",
+                "gender": "男",
+                "clothing": "白色 Polo 衫",
+                "position": "画面背景",
+                "action": "跟随周县长走出",
+                "expression": "平静"
+            }
+        ],
+        "background": "房屋门口，绿植",
+        "description_narrative": "中景镜头，漫画衬衫男举起拳头正要打人，背景中周县长和白 Polo 衫男子从门口走出，神情严肃。",
+        "dialogue": "我他妈杀了你",
+        "speaker": "樊泽亮",
+        "emotion": "暴怒",
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头；房屋门口，绿植；画面右侧人物，身穿黑白漫画图案衬衫，举起拳头，准备打人，表情：表情嚣张；画面左后景人物，身穿黑色中山装，从门口走出，站立，表情：表情严肃；画面背景人物，身穿白色 Polo 衫，跟随周县长走出，表情：平静。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周县长",
+                "gender": "男",
+                "clothing": "黑色中山装",
+                "position": "画面中央",
+                "action": "站立，目光威严",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "暗色背景",
+        "description_narrative": "特写镜头，周县长戴着眼镜，表情威严，目光如炬地看向前方，气场强大。",
+        "dialogue": "都住手",
+        "speaker": "周县长",
+        "emotion": "威严",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；暗色背景；画面中央人物，身穿黑色中山装，站立，目光威严，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周县长",
+                "gender": "男",
+                "clothing": "黑色中山装",
+                "position": "画面左侧",
+                "action": "站立，手摸脸颊",
+                "expression": "惊讶，愤怒"
+            },
+            {
+                "name": "白 Polo 衫男子",
+                "gender": "男",
+                "clothing": "白色 Polo 衫",
+                "position": "画面中央",
+                "action": "站立，看向漫画衬衫男",
+                "expression": "严肃"
+            },
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面右侧",
+                "action": "背对镜头，站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "房屋门口，绿植",
+        "description_narrative": "中景镜头，周县长捂着脸颊似乎刚被打，表情震惊愤怒，白 Polo 衫男子站在中间，漫画衬衫男背对镜头站着。",
+        "dialogue": "哪他妈来王八，赶紧给我滚，别多管闲事",
+        "speaker": "漫画衬衫男",
+        "emotion": "嚣张",
+        "duration": 4.52,
+        "description_visual": "中景平拍镜头；房屋门口，绿植；画面左侧人物，身穿黑色中山装，站立，手摸脸颊，表情：惊讶，愤怒；画面中央人物，身穿白色 Polo 衫，站立，看向漫画衬衫男，表情：严肃；画面右侧人物，身穿黑白漫画图案衬衫，背对镜头，站立，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "周县长",
+                "gender": "男",
+                "clothing": "黑色中山装",
+                "position": "画面左侧背景",
+                "action": "手捂脸颊，震惊",
+                "expression": "眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "白 Polo 衫男子",
+                "gender": "男",
+                "clothing": "白色 Polo 衫",
+                "position": "画面中央",
+                "action": "站立，看着漫画衬衫男",
+                "expression": "严肃"
+            }
+        ],
+        "background": "门口，暗房牌子",
+        "description_narrative": "过肩镜头，漫画衬衫男背对镜头，周县长捂着被打的脸颊，震惊地看着对方，白 Polo 衫男子严肃地站在中间。",
+        "dialogue": "你敢动手",
+        "speaker": "周县长",
+        "emotion": "震惊",
+        "duration": 2.6,
+        "description_visual": "中近景过肩镜头；门口，暗房牌子；画面左侧前景人物，身穿黑白漫画图案衬衫，背对镜头，表情：不可见；画面左侧背景人物，身穿黑色中山装，手捂脸颊，震惊，表情：眼睛睁大，嘴巴微张；画面中央人物，身穿白色 Polo 衫，站立，看着漫画衬衫男，表情：严肃。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "深色红花衬衫",
+                "position": "画面左侧",
+                "action": "看着前方，表情惊恐",
+                "expression": "眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面右侧",
+                "action": "看着前方，表情惊恐",
+                "expression": "眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "白砖房，红色窗户",
+        "description_narrative": "中近景镜头，花衬衫男和漫画衬衫男并排站立，两人都瞪大眼睛，嘴巴微张，表情从嚣张转为极度惊恐。",
+        "dialogue": "在废话，连他妈你一块打，想不到啊，好好好，咱们县里还有这号无法无天的人",
+        "speaker": "周县长",
+        "emotion": "愤怒",
+        "duration": 13.68,
+        "description_visual": "中近景平拍镜头；白砖房，红色窗户；画面左侧人物，身穿深色红花衬衫，看着前方，表情惊恐，表情：眼睛睁大，嘴巴微张；画面右侧人物，身穿黑白漫画图案衬衫，看着前方，表情惊恐，表情：眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周县长",
+                "gender": "男",
+                "clothing": "黑色中山装",
+                "position": "画面左侧",
+                "action": "站立，怒视",
+                "expression": "愤怒"
+            },
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面中央",
+                "action": "背对镜头，身体僵硬",
+                "expression": "不可见"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "深色红花衬衫",
+                "position": "画面右侧",
+                "action": "抓着漫画衬衫男手臂，低声说话",
+                "expression": "惊恐，急切"
+            }
+        ],
+        "background": "房屋门口，绿植",
+        "description_narrative": "中景镜头，周县长怒视前方，花衬衫男抓着漫画衬衫男的手臂，似乎在惊恐地提醒他对方的身份。",
+        "dialogue": "这人有点眼熟，好像是咱们周县长，什么，真周县长",
+        "speaker": "花衬衫男",
+        "emotion": "惊恐",
+        "duration": 8.04,
+        "description_visual": "中景平拍镜头；房屋门口，绿植；画面左侧人物，身穿黑色中山装，站立，怒视，表情：愤怒；画面中央人物，身穿黑白漫画图案衬衫，背对镜头，身体僵硬，表情：不可见；画面右侧人物，身穿深色红花衬衫，抓着漫画衬衫男手臂，低声说话，表情：惊恐，急切。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微抖",
+                "expression": "眼睛睁大，眼神慌乱，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "深色红花衬衫",
+                "position": "画面左侧",
+                "action": "看着漫画衬衫男",
+                "expression": "惊恐"
+            }
+        ],
+        "background": "白砖房，阳光斑驳",
+        "description_narrative": "近景镜头，漫画衬衫男脸色苍白，眼神慌乱地看着前方，花衬衫男在旁边同样惊恐，意识到闯了大祸。",
+        "dialogue": "无法无天，连县长都敢打",
+        "speaker": "周县长",
+        "emotion": "愤怒",
+        "duration": 5.56,
+        "description_visual": "近景平拍镜头；白砖房，阳光斑驳；画面中央人物，身穿黑白漫画图案衬衫，站立，身体微抖，表情：眼睛睁大，眼神慌乱，嘴巴微张；画面左侧人物，身穿深色红花衬衫，看着漫画衬衫男，表情：惊恐。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "漫画衬衫男",
+                "gender": "男",
+                "clothing": "黑白漫画图案衬衫",
+                "position": "画面中央",
+                "action": "站立，僵硬",
+                "expression": "眼睛直视前方，眼神恐惧，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头，漫画衬衫男面部特写，他眼神恐惧，冷汗直流，完全被周县长的气势震慑住。",
+        "dialogue": "你现在还有法律吗",
+        "speaker": "周县长",
+        "emotion": "威严",
+        "duration": 3.56,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黑白漫画图案衬衫，站立，僵硬，表情：眼睛直视前方，眼神恐惧，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色强光",
+        "description_narrative": "画面被强烈的白光覆盖，转场效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "全景平拍镜头；白色强光。"
+    }
+]

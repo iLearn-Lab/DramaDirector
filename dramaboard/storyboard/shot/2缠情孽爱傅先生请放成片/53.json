@@ -1,0 +1,599 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "黑色裤子，黑色鞋子",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内浅色地板，光线柔和",
+        "description_narrative": "特写镜头俯拍一双穿着黑色裤子和鞋子的脚站在浅色地板上，画面中央叠加白色文字。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "特写俯拍镜头；室内浅色地板，光线柔和；画面左侧人物，身穿黑色裤子，黑色鞋子，站立，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装，黑色衬衫，眼镜",
+                "position": "画面中央",
+                "action": "行走，抬头向上看",
+                "expression": "眉毛舒展，眼睛透过镜片向上凝视，嘴巴微闭"
+            }
+        ],
+        "background": "户外街道，背景有树木和围栏，光线明亮",
+        "description_narrative": "低角度跟拍身穿米色西装的西装男在户外行走，他戴着眼镜，抬头望向高处，神情若有所思。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景低角度镜头（跟拍）；户外街道，背景有树木和围栏，光线明亮；画面中央人物，身穿米色双排扣西装，黑色衬衫，眼镜，行走，抬头向上看，表情：眉毛舒展，眼睛透过镜片向上凝视，嘴巴微闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市高层住宅楼，红褐色外墙，蓝天白云",
+        "description_narrative": "仰拍视角展示几栋红褐色的高层住宅楼，楼顶有镂空设计，天空中有云层。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "远景仰拍镜头；城市高层住宅楼，红褐色外墙，蓝天白云。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装，黑色衬衫，眼镜",
+                "position": "画面中央",
+                "action": "行走，视线向下",
+                "expression": "眉毛微垂，眼睛向下看，嘴唇紧闭"
+            }
+        ],
+        "background": "户外模糊背景，有树木光影",
+        "description_narrative": "中近景跟拍西装男继续行走，他低下头，视线落在前方地面，表情略显沉重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.3,
+        "description_visual": "中近景平拍镜头（跟拍）；户外模糊背景，有树木光影；画面中央人物，身穿米色双排扣西装，黑色衬衫，眼镜，行走，视线向下，表情：眉毛微垂，眼睛向下看，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装，黑色衬衫，眼镜",
+                "position": "画面中央",
+                "action": "行走，低头叹气",
+                "expression": "眉毛微蹙，眼睛低垂，嘴巴微张呼气"
+            }
+        ],
+        "background": "户外模糊背景，光线自然",
+        "description_narrative": "镜头跟随西装男，他微微低头，发出一声叹息，神情显得有些无奈或疲惫。",
+        "dialogue": "唉",
+        "speaker": "西装男",
+        "emotion": "无奈",
+        "duration": 0.73,
+        "description_visual": "中近景平拍镜头（跟拍）；户外模糊背景，光线自然；画面中央人物，身穿米色双排扣西装，黑色衬衫，眼镜，行走，低头叹气，表情：眉毛微蹙，眼睛低垂，嘴巴微张呼气。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "白色内搭",
+                "position": "画面中央",
+                "action": "静止，面部处于阴影中",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内暗光环境，背景模糊",
+        "description_narrative": "特写镜头中，慕雨的脸部处于昏暗的光线下，她神情严肃，直视前方，氛围压抑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.5,
+        "description_visual": "特写平拍镜头；室内暗光环境，背景模糊；画面中央人物，身穿白色内搭，静止，面部处于阴影中，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "白色内搭，黑色开衫",
+                "position": "画面右侧前景",
+                "action": "坐在桌前使用笔记本电脑打字",
+                "expression": "眉毛微垂，眼睛注视屏幕，嘴巴微抿"
+            },
+            {
+                "name": "轩诚",
+                "gender": "男",
+                "clothing": "黑色风衣",
+                "position": "画面左侧背景",
+                "action": "躺在床上睡觉",
+                "expression": "双眼闭合，面部放松"
+            }
+        ],
+        "background": "卧室环境，床上有白色床单，桌上有饮料和食物",
+        "description_narrative": "中景镜头，慕雨坐在桌前专注地敲击笔记本电脑键盘，背景的床上躺着身穿黑色风衣的轩诚，正在熟睡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.03,
+        "description_visual": "中景侧拍镜头；卧室环境，床上有白色床单，桌上有饮料和食物；画面右侧前景人物，身穿白色内搭，黑色开衫，坐在桌前使用笔记本电脑打字，表情：眉毛微垂，眼睛注视屏幕，嘴巴微抿；画面左侧背景人物，身穿黑色风衣，躺在床上睡觉，表情：双眼闭合，面部放松。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "大特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "轩诚",
+                "gender": "男",
+                "clothing": "黑色风衣",
+                "position": "画面中央",
+                "action": "侧躺睡觉",
+                "expression": "双眼闭合，睫毛清晰，嘴唇微张"
+            }
+        ],
+        "background": "白色枕头，背景虚化有黄色花朵",
+        "description_narrative": "大特写镜头聚焦在轩诚的侧脸，他闭着眼睛熟睡，呼吸平稳，背景虚化出黄色的花束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.47,
+        "description_visual": "大特写侧拍镜头；白色枕头，背景虚化有黄色花朵；画面中央人物，身穿黑色风衣，侧躺睡觉，表情：双眼闭合，睫毛清晰，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "白色内搭，黑色开衫",
+                "position": "画面右侧前景",
+                "action": "坐在桌前使用笔记本电脑",
+                "expression": "眉毛微蹙，眼睛注视屏幕，神情专注"
+            },
+            {
+                "name": "轩诚",
+                "gender": "男",
+                "clothing": "黑色风衣",
+                "position": "画面左侧背景",
+                "action": "躺在床上",
+                "expression": "双眼闭合"
+            }
+        ],
+        "background": "卧室环境，桌上有饮料瓶和外卖盒",
+        "description_narrative": "镜头回到中景，慕雨继续在桌前工作，手指在键盘上敲击，床上的轩诚依然躺着，画面安静。",
+        "dialogue": "唉哟 不好意思啊 慕雨 我这吃饱饭睡着了",
+        "speaker": "轩诚",
+        "emotion": "尴尬",
+        "duration": 5.5,
+        "description_visual": "中景侧拍镜头；卧室环境，桌上有饮料瓶和外卖盒；画面右侧前景人物，身穿白色内搭，黑色开衫，坐在桌前使用笔记本电脑，表情：眉毛微蹙，眼睛注视屏幕，神情专注；画面左侧背景人物，身穿黑色风衣，躺在床上，表情：双眼闭合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "白色内搭，黑色开衫",
+                "position": "画面右侧",
+                "action": "侧身坐着，视线向下",
+                "expression": "眉毛平展，眼睛向下看，嘴唇微动"
+            }
+        ],
+        "background": "室内背景，有书架和暖色灯光",
+        "description_narrative": "近景侧拍慕雨，她侧身坐着，没有回头，语气平淡地说话，神情略显冷淡。",
+        "dialogue": "时间不早了 该回去了",
+        "speaker": "慕雨",
+        "emotion": "冷淡",
+        "duration": 3.3,
+        "description_visual": "近景侧拍镜头；室内背景，有书架和暖色灯光；画面右侧人物，身穿白色内搭，黑色开衫，侧身坐着，视线向下，表情：眉毛平展，眼睛向下看，嘴唇微动。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "轩诚",
+                "gender": "男",
+                "clothing": "黑色风衣，白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在床边，身体前倾",
+                "expression": "眉毛微挑，眼睛看着慕雨，嘴角带笑"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "白色内搭，黑色开衫",
+                "position": "画面右侧前景",
+                "action": "继续打字",
+                "expression": "视线集中在屏幕上"
+            }
+        ],
+        "background": "卧室床边，白色床单",
+        "description_narrative": "轩诚从床上坐起来，身体前倾靠近慕雨，带着试探性的笑容提出留宿的请求，慕雨仍在打字未回头。",
+        "dialogue": "慕雨 我要不今天晚上就在这睡吧",
+        "speaker": "轩诚",
+        "emotion": "试探",
+        "duration": 6.17,
+        "description_visual": "中近景平拍镜头；卧室床边，白色床单；画面左侧人物，身穿黑色风衣，白色衬衫，坐在床边，身体前倾，表情：眉毛微挑，眼睛看着慕雨，嘴角带笑；画面右侧前景人物，身穿白色内搭，黑色开衫，继续打字，表情：视线集中在屏幕上。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "白色内搭，黑色开衫",
+                "position": "画面中央",
+                "action": "转头看向轩诚",
+                "expression": "眉毛微蹙，眼睛睁大直视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，暖色灯光",
+        "description_narrative": "过肩镜头，慕雨听到请求后猛地转头看向轩诚，眼神中带着惊讶和警告，喊出他的名字。",
+        "dialogue": "轩诚",
+        "speaker": "慕雨",
+        "emotion": "惊讶",
+        "duration": 1.73,
+        "description_visual": "近景过肩镜头；室内背景，暖色灯光；画面中央人物，身穿白色内搭，黑色开衫，转头看向轩诚，表情：眉毛微蹙，眼睛睁大直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "轩诚",
+                "gender": "男",
+                "clothing": "黑色风衣，白色衬衫",
+                "position": "画面中央",
+                "action": "坐在床边，尴尬地笑",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴张开露齿"
+            }
+        ],
+        "background": "卧室背景，有黄色花朵",
+        "description_narrative": "轩诚面对慕雨的反应，立刻露出尴尬的笑容，摆手解释自己只是在开玩笑，试图缓解气氛。",
+        "dialogue": "开个玩笑而已",
+        "speaker": "轩诚",
+        "emotion": "尴尬",
+        "duration": 7.83,
+        "description_visual": "中近景平拍镜头；卧室背景，有黄色花朵；画面中央人物，身穿黑色风衣，白色衬衫，坐在床边，尴尬地笑，表情：眉毛舒展，眼睛眯起笑，嘴巴张开露齿。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "背拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "轩诚",
+                "gender": "男",
+                "clothing": "黑色风衣",
+                "position": "画面中央",
+                "action": "转身背对镜头，准备离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "轩诚转身背对镜头，一边整理衣服一边说着告别的话，表示要先离开，让慕雨早点休息。",
+        "dialogue": "慕雨 那我先走了 你也够累的 早点休息",
+        "speaker": "轩诚",
+        "emotion": "无奈",
+        "duration": 4.97,
+        "description_visual": "中景背拍镜头（跟拍）；室内背景，光线柔和；画面中央人物，身穿黑色风衣，转身背对镜头，准备离开，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "白色内搭，黑色开衫",
+                "position": "画面右侧",
+                "action": "看着轩诚离开",
+                "expression": "眉毛微垂，眼神复杂，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景，有镜子反光",
+        "description_narrative": "近景侧拍慕雨，她静静地看着轩诚离开的方向，表情复杂，没有说话，眼神中流露出一丝落寞。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.87,
+        "description_visual": "近景侧拍镜头；室内背景，有镜子反光；画面右侧人物，身穿白色内搭，黑色开衫，看着轩诚离开，表情：眉毛微垂，眼神复杂，嘴唇紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "轩诚",
+                "gender": "男",
+                "clothing": "黑色风衣",
+                "position": "画面左侧",
+                "action": "走出画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "镜头跟随轩诚的背影，他模糊的身影逐渐走出画面，留下慕雨一人在房间内。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.73,
+        "description_visual": "中景平拍镜头（摇镜）；室内模糊背景；画面左侧人物，身穿黑色风衣，走出画面，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "酒店走廊，地毯有波纹图案，光线昏暗",
+        "description_narrative": "空镜头展示酒店走廊，地毯上有波纹光影，走廊尽头有门，环境安静昏暗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.97,
+        "description_visual": "全景平拍镜头；酒店走廊，地毯有波纹图案，光线昏暗。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "低角度",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "站在走廊，手提塑料袋",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微闭"
+            }
+        ],
+        "background": "酒店走廊，天花板有监控摄像头",
+        "description_narrative": "低角度仰拍，西装男站在走廊里，手里提着装满食物的塑料袋，抬头看着房门，神情犹豫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.97,
+        "description_visual": "低角度仰拍镜头；酒店走廊，天花板有监控摄像头；画面中央人物，身穿米色双排扣西装，黑色衬衫，站在走廊，手提塑料袋，表情：眉毛微蹙，眼睛向上看，嘴巴微闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "走向房门",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "酒店走廊，木门",
+        "description_narrative": "西装男迈步走向房门，身体略微前倾，手中的塑料袋随着步伐晃动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.13,
+        "description_visual": "中景低角度镜头（跟拍）；酒店走廊，木门；画面中央人物，身穿米色双排扣西装，黑色衬衫，走向房门，表情：表情严肃。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "背拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装",
+                "position": "画面中央",
+                "action": "背对镜头走向门",
+                "expression": "不可见"
+            }
+        ],
+        "background": "灰色墙面",
+        "description_narrative": "镜头从背后跟随西装男，他穿着米色西装，走向前方的房门，准备敲门或进入。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "中近景背拍镜头（跟拍）；灰色墙面；画面中央人物，身穿米色双排扣西装，背对镜头走向门，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色衣服",
+                "position": "画面右侧前景",
+                "action": "打开房门",
+                "expression": "眉毛微蹙，眼神疑惑"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装",
+                "position": "画面左侧",
+                "action": "站在门口",
+                "expression": "看着慕雨"
+            }
+        ],
+        "background": "房门门口，室内光线透出",
+        "description_narrative": "慕雨打开房门，看到门口的西装男，误以为是轩诚返回，疑惑地询问他为什么回来。",
+        "dialogue": "轩诚 你怎么又回来了 落什么了",
+        "speaker": "慕雨",
+        "emotion": "疑惑",
+        "duration": 6.0,
+        "description_visual": "中景过肩镜头；房门门口，室内光线透出；画面右侧前景人物，身穿黑色衣服，打开房门，表情：眉毛微蹙，眼神疑惑；画面左侧人物，身穿米色双排扣西装，站在门口，表情：看着慕雨。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "走进房间",
+                "expression": "眉毛微挑，眼睛注视前方"
+            }
+        ],
+        "background": "室内门口，光线较暗",
+        "description_narrative": "西装男没有回答，直接迈步走进房间，镜头推进，他的表情显得有些凝重和复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.3,
+        "description_visual": "近景平拍镜头（推进）；室内门口，光线较暗；画面中央人物，身穿米色双排扣西装，黑色衬衫，走进房间，表情：眉毛微挑，眼睛注视前方。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装",
+                "position": "画面中央",
+                "action": "站在房间内",
+                "expression": "不可见（被前景遮挡）"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色衣服",
+                "position": "画面左后景",
+                "action": "站在门口",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内天花板，有空调出风口",
+        "description_narrative": "仰拍视角，前景有模糊遮挡物，西装男站在房间内，背景中慕雨站在门口，两人对峙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.73,
+        "description_visual": "中景仰拍镜头；室内天花板，有空调出风口；画面中央人物，身穿米色双排扣西装，站在房间内，表情：不可见（被前景遮挡）；画面左后景人物，身穿黑色衣服，站在门口，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "转头看向某处",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，暖色调",
+        "description_narrative": "近景镜头，西装男转过头，似乎看到了什么令他震惊的事情，口中吐出一个字，表情惊讶。",
+        "dialogue": "你",
+        "speaker": "西装男",
+        "emotion": "震惊",
+        "duration": 2.17,
+        "description_visual": "近景平拍镜头；室内背景，暖色调；画面中央人物，身穿米色双排扣西装，黑色衬衫，转头看向某处，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "米色双排扣西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "特写镜头聚焦在西装男的脸上，他戴着眼镜，眼神中充满了震惊和不可置信，死死盯着前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.97,
+        "description_visual": "特写平拍镜头；室内背景，光线柔和；画面中央人物，身穿米色双排扣西装，黑色衬衫，直视前方，表情：眉毛紧锁，眼睛直视，嘴巴微张。"
+    }
+]

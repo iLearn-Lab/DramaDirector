@@ -1,0 +1,839 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "医院走廊，白色栏杆，冷色调光线",
+        "description_narrative": "镜头固定拍摄医院走廊的白色栏杆，背景虚化，光线清冷，营造清晨氛围。",
+        "dialogue": "天要亮了",
+        "speaker": null,
+        "emotion": null,
+        "duration": 7.14,
+        "description_visual": "全景平拍镜头；医院走廊，白色栏杆，冷色调光线。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "打电话女子",
+                "gender": "女",
+                "clothing": "棕色衬衫配长裙",
+                "position": "画面右侧",
+                "action": "边走边看手机，神情焦急",
+                "expression": "眉毛微蹙，眼睛紧盯屏幕，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "深蓝色西装配紫色领带",
+                "position": "画面左侧",
+                "action": "并肩行走，目视前方",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "户外人行道，阳光明媚，树木成行",
+        "description_narrative": "镜头跟拍打电话女子和西装男子在户外人行道上快步行走，女子低头看手机，神情焦急，男子紧随其侧。",
+        "dialogue": "爸爸 表妹不见了",
+        "speaker": "打电话女子",
+        "emotion": "焦急",
+        "duration": 2.52,
+        "description_visual": "全景平拍镜头（跟拍）；户外人行道，阳光明媚，树木成行；画面右侧人物，身穿棕色衬衫配长裙，边走边看手机，神情焦急，表情：眉毛微蹙，眼睛紧盯屏幕，嘴巴微张；画面左侧人物，身穿深蓝色西装配紫色领带，并肩行走，目视前方，表情：眉毛舒展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "打电话女子",
+                "gender": "女",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "手持手机贴在耳边，正在通话",
+                "expression": "眉毛紧锁，眼睛微闭，嘴巴张开说话"
+            }
+        ],
+        "background": "户外背景虚化，光斑闪烁",
+        "description_narrative": "镜头特写打电话女子面部，她手持手机贴在耳边，阳光从侧后方照射，她紧闭双眼焦急地讲述情况。",
+        "dialogue": "我们刚下飞机",
+        "speaker": "打电话女子",
+        "emotion": "焦急",
+        "duration": 0.34,
+        "description_visual": "特写平拍镜头；户外背景虚化，光斑闪烁；画面中央人物，身穿棕色衬衫，手持手机贴在耳边，正在通话，表情：眉毛紧锁，眼睛微闭，嘴巴张开说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "打电话女子",
+                "gender": "女",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "手持手机通话，情绪激动",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴张大说话"
+            }
+        ],
+        "background": "户外背景虚化，强光逆光",
+        "description_narrative": "镜头保持特写，打电话女子继续对着手机急切地说明情况，阳光强烈，她的表情充满担忧。",
+        "dialogue": "就被敲了闷棍 再醒来表妹就失踪了",
+        "speaker": "打电话女子",
+        "emotion": "惊恐",
+        "duration": 3.08,
+        "description_visual": "特写平拍镜头；户外背景虚化，强光逆光；画面中央人物，身穿棕色衬衫，手持手机通话，情绪激动，表情：眉毛紧蹙，眼睛紧闭，嘴巴张大说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "打电话女子",
+                "gender": "女",
+                "clothing": "棕色衬衫配长裙",
+                "position": "画面右侧",
+                "action": "边走边打电话，步伐急促",
+                "expression": "眉毛紧锁，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "双手插兜行走，侧头看女子",
+                "expression": "眉毛微挑，眼睛看向女子，嘴巴紧闭"
+            }
+        ],
+        "background": "户外人行道，树木，远处有行人",
+        "description_narrative": "镜头拉远至全景，显示两人在人行道上行走，女子继续通话，男子侧头关注她的反应。",
+        "dialogue": "什么 你等着 我们马上过去",
+        "speaker": "打电话女子",
+        "emotion": "急切",
+        "duration": 3.08,
+        "description_visual": "全景平拍镜头（跟拍）；户外人行道，树木，远处有行人；画面右侧人物，身穿棕色衬衫配长裙，边走边打电话，步伐急促，表情：眉毛紧锁，眼睛看向前方，嘴巴微张；画面左侧人物，身穿深蓝色西装，双手插兜行走，侧头看女子，表情：眉毛微挑，眼睛看向女子，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "躺在床上，双眼闭合，正在熟睡",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色床单，柔和光线",
+        "description_narrative": "镜头俯拍病床上的女子，她身穿白色背心，安静地躺在白色床单上，双眼紧闭，似乎刚醒来或仍在沉睡。",
+        "dialogue": "姐姐",
+        "speaker": "尘非",
+        "emotion": null,
+        "duration": 4.26,
+        "description_visual": "特写俯拍镜头；医院病房，白色床单，柔和光线；画面中央人物，身穿白色背心，躺在床上，双眼闭合，正在熟睡，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "坐在床边，低头看向女子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "病房窗帘，米色花纹，室内光线",
+        "description_narrative": "镜头近景拍摄尘非，他身穿白色衬衫坐在床边，低头看着床上的人，神情看似关切。",
+        "dialogue": "你怎么在这",
+        "speaker": "病床女子",
+        "emotion": null,
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；病房窗帘，米色花纹，室内光线；画面中央人物，身穿白色衬衫，坐在床边，低头看向女子，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在床边，手扶着床沿",
+                "expression": "眉毛微蹙，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "躺在床上，刚醒来，抬头看男子",
+                "expression": "眉毛微蹙，眼睛睁开，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，床头柜，白色床单",
+        "description_narrative": "镜头中景展示病房全貌，尘非坐在床边，病床女子刚醒来，抬头疑惑地看着他，两人对视。",
+        "dialogue": "你怎么在这",
+        "speaker": "病床女子",
+        "emotion": "困惑",
+        "duration": 3.92,
+        "description_visual": "中景平拍镜头；医院病房，床头柜，白色床单；画面左侧人物，身穿白色衬衫，坐在床边，手扶着床沿，表情：眉毛微蹙，眼睛看着女子，嘴巴微张；画面右侧人物，身穿白色背心，躺在床上，刚醒来，抬头看男子，表情：眉毛微蹙，眼睛睁开，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "看着女子，正在解释",
+                "expression": "眉毛舒展，眼睛直视女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧前景",
+                "action": "背对镜头，只露出肩膀和头发",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房窗帘，米色花纹",
+        "description_narrative": "过肩镜头拍摄尘非，他正看着病床上的女子，神情认真地解释着什么，女子背对镜头。",
+        "dialogue": "来 尘非 你小叔呢",
+        "speaker": "病床女子",
+        "emotion": "疑惑",
+        "duration": 6.58,
+        "description_visual": "近景过肩镜头；病房窗帘，米色花纹；画面左侧人物，身穿白色衬衫，看着女子，正在解释，表情：眉毛舒展，眼睛直视女子，嘴巴微张；画面右侧前景人物，身穿白色背心，背对镜头，只露出肩膀和头发，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "坐在床上，眉头紧锁",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "病房墙壁，米色，光线柔和",
+        "description_narrative": "镜头特写病床女子面部，她眉头紧锁，眼神中充满怀疑和担忧，似乎不相信对方的话。",
+        "dialogue": "不可能",
+        "speaker": "病床女子",
+        "emotion": "怀疑",
+        "duration": 2.32,
+        "description_visual": "特写平拍镜头；病房墙壁，米色，光线柔和；画面中央人物，身穿白色背心，坐在床上，眉头紧锁，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "摇头，表情痛苦",
+                "expression": "眉毛紧蹙，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头保持特写，女子继续摇头，眼中含泪，表情痛苦，嘴里念叨着不可能。",
+        "dialogue": "不可能 尘非",
+        "speaker": "病床女子",
+        "emotion": "痛苦",
+        "duration": 1.1,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，摇头，表情痛苦，表情：眉毛紧蹙，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "看着女子，继续解释",
+                "expression": "眉毛微蹙，眼睛直视女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "看着男子，等待回答",
+                "expression": "眉毛微蹙，眼睛直视男子，嘴巴微张"
+            }
+        ],
+        "background": "病房窗帘，米色花纹",
+        "description_narrative": "镜头近景拍摄两人对话，尘非看着女子，女子急切地询问小叔的情况，气氛紧张。",
+        "dialogue": "你小叔怎么样了",
+        "speaker": "病床女子",
+        "emotion": "焦急",
+        "duration": 4.82,
+        "description_visual": "近景平拍镜头；病房窗帘，米色花纹；画面左侧人物，身穿白色衬衫，看着女子，继续解释，表情：眉毛微蹙，眼睛直视女子，嘴巴微张；画面右侧人物，身穿白色背心，看着男子，等待回答，表情：眉毛微蹙，眼睛直视男子，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头，神情低落",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头特写女子面部，她听到解释后低下头，神情低落，似乎在思考或担忧。",
+        "dialogue": "姐姐 是真的 小叔现在在医院 不方便过来",
+        "speaker": "尘非",
+        "emotion": "担忧",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，低头，神情低落，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头，眼神黯淡",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头保持特写，女子依旧低着头，眼神黯淡，似乎接受了这个说法但依然不安。",
+        "dialogue": "你呀 就安心地在这",
+        "speaker": "尘非",
+        "emotion": "安抚",
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，低头，眼神黯淡，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在床边，手放在被子上",
+                "expression": "眉毛舒展，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "坐在床上，双手交握",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，床头柜，白色床单",
+        "description_narrative": "镜头中景展示两人，尘非坐在床边安抚女子，女子坐在床上双手交握，神情依旧忧虑。",
+        "dialogue": "就安心地在这等他",
+        "speaker": "尘非",
+        "emotion": "安抚",
+        "duration": 4.32,
+        "description_visual": "中景平拍镜头；医院病房，床头柜，白色床单；画面左侧人物，身穿白色衬衫，坐在床边，手放在被子上，表情：眉毛舒展，眼睛看着女子，嘴巴微张；画面右侧人物，身穿白色背心，坐在床上，双手交握，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "看着女子，语气温和",
+                "expression": "眉毛舒展，眼睛直视女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房窗帘，米色花纹",
+        "description_narrative": "过肩镜头拍摄尘非，他温和地看着女子，劝她安心等待，女子背对镜头。",
+        "dialogue": "等他",
+        "speaker": "病床女子",
+        "emotion": "疑惑",
+        "duration": 5.42,
+        "description_visual": "近景过肩镜头；病房窗帘，米色花纹；画面左侧人物，身穿白色衬衫，看着女子，语气温和，表情：眉毛舒展，眼睛直视女子，嘴巴微张；画面右侧前景人物，身穿白色背心，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "抬头看男子，眼神疑惑",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头特写女子面部，她抬头看着男子，眼神中充满疑惑，似乎在思考同伴的下落。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疑惑",
+        "duration": 3.94,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，抬头看男子，眼神疑惑，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在床边，看着女子",
+                "expression": "眉毛微蹙，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "坐在床上，询问同伴",
+                "expression": "眉毛微蹙，眼睛看着男子，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，床头柜，白色床单",
+        "description_narrative": "镜头中景展示两人，女子坐在床上询问同伴的下落，尘非坐在床边看着她，准备回答。",
+        "dialogue": "陪我一起来的人呢",
+        "speaker": "病床女子",
+        "emotion": "焦急",
+        "duration": 4.3,
+        "description_visual": "中景平拍镜头；医院病房，床头柜，白色床单；画面左侧人物，身穿白色衬衫，坐在床边，看着女子，表情：眉毛微蹙，眼睛看着女子，嘴巴微张；画面右侧人物，身穿白色背心，坐在床上，询问同伴，表情：眉毛微蹙，眼睛看着男子，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "手持碗勺，正在搅拌",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "病房窗帘，米色花纹",
+        "description_narrative": "镜头近景拍摄尘非，他手持碗勺正在搅拌，神情专注，似乎在准备食物。",
+        "dialogue": "他们 他们把你交给我就走了",
+        "speaker": "尘非",
+        "emotion": "平静",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；病房窗帘，米色花纹；画面中央人物，身穿白色衬衫，手持碗勺，正在搅拌，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头，神情低落",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头特写女子面部，她听到回答后低下头，神情低落，似乎有些失望或无奈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "失落",
+        "duration": 6.04,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，低头，神情低落，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在床边，递过碗",
+                "expression": "眉毛舒展，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "坐在床上，准备接碗",
+                "expression": "眉毛微蹙，眼睛看着碗，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，床头柜，白色床单",
+        "description_narrative": "镜头中景展示两人，尘非坐在床边将碗递给女子，女子坐在床上准备接过，气氛稍显缓和。",
+        "dialogue": "来 姐姐 你刚醒",
+        "speaker": "尘非",
+        "emotion": "温和",
+        "duration": 4.16,
+        "description_visual": "中景平拍镜头；医院病房，床头柜，白色床单；画面左侧人物，身穿白色衬衫，坐在床边，递过碗，表情：眉毛舒展，眼睛看着女子，嘴巴微张；画面右侧人物，身穿白色背心，坐在床上，准备接碗，表情：眉毛微蹙，眼睛看着碗，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "手持碗勺，正在喂食",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "病房窗帘，米色花纹",
+        "description_narrative": "镜头近景拍摄尘非，他手持碗勺正在喂食，神情专注，动作轻柔。",
+        "dialogue": "吃点东西吧",
+        "speaker": "尘非",
+        "emotion": "关切",
+        "duration": 5.84,
+        "description_visual": "近景平拍镜头；病房窗帘，米色花纹；画面中央人物，身穿白色衬衫，手持碗勺，正在喂食，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "伸手接碗，轻声说话",
+                "expression": "眉毛微蹙，眼睛看着碗，嘴巴微张"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头特写女子面部，她伸手接过碗，轻声向尘非道谢，表示要自己吃。",
+        "dialogue": "谢谢你 尘非 我自己来",
+        "speaker": "病床女子",
+        "emotion": "感激",
+        "duration": 6.3,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，伸手接碗，轻声说话，表情：眉毛微蹙，眼睛看着碗，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "递过碗，点头",
+                "expression": "眉毛舒展，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "伸手接碗",
+                "expression": "眉毛微蹙，眼睛看着碗，嘴巴微张"
+            }
+        ],
+        "background": "病房窗帘，米色花纹",
+        "description_narrative": "镜头近景拍摄两人互动，尘非将碗递给女子，女子伸手接过，尘非点头同意。",
+        "dialogue": "好",
+        "speaker": "尘非",
+        "emotion": "温和",
+        "duration": 3.18,
+        "description_visual": "近景平拍镜头；病房窗帘，米色花纹；画面左侧人物，身穿白色衬衫，递过碗，点头，表情：眉毛舒展，眼睛看着女子，嘴巴微张；画面右侧人物，身穿白色背心，伸手接碗，表情：眉毛微蹙，眼睛看着碗，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "手持碗勺，正在进食",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头特写女子手持碗勺，正在进食，神情专注，动作缓慢。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 0.62,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，手持碗勺，正在进食，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在床边，看着女子",
+                "expression": "眉毛舒展，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "坐在床上，手持碗",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，床头柜，白色床单",
+        "description_narrative": "镜头中景展示两人，女子坐在床上进食，尘非坐在床边看着她，气氛安静。",
+        "dialogue": "我吃不下了",
+        "speaker": "病床女子",
+        "emotion": "疲惫",
+        "duration": 0.68,
+        "description_visual": "中景平拍镜头；医院病房，床头柜，白色床单；画面左侧人物，身穿白色衬衫，坐在床边，看着女子，表情：眉毛舒展，眼睛看着女子，嘴巴微张；画面右侧人物，身穿白色背心，坐在床上，手持碗，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头，神情低落",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头特写女子面部，她低下头，神情低落，似乎没有胃口。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "低落",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，低头，神情低落，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头，眼神黯淡",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头保持特写，女子依旧低着头，眼神黯淡，气氛沉闷。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "黯淡",
+        "duration": 0.68,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，低头，眼神黯淡，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头，神情疲惫",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头特写女子面部，她低着头，神情疲惫，似乎想要休息。",
+        "dialogue": "姐姐",
+        "speaker": "尘非",
+        "emotion": null,
+        "duration": 4.78,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，低头，神情疲惫，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "闭眼，神情疲惫",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "病房墙壁，米色",
+        "description_narrative": "镜头特写女子面部，她闭上眼睛，神情疲惫，似乎已经睡着或不愿再说话。",
+        "dialogue": "姐姐 你等等我 等我解决了他们 我们就好好地过日子",
+        "speaker": "尘非",
+        "emotion": "阴冷",
+        "duration": 7.58,
+        "description_visual": "特写平拍镜头；病房墙壁，米色；画面中央人物，身穿白色背心，闭眼，神情疲惫，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "伸手抚摸女子脸颊",
+                "expression": "眉毛舒展，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "闭眼，被抚摸",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，床头柜，白色床单",
+        "description_narrative": "镜头中景展示两人，尘非伸手抚摸女子的脸颊，女子闭着眼睛，气氛诡异。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "诡异",
+        "duration": 1.26,
+        "description_visual": "特写平拍镜头；医院病房，床头柜，白色床单；画面左侧人物，身穿白色衬衫，伸手抚摸女子脸颊，表情：眉毛舒展，眼睛看着女子，嘴巴微张；画面右侧人物，身穿白色背心，闭眼，被抚摸，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "闭眼，被抚摸脸颊",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "病房墙壁，米色，强光",
+        "description_narrative": "镜头推进至女子面部大特写，尘非的手抚摸着她的脸颊，光线变强，画面逐渐过曝。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无助",
+        "duration": 0.54,
+        "description_visual": "大特写平拍镜头（推进）；病房墙壁，米色，强光；画面中央人物，身穿白色背心，闭眼，被抚摸脸颊，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕，无内容",
+        "description_narrative": "画面完全过曝变为白色，结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "全景平拍镜头；白色屏幕，无内容。"
+    }
+]

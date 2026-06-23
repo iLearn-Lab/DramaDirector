@@ -1,0 +1,446 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景，无具体场景细节",
+        "description_narrative": "画面为纯白色屏幕，持续3.84秒，作为转场或片头，无可见人物或动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "特写平拍镜头；纯白背景，无具体场景细节。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林先生",
+                "gender": "男",
+                "clothing": "深色西装外套，内搭条纹衬衫",
+                "position": "画面右侧",
+                "action": "身体微向前倾，右手握拳轻抵桌面，眼神直视前方",
+                "expression": "眉毛微挑，眼睛专注凝视，嘴巴微张正在说话"
+            }
+        ],
+        "background": "昏暗室内，背景有模糊的灯光点缀，色调偏暖",
+        "description_narrative": "近景镜头，林先生身穿深色西装，坐在桌前，神情严肃自信，右手握拳放在桌上，对着对面的人说出挑战的话语。",
+        "dialogue": "钟神医，这次我要打败你。",
+        "speaker": "林先生",
+        "emotion": "自信",
+        "duration": 2.68,
+        "description_visual": "近景平拍镜头；昏暗室内，背景有模糊的灯光点缀，色调偏暖；画面右侧人物，身穿深色西装外套，内搭条纹衬衫，身体微向前倾，右手握拳轻抵桌面，眼神直视前方，表情：眉毛微挑，眼睛专注凝视，嘴巴微张正在说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱上衣",
+                "position": "画面左侧",
+                "action": "头部微低，视线向下，嘴角含笑",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微张露出笑意"
+            }
+        ],
+        "background": "室内环境，背景虚化，可见部分家具轮廓",
+        "description_narrative": "近景镜头，钟神医身穿白色上衣，低头看着棋盘，脸上带着冷静的笑意，回应林先生的挑战。",
+        "dialogue": "那你很有信心啊",
+        "speaker": "钟神医",
+        "emotion": "冷静",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；室内环境，背景虚化，可见部分家具轮廓；画面左侧人物，身穿白色褶皱上衣，头部微低，视线向下，嘴角含笑，表情：眉毛舒展，眼睛视线下移，嘴巴微张露出笑意。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱上衣，深色裤子",
+                "position": "画面左侧",
+                "action": "右手伸向棋盒，准备拿取棋子",
+                "expression": "表情轻松，嘴角上扬"
+            },
+            {
+                "name": "林先生",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "双手放在桌上，身体前倾",
+                "expression": "侧脸看向对方，神情专注"
+            }
+        ],
+        "background": "宽敞的室内空间，深色木质桌椅，背景有玻璃窗和灯光",
+        "description_narrative": "全景镜头，两人对坐在围棋桌前，钟神医伸手拿子，语气轻松地说出局势对自己有利。",
+        "dialogue": "现在的天平在向我倾斜了，哈哈",
+        "speaker": "钟神医",
+        "emotion": "轻松",
+        "duration": 3.76,
+        "description_visual": "全景平拍镜头；宽敞的室内空间，深色木质桌椅，背景有玻璃窗和灯光；画面左侧人物，身穿白色褶皱上衣，深色裤子，右手伸向棋盒，准备拿取棋子，表情：表情轻松，嘴角上扬；画面右侧人物，身穿深色西装，双手放在桌上，身体前倾，表情：侧脸看向对方，神情专注。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱上衣",
+                "position": "画面左侧",
+                "action": "视线向下，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内背景虚化，光线柔和",
+        "description_narrative": "近景镜头，钟神医低头看着棋盘，此时画外传来林先生的声音，谈论商业布局。",
+        "dialogue": "周氏只是垫脚石，上限在哪里谁也不知道",
+        "speaker": "林先生",
+        "emotion": "野心",
+        "duration": 4.32,
+        "description_visual": "近景平拍镜头；室内背景虚化，光线柔和；画面左侧人物，身穿白色褶皱上衣，视线向下，嘴唇微动，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林先生",
+                "gender": "男",
+                "clothing": "深色西装，条纹衬衫",
+                "position": "画面右侧",
+                "action": "侧脸对着镜头，嘴巴张开说话",
+                "expression": "眉毛微扬，眼睛注视前方，嘴巴张大"
+            }
+        ],
+        "background": "暗调背景，可见部分书架或柜子",
+        "description_narrative": "近景侧拍，林先生表情坚定，语气强硬地表示要掌控林氏集团。",
+        "dialogue": "林氏一定要被我握在手里",
+        "speaker": "林先生",
+        "emotion": "坚定",
+        "duration": 3.2,
+        "description_visual": "近景侧拍镜头；暗调背景，可见部分书架或柜子；画面右侧人物，身穿深色西装，条纹衬衫，侧脸对着镜头，嘴巴张开说话，表情：眉毛微扬，眼睛注视前方，嘴巴张大。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱上衣",
+                "position": "画面左侧",
+                "action": "视线斜视，嘴角微扬",
+                "expression": "眉毛舒展，眼睛斜视，嘴巴闭合带笑"
+            }
+        ],
+        "background": "室内背景，光线温暖",
+        "description_narrative": "近景镜头，钟神医带着讽刺的笑意，提前恭喜林先生。",
+        "dialogue": "那就先恭喜你了，林先生",
+        "speaker": "钟神医",
+        "emotion": "讽刺",
+        "duration": 3.68,
+        "description_visual": "近景平拍镜头；室内背景，光线温暖；画面左侧人物，身穿白色褶皱上衣，视线斜视，嘴角微扬，表情：眉毛舒展，眼睛斜视，嘴巴闭合带笑。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "手放在棋盒上，身体微动",
+                "expression": "表情认真"
+            },
+            {
+                "name": "林先生",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "伸手拿棋子",
+                "expression": "专注"
+            }
+        ],
+        "background": "围棋桌，深色背景",
+        "description_narrative": "全景镜头，两人继续对弈，钟神医指出林氏集团的反应速度很快，似乎在提防什么。",
+        "dialogue": "不过林氏的反应速度很快，好像在提防着什么",
+        "speaker": "钟神医",
+        "emotion": "分析",
+        "duration": 4.12,
+        "description_visual": "全景平拍镜头；围棋桌，深色背景；画面左侧人物，身穿白色上衣，手放在棋盒上，身体微动，表情：表情认真；画面右侧人物，身穿深色西装，伸手拿棋子，表情：专注。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "眼神锐利，直视对方",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，虚化",
+        "description_narrative": "近景镜头，钟神医眼神锐利，直接点破林先生家老爷子才是关键所在。",
+        "dialogue": "你家老爷子才是阵眼",
+        "speaker": "钟神医",
+        "emotion": "洞察",
+        "duration": 3.44,
+        "description_visual": "近景平拍镜头；室内背景，虚化；画面左侧人物，身穿白色上衣，眼神锐利，直视对方，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林先生",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "侧脸，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "近景侧拍，林先生不以为然，认为老爷子已经退隐，不足为惧。",
+        "dialogue": "他都退隐幕后了，一个老头子罢了",
+        "speaker": "林先生",
+        "emotion": "轻视",
+        "duration": 3.56,
+        "description_visual": "近景侧拍镜头；暗调背景；画面右侧人物，身穿深色西装，侧脸，嘴巴微张，表情：眉毛微蹙，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "低头微笑",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张露齿"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，钟神医低头轻笑，说出“当局者迷”的哲理。",
+        "dialogue": "当局者迷",
+        "speaker": "钟神医",
+        "emotion": "意味深长",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；室内背景；画面左侧人物，身穿白色上衣，低头微笑，表情：眉毛舒展，眼睛下视，嘴巴微张露齿。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林先生",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "突然转头，眼神惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "近景侧拍，林先生似乎意识到了什么，突然出声打断。",
+        "dialogue": "你",
+        "speaker": "林先生",
+        "emotion": "惊讶",
+        "duration": 1.0,
+        "description_visual": "近景侧拍镜头；暗调背景；画面右侧人物，身穿深色西装，突然转头，眼神惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林先生",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "侧脸，神情严肃质问",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴张开"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "近景侧拍，林先生神情严肃，质问钟神医究竟是朋友还是敌人。",
+        "dialogue": "你算是朋友还是敌人",
+        "speaker": "林先生",
+        "emotion": "质问",
+        "duration": 2.08,
+        "description_visual": "近景侧拍镜头；暗调背景；画面右侧人物，身穿深色西装，侧脸，神情严肃质问，表情：眉毛紧锁，眼睛直视，嘴巴张开。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "眼神平静，嘴角微抿",
+                "expression": "眉毛平展，眼睛平视，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，钟神医表情平静，开始解释她与林先生的关系定位。",
+        "dialogue": "你认为我是朋友的时候，我在你眼里就不算是敌人",
+        "speaker": "钟神医",
+        "emotion": "平静",
+        "duration": 5.48,
+        "description_visual": "近景平拍镜头；室内背景；画面左侧人物，身穿白色上衣，眼神平静，嘴角微抿，表情：眉毛平展，眼睛平视，嘴巴闭合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林先生",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "低头沉思，手放在桌上",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "近景侧拍，林先生低头沉思，消化钟神医的话，画面无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 1.52,
+        "description_visual": "近景侧拍镜头；暗调背景；画面右侧人物，身穿深色西装，低头沉思，手放在桌上，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "眼神自信，嘴角上扬",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，钟神医宣布林先生再次输掉了棋局。",
+        "dialogue": "你又输了，林先生",
+        "speaker": "钟神医",
+        "emotion": "胜利",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；室内背景；画面左侧人物，身穿白色上衣，眼神自信，嘴角上扬，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色上衣袖口",
+                "position": "画面左侧",
+                "action": "手将一枚黑子放在棋盘上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "围棋棋盘，黑白棋子交错",
+        "description_narrative": "特写俯拍镜头，钟神医的手将一枚黑子落在棋盘关键位置，终结了棋局。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.72,
+        "description_visual": "特写俯拍镜头；围棋棋盘，黑白棋子交错；画面左侧人物，身穿白色上衣袖口，手将一枚黑子放在棋盘上，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "眼神看向对方，表情平静",
+                "expression": "眉毛平展，眼睛平视，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，钟神医看着林先生，表情平静，等待对方反应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 5.68,
+        "description_visual": "近景平拍镜头；室内背景；画面左侧人物，身穿白色上衣，眼神看向对方，表情平静，表情：眉毛平展，眼睛平视，嘴巴闭合。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "身体快速移动，画面产生动态模糊",
+                "expression": "嘴巴微张，似乎在笑"
+            }
+        ],
+        "background": "室内背景，因运动而模糊",
+        "description_narrative": "近景镜头，钟神医身体快速移动，画面产生动态模糊，似乎起身或做出大幅度动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "动态",
+        "duration": 2.96,
+        "description_visual": "近景平拍镜头（摇镜）；室内背景，因运动而模糊；画面中央人物，身穿白色上衣，身体快速移动，画面产生动态模糊，表情：嘴巴微张，似乎在笑。"
+    }
+]

@@ -1,0 +1,685 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面左侧",
+                "action": "坐在沙发上，双腿交叠，手中拿着报纸阅读",
+                "expression": "眉毛舒展，眼睛注视报纸，嘴巴微闭"
+            },
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "靠在沙发扶手上，单手托腮，身体微微前倾",
+                "expression": "眉毛微蹙，眼神游离，嘴巴微张"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面右侧",
+                "action": "坐在沙发上，手中拿着报纸，一手扶着眼镜",
+                "expression": "眉毛微皱，眼睛透过镜片看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "现代风格客厅，米色沙发，白色窗帘，光线柔和",
+        "description_narrative": "全景镜头固定，展示客厅场景。左侧青年男子身穿浅蓝色衬衫阅读报纸，中间妙妙身穿深灰色西装裙托腮发呆，右侧爷爷身穿绿色中式上衣扶着眼镜看报，三人气氛略显沉闷。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；现代风格客厅，米色沙发，白色窗帘，光线柔和；画面左侧人物，身穿浅蓝色衬衫，坐在沙发上，双腿交叠，手中拿着报纸阅读，表情：眉毛舒展，眼睛注视报纸，嘴巴微闭；画面中央人物，身穿深灰色西装裙，靠在沙发扶手上，单手托腮，身体微微前倾，表情：眉毛微蹙，眼神游离，嘴巴微张；画面右侧人物，身穿绿色中式对襟上衣，坐在沙发上，手中拿着报纸，一手扶着眼镜，表情：眉毛微皱，眼睛透过镜片看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面中央",
+                "action": "低头看报，右手扶着眼镜框",
+                "expression": "眉毛紧锁，眼睛向下看，嘴唇微抿"
+            }
+        ],
+        "background": "客厅背景虚化，暖色调灯光",
+        "description_narrative": "特写镜头聚焦爷爷，他身穿绿色中式上衣，低头看着手中的报纸，右手扶着眼镜，神情专注中带着一丝疑虑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；客厅背景虚化，暖色调灯光；画面中央人物，身穿绿色中式对襟上衣，低头看报，右手扶着眼镜框，表情：眉毛紧锁，眼睛向下看，嘴唇微抿。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "单手托腮，手肘撑在沙发扶手上",
+                "expression": "眉毛微挑，眼神看向侧方，嘴巴微张似在回应"
+            }
+        ],
+        "background": "米色墙壁，光线柔和",
+        "description_narrative": "近景镜头拍摄妙妙，她身穿深灰色西装裙，单手托腮，眼神有些涣散，听到爷爷的询问后微微张嘴。",
+        "dialogue": "妙妙你怎么啦 魂不守舍的",
+        "speaker": "爷爷",
+        "emotion": "忧虑",
+        "duration": 3.72,
+        "description_visual": "近景平拍镜头；米色墙壁，光线柔和；画面中央人物，身穿深灰色西装裙，单手托腮，手肘撑在沙发扶手上，表情：眉毛微挑，眼神看向侧方，嘴巴微张似在回应。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面中央",
+                "action": "摘下眼镜拿在手中，身体微微前倾",
+                "expression": "眉毛舒展，眼睛向下看，嘴角微动"
+            }
+        ],
+        "background": "客厅沙发背景，暖光",
+        "description_narrative": "近景镜头给到爷爷，他摘下眼镜拿在手中，身体前倾，似乎在等待回答，神情关切。",
+        "dialogue": "没事爷爷",
+        "speaker": "妙妙",
+        "emotion": "安抚",
+        "duration": 3.08,
+        "description_visual": "近景平拍镜头；客厅沙发背景，暖光；画面中央人物，身穿绿色中式对襟上衣，摘下眼镜拿在手中，身体微微前倾，表情：眉毛舒展，眼睛向下看，嘴角微动。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "端正坐姿，眼神看向侧前方",
+                "expression": "眉毛平展，眼神略微下垂，嘴唇紧闭"
+            }
+        ],
+        "background": "米色墙壁，柔和光线",
+        "description_narrative": "近景镜头拍摄妙妙，她端正坐着，眼神略微下垂，似乎在思考爷爷的关心，表情略显疲惫。",
+        "dialogue": "是不是压力太大了 要劳逸结合啊",
+        "speaker": "爷爷",
+        "emotion": "关切",
+        "duration": 4.52,
+        "description_visual": "近景平拍镜头；米色墙壁，柔和光线；画面中央人物，身穿深灰色西装裙，端正坐姿，眼神看向侧前方，表情：眉毛平展，眼神略微下垂，嘴唇紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "头部微微转动，眼神聚焦",
+                "expression": "眉毛微动，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头中，妙妙头部微转，眼神从游离变得聚焦，似乎准备开口说话，神情认真。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿深灰色西装裙，头部微微转动，眼神聚焦，表情：眉毛微动，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "低头看着手中的报纸，手指捏着报纸边缘",
+                "expression": "眉毛平展，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "白色窗帘背景，光线明亮",
+        "description_narrative": "近景镜头拍摄青年男子，他身穿浅蓝色衬衫，低头看着报纸，手指捏着报纸边缘，神情平静。",
+        "dialogue": "我知道了爷爷",
+        "speaker": "妙妙",
+        "emotion": "顺从",
+        "duration": 4.96,
+        "description_visual": "近景平拍镜头；白色窗帘背景，光线明亮；画面中央人物，身穿浅蓝色衬衫，低头看着手中的报纸，手指捏着报纸边缘，表情：眉毛平展，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "放下报纸，眼神看向前方",
+                "expression": "眉毛微挑，眼睛直视前方，嘴唇微动"
+            }
+        ],
+        "background": "白色窗帘背景，光线柔和",
+        "description_narrative": "近景镜头中，青年男子放下报纸，眼神看向前方，似乎听到了什么，表情略显惊讶。",
+        "dialogue": "我知道公司最大的内鬼是谁了",
+        "speaker": "妙妙",
+        "emotion": "严肃",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；白色窗帘背景，光线柔和；画面中央人物，身穿浅蓝色衬衫，放下报纸，眼神看向前方，表情：眉毛微挑，眼睛直视前方，嘴唇微动。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "身体前倾，眼神锐利",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头拍摄妙妙，她身体前倾，眼神变得锐利，嘴巴微张，语气坚定地透露信息。",
+        "dialogue": "他的职位很高",
+        "speaker": "妙妙",
+        "emotion": "凝重",
+        "duration": 0.64,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿深灰色西装裙，身体前倾，眼神锐利，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面中央",
+                "action": "身体坐直，双手放在腿上",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅沙发背景，暖光",
+        "description_narrative": "近景镜头给到爷爷，他身体坐直，双手放在腿上，表情严肃，眼神中透着威严，询问对策。",
+        "dialogue": "你会怎么办",
+        "speaker": "爷爷",
+        "emotion": "威严",
+        "duration": 2.36,
+        "description_visual": "近景平拍镜头；客厅沙发背景，暖光；画面中央人物，身穿绿色中式对襟上衣，身体坐直，双手放在腿上，表情：眉毛紧锁，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "眼神坚定，头部微侧",
+                "expression": "眉毛微扬，眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头拍摄妙妙，她眼神坚定，头部微侧，语气果断地说出处理方案，表情毫不留情。",
+        "dialogue": "我会直接把他踢出公司 在整个行业里封杀他",
+        "speaker": "妙妙",
+        "emotion": "决绝",
+        "duration": 3.96,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿深灰色西装裙，眼神坚定，头部微侧，表情：眉毛微扬，眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面中央",
+                "action": "微微低头，眼神下沉",
+                "expression": "眉毛舒展，眼睛向下看，嘴唇微动"
+            }
+        ],
+        "background": "客厅沙发背景，暖光",
+        "description_narrative": "近景镜头给到爷爷，他微微低头，眼神下沉，似乎在权衡妙妙的话，表情略显深沉。",
+        "dialogue": "会不会太残忍了爷爷",
+        "speaker": "妙妙",
+        "emotion": "试探",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；客厅沙发背景，暖光；画面中央人物，身穿绿色中式对襟上衣，微微低头，眼神下沉，表情：眉毛舒展，眼睛向下看，嘴唇微动。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "眼神直视前方，表情严肃",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴紧闭"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头拍摄妙妙，她眼神直视前方，表情严肃，似乎在复述爷爷的态度，神情坚定。",
+        "dialogue": "当他背叛我的时候 就已经是敌人了",
+        "speaker": "爷爷",
+        "emotion": "冷酷",
+        "duration": 3.44,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿深灰色西装裙，眼神直视前方，表情严肃，表情：眉毛微蹙，眼睛睁大，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面中央",
+                "action": "点头，眼神肯定",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微动"
+            }
+        ],
+        "background": "客厅沙发背景，暖光",
+        "description_narrative": "近景镜头给到爷爷，他点头表示肯定，眼神中透着决断，似乎对妙妙的领悟感到满意。",
+        "dialogue": "我知道怎么做了",
+        "speaker": "妙妙",
+        "emotion": "坚定",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；客厅沙发背景，暖光；画面中央人物，身穿绿色中式对襟上衣，点头，眼神肯定，表情：眉毛舒展，眼睛直视前方，嘴巴微动。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "抬头看向前方，嘴巴微张",
+                "expression": "眉毛平展，眼睛注视前方，嘴唇微动"
+            }
+        ],
+        "background": "白色窗帘背景，光线柔和",
+        "description_narrative": "近景镜头拍摄青年男子，他抬头看向前方，嘴巴微张，似乎在转述爷爷的鼓励，神情轻松。",
+        "dialogue": "放手大胆去做吧",
+        "speaker": "爷爷",
+        "emotion": "鼓励",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；白色窗帘背景，光线柔和；画面中央人物，身穿浅蓝色衬衫，抬头看向前方，嘴巴微张，表情：眉毛平展，眼睛注视前方，嘴唇微动。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "闭上眼睛，头部微低",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景，光线柔和",
+        "description_narrative": "近景镜头中，青年男子闭上眼睛，头部微低，似乎在思考接下来的问题，神情若有所思。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；白色窗帘背景，光线柔和；画面中央人物，身穿浅蓝色衬衫，闭上眼睛，头部微低，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面中央",
+                "action": "眼神看向侧方，表情严肃",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅沙发背景，暖光",
+        "description_narrative": "近景镜头给到爷爷，他眼神看向侧方，表情严肃，似乎在回应妙妙进一步的假设性问题。",
+        "dialogue": "那要是内鬼 是您最亲近的人呢",
+        "speaker": "妙妙",
+        "emotion": "试探",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；客厅沙发背景，暖光；画面中央人物，身穿绿色中式对襟上衣，眼神看向侧方，表情严肃，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "眼神看向侧方，表情认真",
+                "expression": "眉毛微挑，眼睛注视侧方，嘴巴微动"
+            }
+        ],
+        "background": "白色窗帘背景，光线柔和",
+        "description_narrative": "近景镜头拍摄青年男子，他眼神看向侧方，表情认真，似乎在复述爷爷的雷霆手段，神情敬佩。",
+        "dialogue": "我也会这么做 做事要有魄力",
+        "speaker": "爷爷",
+        "emotion": "坚决",
+        "duration": 3.96,
+        "description_visual": "近景平拍镜头；白色窗帘背景，光线柔和；画面中央人物，身穿浅蓝色衬衫，眼神看向侧方，表情认真，表情：眉毛微挑，眼睛注视侧方，嘴巴微动。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "面部处于阴影中，轮廓模糊",
+                "expression": "五官模糊，难以辨认具体表情"
+            }
+        ],
+        "background": "黑暗背景，仅有轮廓光",
+        "description_narrative": "特写镜头中，青年男子面部处于阴影中，仅有轮廓光，声音带着敬佩的语气，表达内心想法。",
+        "dialogue": "老爷子我真佩服你",
+        "speaker": "青年男子",
+        "emotion": "敬佩",
+        "duration": 2.64,
+        "description_visual": "特写平拍镜头；黑暗背景，仅有轮廓光；画面中央人物，身穿浅蓝色衬衫，面部处于阴影中，轮廓模糊，表情：五官模糊，难以辨认具体表情。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "眼神向下，表情凝重",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头拍摄妙妙，她眼神向下，表情凝重，似乎在倾听青年男子的情报，神情专注。",
+        "dialogue": "今天听你小叔和周浪的对话 他们对周氏好像也有行动",
+        "speaker": "青年男子",
+        "emotion": "严肃",
+        "duration": 5.4,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿深灰色西装裙，眼神向下，表情凝重，表情：眉毛微蹙，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "靠在沙发上，双手交叉抱胸",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "中近景镜头拍摄青年男子，他靠在沙发上，双手交叉抱胸，姿态放松但眼神锐利，分析局势。",
+        "dialogue": "好像是周浪对周老爷子下手了 没想到周浪的人这么狠",
+        "speaker": "青年男子",
+        "emotion": "惊讶",
+        "duration": 6.52,
+        "description_visual": "中近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿浅蓝色衬衫，靠在沙发上，双手交叉抱胸，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "眼神看向侧方，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛注视侧方，嘴唇微动"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头拍摄妙妙，她眼神看向侧方，嘴巴微张，似乎在确认青年男子的计划，神情认真。",
+        "dialogue": "那我们就将计就计 别戳穿你小叔",
+        "speaker": "青年男子",
+        "emotion": "谋划",
+        "duration": 4.12,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿深灰色西装裙，眼神看向侧方，嘴巴微张，表情：眉毛微蹙，眼睛注视侧方，嘴唇微动。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "双手合十搓动，动作模糊",
+                "expression": "面部模糊，仅见手部动作"
+            }
+        ],
+        "background": "模糊背景，暖色调",
+        "description_narrative": "特写镜头聚焦青年男子的双手，他双手合十搓动，动作模糊，似乎在酝酿计谋，声音带着笑意。",
+        "dialogue": "你想让他们先把周氏拖垮 隔岸观火",
+        "speaker": "妙妙",
+        "emotion": "领悟",
+        "duration": 4.64,
+        "description_visual": "特写平拍镜头；模糊背景，暖色调；画面中央人物，身穿浅蓝色衬衫，双手合十搓动，动作模糊，表情：面部模糊，仅见手部动作。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "手托下巴，眼神看向侧方",
+                "expression": "眉毛微挑，眼睛注视侧方，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头拍摄青年男子，他手托下巴，眼神看向侧方，嘴角微扬，对妙妙的领悟表示赞赏。",
+        "dialogue": "聪明",
+        "speaker": "青年男子",
+        "emotion": "赞赏",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿浅蓝色衬衫，手托下巴，眼神看向侧方，表情：眉毛微挑，眼睛注视侧方，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "眼神直视前方，表情严肃",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头拍摄妙妙，她眼神直视前方，表情严肃，似乎在复述青年男子分析的利益关系，神情专注。",
+        "dialogue": "周氏目前占着林氏的股份",
+        "speaker": "青年男子",
+        "emotion": "冷静",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿深灰色西装裙，眼神直视前方，表情严肃，表情：眉毛平展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "靠在沙发上，双手交叉",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "中近景镜头拍摄青年男子，他靠在沙发上，双手交叉，继续分析局势，表情略显担忧。",
+        "dialogue": "林氏还刚恢复一些",
+        "speaker": "青年男子",
+        "emotion": "担忧",
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿浅蓝色衬衫，靠在沙发上，双手交叉，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "眼神看向侧方，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛注视侧方，嘴唇微动"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头拍摄妙妙，她眼神看向侧方，嘴巴微张，补充分析不宜正面冲突的原因，神情理智。",
+        "dialogue": "不宜跟周氏正面去冲突",
+        "speaker": "妙妙",
+        "emotion": "理智",
+        "duration": 2.88,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿深灰色西装裙，眼神看向侧方，嘴巴微张，表情：眉毛微蹙，眼睛注视侧方，嘴唇微动。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "靠在沙发上，眼神看向侧上方",
+                "expression": "眉毛微挑，眼睛看向侧上方，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "中近景镜头拍摄青年男子，他靠在沙发上，眼神看向侧上方，提出具体的行动计划，神情自信。",
+        "dialogue": "要想办法把小叔的权限降下来 要不然小叔再动手几次 林氏不垮也散了",
+        "speaker": "青年男子",
+        "emotion": "果断",
+        "duration": 6.2,
+        "description_visual": "中近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿浅蓝色衬衫，靠在沙发上，眼神看向侧上方，表情：眉毛微挑，眼睛看向侧上方，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "眼神看向侧方，表情坚定",
+                "expression": "眉毛平展，眼睛注视侧方，嘴巴微动"
+            }
+        ],
+        "background": "米色墙壁，室内光",
+        "description_narrative": "近景镜头拍摄青年男子，他眼神看向侧方，表情坚定，主动承担责任，语气充满自信。",
+        "dialogue": "直接交给我",
+        "speaker": "青年男子",
+        "emotion": "自信",
+        "duration": 4.96,
+        "description_visual": "近景平拍镜头；米色墙壁，室内光；画面中央人物，身穿浅蓝色衬衫，眼神看向侧方，表情坚定，表情：眉毛平展，眼睛注视侧方，嘴巴微动。"
+    }
+]

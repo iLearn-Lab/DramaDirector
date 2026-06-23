@@ -1,0 +1,1018 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫，黑色西裤",
+                "position": "画面左侧背景",
+                "action": "与林妙并肩从远处走向入口",
+                "expression": "眉毛自然，眼睛注视前方，嘴巴闭合"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面左侧背景，白衣男子身旁",
+                "action": "迈步走向入口",
+                "expression": "表情严肃，目光直视前方"
+            }
+        ],
+        "background": "建筑物入口处，铺有红色地毯，光线明亮",
+        "description_narrative": "全景固定镜头，建筑物入口处铺着红地毯，白衣男子与林妙从画面左侧背景处并肩走来，步伐稳健。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；建筑物入口处，铺有红色地毯，光线明亮；画面左侧背景人物，身穿白色立领衬衫，黑色西裤，与林妙并肩从远处走向入口，表情：眉毛自然，眼睛注视前方，嘴巴闭合；画面左侧背景，白衣男子身旁人物，身穿灰色西装套裙，迈步走向入口，表情：表情严肃，目光直视前方。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "行走中抬手整理耳侧头发",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室外停车场背景，有白色车辆",
+        "description_narrative": "中近景跟拍，白衣男子行走间抬手整理耳侧头发，神情略显凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头（跟拍）；室外停车场背景，有白色车辆；画面中央人物，身穿白色立领衬衫，行走中抬手整理耳侧头发，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "记者",
+                "gender": "男",
+                "clothing": "棕色连帽外套，棕色短裤",
+                "position": "画面中央",
+                "action": "手持相机，身体微蹲，准备拍摄",
+                "expression": "眉毛上扬，眼睛紧盯前方，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅窗边，有绿植盆栽",
+        "description_narrative": "中景固定镜头，一名身穿棕色连帽衣的记者手持相机，身体微蹲，神情专注地准备拍摄。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "中景平拍镜头；室内大厅窗边，有绿植盆栽；画面中央人物，身穿棕色连帽外套，棕色短裤，手持相机，身体微蹲，准备拍摄，表情：眉毛上扬，眼睛紧盯前方，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "记者",
+                "gender": "男",
+                "clothing": "黑色印花T恤，眼镜",
+                "position": "画面右侧",
+                "action": "侧身站立，手持录音设备",
+                "expression": "眉毛平展，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "室内明亮背景，模糊",
+        "description_narrative": "近景固定镜头，一名戴眼镜的记者侧身站立，手持设备，正在发问。",
+        "dialogue": "听说林老爷子",
+        "speaker": "记者",
+        "emotion": "好奇",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；室内明亮背景，模糊；画面右侧人物，身穿黑色印花T恤，眼镜，侧身站立，手持录音设备，表情：眉毛平展，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙，银色项链",
+                "position": "画面中央",
+                "action": "向前行走，面部表情冷峻",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外入口背景，光线过曝",
+        "description_narrative": "中近景跟拍，林妙面色冷峻地向前走，对周围的询问不予理会。",
+        "dialogue": "突发恶疾在医院",
+        "speaker": "记者",
+        "emotion": "冷漠",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头（跟拍）；室外入口背景，光线过曝；画面中央人物，身穿灰色西装套裙，银色项链，向前行走，面部表情冷峻，表情：眉毛微蹙，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "记者",
+                "gender": "男",
+                "clothing": "棕色连帽外套",
+                "position": "画面中央",
+                "action": "手持相机对准前方，镜头反光",
+                "expression": "眼睛透过取景器注视，嘴巴被遮挡"
+            }
+        ],
+        "background": "相机镜头特写，反射出大厅景象",
+        "description_narrative": "特写推进镜头，相机镜头占据画面，反光中映出大厅内的人影，记者继续追问。",
+        "dialogue": "是真的吗",
+        "speaker": "记者",
+        "emotion": "探究",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头（推进）；相机镜头特写，反射出大厅景象；画面中央人物，身穿棕色连帽外套，手持相机对准前方，镜头反光，表情：眼睛透过取景器注视，嘴巴被遮挡。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面左侧",
+                "action": "皱眉看着面前的录音笔",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张显怒意"
+            },
+            {
+                "name": "记者",
+                "gender": "男",
+                "clothing": "深色衣物",
+                "position": "画面右侧前景",
+                "action": "手持录音笔伸向林妙",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内大厅，光线明亮",
+        "description_narrative": "过肩近景，林妙愤怒地看着伸到面前的录音笔，眉头紧锁。",
+        "dialogue": "保安",
+        "speaker": "林妙",
+        "emotion": "愤怒",
+        "duration": 0.68,
+        "description_visual": "近景过肩镜头；室内大厅，光线明亮；画面左侧人物，身穿灰色西装套裙，皱眉看着面前的录音笔，表情：眉毛紧锁，眼睛瞪大，嘴巴微张显怒意；画面右侧前景人物，身穿深色衣物，手持录音笔伸向林妙，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面左侧",
+                "action": "伸手护住林妙，面向记者",
+                "expression": "眉毛微扬，眼睛直视，嘴巴说话"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面右侧",
+                "action": "站立不动，表情不悦",
+                "expression": "眉毛紧蹙，眼睛看向记者，嘴巴微张"
+            }
+        ],
+        "background": "室外入口，有车辆停放",
+        "description_narrative": "中景固定镜头，白衣男子伸手护住林妙，转身面向记者群，语气强硬。",
+        "dialogue": "把这些人都轰走堵在门口",
+        "speaker": "白衣男子",
+        "emotion": "威严",
+        "duration": 2.68,
+        "description_visual": "中景平拍镜头；室外入口，有车辆停放；画面左侧人物，身穿白色立领衬衫，伸手护住林妙，面向记者，表情：眉毛微扬，眼睛直视，嘴巴说话；画面右侧人物，身穿灰色西装套裙，站立不动，表情不悦，表情：眉毛紧蹙，眼睛看向记者，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面左侧",
+                "action": "拉着林妙的手臂往内走",
+                "expression": "眉毛舒展，眼睛看前方，嘴巴说话安抚"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面右侧",
+                "action": "被拉着行走",
+                "expression": "表情依旧严肃"
+            }
+        ],
+        "background": "入口红地毯区域",
+        "description_narrative": "中近景跟拍，白衣男子一边拉着林妙往里走，一边继续呵斥记者。",
+        "dialogue": "还做不做生意了 别生气 我们先上去",
+        "speaker": "白衣男子",
+        "emotion": "安抚",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头（跟拍）；入口红地毯区域；画面左侧人物，身穿白色立领衬衫，拉着林妙的手臂往内走，表情：眉毛舒展，眼睛看前方，嘴巴说话安抚；画面右侧人物，身穿灰色西装套裙，被拉着行走，表情：表情依旧严肃。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙，高跟鞋",
+                "position": "画面左侧",
+                "action": "大步走进大厅",
+                "expression": "面色冷峻，目视前方"
+            }
+        ],
+        "background": "室内大厅，大理石地面，有绿植",
+        "description_narrative": "全景跟拍，林妙踩着高跟鞋大步走进大厅，身姿挺拔。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "全景平拍镜头（跟拍）；室内大厅，大理石地面，有绿植；画面左侧人物，身穿灰色西装套裙，高跟鞋，大步走进大厅，表情：面色冷峻，目视前方。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面中央",
+                "action": "停下脚步，转头看向一侧",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，林妙停下脚步，转头看向一侧，似乎发现了什么人。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "警觉",
+        "duration": 0.92,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿灰色西装套裙，停下脚步，转头看向一侧，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "抬头看向前方",
+                "expression": "眉毛平展，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "室内大厅，光线柔和",
+        "description_narrative": "近景仰拍，白衣男子抬头看向前方，林妙的声音传来询问来者。",
+        "dialogue": "周宗逸 这么早过来 有什么事吗",
+        "speaker": "林妙",
+        "emotion": "质问",
+        "duration": 3.96,
+        "description_visual": "近景仰拍镜头；室内大厅，光线柔和；画面中央人物，身穿白色立领衬衫，抬头看向前方，表情：眉毛平展，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面中央",
+                "action": "身体微倾，面带笑意",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴说话"
+            }
+        ],
+        "background": "室内背景，有装饰画",
+        "description_narrative": "近景固定镜头，周浪身穿宽松白衬衫，身体微倾，漫不经心地回答。",
+        "dialogue": "也没什么事",
+        "speaker": "周浪",
+        "emotion": "轻蔑",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；室内背景，有装饰画；画面中央人物，身穿宽松白衬衫，身体微倾，面带笑意，表情：眉毛舒展，眼睛微眯，嘴巴说话。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面中央",
+                "action": "站立倾听，表情冷淡",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微动"
+            }
+        ],
+        "background": "室内大厅，门窗背景",
+        "description_narrative": "中近景固定镜头，林妙站立倾听，周浪继续说出恶毒的谣言。",
+        "dialogue": "林老爷子遇害了 我过来安慰安慰你",
+        "speaker": "周浪",
+        "emotion": "嘲讽",
+        "duration": 4.16,
+        "description_visual": "中近景平拍镜头；室内大厅，门窗背景；画面中央人物，身穿灰色西装套裙，站立倾听，表情冷淡，表情：眉毛微蹙，眼睛直视，嘴巴微动。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "闭眼摇头，表示不屑",
+                "expression": "眼睛闭合，嘴巴微撇"
+            }
+        ],
+        "background": "室内背景，有绿植",
+        "description_narrative": "近景固定镜头，白衣男子闭眼摇头，林妙的声音传来反驳谣言。",
+        "dialogue": "多谢周大少费心了 我爷爷好得很 外面谣传罢了",
+        "speaker": "林妙",
+        "emotion": "不屑",
+        "duration": 4.52,
+        "description_visual": "近景平拍镜头；室内背景，有绿植；画面中央人物，身穿白色立领衬衫，闭眼摇头，表示不屑，表情：眼睛闭合，嘴巴微撇。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面中央",
+                "action": "低头看手机",
+                "expression": "眉毛微挑，眼睛看屏幕，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景固定镜头，周浪低头看着手机，发出疑问。",
+        "dialogue": "哦 是吗",
+        "speaker": "周浪",
+        "emotion": "怀疑",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿宽松白衬衫，低头看手机，表情：眉毛微挑，眼睛看屏幕，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面左侧",
+                "action": "站立旁观",
+                "expression": "表情平静"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面中央",
+                "action": "手持手机展示",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面右侧",
+                "action": "展示手机屏幕",
+                "expression": "表情得意"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色风衣",
+                "position": "画面右后侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内大厅，光线明亮",
+        "description_narrative": "全景固定镜头，四人站立对峙，周浪展示手机照片，声称是别人骗他。",
+        "dialogue": "那我这里的照片 是别人骗我的哦",
+        "speaker": "周浪",
+        "emotion": "狡辩",
+        "duration": 2.8,
+        "description_visual": "全景平拍镜头；室内大厅，光线明亮；画面左侧人物，身穿白色立领衬衫，站立旁观，表情：表情平静；画面中央人物，身穿灰色西装套裙，手持手机展示，表情：表情严肃；画面右侧人物，身穿宽松白衬衫，展示手机屏幕，表情：表情得意；画面右后侧人物，身穿黑色风衣，站立，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "低头看手机屏幕",
+                "expression": "眉毛微蹙，眼睛专注，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景固定镜头，白衣男子低头查看手机屏幕上的照片。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.92,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿白色立领衬衫，低头看手机屏幕，表情：眉毛微蹙，眼睛专注，嘴巴闭合。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面中央",
+                "action": "直视前方，语气讽刺",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅背景",
+        "description_narrative": "近景固定镜头，林妙直视前方，讽刺周浪的P图技术。",
+        "dialogue": "这 p 的也不像啊 原来周公子还会",
+        "speaker": "林妙",
+        "emotion": "嘲讽",
+        "duration": 3.48,
+        "description_visual": "近景平拍镜头；室内大厅背景；画面中央人物，身穿灰色西装套裙，直视前方，语气讽刺，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面中央",
+                "action": "低头看手机，嘴角微动",
+                "expression": "眉毛下垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，有挂画",
+        "description_narrative": "近景固定镜头，周浪低头看手机，林妙的声音继续传来讽刺他会P图。",
+        "dialogue": "p 图呢",
+        "speaker": "林妙",
+        "emotion": "嘲讽",
+        "duration": 0.76,
+        "description_visual": "近景平拍镜头；室内背景，有挂画；画面中央人物，身穿宽松白衬衫，低头看手机，嘴角微动，表情：眉毛下垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "侧头看向周浪",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴说话"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景固定镜头，白衣男子侧头看向周浪，周浪的声音传来冷笑。",
+        "dialogue": "哼哼 是不是 p 的你们还不知道吗",
+        "speaker": "周浪",
+        "emotion": "得意",
+        "duration": 5.2,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿白色立领衬衫，侧头看向周浪，表情：眉毛微蹙，眼睛注视，嘴巴说话。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面中央",
+                "action": "直视对方，眼神犀利",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅背景",
+        "description_narrative": "近景固定镜头，林妙直视对方，白衣男子的声音传来指责周浪没安好心。",
+        "dialogue": "周公子你这是 黄鼠狼给鸡拜年 没啥好心啊",
+        "speaker": "白衣男子",
+        "emotion": "愤怒",
+        "duration": 3.56,
+        "description_visual": "近景平拍镜头；室内大厅背景；画面中央人物，身穿灰色西装套裙，直视对方，眼神犀利，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面中央",
+                "action": "抬头说话，表情夸张",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景固定镜头，周浪抬头说话，假装担心公司前景。",
+        "dialogue": "我担心 公司的前景",
+        "speaker": "周浪",
+        "emotion": "虚伪",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿宽松白衬衫，抬头说话，表情夸张，表情：眉毛上扬，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色风衣，黑色口罩",
+                "position": "画面中央",
+                "action": "站立，眼神冷漠",
+                "expression": "眉毛平展，眼睛直视，嘴巴被遮挡"
+            }
+        ],
+        "background": "室外绿植背景",
+        "description_narrative": "近景固定镜头，黑衣女子戴着口罩站立，周浪的声音继续传来暗示公司易主。",
+        "dialogue": "林妙被这事影响了 公司易主了呢",
+        "speaker": "周浪",
+        "emotion": "威胁",
+        "duration": 4.8,
+        "description_visual": "近景平拍镜头；室外绿植背景；画面中央人物，身穿黑色风衣，黑色口罩，站立，眼神冷漠，表情：眉毛平展，眼睛直视，嘴巴被遮挡。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面中央",
+                "action": "冷笑，抬头回应",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张露齿"
+            }
+        ],
+        "background": "室内大厅背景",
+        "description_narrative": "近景固定镜头，林妙冷笑一声，让周浪放心。",
+        "dialogue": "哈哈哈 周大少你放心吧",
+        "speaker": "林妙",
+        "emotion": "自信",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；室内大厅背景；画面中央人物，身穿灰色西装套裙，冷笑，抬头回应，表情：眉毛微挑，眼睛斜视，嘴巴微张露齿。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面中央",
+                "action": "低头闭眼，似乎在忍耐",
+                "expression": "眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景固定镜头，周浪低头闭眼，林妙的声音传来警告他知道对方的野心。",
+        "dialogue": "我爷爷没事 公司也不会受影响 你的野心别以为我不知道",
+        "speaker": "林妙",
+        "emotion": "警告",
+        "duration": 6.64,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿宽松白衬衫，低头闭眼，似乎在忍耐，表情：眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫袖子",
+                "position": "画面中央",
+                "action": "手臂伸出，抓住对方",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色风衣",
+                "position": "画面左侧",
+                "action": "被抓住手臂",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，白衣男子的手臂伸出抓住对方，发出威胁等待对方求饶。",
+        "dialogue": "我等着你落败 向我求饶",
+        "speaker": "白衣男子",
+        "emotion": "威胁",
+        "duration": 3.68,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色衬衫袖子，手臂伸出，抓住对方，表情：不可见；画面左侧人物，身穿黑色风衣，被抓住手臂，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面中央",
+                "action": "惊讶地睁大眼睛",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景固定镜头，周浪露出惊讶的表情，似乎没想到对方会动手。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿宽松白衬衫，惊讶地睁大眼睛，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面中央",
+                "action": "严肃地警告",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅背景",
+        "description_narrative": "近景固定镜头，林妙严肃地警告对方不要乱动，提及林家的事。",
+        "dialogue": "我劝你别动我 林家的事可是",
+        "speaker": "林妙",
+        "emotion": "警告",
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；室内大厅背景；画面中央人物，身穿灰色西装套裙，严肃地警告，表情：眉毛紧锁，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面中央",
+                "action": "说话，表情不屑",
+                "expression": "眉毛平展，眼睛注视，嘴巴张开"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景固定镜头，周浪接话，表示林家的事已经闹得沸沸扬扬。",
+        "dialogue": "闹的沸沸扬扬",
+        "speaker": "周浪",
+        "emotion": "不屑",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿宽松白衬衫，说话，表情不屑，表情：眉毛平展，眼睛注视，嘴巴张开。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "眼神凌厉，手臂微动",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景固定镜头，白衣男子眼神凌厉，林妙的声音传来警告再动就要林家心血不保。",
+        "dialogue": "你再动我 林家的心血可就",
+        "speaker": "林妙",
+        "emotion": "威胁",
+        "duration": 2.6,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿白色立领衬衫，眼神凌厉，手臂微动，表情：眉毛微蹙，眼睛斜视，嘴巴闭合。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面中央",
+                "action": "侧头下令",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅背景",
+        "description_narrative": "近景固定镜头，林妙侧头下令让保安放人，并警告周浪。",
+        "dialogue": "算了王林让他们走",
+        "speaker": "林妙",
+        "emotion": "命令",
+        "duration": 2.2,
+        "description_visual": "近景平拍镜头；室内大厅背景；画面中央人物，身穿灰色西装套裙，侧头下令，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫，牛仔裤",
+                "position": "画面左侧",
+                "action": "转身离开",
+                "expression": "表情不甘"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色风衣，口罩",
+                "position": "画面右侧",
+                "action": "跟随离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "出口处，红地毯",
+        "description_narrative": "全景跟拍，周浪与黑衣女子转身离开，林妙的声音传来警告他跑不掉。",
+        "dialogue": "你跑不掉的周浪",
+        "speaker": "林妙",
+        "emotion": "坚定",
+        "duration": 1.84,
+        "description_visual": "全景平拍镜头（跟拍）；出口处，红地毯；画面左侧人物，身穿宽松白衬衫，牛仔裤，转身离开，表情：表情不甘；画面右侧人物，身穿黑色风衣，口罩，跟随离开，表情：不可见。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面左侧",
+                "action": "边走边抱怨",
+                "expression": "眉毛紧锁，嘴巴微张"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色风衣",
+                "position": "画面右侧",
+                "action": "挽着周浪手臂",
+                "expression": "不可见"
+            }
+        ],
+        "background": "出口玻璃门",
+        "description_narrative": "中景跟拍，周浪边走边抱怨，黑衣女子质问你怎么这么废柴。",
+        "dialogue": "你怎么这么废柴",
+        "speaker": "黑衣女子",
+        "emotion": "不满",
+        "duration": 1.32,
+        "description_visual": "中景平拍镜头（跟拍）；出口玻璃门；画面左侧人物，身穿宽松白衬衫，边走边抱怨，表情：眉毛紧锁，嘴巴微张；画面右侧人物，身穿黑色风衣，挽着周浪手臂，表情：不可见。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色风衣",
+                "position": "画面左侧",
+                "action": "侧身质问",
+                "expression": "不可见"
+            },
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面右侧",
+                "action": "背对镜头行走",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室外停车场背景",
+        "description_narrative": "过肩跟拍，黑衣女子继续质问周浪为何被控制住。",
+        "dialogue": "你不是说你很厉害吗 怎么就被控制住了",
+        "speaker": "黑衣女子",
+        "emotion": "质疑",
+        "duration": 3.04,
+        "description_visual": "中近景过肩镜头（跟拍）；室外停车场背景；画面左侧人物，身穿黑色风衣，侧身质问，表情：不可见；画面右侧人物，身穿宽松白衬衫，背对镜头行走，表情：不可见。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面中央",
+                "action": "低头承认",
+                "expression": "眉毛下垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅背景",
+        "description_narrative": "中近景跟拍，周浪低头承认对方比想象中厉害，自己打不过。",
+        "dialogue": "他比我想的厉害 我打不过",
+        "speaker": "周浪",
+        "emotion": "沮丧",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头（跟拍）；室内大厅背景；画面中央人物，身穿宽松白衬衫，低头承认，表情：眉毛下垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "抱臂站立，看向一侧",
+                "expression": "眉毛平展，眼睛斜视，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景固定镜头，白衣男子抱臂站立，周浪的声音传来表示要用其他方法。",
+        "dialogue": "看样子还得用其他方法",
+        "speaker": "周浪",
+        "emotion": "不甘",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿白色立领衬衫，抱臂站立，看向一侧，表情：眉毛平展，眼睛斜视，嘴巴闭合。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装套裙",
+                "position": "画面左侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内大厅，门窗背景",
+        "description_narrative": "近景固定镜头，林妙背对镜头站立，目送对方离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.76,
+        "description_visual": "近景平拍镜头；室内大厅，门窗背景；画面左侧人物，身穿灰色西装套裙，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面左侧",
+                "action": "与黑衣女子并肩走出",
+                "expression": "表情阴沉"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色风衣",
+                "position": "画面右侧",
+                "action": "跟随行走",
+                "expression": "不可见"
+            }
+        ],
+        "background": "出口处",
+        "description_narrative": "中景跟拍，周浪与黑衣女子并肩走出大门，气氛压抑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "中景平拍镜头（跟拍）；出口处；画面左侧人物，身穿宽松白衬衫，与黑衣女子并肩走出，表情：表情阴沉；画面右侧人物，身穿黑色风衣，跟随行走，表情：不可见。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "宽松白衬衫",
+                "position": "画面左侧",
+                "action": "走出画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "出口处",
+        "description_narrative": "中景固定镜头，周浪走出画面，冲突暂时结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "中景平拍镜头；出口处；画面左侧人物，身穿宽松白衬衫，走出画面，表情：不可见。"
+    }
+]

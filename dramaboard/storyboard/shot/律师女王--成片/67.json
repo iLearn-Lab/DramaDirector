@@ -1,0 +1,768 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市夜景，高楼林立，灯光闪烁，色调偏冷蓝",
+        "description_narrative": "远景俯拍城市夜景，高楼大厦灯火通明，河流穿过城市，画面右下角有“徽山”字样，整体色调冷蓝，营造紧张氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "远景俯拍镜头；城市夜景，高楼林立，灯光闪烁，色调偏冷蓝。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣，金属耳环",
+                "position": "车内",
+                "action": "坐在驾驶座，透过车窗向外看",
+                "expression": "眉毛微蹙，眼神焦急，嘴唇紧闭"
+            }
+        ],
+        "background": "车内，光线昏暗，车窗玻璃有反光",
+        "description_narrative": "特写镜头，李晨坐在车内，透过车窗向外张望，神情焦急，正在打电话询问位置。",
+        "dialogue": "喂，你在哪？",
+        "speaker": "李晨",
+        "emotion": "焦急",
+        "duration": 8.92,
+        "description_visual": "特写平拍镜头；车内，光线昏暗，车窗玻璃有反光；车内人物，身穿黑色大衣，金属耳环，坐在驾驶座，透过车窗向外看，表情：眉毛微蹙，眼神焦急，嘴唇紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑男子",
+                "gender": "男",
+                "clothing": "黑色皮衣，绳索捆绑",
+                "position": "画面右侧，河边步道",
+                "action": "跪在地上，双手被反绑",
+                "expression": "低头，身体蜷缩"
+            }
+        ],
+        "background": "河边步道，白色栏杆，夜晚灯光，前景有树枝遮挡",
+        "description_narrative": "全景镜头，透过树枝缝隙看到河边步道上，一名男子被绳索捆绑跪在地上，背景是亮灯的桥梁和河水。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "全景高角度镜头；河边步道，白色栏杆，夜晚灯光，前景有树枝遮挡；画面右侧，河边步道人物，身穿黑色皮衣，绳索捆绑，跪在地上，双手被反绑，表情：低头，身体蜷缩。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣，CD腰带",
+                "position": "画面中央",
+                "action": "向前奔跑，双臂摆动",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "蓝色灯光下的步道，背景模糊",
+        "description_narrative": "中景跟拍，李晨身穿黑色大衣在蓝色灯光下的步道上奔跑，神情惊慌，听到有人呼喊名字。",
+        "dialogue": "李晨。",
+        "speaker": "被绑男子",
+        "emotion": "惊慌",
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头（跟拍）；蓝色灯光下的步道，背景模糊；画面中央人物，身穿黑色大衣，CD腰带，向前奔跑，双臂摆动，表情：眉毛紧锁，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑男子",
+                "gender": "男",
+                "clothing": "黑色皮衣，绳索",
+                "position": "画面中央",
+                "action": "抬头，面部带伤",
+                "expression": "眉毛痛苦，眼神绝望，嘴角带血"
+            }
+        ],
+        "background": "黑暗背景，微弱光线",
+        "description_narrative": "特写镜头，被绑男子面部带伤，抬头看向镜头方向，发出痛苦的声音。",
+        "dialogue": "啊。",
+        "speaker": "被绑男子",
+        "emotion": "痛苦",
+        "duration": 1.16,
+        "description_visual": "特写低角度镜头；黑暗背景，微弱光线；画面中央人物，身穿黑色皮衣，绳索，抬头，面部带伤，表情：眉毛痛苦，眼神绝望，嘴角带血。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣，蓝色口罩，眼镜",
+                "position": "画面右侧",
+                "action": "站立，手插口袋",
+                "expression": "眼神冷厉，透过眼镜注视前方"
+            }
+        ],
+        "background": "河边步道，白色栏杆，夜晚树木",
+        "description_narrative": "中景镜头，秦赫戴着口罩和眼镜，身穿黑色风衣站在步道上，出声喝止。",
+        "dialogue": "站住",
+        "speaker": "秦赫",
+        "emotion": "冷厉",
+        "duration": 0.88,
+        "description_visual": "中景平拍镜头；河边步道，白色栏杆，夜晚树木；画面右侧人物，身穿黑色长风衣，蓝色口罩，眼镜，站立，手插口袋，表情：眼神冷厉，透过眼镜注视前方。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣，CD腰带",
+                "position": "画面中央",
+                "action": "停下脚步，身体紧绷",
+                "expression": "眉毛上扬，眼睛震惊，嘴巴微张"
+            }
+        ],
+        "background": "蓝色灯光背景，模糊",
+        "description_narrative": "近景镜头，李晨听到喝止声停下脚步，表情震惊，看着前方。",
+        "dialogue": "站住。",
+        "speaker": "秦赫",
+        "emotion": "震惊",
+        "duration": 0.68,
+        "description_visual": "近景平拍镜头；蓝色灯光背景，模糊；画面中央人物，身穿黑色大衣，CD腰带，停下脚步，身体紧绷，表情：眉毛上扬，眼睛震惊，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣，蓝色口罩",
+                "position": "画面中央",
+                "action": "手持注射器，威胁姿态",
+                "expression": "眼神阴冷，口罩遮住下半脸"
+            }
+        ],
+        "background": "夜晚户外，栏杆，树木",
+        "description_narrative": "中景镜头，秦赫手持注射器，警告李晨不要再靠近，否则后果严重。",
+        "dialogue": "你要是再走一步，",
+        "speaker": "秦赫",
+        "emotion": "威胁",
+        "duration": 1.32,
+        "description_visual": "中景平拍镜头；夜晚户外，栏杆，树木；画面中央人物，身穿黑色长风衣，蓝色口罩，手持注射器，威胁姿态，表情：眼神阴冷，口罩遮住下半脸。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "虚焦",
+        "subjects": [],
+        "background": "夜晚城市灯光，散景光斑",
+        "description_narrative": "特写虚焦镜头，背景是夜晚的城市灯光光斑，画外音传来秦赫的威胁声。",
+        "dialogue": "就再也见不到他了。",
+        "speaker": "秦赫",
+        "emotion": "阴险",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头（虚焦）；夜晚城市灯光，散景光斑。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣，金属耳环",
+                "position": "画面中央",
+                "action": "站立，身体微颤",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "蓝色灯光背景",
+        "description_narrative": "近景镜头，李晨听到威胁后表情惊恐，不敢再上前。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.6,
+        "description_visual": "近景平拍镜头；蓝色灯光背景；画面中央人物，身穿黑色大衣，金属耳环，站立，身体微颤，表情：眉毛紧蹙，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣，蓝色口罩",
+                "position": "画面中央",
+                "action": "举起注射器，另一只手插兜",
+                "expression": "眼神得意，透过镜片看人"
+            }
+        ],
+        "background": "夜晚户外，栏杆",
+        "description_narrative": "中景镜头，秦赫举起手中的注射器，李晨在画外音中妥协，要求他放下东西。",
+        "dialogue": "好好好，我不走，你先把手里的东西放下来。",
+        "speaker": "李晨",
+        "emotion": "妥协",
+        "duration": 1.36,
+        "description_visual": "中景平拍镜头；夜晚户外，栏杆；画面中央人物，身穿黑色长风衣，蓝色口罩，举起注射器，另一只手插兜，表情：眼神得意，透过镜片看人。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑男子",
+                "gender": "男",
+                "clothing": "黑色皮衣，绳索",
+                "position": "画面中央",
+                "action": "低头，身体摇晃",
+                "expression": "痛苦，闭眼"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "近景高角度镜头，被绑男子痛苦地低下头，发出呻吟声。",
+        "dialogue": "啊。",
+        "speaker": "被绑男子",
+        "emotion": "痛苦",
+        "duration": 1.92,
+        "description_visual": "近景高角度镜头；黑暗背景；画面中央人物，身穿黑色皮衣，绳索，低头，身体摇晃，表情：痛苦，闭眼。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "低头，犹豫",
+                "expression": "眉毛下垂，眼神向下，嘴唇紧闭"
+            }
+        ],
+        "background": "蓝色灯光背景",
+        "description_narrative": "近景镜头，李晨低头犹豫，秦赫在画外音中提出交换条件。",
+        "dialogue": "你先注射，我就放了他。",
+        "speaker": "秦赫",
+        "emotion": "狡诈",
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；蓝色灯光背景；画面中央人物，身穿黑色大衣，低头，犹豫，表情：眉毛下垂，眼神向下，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑男子",
+                "gender": "男",
+                "clothing": "黑色皮衣",
+                "position": "画面中央",
+                "action": "抬头看向李晨",
+                "expression": "眼神担忧，眉头紧锁"
+            }
+        ],
+        "background": "夜晚灯光背景",
+        "description_narrative": "近景低角度镜头，被绑男子抬头看向李晨，眼神中充满担忧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "近景低角度镜头；夜晚灯光背景；画面中央人物，身穿黑色皮衣，抬头看向李晨，表情：眼神担忧，眉头紧锁。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣",
+                "position": "画面右侧",
+                "action": "举起注射器示意",
+                "expression": "眼神催促"
+            }
+        ],
+        "background": "夜晚户外",
+        "description_narrative": "中景镜头，秦赫举起注射器示意李晨行动，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "中景平拍镜头；夜晚户外；画面右侧人物，身穿黑色长风衣，举起注射器示意，表情：眼神催促。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "严肃"
+            },
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣",
+                "position": "画面右侧",
+                "action": "控制被绑男子",
+                "expression": "警惕"
+            },
+            {
+                "name": "被绑男子",
+                "gender": "男",
+                "clothing": "黑色皮衣",
+                "position": "画面右侧地面",
+                "action": "跪地",
+                "expression": "痛苦"
+            }
+        ],
+        "background": "河边步道，高楼背景",
+        "description_narrative": "全景镜头，三人对峙，李晨站在左侧，秦赫控制着跪地的被绑男子，背景是高楼。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "全景平拍镜头；河边步道，高楼背景；画面左侧人物，身穿黑色大衣，站立，表情：严肃；画面右侧人物，身穿黑色长风衣，控制被绑男子，表情：警惕；画面右侧地面人物，身穿黑色皮衣，跪地，表情：痛苦。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣，蓝色口罩",
+                "position": "画面中央",
+                "action": "看着李晨",
+                "expression": "眼神戏谑"
+            }
+        ],
+        "background": "夜晚户外",
+        "description_narrative": "近景镜头，秦赫看着李晨，发出催促的声音。",
+        "dialogue": "啊。",
+        "speaker": "秦赫",
+        "emotion": "戏谑",
+        "duration": 2.64,
+        "description_visual": "近景平拍镜头；夜晚户外；画面中央人物，身穿黑色长风衣，蓝色口罩，看着李晨，表情：眼神戏谑。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "将注射器扎入自己手臂",
+                "expression": "咬牙，痛苦"
+            }
+        ],
+        "background": "蓝色灯光背景",
+        "description_narrative": "中景镜头，李晨下定决心，将注射器扎入自己的手臂进行注射。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头；蓝色灯光背景；画面中央人物，身穿黑色大衣，将注射器扎入自己手臂，表情：咬牙，痛苦。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "弯腰，手捂手臂",
+                "expression": "痛苦，闭眼"
+            }
+        ],
+        "background": "蓝色地面",
+        "description_narrative": "中景高角度镜头，李晨注射后痛苦地弯下腰，手捂着手臂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.08,
+        "description_visual": "中景高角度镜头；蓝色地面；画面中央人物，身穿黑色大衣，弯腰，手捂手臂，表情：痛苦，闭眼。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面左侧地面",
+                "action": "跪在地上",
+                "expression": "虚弱"
+            },
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "冷漠"
+            },
+            {
+                "name": "被绑男子",
+                "gender": "男",
+                "clothing": "黑色皮衣",
+                "position": "画面右侧地面",
+                "action": "跪地",
+                "expression": "担忧"
+            }
+        ],
+        "background": "河边步道，高楼",
+        "description_narrative": "全景镜头，李晨跪在地上，询问秦赫现在是否可以放人。",
+        "dialogue": "现在可以了吧",
+        "speaker": "李晨",
+        "emotion": "虚弱",
+        "duration": 2.92,
+        "description_visual": "全景平拍镜头；河边步道，高楼；画面左侧地面人物，身穿黑色大衣，跪在地上，表情：虚弱；画面右侧人物，身穿黑色长风衣，站立，表情：冷漠；画面右侧地面人物，身穿黑色皮衣，跪地，表情：担忧。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣，蓝色口罩",
+                "position": "画面中央",
+                "action": "低头大笑",
+                "expression": "眼睛眯起，嘲笑"
+            }
+        ],
+        "background": "夜晚背景，红色光斑",
+        "description_narrative": "近景高角度镜头，秦赫低头大笑，嘲讽李晨和她父亲一样愚蠢。",
+        "dialogue": "哈哈哈哈哈哈。李晨啊，你的女儿跟你一样蠢。",
+        "speaker": "秦赫",
+        "emotion": "嘲笑",
+        "duration": 5.44,
+        "description_visual": "近景高角度镜头；夜晚背景，红色光斑；画面中央人物，身穿黑色长风衣，蓝色口罩，低头大笑，表情：眼睛眯起，嘲笑。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "手持注射器，抬头",
+                "expression": "愤怒，眼神锐利"
+            }
+        ],
+        "background": "室内/走廊背景",
+        "description_narrative": "近景镜头，李晨手持注射器，听到嘲讽后愤怒地抬头看着对方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；室内/走廊背景；画面中央人物，身穿黑色大衣，手持注射器，抬头，表情：愤怒，眼神锐利。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面左侧地面",
+                "action": "跪坐",
+                "expression": "愤怒"
+            },
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣",
+                "position": "画面右侧",
+                "action": "蹲下",
+                "expression": "戏谑"
+            }
+        ],
+        "background": "河边步道，桥梁",
+        "description_narrative": "全景镜头，秦赫蹲下告诉李晨这只是安眠药，让她先睡会儿。",
+        "dialogue": "这就是简单的安眠药，",
+        "speaker": "秦赫",
+        "emotion": "戏谑",
+        "duration": 1.08,
+        "description_visual": "全景平拍镜头；河边步道，桥梁；画面左侧地面人物，身穿黑色大衣，跪坐，表情：愤怒；画面右侧人物，身穿黑色长风衣，蹲下，表情：戏谑。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣，蓝色口罩",
+                "position": "画面中央",
+                "action": "蹲着，双手交握",
+                "expression": "眼神阴险"
+            }
+        ],
+        "background": "白色栏杆背景",
+        "description_narrative": "近景高角度镜头，秦赫蹲在地上，双手交握，继续说着好戏在后头。",
+        "dialogue": "让你先睡会儿，",
+        "speaker": "秦赫",
+        "emotion": "阴险",
+        "duration": 4.28,
+        "description_visual": "近景高角度镜头；白色栏杆背景；画面中央人物，身穿黑色长风衣，蓝色口罩，蹲着，双手交握，表情：眼神阴险。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "手持注射器，抬头",
+                "expression": "怀疑，警惕"
+            }
+        ],
+        "background": "室内/走廊背景",
+        "description_narrative": "近景高角度镜头，李晨手持注射器，眼神怀疑地看着秦赫，意识到还有阴谋。",
+        "dialogue": "毕竟好戏还在后面。",
+        "speaker": "秦赫",
+        "emotion": "警惕",
+        "duration": 3.12,
+        "description_visual": "近景高角度镜头；室内/走廊背景；画面中央人物，身穿黑色大衣，手持注射器，抬头，表情：怀疑，警惕。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣，蓝色口罩",
+                "position": "画面中央",
+                "action": "双手交握，低头",
+                "expression": "得意"
+            }
+        ],
+        "background": "白色栏杆背景",
+        "description_narrative": "近景镜头，秦赫双手交握，低头露出得意的神情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；白色栏杆背景；画面中央人物，身穿黑色长风衣，蓝色口罩，双手交握，低头，表情：得意。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣",
+                "position": "画面右侧",
+                "action": "伸手抓住李晨",
+                "expression": "动作迅速"
+            },
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面左侧",
+                "action": "被抓住",
+                "expression": "惊讶"
+            }
+        ],
+        "background": "夜晚户外",
+        "description_narrative": "中景侧拍镜头，秦赫突然伸手抓住李晨，动作迅速。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "中景侧拍镜头；夜晚户外；画面右侧人物，身穿黑色长风衣，伸手抓住李晨，表情：动作迅速；画面左侧人物，身穿黑色大衣，被抓住，表情：惊讶。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面左侧",
+                "action": "回头",
+                "expression": "惊讶，转头"
+            }
+        ],
+        "background": "蓝色灯光背景",
+        "description_narrative": "近景侧拍镜头，李晨被抓住后回头看向秦赫，表情惊讶。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "近景侧拍镜头；蓝色灯光背景；画面左侧人物，身穿黑色大衣，回头，表情：惊讶，转头。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦赫",
+                "gender": "男",
+                "clothing": "黑色长风衣，蓝色口罩",
+                "position": "画面右侧",
+                "action": "靠近李晨",
+                "expression": "眼神压迫"
+            }
+        ],
+        "background": "夜晚灯光背景",
+        "description_narrative": "近景侧拍镜头，秦赫靠近李晨，发出声音。",
+        "dialogue": "啊。",
+        "speaker": "秦赫",
+        "emotion": "压迫",
+        "duration": 0.92,
+        "description_visual": "近景侧拍镜头；夜晚灯光背景；画面右侧人物，身穿黑色长风衣，蓝色口罩，靠近李晨，表情：眼神压迫。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "震惊，嘴巴微张"
+            }
+        ],
+        "background": "蓝色灯光背景",
+        "description_narrative": "近景镜头，李晨看着前方，表情震惊，似乎认出了什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.48,
+        "description_visual": "近景平拍镜头；蓝色灯光背景；画面中央人物，身穿黑色大衣，看着前方，表情：震惊，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "看着前方，红光照射",
+                "expression": "震惊，难以置信"
+            }
+        ],
+        "background": "红光照射，背景模糊",
+        "description_narrative": "近景镜头，红光照射在李晨脸上，她震惊地喊出“师傅”。",
+        "dialogue": "师傅。",
+        "speaker": "李晨",
+        "emotion": "震惊",
+        "duration": 2.6,
+        "description_visual": "近景平拍镜头；红光照射，背景模糊；画面中央人物，身穿黑色大衣，看着前方，红光照射，表情：震惊，难以置信。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李晨",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "回头",
+                "expression": "复杂，震惊"
+            }
+        ],
+        "background": "夜晚户外",
+        "description_narrative": "近景侧拍镜头，李晨回头，表情复杂，画面结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.72,
+        "description_visual": "近景侧拍镜头；夜晚户外；画面中央人物，身穿黑色大衣，回头，表情：复杂，震惊。"
+    }
+]

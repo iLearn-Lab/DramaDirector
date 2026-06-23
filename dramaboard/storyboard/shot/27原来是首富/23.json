@@ -1,0 +1,654 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面右侧",
+                "action": "站立，手插口袋",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "黑色露肩上衣",
+                "position": "画面左侧",
+                "action": "站立，侧身",
+                "expression": "表情冷艳"
+            },
+            {
+                "name": "黑白裙女",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面上方中央",
+                "action": "站立",
+                "expression": "表情温和"
+            }
+        ],
+        "background": "电影海报背景，色彩绚丽，有金币和城市剪影元素",
+        "description_narrative": "全景固定镜头展示电影海报，画面中央是身穿黄色外卖服的西装男，周围环绕着其他主要角色，底部有金色大字标题。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.5,
+        "description_visual": "全景平拍镜头；电影海报背景，色彩绚丽，有金币和城市剪影元素；画面右侧人物，身穿深色条纹西装，站立，手插口袋，表情：表情严肃；画面左侧人物，身穿黑色露肩上衣，站立，侧身，表情：表情冷艳；画面上方中央人物，身穿白色上衣，站立，表情：表情温和。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "头部微侧，嘴巴张开",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张露齿"
+            }
+        ],
+        "background": "办公室走廊，背景模糊，可见墙上挂画",
+        "description_narrative": "近景固定镜头拍摄西装男，他身穿深色条纹西装，表情惊讶且带有质问，嘴巴微张正在说话。",
+        "dialogue": "你干什么呀",
+        "speaker": "西装男",
+        "emotion": "惊讶/质问",
+        "duration": 0.97,
+        "description_visual": "近景平拍镜头；办公室走廊，背景模糊，可见墙上挂画；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，头部微侧，嘴巴张开，表情：眉毛微蹙，眼睛睁大，嘴巴微张露齿。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "头部微仰，视线向上",
+                "expression": "眉毛舒展，眼神冷漠，嘴唇紧闭"
+            }
+        ],
+        "background": "办公室天花板灯光，背景虚化",
+        "description_narrative": "特写仰拍镜头拍摄棕色外套女，她长发披肩，眼神冷漠地向上看，似乎在倾听对方的话语。",
+        "dialogue": "你想喝咖啡，你自己泡啊",
+        "speaker": "西装男",
+        "emotion": "冷漠/倾听",
+        "duration": 1.4,
+        "description_visual": "特写仰拍镜头；办公室天花板灯光，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，头部微仰，视线向上，表情：眉毛舒展，眼神冷漠，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "头部微动，嘴巴张开",
+                "expression": "眉毛皱起，眼睛直视，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室走廊，背景模糊，可见墙上挂画",
+        "description_narrative": "近景固定镜头拍摄西装男，他表情不满，眉头紧锁，正在继续反驳对方的要求。",
+        "dialogue": "你非要指使别人",
+        "speaker": "西装男",
+        "emotion": "不满/反驳",
+        "duration": 1.37,
+        "description_visual": "近景平拍镜头；办公室走廊，背景模糊，可见墙上挂画；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，头部微动，嘴巴张开，表情：眉毛皱起，眼睛直视，嘴巴张开说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "手持文件，头部微仰",
+                "expression": "眉毛微挑，嘴角带笑，眼神轻蔑"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她手中拿着一叠文件，嘴角带着轻蔑的笑意，正在质问对方。",
+        "dialogue": "你也是新来的实习生吗？懂不懂规矩啊？",
+        "speaker": "棕色外套女",
+        "emotion": "轻蔑/质问",
+        "duration": 2.6,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，手持文件，头部微仰，表情：眉毛微挑，嘴角带笑，眼神轻蔑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "头部正直，眼神坚定",
+                "expression": "眉毛平展，眼睛直视，嘴唇微闭"
+            }
+        ],
+        "background": "办公室走廊，背景模糊，可见墙上挂画",
+        "description_narrative": "近景固定镜头拍摄西装男，他表情严肃认真，眼神直视对方，正在表明自己的身份。",
+        "dialogue": "我是前辈",
+        "speaker": "西装男",
+        "emotion": "严肃/坚定",
+        "duration": 1.57,
+        "description_visual": "近景平拍镜头；办公室走廊，背景模糊，可见墙上挂画；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，头部正直，眼神坚定，表情：眉毛平展，眼睛直视，嘴唇微闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "手持文件，头部微仰",
+                "expression": "眉毛微挑，嘴巴微张，眼神傲慢"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她继续保持着傲慢的姿态，手持文件，正在教训对方。",
+        "dialogue": "前辈指引你们做事",
+        "speaker": "棕色外套女",
+        "emotion": "傲慢/教训",
+        "duration": 1.67,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，手持文件，头部微仰，表情：眉毛微挑，嘴巴微张，眼神傲慢。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "头部微侧，眼神冷峻",
+                "expression": "眉毛微蹙，眼睛斜视，嘴唇紧闭"
+            }
+        ],
+        "background": "办公室走廊，背景模糊，可见墙上挂画",
+        "description_narrative": "近景固定镜头拍摄西装男，他表情冷峻，眼神斜视，似乎在忍受对方的无理取闹。",
+        "dialogue": "还敢给我推三阻四的",
+        "speaker": "棕色外套女",
+        "emotion": "冷峻/忍受",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；办公室走廊，背景模糊，可见墙上挂画；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，头部微侧，眼神冷峻，表情：眉毛微蹙，眼睛斜视，嘴唇紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "手持文件，头部微仰",
+                "expression": "眉毛皱起，嘴巴张开露齿，眼神凶狠"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她表情变得凶狠，嘴巴张开正在辱骂对方。",
+        "dialogue": "真是有爹生",
+        "speaker": "棕色外套女",
+        "emotion": "凶狠/辱骂",
+        "duration": 2.03,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，手持文件，头部微仰，表情：眉毛皱起，嘴巴张开露齿，眼神凶狠。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "头部微动，眼神凌厉",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她眼神凌厉，正在继续命令对方。",
+        "dialogue": "你什么？你马上把这个文件",
+        "speaker": "棕色外套女",
+        "emotion": "凌厉/命令",
+        "duration": 0.77,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，头部微动，眼神凌厉，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "低头看文件，嘴巴微动",
+                "expression": "眉毛舒展，眼睛下视，嘴唇微闭"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她低头看着手中的文件，语气强硬地发出指令。",
+        "dialogue": "给我打印出来",
+        "speaker": "棕色外套女",
+        "emotion": "强硬/指令",
+        "duration": 1.5,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，低头看文件，嘴巴微动，表情：眉毛舒展，眼睛下视，嘴唇微闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "低头，双手自然下垂",
+                "expression": "眉毛低垂，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "办公室走廊，可见天花板灯和门",
+        "description_narrative": "中景固定镜头拍摄西装男，他低着头，双手自然下垂，表现出顺从或思考的样子。",
+        "dialogue": "要是有什么问题",
+        "speaker": "棕色外套女",
+        "emotion": "顺从/思考",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；办公室走廊，可见天花板灯和门；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，低头，双手自然下垂，表情：眉毛低垂，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "头部微仰，嘴巴张开",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴张开露齿"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她表情威胁，嘴巴张开正在恐吓对方。",
+        "dialogue": "看我怎么收拾你",
+        "speaker": "棕色外套女",
+        "emotion": "威胁/恐吓",
+        "duration": 0.87,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，头部微仰，嘴巴张开，表情：眉毛微挑，眼睛睁大，嘴巴张开露齿。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "头部微侧，眼神深邃",
+                "expression": "眉毛平展，眼睛直视，嘴唇微闭"
+            }
+        ],
+        "background": "办公室走廊，背景模糊，可见墙上挂画",
+        "description_narrative": "近景固定镜头拍摄西装男，他眼神深邃，似乎在进行内心独白，表情从隐忍转为算计。",
+        "dialogue": "原来实习生这么欺负人，我不如将计就计。好啊，我现在就打印",
+        "speaker": "西装男",
+        "emotion": "算计/隐忍",
+        "duration": 5.03,
+        "description_visual": "近景平拍镜头；办公室走廊，背景模糊，可见墙上挂画；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，头部微侧，眼神深邃，表情：眉毛平展，眼睛直视，嘴唇微闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "双臂交叉，头部微仰",
+                "expression": "眉毛舒展，眼睛微闭，嘴角上扬"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她双臂交叉抱在胸前，闭着眼睛露出得意的神情。",
+        "dialogue": "算你识相",
+        "speaker": "棕色外套女",
+        "emotion": "得意/满足",
+        "duration": 2.8,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，双臂交叉，头部微仰，表情：眉毛舒展，眼睛微闭，嘴角上扬。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑白裙女",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面中央",
+                "action": "双手捧着玻璃杯，站立",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "办公室白墙，光线明亮",
+        "description_narrative": "中景固定镜头拍摄黑白裙女，她双手捧着玻璃杯，表情担忧地看着前方。",
+        "dialogue": "你们两个白痴",
+        "speaker": "棕色外套女",
+        "emotion": "担忧/倾听",
+        "duration": 1.1,
+        "description_visual": "中景平拍镜头；办公室白墙，光线明亮；画面中央人物，身穿白色衬衫，黑色背带裙，双手捧着玻璃杯，站立，表情：眉毛微蹙，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "双臂交叉，头部微仰",
+                "expression": "眉毛微挑，嘴巴微张，眼神傲慢"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她双臂交叉，继续用傲慢的语气说话。",
+        "dialogue": "能进顾氏那么大的企业",
+        "speaker": "棕色外套女",
+        "emotion": "傲慢/炫耀",
+        "duration": 2.0,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，双臂交叉，头部微仰，表情：眉毛微挑，嘴巴微张，眼神傲慢。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "头部正直，嘴角微扬",
+                "expression": "眉毛舒展，眼睛直视，嘴角微扬"
+            }
+        ],
+        "background": "办公室走廊，背景模糊，可见墙上挂画",
+        "description_narrative": "近景固定镜头拍摄西装男，他嘴角微微上扬，似乎在听着对方的吹嘘，表情玩味。",
+        "dialogue": "是你们的荣幸，再让我看到你们这种",
+        "speaker": "棕色外套女",
+        "emotion": "玩味/倾听",
+        "duration": 1.7,
+        "description_visual": "近景平拍镜头；办公室走廊，背景模糊，可见墙上挂画；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，头部正直，嘴角微扬，表情：眉毛舒展，眼睛直视，嘴角微扬。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "手臂抬起，手指指向前方",
+                "expression": "眉毛皱起，嘴巴张开，眼神凶狠"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她抬起手臂指向前方，表情凶狠地指责对方偷懒。",
+        "dialogue": "这种偷懒的行为，我让你们两个吃不了",
+        "speaker": "棕色外套女",
+        "emotion": "凶狠/指责",
+        "duration": 2.17,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，手臂抬起，手指指向前方，表情：眉毛皱起，嘴巴张开，眼神凶狠。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹抹胸",
+                "position": "画面中央",
+                "action": "手部动作模糊，头部微侧",
+                "expression": "眉毛舒展，眼睛斜视，嘴唇紧闭"
+            }
+        ],
+        "background": "办公室环境，背景虚化",
+        "description_narrative": "近景仰拍镜头拍摄棕色外套女，她手部动作模糊，似乎在做威胁的手势，眼神斜视。",
+        "dialogue": "兜着",
+        "speaker": "棕色外套女",
+        "emotion": "威胁/斜视",
+        "duration": 0.63,
+        "description_visual": "近景仰拍镜头；办公室环境，背景虚化；画面中央人物，身穿棕色外套，格纹抹胸，手部动作模糊，头部微侧，表情：眉毛舒展，眼睛斜视，嘴唇紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色外套女",
+                "gender": "女",
+                "clothing": "棕色外套，格纹裙",
+                "position": "画面左侧",
+                "action": "背对镜头，转身",
+                "expression": "不可见"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "站立，看着对方",
+                "expression": "表情平静"
+            },
+            {
+                "name": "黑白裙女",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面右侧",
+                "action": "双手捧杯，站立",
+                "expression": "表情担忧"
+            }
+        ],
+        "background": "办公室走廊，地面有散落的文件",
+        "description_narrative": "全景固定镜头展示三人站位，棕色外套女背对镜头转身离开，西装男和黑白裙女站在原地，地面散落着文件。",
+        "dialogue": "走",
+        "speaker": "棕色外套女",
+        "emotion": "离开/命令",
+        "duration": 1.43,
+        "description_visual": "全景平拍镜头；办公室走廊，地面有散落的文件；画面左侧人物，身穿棕色外套，格纹裙，背对镜头，转身，表情：不可见；画面中央人物，身穿深色条纹西装，站立，看着对方，表情：表情平静；画面右侧人物，身穿白色衬衫，黑色背带裙，双手捧杯，站立，表情：表情担忧。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向一侧",
+                "expression": "眉毛舒展，眼睛斜视，嘴唇微闭"
+            }
+        ],
+        "background": "办公室走廊，背景模糊，可见墙上挂画",
+        "description_narrative": "近景固定镜头拍摄西装男，他头部微侧，眼神看向一侧，似乎在对黑白裙女说话。",
+        "dialogue": "我去打印资料，我去泡咖啡，你去忙吧",
+        "speaker": "西装男",
+        "emotion": "温和/安排",
+        "duration": 4.13,
+        "description_visual": "近景平拍镜头；办公室走廊，背景模糊，可见墙上挂画；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，头部微侧，眼神看向一侧，表情：眉毛舒展，眼睛斜视，嘴唇微闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑白裙女",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面中央",
+                "action": "双手捧杯，身体微侧",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇微张"
+            }
+        ],
+        "background": "办公室白墙，光线明亮",
+        "description_narrative": "中景固定镜头拍摄黑白裙女，她双手捧着玻璃杯，表情担忧地看着西装男。",
+        "dialogue": "可是这都让你一个人做，不太好吧",
+        "speaker": "黑白裙女",
+        "emotion": "担忧/关心",
+        "duration": 3.53,
+        "description_visual": "中景平拍镜头；办公室白墙，光线明亮；画面中央人物，身穿白色衬衫，黑色背带裙，双手捧杯，身体微侧，表情：眉毛微蹙，眼睛直视，嘴唇微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "低头微笑，头部微动",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "办公室走廊，背景模糊，可见墙上挂画",
+        "description_narrative": "近景固定镜头拍摄西装男，他低头微笑，表情轻松 reassuring，似乎在安抚对方。",
+        "dialogue": "没事，我知道咖啡机在哪",
+        "speaker": "西装男",
+        "emotion": "轻松/安抚",
+        "duration": 2.2,
+        "description_visual": "近景平拍镜头；办公室走廊，背景模糊，可见墙上挂画；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，低头微笑，头部微动，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑白裙女",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面中央",
+                "action": "低头看杯子，身体微侧",
+                "expression": "眉毛低垂，眼睛下视，嘴唇微闭"
+            }
+        ],
+        "background": "办公室白墙，光线明亮",
+        "description_narrative": "中景固定镜头拍摄黑白裙女，她低头看着手中的杯子，表情顺从。",
+        "dialogue": "好吧",
+        "speaker": "黑白裙女",
+        "emotion": "顺从/无奈",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；办公室白墙，光线明亮；画面中央人物，身穿白色衬衫，黑色背带裙，低头看杯子，身体微侧，表情：眉毛低垂，眼睛下视，嘴唇微闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "深色西装袖口",
+                "position": "画面左侧",
+                "action": "手臂下垂",
+                "expression": "不可见"
+            },
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "手部",
+                "position": "画面右侧",
+                "action": "手持玻璃杯",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室地面，灰色瓷砖",
+        "description_narrative": "特写跟拍镜头，画面模糊，可见左侧深色西装袖口和右侧手持玻璃杯的手，两人似乎正在擦肩而过或交接。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.5,
+        "description_visual": "特写平拍镜头（跟拍）；办公室地面，灰色瓷砖；画面左侧人物，身穿深色西装袖口，手臂下垂，表情：不可见；画面右侧人物，身穿手部，手持玻璃杯，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景",
+        "description_narrative": "全景固定镜头，画面逐渐变为纯白，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.53,
+        "description_visual": "全景平拍镜头；纯白背景。"
+    }
+]

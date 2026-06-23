@@ -1,0 +1,653 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体。",
+        "description_narrative": "画面全黑，持续3.16秒，无可见人物或环境细节。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.16,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤，金属扣皮带",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂，左手插在裤兜里",
+                "expression": "眉毛微蹙，眼神凝视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "办公室环境，背景有白色书架和黄色墙壁，光线明亮。",
+        "description_narrative": "方不凡身穿全黑套装站在办公室中央，左手插兜，神情严肃地看向前方，背景是明亮的书架和黄色墙面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.12,
+        "description_visual": "中景平拍镜头；办公室环境，背景有白色书架和黄色墙壁，光线明亮。；画面中央人物，身穿黑色衬衫，黑色长裤，金属扣皮带，站立，双手自然下垂，左手插在裤兜里，表情：眉毛微蹙，眼神凝视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫，长款耳环",
+                "position": "画面中央",
+                "action": "坐在办公桌后，双手放在键盘上，抬头看向左侧",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张，神情惊讶"
+            }
+        ],
+        "background": "办公室办公桌前，背景有黑色皮椅和书架。",
+        "description_narrative": "白衣女子坐在办公桌后，双手置于键盘上，突然抬头看向左侧，面露惊讶神色，似乎听到了什么声音。",
+        "dialogue": "方不凡",
+        "speaker": "白衣女子",
+        "emotion": "惊讶",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；办公室办公桌前，背景有黑色皮椅和书架。；画面中央人物，身穿白色长袖衬衫，长款耳环，坐在办公桌后，双手放在键盘上，抬头看向左侧，表情：眉毛微挑，眼睛睁大，嘴巴微张，神情惊讶。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "身体快速前倾弯腰，动作带有动态模糊",
+                "expression": "面部因快速运动而模糊，看不清具体表情"
+            }
+        ],
+        "background": "办公室环境，背景模糊。",
+        "description_narrative": "方不凡突然快速弯腰前倾，动作幅度大导致画面出现动态模糊，似乎要靠近桌子或某人。",
+        "dialogue": "哎",
+        "speaker": "方不凡",
+        "emotion": "急切",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头（摇镜）；办公室环境，背景模糊。；画面中央人物，身穿黑色衬衫，身体快速前倾弯腰，动作带有动态模糊，表情：面部因快速运动而模糊，看不清具体表情。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交叠放在桌面上",
+                "expression": "眉毛舒展，眼神关切，嘴唇微启似乎在倾听"
+            }
+        ],
+        "background": "办公室办公桌，前景有白色键盘。",
+        "description_narrative": "白衣女子坐在桌前，双手交叠，神情关切地看向前方，似乎在询问对方的状况。",
+        "dialogue": "怎么了 老婆",
+        "speaker": "方不凡",
+        "emotion": "关切",
+        "duration": 3.6,
+        "description_visual": "中近景平拍镜头；办公室办公桌，前景有白色键盘。；画面中央人物，身穿白色长袖衬衫，坐在桌前，双手交叠放在桌面上，表情：眉毛舒展，眼神关切，嘴唇微启似乎在倾听。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，身体微前倾，双手放在桌上",
+                "expression": "眉毛微皱，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，背景有书架和窗户。",
+        "description_narrative": "方不凡坐在桌前，身体前倾，带着疑惑的表情反问对方，似乎在奇怪为什么是对方在问自己。",
+        "dialogue": "该是我问你怎么了才是吧",
+        "speaker": "方不凡",
+        "emotion": "疑惑",
+        "duration": 2.64,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架和窗户。；画面中央人物，身穿黑色衬衫，坐在桌前，身体微前倾，双手放在桌上，表情：眉毛微皱，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，身体微前倾",
+                "expression": "眉毛微蹙，眼神担忧，嘴唇微动"
+            }
+        ],
+        "background": "办公室办公桌，背景有书架。",
+        "description_narrative": "白衣女子双手交握放在桌上，身体前倾，带着担忧的神情指出对方今天的行为很奇怪。",
+        "dialogue": "你今天一天都怪怪的",
+        "speaker": "白衣女子",
+        "emotion": "担忧",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；办公室办公桌，背景有书架。；画面中央人物，身穿白色长袖衬衫，坐在桌前，双手交握，身体微前倾，表情：眉毛微蹙，眼神担忧，嘴唇微动。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握放在桌上，佩戴手表",
+                "expression": "眉毛微挑，眼神试探，嘴唇微张"
+            }
+        ],
+        "background": "办公室环境，背景虚化。",
+        "description_narrative": "方不凡双手交握置于桌面，眼神试探地看着对方，猜测是不是因为倩倩的事情惹对方生气了。",
+        "dialogue": "是不是倩倩惹你生气了",
+        "speaker": "方不凡",
+        "emotion": "试探",
+        "duration": 2.64,
+        "description_visual": "中近景平拍镜头；办公室环境，背景虚化。；画面中央人物，身穿黑色衬衫，坐在桌前，双手交握放在桌上，佩戴手表，表情：眉毛微挑，眼神试探，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，摇头否认",
+                "expression": "眉毛舒展，眼神略微下垂，嘴唇微动解释"
+            }
+        ],
+        "background": "办公室办公桌，背景有书架。",
+        "description_narrative": "白衣女子轻轻摇头否认，双手交握，解释说自己只是想起了一些事情，神情略带回忆。",
+        "dialogue": "没有 想起来一些事罢了",
+        "speaker": "白衣女子",
+        "emotion": "平静",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头；办公室办公桌，背景有书架。；画面中央人物，身穿白色长袖衬衫，坐在桌前，双手交握，摇头否认，表情：眉毛舒展，眼神略微下垂，嘴唇微动解释。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，身体微前倾",
+                "expression": "眉毛微挑，眼神好奇，嘴巴微张询问"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡身体前倾，双手交握，带着好奇的神情追问对方想起了什么事情。",
+        "dialogue": "什么事啊",
+        "speaker": "方不凡",
+        "emotion": "好奇",
+        "duration": 1.08,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，坐在桌前，双手交握，身体微前倾，表情：眉毛微挑，眼神好奇，嘴巴微张询问。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，眼神看向侧方",
+                "expression": "眉毛微垂，眼神深邃，嘴唇微动"
+            }
+        ],
+        "background": "办公室办公桌，背景有书架。",
+        "description_narrative": "白衣女子双手交握，眼神看向侧方，神情略带感伤地透露是十年前的一些旧事。",
+        "dialogue": "十年前的一些旧事",
+        "speaker": "白衣女子",
+        "emotion": "感伤",
+        "duration": 3.4,
+        "description_visual": "中近景平拍镜头；办公室办公桌，背景有书架。；画面中央人物，身穿白色长袖衬衫，坐在桌前，双手交握，眼神看向侧方，表情：眉毛微垂，眼神深邃，嘴唇微动。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，单手放在桌上，身体微侧",
+                "expression": "眉毛上扬，眼神惊讶，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡单手撑在桌上，身体微侧，惊讶地反问对方竟然还记得十年前的事情。",
+        "dialogue": "呦 十年前的事儿 你都记得哪",
+        "speaker": "方不凡",
+        "emotion": "惊讶",
+        "duration": 3.6,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，坐在桌前，单手放在桌上，身体微侧，表情：眉毛上扬，眼神惊讶，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，眼神坚定",
+                "expression": "眉毛微蹙，眼神直视前方，嘴唇微动"
+            }
+        ],
+        "background": "办公室办公桌，背景有书架。",
+        "description_narrative": "白衣女子双手交握，眼神坚定地看向前方，感叹有些事情是一辈子都忘不了的。",
+        "dialogue": "有些事啊 一辈子都忘不了",
+        "speaker": "白衣女子",
+        "emotion": "坚定",
+        "duration": 4.44,
+        "description_visual": "中近景平拍镜头；办公室办公桌，背景有书架。；画面中央人物，身穿白色长袖衬衫，坐在桌前，双手交握，眼神坚定，表情：眉毛微蹙，眼神直视前方，嘴唇微动。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，单手放在桌上，眼神略带调侃",
+                "expression": "眉毛微挑，嘴角微撇，眼神玩味"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡单手撑桌，嘴角微撇，带着调侃的神情说对方神神叨叨的。",
+        "dialogue": "神神叨叨的",
+        "speaker": "方不凡",
+        "emotion": "调侃",
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，坐在桌前，单手放在桌上，眼神略带调侃，表情：眉毛微挑，嘴角微撇，眼神玩味。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手放在键盘上，突然抬头",
+                "expression": "眉毛舒展，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室办公桌，前景有键盘。",
+        "description_narrative": "白衣女子双手放在键盘上，突然想起什么似的抬头，似乎准备交代新的任务。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "突然",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；办公室办公桌，前景有键盘。；画面中央人物，身穿白色长袖衬衫，坐在桌前，双手放在键盘上，突然抬头，表情：眉毛舒展，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，单手放在桌上，神情专注",
+                "expression": "眉毛微蹙，眼神凝视，嘴唇紧闭"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡坐在桌前神情专注地听着，背景音中女子提到工期临近，南郊项目需要尽快复工。",
+        "dialogue": "唉 对了 一会儿 你陪我去一趟南郊项目的工地上吧 工期越来越近了",
+        "speaker": "白衣女子",
+        "emotion": "认真",
+        "duration": 6.16,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，坐在桌前，单手放在桌上，神情专注，表情：眉毛微蹙，眼神凝视，嘴唇紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，眼神询问",
+                "expression": "眉毛微蹙，眼神疑惑，嘴唇微动"
+            }
+        ],
+        "background": "办公室办公桌，背景有书架。",
+        "description_narrative": "白衣女子双手交握，带着疑惑的神情询问南郊工地是不是在孙家地盘附近。",
+        "dialogue": "南郊的项目得尽快复工才是 嘶 南郊工地 是不是在孙家地盘附近啊",
+        "speaker": "白衣女子",
+        "emotion": "疑惑",
+        "duration": 6.68,
+        "description_visual": "中近景平拍镜头；办公室办公桌，背景有书架。；画面中央人物，身穿白色长袖衬衫，坐在桌前，双手交握，眼神询问，表情：眉毛微蹙，眼神疑惑，嘴唇微动。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，身体微前倾，单手放在桌上",
+                "expression": "眉毛微挑，眼神惊讶，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡身体前倾，单手撑桌，面露惊讶之色，似乎没想到对方会知道这个信息。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 0.96,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，坐在桌前，身体微前倾，单手放在桌上，表情：眉毛微挑，眼神惊讶，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，神情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室办公桌，背景有书架。",
+        "description_narrative": "白衣女子面露惊讶，背景音中方不凡问她是怎么知道的。",
+        "dialogue": "哎 你怎么知道呀",
+        "speaker": "方不凡",
+        "emotion": "惊讶",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；办公室办公桌，背景有书架。；画面中央人物，身穿白色长袖衬衫，坐在桌前，双手交握，神情惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，眼神试探",
+                "expression": "眉毛微挑，眼神闪烁，嘴唇微动"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡双手交握，眼神试探地看着对方，猜测是不是倩倩告诉她的。",
+        "dialogue": "是不是倩倩告诉你的",
+        "speaker": "方不凡",
+        "emotion": "试探",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，坐在桌前，双手交握，眼神试探，表情：眉毛微挑，眼神闪烁，嘴唇微动。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，嘴角微扬",
+                "expression": "眉毛舒展，眼神含笑，嘴角上扬"
+            }
+        ],
+        "background": "办公室办公桌，背景有书架。",
+        "description_narrative": "白衣女子双手交握，嘴角微扬，背景音中方不凡解释说自家项目总得有所了解。",
+        "dialogue": "自己家项目总得有所了解吧",
+        "speaker": "方不凡",
+        "emotion": "自然",
+        "duration": 4.0,
+        "description_visual": "中近景平拍镜头；办公室办公桌，背景有书架。；画面中央人物，身穿白色长袖衬衫，坐在桌前，双手交握，嘴角微扬，表情：眉毛舒展，眼神含笑，嘴角上扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，低头看手，嘴角微扬",
+                "expression": "眉毛舒展，眼神下视，嘴角带笑"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡低头看着桌面，嘴角带笑，背景音中女子娇嗔道谁跟你是一家人。",
+        "dialogue": "谁跟你是一家人啊",
+        "speaker": "白衣女子",
+        "emotion": "娇嗔",
+        "duration": 3.6,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，坐在桌前，低头看手，嘴角微扬，表情：眉毛舒展，眼神下视，嘴角带笑。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面左侧",
+                "action": "手放在桌上，被另一只手握住",
+                "expression": "不可见"
+            },
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧",
+                "action": "手伸过去握住女子的手",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公桌桌面，木质纹理。",
+        "description_narrative": "特写镜头，方不凡的手伸过去紧紧握住白衣女子放在桌上的手，背景音中他轻声叫了声老婆。",
+        "dialogue": "老婆",
+        "speaker": "方不凡",
+        "emotion": "温柔",
+        "duration": 1.04,
+        "description_visual": "特写俯拍镜头；办公桌桌面，木质纹理。；画面左侧人物，身穿白色长袖衬衫，手放在桌上，被另一只手握住，表情：不可见；画面右侧人物，身穿黑色衬衫，手伸过去握住女子的手，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，靠近镜头，眼神深情",
+                "expression": "眉毛微蹙，眼神专注，嘴唇微张"
+            }
+        ],
+        "background": "办公室环境，背景虚化。",
+        "description_narrative": "方不凡身体前倾靠近镜头，眼神深情地看着对方，似乎在表达爱意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "深情",
+        "duration": 2.28,
+        "description_visual": "特写平拍镜头（推进）；办公室环境，背景虚化。；画面中央人物，身穿黑色衬衫，身体前倾，靠近镜头，眼神深情，表情：眉毛微蹙，眼神专注，嘴唇微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖衬衫",
+                "position": "画面左侧",
+                "action": "手被握住，手指微动",
+                "expression": "不可见"
+            },
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧",
+                "action": "手紧紧握住女子的手",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公桌桌面，木质纹理。",
+        "description_narrative": "特写镜头，两只手紧紧握在一起，背景音中女子害羞地说哎呀你胡说什么呢。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "害羞",
+        "duration": 4.76,
+        "description_visual": "特写俯拍镜头；办公桌桌面，木质纹理。；画面左侧人物，身穿白色长袖衬衫，手被握住，手指微动，表情：不可见；画面右侧人物，身穿黑色衬衫，手紧紧握住女子的手，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "单手托腮，眼神温柔地看着前方",
+                "expression": "眉毛舒展，眼神柔和，嘴角微扬"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡单手托腮，眼神温柔地看着前方，嘴角带着笑意，似乎很享受此刻的氛围。",
+        "dialogue": "哎呀 你胡说什么呢",
+        "speaker": "白衣女子",
+        "emotion": "温柔",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，单手托腮，眼神温柔地看着前方，表情：眉毛舒展，眼神柔和，嘴角微扬。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，双手撑在桌上，眼神专注",
+                "expression": "眉毛微蹙，眼神直视，嘴唇微张"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡双手撑在桌上，身体前倾，眼神专注地看着对方，似乎在等待回应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 0.76,
+        "description_visual": "中近景平拍镜头（推进）；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，身体前倾，双手撑在桌上，眼神专注，表情：眉毛微蹙，眼神直视，嘴唇微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，双手撑在桌上，眼神专注",
+                "expression": "眉毛微蹙，眼神直视，嘴唇微张"
+            }
+        ],
+        "background": "办公室环境，背景有书架。",
+        "description_narrative": "方不凡保持前倾姿势，双手撑在桌上，眼神专注地看着对方，画面结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 0.76,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有书架。；画面中央人物，身穿黑色衬衫，身体前倾，双手撑在桌上，眼神专注，表情：眉毛微蹙，眼神直视，嘴唇微张。"
+    }
+]

@@ -1,0 +1,966 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央前景",
+                "action": "戴着头盔，手指向前",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴紧闭"
+            },
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "红色礼服",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视，嘴角上扬"
+            }
+        ],
+        "background": "电影海报背景，色彩绚丽，有金币特效",
+        "description_narrative": "全景固定镜头，展示电影海报。中央是身穿黄色外卖制服的外卖小哥，左侧是穿黑色西装的女店员，右侧是穿红色礼服的王姐，背景绚丽多彩，带有金币特效。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.67,
+        "description_visual": "全景平拍镜头；电影海报背景，色彩绚丽，有金币特效；中央前景人物，身穿黄色外卖制服，戴着头盔，手指向前，表情：眉毛舒展，眼睛直视，嘴巴微张；左侧人物，身穿黑色西装，蓝白条纹衬衫，站立，表情：眉毛微蹙，眼睛侧视，嘴巴紧闭；右侧人物，身穿红色礼服，站立，表情：眉毛舒展，眼睛直视，嘴角上扬。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "画面中央",
+                "action": "手持手机展示",
+                "expression": "眉毛微挑，眼睛看手机，嘴巴微张"
+            },
+            {
+                "name": "女同事",
+                "gender": "女",
+                "clothing": "黑色西装，白衬衫",
+                "position": "画面左侧",
+                "action": "站立，双手交叠",
+                "expression": "眉毛微蹙，眼睛看外卖小哥，嘴巴微张"
+            },
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "画面右侧",
+                "action": "双臂交叉抱胸",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴紧闭"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面右前",
+                "action": "站立，侧身",
+                "expression": "眉毛微蹙，眼睛看外卖小哥，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店内，白色墙壁，挂有婚纱，灯光明亮",
+        "description_narrative": "全景固定镜头，婚纱店内。身穿黄色制服的外卖小哥站在中央展示手机，左侧站着穿黑西装的女同事，右侧是穿蓝丝绒上衣的王姐和穿黑西装的女店员，众人表情质疑。",
+        "dialogue": "不可能",
+        "speaker": "女店员",
+        "emotion": "质疑",
+        "duration": 1.07,
+        "description_visual": "全景平拍镜头；婚纱店内，白色墙壁，挂有婚纱，灯光明亮；画面中央人物，身穿黄色外卖制服，手持手机展示，表情：眉毛微挑，眼睛看手机，嘴巴微张；画面左侧人物，身穿黑色西装，白衬衫，站立，双手交叠，表情：眉毛微蹙，眼睛看外卖小哥，嘴巴微张；画面右侧人物，身穿深蓝色丝绒上衣，亮片裙，双臂交叉抱胸，表情：眉毛微蹙，眼睛斜视，嘴巴紧闭；画面右前人物，身穿黑色西装，蓝白条纹衬衫，站立，侧身，表情：眉毛微蹙，眼睛看外卖小哥，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，米色丝巾",
+                "position": "画面中央",
+                "action": "抬头看",
+                "expression": "眉毛紧锁，眼睛上翻，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化，灯光柔和",
+        "description_narrative": "特写固定镜头，女店员面部。她眉头紧锁，眼睛向上看，嘴巴微张，表情充满怀疑和震惊。",
+        "dialogue": "你怎么会有至尊黑卡",
+        "speaker": "女店员",
+        "emotion": "震惊",
+        "duration": 1.1,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化，灯光柔和；画面中央人物，身穿黑色西装，蓝白条纹衬衫，米色丝巾，抬头看，表情：眉毛紧锁，眼睛上翻，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，珍珠项链",
+                "position": "画面中央",
+                "action": "双臂交叉，侧头",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，有人体模型",
+        "description_narrative": "近景固定镜头，王姐。她双臂交叉抱胸，头侧向一边，眼神轻蔑，嘴巴微张，似乎在附和女店员的话。",
+        "dialogue": "我看啊",
+        "speaker": "王姐",
+        "emotion": "轻蔑",
+        "duration": 2.37,
+        "description_visual": "近景平拍镜头；白色墙壁，有人体模型；画面中央人物，身穿深蓝色丝绒上衣，珍珠项链，双臂交叉，侧头，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，米色丝巾",
+                "position": "画面中央",
+                "action": "抬头看",
+                "expression": "眉毛紧锁，眼睛上翻，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员面部。她眉头紧锁，眼神怀疑，嘴巴微张，语气笃定地指责。",
+        "dialogue": "他这个卡一定是偷的",
+        "speaker": "女店员",
+        "emotion": "笃定",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，米色丝巾，抬头看，表情：眉毛紧锁，眼睛上翻，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，珍珠项链",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "眉毛舒展，眼睛看前方，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，人体模型",
+        "description_narrative": "近景固定镜头，王姐。她双臂交叉，表情傲慢，嘴巴微张，命令店员叫保安。",
+        "dialogue": "小露赶紧叫保安，把这个贼给抓起来",
+        "speaker": "王姐",
+        "emotion": "傲慢",
+        "duration": 2.27,
+        "description_visual": "近景平拍镜头；白色墙壁，人体模型；画面中央人物，身穿深蓝色丝绒上衣，珍珠项链，双臂交叉，表情：眉毛舒展，眼睛看前方，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "画面中央",
+                "action": "手持黑卡展示",
+                "expression": "眉毛舒展，眼睛看卡，嘴角微扬"
+            }
+        ],
+        "background": "婚纱店背景，有婚纱",
+        "description_narrative": "中近景固定镜头，外卖小哥。他手持黑卡，面带微笑，眼神中带着嘲讽，对众人的反应感到有趣。",
+        "dialogue": "你们可真有意思啊",
+        "speaker": "外卖小哥",
+        "emotion": "嘲讽",
+        "duration": 1.37,
+        "description_visual": "中近景平拍镜头；婚纱店背景，有婚纱；画面中央人物，身穿黄色外卖制服，手持黑卡展示，表情：眉毛舒展，眼睛看卡，嘴角微扬。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "画面左侧",
+                "action": "双臂交叉",
+                "expression": "眉毛微蹙，眼睛看前方，嘴巴紧闭"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛紧锁，眼睛看外卖小哥，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店，白色墙壁",
+        "description_narrative": "中景固定镜头，王姐和女店员并排站立。女店员指着卡，表情严肃，似乎在争辩卡上的内容。",
+        "dialogue": "这上面明明写的",
+        "speaker": "女店员",
+        "emotion": "争辩",
+        "duration": 1.63,
+        "description_visual": "中景平拍镜头；婚纱店，白色墙壁；画面左侧人物，身穿深蓝色丝绒上衣，亮片裙，双臂交叉，表情：眉毛微蹙，眼睛看前方，嘴巴紧闭；画面右侧人物，身穿黑色西装，蓝白条纹衬衫，站立，表情：眉毛紧锁，眼睛看外卖小哥，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "画面中央",
+                "action": "手持黑卡",
+                "expression": "眉毛舒展，眼睛看卡，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景",
+        "description_narrative": "中近景固定镜头，外卖小哥。他手持黑卡，表情淡定，解释卡上的名字是自己的。",
+        "dialogue": "是我的名字，怎么就变成我偷的了",
+        "speaker": "外卖小哥",
+        "emotion": "淡定",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；婚纱店背景；画面中央人物，身穿黄色外卖制服，手持黑卡，表情：眉毛舒展，眼睛看卡，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "画面中央",
+                "action": "手持黑卡",
+                "expression": "眉毛微挑，眼睛看前方，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景",
+        "description_narrative": "中近景固定镜头，外卖小哥。他眼神变得犀利，语气强硬，警告众人不要乱动。",
+        "dialogue": "我看谁敢动我",
+        "speaker": "外卖小哥",
+        "emotion": "强硬",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；婚纱店背景；画面中央人物，身穿黄色外卖制服，手持黑卡，表情：眉毛微挑，眼睛看前方，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣",
+                "position": "画面左侧",
+                "action": "双臂交叉",
+                "expression": "眉毛微蹙，眼睛下移，嘴巴紧闭"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧前景",
+                "action": "部分身体入画",
+                "expression": "模糊"
+            }
+        ],
+        "background": "婚纱店背景",
+        "description_narrative": "近景固定镜头，王姐。她双臂交叉，眼神有些躲闪，似乎被外卖小哥的气势镇住，嘴里嘀咕着什么。",
+        "dialogue": "怎么",
+        "speaker": "王姐",
+        "emotion": "心虚",
+        "duration": 1.3,
+        "description_visual": "近景平拍镜头；婚纱店背景；画面左侧人物，身穿深蓝色丝绒上衣，双臂交叉，表情：眉毛微蹙，眼睛下移，嘴巴紧闭；画面右侧前景人物，身穿黑色西装，部分身体入画，表情：模糊。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眉毛舒展，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店天花板灯光",
+        "description_narrative": "近景固定镜头，外卖小哥侧脸。他抬头看向某处，语气平静地让店员仔细看。",
+        "dialogue": "你仔细看一看",
+        "speaker": "外卖小哥",
+        "emotion": "平静",
+        "duration": 1.07,
+        "description_visual": "近景平拍镜头；婚纱店天花板灯光；画面中央人物，身穿黄色外卖制服，侧头，表情：眉毛舒展，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "抬头看",
+                "expression": "眉毛紧锁，眼睛上翻，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员。她眉头紧锁，眼神疑惑，似乎在思考外卖小哥的话。",
+        "dialogue": "现在",
+        "speaker": "外卖小哥",
+        "emotion": "疑惑",
+        "duration": 1.03,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，抬头看，表情：眉毛紧锁，眼睛上翻，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "背景",
+                "action": "手持黑卡",
+                "expression": "模糊"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "前景",
+                "action": "伸手接卡",
+                "expression": "模糊"
+            }
+        ],
+        "background": "婚纱店背景",
+        "description_narrative": "特写固定镜头，焦点在手中的黑卡。女店员的手伸过来接过卡，外卖小哥询问现在是否有资格购买。",
+        "dialogue": "现在我有资格买了吧",
+        "speaker": "外卖小哥",
+        "emotion": "反问",
+        "duration": 1.57,
+        "description_visual": "特写平拍镜头；婚纱店背景；背景人物，身穿黄色外卖制服，手持黑卡，表情：模糊；前景人物，身穿黑色西装，伸手接卡，表情：模糊。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "手持卡查看",
+                "expression": "眉毛舒展，眼睛看卡，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员。她手持卡仔细查看，表情从怀疑转为惊讶，嘴里发出惊叹声。",
+        "dialogue": "啊",
+        "speaker": "女店员",
+        "emotion": "惊讶",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，手持卡查看，表情：眉毛舒展，眼睛看卡，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "眉毛微蹙，眼睛下移，嘴巴紧闭"
+            }
+        ],
+        "background": "人体模型",
+        "description_narrative": "近景固定镜头，王姐。她双臂交叉，眼神向下，表情有些不情愿，嘴里敷衍地说有资格。",
+        "dialogue": "啊有资格有资格",
+        "speaker": "女店员",
+        "emotion": "敷衍",
+        "duration": 1.73,
+        "description_visual": "近景平拍镜头；人体模型；画面中央人物，身穿深蓝色丝绒上衣，双臂交叉，表情：眉毛微蹙，眼睛下移，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "眉毛舒展，眼睛看前方，嘴角上扬"
+            }
+        ],
+        "background": "婚纱店门口",
+        "description_narrative": "中近景固定镜头，外卖小哥。他双臂交叉，面带微笑，重复着“有资格”，似乎在享受这一刻。",
+        "dialogue": "啊有资格有资格",
+        "speaker": "外卖小哥",
+        "emotion": "得意",
+        "duration": 2.07,
+        "description_visual": "中近景平拍镜头；婚纱店门口；画面中央人物，身穿黄色外卖制服，双臂交叉，表情：眉毛舒展，眼睛看前方，嘴角上扬。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "抬头看",
+                "expression": "眉毛舒展，眼睛看上方，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员。她表情变得恭敬，眼神向上，开始道歉。",
+        "dialogue": "刚刚是我不好",
+        "speaker": "女店员",
+        "emotion": "恭敬",
+        "duration": 2.17,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，抬头看，表情：眉毛舒展，眼睛看上方，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "眉毛微蹙，眼睛看前方，嘴巴微张"
+            }
+        ],
+        "background": "人体模型",
+        "description_narrative": "近景固定镜头，王姐。她双臂交叉，表情不悦，女店员在画外音中表示要打包。",
+        "dialogue": "给您包起来",
+        "speaker": "女店员",
+        "emotion": "不悦",
+        "duration": 1.07,
+        "description_visual": "近景平拍镜头；人体模型；画面中央人物，身穿深蓝色丝绒上衣，双臂交叉，表情：眉毛微蹙，眼睛看前方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眉毛舒展，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员。她侧头看向某处，突然想起什么，指着某件衣服。",
+        "dialogue": "哎这件衣服",
+        "speaker": "女店员",
+        "emotion": "想起",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，侧头，表情：眉毛舒展，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "眉毛微蹙，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "人体模型",
+        "description_narrative": "近景固定镜头，王姐。她双臂交叉，头侧向一边，表情不满，声称衣服是她先看上的。",
+        "dialogue": "可是我先看上的，你必须先给我包起来",
+        "speaker": "王姐",
+        "emotion": "不满",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；人体模型；画面中央人物，身穿深蓝色丝绒上衣，双臂交叉，表情：眉毛微蹙，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眉毛微挑，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员。她侧头看向王姐，语气带着嘲讽，称呼她为王姐。",
+        "dialogue": "哎呦，王姐",
+        "speaker": "女店员",
+        "emotion": "嘲讽",
+        "duration": 1.37,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，侧头，表情：眉毛微挑，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "眉毛微蹙，眼睛下移，嘴巴紧闭"
+            }
+        ],
+        "background": "人体模型",
+        "description_narrative": "近景固定镜头，王姐。她双臂交叉，眼神向下，表情尴尬。女店员在画外音中强调外卖小哥是至尊黑卡。",
+        "dialogue": "人家先生可是至尊黑卡",
+        "speaker": "女店员",
+        "emotion": "尴尬",
+        "duration": 1.83,
+        "description_visual": "近景平拍镜头；人体模型；画面中央人物，身穿深蓝色丝绒上衣，双臂交叉，表情：眉毛微蹙，眼睛下移，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眉毛微挑，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员。她侧头看向王姐，语气轻蔑，对比王姐的金卡。",
+        "dialogue": "你不过就是一个区区的金卡",
+        "speaker": "女店员",
+        "emotion": "轻蔑",
+        "duration": 2.97,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，侧头，表情：眉毛微挑，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "眉毛舒展，眼睛看前方，嘴角微扬"
+            }
+        ],
+        "background": "婚纱店门口",
+        "description_narrative": "中近景固定镜头，外卖小哥。他双臂交叉，面带微笑，听着女店员嘲讽王姐。",
+        "dialogue": "而且去年因为没钱消费",
+        "speaker": "女店员",
+        "emotion": "微笑",
+        "duration": 2.17,
+        "description_visual": "中近景平拍镜头；婚纱店门口；画面中央人物，身穿黄色外卖制服，双臂交叉，表情：眉毛舒展，眼睛看前方，嘴角微扬。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眉毛微挑，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员。她继续嘲讽，说王姐差点掉到银卡。",
+        "dialogue": "还差点掉到了银卡",
+        "speaker": "女店员",
+        "emotion": "嘲讽",
+        "duration": 2.93,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，侧头，表情：眉毛微挑，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "眉毛微蹙，眼睛看侧面，嘴巴紧闭"
+            }
+        ],
+        "background": "人体模型",
+        "description_narrative": "近景固定镜头，王姐。她双臂交叉，头侧向一边，表情愤怒。女店员在画外音中质疑她的车是贷款买的。",
+        "dialogue": "据我所知你那辆车",
+        "speaker": "女店员",
+        "emotion": "愤怒",
+        "duration": 1.7,
+        "description_visual": "近景平拍镜头；人体模型；画面中央人物，身穿深蓝色丝绒上衣，双臂交叉，表情：眉毛微蹙，眼睛看侧面，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眉毛微挑，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员。她继续补刀，说王姐还是有自知之明的。",
+        "dialogue": "你还是有点自知之明",
+        "speaker": "女店员",
+        "emotion": "补刀",
+        "duration": 2.7,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，侧头，表情：眉毛微挑，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "眉毛微蹙，眼睛看前方，嘴巴微张"
+            }
+        ],
+        "background": "人体模型",
+        "description_narrative": "近景固定镜头，王姐。她双臂交叉，表情恼怒，女店员在画外音中劝她别争了。",
+        "dialogue": "别和这位先生争了",
+        "speaker": "女店员",
+        "emotion": "恼怒",
+        "duration": 0.53,
+        "description_visual": "近景平拍镜头；人体模型；画面中央人物，身穿深蓝色丝绒上衣，双臂交叉，表情：眉毛微蹙，眼睛看前方，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眉毛紧锁，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "婚纱店背景虚化",
+        "description_narrative": "特写固定镜头，女店员。她表情惊恐，似乎意识到了什么，身体开始后退。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 0.73,
+        "description_visual": "特写平拍镜头；婚纱店背景虚化；画面中央人物，身穿黑色西装，蓝白条纹衬衫，侧头，表情：眉毛紧锁，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣",
+                "position": "画面左侧",
+                "action": "扑向女店员",
+                "expression": "模糊"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "后退",
+                "expression": "模糊"
+            }
+        ],
+        "background": "婚纱店",
+        "description_narrative": "近景摇镜头，画面模糊。王姐突然扑向女店员，两人开始肢体冲突。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "混乱",
+        "duration": 0.87,
+        "description_visual": "近景平拍镜头（摇镜）；婚纱店；画面左侧人物，身穿深蓝色丝绒上衣，扑向女店员，表情：模糊；画面右侧人物，身穿黑色西装，后退，表情：模糊。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣",
+                "position": "画面左侧",
+                "action": "抓扯女店员",
+                "expression": "愤怒"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "躲避",
+                "expression": "惊恐"
+            }
+        ],
+        "background": "婚纱店，白色婚纱",
+        "description_narrative": "中景跟拍镜头，画面晃动。王姐和女店员扭打在一起，王姐嘴里骂着脏话。",
+        "dialogue": "你个贱人",
+        "speaker": "王姐",
+        "emotion": "愤怒",
+        "duration": 0.57,
+        "description_visual": "中景平拍镜头（跟拍）；婚纱店，白色婚纱；画面左侧人物，身穿深蓝色丝绒上衣，抓扯女店员，表情：愤怒；画面右侧人物，身穿黑色西装，躲避，表情：惊恐。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "画面左侧",
+                "action": "推搡女店员",
+                "expression": "愤怒"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "后退",
+                "expression": "惊恐"
+            }
+        ],
+        "background": "婚纱店，白色婚纱",
+        "description_narrative": "全景固定镜头，王姐和女店员在婚纱前扭打，王姐情绪激动，大声叫骂。",
+        "dialogue": "你个贱人打死你",
+        "speaker": "王姐",
+        "emotion": "疯狂",
+        "duration": 2.83,
+        "description_visual": "全景平拍镜头；婚纱店，白色婚纱；画面左侧人物，身穿深蓝色丝绒上衣，亮片裙，推搡女店员，表情：愤怒；画面右侧人物，身穿黑色西装，后退，表情：惊恐。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "画面中央",
+                "action": "抓扯女店员",
+                "expression": "愤怒"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "挣扎",
+                "expression": "痛苦"
+            },
+            {
+                "name": "女同事",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "劝架",
+                "expression": "焦急"
+            }
+        ],
+        "background": "婚纱店",
+        "description_narrative": "全景固定镜头，三人混战。女同事试图拉开两人，场面混乱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "混乱",
+        "duration": 0.53,
+        "description_visual": "全景平拍镜头；婚纱店；画面中央人物，身穿深蓝色丝绒上衣，亮片裙，抓扯女店员，表情：愤怒；画面右侧人物，身穿黑色西装，挣扎，表情：痛苦；画面左侧人物，身穿黑色西装，劝架，表情：焦急。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "画面中央",
+                "action": "抓扯女店员",
+                "expression": "愤怒"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "挣扎",
+                "expression": "痛苦"
+            },
+            {
+                "name": "女同事",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "劝架",
+                "expression": "焦急"
+            }
+        ],
+        "background": "婚纱店，黑白画面",
+        "description_narrative": "全景固定镜头，画面转为黑白。三人仍在混战，动作激烈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "混乱",
+        "duration": 0.97,
+        "description_visual": "全景平拍镜头；婚纱店，黑白画面；画面中央人物，身穿深蓝色丝绒上衣，亮片裙，抓扯女店员，表情：愤怒；画面右侧人物，身穿黑色西装，挣扎，表情：痛苦；画面左侧人物，身穿黑色西装，劝架，表情：焦急。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "画面中央",
+                "action": "抓扯女店员",
+                "expression": "愤怒"
+            },
+            {
+                "name": "女店员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "挣扎",
+                "expression": "痛苦"
+            },
+            {
+                "name": "女同事",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "劝架",
+                "expression": "焦急"
+            }
+        ],
+        "background": "婚纱店，黑白画面",
+        "description_narrative": "全景固定镜头，黑白画面。混战继续，三人纠缠在一起，动作模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "混乱",
+        "duration": 1.17,
+        "description_visual": "全景平拍镜头；婚纱店，黑白画面；画面中央人物，身穿深蓝色丝绒上衣，亮片裙，抓扯女店员，表情：愤怒；画面右侧人物，身穿黑色西装，挣扎，表情：痛苦；画面左侧人物，身穿黑色西装，劝架，表情：焦急。"
+    }
+]

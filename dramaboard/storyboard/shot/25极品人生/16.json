@@ -1,0 +1,974 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装，花衬衫，金项链，黄色眼镜",
+                "position": "画面中央",
+                "action": "头部微抬，眼神直视前方，嘴角微扬",
+                "expression": "眉毛舒展，眼睛透过黄镜片注视，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线集中在人物面部",
+        "description_narrative": "近景固定镜头，西装男身穿棕色西装搭配花衬衫，佩戴黄色眼镜，头部微抬直视前方，嘴角带着一丝笑意，似乎正在聆听或准备说话。",
+        "dialogue": "我可比他强多了。",
+        "speaker": "刘小姐",
+        "emotion": "自信",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；深色背景，光线集中在人物面部；画面中央人物，身穿棕色西装，花衬衫，金项链，黄色眼镜，头部微抬，眼神直视前方，嘴角微扬，表情：眉毛舒展，眼睛透过黄镜片注视，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙，项链，手表",
+                "position": "画面中央",
+                "action": "坐在床上，身体微侧，眼神看向镜头方向",
+                "expression": "眉毛微挑，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "酒店房间，床头板，白色床单",
+        "description_narrative": "中近景固定镜头，刘小姐身穿黑色吊带裙坐在床上，身体微侧，眼神坚定地看向镜头方向，表情高冷。",
+        "dialogue": "啊。",
+        "speaker": "西装男",
+        "emotion": "惊讶",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；酒店房间，床头板，白色床单；画面中央人物，身穿黑色吊带裙，项链，手表，坐在床上，身体微侧，眼神看向镜头方向，表情：眉毛微挑，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装，花衬衫，金项链",
+                "position": "画面中央",
+                "action": "头部后仰，张嘴大笑，身体晃动",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张露齿"
+            }
+        ],
+        "background": "深色背景，模糊",
+        "description_narrative": "特写仰拍镜头伴随轻微摇镜，西装男头部后仰，张嘴大笑，身体随之晃动，显得十分得意或不屑。",
+        "dialogue": "啊。",
+        "speaker": "西装男",
+        "emotion": "嘲笑",
+        "duration": 0.7,
+        "description_visual": "特写仰拍镜头（摇镜）；深色背景，模糊；画面中央人物，身穿棕色西装，花衬衫，金项链，头部后仰，张嘴大笑，身体晃动，表情：眉毛上扬，眼睛眯起，嘴巴大张露齿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面右侧",
+                "action": "坐在床边，头部转向左侧，眼神斜视",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，床头，白色枕头",
+        "description_narrative": "中近景固定镜头，刘小姐坐在床边，头部转向左侧，眼神斜视，表情带着威胁意味。",
+        "dialogue": "你的店还想不想开了",
+        "speaker": "刘小姐",
+        "emotion": "威胁",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；酒店房间，床头，白色枕头；画面右侧人物，身穿黑色吊带裙，坐在床边，头部转向左侧，眼神斜视，表情：眉毛微蹙，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面左侧",
+                "action": "坐在床尾凳上，身体前倾，伸手触碰",
+                "expression": "眉毛皱起，眼睛注视女方，嘴巴张开"
+            },
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面右侧床上",
+                "action": "坐在床上，双腿伸展，身体后仰",
+                "expression": "面无表情，眼神冷漠"
+            }
+        ],
+        "background": "酒店房间全貌，两张床，床头柜，鞋子在地上",
+        "description_narrative": "全景俯拍镜头，西装男坐在床尾凳上身体前倾伸手，刘小姐坐在床上身体后仰，两人对峙。",
+        "dialogue": "你的店还想不想开了",
+        "speaker": "刘小姐",
+        "emotion": "冷漠",
+        "duration": 0.9,
+        "description_visual": "全景俯拍镜头；酒店房间全貌，两张床，床头柜，鞋子在地上；画面左侧人物，身穿棕色西装，坐在床尾凳上，身体前倾，伸手触碰，表情：眉毛皱起，眼睛注视女方，嘴巴张开；画面右侧床上人物，身穿黑色吊带裙，坐在床上，双腿伸展，身体后仰，表情：面无表情，眼神冷漠。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装，花衬衫",
+                "position": "画面中央",
+                "action": "坐在床边，双手抬起做出推拒或解释手势",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴张开说话"
+            }
+        ],
+        "background": "酒店房间，白色床单",
+        "description_narrative": "中景固定镜头，西装男坐在床边，双手抬起做出推拒或解释的手势，表情显得有些急躁或无奈。",
+        "dialogue": "哎呀呀呀呀。",
+        "speaker": "西装男",
+        "emotion": "急躁",
+        "duration": 2.8,
+        "description_visual": "中景平拍镜头；酒店房间，白色床单；画面中央人物，身穿棕色西装，花衬衫，坐在床边，双手抬起做出推拒或解释手势，表情：眉毛皱起，眼睛睁大，嘴巴张开说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "坐在床上，低头看向下方，身体静止",
+                "expression": "眉毛低垂，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "酒店房间，床头，白色枕头",
+        "description_narrative": "中近景固定镜头，刘小姐坐在床上，低头看向下方，神情显得失落或在思考。",
+        "dialogue": "也不撒泡尿照照自己。什么样的货色，也敢上我的床？",
+        "speaker": "西装男",
+        "emotion": "侮辱",
+        "duration": 4.13,
+        "description_visual": "中近景平拍镜头；酒店房间，床头，白色枕头；画面中央人物，身穿黑色吊带裙，坐在床上，低头看向下方，身体静止，表情：眉毛低垂，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装，花衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，双手交叠放在腿上",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，深色背景",
+        "description_narrative": "中近景固定镜头，西装男身体前倾，双手交叠放在腿上，表情带着轻蔑和质问。",
+        "dialogue": "是哈，那咋办呢？",
+        "speaker": "刘小姐",
+        "emotion": "挑衅",
+        "duration": 2.43,
+        "description_visual": "中近景平拍镜头；酒店房间，深色背景；画面中央人物，身穿棕色西装，花衬衫，身体前倾，双手交叠放在腿上，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "坐在床上，低头，手放在腿上",
+                "expression": "眉毛舒展，眼睛下视，嘴角微抿"
+            }
+        ],
+        "background": "酒店房间，床头",
+        "description_narrative": "中近景固定镜头，刘小姐坐在床上，低头，手放在腿上，神情平静。",
+        "dialogue": "我现在就把那个。",
+        "speaker": "西装男",
+        "emotion": "威胁",
+        "duration": 2.13,
+        "description_visual": "中近景平拍镜头；酒店房间，床头；画面中央人物，身穿黑色吊带裙，坐在床上，低头，手放在腿上，表情：眉毛舒展，眼睛下视，嘴角微抿。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装，花衬衫",
+                "position": "画面中央",
+                "action": "身体侧倾，抬手做出指点动作",
+                "expression": "眉毛皱起，眼睛看向侧方，嘴巴张开"
+            }
+        ],
+        "background": "酒店房间，白色床单",
+        "description_narrative": "中近景固定镜头，西装男身体侧倾，抬手做出指点动作，表情严肃，似乎在下令。",
+        "dialogue": "张夏至把他叫过来。给您赔罪。",
+        "speaker": "西装男",
+        "emotion": "命令",
+        "duration": 2.83,
+        "description_visual": "中近景平拍镜头；酒店房间，白色床单；画面中央人物，身穿棕色西装，花衬衫，身体侧倾，抬手做出指点动作，表情：眉毛皱起，眼睛看向侧方，嘴巴张开。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "坐在床上，双手放在身侧，身体微倾",
+                "expression": "眉毛舒展，眼睛下视，表情平静"
+            }
+        ],
+        "background": "酒店房间，床头",
+        "description_narrative": "中近景固定镜头，刘小姐坐在床上，双手放在身侧，身体微倾，神情淡然。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.67,
+        "description_visual": "中近景平拍镜头；酒店房间，床头；画面中央人物，身穿黑色吊带裙，坐在床上，双手放在身侧，身体微倾，表情：眉毛舒展，眼睛下视，表情平静。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装，花衬衫",
+                "position": "画面右侧",
+                "action": "低头，身体微侧",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "大堂环境，模糊的展示柜",
+        "description_narrative": "中近景过肩镜头，西装男低头，身体微侧，神情显得有些阴沉。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.57,
+        "description_visual": "中近景过肩镜头；大堂环境，模糊的展示柜；画面右侧人物，身穿棕色西装，花衬衫，低头，身体微侧，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫工作服，黑色裤子",
+                "position": "画面左侧",
+                "action": "站立，双手背在身后，眼神直视",
+                "expression": "眉毛平直，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "大堂环境，模糊背景",
+        "description_narrative": "中近景固定镜头，张夏至身穿红色衬衫工作服站立，双手背在身后，眼神直视前方，表情严肃。",
+        "dialogue": "小子你干的",
+        "speaker": "西装男",
+        "emotion": "愤怒",
+        "duration": 1.37,
+        "description_visual": "中近景平拍镜头；大堂环境，模糊背景；画面左侧人物，身穿红色衬衫工作服，黑色裤子，站立，双手背在身后，眼神直视，表情：眉毛平直，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装，花衬衫",
+                "position": "画面右侧",
+                "action": "面对张夏至，张嘴说话，表情激动",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴大张"
+            }
+        ],
+        "background": "大堂环境，展示柜，红色装饰",
+        "description_narrative": "中近景过肩镜头，西装男面对张夏至，张嘴说话，表情激动，似乎在指责。",
+        "dialogue": "好事。",
+        "speaker": "西装男",
+        "emotion": "讽刺",
+        "duration": 1.4,
+        "description_visual": "中近景过肩镜头；大堂环境，展示柜，红色装饰；画面右侧人物，身穿棕色西装，花衬衫，面对张夏至，张嘴说话，表情激动，表情：眉毛上扬，眼睛睁大，嘴巴大张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "站立，眼神看向对方，表情困惑",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "大堂环境，模糊",
+        "description_narrative": "中近景固定镜头，张夏至站立，眼神看向对方，表情困惑不解。",
+        "dialogue": "赶紧去啊。",
+        "speaker": "西装男",
+        "emotion": "催促",
+        "duration": 1.43,
+        "description_visual": "中近景平拍镜头；大堂环境，模糊；画面左侧人物，身穿红色衬衫，站立，眼神看向对方，表情困惑，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "伸手搭在张夏至肩上或指向",
+                "expression": "眉毛皱起，眼睛注视，嘴巴张开"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景过肩镜头，西装男伸手似乎搭在张夏至肩上或指向他，表情严厉。",
+        "dialogue": "给刘小姐道歉去。",
+        "speaker": "西装男",
+        "emotion": "命令",
+        "duration": 1.13,
+        "description_visual": "中近景过肩镜头；大堂环境；画面右侧人物，身穿棕色西装，伸手搭在张夏至肩上或指向，表情：眉毛皱起，眼睛注视，嘴巴张开。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "站立，摇头或身体后撤",
+                "expression": "眉毛皱起，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景固定镜头，张夏至站立，似乎摇头或身体后撤，表情抗拒。",
+        "dialogue": "我不去。要去你自己去。",
+        "speaker": "张夏至",
+        "emotion": "拒绝",
+        "duration": 1.83,
+        "description_visual": "中近景平拍镜头；大堂环境；画面左侧人物，身穿红色衬衫，站立，摇头或身体后撤，表情：眉毛皱起，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "闭眼或低头，表情无奈",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景过肩镜头，西装男闭眼或低头，表情显得无奈或不耐烦。",
+        "dialogue": "啊。",
+        "speaker": "西装男",
+        "emotion": "无奈",
+        "duration": 1.07,
+        "description_visual": "中近景过肩镜头；大堂环境；画面右侧人物，身穿棕色西装，闭眼或低头，表情无奈，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "站立，眼神坚定",
+                "expression": "眉毛平直，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景固定镜头，张夏至站立，眼神坚定，似乎在陈述条件。",
+        "dialogue": "她要是愿意",
+        "speaker": "张夏至",
+        "emotion": "坚定",
+        "duration": 1.53,
+        "description_visual": "中近景平拍镜头；大堂环境；画面左侧人物，身穿红色衬衫，站立，眼神坚定，表情：眉毛平直，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "表情夸张，张嘴说话",
+                "expression": "眉毛皱起，眼睛眯起，嘴巴大张"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景过肩镜头，西装男表情夸张，张嘴说话，显得粗俗或激动。",
+        "dialogue": "她要是愿意",
+        "speaker": "张夏至",
+        "emotion": "重复",
+        "duration": 1.97,
+        "description_visual": "中近景过肩镜头；大堂环境；画面右侧人物，身穿棕色西装，表情夸张，张嘴说话，表情：眉毛皱起，眼睛眯起，嘴巴大张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "站立，背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "站立，双手插兜或自然下垂",
+                "expression": "表情轻蔑"
+            }
+        ],
+        "background": "大堂，前台，装饰灯",
+        "description_narrative": "全景固定镜头，张夏至背对镜头站立，西装男站在对面，双手插兜，表情轻蔑地说话。",
+        "dialogue": "老子早把她给上了。",
+        "speaker": "西装男",
+        "emotion": "炫耀",
+        "duration": 4.07,
+        "description_visual": "全景平拍镜头；大堂，前台，装饰灯；画面左侧人物，身穿红色衬衫，站立，背对镜头，表情：不可见；画面右侧人物，身穿棕色西装，站立，双手插兜或自然下垂，表情：表情轻蔑。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "站立，直视对方",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景固定镜头，张夏至站立，直视对方，表情严肃，似乎在反驳。",
+        "dialogue": "我就发现。你小子身在福中不知福呢",
+        "speaker": "西装男",
+        "emotion": "教训",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头；大堂环境；画面左侧人物，身穿红色衬衫，站立，直视对方，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "站立，表情愤怒",
+                "expression": "眉毛皱起，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "大堂环境，模糊",
+        "description_narrative": "中近景固定镜头，张夏至站立，表情愤怒，似乎在指责对方。",
+        "dialogue": "你们这叫逼良为娼。",
+        "speaker": "张夏至",
+        "emotion": "愤怒",
+        "duration": 1.8,
+        "description_visual": "中近景平拍镜头；大堂环境，模糊；画面左侧人物，身穿红色衬衫，站立，表情愤怒，表情：眉毛皱起，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "手持手机，准备打电话",
+                "expression": "眉毛皱起，眼睛注视手机，嘴巴微张"
+            }
+        ],
+        "background": "大堂，前台",
+        "description_narrative": "中景固定镜头，西装男手持手机，准备打电话，表情严肃。",
+        "dialogue": "啊。",
+        "speaker": "西装男",
+        "emotion": "威胁",
+        "duration": 2.3,
+        "description_visual": "中景平拍镜头；大堂，前台；画面右侧人物，身穿棕色西装，手持手机，准备打电话，表情：眉毛皱起，眼睛注视手机，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "站立，表情震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景固定镜头，张夏至站立，表情震惊，似乎听到了可怕的内容。",
+        "dialogue": "我现在就给小雅打电话。",
+        "speaker": "西装男",
+        "emotion": "威胁",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；大堂环境；画面左侧人物，身穿红色衬衫，站立，表情震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "手指指着自己或手机",
+                "expression": "眉毛皱起，眼睛眯起，嘴巴张开"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景过肩镜头，西装男手指指着自己或手机，表情阴险，正在编造谎言。",
+        "dialogue": "说她儿子。在我店里",
+        "speaker": "西装男",
+        "emotion": "阴险",
+        "duration": 2.3,
+        "description_visual": "中近景过肩镜头；大堂环境；画面右侧人物，身穿棕色西装，手指指着自己或手机，表情：眉毛皱起，眼睛眯起，嘴巴张开。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "站立，表情惊恐",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴紧闭"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景固定镜头，张夏至站立，表情惊恐，被对方的话吓住。",
+        "dialogue": "把妇女强奸了。违背妇女意愿。",
+        "speaker": "西装男",
+        "emotion": "威胁",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；大堂环境；画面左侧人物，身穿红色衬衫，站立，表情惊恐，表情：眉毛皱起，眼睛睁大，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "将手机放在耳边，正在通话",
+                "expression": "眉毛皱起，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景过肩镜头，西装男将手机放在耳边，正在通话，表情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.2,
+        "description_visual": "中近景过肩镜头；大堂环境；画面右侧人物，身穿棕色西装，将手机放在耳边，正在通话，表情：眉毛皱起，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "站立，伸手似乎要阻止",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "大堂环境",
+        "description_narrative": "中近景固定镜头，张夏至站立，伸手似乎要阻止对方，表情焦急。",
+        "dialogue": "喂，小雅。",
+        "speaker": "西装男",
+        "emotion": "假装",
+        "duration": 1.43,
+        "description_visual": "中近景平拍镜头；大堂环境；画面左侧人物，身穿红色衬衫，站立，伸手似乎要阻止，表情：眉毛皱起，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "酒店走廊，房门8323，装饰图案",
+        "description_narrative": "全景固定镜头，酒店走廊，房门8323紧闭，环境安静。",
+        "dialogue": "你。",
+        "speaker": "张夏至",
+        "emotion": "无奈",
+        "duration": 4.27,
+        "description_visual": "全景平拍镜头；酒店走廊，房门8323，装饰图案。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "坐在床上，低头",
+                "expression": "眉毛低垂，眼睛下视，嘴角微扬"
+            }
+        ],
+        "background": "酒店房间",
+        "description_narrative": "中近景固定镜头，刘小姐坐在床上，低头，嘴角带着一丝不易察觉的笑意。",
+        "dialogue": "啊。",
+        "speaker": "刘小姐",
+        "emotion": "期待",
+        "duration": 1.7,
+        "description_visual": "中近景平拍镜头；酒店房间；画面中央人物，身穿黑色吊带裙，坐在床上，低头，表情：眉毛低垂，眼睛下视，嘴角微扬。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面中央门口",
+                "action": "推门进入，身体微倾",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间门口",
+        "description_narrative": "中景固定镜头，张夏至推门进入房间，身体微倾，表情有些犹豫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "中景平拍镜头；酒店房间门口；画面中央门口人物，身穿红色衬衫，推门进入，身体微倾，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面右侧床上",
+                "action": "坐在床上，身体侧向门口",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "酒店房间，床，床头柜",
+        "description_narrative": "全景俯拍镜头，刘小姐坐在床上，身体侧向门口，等待张夏至进入。",
+        "dialogue": "嘿嘿嘿嘿。",
+        "speaker": "刘小姐",
+        "emotion": "得意",
+        "duration": 1.43,
+        "description_visual": "全景俯拍镜头；酒店房间，床，床头柜；画面右侧床上人物，身穿黑色吊带裙，坐在床上，身体侧向门口，表情：表情平静。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面中央",
+                "action": "站立，表情尴尬",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "特写固定镜头，张夏至站立，表情尴尬，似乎不知如何开口。",
+        "dialogue": "刘小姐。",
+        "speaker": "张夏至",
+        "emotion": "尴尬",
+        "duration": 1.23,
+        "description_visual": "特写平拍镜头；深色背景；画面中央人物，身穿红色衬衫，站立，表情尴尬，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "坐在床上，抬头看",
+                "expression": "眉毛舒展，眼睛注视，嘴角微扬"
+            }
+        ],
+        "background": "酒店房间，床头",
+        "description_narrative": "中近景固定镜头，刘小姐坐在床上，抬头看，嘴角带着笑意。",
+        "dialogue": "刚才。",
+        "speaker": "张夏至",
+        "emotion": "解释",
+        "duration": 1.03,
+        "description_visual": "中近景平拍镜头；酒店房间，床头；画面中央人物，身穿黑色吊带裙，坐在床上，抬头看，表情：眉毛舒展，眼睛注视，嘴角微扬。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面中央",
+                "action": "站立，表情诚恳",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "特写固定镜头，张夏至站立，表情诚恳，正在道歉。",
+        "dialogue": "不好意思。",
+        "speaker": "张夏至",
+        "emotion": "歉意",
+        "duration": 1.3,
+        "description_visual": "特写平拍镜头；深色背景；画面中央人物，身穿红色衬衫，站立，表情诚恳，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "坐在床上，伸手",
+                "expression": "眉毛微挑，眼睛注视，嘴角上扬"
+            }
+        ],
+        "background": "酒店房间",
+        "description_narrative": "中近景固定镜头，刘小姐坐在床上，伸手似乎要触碰对方，表情妩媚。",
+        "dialogue": "你。",
+        "speaker": "刘小姐",
+        "emotion": "诱惑",
+        "duration": 2.47,
+        "description_visual": "中近景平拍镜头；酒店房间；画面中央人物，身穿黑色吊带裙，坐在床上，伸手，表情：眉毛微挑，眼睛注视，嘴角上扬。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面中央",
+                "action": "低头，手放在胸口",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "特写固定镜头，张夏至低头，手放在胸口，表情复杂。",
+        "dialogue": "果然。",
+        "speaker": "刘小姐",
+        "emotion": "掌控",
+        "duration": 1.13,
+        "description_visual": "特写平拍镜头；深色背景；画面中央人物，身穿红色衬衫，低头，手放在胸口，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面右侧",
+                "action": "靠近张夏至，手搭在他肩上",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬"
+            }
+        ],
+        "background": "酒店房间",
+        "description_narrative": "近景过肩镜头，刘小姐靠近张夏至，手搭在他肩上，表情充满掌控欲。",
+        "dialogue": "还是逃不出我的手掌心。",
+        "speaker": "刘小姐",
+        "emotion": "得意",
+        "duration": 2.43,
+        "description_visual": "近景过肩镜头；酒店房间；画面右侧人物，身穿黑色吊带裙，靠近张夏至，手搭在他肩上，表情：眉毛舒展，眼睛注视，嘴角上扬。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张夏至",
+                "gender": "男",
+                "clothing": "红色衬衫",
+                "position": "画面左侧",
+                "action": "被拉向床边",
+                "expression": "不可见"
+            },
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面右侧床上",
+                "action": "伸手拉拽",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店房间，床",
+        "description_narrative": "全景俯拍镜头，张夏至被拉向床边，刘小姐伸手拉拽，动作强势。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.13,
+        "description_visual": "全景俯拍镜头；酒店房间，床；画面左侧人物，身穿红色衬衫，被拉向床边，表情：不可见；画面右侧床上人物，身穿黑色吊带裙，伸手拉拽，表情：不可见。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "倒在床上，头发散乱",
+                "expression": "眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "白色床单，枕头",
+        "description_narrative": "特写摇镜镜头，刘小姐倒在床上，头发散乱，表情迷离。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.67,
+        "description_visual": "特写平拍镜头（摇镜）；白色床单，枕头；画面中央人物，身穿黑色吊带裙，倒在床上，头发散乱，表情：眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "淡出",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "远景淡出镜头，画面逐渐变白，结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.67,
+        "description_visual": "远景平拍镜头（淡出）；白色屏幕。"
+    }
+]

@@ -1,0 +1,904 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面左侧",
+                "action": "站立，双手自然下垂，身体微微倾向右侧男子",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角微扬"
+            },
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "站立，左手与女子牵手，身体正对前方",
+                "expression": "眉毛微挑，眼睛透过眼镜看向前方，嘴唇微张似在说话"
+            }
+        ],
+        "background": "户外花园，绿树成荫，阳光透过树叶洒下斑驳光影",
+        "description_narrative": "中景固定镜头，景琛与慕雨并肩站立在户外花园中，景琛身穿黑色西装戴金丝眼镜，慕雨身穿灰色波点长裙，两人手牵手，景琛正开口向父母打招呼。",
+        "dialogue": "妈爸，以前你们从国外回来了。",
+        "speaker": "景琛",
+        "emotion": "平和",
+        "duration": 3.07,
+        "description_visual": "中景平拍镜头；户外花园，绿树成荫，阳光透过树叶洒下斑驳光影；画面左侧人物，身穿灰色黑波点吊带长裙，站立，双手自然下垂，身体微微倾向右侧男子，表情：眉毛舒展，眼睛注视前方，嘴角微扬；画面右侧人物，身穿黑色西装，黑色衬衫，黑色领带，站立，左手与女子牵手，身体正对前方，表情：眉毛微挑，眼睛透过眼镜看向前方，嘴唇微张似在说话。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面中央",
+                "action": "站立，头部微侧，视线看向右前方",
+                "expression": "眉毛平缓，眼睛清澈，嘴唇闭合，神情专注"
+            }
+        ],
+        "background": "户外花园背景虚化，绿色植被为主",
+        "description_narrative": "近景固定镜头聚焦慕雨，她身穿灰色波点裙，长发盘起，侧头看向右前方，似乎在倾听或等待回应，阳光照在她的侧脸上。",
+        "dialogue": "不都第一时间叫我们吗",
+        "speaker": "景琛",
+        "emotion": "疑惑",
+        "duration": 1.43,
+        "description_visual": "近景平拍镜头；户外花园背景虚化，绿色植被为主；画面中央人物，身穿灰色黑波点吊带长裙，站立，头部微侧，视线看向右前方，表情：眉毛平缓，眼睛清澈，嘴唇闭合，神情专注。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面左侧",
+                "action": "与男子牵手并排站立，身体略微前倾",
+                "expression": "眉毛微蹙，眼睛看向前方，表情略显严肃"
+            },
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "牵手女子，身体挺直，目视前方",
+                "expression": "眉毛舒展，嘴角微抿，眼神坚定"
+            }
+        ],
+        "background": "户外花园，树木繁茂，光线明亮",
+        "description_narrative": "中景跟拍镜头，景琛与慕雨手牵手站在花园中，两人表情略显严肃，似乎正在走向某处，周围绿树环绕。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.43,
+        "description_visual": "中景平拍镜头（跟拍）；户外花园，树木繁茂，光线明亮；画面左侧人物，身穿灰色黑波点吊带长裙，与男子牵手并排站立，身体略微前倾，表情：眉毛微蹙，眼睛看向前方，表情略显严肃；画面右侧人物，身穿黑色西装，牵手女子，身体挺直，目视前方，表情：眉毛舒展，嘴角微抿，眼神坚定。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "弯腰向桌边的人打招呼",
+                "expression": "面带微笑，身体前倾"
+            },
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央偏左",
+                "action": "坐在桌边，抬头看向走近的年轻人",
+                "expression": "面带笑容，神态轻松"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面右侧",
+                "action": "背对镜头走向凉亭",
+                "expression": "不可见"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "粉色花卉连衣裙",
+                "position": "画面右侧背景",
+                "action": "坐在桌边",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外木质凉亭，桌上有茶具，周围绿植环绕",
+        "description_narrative": "全景固定镜头展示户外凉亭场景，景琛弯腰向坐在桌边的父亲打招呼，慕雨背对镜头走向凉亭，父母坐在桌边迎接。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.77,
+        "description_visual": "全景平拍镜头；户外木质凉亭，桌上有茶具，周围绿植环绕；画面左侧人物，身穿黑色西装，弯腰向桌边的人打招呼，表情：面带微笑，身体前倾；画面中央偏左人物，身穿黄色 Polo 衫，坐在桌边，抬头看向走近的年轻人，表情：面带笑容，神态轻松；画面右侧人物，身穿灰色黑波点吊带长裙，背对镜头走向凉亭，表情：不可见；画面右侧背景人物，身穿粉色花卉连衣裙，坐在桌边，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "坐下或准备坐下",
+                "expression": "侧脸微笑"
+            },
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央",
+                "action": "坐在桌边，看着年轻人",
+                "expression": "笑容满面"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面右侧",
+                "action": "站在桌边，身体微倾",
+                "expression": "侧脸微笑"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "粉色花卉连衣裙",
+                "position": "画面右侧",
+                "action": "坐在桌边，抬头看慕雨",
+                "expression": "面带笑意"
+            }
+        ],
+        "background": "木质凉亭内，桌上摆放茶具，光线自然",
+        "description_narrative": "全景固定镜头，四人围坐在凉亭桌边，景琛坐下，慕雨站在桌边与母亲互动，父亲坐在中间微笑看着他们，气氛融洽。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.33,
+        "description_visual": "全景平拍镜头；木质凉亭内，桌上摆放茶具，光线自然；画面左侧人物，身穿黑色西装，坐下或准备坐下，表情：侧脸微笑；画面中央人物，身穿黄色 Polo 衫，坐在桌边，看着年轻人，表情：笑容满面；画面右侧人物，身穿灰色黑波点吊带长裙，站在桌边，身体微倾，表情：侧脸微笑；画面右侧人物，身穿粉色花卉连衣裙，坐在桌边，抬头看慕雨，表情：面带笑意。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体前倾，面带微笑看着对面",
+                "expression": "眉毛舒展，眼睛眯起微笑，露出牙齿"
+            },
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面右侧前景",
+                "action": "伸出一根手指指向景琛",
+                "expression": "不可见"
+            }
+        ],
+        "background": "凉亭内，桌上有青色茶具，背景虚化",
+        "description_narrative": "近景固定镜头聚焦景琛，他身穿黑色西装戴眼镜，身体前倾靠在桌边，面带灿烂笑容，画面右侧有一只手伸出食指指向他。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "开心",
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；凉亭内，桌上有青色茶具，背景虚化；画面中央人物，身穿黑色西装，身体前倾，面带微笑看着对面，表情：眉毛舒展，眼睛眯起微笑，露出牙齿；画面右侧前景人物，身穿未知，伸出一根手指指向景琛，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央",
+                "action": "坐在桌边，身体微侧，面带笑容说话",
+                "expression": "眉毛上扬，眼睛眯起笑，嘴巴微张"
+            }
+        ],
+        "background": "户外凉亭，绿色植物背景，桌上有茶具",
+        "description_narrative": "近景固定镜头拍摄父亲，他身穿黄色 Polo 衫，坐在桌边，面带笑容看着对面的人，似乎正在回忆往事。",
+        "dialogue": "之前叫你和慕雨来吃饭",
+        "speaker": "父亲",
+        "emotion": "愉快",
+        "duration": 2.1,
+        "description_visual": "近景平拍镜头；户外凉亭，绿色植物背景，桌上有茶具；画面中央人物，身穿黄色 Polo 衫，坐在桌边，身体微侧，面带笑容说话，表情：眉毛上扬，眼睛眯起笑，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "坐着，微微低头，嘴角带笑",
+                "expression": "眉毛平缓，眼睛下视，嘴角微扬"
+            },
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "黄色衣袖",
+                "position": "画面右侧前景",
+                "action": "手部动作，似乎在比划",
+                "expression": "不可见"
+            }
+        ],
+        "background": "凉亭内，桌上有青色盖碗茶杯",
+        "description_narrative": "近景固定镜头拍摄景琛，他身穿黑色西装，微微低头听着父亲说话，嘴角带着谦逊的微笑，面前摆放着茶具。",
+        "dialogue": "你总是推三阻四的",
+        "speaker": "父亲",
+        "emotion": "调侃",
+        "duration": 2.07,
+        "description_visual": "近景平拍镜头；凉亭内，桌上有青色盖碗茶杯；画面中央人物，身穿黑色西装，坐着，微微低头，嘴角带笑，表情：眉毛平缓，眼睛下视，嘴角微扬；画面右侧前景人物，身穿黄色衣袖，手部动作，似乎在比划，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央",
+                "action": "坐在桌边，身体前倾，笑容满面",
+                "expression": "眉毛舒展，眼睛笑成弯月，露齿而笑"
+            }
+        ],
+        "background": "户外凉亭，绿树背景，桌上有茶具",
+        "description_narrative": "近景固定镜头拍摄父亲，他身穿黄色上衣，坐在桌边开怀大笑，身体微微前倾，显得非常高兴。",
+        "dialogue": "这次怎么变懂事",
+        "speaker": "父亲",
+        "emotion": "欣慰",
+        "duration": 2.37,
+        "description_visual": "近景平拍镜头；户外凉亭，绿树背景，桌上有茶具；画面中央人物，身穿黄色 Polo 衫，坐在桌边，身体前倾，笑容满面，表情：眉毛舒展，眼睛笑成弯月，露齿而笑。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "粉色花卉连衣裙",
+                "position": "画面左侧",
+                "action": "坐在桌边，转头看向右侧，面带笑容说话",
+                "expression": "眉毛上扬，眼睛注视对方，红唇微张"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面右侧",
+                "action": "站立，微微低头，神情谦逊",
+                "expression": "眉毛平缓，眼睛下视，嘴角微抿"
+            },
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左前景",
+                "action": "背影，手臂放在桌上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外凉亭，蓝色大门背景，桌上有茶具",
+        "description_narrative": "中近景过肩镜头，母亲身穿粉色花裙坐在桌边，笑着夸奖慕雨，慕雨站在一旁低头谦虚回应，景琛背影在前景。",
+        "dialogue": "那还用说，一定是咱们的好儿媳慕雨的功劳啊。妈，我没做什么。",
+        "speaker": "母亲",
+        "emotion": "满意",
+        "duration": 5.8,
+        "description_visual": "中近景过肩镜头；户外凉亭，蓝色大门背景，桌上有茶具；画面左侧人物，身穿粉色花卉连衣裙，坐在桌边，转头看向右侧，面带笑容说话，表情：眉毛上扬，眼睛注视对方，红唇微张；画面右侧人物，身穿灰色黑波点吊带长裙，站立，微微低头，神情谦逊，表情：眉毛平缓，眼睛下视，嘴角微抿；画面左前景人物，身穿黑色西装，背影，手臂放在桌上，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "坐在桌边，身体微侧，伸手示意",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴微张说话"
+            }
+        ],
+        "background": "凉亭内，桌上有茶具，背景虚化",
+        "description_narrative": "近景固定镜头拍摄景琛，他身穿黑色西装，坐在桌边，抬手示意父母，提议开始吃饭聊天。",
+        "dialogue": "哎爸妈咱们吃饭聊吧",
+        "speaker": "景琛",
+        "emotion": "轻松",
+        "duration": 2.33,
+        "description_visual": "近景平拍镜头；凉亭内，桌上有茶具，背景虚化；画面中央人物，身穿黑色西装，坐在桌边，身体微侧，伸手示意，表情：眉毛微挑，眼睛看向前方，嘴巴微张说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "模糊/过渡",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面前景",
+                "action": "动作模糊，似乎在起身或移动",
+                "expression": "模糊不清"
+            },
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面背景",
+                "action": "坐在桌边",
+                "expression": "模糊不清"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "粉色花卉连衣裙",
+                "position": "画面背景",
+                "action": "坐在桌边",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "户外用餐场景，画面有重影过渡效果",
+        "description_narrative": "全景俯拍镜头带有模糊过渡效果，展示四人围坐在餐桌旁准备用餐的场景，画面从喝茶过渡到吃饭。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.97,
+        "description_visual": "全景俯拍镜头（模糊/过渡）；户外用餐场景，画面有重影过渡效果；画面前景人物，身穿黑色西装，动作模糊，似乎在起身或移动，表情：模糊不清；画面背景人物，身穿黄色 Polo 衫，坐在桌边，表情：模糊不清；画面背景人物，身穿粉色花卉连衣裙，坐在桌边，表情：模糊不清。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面背景",
+                "action": "手持筷子夹碗中的米饭",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质餐桌，白色饭碗，盘中菜肴",
+        "description_narrative": "特写固定镜头聚焦在一只白色饭碗上，慕雨的手拿着筷子正在夹米饭，旁边有一盘菜肴。",
+        "dialogue": "慕雨啊你多吃点",
+        "speaker": "母亲",
+        "emotion": "关切",
+        "duration": 2.1,
+        "description_visual": "特写平拍镜头；木质餐桌，白色饭碗，盘中菜肴；画面背景人物，身穿灰色黑波点吊带长裙，手持筷子夹碗中的米饭，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "粉色花卉连衣裙",
+                "position": "画面中央",
+                "action": "坐在桌边，身体前倾，面带关切说话",
+                "expression": "眉毛微蹙，眼睛注视对方，红唇微张"
+            }
+        ],
+        "background": "户外餐桌，桌上有酒杯和饭碗",
+        "description_narrative": "近景固定镜头拍摄母亲，她身穿粉色花裙，坐在桌边，身体前倾，满脸关切地让慕雨多吃点，提到她输血的事。",
+        "dialogue": "人呢本来就瘦，这次又给景琛输了血",
+        "speaker": "母亲",
+        "emotion": "心疼",
+        "duration": 3.8,
+        "description_visual": "近景平拍镜头；户外餐桌，桌上有酒杯和饭碗；画面中央人物，身穿粉色花卉连衣裙，坐在桌边，身体前倾，面带关切说话，表情：眉毛微蹙，眼睛注视对方，红唇微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "低头看着碗里的饭，手持筷子",
+                "expression": "眉毛平缓，眼睛下视，嘴角微抿"
+            }
+        ],
+        "background": "餐桌，白色饭碗，背景虚化",
+        "description_narrative": "近景固定镜头拍摄景琛，他身穿黑色西装，低头看着面前的米饭，手持筷子，神情专注。",
+        "dialogue": "多吃点补补营养",
+        "speaker": "母亲",
+        "emotion": "关切",
+        "duration": 1.97,
+        "description_visual": "近景平拍镜头；餐桌，白色饭碗，背景虚化；画面中央人物，身穿黑色西装，低头看着碗里的饭，手持筷子，表情：眉毛平缓，眼睛下视，嘴角微抿。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面中央",
+                "action": "低头，视线向下",
+                "expression": "眉毛低垂，眼睛下视，嘴角微抿，神情略显尴尬"
+            }
+        ],
+        "background": "户外环境，光线柔和",
+        "description_narrative": "特写固定镜头聚焦慕雨侧脸，她长发盘起，低头看着下方，神情略显羞涩或尴尬，轻声回应母亲。",
+        "dialogue": "妈我自己来就好了",
+        "speaker": "慕雨",
+        "emotion": "谦逊",
+        "duration": 2.97,
+        "description_visual": "特写平拍镜头；户外环境，光线柔和；画面中央人物，身穿灰色黑波点吊带长裙，低头，视线向下，表情：眉毛低垂，眼睛下视，嘴角微抿，神情略显尴尬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央",
+                "action": "坐在桌边，手持筷子夹菜，神情严肃",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "木质餐桌，桌上有酒杯和饭碗",
+        "description_narrative": "近景固定镜头拍摄父亲，他身穿黄色上衣，坐在桌边，手持筷子夹菜，神情突然变得严肃，提起白墨熙的名字。",
+        "dialogue": "景琛，我听说那个白墨熙",
+        "speaker": "父亲",
+        "emotion": "严肃",
+        "duration": 3.7,
+        "description_visual": "近景平拍镜头；木质餐桌，桌上有酒杯和饭碗；画面中央人物，身穿黄色 Polo 衫，坐在桌边，手持筷子夹菜，神情严肃，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面中央",
+                "action": "低头，视线向下，神情低落",
+                "expression": "眉毛低垂，眼睛下视，红唇紧闭"
+            }
+        ],
+        "background": "户外环境，光线自然",
+        "description_narrative": "特写俯拍镜头聚焦慕雨，她低着头，眼神黯淡，听到父亲提起白墨熙的名字，神情显得有些低落。",
+        "dialogue": "最近又接近你了",
+        "speaker": "父亲",
+        "emotion": "不满",
+        "duration": 2.2,
+        "description_visual": "特写俯拍镜头；户外环境，光线自然；画面中央人物，身穿灰色黑波点吊带长裙，低头，视线向下，神情低落，表情：眉毛低垂，眼睛下视，红唇紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "低头吃饭，眉头微皱",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "户外餐桌，背景虚化",
+        "description_narrative": "近景固定镜头拍摄景琛，他身穿黑色西装，低头看着碗里的饭，眉头微皱，出言维护白墨熙。",
+        "dialogue": "爸你不要对墨熙有偏见",
+        "speaker": "景琛",
+        "emotion": "无奈",
+        "duration": 2.83,
+        "description_visual": "近景平拍镜头；户外餐桌，背景虚化；画面中央人物，身穿黑色西装，低头吃饭，眉头微皱，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央",
+                "action": "坐在桌边，表情激动，张嘴说话",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开露齿"
+            }
+        ],
+        "background": "木质餐桌，桌上有酒杯和饭碗",
+        "description_narrative": "近景固定镜头拍摄父亲，他身穿黄色上衣，表情激动，反驳景琛的话，提到三年前的事情。",
+        "dialogue": "什么偏见，三年前就是",
+        "speaker": "父亲",
+        "emotion": "愤怒",
+        "duration": 3.33,
+        "description_visual": "近景平拍镜头；木质餐桌，桌上有酒杯和饭碗；画面中央人物，身穿黄色 Polo 衫，坐在桌边，表情激动，张嘴说话，表情：眉毛紧锁，眼睛瞪大，嘴巴张开露齿。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央",
+                "action": "伸出手指指向前方，表情愤怒",
+                "expression": "眉毛紧锁，眼睛怒视，嘴巴大张"
+            }
+        ],
+        "background": "木质餐桌，桌上有酒杯",
+        "description_narrative": "近景固定镜头拍摄父亲，他情绪激动，伸出手指指着对面，大声指责白墨熙绑架了景琛。",
+        "dialogue": "她绑架了你",
+        "speaker": "父亲",
+        "emotion": "愤怒",
+        "duration": 1.3,
+        "description_visual": "近景平拍镜头；木质餐桌，桌上有酒杯；画面中央人物，身穿黄色 Polo 衫，伸出手指指向前方，表情愤怒，表情：眉毛紧锁，眼睛怒视，嘴巴大张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "抬头看向父亲，眼神坚定",
+                "expression": "眉毛微挑，眼睛直视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "户外环境，背景虚化",
+        "description_narrative": "近景固定镜头拍摄景琛，他身穿黑色西装，抬头看向父亲，眼神坚定，似乎在思考如何回应父亲的指责。",
+        "dialogue": "你怎么就看不出来",
+        "speaker": "父亲",
+        "emotion": "焦急",
+        "duration": 2.67,
+        "description_visual": "近景平拍镜头；户外环境，背景虚化；画面中央人物，身穿黑色西装，抬头看向父亲，眼神坚定，表情：眉毛微挑，眼睛直视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央",
+                "action": "坐在桌边，表情愤怒，看着儿子",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "木质餐桌，桌上有菜肴",
+        "description_narrative": "近景固定镜头拍摄父亲，他坐在桌边，表情愤怒地质问儿子，怀疑白墨熙给儿子灌了迷魂汤。",
+        "dialogue": "她到底给你灌了什么迷魂汤",
+        "speaker": "父亲",
+        "emotion": "愤怒",
+        "duration": 2.23,
+        "description_visual": "近景平拍镜头；木质餐桌，桌上有菜肴；画面中央人物，身穿黄色 Polo 衫，坐在桌边，表情愤怒，看着儿子，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "低头，身体前倾，语气坚定",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张说话"
+            }
+        ],
+        "background": "户外餐桌，背景虚化",
+        "description_narrative": "近景俯拍镜头拍摄景琛，他身穿黑色西装，低头身体前倾，语气坚定地表示相信白墨熙。",
+        "dialogue": "不是她 爸 我很相信墨熙",
+        "speaker": "景琛",
+        "emotion": "坚定",
+        "duration": 2.3,
+        "description_visual": "近景俯拍镜头；户外餐桌，背景虚化；画面中央人物，身穿黑色西装，低头，身体前倾，语气坚定，表情：眉毛微蹙，眼睛下视，嘴巴微张说话。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面背景",
+                "action": "模糊可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质餐桌，一双筷子放在桌上，旁边有饭碗",
+        "description_narrative": "特写固定镜头聚焦在木质桌面上，一双筷子横放在桌上，旁边有一碗米饭，背景中有人影模糊，父亲愤怒地发出一个“你”字。",
+        "dialogue": "你",
+        "speaker": "父亲",
+        "emotion": "愤怒",
+        "duration": 0.83,
+        "description_visual": "特写平拍镜头；木质餐桌，一双筷子放在桌上，旁边有饭碗；画面背景人物，身穿未知，模糊可见，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "粉色花卉连衣裙",
+                "position": "画面中央",
+                "action": "伸出手臂阻挡，表情焦急",
+                "expression": "眉毛紧锁，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "户外餐桌，桌上有酒杯",
+        "description_narrative": "近景固定镜头拍摄母亲，她身穿粉色花裙，伸出手臂似乎在阻挡父亲的怒火，表情焦急地喊“好了”。",
+        "dialogue": "好了",
+        "speaker": "母亲",
+        "emotion": "焦急",
+        "duration": 0.5,
+        "description_visual": "近景平拍镜头；户外餐桌，桌上有酒杯；画面中央人物，身穿粉色花卉连衣裙，伸出手臂阻挡，表情焦急，表情：眉毛紧锁，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央",
+                "action": "面部特写，表情凝重",
+                "expression": "眉毛紧锁，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "户外环境，背景虚化",
+        "description_narrative": "特写固定镜头拍摄父亲面部，他表情凝重，眼神中带着愤怒和失望，沉默不语。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；户外环境，背景虚化；画面中央人物，身穿黄色 Polo 衫，面部特写，表情凝重，表情：眉毛紧锁，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黄色 Polo 衫",
+                "position": "画面中央",
+                "action": "面部特写，眼神缓和",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "户外环境，背景虚化",
+        "description_narrative": "特写固定镜头拍摄父亲，他眼神稍微缓和，开口叫了一声“儿子啊”，语气中带着无奈。",
+        "dialogue": "儿子啊",
+        "speaker": "父亲",
+        "emotion": "无奈",
+        "duration": 0.97,
+        "description_visual": "特写平拍镜头；户外环境，背景虚化；画面中央人物，身穿黄色 Polo 衫，面部特写，眼神缓和，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "粉色花卉连衣裙",
+                "position": "画面中央",
+                "action": "坐在桌边，身体前倾，语重心长",
+                "expression": "眉毛微蹙，眼睛注视对方，红唇微张"
+            }
+        ],
+        "background": "户外餐桌，桌上有菜肴和酒杯",
+        "description_narrative": "近景固定镜头拍摄母亲，她坐在桌边，身体前倾，语重心长地劝儿子听父亲的话。",
+        "dialogue": "你就听你爸一句话吧",
+        "speaker": "母亲",
+        "emotion": "劝慰",
+        "duration": 1.67,
+        "description_visual": "近景平拍镜头；户外餐桌，桌上有菜肴和酒杯；画面中央人物，身穿粉色花卉连衣裙，坐在桌边，身体前倾，语重心长，表情：眉毛微蹙，眼睛注视对方，红唇微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "侧脸，眼神看向一侧，神情冷漠",
+                "expression": "眉毛平缓，眼睛注视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "户外环境，背景虚化",
+        "description_narrative": "特写侧拍镜头聚焦景琛侧脸，他戴着眼镜，眼神冷漠地看向一侧，听着母亲说每次接近白墨熙都会受伤。",
+        "dialogue": "你每次离白墨熙近了都会受伤",
+        "speaker": "母亲",
+        "emotion": "担忧",
+        "duration": 2.57,
+        "description_visual": "特写侧拍镜头；户外环境，背景虚化；画面中央人物，身穿黑色西装，侧脸，眼神看向一侧，神情冷漠，表情：眉毛平缓，眼睛注视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "粉色花卉连衣裙",
+                "position": "画面中央",
+                "action": "坐在桌边，表情严肃，看着儿子",
+                "expression": "眉毛紧锁，眼睛注视对方，红唇微张"
+            }
+        ],
+        "background": "户外餐桌，桌上有菜肴",
+        "description_narrative": "近景固定镜头拍摄母亲，她坐在桌边，表情严肃，提到慕雨输血的事，要求儿子为慕雨考虑。",
+        "dialogue": "害得慕雨给你输血，你也要为慕雨考虑考虑啊",
+        "speaker": "母亲",
+        "emotion": "责备",
+        "duration": 3.53,
+        "description_visual": "近景平拍镜头；户外餐桌，桌上有菜肴；画面中央人物，身穿粉色花卉连衣裙，坐在桌边，表情严肃，看着儿子，表情：眉毛紧锁，眼睛注视对方，红唇微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面中央",
+                "action": "低头，视线向下，神情落寞",
+                "expression": "眉毛低垂，眼睛下视，红唇紧闭"
+            }
+        ],
+        "background": "户外凉亭，木质栏杆背景",
+        "description_narrative": "近景固定镜头拍摄慕雨，她低着头，眼神黯淡，听到母亲提到自己输血的事，神情显得落寞。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "落寞",
+        "duration": 0.77,
+        "description_visual": "近景平拍镜头；户外凉亭，木质栏杆背景；画面中央人物，身穿灰色黑波点吊带长裙，低头，视线向下，神情落寞，表情：眉毛低垂，眼睛下视，红唇紧闭。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景琛",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "抬头，眼神冰冷，嘴角冷笑",
+                "expression": "眉毛微挑，眼睛眯起，嘴角上扬露出冷笑"
+            }
+        ],
+        "background": "户外环境，背景虚化",
+        "description_narrative": "近景固定镜头拍摄景琛，他身穿黑色西装，抬头眼神冰冷，嘴角露出一丝冷笑，说出慕雨嫁进来就是为了输血的话。",
+        "dialogue": "她嫁进我们傅家，不就是给我输血的吗",
+        "speaker": "景琛",
+        "emotion": "冷漠",
+        "duration": 2.6,
+        "description_visual": "近景平拍镜头；户外环境，背景虚化；画面中央人物，身穿黑色西装，抬头，眼神冰冷，嘴角冷笑，表情：眉毛微挑，眼睛眯起，嘴角上扬露出冷笑。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "灰色黑波点吊带长裙",
+                "position": "画面中央",
+                "action": "抬头，眼神震惊，看向右侧",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面右侧前景",
+                "action": "伸出一根手指指向慕雨",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外凉亭，光线明亮，有光晕效果",
+        "description_narrative": "近景固定镜头拍摄慕雨，她听到景琛的话后震惊地抬头，眼睛睁大，画面右侧有一根手指指向她，光线强烈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 0.63,
+        "description_visual": "近景平拍镜头；户外凉亭，光线明亮，有光晕效果；画面中央人物，身穿灰色黑波点吊带长裙，抬头，眼神震惊，看向右侧，表情：眉毛上扬，眼睛睁大，嘴巴微张；画面右侧前景人物，身穿未知，伸出一根手指指向慕雨，表情：不可见。"
+    }
+]

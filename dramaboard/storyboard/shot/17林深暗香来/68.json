@@ -1,0 +1,908 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "躺在病床上，头微微低下，眼神黯淡",
+                "expression": "眉毛微蹙，眼睛下垂，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，白色床单，背景有医疗设备，光线柔和偏冷",
+        "description_narrative": "俯拍中近景，镜头固定。珊珊身穿蓝白条纹病号服躺在病床上，头微微低下，神情虚弱黯淡，背景是医院病房和医疗设备。",
+        "dialogue": "医生，我的孩子怎么样了？",
+        "speaker": "珊珊",
+        "emotion": "担忧",
+        "duration": 4.08,
+        "description_visual": "中近景俯拍镜头；医院病房，白色床单，背景有医疗设备，光线柔和偏冷；画面中央人物，身穿蓝白条纹病号服，躺在病床上，头微微低下，眼神黯淡，表情：眉毛微蹙，眼睛下垂，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白大褂，戴眼镜",
+                "position": "画面左侧",
+                "action": "站立，手持蓝色文件夹，低头看病人",
+                "expression": "眉毛紧锁，眼神严肃，嘴巴微张"
+            },
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面右侧前景",
+                "action": "背对镜头，坐在床上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房，蓝色隔帘，木质柜子，光线明亮",
+        "description_narrative": "平拍中景，镜头固定。医生身穿白大褂站在床边，手持蓝色文件夹，神情严肃地低头看着床上的珊珊，珊珊背对镜头坐在床上。",
+        "dialogue": "你大出血。",
+        "speaker": "医生",
+        "emotion": "严肃",
+        "duration": 2.12,
+        "description_visual": "中景平拍镜头；医院病房，蓝色隔帘，木质柜子，光线明亮；画面左侧人物，身穿白大褂，戴眼镜，站立，手持蓝色文件夹，低头看病人，表情：眉毛紧锁，眼神严肃，嘴巴微张；画面右侧前景人物，身穿蓝白条纹病号服，背对镜头，坐在床上，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "躺在枕头上，猛地抬头看向医生",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色枕头，背景模糊的医疗设备",
+        "description_narrative": "仰拍近景，镜头固定。珊珊躺在枕头上，听到消息后猛地抬头看向医生，眼神中充满震惊和难以置信，嘴巴微张。",
+        "dialogue": "子宫已经被摘除了。",
+        "speaker": "医生",
+        "emotion": "震惊",
+        "duration": 1.72,
+        "description_visual": "近景仰拍镜头；医院病房，白色枕头，背景模糊的医疗设备；画面中央人物，身穿蓝白条纹病号服，躺在枕头上，猛地抬头看向医生，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白大褂，戴眼镜",
+                "position": "画面左侧",
+                "action": "低头看着手中的文件夹，神情凝重",
+                "expression": "眉毛紧皱，眼睛下视，嘴唇紧闭"
+            },
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面右侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房，蓝色隔帘，光线自然",
+        "description_narrative": "平拍中景，镜头固定。医生低头看着手中的文件夹，神情凝重，似乎在等待病人的反应，珊珊背对镜头坐在床边。",
+        "dialogue": "不。",
+        "speaker": "珊珊",
+        "emotion": "绝望",
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头；医院病房，蓝色隔帘，光线自然；画面左侧人物，身穿白大褂，戴眼镜，低头看着手中的文件夹，神情凝重，表情：眉毛紧皱，眼睛下视，嘴唇紧闭；画面右侧人物，身穿蓝白条纹病号服，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "头部轻微晃动，眼神惊恐",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张颤抖"
+            }
+        ],
+        "background": "医院病房，背景虚化",
+        "description_narrative": "平拍特写，镜头固定。珊珊头部轻微晃动，眼神中充满惊恐和拒绝，嘴巴微张颤抖，无法接受这个事实。",
+        "dialogue": "不是这样的。",
+        "speaker": "珊珊",
+        "emotion": "崩溃",
+        "duration": 2.72,
+        "description_visual": "特写平拍镜头；医院病房，背景虚化；画面中央人物，身穿蓝白条纹病号服，头部轻微晃动，眼神惊恐，表情：眉毛紧蹙，眼睛睁大，嘴巴微张颤抖。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "眼神变得凶狠，死死盯着前方",
+                "expression": "眉毛倒竖，眼睛瞪视，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，光线略暗",
+        "description_narrative": "平拍近景，镜头固定。珊珊眼神变得凶狠，死死盯着前方，仿佛想到了什么人，表情从绝望转为仇恨。",
+        "dialogue": "林语墨。",
+        "speaker": "珊珊",
+        "emotion": "仇恨",
+        "duration": 2.84,
+        "description_visual": "近景平拍镜头；医院病房，光线略暗；画面中央人物，身穿蓝白条纹病号服，眼神变得凶狠，死死盯着前方，表情：眉毛倒竖，眼睛瞪视，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "身体前倾，双手抓紧床单，情绪激动",
+                "expression": "眉毛紧锁，眼睛充满怒火，嘴巴张开说话"
+            }
+        ],
+        "background": "医院病房，白色床单凌乱",
+        "description_narrative": "平拍中近景，镜头轻微摇动。珊珊身体前倾，双手紧紧抓住白色床单，情绪激动地喊出誓言，表情充满怒火。",
+        "dialogue": "我跟你势不两立。",
+        "speaker": "珊珊",
+        "emotion": "愤怒",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头（摇镜）；医院病房，白色床单凌乱；画面中央人物，身穿蓝白条纹病号服，身体前倾，双手抓紧床单，情绪激动，表情：眉毛紧锁，眼睛充满怒火，嘴巴张开说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "背景左侧",
+                "action": "站立，身影模糊",
+                "expression": "不可见"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "背景右侧",
+                "action": "站立，身影模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园长廊，红色柱子，绿色树叶前景，画面虚焦",
+        "description_narrative": "平拍远景，镜头固定。画面前景是绿色的树叶，背景虚焦，隐约可见林语墨和秦总站在公园红色的长廊里。",
+        "dialogue": "珊珊从小和我一起长大。",
+        "speaker": "林语墨",
+        "emotion": "忧伤",
+        "duration": 6.0,
+        "description_visual": "远景平拍镜头；公园长廊，红色柱子，绿色树叶前景，画面虚焦；背景左侧人物，身穿灰色大衣，站立，身影模糊，表情：不可见；背景右侧人物，身穿浅灰色西装，站立，身影模糊，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣，黑色高领衫",
+                "position": "画面中央",
+                "action": "侧身站立，目光低垂",
+                "expression": "眉毛微蹙，眼神落寞，嘴巴微张"
+            }
+        ],
+        "background": "公园长廊，红色柱子背景虚化",
+        "description_narrative": "侧拍近景，镜头固定。林语墨身穿灰色大衣和黑色高领衫，侧身站立，目光低垂，神情忧伤，背景是虚化的红色柱子。",
+        "dialogue": "她怎么会变成这样？",
+        "speaker": "林语墨",
+        "emotion": "困惑",
+        "duration": 3.16,
+        "description_visual": "近景侧拍镜头；公园长廊，红色柱子背景虚化；画面中央人物，身穿灰色大衣，黑色高领衫，侧身站立，目光低垂，表情：眉毛微蹙，眼神落寞，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装，深色领带",
+                "position": "画面右侧",
+                "action": "侧身站立，目视前方",
+                "expression": "眉毛舒展，眼神平静，嘴巴微张"
+            }
+        ],
+        "background": "公园户外，光线柔和",
+        "description_narrative": "侧拍近景，镜头固定。秦总身穿浅灰色西装，侧身站立，目视前方，神情平静而严肃，背景是模糊的户外景色。",
+        "dialogue": "也许她本性就是如此。",
+        "speaker": "秦总",
+        "emotion": "冷静",
+        "duration": 2.0,
+        "description_visual": "近景侧拍镜头；公园户外，光线柔和；画面右侧人物，身穿浅灰色西装，深色领带，侧身站立，目视前方，表情：眉毛舒展，眼神平静，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣，黑色高领衫",
+                "position": "画面中央",
+                "action": "低头沉默，眼神黯淡",
+                "expression": "眉毛低垂，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "公园长廊，红色柱子",
+        "description_narrative": "侧拍近景，镜头固定。林语墨低头沉默，眼神黯淡，似乎在思考秦总的话，神情显得有些无助。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉默",
+        "duration": 1.52,
+        "description_visual": "近景侧拍镜头；公园长廊，红色柱子；画面中央人物，身穿灰色大衣，黑色高领衫，低头沉默，眼神黯淡，表情：眉毛低垂，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "背面拍摄",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面左侧",
+                "action": "背对镜头站立，双手插兜",
+                "expression": "不可见"
+            },
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面右侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园长廊，红色栏杆，树木",
+        "description_narrative": "背面拍摄中景，镜头固定。秦总和林语墨背对镜头并肩站在公园长廊的红色栏杆前，周围有树木，气氛有些凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 1.12,
+        "description_visual": "中景背面拍摄镜头；公园长廊，红色栏杆，树木；画面左侧人物，身穿浅灰色西装，背对镜头站立，双手插兜，表情：不可见；画面右侧人物，身穿灰色大衣，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "低头看着手中的文件",
+                "expression": "眉毛微蹙，眼神专注，嘴唇紧闭"
+            }
+        ],
+        "background": "公园户外，光线明亮",
+        "description_narrative": "侧拍近景，镜头固定。秦总低头看着手中的文件，神情专注而严肃，似乎在酝酿着什么重要的话。",
+        "dialogue": "语墨。",
+        "speaker": "秦总",
+        "emotion": "认真",
+        "duration": 2.2,
+        "description_visual": "近景侧拍镜头；公园户外，光线明亮；画面中央人物，身穿浅灰色西装，低头看着手中的文件，表情：眉毛微蹙，眼神专注，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "转头看向秦总",
+                "expression": "眉毛微挑，眼神询问，嘴巴微张"
+            }
+        ],
+        "background": "公园长廊，红色柱子",
+        "description_narrative": "侧拍近景，镜头固定。林语墨转头看向秦总，眼神中带着询问和紧张，似乎在等待他的下文。",
+        "dialogue": "亲子鉴定结果出来了。",
+        "speaker": "秦总",
+        "emotion": "紧张",
+        "duration": 2.04,
+        "description_visual": "近景侧拍镜头；公园长廊，红色柱子；画面中央人物，身穿灰色大衣，转头看向秦总，表情：眉毛微挑，眼神询问，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "看着林语墨，神情诚恳",
+                "expression": "眉毛舒展，眼神坚定，嘴巴微张说话"
+            }
+        ],
+        "background": "公园户外，光线柔和",
+        "description_narrative": "平拍近景，镜头固定。秦总看着林语墨，神情诚恳而坚定，告诉她亲子鉴定的结果，并提议好好聊聊。",
+        "dialogue": "这个孩子是我的，我们好好聊聊吧。",
+        "speaker": "秦总",
+        "emotion": "诚恳",
+        "duration": 3.64,
+        "description_visual": "近景平拍镜头；公园户外，光线柔和；画面中央人物，身穿浅灰色西装，看着林语墨，神情诚恳，表情：眉毛舒展，眼神坚定，嘴巴微张说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "眼神躲闪，显得有些局促",
+                "expression": "眉毛低垂，眼神游移，嘴唇紧闭"
+            }
+        ],
+        "background": "公园户外，背景虚化",
+        "description_narrative": "侧拍近景，镜头固定。林语墨眼神躲闪，显得有些局促和不安，轻轻称呼了一声秦总，似乎在犹豫如何回应。",
+        "dialogue": "秦总。",
+        "speaker": "林语墨",
+        "emotion": "局促",
+        "duration": 7.32,
+        "description_visual": "近景侧拍镜头；公园户外，背景虚化；画面中央人物，身穿灰色大衣，眼神躲闪，显得有些局促，表情：眉毛低垂，眼神游移，嘴唇紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "表情严肃，倾听",
+                "expression": "眉毛微蹙，眼神专注，嘴唇紧闭"
+            }
+        ],
+        "background": "公园长廊，红色柱子",
+        "description_narrative": "平拍近景，镜头固定。秦总表情严肃地倾听，画面中主要是他的反应，背景是红色的柱子。",
+        "dialogue": "那天晚上我喝多了。",
+        "speaker": "林语墨",
+        "emotion": "解释",
+        "duration": 3.52,
+        "description_visual": "近景平拍镜头；公园长廊，红色柱子；画面中央人物，身穿浅灰色西装，表情严肃，倾听，表情：眉毛微蹙，眼神专注，嘴唇紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "低头解释，神情愧疚",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "公园户外，光线柔和",
+        "description_narrative": "侧拍近景，镜头固定。林语墨低头解释，神情愧疚，说自己那天晚上喝多了，并非故意。",
+        "dialogue": "我不是故意的。",
+        "speaker": "林语墨",
+        "emotion": "愧疚",
+        "duration": 2.32,
+        "description_visual": "近景侧拍镜头；公园户外，光线柔和；画面中央人物，身穿灰色大衣，低头解释，神情愧疚，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "眼神微动，继续倾听",
+                "expression": "眉毛舒展，眼神柔和，嘴唇微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "平拍近景，镜头固定。秦总眼神微动，继续倾听林语墨的解释，表情显得比较柔和。",
+        "dialogue": "第二天早上。",
+        "speaker": "林语墨",
+        "emotion": "回忆",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；公园户外；画面中央人物，身穿浅灰色西装，眼神微动，继续倾听，表情：眉毛舒展，眼神柔和，嘴唇微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "抬头解释，眼神急切",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴张开"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "侧拍近景，镜头固定。林语墨抬头解释，眼神急切，强调自己第二天早上第一时间就去买了避孕药。",
+        "dialogue": "我第一时间。",
+        "speaker": "林语墨",
+        "emotion": "急切",
+        "duration": 1.32,
+        "description_visual": "近景侧拍镜头；公园户外；画面中央人物，身穿灰色大衣，抬头解释，眼神急切，表情：眉毛微扬，眼睛注视对方，嘴巴张开。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "表情平静，看着对方",
+                "expression": "眉毛舒展，眼神平静，嘴唇微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "平拍近景，镜头固定。秦总表情平静地看着对方，听她说完去买避孕药的事情。",
+        "dialogue": "就去买了避孕药了。",
+        "speaker": "林语墨",
+        "emotion": "解释",
+        "duration": 2.92,
+        "description_visual": "近景平拍镜头；公园户外；画面中央人物，身穿浅灰色西装，表情平静，看着对方，表情：眉毛舒展，眼神平静，嘴唇微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "眼神无奈，微微叹气",
+                "expression": "眉毛低垂，眼神无奈，嘴巴微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "侧拍近景，镜头固定。林语墨眼神无奈，微微叹气，说没想到还是怀孕了。",
+        "dialogue": "没想到还是怀孕了。",
+        "speaker": "林语墨",
+        "emotion": "无奈",
+        "duration": 2.12,
+        "description_visual": "近景侧拍镜头；公园户外；画面中央人物，身穿灰色大衣，眼神无奈，微微叹气，表情：眉毛低垂，眼神无奈，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "眼神坚定，看着对方",
+                "expression": "眉毛微蹙，眼神专注，嘴巴微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "平拍近景，镜头固定。秦总眼神坚定地看着对方，似乎在回应她的解释，表示理解。",
+        "dialogue": "我真不是故意的。",
+        "speaker": "林语墨",
+        "emotion": "强调",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；公园户外；画面中央人物，身穿浅灰色西装，眼神坚定，看着对方，表情：眉毛微蹙，眼神专注，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "眼神看向别处，有些自卑",
+                "expression": "眉毛低垂，眼神躲闪，嘴唇紧闭"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "侧拍近景，镜头固定。林语墨眼神看向别处，显得有些自卑，说自己如果是有心的话，也不会隐藏这么久。",
+        "dialogue": "我知道你不是故意的。",
+        "speaker": "秦总",
+        "emotion": "安慰",
+        "duration": 2.6,
+        "description_visual": "近景侧拍镜头；公园户外；画面中央人物，身穿灰色大衣，眼神看向别处，有些自卑，表情：眉毛低垂，眼神躲闪，嘴唇紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面左侧",
+                "action": "身体微侧，看着林语墨",
+                "expression": "眉毛微挑，眼神认真，嘴巴微张"
+            }
+        ],
+        "background": "公园长廊，红色柱子",
+        "description_narrative": "平拍中近景，镜头固定。秦总身体微侧，看着林语墨，认真地说如果她是有心的话，早就应该找上门来了。",
+        "dialogue": "如果你是有心的话。",
+        "speaker": "秦总",
+        "emotion": "认真",
+        "duration": 2.44,
+        "description_visual": "中近景平拍镜头；公园长廊，红色柱子；画面左侧人物，身穿浅灰色西装，身体微侧，看着林语墨，表情：眉毛微挑，眼神认真，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "继续说话，表情诚恳",
+                "expression": "眉毛舒展，眼神诚恳，嘴巴微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "平拍近景，镜头固定。秦总继续说话，表情诚恳，指出如果她有心，就不会隐藏这么久。",
+        "dialogue": "早就应该找上门来了。",
+        "speaker": "秦总",
+        "emotion": "诚恳",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；公园户外；画面中央人物，身穿浅灰色西装，继续说话，表情诚恳，表情：眉毛舒展，眼神诚恳，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "低头听着，神情复杂",
+                "expression": "眉毛低垂，眼神复杂，嘴唇紧闭"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "侧拍近景，镜头固定。林语墨低头听着，神情复杂，秦总的声音继续传来，说现在真相大白了。",
+        "dialogue": "也不会隐藏这么久，不过现在真相大白了。",
+        "speaker": "秦总",
+        "emotion": "释然",
+        "duration": 1.24,
+        "description_visual": "近景侧拍镜头；公园户外；画面中央人物，身穿灰色大衣，低头听着，神情复杂，表情：眉毛低垂，眼神复杂，嘴唇紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "深情地看着对方",
+                "expression": "眉毛舒展，眼神深情，嘴巴微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "平拍近景，镜头固定。秦总深情地看着对方，轻轻叫了一声她的名字。",
+        "dialogue": "语墨。",
+        "speaker": "秦总",
+        "emotion": "深情",
+        "duration": 0.76,
+        "description_visual": "近景平拍镜头；公园户外；画面中央人物，身穿浅灰色西装，深情地看着对方，表情：眉毛舒展，眼神深情，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "抬头看着秦总，眼神波动",
+                "expression": "眉毛微蹙，眼神波动，嘴唇微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "侧拍近景，镜头固定。林语墨抬头看着秦总，眼神波动，秦总说我们应该拨乱反正。",
+        "dialogue": "我们应该拨乱反正。",
+        "speaker": "秦总",
+        "emotion": "坚定",
+        "duration": 4.96,
+        "description_visual": "近景侧拍镜头；公园户外；画面中央人物，身穿灰色大衣，抬头看着秦总，眼神波动，表情：眉毛微蹙，眼神波动，嘴唇微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "表情认真，提议在一起",
+                "expression": "眉毛舒展，眼神认真，嘴巴微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "平拍近景，镜头固定。秦总表情认真，提议两人好好在一起。",
+        "dialogue": "好好在一起。",
+        "speaker": "秦总",
+        "emotion": "期待",
+        "duration": 2.32,
+        "description_visual": "近景平拍镜头；公园户外；画面中央人物，身穿浅灰色西装，表情认真，提议在一起，表情：眉毛舒展，眼神认真，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "摇头，眼神自卑",
+                "expression": "眉毛低垂，眼神自卑，嘴唇紧闭"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "侧拍近景，镜头固定。林语墨摇头，眼神自卑，说自己和他不是一个世界的人。",
+        "dialogue": "我们不是一个世界的人。",
+        "speaker": "林语墨",
+        "emotion": "自卑",
+        "duration": 2.12,
+        "description_visual": "近景侧拍镜头；公园户外；画面中央人物，身穿灰色大衣，摇头，眼神自卑，表情：眉毛低垂，眼神自卑，嘴唇紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "皱眉，不解",
+                "expression": "眉毛微蹙，眼神不解，嘴唇微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "平拍近景，镜头固定。秦总皱眉，显得不解，林语墨继续说她觉得秦总不可能喜欢她。",
+        "dialogue": "而且。",
+        "speaker": "林语墨",
+        "emotion": "犹豫",
+        "duration": 0.88,
+        "description_visual": "近景平拍镜头；公园户外；画面中央人物，身穿浅灰色西装，皱眉，不解，表情：眉毛微蹙，眼神不解，嘴唇微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "眼神坚定又带点悲伤",
+                "expression": "眉毛微蹙，眼神坚定，嘴唇微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "侧拍近景，镜头固定。林语墨眼神坚定又带点悲伤，说秦总不可能喜欢她。",
+        "dialogue": "你也不可能喜欢我。",
+        "speaker": "林语墨",
+        "emotion": "悲伤",
+        "duration": 3.24,
+        "description_visual": "近景侧拍镜头；公园户外；画面中央人物，身穿灰色大衣，眼神坚定又带点悲伤，表情：眉毛微蹙，眼神坚定，嘴唇微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "眼神温柔，安慰对方",
+                "expression": "眉毛舒展，眼神温柔，嘴巴微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "平拍近景，镜头固定。秦总眼神温柔，安慰她不要勉强自己。",
+        "dialogue": "不要勉强自己。",
+        "speaker": "秦总",
+        "emotion": "温柔",
+        "duration": 1.92,
+        "description_visual": "近景平拍镜头；公园户外；画面中央人物，身穿浅灰色西装，眼神温柔，安慰对方，表情：眉毛舒展，眼神温柔，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "抬头反问，眼神明亮",
+                "expression": "眉毛微扬，眼神明亮，嘴巴张开"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "侧拍近景，镜头固定。林语墨抬头反问，眼神明亮，问谁说她不喜欢他。",
+        "dialogue": "谁说我不喜欢你？",
+        "speaker": "林语墨",
+        "emotion": "反问",
+        "duration": 1.36,
+        "description_visual": "近景侧拍镜头；公园户外；画面中央人物，身穿灰色大衣，抬头反问，眼神明亮，表情：眉毛微扬，眼神明亮，嘴巴张开。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "震惊后转为深情",
+                "expression": "眉毛微挑，眼神震惊转深情，嘴巴微张"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "平拍近景，镜头固定。秦总听到后先是一愣，随即深情地看着她，叫她的名字并表白。",
+        "dialogue": "林语墨，我喜欢你。",
+        "speaker": "秦总",
+        "emotion": "深情",
+        "duration": 3.6,
+        "description_visual": "近景平拍镜头；公园户外；画面中央人物，身穿浅灰色西装，震惊后转为深情，表情：眉毛微挑，眼神震惊转深情，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "低头，嘴角微扬",
+                "expression": "眉毛舒展，眼睛下视，嘴角微扬"
+            }
+        ],
+        "background": "公园户外",
+        "description_narrative": "侧拍近景，镜头固定。林语墨低头，嘴角微扬，似乎被表白打动，画面逐渐变白。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "感动",
+        "duration": 0.96,
+        "description_visual": "近景侧拍镜头；公园户外；画面中央人物，身穿灰色大衣，低头，嘴角微扬，表情：眉毛舒展，眼睛下视，嘴角微扬。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "淡出",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "灰色大衣",
+                "position": "画面中央",
+                "action": "身影在强光中模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色强光，画面过曝",
+        "description_narrative": "平拍特写，镜头淡出。林语墨的身影在白色强光中逐渐模糊，画面完全变白，故事在告白中结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头（淡出）；白色强光，画面过曝；画面中央人物，身穿灰色大衣，身影在强光中模糊，表情：不可见。"
+    }
+]

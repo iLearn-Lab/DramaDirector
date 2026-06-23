@@ -1,0 +1,676 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景，金色花纹装饰，粉色大字标题“替嫁娇妻”居中，下方白色小字“四十四集”。",
+        "description_narrative": "静态全景镜头，黑色背景上装饰着金色花纹，画面中央显示粉色大字标题“替嫁娇妻”，下方标注“四十四集”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；黑色背景，金色花纹装饰，粉色大字标题“替嫁娇妻”居中，下方白色小字“四十四集”。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "白色衣物",
+                "position": "画面中央",
+                "action": "模糊站立",
+                "expression": "无法辨认"
+            }
+        ],
+        "background": "昏暗模糊的室内环境，左侧有竖排文字“影视效果 请勿模仿”。",
+        "description_narrative": "远景镜头，画面极度模糊，隐约可见一个身穿白色衣物的人影站立在昏暗的室内，左侧有竖排提示文字。",
+        "dialogue": "办好了吗？",
+        "speaker": "王妃",
+        "emotion": "期待",
+        "duration": 3.0,
+        "description_visual": "远景平拍镜头；昏暗模糊的室内环境，左侧有竖排文字“影视效果 请勿模仿”。；画面中央人物，身穿白色衣物，模糊站立，表情：无法辨认。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣汉服，银色流苏耳坠",
+                "position": "画面中央",
+                "action": "头部微侧，目光锐利地看向左前方",
+                "expression": "眉毛微蹙，眼睛睁大凝视，嘴唇紧闭神情严肃"
+            }
+        ],
+        "background": "昏暗的室内背景，左侧有竖排文字“影视效果 请勿模仿”。",
+        "description_narrative": "特写镜头，王妃身穿浅青色汉服，头戴银饰，目光锐利地看向左前方，神情严肃，似乎在谋划着什么。",
+        "dialogue": "今晚就让我们揭开王管家的真面目。",
+        "speaker": "王妃",
+        "emotion": "坚定",
+        "duration": 3.88,
+        "description_visual": "特写平拍镜头；昏暗的室内背景，左侧有竖排文字“影视效果 请勿模仿”。；画面中央人物，身穿浅青色刺绣汉服，银色流苏耳坠，头部微侧，目光锐利地看向左前方，表情：眉毛微蹙，眼睛睁大凝视，嘴唇紧闭神情严肃。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅绿色暗纹长袍，头戴发冠",
+                "position": "画面左侧前景",
+                "action": "向前行走，目光直视前方",
+                "expression": "眉毛平展，眼睛直视，嘴唇紧闭"
+            },
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深红色衣袍",
+                "position": "画面右侧后景",
+                "action": "跟随在王爷身后",
+                "expression": "神情严肃"
+            }
+        ],
+        "background": "昏暗的走廊，木质门框，光线幽暗。",
+        "description_narrative": "中景跟拍镜头，王爷身穿浅绿色长袍走在前面，神情冷峻，侍卫身穿深红色衣袍紧随其后，两人走在昏暗的走廊中。",
+        "dialogue": "王爷。",
+        "speaker": "丫鬟",
+        "emotion": "慌张",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头（跟拍）；昏暗的走廊，木质门框，光线幽暗。；画面左侧前景人物，身穿浅绿色暗纹长袍，头戴发冠，向前行走，目光直视前方，表情：眉毛平展，眼睛直视，嘴唇紧闭；画面右侧后景人物，身穿深红色衣袍，跟随在王爷身后，表情：神情严肃。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅绿色暗纹长袍",
+                "position": "画面左侧",
+                "action": "侧身走过门框",
+                "expression": "目光斜视，神情冷漠"
+            },
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "浅蓝色衣袍",
+                "position": "画面右侧背景",
+                "action": "站在门边，身体微缩",
+                "expression": "神情慌张"
+            }
+        ],
+        "background": "木质门框，昏暗的室内光线。",
+        "description_narrative": "中近景镜头，王爷侧身走过门框，目光斜视，背景中一名身穿浅蓝色衣袍的丫鬟站在门边，神情慌张。",
+        "dialogue": "你没见过王爷吗？",
+        "speaker": "侍卫",
+        "emotion": "严厉",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头（跟拍）；木质门框，昏暗的室内光线。；画面左侧人物，身穿浅绿色暗纹长袍，侧身走过门框，表情：目光斜视，神情冷漠；画面右侧背景人物，身穿浅蓝色衣袍，站在门边，身体微缩，表情：神情慌张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深红色衣袍",
+                "position": "画面中央",
+                "action": "头部微侧，目光向下看",
+                "expression": "眉毛微皱，眼睛下视，嘴唇微张"
+            }
+        ],
+        "background": "昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。",
+        "description_narrative": "特写镜头，侍卫面部特写，他眉头微皱，目光下视，嘴唇微张，似乎在质问对方。",
+        "dialogue": "慌什么？奴婢听...",
+        "speaker": "侍卫/丫鬟",
+        "emotion": "严厉/慌张",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。；画面中央人物，身穿深红色衣袍，头部微侧，目光向下看，表情：眉毛微皱，眼睛下视，嘴唇微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "浅蓝色衣袍",
+                "position": "画面中央",
+                "action": "低头，眼神躲闪",
+                "expression": "眉毛下垂，眼睛向下看，嘴唇微张"
+            }
+        ],
+        "background": "昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。",
+        "description_narrative": "特写镜头，丫鬟面部特写，她低着头，眼神躲闪，神情慌张地解释着。",
+        "dialogue": "奴婢听王妃身边的",
+        "speaker": "丫鬟",
+        "emotion": "慌张",
+        "duration": 4.52,
+        "description_visual": "特写平拍镜头；昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。；画面中央人物，身穿浅蓝色衣袍，低头，眼神躲闪，表情：眉毛下垂，眼睛向下看，嘴唇微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅绿色暗纹长袍",
+                "position": "画面中央",
+                "action": "头部微转，目光凝视",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。",
+        "description_narrative": "特写镜头，王爷面部特写，他目光凝重，似乎在思考丫鬟说的话。",
+        "dialogue": "王妃后山见面",
+        "speaker": "王爷",
+        "emotion": "疑惑",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。；画面中央人物，身穿浅绿色暗纹长袍，头部微转，目光凝视，表情：眉毛微蹙，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深红色衣袍",
+                "position": "画面中央",
+                "action": "低头，眼神下移",
+                "expression": "眉毛舒展，眼睛下视，嘴唇微闭"
+            }
+        ],
+        "background": "昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。",
+        "description_narrative": "特写镜头，侍卫低头，眼神下移，似乎在评论刚才的情况。",
+        "dialogue": "有些失态了。",
+        "speaker": "侍卫",
+        "emotion": "平静",
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。；画面中央人物，身穿深红色衣袍，低头，眼神下移，表情：眉毛舒展，眼睛下视，嘴唇微闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅绿色暗纹长袍",
+                "position": "画面中央",
+                "action": "目光直视前方",
+                "expression": "眉毛平展，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。",
+        "description_narrative": "特写镜头，王爷目光直视前方，神情决断。",
+        "dialogue": "去后山。小姐，你看。",
+        "speaker": "王爷/明月",
+        "emotion": "决断",
+        "duration": 6.0,
+        "description_visual": "特写平拍镜头；昏暗背景，左侧有竖排文字“影视效果 请勿模仿”。；画面中央人物，身穿浅绿色暗纹长袍，目光直视前方，表情：眉毛平展，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王管家",
+                "gender": "男",
+                "clothing": "深红色长袍，黑色背心",
+                "position": "画面左侧",
+                "action": "侧身站立，头部微转",
+                "expression": "神情狡黠"
+            }
+        ],
+        "background": "夜晚的户外，有树木和岩石，光线昏暗。",
+        "description_narrative": "中景镜头，王管家身穿深红色长袍，侧身站在夜晚的户外，周围有树木和岩石，神情狡黠。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；夜晚的户外，有树木和岩石，光线昏暗。；画面左侧人物，身穿深红色长袍，黑色背心，侧身站立，头部微转，表情：神情狡黠。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣汉服",
+                "position": "画面中央",
+                "action": "目光锐利地看向一侧",
+                "expression": "眉毛微蹙，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王妃目光锐利地看向一侧，神情愤怒，似乎发现了什么。",
+        "dialogue": "好啊，原来你真的是奸细。",
+        "speaker": "王妃",
+        "emotion": "愤怒",
+        "duration": 3.76,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿浅青色刺绣汉服，目光锐利地看向一侧，表情：眉毛微蹙，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉色襦裙",
+                "position": "画面模糊处",
+                "action": "快速移动",
+                "expression": "无法辨认"
+            }
+        ],
+        "background": "夜晚的户外，画面模糊。",
+        "description_narrative": "特写摇镜，画面模糊，隐约可见明月的身影在快速移动。",
+        "dialogue": "哎，小姐。",
+        "speaker": "明月",
+        "emotion": "焦急",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头（摇镜）；夜晚的户外，画面模糊。；画面模糊处人物，身穿粉色襦裙，快速移动，表情：无法辨认。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉色襦裙",
+                "position": "画面模糊处",
+                "action": "快速移动",
+                "expression": "无法辨认"
+            }
+        ],
+        "background": "夜晚的户外，画面模糊。",
+        "description_narrative": "特写摇镜，画面模糊，明月的身影在晃动。",
+        "dialogue": "小姐",
+        "speaker": "明月",
+        "emotion": "焦急",
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头（摇镜）；夜晚的户外，画面模糊。；画面模糊处人物，身穿粉色襦裙，快速移动，表情：无法辨认。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣汉服",
+                "position": "画面中央",
+                "action": "侧身站立，目光看向左侧",
+                "expression": "眉毛微蹙，眼睛凝视，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，有岩石，光线昏暗。",
+        "description_narrative": "中近景镜头，王妃侧身站立，目光看向左侧，神情严肃，似乎在对着某人说话。",
+        "dialogue": "王管家别藏了，出来吧。",
+        "speaker": "王妃",
+        "emotion": "严肃",
+        "duration": 1.36,
+        "description_visual": "中近景平拍镜头；夜晚的户外，有岩石，光线昏暗。；画面中央人物，身穿浅青色刺绣汉服，侧身站立，目光看向左侧，表情：眉毛微蹙，眼睛凝视，嘴唇微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王管家",
+                "gender": "男",
+                "clothing": "深红色长袍，黑色背心",
+                "position": "画面中央",
+                "action": "正面站立，目光直视",
+                "expression": "神情镇定"
+            }
+        ],
+        "background": "夜晚的户外，有树木，光线昏暗。",
+        "description_narrative": "中景镜头，王管家正面站立，神情镇定地看着前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.08,
+        "description_visual": "中景平拍镜头；夜晚的户外，有树木，光线昏暗。；画面中央人物，身穿深红色长袍，黑色背心，正面站立，目光直视，表情：神情镇定。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王管家",
+                "gender": "男",
+                "clothing": "深红色长袍，黑色背心",
+                "position": "画面左侧",
+                "action": "侧身行走，头部微转",
+                "expression": "神情狡黠"
+            }
+        ],
+        "background": "夜晚的户外，有树木和岩石。",
+        "description_narrative": "中景跟拍镜头，王管家侧身行走，头部微转，似乎在观察周围。",
+        "dialogue": "王妃。",
+        "speaker": "王管家",
+        "emotion": "恭敬",
+        "duration": 3.12,
+        "description_visual": "中景平拍镜头（跟拍）；夜晚的户外，有树木和岩石。；画面左侧人物，身穿深红色长袍，黑色背心，侧身行走，头部微转，表情：神情狡黠。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣汉服",
+                "position": "画面中央",
+                "action": "侧身站立，目光看向左侧",
+                "expression": "眉毛微蹙，眼睛凝视，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，有岩石，光线昏暗。",
+        "description_narrative": "中近景镜头，王妃侧身站立，目光看向左侧，神情严肃地质问。",
+        "dialogue": "王管家你深夜来后山做什么？",
+        "speaker": "王妃",
+        "emotion": "质问",
+        "duration": 2.64,
+        "description_visual": "中近景平拍镜头；夜晚的户外，有岩石，光线昏暗。；画面中央人物，身穿浅青色刺绣汉服，侧身站立，目光看向左侧，表情：眉毛微蹙，眼睛凝视，嘴唇微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王管家",
+                "gender": "男",
+                "clothing": "深红色长袍",
+                "position": "画面中央",
+                "action": "低头，眼神躲闪",
+                "expression": "眉毛下垂，眼睛向下看，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王管家低头，眼神躲闪，似乎在编造理由。",
+        "dialogue": "王爷怕王妃一个人在这后山遇到危险。",
+        "speaker": "王管家",
+        "emotion": "狡黠",
+        "duration": 4.76,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿深红色长袍，低头，眼神躲闪，表情：眉毛下垂，眼睛向下看，嘴唇微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王管家",
+                "gender": "男",
+                "clothing": "深红色长袍",
+                "position": "画面中央",
+                "action": "低头，嘴角微扬",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王管家低头，嘴角微扬，神情狡黠。",
+        "dialogue": "特意派老奴。",
+        "speaker": "王管家",
+        "emotion": "狡黠",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿深红色长袍，低头，嘴角微扬，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣汉服",
+                "position": "画面中央",
+                "action": "侧身站立，目光看向左侧",
+                "expression": "眉毛微蹙，眼睛凝视，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，有岩石，光线昏暗。",
+        "description_narrative": "中近景镜头，王妃侧身站立，目光看向左侧，神情怀疑。",
+        "dialogue": "过来保护。",
+        "speaker": "王管家",
+        "emotion": "狡黠",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；夜晚的户外，有岩石，光线昏暗。；画面中央人物，身穿浅青色刺绣汉服，侧身站立，目光看向左侧，表情：眉毛微蹙，眼睛凝视，嘴唇微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王管家",
+                "gender": "男",
+                "clothing": "深红色长袍",
+                "position": "画面中央",
+                "action": "低头，眼神躲闪",
+                "expression": "眉毛下垂，眼睛向下看，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王管家低头，眼神躲闪，神情心虚。",
+        "dialogue": "王爷让你来保护我。",
+        "speaker": "王妃",
+        "emotion": "怀疑",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿深红色长袍，低头，眼神躲闪，表情：眉毛下垂，眼睛向下看，嘴唇微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣汉服",
+                "position": "画面中央",
+                "action": "目光直视前方",
+                "expression": "眉毛微蹙，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王妃目光直视前方，神情严肃地质问。",
+        "dialogue": "是，是，对。",
+        "speaker": "王管家",
+        "emotion": "慌张",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿浅青色刺绣汉服，目光直视前方，表情：眉毛微蹙，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王管家",
+                "gender": "男",
+                "clothing": "深红色长袍",
+                "position": "画面中央",
+                "action": "低头，眼神躲闪",
+                "expression": "眉毛下垂，眼睛向下看，嘴唇紧闭"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王管家低头，眼神躲闪，神情心虚。",
+        "dialogue": "我看王爷根本就不知道我来这后山吧。",
+        "speaker": "王妃",
+        "emotion": "笃定",
+        "duration": 3.16,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿深红色长袍，低头，眼神躲闪，表情：眉毛下垂，眼睛向下看，嘴唇紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣汉服",
+                "position": "画面中央",
+                "action": "目光直视前方",
+                "expression": "眉毛微蹙，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王妃目光直视前方，神情严肃地质问。",
+        "dialogue": "王妃，你为何这么说？",
+        "speaker": "王管家",
+        "emotion": "惊慌",
+        "duration": 4.12,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿浅青色刺绣汉服，目光直视前方，表情：眉毛微蹙，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王管家",
+                "gender": "男",
+                "clothing": "深红色长袍",
+                "position": "画面中央",
+                "action": "抬头，目光直视",
+                "expression": "眉毛微皱，眼睛直视，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王管家抬头，目光直视，神情惊慌。",
+        "dialogue": "在后花园，我让明月说的那些话是故意说给你听的。",
+        "speaker": "王妃",
+        "emotion": "揭露",
+        "duration": 4.32,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿深红色长袍，抬头，目光直视，表情：眉毛微皱，眼睛直视，嘴唇微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉色襦裙",
+                "position": "画面中央",
+                "action": "目光看向一侧",
+                "expression": "眉毛微蹙，眼睛凝视，嘴唇紧闭"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，明月目光看向一侧，神情严肃。",
+        "dialogue": "王管家。",
+        "speaker": "王妃",
+        "emotion": "揭露",
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿粉色襦裙，目光看向一侧，表情：眉毛微蹙，眼睛凝视，嘴唇紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣汉服",
+                "position": "画面中央",
+                "action": "目光直视前方",
+                "expression": "眉毛微蹙，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王妃目光直视前方，神情严肃地揭露真相。",
+        "dialogue": "隐藏在王府。",
+        "speaker": "王妃",
+        "emotion": "揭露",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿浅青色刺绣汉服，目光直视前方，表情：眉毛微蹙，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣汉服",
+                "position": "画面中央",
+                "action": "目光直视前方",
+                "expression": "眉毛微蹙，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "夜晚的户外，光线昏暗。",
+        "description_narrative": "特写镜头，王妃目光直视前方，神情严肃地指出奸细。",
+        "dialogue": "在王府的奸细就是你吧？",
+        "speaker": "王妃",
+        "emotion": "揭露",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；夜晚的户外，光线昏暗。；画面中央人物，身穿浅青色刺绣汉服，目光直视前方，表情：眉毛微蹙，眼睛睁大，嘴唇微张。"
+    }
+]

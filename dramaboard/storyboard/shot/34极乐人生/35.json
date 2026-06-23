@@ -1,0 +1,808 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面左侧",
+                "action": "坐在餐桌旁，手持勺子",
+                "expression": "眉毛微蹙，眼神看向对面，嘴巴微张"
+            },
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面中间偏右后景",
+                "action": "低头吃饭",
+                "expression": "视线向下，表情平静"
+            },
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "白衬衫搭配蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "坐在餐桌旁，手持勺子",
+                "expression": "视线向下看碗，嘴巴微闭"
+            }
+        ],
+        "background": "餐厅场景，白色餐桌，淡蓝色墙壁，光线明亮",
+        "description_narrative": "全景镜头固定，展现三人围坐在白色餐桌旁吃早饭。左侧妈妈身穿白色无袖上衣，中间萌萌穿黑色吊带，右侧哥哥穿蓝马甲白衬衫，三人正在进食，气氛看似平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.97,
+        "description_visual": "全景平拍镜头；餐厅场景，白色餐桌，淡蓝色墙壁，光线明亮；画面左侧人物，身穿白色无袖上衣，坐在餐桌旁，手持勺子，表情：眉毛微蹙，眼神看向对面，嘴巴微张；画面中间偏右后景人物，身穿黑色吊带背心，低头吃饭，表情：视线向下，表情平静；画面右侧人物，身穿白衬衫搭配蓝色条纹马甲，坐在餐桌旁，手持勺子，表情：视线向下看碗，嘴巴微闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面右侧",
+                "action": "右手持白色勺子在小碗中搅拌",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色餐桌桌面，带有桃子图案的碗",
+        "description_narrative": "特写镜头俯拍桌面，萌萌的手持白色勺子在带有桃子图案的碗中轻轻搅拌，动作缓慢。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 6.77,
+        "description_visual": "特写俯拍镜头；白色餐桌桌面，带有桃子图案的碗；画面右侧人物，身穿黑色吊带背心，右手持白色勺子在小碗中搅拌，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "手持勺子，身体微向前倾",
+                "expression": "眉毛微蹙，眼神关切地看向对面，嘴巴微张说话"
+            }
+        ],
+        "background": "淡蓝色墙壁背景，白色椅背",
+        "description_narrative": "近景镜头对准妈妈，她身穿白色无袖上衣，面带关切，眉头微皱，看着对面的人说话，询问对方为何心情不好不吃饭。",
+        "dialogue": "看你心情不好，饭菜不喝一口啊。",
+        "speaker": "妈妈",
+        "emotion": "关切",
+        "duration": 4.77,
+        "description_visual": "近景平拍镜头；淡蓝色墙壁背景，白色椅背；画面中央人物，身穿白色无袖上衣，手持勺子，身体微向前倾，表情：眉毛微蹙，眼神关切地看向对面，嘴巴微张说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "白衬衫搭配蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "侧脸对着镜头，手持勺子",
+                "expression": "眉毛舒展，眼神向下，嘴角带笑"
+            }
+        ],
+        "background": "淡蓝色墙壁，模糊的背景人物",
+        "description_narrative": "近景侧拍哥哥，他穿着蓝马甲，面带玩味的笑容，眼神向下，替萌萌解释说她早上吃过了香肠和奶昔。",
+        "dialogue": "萌萌吃饱了，萌萌早上吃了根大香肠，还喝了一大杯奶昔现在。",
+        "speaker": "哥哥",
+        "emotion": "玩味",
+        "duration": 7.7,
+        "description_visual": "近景侧拍镜头；淡蓝色墙壁，模糊的背景人物；画面右侧人物，身穿白衬衫搭配蓝色条纹马甲，侧脸对着镜头，手持勺子，表情：眉毛舒展，眼神向下，嘴角带笑。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "手持勺子，眼神看向右侧",
+                "expression": "眉毛微蹙，嘴唇紧闭，神情略带不满"
+            }
+        ],
+        "background": "淡蓝色墙壁，白色椅背",
+        "description_narrative": "近景镜头回到妈妈，她眉头微皱，嘴唇紧闭，对早上只吃那些东西表示不健康，神情中带着长辈的担忧和不赞同。",
+        "dialogue": "早上就吃那些东西，不健康啊。",
+        "speaker": "妈妈",
+        "emotion": "不赞同",
+        "duration": 4.0,
+        "description_visual": "近景平拍镜头；淡蓝色墙壁，白色椅背；画面中央人物，身穿白色无袖上衣，手持勺子，眼神看向右侧，表情：眉毛微蹙，嘴唇紧闭，神情略带不满。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "白衬衫搭配蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "手持勺子，侧脸微笑",
+                "expression": "眉毛上扬，眼睛眯起笑，嘴角上扬"
+            }
+        ],
+        "background": "淡蓝色墙壁，模糊背景",
+        "description_narrative": "近景侧拍哥哥，他嘴角上扬，露出意味深长的笑容，调侃说奶昔有助于美颜，言语间带有暗示。",
+        "dialogue": "还行，奶昔有助于美颜香肠嘛。",
+        "speaker": "哥哥",
+        "emotion": "调侃",
+        "duration": 6.9,
+        "description_visual": "近景侧拍镜头；淡蓝色墙壁，模糊背景；画面右侧人物，身穿白衬衫搭配蓝色条纹马甲，手持勺子，侧脸微笑，表情：眉毛上扬，眼睛眯起笑，嘴角上扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面中央",
+                "action": "低头看着碗，手持勺子和筷子",
+                "expression": "眉毛低垂，眼睛向下看，嘴角微扬"
+            }
+        ],
+        "background": "白色桌面，碗具",
+        "description_narrative": "近景俯拍萌萌，她低着头，长发垂下，遮住部分脸庞，嘴角带着一丝羞涩或尴尬的微笑，继续搅拌碗里的食物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "羞涩",
+        "duration": 0.67,
+        "description_visual": "近景俯拍镜头；白色桌面，碗具；画面中央人物，身穿黑色吊带背心，低头看着碗，手持勺子和筷子，表情：眉毛低垂，眼睛向下看，嘴角微扬。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面中央",
+                "action": "一只手放在穿着蓝色条纹西裤的大腿上",
+                "expression": "不可见"
+            },
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "蓝色条纹西裤",
+                "position": "背景",
+                "action": "腿部被手覆盖",
+                "expression": "不可见"
+            }
+        ],
+        "background": "蓝色条纹布料纹理",
+        "description_narrative": "大特写镜头聚焦在桌下，一只女性的手（萌萌）突然按在穿着蓝色条纹西裤的大腿（哥哥）上，手指张开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "大特写俯拍镜头；蓝色条纹布料纹理；画面中央人物，身穿不可见，一只手放在穿着蓝色条纹西裤的大腿上，表情：不可见；背景人物，身穿蓝色条纹西裤，腿部被手覆盖，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "手持勺子，眼神疑惑",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景镜头对准妈妈，她似乎察觉到了什么异常，眉毛微挑，眼神中充满疑惑，开口询问怎么了。",
+        "dialogue": "你怎么了？",
+        "speaker": "妈妈",
+        "emotion": "疑惑",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；淡蓝色墙壁；画面中央人物，身穿白色无袖上衣，手持勺子，眼神疑惑，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "白衬衫搭配蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "手持勺子，身体微僵",
+                "expression": "眉毛微蹙，眼神闪躲，嘴巴微张"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景侧拍哥哥，他表情略显痛苦或慌乱，眼神看向别处，谎称被烫了一下，试图掩饰刚才的反应。",
+        "dialogue": "烫了一下。",
+        "speaker": "哥哥",
+        "emotion": "慌乱",
+        "duration": 3.03,
+        "description_visual": "近景侧拍镜头；淡蓝色墙壁；画面右侧人物，身穿白衬衫搭配蓝色条纹马甲，手持勺子，身体微僵，表情：眉毛微蹙，眼神闪躲，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "手持勺子，身体放松",
+                "expression": "眉毛舒展，眼神略带责备，嘴巴微张"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景镜头回到妈妈，她信以为真，眉头舒展但语气略带责备，让哥哥慢点喝。",
+        "dialogue": "那你不会慢点喝呀？",
+        "speaker": "妈妈",
+        "emotion": "责备",
+        "duration": 2.5,
+        "description_visual": "近景平拍镜头；淡蓝色墙壁；画面中央人物，身穿白色无袖上衣，手持勺子，身体放松，表情：眉毛舒展，眼神略带责备，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面中央",
+                "action": "手指抓紧蓝色条纹西裤面料",
+                "expression": "不可见"
+            },
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "蓝色条纹西裤",
+                "position": "背景",
+                "action": "腿部被手抓紧",
+                "expression": "不可见"
+            }
+        ],
+        "background": "蓝色条纹布料纹理",
+        "description_narrative": "大特写镜头再次给到桌下，萌萌的手指紧紧抓住哥哥大腿上的蓝色条纹西裤面料，动作带有挑逗或安抚意味。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.33,
+        "description_visual": "大特写俯拍镜头；蓝色条纹布料纹理；画面中央人物，身穿不可见，手指抓紧蓝色条纹西裤面料，表情：不可见；背景人物，身穿蓝色条纹西裤，腿部被手抓紧，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "白衬衫搭配蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "侧脸微笑，眼神看向左侧",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景侧拍哥哥，他脸上露出享受或得意的笑容，眼睛眯起，似乎对桌下的互动感到满意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 1.33,
+        "description_visual": "近景侧拍镜头；淡蓝色墙壁；画面右侧人物，身穿白衬衫搭配蓝色条纹马甲，侧脸微笑，眼神看向左侧，表情：眉毛舒展，眼睛眯起，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面中央",
+                "action": "手掌平放在蓝色条纹西裤上，手指微曲",
+                "expression": "不可见"
+            },
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "蓝色条纹西裤",
+                "position": "背景",
+                "action": "腿部被手覆盖",
+                "expression": "不可见"
+            }
+        ],
+        "background": "蓝色条纹布料纹理",
+        "description_narrative": "大特写镜头持续聚焦桌下，萌萌的手掌平放在哥哥的大腿上，手指轻轻抓挠或抚摸面料。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "大特写俯拍镜头；蓝色条纹布料纹理；画面中央人物，身穿不可见，手掌平放在蓝色条纹西裤上，手指微曲，表情：不可见；背景人物，身穿蓝色条纹西裤，腿部被手覆盖，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面中央",
+                "action": "手指在蓝色条纹西裤上滑动",
+                "expression": "不可见"
+            },
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "蓝色条纹西裤",
+                "position": "背景",
+                "action": "腿部被手抚摸",
+                "expression": "不可见"
+            }
+        ],
+        "background": "蓝色条纹布料纹理",
+        "description_narrative": "大特写镜头中，萌萌的手指在蓝色条纹西裤上轻轻滑动，动作暧昧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.53,
+        "description_visual": "大特写俯拍镜头；蓝色条纹布料纹理；画面中央人物，身穿不可见，手指在蓝色条纹西裤上滑动，表情：不可见；背景人物，身穿蓝色条纹西裤，腿部被手抚摸，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面中央",
+                "action": "低头看着碗",
+                "expression": "眉毛低垂，眼睛向下，神情专注"
+            }
+        ],
+        "background": "白色桌面，碗具",
+        "description_narrative": "近景俯拍萌萌，她低着头，有人（妈妈）叫了她的名字，她继续看着碗，没有抬头。",
+        "dialogue": "萌萌",
+        "speaker": "妈妈",
+        "emotion": null,
+        "duration": 3.77,
+        "description_visual": "近景俯拍镜头；白色桌面，碗具；画面中央人物，身穿黑色吊带背心，低头看着碗，表情：眉毛低垂，眼睛向下，神情专注。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "手持勺子，眼神看向右侧",
+                "expression": "眉毛微蹙，眼神疑惑，嘴巴微闭"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景镜头对准妈妈，她看着对面，似乎在等待解释。此时画外音（萌萌）说没事。",
+        "dialogue": "哦，没事。",
+        "speaker": "萌萌",
+        "emotion": null,
+        "duration": 1.93,
+        "description_visual": "近景平拍镜头；淡蓝色墙壁；画面中央人物，身穿白色无袖上衣，手持勺子，眼神看向右侧，表情：眉毛微蹙，眼神疑惑，嘴巴微闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面中央",
+                "action": "抬手捂住嘴巴/脸颊",
+                "expression": "眉毛微蹙，眼睛看向下方，神情羞涩"
+            }
+        ],
+        "background": "白色桌面",
+        "description_narrative": "近景俯拍萌萌，她抬手捂住嘴或脸颊，借口说刚才搅拌太急烫到了手，试图掩饰刚才的失态或脸红。",
+        "dialogue": "就是刚刚那个搅拌太着急了，烫到手了。",
+        "speaker": "萌萌",
+        "emotion": "羞涩",
+        "duration": 4.47,
+        "description_visual": "近景俯拍镜头；白色桌面；画面中央人物，身穿黑色吊带背心，抬手捂住嘴巴/脸颊，表情：眉毛微蹙，眼睛看向下方，神情羞涩。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "手持勺子，眼神看向右侧",
+                "expression": "眉毛微蹙，嘴角下撇，神情无奈"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景镜头对准妈妈，她无奈地摇摇头，抱怨兄妹俩都不能慢点，对两人的急躁表示不满。",
+        "dialogue": "你说你们兄妹俩就不能都慢点啊？",
+        "speaker": "妈妈",
+        "emotion": "无奈",
+        "duration": 3.93,
+        "description_visual": "近景平拍镜头；淡蓝色墙壁；画面中央人物，身穿白色无袖上衣，手持勺子，眼神看向右侧，表情：眉毛微蹙，嘴角下撇，神情无奈。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面中央",
+                "action": "手持勺子，眼神看向左侧",
+                "expression": "眉毛舒展，嘴角微扬，眼神狡黠"
+            }
+        ],
+        "background": "白色桌面",
+        "description_narrative": "近景俯拍萌萌，她嘴角带笑，眼神狡黠地看着哥哥的方向，说没办法，要向好哥哥学习，言语间充满暧昧暗示。",
+        "dialogue": "没办法呀，我得向我的好哥哥学习。",
+        "speaker": "萌萌",
+        "emotion": "狡黠",
+        "duration": 5.77,
+        "description_visual": "近景俯拍镜头；白色桌面；画面中央人物，身穿黑色吊带背心，手持勺子，眼神看向左侧，表情：眉毛舒展，嘴角微扬，眼神狡黠。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "白衬衫搭配蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "低头看着碗",
+                "expression": "眉毛低垂，眼睛向下，嘴角微闭"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景侧拍哥哥，他低着头，似乎在掩饰笑意或尴尬，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "掩饰",
+        "duration": 1.37,
+        "description_visual": "近景侧拍镜头；淡蓝色墙壁；画面右侧人物，身穿白衬衫搭配蓝色条纹马甲，低头看着碗，表情：眉毛低垂，眼睛向下，嘴角微闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "手持勺子，身体微前倾",
+                "expression": "眉毛舒展，眼神关切，嘴巴微张说话"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景镜头对准妈妈，她转移话题，建议萌萌放假多出去溜达，找朋友玩，不要老待在家里。",
+        "dialogue": "哦，对了，萌萌，你说你放假这么多天，你也不能老在家待着，你多出去溜达溜达，找朋友玩啊。",
+        "speaker": "妈妈",
+        "emotion": "关切",
+        "duration": 8.67,
+        "description_visual": "近景平拍镜头；淡蓝色墙壁；画面中央人物，身穿白色无袖上衣，手持勺子，身体微前倾，表情：眉毛舒展，眼神关切，嘴巴微张说话。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面中央",
+                "action": "手持勺子，眼神看向左侧",
+                "expression": "眉毛微挑，眼睛看向哥哥方向，嘴巴微张"
+            }
+        ],
+        "background": "白色桌面",
+        "description_narrative": "近景俯拍萌萌，她拒绝和朋友玩，提议要和哥哥去足疗店逛逛，眼神看向哥哥。",
+        "dialogue": "我不想跟他们玩，要不哎，要不我和哥哥去足疗店逛逛。",
+        "speaker": "萌萌",
+        "emotion": "期待",
+        "duration": 6.73,
+        "description_visual": "近景俯拍镜头；白色桌面；画面中央人物，身穿黑色吊带背心，手持勺子，眼神看向左侧，表情：眉毛微挑，眼睛看向哥哥方向，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "白衬衫搭配蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "侧脸看向左侧",
+                "expression": "眉毛微蹙，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景侧拍哥哥，他故作疑惑地问足疗店有什么好逛的，实则心里明白。",
+        "dialogue": "足疗店有什么好逛的？",
+        "speaker": "哥哥",
+        "emotion": "故作疑惑",
+        "duration": 2.4,
+        "description_visual": "近景侧拍镜头；淡蓝色墙壁；画面右侧人物，身穿白衬衫搭配蓝色条纹马甲，侧脸看向左侧，表情：眉毛微蹙，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面中央",
+                "action": "手持筷子，眼神看向左侧",
+                "expression": "眉毛微挑，眼神挑衅，嘴巴微张"
+            }
+        ],
+        "background": "白色桌面",
+        "description_narrative": "近景俯拍萌萌，她反问哥哥是不是不同意，眼神中带着一丝挑衅和撒娇。",
+        "dialogue": "怎么你不同意？",
+        "speaker": "萌萌",
+        "emotion": "挑衅",
+        "duration": 1.97,
+        "description_visual": "近景俯拍镜头；白色桌面；画面中央人物，身穿黑色吊带背心，手持筷子，眼神看向左侧，表情：眉毛微挑，眼神挑衅，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面中央",
+                "action": "手掌按在蓝色条纹西裤上",
+                "expression": "不可见"
+            },
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "蓝色条纹西裤",
+                "position": "背景",
+                "action": "腿部被手按压",
+                "expression": "不可见"
+            }
+        ],
+        "background": "蓝色条纹布料纹理",
+        "description_narrative": "大特写镜头再次给到桌下，萌萌的手掌按在哥哥的大腿上，施加压力，作为一种无声的催促或调情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.27,
+        "description_visual": "大特写俯拍镜头；蓝色条纹布料纹理；画面中央人物，身穿不可见，手掌按在蓝色条纹西裤上，表情：不可见；背景人物，身穿蓝色条纹西裤，腿部被手按压，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "白衬衫搭配蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "侧脸看向左侧，微笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景侧拍哥哥，他立刻改口同意，笑着说妹妹什么时候想去都行，眼神宠溺。",
+        "dialogue": "同意同意啊，妹妹什么时候想去都行。",
+        "speaker": "哥哥",
+        "emotion": "宠溺",
+        "duration": 5.0,
+        "description_visual": "近景侧拍镜头；淡蓝色墙壁；画面右侧人物，身穿白衬衫搭配蓝色条纹马甲，侧脸看向左侧，微笑，表情：眉毛舒展，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面中央",
+                "action": "手持勺子，微笑",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴微张"
+            }
+        ],
+        "background": "白色桌面",
+        "description_narrative": "近景俯拍萌萌，她开心地笑着说知道哥哥最疼她，然后转头对妈妈说吃饱了。",
+        "dialogue": "就知道哥哥最疼我了。妈我吃饱了",
+        "speaker": "萌萌",
+        "emotion": "开心",
+        "duration": 4.93,
+        "description_visual": "近景俯拍镜头；白色桌面；画面中央人物，身穿黑色吊带背心，手持勺子，微笑，表情：眉毛舒展，眼睛眯起笑，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "萌萌",
+                "gender": "女",
+                "clothing": "黑色吊带背心",
+                "position": "画面中央",
+                "action": "转身离开座位",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁，模糊背景",
+        "description_narrative": "中近景跟拍萌萌，她起身离开座位，说要回屋收拾东西，和哥哥去上班，动作轻快。",
+        "dialogue": "那我回屋收拾下东西，和哥哥上班去了。",
+        "speaker": "萌萌",
+        "emotion": "轻快",
+        "duration": 4.37,
+        "description_visual": "中近景侧拍镜头（跟拍）；白色墙壁，模糊背景；画面中央人物，身穿黑色吊带背心，转身离开座位，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "手持筷子，眼神看向右侧",
+                "expression": "眉毛微蹙，眼神怀疑，嘴巴微张"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景镜头对准妈妈，她看着两人离去的背影，眉头紧锁，眼神中充满怀疑和不满。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "怀疑",
+        "duration": 0.7,
+        "description_visual": "近景平拍镜头；淡蓝色墙壁；画面中央人物，身穿白色无袖上衣，手持筷子，眼神看向右侧，表情：眉毛微蹙，眼神怀疑，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妈妈",
+                "gender": "女",
+                "clothing": "白色无袖上衣",
+                "position": "画面中央",
+                "action": "手持筷子，身体微前倾",
+                "expression": "眉毛紧蹙，眼神严厉，嘴巴微张说话"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景镜头持续对准妈妈，她终于忍不住质问两人到底在干嘛，连吃个早饭都不安生。",
+        "dialogue": "你说你们兄妹俩干嘛呢？吃个早饭都不安生。",
+        "speaker": "妈妈",
+        "emotion": "愤怒",
+        "duration": 3.77,
+        "description_visual": "近景平拍镜头；淡蓝色墙壁；画面中央人物，身穿白色无袖上衣，手持筷子，身体微前倾，表情：眉毛紧蹙，眼神严厉，嘴巴微张说话。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "哥哥",
+                "gender": "男",
+                "clothing": "白衬衫搭配蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "低头微笑",
+                "expression": "眉毛舒展，眼睛向下，嘴角上扬"
+            }
+        ],
+        "background": "淡蓝色墙壁",
+        "description_narrative": "近景侧拍哥哥，他低头露出意味深长的笑容，对妈妈说下次坐他旁边就知道了，暗示桌下的秘密。",
+        "dialogue": "阿姨，您下回坐我旁边，你就什么都知道了。",
+        "speaker": "哥哥",
+        "emotion": "意味深长",
+        "duration": 6.1,
+        "description_visual": "近景侧拍镜头；淡蓝色墙壁；画面右侧人物，身穿白衬衫搭配蓝色条纹马甲，低头微笑，表情：眉毛舒展，眼睛向下，嘴角上扬。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色屏幕",
+        "description_narrative": "画面渐黑，视频结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.53,
+        "description_visual": "全景平拍镜头；黑色屏幕。"
+    }
+]

@@ -1,0 +1,490 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景，白色文字",
+        "description_narrative": "黑色背景中央显示白色文字“第四十六集”，画面静止。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.73,
+        "description_visual": "特写平拍镜头；黑色背景，白色文字。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "空姐",
+                "gender": "女",
+                "clothing": "蓝色马甲制服，彩色丝巾，黑色短裙",
+                "position": "画面中央",
+                "action": "站立，身体微侧，嘴巴微张说话",
+                "expression": "眉毛微蹙，眼神关切，嘴巴开合"
+            }
+        ],
+        "background": "昏暗的河边环境，光线不足",
+        "description_narrative": "昏暗的光线下，空姐身穿蓝色马甲制服站在河边，身体微侧，神情关切地叮嘱。",
+        "dialogue": "你和夏语小心点，早点回来。",
+        "speaker": "空姐",
+        "emotion": "关切",
+        "duration": 3.27,
+        "description_visual": "中景平拍镜头；昏暗的河边环境，光线不足；画面中央人物，身穿蓝色马甲制服，彩色丝巾，黑色短裙，站立，身体微侧，嘴巴微张说话，表情：眉毛微蹙，眼神关切，嘴巴开合。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [],
+        "background": "过曝的白色天空或水面，细节模糊",
+        "description_narrative": "镜头对着过曝的白色天空或水面，画面明亮刺眼，作为转场或主观视角。",
+        "dialogue": "我能拉着你吗？可以，你指路就好。谢谢你啊，周正。",
+        "speaker": "夏语/周正",
+        "emotion": "依赖/安抚",
+        "duration": 5.3,
+        "description_visual": "特写平拍镜头（摇镜）；过曝的白色天空或水面，细节模糊。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫，黑色短裤，手持木棍",
+                "position": "画面左侧",
+                "action": "行走，左手持棍，右手被夏语拉着",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙，白色长袜有破损，黑色靴子",
+                "position": "画面右侧",
+                "action": "行走，右手拉着周正左臂，身体微倾向周正",
+                "expression": "眉毛微扬，眼睛看周正，嘴角上扬"
+            }
+        ],
+        "background": "野外草丛小路，远处有树木和水域",
+        "description_narrative": "周正和夏语在野外草丛小路上同行，夏语拉着周正的手臂，周正手持木棍探路，两人边走边聊。",
+        "dialogue": "果子就在前面不远处。",
+        "speaker": "周正",
+        "emotion": "笃定",
+        "duration": 6.2,
+        "description_visual": "全景平拍镜头（跟拍）；野外草丛小路，远处有树木和水域；画面左侧人物，身穿黑色背心外搭白色衬衫，黑色短裤，手持木棍，行走，左手持棍，右手被夏语拉着，表情：眉毛舒展，眼睛直视前方，嘴巴微张；画面右侧人物，身穿白色衬衫灰色百褶裙，白色长袜有破损，黑色靴子，行走，右手拉着周正左臂，身体微倾向周正，表情：眉毛微扬，眼睛看周正，嘴角上扬。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "沙土地面，有少量杂草和黑色管状物",
+        "description_narrative": "镜头俯拍地面，显示沙土和一条黑色的蛇迹或管状物隐藏在草丛边。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "特写俯拍镜头；沙土地面，有少量杂草和黑色管状物。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫，黑色短裤",
+                "position": "画面左侧",
+                "action": "停下脚步，身体微前倾，手拨开草丛",
+                "expression": "眉毛微蹙，眼睛警觉地看向地面，嘴巴紧闭"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙，白色长袜",
+                "position": "画面右侧",
+                "action": "停下脚步，身体后缩，手抓着周正手臂",
+                "expression": "眉毛紧锁，眼睛睁大看向地面，嘴巴微张惊恐"
+            }
+        ],
+        "background": "茂密的绿色灌木丛，光线自然",
+        "description_narrative": "两人躲在灌木丛后，夏语惊恐地发现蛇迹，抓紧周正手臂，周正警觉地查看并安抚她。",
+        "dialogue": "停一下，这里有蛇，哪里，别慌，我们只要绕路就好。",
+        "speaker": "夏语/周正",
+        "emotion": "惊恐/安抚",
+        "duration": 7.93,
+        "description_visual": "中景平拍镜头；茂密的绿色灌木丛，光线自然；画面左侧人物，身穿黑色背心外搭白色衬衫，黑色短裤，停下脚步，身体微前倾，手拨开草丛，表情：眉毛微蹙，眼睛警觉地看向地面，嘴巴紧闭；画面右侧人物，身穿白色衬衫灰色百褶裙，白色长袜，停下脚步，身体后缩，手抓着周正手臂，表情：眉毛紧锁，眼睛睁大看向地面，嘴巴微张惊恐。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫",
+                "position": "画面左侧",
+                "action": "侧身站立，手臂被夏语抓着",
+                "expression": "眉毛微挑，眼睛看夏语，嘴巴微张说话"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面右侧",
+                "action": "双手紧紧抓着周正左臂，身体紧贴",
+                "expression": "眉毛下垂，眼神担忧，嘴巴微颤"
+            }
+        ],
+        "background": "绿色草地背景，虚化",
+        "description_narrative": "夏语双手紧紧抓着周正手臂，一脸担忧地询问是否有危险，周正侧身安抚她紧跟自己。",
+        "dialogue": "没没有危险？紧跟着我就没有危险。走。",
+        "speaker": "夏语/周正",
+        "emotion": "担忧/自信",
+        "duration": 5.63,
+        "description_visual": "中近景平拍镜头；绿色草地背景，虚化；画面左侧人物，身穿黑色背心外搭白色衬衫，侧身站立，手臂被夏语抓着，表情：眉毛微挑，眼睛看夏语，嘴巴微张说话；画面右侧人物，身穿白色衬衫灰色百褶裙，双手紧紧抓着周正左臂，身体紧贴，表情：眉毛下垂，眼神担忧，嘴巴微颤。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [],
+        "background": "茂密的树木和杂草，自然光线",
+        "description_narrative": "镜头扫过路边的树木和杂草，展示周围环境。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.7,
+        "description_visual": "中景平拍镜头（摇镜）；茂密的树木和杂草，自然光线。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "茂密的树木和杂草，自然光线",
+        "description_narrative": "镜头继续展示路边的树木，枝叶繁茂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.53,
+        "description_visual": "中景平拍镜头；茂密的树木和杂草，自然光线。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫，黑色短裤",
+                "position": "画面左侧",
+                "action": "行走，手持木棍",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面右侧",
+                "action": "行走，手拉着周正手臂",
+                "expression": "眉毛微扬，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "野外小路，绿色植被",
+        "description_narrative": "两人继续前行，夏语突然停下指向某处，兴奋地告诉周正找到了。",
+        "dialogue": "哎，就在这里。",
+        "speaker": "夏语",
+        "emotion": "兴奋",
+        "duration": 2.37,
+        "description_visual": "中景平拍镜头（跟拍）；野外小路，绿色植被；画面左侧人物，身穿黑色背心外搭白色衬衫，黑色短裤，行走，手持木棍，表情：眉毛舒展，眼睛看向前方，嘴巴微张；画面右侧人物，身穿白色衬衫灰色百褶裙，行走，手拉着周正手臂，表情：眉毛微扬，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧前景",
+                "action": "抬起右手指向前方树木",
+                "expression": "眉毛上扬，眼睛发亮，嘴巴张开笑"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧背景",
+                "action": "看向夏语指的方向",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "绿色树木，天空",
+        "description_narrative": "过肩镜头，夏语兴奋地指着前方的果树，周正顺着方向看去，两人准备去摘果子。",
+        "dialogue": "走，有果子吃了。",
+        "speaker": "周正",
+        "emotion": "喜悦",
+        "duration": 2.7,
+        "description_visual": "中景过肩镜头；绿色树木，天空；画面左侧前景人物，身穿白色衬衫，抬起右手指向前方树木，表情：眉毛上扬，眼睛发亮，嘴巴张开笑；画面右侧背景人物，身穿白色衬衫，看向夏语指的方向，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫，黑色短裤",
+                "position": "画面左侧",
+                "action": "抬头看树，左手持棍指向上方",
+                "expression": "眉毛上扬，眼睛向上看，嘴巴微张"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面右侧",
+                "action": "抬头看树，右手指向上方",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴大笑"
+            }
+        ],
+        "background": "明亮的天空，树梢",
+        "description_narrative": "低角度仰拍，两人站在树下抬头看果子，兴奋地指着树梢，商量着怎么摘。",
+        "dialogue": "很好，我们分开摘，用衣服装走。",
+        "speaker": "周正",
+        "emotion": "兴奋",
+        "duration": 3.5,
+        "description_visual": "全景仰拍镜头；明亮的天空，树梢；画面左侧人物，身穿黑色背心外搭白色衬衫，黑色短裤，抬头看树，左手持棍指向上方，表情：眉毛上扬，眼睛向上看，嘴巴微张；画面右侧人物，身穿白色衬衫灰色百褶裙，抬头看树，右手指向上方，表情：眉毛舒展，眼睛向上看，嘴巴大笑。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫",
+                "position": "画面左侧",
+                "action": "整理衬衫下摆",
+                "expression": "眉毛微蹙，眼睛看下方，嘴巴微张"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面右侧",
+                "action": "双手拉起衬衫下摆打结",
+                "expression": "眉毛低垂，眼睛看手部动作，嘴巴紧闭专注"
+            }
+        ],
+        "background": "绿色草地背景",
+        "description_narrative": "夏语低头将衬衫下摆拉起打结准备装果子，周正在一旁整理衣服，两人准备分头行动。",
+        "dialogue": "好，没问题，走。",
+        "speaker": "夏语",
+        "emotion": "乖巧",
+        "duration": 1.53,
+        "description_visual": "中近景平拍镜头；绿色草地背景；画面左侧人物，身穿黑色背心外搭白色衬衫，整理衬衫下摆，表情：眉毛微蹙，眼睛看下方，嘴巴微张；画面右侧人物，身穿白色衬衫灰色百褶裙，双手拉起衬衫下摆打结，表情：眉毛低垂，眼睛看手部动作，嘴巴紧闭专注。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫，黑色短裤",
+                "position": "画面左侧",
+                "action": "手持木棍，抬头看",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面右侧",
+                "action": "双手叉腰，抬头看",
+                "expression": "眉毛上扬，眼睛向上看，嘴巴微笑"
+            }
+        ],
+        "background": "天空，草地",
+        "description_narrative": "低角度镜头，两人准备好后，周正持棍，夏语叉腰，抬头看着树上的果子，准备开始采摘。",
+        "dialogue": "这下有果子吃了。",
+        "speaker": "周正",
+        "emotion": "满足",
+        "duration": 2.43,
+        "description_visual": "全景低角度镜头；天空，草地；画面左侧人物，身穿黑色背心外搭白色衬衫，黑色短裤，手持木棍，抬头看，表情：眉毛舒展，眼睛向上看，嘴巴微张；画面右侧人物，身穿白色衬衫灰色百褶裙，双手叉腰，抬头看，表情：眉毛上扬，眼睛向上看，嘴巴微笑。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫，黑色短裤",
+                "position": "画面左侧",
+                "action": "行走，双手捧着绿色果子",
+                "expression": "眉毛舒展，眼睛看前方，嘴巴微笑"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面右侧",
+                "action": "行走，双手拿着绿色果子，正在吃",
+                "expression": "眉毛微扬，眼睛看果子，嘴巴咬果子"
+            }
+        ],
+        "background": "绿色树林背景",
+        "description_narrative": "两人满载而归，周正双手捧着果子，夏语拿着果子边走边吃，脸上洋溢着喜悦。",
+        "dialogue": "终于有果子吃了。",
+        "speaker": "夏语",
+        "emotion": "满足",
+        "duration": 3.23,
+        "description_visual": "全景平拍镜头（跟拍）；绿色树林背景；画面左侧人物，身穿黑色背心外搭白色衬衫，黑色短裤，行走，双手捧着绿色果子，表情：眉毛舒展，眼睛看前方，嘴巴微笑；画面右侧人物，身穿白色衬衫灰色百褶裙，行走，双手拿着绿色果子，正在吃，表情：眉毛微扬，眼睛看果子，嘴巴咬果子。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫",
+                "position": "画面左侧",
+                "action": "行走，手捧果子",
+                "expression": "眉毛舒展，眼睛看夏语，嘴巴微笑"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面右侧",
+                "action": "行走，吃果子",
+                "expression": "眉毛微扬，眼睛看前方，嘴巴咀嚼"
+            }
+        ],
+        "background": "绿色树林背景",
+        "description_narrative": "两人继续行走，周正看着夏语吃果子的样子露出笑容，氛围轻松愉快。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.77,
+        "description_visual": "中近景平拍镜头（跟拍）；绿色树林背景；画面左侧人物，身穿黑色背心外搭白色衬衫，行走，手捧果子，表情：眉毛舒展，眼睛看夏语，嘴巴微笑；画面右侧人物，身穿白色衬衫灰色百褶裙，行走，吃果子，表情：眉毛微扬，眼睛看前方，嘴巴咀嚼。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面中央",
+                "action": "小跑，身体前倾，手拿着果子",
+                "expression": "眉毛微蹙，眼睛看脚下，嘴巴微张"
+            }
+        ],
+        "background": "绿色树林背景，虚化",
+        "description_narrative": "夏语拿着果子小跑，似乎被绊了一下或突然加速，身体前倾。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.43,
+        "description_visual": "中景平拍镜头（跟拍）；绿色树林背景，虚化；画面中央人物，身穿白色衬衫灰色百褶裙，小跑，身体前倾，手拿着果子，表情：眉毛微蹙，眼睛看脚下，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫，黑色短裤",
+                "position": "画面左侧",
+                "action": "行走，手捧果子",
+                "expression": "眉毛微蹙，眼睛看夏语，嘴巴微张"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面右侧",
+                "action": "行走，手拿着果子，身体微晃",
+                "expression": "眉毛微扬，眼睛看周正，嘴巴微张说话"
+            }
+        ],
+        "background": "野外小路，枯黄杂草",
+        "description_narrative": "两人在枯黄杂草丛中的小路上行走，夏语似乎差点摔倒或感叹，周正关切地看着她。",
+        "dialogue": "得亏是你，哎呀。",
+        "speaker": "夏语",
+        "emotion": "庆幸/惊讶",
+        "duration": 0.7,
+        "description_visual": "全景平拍镜头（跟拍）；野外小路，枯黄杂草；画面左侧人物，身穿黑色背心外搭白色衬衫，黑色短裤，行走，手捧果子，表情：眉毛微蹙，眼睛看夏语，嘴巴微张；画面右侧人物，身穿白色衬衫灰色百褶裙，行走，手拿着果子，身体微晃，表情：眉毛微扬，眼睛看周正，嘴巴微张说话。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心外搭白色衬衫，黑色短裤",
+                "position": "画面左侧",
+                "action": "行走，手捧果子",
+                "expression": "眉毛舒展，眼睛看前方，嘴巴说话"
+            },
+            {
+                "name": "夏语",
+                "gender": "女",
+                "clothing": "白色衬衫灰色百褶裙",
+                "position": "画面右侧",
+                "action": "行走，手拿着果子",
+                "expression": "眉毛微扬，眼睛看果子，嘴巴说话"
+            }
+        ],
+        "background": "野外高草丛，自然光线",
+        "description_narrative": "两人在高草丛中行走，周正提议先吃一点，剩下的包好收起来，夏语看着手中的果子表示赞同。",
+        "dialogue": "有浆果了，先吃一点，剩下的都用叶子包住收起来。这么多。",
+        "speaker": "周正/夏语",
+        "emotion": "满足/计划",
+        "duration": 9.1,
+        "description_visual": "全景平拍镜头（跟拍）；野外高草丛，自然光线；画面左侧人物，身穿黑色背心外搭白色衬衫，黑色短裤，行走，手捧果子，表情：眉毛舒展，眼睛看前方，嘴巴说话；画面右侧人物，身穿白色衬衫灰色百褶裙，行走，手拿着果子，表情：眉毛微扬，眼睛看果子，嘴巴说话。"
+    }
+]

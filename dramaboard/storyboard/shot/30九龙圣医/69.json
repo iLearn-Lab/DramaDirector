@@ -1,0 +1,666 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "灰色条纹西装，系红色领带",
+                "position": "画面中央",
+                "action": "双手捂住腹部，身体微躬，面露痛苦神色",
+                "expression": "眉毛紧蹙，眼睛微眯，嘴巴紧闭呈痛苦状"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面右侧前景",
+                "action": "左手搀扶陈风手臂，身体前倾",
+                "expression": "眉毛微皱，眼神关切，嘴巴微张"
+            }
+        ],
+        "background": "户外街道，背景虚化，色调偏紫",
+        "description_narrative": "中景固定镜头，陈风身穿灰色条纹西装，双手捂住腹部，面露痛苦神色。杨千雪身穿白色西装，在旁焦急搀扶，询问陈风状况。",
+        "dialogue": "陈风，你没事吧？我没事，千雪真没事。",
+        "speaker": "杨千雪，陈风",
+        "emotion": "焦急，痛苦",
+        "duration": 3.8,
+        "description_visual": "中景平拍镜头；户外街道，背景虚化，色调偏紫；画面中央人物，身穿灰色条纹西装，系红色领带，双手捂住腹部，身体微躬，面露痛苦神色，表情：眉毛紧蹙，眼睛微眯，嘴巴紧闭呈痛苦状；画面右侧前景人物，身穿白色西装套装，左手搀扶陈风手臂，身体前倾，表情：眉毛微皱，眼神关切，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面中央",
+                "action": "侧身站立，目光担忧地看向画外",
+                "expression": "眉毛紧锁，眼神下垂，嘴唇微抿"
+            }
+        ],
+        "background": "室内或门口背景，模糊",
+        "description_narrative": "近景镜头，杨千雪面带忧色，侧身看着陈风，担心他的伤势。",
+        "dialogue": "我没事如雪真没事",
+        "speaker": "陈风",
+        "emotion": "担忧",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；室内或门口背景，模糊；画面中央人物，身穿白色西装套装，侧身站立，目光担忧地看向画外，表情：眉毛紧锁，眼神下垂，嘴唇微抿。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面左侧",
+                "action": "侧身对着杨千雪，伸手展示手腕",
+                "expression": "眉毛舒展，眼神急切，嘴巴微张说话"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面右侧",
+                "action": "伸手去拉陈风的手腕查看",
+                "expression": "眉毛微挑，眼神专注，嘴巴微张"
+            }
+        ],
+        "background": "门口或走廊，光线明亮",
+        "description_narrative": "中近景侧拍，陈风急切地向杨千雪展示手腕，证明自己没事，杨千雪伸手查看。",
+        "dialogue": "真没事你看",
+        "speaker": "陈风",
+        "emotion": "急切",
+        "duration": 0.6,
+        "description_visual": "中近景侧拍镜头；门口或走廊，光线明亮；画面左侧人物，身穿灰色条纹西装，侧身对着杨千雪，伸手展示手腕，表情：眉毛舒展，眼神急切，嘴巴微张说话；画面右侧人物，身穿白色西装套装，伸手去拉陈风的手腕查看，表情：眉毛微挑，眼神专注，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面中央",
+                "action": "低头查看自己的手腕，手指拨弄袖口",
+                "expression": "眉毛微垂，眼神向下，嘴角微扬"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面右下方",
+                "action": "手伸向陈风手腕",
+                "expression": "眉毛舒展，眼神关注"
+            }
+        ],
+        "background": "户外街道地面",
+        "description_narrative": "俯拍推进镜头，陈风低头展示手腕处的物品，杨千雪的手伸过来查看。",
+        "dialogue": "真没事你看",
+        "speaker": "陈风",
+        "emotion": "轻松",
+        "duration": 1.9,
+        "description_visual": "中景俯拍镜头（推进）；户外街道地面；画面中央人物，身穿灰色条纹西装，低头查看自己的手腕，手指拨弄袖口，表情：眉毛微垂，眼神向下，嘴角微扬；画面右下方人物，身穿白色西装套装，手伸向陈风手腕，表情：眉毛舒展，眼神关注。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "灰色条纹西装袖口",
+                "position": "画面中央",
+                "action": "手掌摊开，展示一个白色玉质护身符",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "模糊的地面背景",
+        "description_narrative": "特写镜头，陈风的手掌摊开，掌心躺着一个白色的玉质护身符，光线柔和。",
+        "dialogue": "这还真是个护身符啊",
+        "speaker": "陈风",
+        "emotion": "惊讶",
+        "duration": 1.98,
+        "description_visual": "特写俯拍镜头；模糊的地面背景；画面中央人物，身穿灰色条纹西装袖口，手掌摊开，展示一个白色玉质护身符，表情：无面部表情。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面中央",
+                "action": "低头看着护身符，神情缓和",
+                "expression": "眉毛舒展，眼神柔和，嘴唇紧闭"
+            }
+        ],
+        "background": "户外背景，虚化",
+        "description_narrative": "近景镜头，杨千雪低头看着护身符，原本担忧的神情逐渐缓和下来。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "安心",
+        "duration": 1.22,
+        "description_visual": "近景平拍镜头；户外背景，虚化；画面中央人物，身穿白色西装套装，低头看着护身符，神情缓和，表情：眉毛舒展，眼神柔和，嘴唇紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面左侧",
+                "action": "微笑着将护身符递给杨千雪",
+                "expression": "眉毛上扬，眼睛含笑，嘴角上扬"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面右侧",
+                "action": "伸手接过护身符",
+                "expression": "眉毛舒展，眼神温柔"
+            }
+        ],
+        "background": "户外街道",
+        "description_narrative": "中近景镜头，陈风微笑着将护身符递给杨千雪，安抚她的情绪，杨千雪伸手接过。",
+        "dialogue": "吓死我了你，哎没事。",
+        "speaker": "杨千雪",
+        "emotion": "嗔怪，安心",
+        "duration": 3.7,
+        "description_visual": "中近景平拍镜头；户外街道；画面左侧人物，身穿灰色条纹西装，微笑着将护身符递给杨千雪，表情：眉毛上扬，眼睛含笑，嘴角上扬；画面右侧人物，身穿白色西装套装，伸手接过护身符，表情：眉毛舒展，眼神温柔。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面左侧",
+                "action": "张开双臂拥抱杨千雪，手抚摸她的头发",
+                "expression": "眉毛舒展，眼睛微闭，嘴角含笑"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面右侧",
+                "action": "靠在陈风怀里，双手环抱陈风腰部",
+                "expression": "脸部被遮挡"
+            }
+        ],
+        "background": "户外街道，背景虚化",
+        "description_narrative": "近景镜头，陈风温柔地拥抱杨千雪，手轻抚她的长发，两人亲密依偎。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "亲密",
+        "duration": 0.3,
+        "description_visual": "近景平拍镜头；户外街道，背景虚化；画面左侧人物，身穿灰色条纹西装，张开双臂拥抱杨千雪，手抚摸她的头发，表情：眉毛舒展，眼睛微闭，嘴角含笑；画面右侧人物，身穿白色西装套装，靠在陈风怀里，双手环抱陈风腰部，表情：脸部被遮挡。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面左侧",
+                "action": "保持拥抱姿势，面带微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面右侧",
+                "action": "头靠在陈风肩上",
+                "expression": "脸部被遮挡"
+            }
+        ],
+        "background": "户外街道",
+        "description_narrative": "近景镜头，陈风拥抱着杨千雪，脸上露出满足的微笑，轻声说好。",
+        "dialogue": "好。",
+        "speaker": "陈风",
+        "emotion": "满足",
+        "duration": 0.32,
+        "description_visual": "近景平拍镜头；户外街道；画面左侧人物，身穿灰色条纹西装，保持拥抱姿势，面带微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬；画面右侧人物，身穿白色西装套装，头靠在陈风肩上，表情：脸部被遮挡。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "白色衬衫，躺在床上",
+                "position": "画面左侧床上",
+                "action": "躺在床上，闭着眼睛",
+                "expression": "双眼紧闭，表情平静"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "床边",
+                "action": "坐在床边，手放在被子上",
+                "expression": "神情严肃"
+            },
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙",
+                "position": "画面右侧",
+                "action": "站立，看着床上的陈风",
+                "expression": "眉毛微蹙，眼神疑惑"
+            }
+        ],
+        "background": "卧室，光线较暗，有床和挂画",
+        "description_narrative": "全景镜头，卧室内光线昏暗，陈风躺在床上装睡，杨千雪坐在床边，杨安娜站在一旁疑惑地看着。",
+        "dialogue": "姐。",
+        "speaker": "杨安娜",
+        "emotion": "疑惑",
+        "duration": 1.12,
+        "description_visual": "全景平拍镜头；卧室，光线较暗，有床和挂画；画面左侧床上人物，身穿白色衬衫，躺在床上，躺在床上，闭着眼睛，表情：双眼紧闭，表情平静；床边人物，身穿白色西装套装，坐在床边，手放在被子上，表情：神情严肃；画面右侧人物，身穿粉色碎花连衣裙，站立，看着床上的陈风，表情：眉毛微蹙，眼神疑惑。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙，戴长款耳环",
+                "position": "画面中央",
+                "action": "双手交握在身前，身体微前倾",
+                "expression": "眉毛紧锁，眼神困惑，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，窗帘",
+        "description_narrative": "中景镜头，杨安娜身穿粉色碎花裙，双手交握，疑惑地问姐姐为什么陈风没事还要装受伤。",
+        "dialogue": "姐陈风不是没怎么样吗",
+        "speaker": "杨安娜",
+        "emotion": "困惑",
+        "duration": 1.88,
+        "description_visual": "中景平拍镜头；卧室背景，窗帘；画面中央人物，身穿粉色碎花连衣裙，戴长款耳环，双手交握在身前，身体微前倾，表情：眉毛紧锁，眼神困惑，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "躺在床上，双眼紧闭，手放在胸口",
+                "expression": "眉毛舒展，呼吸平稳，假装沉睡"
+            }
+        ],
+        "background": "床头，枕头",
+        "description_narrative": "近景侧拍，陈风躺在床上，双眼紧闭，手放在胸口，假装受伤严重在休息。",
+        "dialogue": "为什么还让他装受伤啊",
+        "speaker": "杨安娜",
+        "emotion": "不解",
+        "duration": 1.4,
+        "description_visual": "近景侧拍镜头；床头，枕头；画面中央人物，身穿白色衬衫，躺在床上，双眼紧闭，手放在胸口，表情：眉毛舒展，呼吸平稳，假装沉睡。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面左侧",
+                "action": "坐在床边，转头看向杨安娜",
+                "expression": "眉毛平直，眼神严肃，嘴唇紧闭"
+            },
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙",
+                "position": "画面右侧前景",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室，黄色墙壁，台灯",
+        "description_narrative": "过肩镜头，杨千雪坐在床边，神情严肃地看向杨安娜，示意她不要多问。",
+        "dialogue": "为什么还让他装受伤啊",
+        "speaker": "杨安娜",
+        "emotion": "严肃",
+        "duration": 2.9,
+        "description_visual": "中近景过肩镜头；卧室，黄色墙壁，台灯；画面左侧人物，身穿白色西装套装，坐在床边，转头看向杨安娜，表情：眉毛平直，眼神严肃，嘴唇紧闭；画面右侧前景人物，身穿粉色碎花连衣裙，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙",
+                "position": "画面中央",
+                "action": "站立，双手下垂，眼神看向下方",
+                "expression": "眉毛微垂，眼神顺从，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "中景镜头，杨安娜听话地低下头，不再说话，等待接下来的发展。",
+        "dialogue": "少说话，一会你就知道了。",
+        "speaker": "杨千雪",
+        "emotion": "神秘",
+        "duration": 2.48,
+        "description_visual": "中景平拍镜头；卧室背景；画面中央人物，身穿粉色碎花连衣裙，站立，双手下垂，眼神看向下方，表情：眉毛微垂，眼神顺从，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "二叔",
+                "gender": "男",
+                "clothing": "黑白格子衬衫，戴墨镜",
+                "position": "画面右侧门口",
+                "action": "挽着黑衣女子走进房间",
+                "expression": "墨镜遮眼，嘴角微扬"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙配白色泡泡袖外套",
+                "position": "画面左侧门口",
+                "action": "被二叔挽着手臂走进房间",
+                "expression": "表情平淡"
+            }
+        ],
+        "background": "卧室门口，木门",
+        "description_narrative": "全景镜头，二叔戴着墨镜，挽着一位黑衣女子从门口走进卧室，声称听说陈风受伤了。",
+        "dialogue": "听说陈风受伤了。",
+        "speaker": "二叔",
+        "emotion": "虚伪",
+        "duration": 6.72,
+        "description_visual": "全景平拍镜头；卧室门口，木门；画面右侧门口人物，身穿黑白格子衬衫，戴墨镜，挽着黑衣女子走进房间，表情：墨镜遮眼，嘴角微扬；画面左侧门口人物，身穿黑色连衣裙配白色泡泡袖外套，被二叔挽着手臂走进房间，表情：表情平淡。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面中央",
+                "action": "坐在床边，抬头看向门口",
+                "expression": "眉毛微挑，眼神审视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，床头灯",
+        "description_narrative": "中近景镜头，杨千雪坐在床边，抬头看向刚进门的二叔，言语中带着一丝试探。",
+        "dialogue": "二叔来的很及时嘛，你怎么知道陈风受伤了呀？",
+        "speaker": "杨千雪",
+        "emotion": "试探",
+        "duration": 3.8,
+        "description_visual": "中近景平拍镜头；卧室，床头灯；画面中央人物，身穿白色西装套装，坐在床边，抬头看向门口，表情：眉毛微挑，眼神审视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "二叔",
+                "gender": "男",
+                "clothing": "黑白格子衬衫，戴墨镜",
+                "position": "画面中央",
+                "action": "站在床边，双手插兜，身体微晃",
+                "expression": "墨镜遮眼，下巴微抬"
+            }
+        ],
+        "background": "卧室门口",
+        "description_narrative": "仰拍镜头，二叔站在床边，双手插兜，面对杨千雪的质问显得有些迟疑。",
+        "dialogue": "你怎么知道陈风受伤了呀",
+        "speaker": "杨千雪",
+        "emotion": "质疑",
+        "duration": 2.3,
+        "description_visual": "中景仰拍镜头；卧室门口；画面中央人物，身穿黑白格子衬衫，戴墨镜，站在床边，双手插兜，身体微晃，表情：墨镜遮眼，下巴微抬。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "二叔",
+                "gender": "男",
+                "clothing": "黑白格子衬衫",
+                "position": "画面右侧",
+                "action": "侧身看向黑衣女子，手摸下巴",
+                "expression": "嘴巴微张，似在思考措辞"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙配白色泡泡袖外套",
+                "position": "画面左侧",
+                "action": "站在二叔身旁",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "卧室门口",
+        "description_narrative": "中近景镜头，二叔被问住，侧身看向黑衣女子，发出迟疑的声音。",
+        "dialogue": "啊，这。",
+        "speaker": "二叔",
+        "emotion": "迟疑",
+        "duration": 0.44,
+        "description_visual": "中近景平拍镜头；卧室门口；画面右侧人物，身穿黑白格子衬衫，侧身看向黑衣女子，手摸下巴，表情：嘴巴微张，似在思考措辞；画面左侧人物，身穿黑色连衣裙配白色泡泡袖外套，站在二叔身旁，表情：表情严肃。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙配白色泡泡袖外套，戴珍珠项链",
+                "position": "画面左侧",
+                "action": "上前一步，语气强硬地说话",
+                "expression": "眉毛微蹙，眼神犀利，嘴巴微张"
+            },
+            {
+                "name": "二叔",
+                "gender": "男",
+                "clothing": "黑白格子衬衫",
+                "position": "画面右侧",
+                "action": "站在身后",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "卧室",
+        "description_narrative": "中景镜头，黑衣女子上前一步，替二叔解围，指责杨千雪不该质疑二叔的好意。",
+        "dialogue": "杨千雪我爸好心好意看望陈风",
+        "speaker": "黑衣女子",
+        "emotion": "愤怒",
+        "duration": 4.74,
+        "description_visual": "中景平拍镜头；卧室；画面左侧人物，身穿黑色连衣裙配白色泡泡袖外套，戴珍珠项链，上前一步，语气强硬地说话，表情：眉毛微蹙，眼神犀利，嘴巴微张；画面右侧人物，身穿黑白格子衬衫，站在身后，表情：表情严肃。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙",
+                "position": "画面中央",
+                "action": "侧身站立，双手交握，眼神不屑",
+                "expression": "眉毛微挑，眼神斜视，嘴角下撇"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "中景镜头，杨安娜站在一旁，双手交握，冷冷地表示没人求他们来看。",
+        "dialogue": "也没人求你们来看。",
+        "speaker": "杨安娜",
+        "emotion": "不屑",
+        "duration": 3.2,
+        "description_visual": "中景平拍镜头；卧室背景；画面中央人物，身穿粉色碎花连衣裙，侧身站立，双手交握，眼神不屑，表情：眉毛微挑，眼神斜视，嘴角下撇。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙配白色泡泡袖外套",
+                "position": "画面左侧",
+                "action": "双手抱胸，身体前倾，指责杨安娜",
+                "expression": "眉毛紧锁，眼神严厉，嘴巴微张"
+            }
+        ],
+        "background": "卧室",
+        "description_narrative": "中景镜头，黑衣女子双手抱胸，严厉地训斥杨安娜没有礼貌，不懂规矩。",
+        "dialogue": "你怎么说话呢？这是你跟堂姐说话的态度吗？真不知道杨千雪平时怎么教你。",
+        "speaker": "黑衣女子",
+        "emotion": "愤怒",
+        "duration": 6.14,
+        "description_visual": "中景平拍镜头；卧室；画面左侧人物，身穿黑色连衣裙配白色泡泡袖外套，双手抱胸，身体前倾，指责杨安娜，表情：眉毛紧锁，眼神严厉，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙",
+                "position": "画面中央",
+                "action": "双手抱胸，身体微侧，眼神 defiant",
+                "expression": "眉毛上扬，眼神倔强，嘴角紧闭"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "中景镜头，杨安娜双手抱胸，毫不示弱地回击，表示姐姐教得好，不像对方没礼貌。",
+        "dialogue": "杨安娜我姐姐再怎么教我啊，也不像你一样没礼貌",
+        "speaker": "杨安娜",
+        "emotion": " defiant",
+        "duration": 5.42,
+        "description_visual": "中景平拍镜头；卧室背景；画面中央人物，身穿粉色碎花连衣裙，双手抱胸，身体微侧，眼神 defiant，表情：眉毛上扬，眼神倔强，嘴角紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙配白色泡泡袖外套",
+                "position": "画面左侧",
+                "action": "身体前倾，手指指向杨安娜方向",
+                "expression": "眉毛倒竖，眼神愤怒，嘴巴张大"
+            },
+            {
+                "name": "二叔",
+                "gender": "男",
+                "clothing": "黑白格子衬衫",
+                "position": "画面右侧",
+                "action": "站在身后，表情惊讶",
+                "expression": "嘴巴微张"
+            }
+        ],
+        "background": "卧室",
+        "description_narrative": "中景镜头，黑衣女子被激怒，上前一步指着杨安娜，厉声质问她说什么。",
+        "dialogue": "你说什么？",
+        "speaker": "黑衣女子",
+        "emotion": "暴怒",
+        "duration": 2.04,
+        "description_visual": "中景平拍镜头；卧室；画面左侧人物，身穿黑色连衣裙配白色泡泡袖外套，身体前倾，手指指向杨安娜方向，表情：眉毛倒竖，眼神愤怒，嘴巴张大；画面右侧人物，身穿黑白格子衬衫，站在身后，表情惊讶，表情：嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "二叔",
+                "gender": "男",
+                "clothing": "黑白格子衬衫",
+                "position": "画面右侧",
+                "action": "伸出手臂阻拦，身体转向床的方向",
+                "expression": "眉毛舒展，嘴巴微张，试图调解"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙配白色泡泡袖外套",
+                "position": "画面左侧",
+                "action": "站在二叔身旁，怒气未消",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "卧室床边",
+        "description_narrative": "中景镜头，二叔伸出手臂拦住黑衣女子，试图平息争吵，转而询问床上陈风的伤势。",
+        "dialogue": "好了，别吵了。陈风，你伤势怎么样啊？",
+        "speaker": "二叔",
+        "emotion": "调解",
+        "duration": 9.06,
+        "description_visual": "中景平拍镜头；卧室床边；画面右侧人物，身穿黑白格子衬衫，伸出手臂阻拦，身体转向床的方向，表情：眉毛舒展，嘴巴微张，试图调解；画面左侧人物，身穿黑色连衣裙配白色泡泡袖外套，站在二叔身旁，怒气未消，表情：表情严肃。"
+    }
+]

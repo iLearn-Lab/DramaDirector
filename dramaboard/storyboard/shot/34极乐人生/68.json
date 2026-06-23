@@ -1,0 +1,693 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "从楼梯上方走下，步伐沉稳",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "昏暗的楼梯间，顶部有射灯，左侧有竖条纹装饰墙",
+        "description_narrative": "低角度跟拍镜头，赌王身穿深蓝色西装，佩戴玉石项链，从昏暗的楼梯上方走下，神情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.4,
+        "description_visual": "全景低角度镜头（跟拍）；昏暗的楼梯间，顶部有射灯，左侧有竖条纹装饰墙；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，从楼梯上方走下，步伐沉稳，表情：眉毛平展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黄色紧身连衣裙，白色礼帽",
+                "position": "画面左侧",
+                "action": "背对镜头，身体微倾向门",
+                "expression": "不可见"
+            },
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面右侧",
+                "action": "背对镜头，站在门前",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内走廊，深色木门，右侧有木质衣帽架，大理石地面",
+        "description_narrative": "中景固定镜头，陈小姐身穿黄色连衣裙和青年男子身穿蓝色马甲背对镜头站在一扇深色木门前，似乎遇到阻碍。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.33,
+        "description_visual": "中景平拍镜头；室内走廊，深色木门，右侧有木质衣帽架，大理石地面；画面左侧人物，身穿黄色紧身连衣裙，白色礼帽，背对镜头，身体微倾向门，表情：不可见；画面右侧人物，身穿白色衬衫，蓝色条纹马甲，背对镜头，站在门前，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "双手整理衣领，头部微仰",
+                "expression": "眉毛微蹙，眼睛半眯，嘴巴微张似在解释"
+            }
+        ],
+        "background": "模糊的暖色调背景",
+        "description_narrative": "仰拍特写镜头，青年男子双手整理衣领，表情略显局促，解释门打不开的情况。",
+        "dialogue": "这门不知道怎么着就打不开了，陈小姐试半天了也没弄开。",
+        "speaker": "青年男子",
+        "emotion": "尴尬",
+        "duration": 4.5,
+        "description_visual": "特写仰拍镜头；模糊的暖色调背景；画面中央人物，身穿白色衬衫，蓝色条纹马甲，双手整理衣领，头部微仰，表情：眉毛微蹙，眼睛半眯，嘴巴微张似在解释。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黄色紧身连衣裙，白色礼帽",
+                "position": "画面右侧",
+                "action": "侧身站立，手持蓝色文件夹",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "灰色墙面",
+        "description_narrative": "侧面特写镜头，陈小姐头戴白色礼帽，手持蓝色文件夹，附和着关于门锁的对话。",
+        "dialogue": "是呀，这锁早该修了。",
+        "speaker": "陈小姐",
+        "emotion": "无奈",
+        "duration": 2.97,
+        "description_visual": "特写平拍镜头；灰色墙面；画面右侧人物，身穿黄色紧身连衣裙，白色礼帽，侧身站立，手持蓝色文件夹，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黄色紧身连衣裙，白色礼帽",
+                "position": "画面左侧",
+                "action": "站在门前",
+                "expression": "不可见"
+            },
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "站在门前",
+                "expression": "不可见"
+            },
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套",
+                "position": "画面右侧边缘",
+                "action": "走入画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内走廊，深色木门，右侧有木质衣帽架",
+        "description_narrative": "中景镜头，赌王从右侧入画，站在两人身后，对门锁问题发表评论。",
+        "dialogue": "是该修了。",
+        "speaker": "赌王",
+        "emotion": "平静",
+        "duration": 1.53,
+        "description_visual": "中景平拍镜头；室内走廊，深色木门，右侧有木质衣帽架；画面左侧人物，身穿黄色紧身连衣裙，白色礼帽，站在门前，表情：不可见；画面中央人物，身穿白色衬衫，蓝色条纹马甲，站在门前，表情：不可见；画面右侧边缘人物，身穿深蓝色西装外套，走入画面，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "看着陈小姐",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微动"
+            }
+        ],
+        "background": "模糊的室内背景，左侧有竖条纹装饰",
+        "description_narrative": "近景镜头，赌王转头看向陈小姐，询问文件是否找到。",
+        "dialogue": "你的文件找到了吗？",
+        "speaker": "赌王",
+        "emotion": "询问",
+        "duration": 1.7,
+        "description_visual": "近景平拍镜头；模糊的室内背景，左侧有竖条纹装饰；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，看着陈小姐，表情：眉毛微挑，眼睛注视对方，嘴巴微动。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黄色紧身连衣裙，白色礼帽",
+                "position": "画面中央",
+                "action": "举起手中的蓝色文件夹",
+                "expression": "眉毛舒展，眼睛明亮，嘴角上扬微笑"
+            }
+        ],
+        "background": "灰色墙面",
+        "description_narrative": "近景镜头，陈小姐面带微笑，展示手中的蓝色文件夹，表示文件已找到。",
+        "dialogue": "在这呢。",
+        "speaker": "陈小姐",
+        "emotion": "轻松",
+        "duration": 1.57,
+        "description_visual": "近景平拍镜头；灰色墙面；画面中央人物，身穿黄色紧身连衣裙，白色礼帽，举起手中的蓝色文件夹，表情：眉毛舒展，眼睛明亮，嘴角上扬微笑。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "低头吩咐",
+                "expression": "眉毛微垂，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，赌王神情严肃，吩咐陈小姐将文件交给司机并在后院等待。",
+        "dialogue": "去拿给司机在后院等我。",
+        "speaker": "赌王",
+        "emotion": "命令",
+        "duration": 1.87,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，低头吩咐，表情：眉毛微垂，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黄色紧身连衣裙，白色礼帽",
+                "position": "画面中央",
+                "action": "微微点头",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张应答"
+            }
+        ],
+        "background": "灰色墙面",
+        "description_narrative": "近景镜头，陈小姐顺从地点头答应，准备离开。",
+        "dialogue": "哦好嘞。",
+        "speaker": "陈小姐",
+        "emotion": "顺从",
+        "duration": 2.37,
+        "description_visual": "近景平拍镜头；灰色墙面；画面中央人物，身穿黄色紧身连衣裙，白色礼帽，微微点头，表情：眉毛舒展，眼睛下视，嘴巴微张应答。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面左侧",
+                "action": "身体局部入画",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的灰色背景",
+        "description_narrative": "镜头快速摇过，画面模糊，过渡到下一场景。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的灰色背景；画面左侧人物，身穿白色衬衫，蓝色条纹马甲，身体局部入画，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "看着青年男子",
+                "expression": "眉毛微蹙，眼睛眯起，嘴巴微动"
+            }
+        ],
+        "background": "室内背景，左侧有竖条纹装饰",
+        "description_narrative": "近景镜头，赌王盯着青年男子，提起传闻中他无所不能的双手。",
+        "dialogue": "听孙芸说你小子这双手无所不能啊。",
+        "speaker": "赌王",
+        "emotion": "审视",
+        "duration": 4.4,
+        "description_visual": "近景平拍镜头；室内背景，左侧有竖条纹装饰；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，看着青年男子，表情：眉毛微蹙，眼睛眯起，嘴巴微动。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "直视对方",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "灰色墙面",
+        "description_narrative": "近景镜头，青年男子表情严肃，否认自己无所不能，称只是推销时的吹嘘。",
+        "dialogue": "哪有什么无所不能啊，我当时为了推销我自己吹的。",
+        "speaker": "青年男子",
+        "emotion": "谦虚/紧张",
+        "duration": 7.1,
+        "description_visual": "近景平拍镜头；灰色墙面；画面中央人物，身穿白色衬衫，蓝色条纹马甲，直视对方，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "身体前倾",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，赌王不信，追问既然不是无所不能，那是否能看病。",
+        "dialogue": "就算不是无所不能，那也能看病吧，她说你很能看病的。",
+        "speaker": "赌王",
+        "emotion": "怀疑",
+        "duration": 5.1,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，身体前倾，表情：眉毛紧锁，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "眼神游移",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "灰色墙面",
+        "description_narrative": "近景镜头，青年男子眼神闪烁，含糊其辞地承认还行。",
+        "dialogue": "啊那还行那还行。",
+        "speaker": "青年男子",
+        "emotion": "心虚",
+        "duration": 3.27,
+        "description_visual": "近景平拍镜头；灰色墙面；画面中央人物，身穿白色衬衫，蓝色条纹马甲，眼神游移，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "凑近",
+                "expression": "眉毛压低，眼睛直视，嘴巴微动"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，赌王进一步逼近，压低声音询问能否看男科。",
+        "dialogue": "能看男科吗？",
+        "speaker": "赌王",
+        "emotion": "隐秘",
+        "duration": 2.07,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，凑近，表情：眉毛压低，眼睛直视，嘴巴微动。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "眼神惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "灰色墙面",
+        "description_narrative": "近景镜头，青年男子露出惊讶的表情，结巴地称呼赌王。",
+        "dialogue": "呃赌王您是。",
+        "speaker": "青年男子",
+        "emotion": "震惊",
+        "duration": 4.47,
+        "description_visual": "近景平拍镜头；灰色墙面；画面中央人物，身穿白色衬衫，蓝色条纹马甲，眼神惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面右侧",
+                "action": "转头看向四周",
+                "expression": "眉毛舒展，眼睛扫视，嘴巴微动"
+            }
+        ],
+        "background": "室内背景，左侧有竖条纹装饰",
+        "description_narrative": "侧面近景镜头，赌王转头确认周围无人，透露好不容易支开了其他人。",
+        "dialogue": "好不容易把他俩都支开了。",
+        "speaker": "赌王",
+        "emotion": "谨慎",
+        "duration": 5.63,
+        "description_visual": "近景侧拍镜头；室内背景，左侧有竖条纹装饰；画面右侧人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，转头看向四周，表情：眉毛舒展，眼睛扫视，嘴巴微动。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "低头示意",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，赌王急切地让青年男子快点给他检查。",
+        "dialogue": "你快给我看看。",
+        "speaker": "赌王",
+        "emotion": "急切",
+        "duration": 2.3,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，低头示意，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "低头查看",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微动"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "俯拍近景镜头，青年男子低头假装检查，开始发表评价。",
+        "dialogue": "啊单从这个",
+        "speaker": "青年男子",
+        "emotion": "专业/假装",
+        "duration": 2.17,
+        "description_visual": "近景俯拍镜头；灰色背景；画面中央人物，身穿白色衬衫，蓝色条纹马甲，低头查看，表情：眉毛微蹙，眼睛下视，嘴巴微动。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "等待评价",
+                "expression": "眉毛紧锁，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，赌王神情严肃地等待诊断，画外传来青年男子评价自然状态大小不错。",
+        "dialogue": "自然状态下这个大小还是不错。",
+        "speaker": "青年男子 (画外音)",
+        "emotion": "严肃",
+        "duration": 2.97,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，等待评价，表情：眉毛紧锁，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "眼神游移",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "近景镜头，青年男子表情尴尬，画外传来赌王不满的声音，质问能否再战雄风。",
+        "dialogue": "谁跟你说这个了？我问你还能不能再战雄风了？",
+        "speaker": "赌王 (画外音)",
+        "emotion": "尴尬/不悦",
+        "duration": 5.37,
+        "description_visual": "近景平拍镜头；灰色背景；画面中央人物，身穿白色衬衫，蓝色条纹马甲，眼神游移，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "注视对方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，赌王盯着青年男子，画外传来青年男子称家有祖传秘方。",
+        "dialogue": "呃，我家有一副祖传的秘方。",
+        "speaker": "青年男子 (画外音)",
+        "emotion": "期待",
+        "duration": 3.87,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，注视对方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "抬头说话",
+                "expression": "眉毛舒展，眼睛明亮，嘴巴微张"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "近景镜头，青年男子自信地表示可以试试。",
+        "dialogue": "可以给您试试。",
+        "speaker": "青年男子",
+        "emotion": "自信",
+        "duration": 1.13,
+        "description_visual": "近景平拍镜头；灰色背景；画面中央人物，身穿白色衬衫，蓝色条纹马甲，抬头说话，表情：眉毛舒展，眼睛明亮，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "侧头倾听",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，赌王侧头倾听，画外传来青年男子说应该还可以。",
+        "dialogue": "应该还可以。",
+        "speaker": "青年男子 (画外音)",
+        "emotion": " hopeful",
+        "duration": 1.07,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，侧头倾听，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "抿嘴",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "近景镜头，青年男子抿嘴倾听，画外传来赌王承诺若治好他便视其为兄弟。",
+        "dialogue": "如果你小子治好了我，你就是我兄弟。",
+        "speaker": "赌王 (画外音)",
+        "emotion": "认真",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；灰色背景；画面中央人物，身穿白色衬衫，蓝色条纹马甲，抿嘴，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑色衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "抬头许诺",
+                "expression": "眉毛舒展，眼睛上视，嘴巴微动"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "近景镜头，赌王抬头许诺，表示以后的所有事都包在他身上。",
+        "dialogue": "以后所有的事。",
+        "speaker": "赌王",
+        "emotion": "豪爽",
+        "duration": 1.87,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿深蓝色西装外套，黑色衬衫，玉石项链，抬头许诺，表情：眉毛舒展，眼睛上视，嘴巴微动。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "眼神试探",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "近景镜头，青年男子眼神试探，画外传来赌王保证他没事。",
+        "dialogue": "包你没事。",
+        "speaker": "赌王 (画外音)",
+        "emotion": "试探",
+        "duration": 1.83,
+        "description_visual": "近景平拍镜头；灰色背景；画面中央人物，身穿白色衬衫，蓝色条纹马甲，眼神试探，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "大胆发问",
+                "expression": "眉毛上扬，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "近景镜头，青年男子大胆试探，询问是否包括睡赌王的媳妇。",
+        "dialogue": "那我要睡您媳妇也可以吗。",
+        "speaker": "青年男子",
+        "emotion": "大胆/荒诞",
+        "duration": 2.83,
+        "description_visual": "近景平拍镜头；灰色背景；画面中央人物，身穿白色衬衫，蓝色条纹马甲，大胆发问，表情：眉毛上扬，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹马甲",
+                "position": "画面中央",
+                "action": "面部隐入黑暗",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑暗",
+        "description_narrative": "特写镜头，画面逐渐变暗，青年男子的脸隐入黑暗中，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.7,
+        "description_visual": "特写平拍镜头；黑暗；画面中央人物，身穿白色衬衫，蓝色条纹马甲，面部隐入黑暗，表情：不可见。"
+    }
+]

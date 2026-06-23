@@ -1,0 +1,634 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "侧脸靠近女性",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "侧脸靠近男性，手搭在男性肩上",
+                "expression": "眉毛舒展，眼睛注视男性，嘴巴微闭"
+            }
+        ],
+        "background": "金色光斑背景，带有剧名标题文字",
+        "description_narrative": "特写镜头，画面为剧集标题卡，背景虚化呈现金色光斑，一男一女深情对视，男子身穿深色西装，女子身穿白色上衣，手搭在男子肩上，画面中央显示剧名及集数。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；金色光斑背景，带有剧名标题文字；画面右侧人物，身穿深色西装，侧脸靠近女性，表情：眉毛舒展，眼睛微闭，嘴巴微张；画面左侧人物，身穿白色上衣，侧脸靠近男性，手搭在男性肩上，表情：眉毛舒展，眼睛注视男性，嘴巴微闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，条纹衬衫",
+                "position": "画面左侧",
+                "action": "站立，双手交握在身前，低头看床",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面中央偏左",
+                "action": "站立，双手自然下垂，低头看床",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面右侧床上",
+                "action": "平躺，双眼紧闭，双手放在腹部",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，蓝色地板，米色窗帘，床头有输液架",
+        "description_narrative": "全景镜头，医院病房内，灰西装男和白衣女子站在病床边，陆总躺在病床上昏迷，两人神情担忧地看着他，白衣女子开口询问何时能醒。",
+        "dialogue": "这都已经第三天了，什么时候能醒过来啊？",
+        "speaker": "白衣女子",
+        "emotion": "担忧",
+        "duration": 4.96,
+        "description_visual": "全景平拍镜头；医院病房，蓝色地板，米色窗帘，床头有输液架；画面左侧人物，身穿灰色格纹西装，条纹衬衫，站立，双手交握在身前，低头看床，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面中央偏左人物，身穿米白色系带衬衫，棕色短裙，站立，双手自然下垂，低头看床，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面右侧床上人物，身穿紫白条纹病号服，平躺，双眼紧闭，双手放在腹部，表情：眉毛舒展，眼睛紧闭，嘴巴微闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，条纹衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微向前倾，双手交握",
+                "expression": "眉毛紧锁，眼睛微眯，嘴巴微张呈 pleading 状"
+            }
+        ],
+        "background": "医院病房，米色窗帘背景",
+        "description_narrative": "中近景镜头，灰西装男神情焦急，眉头紧锁，身体微向前倾，双手交握在身前，对着病床上的陆总 pleading，希望他快点醒来。",
+        "dialogue": "陆总，我的好陆总，你什么时候才能醒啊？",
+        "speaker": "灰西装男",
+        "emotion": "焦急",
+        "duration": 3.28,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘背景；画面中央人物，身穿灰色格纹西装，条纹衬衫，站立，身体微向前倾，双手交握，表情：眉毛紧锁，眼睛微眯，嘴巴微张呈 pleading 状。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，条纹衬衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向一侧",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，米色窗帘背景",
+        "description_narrative": "中近景镜头，灰西装男头部微侧，眼神看向一侧，继续对着陆总说话，表情略带夸张和焦急。",
+        "dialogue": "陆总我的好陆总",
+        "speaker": "灰西装男",
+        "emotion": "焦急",
+        "duration": 8.64,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘背景；画面中央人物，身穿灰色格纹西装，条纹衬衫，站立，头部微侧，眼神看向一侧，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂，眼神下视",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，米色窗帘背景",
+        "description_narrative": "中近景镜头，白衣女子神情担忧，眉头微蹙，眼神下视，向陆总讲述夫人为了照顾他几天没合眼，希望他心疼夫人赶紧醒来。",
+        "dialogue": "夫人为了照顾你，都好几天没合眼了。就是啊陆总，你要是真心疼她的话，就赶紧醒过来啊。",
+        "speaker": "白衣女子",
+        "emotion": "担忧",
+        "duration": 6.28,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘背景；画面中央人物，身穿米白色系带衬衫，棕色短裙，站立，双手自然下垂，眼神下视，表情：眉毛微蹙，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，条纹衬衫",
+                "position": "画面中央",
+                "action": "站立，眼神看向病床方向",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，米色窗帘背景",
+        "description_narrative": "中近景镜头，灰西装男眼神看向病床方向，表情略带无奈和焦急，提到自己打赌快输了，催促陆总醒来。",
+        "dialogue": "陆总，我这打赌都快输了。",
+        "speaker": "灰西装男",
+        "emotion": "无奈",
+        "duration": 10.24,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘背景；画面中央人物，身穿灰色格纹西装，条纹衬衫，站立，眼神看向病床方向，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，条纹衬衫",
+                "position": "画面左侧",
+                "action": "站立，身体微向前倾",
+                "expression": "眉毛微蹙，眼睛看床，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面中央偏左",
+                "action": "站立，转头看向灰西装男",
+                "expression": "眉毛微蹙，眼睛看男，嘴巴微张"
+            },
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面右侧床上",
+                "action": "平躺，双眼紧闭",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，蓝色地板，米色窗帘",
+        "description_narrative": "全景镜头，灰西装男 leaning over 病床，说自己的人生大事全靠陆总，白衣女子转头斥责他瞎说，气氛紧张。",
+        "dialogue": "我这人生大事，全靠你一哆嗦了。拜托陆总快醒过来。瞎说什么呢你。",
+        "speaker": "灰西装男",
+        "emotion": "焦急",
+        "duration": 1.08,
+        "description_visual": "全景平拍镜头；医院病房，蓝色地板，米色窗帘；画面左侧人物，身穿灰色格纹西装，条纹衬衫，站立，身体微向前倾，表情：眉毛微蹙，眼睛看床，嘴巴微张；画面中央偏左人物，身穿米白色系带衬衫，棕色短裙，站立，转头看向灰西装男，表情：眉毛微蹙，眼睛看男，嘴巴微张；画面右侧床上人物，身穿紫白条纹病号服，平躺，双眼紧闭，表情：眉毛舒展，眼睛紧闭，嘴巴微闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面中央",
+                "action": "平躺，头部微动，眉头微蹙",
+                "expression": "眉毛微蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色枕头，白色被子",
+        "description_narrative": "特写镜头，陆总躺在病床上，眉头微蹙，似乎被吵醒，嘴巴微张，抱怨太吵了。",
+        "dialogue": "吵死了。",
+        "speaker": "陆总",
+        "emotion": "烦躁",
+        "duration": 1.08,
+        "description_visual": "特写仰拍镜头；医院病房，白色枕头，白色被子；画面中央人物，身穿紫白条纹病号服，平躺，头部微动，眉头微蹙，表情：眉毛微蹙，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面中央",
+                "action": "站立，头部微转，眼神惊讶",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，米色窗帘背景",
+        "description_narrative": "中近景镜头，白衣女子听到声音，头部微转，眼神惊讶地看向病床方向，似乎听到了陆总的声音。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘背景；画面中央人物，身穿米白色系带衬衫，棕色短裙，站立，头部微转，眼神惊讶，表情：眉毛微挑，眼睛睁大，嘴巴微闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，条纹衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微前倾，眼神震惊",
+                "expression": "眉毛高挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，米色窗帘背景",
+        "description_narrative": "中近景镜头，灰西装男身体微前倾，眼神震惊地看着病床，嘴巴微张，惊呼陆总。",
+        "dialogue": "陆总。",
+        "speaker": "灰西装男",
+        "emotion": "震惊",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘背景；画面中央人物，身穿灰色格纹西装，条纹衬衫，站立，身体微前倾，眼神震惊，表情：眉毛高挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面中央",
+                "action": "平躺，头部微动",
+                "expression": "眉毛微蹙，眼睛紧闭，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，白色枕头",
+        "description_narrative": "特写镜头，陆总躺在病床上，灰西装男在画外音中惊呼他诈尸，气氛紧张。",
+        "dialogue": "您诈尸啊",
+        "speaker": "灰西装男",
+        "emotion": "震惊",
+        "duration": 0.88,
+        "description_visual": "特写仰拍镜头；医院病房，白色枕头；画面中央人物，身穿紫白条纹病号服，平躺，头部微动，表情：眉毛微蹙，眼睛紧闭，嘴巴微闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，条纹衬衫",
+                "position": "画面左侧",
+                "action": "站立，转头看向白衣女子",
+                "expression": "眉毛微挑，眼睛看女，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面右侧",
+                "action": "站立，转头看向灰西装男",
+                "expression": "眉毛微蹙，眼睛看男，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，米色窗帘",
+        "description_narrative": "中近景镜头，灰西装男转头看向白衣女子，白衣女子也转头看他，斥责他乱说话。",
+        "dialogue": "说什么呢。",
+        "speaker": "白衣女子",
+        "emotion": "斥责",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘；画面左侧人物，身穿灰色格纹西装，条纹衬衫，站立，转头看向白衣女子，表情：眉毛微挑，眼睛看女，嘴巴微张；画面右侧人物，身穿米白色系带衬衫，棕色短裙，站立，转头看向灰西装男，表情：眉毛微蹙，眼睛看男，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面中央",
+                "action": "平躺，眼睛微睁，眼神迷茫",
+                "expression": "眉毛微蹙，眼睛微睁，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色枕头",
+        "description_narrative": "特写镜头，陆总眼睛微睁，眼神迷茫，嘴巴微张，似乎在问他们在说什么。",
+        "dialogue": "说什么呢",
+        "speaker": "陆总",
+        "emotion": "迷茫",
+        "duration": 1.28,
+        "description_visual": "特写仰拍镜头；医院病房，白色枕头；画面中央人物，身穿紫白条纹病号服，平躺，眼睛微睁，眼神迷茫，表情：眉毛微蹙，眼睛微睁，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面中央",
+                "action": "站立，低头看床",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，米色窗帘",
+        "description_narrative": "中近景镜头，白衣女子低头看床，神情关切，画外音中传来她确认陆总醒来的声音。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "关切",
+        "duration": 2.92,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘；画面中央人物，身穿米白色系带衬衫，棕色短裙，站立，低头看床，表情：眉毛微蹙，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面中央",
+                "action": "平躺，眼神清醒，看向一侧",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，白色枕头",
+        "description_narrative": "特写镜头，陆总眼神清醒，看向一侧，画外音中白衣女子确认他终于醒了。",
+        "dialogue": "陆总，您总算是醒了。",
+        "speaker": "白衣女子",
+        "emotion": "欣慰",
+        "duration": 2.48,
+        "description_visual": "特写平拍镜头；医院病房，白色枕头；画面中央人物，身穿紫白条纹病号服，平躺，眼神清醒，看向一侧，表情：眉毛微蹙，眼睛睁大，嘴巴微闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面中央",
+                "action": "站立，低头，神情犹豫",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，米色窗帘",
+        "description_narrative": "中近景镜头，白衣女子低头，神情犹豫，画外音中陆总焦急地询问温暖在哪里。",
+        "dialogue": "温暖呢？",
+        "speaker": "陆总",
+        "emotion": "焦急",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘；画面中央人物，身穿米白色系带衬衫，棕色短裙，站立，低头，神情犹豫，表情：眉毛微蹙，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面中央",
+                "action": "平躺，眼神急切，看向一侧",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色枕头",
+        "description_narrative": "特写镜头，陆总眼神急切，看向一侧，画外音中白衣女子回答温暖去给他拿东西了。",
+        "dialogue": "她去给您。",
+        "speaker": "白衣女子",
+        "emotion": "平静",
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；医院病房，白色枕头；画面中央人物，身穿紫白条纹病号服，平躺，眼神急切，看向一侧，表情：眉毛紧锁，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面中央",
+                "action": "站立，抬头，神情惊讶",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，米色窗帘",
+        "description_narrative": "中近景镜头，白衣女子抬头，神情惊讶，似乎看到陆总要起来，画外音中有人喊陆总。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 0.96,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘；画面中央人物，身穿米白色系带衬衫，棕色短裙，站立，抬头，神情惊讶，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，条纹衬衫",
+                "position": "画面左侧",
+                "action": "站立，伸手欲扶",
+                "expression": "眉毛微蹙，眼睛看床，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面中央",
+                "action": "站立，伸手欲扶",
+                "expression": "眉毛微蹙，眼睛看床，嘴巴微张"
+            },
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面右侧床上",
+                "action": "坐起，身体前倾，欲下床",
+                "expression": "眉毛紧锁，眼睛看前，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，蓝色地板",
+        "description_narrative": "全景镜头，陆总强行坐起欲下床，灰西装男和白衣女子伸手欲扶，画外音中有人喊陆总，并说他不能起来。",
+        "dialogue": "陆总。",
+        "speaker": "白衣女子",
+        "emotion": "焦急",
+        "duration": 0.92,
+        "description_visual": "全景平拍镜头；医院病房，蓝色地板；画面左侧人物，身穿灰色格纹西装，条纹衬衫，站立，伸手欲扶，表情：眉毛微蹙，眼睛看床，嘴巴微张；画面中央人物，身穿米白色系带衬衫，棕色短裙，站立，伸手欲扶，表情：眉毛微蹙，眼睛看床，嘴巴微张；画面右侧床上人物，身穿紫白条纹病号服，坐起，身体前倾，欲下床，表情：眉毛紧锁，眼睛看前，嘴巴微闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，条纹衬衫",
+                "position": "画面左侧",
+                "action": "站立，手扶床栏",
+                "expression": "眉毛微蹙，眼睛看床，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫，棕色短裙",
+                "position": "画面中央",
+                "action": "站立，伸手欲拦",
+                "expression": "眉毛微蹙，眼睛看床，嘴巴微张"
+            },
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面右侧床上",
+                "action": "坐起，双脚着地，欲下床",
+                "expression": "眉毛紧锁，眼睛看前，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，蓝色地板",
+        "description_narrative": "全景镜头，陆总双脚着地欲下床，灰西装男手扶床栏，白衣女子伸手欲拦，画外音中有人说他还不能起来。",
+        "dialogue": "您还不能起来啊",
+        "speaker": "白衣女子",
+        "emotion": "焦急",
+        "duration": 2.72,
+        "description_visual": "全景平拍镜头；医院病房，蓝色地板；画面左侧人物，身穿灰色格纹西装，条纹衬衫，站立，手扶床栏，表情：眉毛微蹙，眼睛看床，嘴巴微张；画面中央人物，身穿米白色系带衬衫，棕色短裙，站立，伸手欲拦，表情：眉毛微蹙，眼睛看床，嘴巴微张；画面右侧床上人物，身穿紫白条纹病号服，坐起，双脚着地，欲下床，表情：眉毛紧锁，眼睛看前，嘴巴微闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服，黑袜子",
+                "position": "画面中央",
+                "action": "行走，步伐急促，眼神坚定",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴微闭"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，蓝色地板",
+        "description_narrative": "全景镜头，陆总身穿病号服在医院走廊急促行走，步伐坚定，眼神直视前方，画外音中有人喊陆总。",
+        "dialogue": "陆总。",
+        "speaker": "白衣女子",
+        "emotion": "焦急",
+        "duration": 2.24,
+        "description_visual": "全景平拍镜头（跟拍）；医院走廊，白色墙壁，蓝色地板；画面中央人物，身穿紫白条纹病号服，黑袜子，行走，步伐急促，眼神坚定，表情：眉毛紧锁，眼睛直视前方，嘴巴微闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "姜黄色西装外套，黑色短裙",
+                "position": "画面中央",
+                "action": "行走，双手交握在身前，低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "医院走廊，护士站背景",
+        "description_narrative": "全景镜头，黄衣女子身穿姜黄色西装外套，双手交握在身前，低头在医院走廊行走，神情严肃略带忧伤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "忧伤",
+        "duration": 1.12,
+        "description_visual": "全景平拍镜头（跟拍）；医院走廊，护士站背景；画面中央人物，身穿姜黄色西装外套，黑色短裙，行走，双手交握在身前，低头，表情：眉毛微蹙，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "紫白条纹病号服",
+                "position": "画面中央",
+                "action": "站立，头部微转，眼神震惊",
+                "expression": "眉毛高挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，模糊背景",
+        "description_narrative": "特写镜头，陆总头部微转，眼神震惊地看着前方，似乎看到了什么人。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；医院走廊，模糊背景；画面中央人物，身穿紫白条纹病号服，站立，头部微转，眼神震惊，表情：眉毛高挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "姜黄色西装外套，黑色短裙",
+                "position": "画面中央",
+                "action": "站立，双手交握在身前，抬头直视",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微闭"
+            }
+        ],
+        "background": "医院走廊，模糊背景",
+        "description_narrative": "中近景镜头，黄衣女子双手交握在身前，抬头直视前方，神情严肃，与陆总狭路相逢，气氛凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 3.44,
+        "description_visual": "中近景平拍镜头；医院走廊，模糊背景；画面中央人物，身穿姜黄色西装外套，黑色短裙，站立，双手交握在身前，抬头直视，表情：眉毛微蹙，眼睛直视前方，嘴巴微闭。"
+    }
+]

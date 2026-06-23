@@ -1,0 +1,773 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市航拍，第一医院大楼顶部红色招牌，远处海景，白天光线明亮。",
+        "description_narrative": "远景俯拍镜头展示城市天际线，焦点位于一栋顶部写有红色“第一医院”字样的高层建筑，背景可见大海与城市建筑群，光线充足。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "远景俯拍镜头；城市航拍，第一医院大楼顶部红色招牌，远处海景，白天光线明亮。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白色大褂，黑色内搭，佩戴眼镜和蓝色口罩",
+                "position": "画面右侧",
+                "action": "从标有505室的房间走出，身体微侧",
+                "expression": "眉毛被口罩遮挡，眼神平静，目光向前"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，蓝色扶手，光线柔和。",
+        "description_narrative": "中景跟拍镜头，身穿白大褂、佩戴眼镜和口罩的女医生从505室走出，沿着医院走廊前行，神情专业冷静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.13,
+        "description_visual": "中景平拍镜头（跟拍）；医院走廊，白色墙壁，蓝色扶手，光线柔和。；画面右侧人物，身穿白色大褂，黑色内搭，佩戴眼镜和蓝色口罩，从标有505室的房间走出，身体微侧，表情：眉毛被口罩遮挡，眼神平静，目光向前。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤，大圆环耳环",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱臂，手指抓着头发",
+                "expression": "眉毛微蹙，眼神焦虑，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，蓝色扶手，背景虚化。",
+        "description_narrative": "中近景固定镜头，高梦珂站在走廊中，身穿灰色露脐上衣和牛仔裤，神情焦急地等待，手指不自觉地抓弄着头发。",
+        "dialogue": "病人家属是吧",
+        "speaker": "医生",
+        "emotion": "焦虑",
+        "duration": 0.9,
+        "description_visual": "中近景平拍镜头；医院走廊，白色墙壁，蓝色扶手，背景虚化。；画面中央人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，大圆环耳环，站立，双手交叉抱臂，手指抓着头发，表情：眉毛微蹙，眼神焦虑，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白色大褂，黑色内搭，佩戴眼镜和蓝色口罩",
+                "position": "画面左侧",
+                "action": "面对高梦珂站立，头部微抬",
+                "expression": "眉毛舒展，眼神透过眼镜直视对方，口罩遮住嘴巴"
+            }
+        ],
+        "background": "医院走廊，背景虚化，光线均匀。",
+        "description_narrative": "过肩镜头，医生面对高梦珂站立，目光平静地注视着对方，等待回应。",
+        "dialogue": "医生",
+        "speaker": "高梦珂",
+        "emotion": "急切",
+        "duration": 1.07,
+        "description_visual": "中近景过肩镜头；医院走廊，背景虚化，光线均匀。；画面左侧人物，身穿白色大褂，黑色内搭，佩戴眼镜和蓝色口罩，面对高梦珂站立，头部微抬，表情：眉毛舒展，眼神透过眼镜直视对方，口罩遮住嘴巴。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤，大圆环耳环",
+                "position": "画面中央",
+                "action": "身体前倾，双手紧握",
+                "expression": "眉毛紧锁，眼神急切，嘴巴张开询问"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，蓝色扶手。",
+        "description_narrative": "中近景镜头，高梦珂急切地询问医生，身体微微前倾，表情充满担忧。",
+        "dialogue": "我爸怎么样了",
+        "speaker": "高梦珂",
+        "emotion": "担忧",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；医院走廊，白色墙壁，蓝色扶手。；画面中央人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，大圆环耳环，身体前倾，双手紧握，表情：眉毛紧锁，眼神急切，嘴巴张开询问。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白色大褂，黑色内搭，佩戴眼镜和蓝色口罩",
+                "position": "画面左侧",
+                "action": "站立，头部微低",
+                "expression": "眼神低沉，眉毛微垂，传达遗憾"
+            }
+        ],
+        "background": "医院走廊，背景虚化。",
+        "description_narrative": "过肩镜头，医生神情凝重地告知结果，眼神中流露出职业性的同情与遗憾。",
+        "dialogue": "节哀请尽早准备后事吧",
+        "speaker": "医生",
+        "emotion": "遗憾",
+        "duration": 1.7,
+        "description_visual": "中近景过肩镜头；医院走廊，背景虚化。；画面左侧人物，身穿白色大褂，黑色内搭，佩戴眼镜和蓝色口罩，站立，头部微低，表情：眼神低沉，眉毛微垂，传达遗憾。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤，大圆环耳环",
+                "position": "画面中央",
+                "action": "身体微僵，手指抓紧手臂",
+                "expression": "眉毛挑起，眼神闪烁，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，白色墙壁。",
+        "description_narrative": "中近景镜头，听到消息后，高梦珂并未表现出过度悲伤，反而急切地追问遗嘱事宜。",
+        "dialogue": "他有没有说",
+        "speaker": "高梦珂",
+        "emotion": "急切",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；医院走廊，白色墙壁。；画面中央人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，大圆环耳环，身体微僵，手指抓紧手臂，表情：眉毛挑起，眼神闪烁，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白色大褂，黑色内搭，佩戴眼镜和蓝色口罩",
+                "position": "画面左侧",
+                "action": "轻微摇头，眼神无奈",
+                "expression": "眉毛微蹙，眼神回避，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，背景虚化。",
+        "description_narrative": "过肩镜头，医生面对关于遗嘱的询问，无奈地表示不知情，眼神略带怜悯。",
+        "dialogue": "遗嘱的事情",
+        "speaker": "高梦珂",
+        "emotion": "失望",
+        "duration": 1.0,
+        "description_visual": "中近景过肩镜头；医院走廊，背景虚化。；画面左侧人物，身穿白色大褂，黑色内搭，佩戴眼镜和蓝色口罩，轻微摇头，眼神无奈，表情：眉毛微蹙，眼神回避，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面背景",
+                "action": "站在原地，神情失落",
+                "expression": "眉毛下垂，眼神黯淡，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，前景为医生背影。",
+        "description_narrative": "过肩镜头，前景是医生的背影，背景中高梦珂站在原地，神情从焦急转为失落和不甘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.9,
+        "description_visual": "中近景过肩镜头；医院走廊，前景为医生背影。；画面背景人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，站在原地，神情失落，表情：眉毛下垂，眼神黯淡，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，大圆环耳环",
+                "position": "画面右侧",
+                "action": "侧身站立，目光看向远方",
+                "expression": "眉毛微蹙，眼神空洞，嘴唇紧抿"
+            }
+        ],
+        "background": "医院走廊，背景虚化。",
+        "description_narrative": "侧面特写镜头，高梦珂侧身站立，目光投向走廊深处，神情复杂，似乎在思考对策。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.23,
+        "description_visual": "特写侧拍镜头；医院走廊，背景虚化。；画面右侧人物，身穿灰色星星图案露脐长袖上衣，大圆环耳环，侧身站立，目光看向远方，表情：眉毛微蹙，眼神空洞，嘴唇紧抿。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市夜景，车流如织的高架桥，路灯明亮。",
+        "description_narrative": "远景俯拍镜头展示城市夜晚的交通状况，车流在路灯下形成光带，时间过渡到夜晚。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "远景俯拍镜头；城市夜景，车流如织的高架桥，路灯明亮。。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "站立，面对严夫人",
+                "expression": "表情严肃，身体紧绷"
+            },
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，黑色滚边",
+                "position": "画面右侧",
+                "action": "双臂交叉，站立在车旁",
+                "expression": "表情冷漠，目光审视"
+            }
+        ],
+        "background": "医院诊部外，夜晚，红色轿车停在旁边，灯光昏暗。",
+        "description_narrative": "全景镜头，医院诊部外夜晚，高梦珂与身穿白色套裙的严夫人面对面站立，中间停着一辆红色轿车，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头；医院诊部外，夜晚，红色轿车停在旁边，灯光昏暗。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，站立，面对严夫人，表情：表情严肃，身体紧绷；画面右侧人物，身穿白色粗花呢套裙，黑色滚边，双臂交叉，站立在车旁，表情：表情冷漠，目光审视。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸，头部微抬",
+                "expression": "眉毛微挑，眼神轻蔑，嘴巴微张"
+            }
+        ],
+        "background": "医院门口，夜晚，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人双臂交叉，神情冷漠轻蔑地看着高梦珂，语气中带着质问。",
+        "dialogue": "你还敢来高梦珂",
+        "speaker": "严夫人",
+        "emotion": "轻蔑",
+        "duration": 1.9,
+        "description_visual": "中近景平拍镜头；医院门口，夜晚，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，双臂交叉抱胸，头部微抬，表情：眉毛微挑，眼神轻蔑，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "手指抓着头发，身体微颤",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴张开指责"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊灯光。",
+        "description_narrative": "中近景镜头，高梦珂情绪激动，指责严夫人害死了自己的父亲，手指紧紧抓着头发。",
+        "dialogue": "我爸去世了都是因为你",
+        "speaker": "高梦珂",
+        "emotion": "愤怒",
+        "duration": 2.43,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景有模糊灯光。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，手指抓着头发，身体微颤，表情：眉毛紧锁，眼神愤怒，嘴巴张开指责。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "双臂交叉，身体微侧",
+                "expression": "眉毛舒展，眼神嘲讽，嘴角上扬"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人对高梦珂的指责毫不在意，反而冷嘲热讽，双臂交叉在胸前。",
+        "dialogue": "身子骨不够硬朗，就不要学别人到处撒泼",
+        "speaker": "严夫人",
+        "emotion": "嘲讽",
+        "duration": 2.9,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，双臂交叉，身体微侧，表情：眉毛舒展，眼神嘲讽，嘴角上扬。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "双手抱臂，身体前倾",
+                "expression": "眉毛紧蹙，眼神不甘，嘴巴微张抱怨"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊灯光。",
+        "description_narrative": "中近景镜头，高梦珂抱怨父亲去世连遗嘱都没留下，神情充满了不甘和焦虑。",
+        "dialogue": "我爸连遗嘱都没有留下",
+        "speaker": "高梦珂",
+        "emotion": "不甘",
+        "duration": 1.63,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景有模糊灯光。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，双手抱臂，身体前倾，表情：眉毛紧蹙，眼神不甘，嘴巴微张抱怨。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "侧身站立，目光看向高梦珂",
+                "expression": "眉毛微挑，眼神玩味，嘴角微动"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人听着高梦珂关于遗产的抱怨，神情玩味，似乎在等待下文。",
+        "dialogue": "我爸的遗产",
+        "speaker": "高梦珂",
+        "emotion": "焦虑",
+        "duration": 1.33,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，侧身站立，目光看向高梦珂，表情：眉毛微挑，眼神玩味，嘴角微动。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "表情激动，手指挥舞",
+                "expression": "眉毛紧锁，眼神凶狠，嘴巴张大"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊灯光。",
+        "description_narrative": "中近景镜头，高梦珂情绪激动地表示不愿与“那个贱人”分遗产，表情扭曲。",
+        "dialogue": "那个贱人一起分",
+        "speaker": "高梦珂",
+        "emotion": "愤怒",
+        "duration": 1.97,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景有模糊灯光。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，表情激动，手指挥舞，表情：眉毛紧锁，眼神凶狠，嘴巴张大。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "双臂交叉，头部微歪",
+                "expression": "眉毛舒展，眼神讥笑，嘴巴张开"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人揭露高梦珂父亲负债的事实，语气中带着明显的嘲笑。",
+        "dialogue": "你爸是负债吧，你可真搞笑",
+        "speaker": "严夫人",
+        "emotion": "讥笑",
+        "duration": 3.5,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，双臂交叉，头部微歪，表情：眉毛舒展，眼神讥笑，嘴巴张开。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "身体紧绷，眼神愤怒",
+                "expression": "眉毛紧蹙，眼神瞪视，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊灯光。",
+        "description_narrative": "中近景镜头，高梦珂听到嘲讽后愤怒地让严夫人不要过分，此时严夫人的画外音响起，提醒她已不再是严夫人。",
+        "dialogue": "高梦珂你不要太过分了，你现在已经不是严夫人了",
+        "speaker": "严夫人",
+        "emotion": "愤怒",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景有模糊灯光。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，身体紧绷，眼神愤怒，表情：眉毛紧蹙，眼神瞪视，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "双臂交叉，神情淡然",
+                "expression": "眉毛微垂，眼神冷漠，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人继续冷静地陈述，提到高梦珂的姐姐生死不明，神情毫无波澜。",
+        "dialogue": "再说了，我姐现在生死不明的",
+        "speaker": "高梦珂",
+        "emotion": "冷漠",
+        "duration": 2.73,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，双臂交叉，神情淡然，表情：眉毛微垂，眼神冷漠，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "身体前倾，质问对方",
+                "expression": "眉毛紧锁，眼神犀利，嘴巴张开"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊灯光。",
+        "description_narrative": "中近景镜头，高梦珂反问严夫人到底在得意什么，语气充满挑衅。",
+        "dialogue": "你到底在得意什么",
+        "speaker": "高梦珂",
+        "emotion": "挑衅",
+        "duration": 1.87,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景有模糊灯光。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，身体前倾，质问对方，表情：眉毛紧锁，眼神犀利，嘴巴张开。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "双臂交叉，眼神凌厉",
+                "expression": "眉毛竖起，眼神凶狠，嘴巴张开警告"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人被激怒，厉声质问高梦珂在跟谁说话，眼神充满威慑力。",
+        "dialogue": "你在跟谁说话",
+        "speaker": "严夫人",
+        "emotion": "愤怒",
+        "duration": 1.73,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，双臂交叉，眼神凌厉，表情：眉毛竖起，眼神凶狠，嘴巴张开警告。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "身体微缩，眼神闪躲",
+                "expression": "眉毛微蹙，眼神畏惧，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊灯光。",
+        "description_narrative": "中近景镜头，高梦珂被严夫人的气势震慑，此时严夫人的画外音响起，警告她手里有把柄。",
+        "dialogue": "还有把柄在我手里呢",
+        "speaker": "严夫人",
+        "emotion": "畏惧",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景有模糊灯光。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，身体微缩，眼神闪躲，表情：眉毛微蹙，眼神畏惧，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "双臂交叉，下巴微抬",
+                "expression": "眉毛微挑，眼神威胁，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人警告高梦珂最好老实点，神情冷酷，双臂交叉在胸前。",
+        "dialogue": "最好给我老实点",
+        "speaker": "严夫人",
+        "emotion": "威胁",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，双臂交叉，下巴微抬，表情：眉毛微挑，眼神威胁，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "站立不动，手握包带",
+                "expression": "眉毛下垂，眼神低垂，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊灯光。",
+        "description_narrative": "中近景镜头，高梦珂被威胁后沉默不语，手握包带，神情沮丧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景有模糊灯光。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，站立不动，手握包带，表情：眉毛下垂，眼神低垂，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "手持信封递给对方",
+                "expression": "眉毛微蹙，眼神严厉，嘴巴张开命令"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人拿出一个信封递给高梦珂，命令她拿好并闭嘴。",
+        "dialogue": "这个拿好",
+        "speaker": "严夫人",
+        "emotion": "严厉",
+        "duration": 1.67,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，手持信封递给对方，表情：眉毛微蹙，眼神严厉，嘴巴张开命令。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "面部表情严肃，目光直视",
+                "expression": "眉毛紧锁，眼神凶狠，嘴巴张开"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "特写镜头，严夫人表情严肃地警告高梦珂闭上嘴，语气强硬。",
+        "dialogue": "把你的嘴闭上",
+        "speaker": "严夫人",
+        "emotion": "凶狠",
+        "duration": 0.73,
+        "description_visual": "特写平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，面部表情严肃，目光直视，表情：眉毛紧锁，眼神凶狠，嘴巴张开。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "双手接过信封，低头查看",
+                "expression": "眉毛微蹙，眼神看着信封，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊灯光。",
+        "description_narrative": "中近景镜头，高梦珂接过信封，此时严夫人的画外音响起，威胁她否则将和她父亲一样。",
+        "dialogue": "否则你跟你爸",
+        "speaker": "严夫人",
+        "emotion": "恐惧",
+        "duration": 1.47,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景有模糊灯光。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，双手接过信封，低头查看，表情：眉毛微蹙，眼神看着信封，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "双臂交叉，眼神冰冷",
+                "expression": "眉毛微挑，眼神残忍，嘴巴张开"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人说完威胁的话，提到高梦珂姐姐的下场，神情冷酷无情。",
+        "dialogue": "和你姐的下场一样",
+        "speaker": "严夫人",
+        "emotion": "残忍",
+        "duration": 1.53,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，双臂交叉，眼神冰冷，表情：眉毛微挑，眼神残忍，嘴巴张开。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "低头看着手中的信封",
+                "expression": "眉毛紧锁，眼神复杂，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊灯光。",
+        "description_narrative": "中近景镜头，高梦珂低头看着手中的信封，神情复杂，似乎在权衡利弊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.33,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景有模糊灯光。；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，低头看着手中的信封，表情：眉毛紧锁，眼神复杂，嘴巴紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，佩戴精致耳饰",
+                "position": "画面中央",
+                "action": "双臂交叉，目光看向别处",
+                "expression": "眉毛舒展，眼神冷漠，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景虚化。",
+        "description_narrative": "中近景镜头，严夫人说完后冷漠地看着别处，不再理会高梦珂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.93,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景虚化。；画面中央人物，身穿白色粗花呢套裙，佩戴精致耳饰，双臂交叉，目光看向别处，表情：眉毛舒展，眼神冷漠，嘴巴紧闭。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "严夫人",
+                "gender": "女",
+                "clothing": "白色粗花呢套裙，高跟鞋",
+                "position": "画面右侧",
+                "action": "转身走向轿车",
+                "expression": "背影，无法看清表情"
+            },
+            {
+                "name": "高梦珂",
+                "gender": "女",
+                "clothing": "灰色星星图案露脐长袖上衣，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "转身背对镜头",
+                "expression": "背影，无法看清表情"
+            }
+        ],
+        "background": "医院诊部外，夜晚，红色轿车。",
+        "description_narrative": "全景跟拍镜头，严夫人转身走向红色轿车，高梦珂也转身背对镜头，两人结束对话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.57,
+        "description_visual": "全景平拍镜头（跟拍）；医院诊部外，夜晚，红色轿车。；画面右侧人物，身穿白色粗花呢套裙，高跟鞋，转身走向轿车，表情：背影，无法看清表情；画面左侧人物，身穿灰色星星图案露脐长袖上衣，破洞牛仔裤，转身背对镜头，表情：背影，无法看清表情。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色强光，画面过曝。",
+        "description_narrative": "特写镜头，画面被强烈的白光覆盖，转场效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.23,
+        "description_visual": "特写平拍镜头；白色强光，画面过曝。。"
+    }
+]

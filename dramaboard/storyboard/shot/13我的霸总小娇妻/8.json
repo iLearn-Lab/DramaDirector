@@ -1,0 +1,791 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "办公室走廊，白色墙壁，玻璃门，光线明亮",
+        "description_narrative": "全景固定镜头拍摄空荡的办公室走廊，左侧可见玻璃门框，远处有深色木门，环境安静明亮。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；办公室走廊，白色墙壁，玻璃门，光线明亮。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "从门口走进走廊，步伐轻快，嘴巴微张",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张发出声音"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁，天花板有通风口",
+        "description_narrative": "中景跟拍镜头，周浪身穿白色衬衫和蓝色牛仔裤从门口走进走廊，步伐轻快，嘴巴微张发出声音。",
+        "dialogue": "哎呦",
+        "speaker": "周浪",
+        "emotion": "轻松",
+        "duration": 2.68,
+        "description_visual": "中景平拍镜头（跟拍）；办公室走廊，白色墙壁，天花板有通风口；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，从门口走进走廊，步伐轻快，嘴巴微张，表情：眉毛舒展，眼睛直视前方，嘴巴微张发出声音。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面左侧",
+                "action": "弯腰手持红色除尘掸清洁",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴紧闭"
+            },
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面右侧背景",
+                "action": "站在门口，身体前倾看向王林",
+                "expression": "眉毛上扬，眼睛看着王林，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，玻璃门，深色木柜",
+        "description_narrative": "中景固定镜头，王林身穿棕色制服在左侧弯腰清洁，周浪站在右侧门口，身体前倾看向王林，嘴巴微张说话。",
+        "dialogue": "来新保洁了 好好干",
+        "speaker": "周浪",
+        "emotion": "轻浮",
+        "duration": 2.44,
+        "description_visual": "中景平拍镜头；办公室内部，玻璃门，深色木柜；画面左侧人物，身穿棕色双排扣工作制服，弯腰手持红色除尘掸清洁，表情：眉毛微蹙，眼睛向下看，嘴巴紧闭；画面右侧背景人物，身穿白色长袖衬衫，蓝色牛仔裤，站在门口，身体前倾看向王林，表情：眉毛上扬，眼睛看着王林，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "侧身站立，转头看向左侧，嘴巴开合",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁，深色门框",
+        "description_narrative": "中近景固定镜头，周浪侧身站立，转头看向左侧，眉毛微挑，嘴巴张开继续说话，神情傲慢。",
+        "dialogue": "我媳妇有洁癖 喜欢干干净净的办公环境",
+        "speaker": "周浪",
+        "emotion": "傲慢",
+        "duration": 4.2,
+        "description_visual": "中近景平拍镜头；办公室走廊，白色墙壁，深色门框；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，侧身站立，转头看向左侧，嘴巴开合，表情：眉毛微挑，眼睛看向左侧，嘴巴张开说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装套裙，银色项链",
+                "position": "画面中央",
+                "action": "坐在椅子上，头部微转，眉头紧锁",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴微张露出不悦"
+            }
+        ],
+        "background": "办公室茶桌旁，白色墙壁，白色设备",
+        "description_narrative": "特写固定镜头，林妙坐在茶桌旁，身穿深灰色西装，眉头紧锁，眼睛斜视，嘴巴微张露出不悦的神情。",
+        "dialogue": "周浪 你说什么呢",
+        "speaker": "林妙",
+        "emotion": "不悦",
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头；办公室茶桌旁，白色墙壁，白色设备；画面中央人物，身穿深灰色西装套裙，银色项链，坐在椅子上，头部微转，眉头紧锁，表情：眉毛紧蹙，眼睛斜视，嘴巴微张露出不悦。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "双手张开，身体微侧，看向左侧",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，玻璃门，白色墙壁",
+        "description_narrative": "中景固定镜头，周浪双手张开，身体微侧，看向左侧，眉毛舒展，嘴巴微张，似乎在反问。",
+        "dialogue": "你说什么呢",
+        "speaker": "周浪",
+        "emotion": "疑惑",
+        "duration": 4.36,
+        "description_visual": "中景平拍镜头；办公室走廊，玻璃门，白色墙壁；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，双手张开，身体微侧，看向左侧，表情：眉毛舒展，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "单手扶着门框，身体前倾，嘴巴开合",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室门口，玻璃门，白色墙壁",
+        "description_narrative": "中近景固定镜头，周浪单手扶着门框，身体前倾，眉毛微挑，嘴巴张开说话，神情轻浮。",
+        "dialogue": "哎我说你啊 我都追你这么久了",
+        "speaker": "周浪",
+        "emotion": "轻浮",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；办公室门口，玻璃门，白色墙壁；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，单手扶着门框，身体前倾，嘴巴开合，表情：眉毛微挑，眼睛注视前方，嘴巴张开说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面中央",
+                "action": "侧脸看向右上方，嘴巴微张",
+                "expression": "眉毛平展，眼睛看向右上方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，模糊的背景",
+        "description_narrative": "特写固定镜头，王林侧脸看向右上方，眉毛平展，嘴巴微张，神情严肃。",
+        "dialogue": "你迟早是我媳妇嘛",
+        "speaker": "周浪",
+        "emotion": "严肃",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；办公室内部，模糊的背景；画面中央人物，身穿棕色双排扣工作制服，侧脸看向右上方，嘴巴微张，表情：眉毛平展，眼睛看向右上方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "低头看着下方，身体微前倾",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室内部，玻璃门，木柜",
+        "description_narrative": "中近景固定镜头，周浪低头看着下方，身体微前倾，眉毛微蹙，嘴巴紧闭，似乎在打量什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "审视",
+        "duration": 3.08,
+        "description_visual": "中近景平拍镜头；办公室内部，玻璃门，木柜；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，低头看着下方，身体微前倾，表情：眉毛微蹙，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "抬头看向左侧，嘴巴开合",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室内部，玻璃门，木柜",
+        "description_narrative": "中近景固定镜头，周浪抬头看向左侧，眉毛微挑，嘴巴张开说话，神情轻佻。",
+        "dialogue": "下次别穿那么紧啦",
+        "speaker": "周浪",
+        "emotion": "轻佻",
+        "duration": 3.08,
+        "description_visual": "中近景平拍镜头；办公室内部，玻璃门，木柜；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，抬头看向左侧，嘴巴开合，表情：眉毛微挑，眼睛看向左侧，嘴巴张开说话。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装套裙，银色项链",
+                "position": "画面中央",
+                "action": "坐在椅子上，眼神冷冽",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室茶桌旁，白色墙壁",
+        "description_narrative": "特写固定镜头，林妙坐在椅子上，眼神冷冽，眉毛平展，嘴巴紧闭，表情冷漠。",
+        "dialogue": "你看你的小腰多细",
+        "speaker": "周浪",
+        "emotion": "冷漠",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；办公室茶桌旁，白色墙壁；画面中央人物，身穿深灰色西装套裙，银色项链，坐在椅子上，眼神冷冽，表情：眉毛平展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "双手张开比划，身体微侧",
+                "expression": "眉毛舒展，眼睛看着前方，嘴巴微张露齿笑"
+            }
+        ],
+        "background": "办公室内部，玻璃门，木柜",
+        "description_narrative": "中近景固定镜头，周浪双手张开比划，身体微侧，眉毛舒展，嘴巴微张露齿笑，神情轻浮。",
+        "dialogue": "穿宽松点 别人才看不出来嘛",
+        "speaker": "周浪",
+        "emotion": "轻浮",
+        "duration": 0.96,
+        "description_visual": "中近景平拍镜头；办公室内部，玻璃门，木柜；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，双手张开比划，身体微侧，表情：眉毛舒展，眼睛看着前方，嘴巴微张露齿笑。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面中央",
+                "action": "侧脸看向左下方，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛看向左下方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，模糊背景",
+        "description_narrative": "特写固定镜头，王林侧脸看向左下方，眉毛微蹙，嘴巴微张，神情不悦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "不悦",
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头；办公室内部，模糊背景；画面中央人物，身穿棕色双排扣工作制服，侧脸看向左下方，嘴巴微张，表情：眉毛微蹙，眼睛看向左下方，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装套裙，银色项链",
+                "position": "画面中央",
+                "action": "坐在椅子上，眉头紧锁，身体前倾",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "办公室茶桌旁，白色墙壁",
+        "description_narrative": "特写固定镜头，林妙坐在椅子上，眉头紧锁，身体前倾，眼睛斜视，嘴巴微张，显得愤怒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 3.96,
+        "description_visual": "特写平拍镜头；办公室茶桌旁，白色墙壁；画面中央人物，身穿深灰色西装套裙，银色项链，坐在椅子上，眉头紧锁，身体前倾，表情：眉毛紧蹙，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装套裙，银色项链",
+                "position": "画面中央",
+                "action": "坐在椅子上，头部微转，嘴巴开合",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室茶桌旁，白色墙壁",
+        "description_narrative": "中近景固定镜头，林妙坐在椅子上，头部微转，眉毛紧蹙，嘴巴张开说话，语气严厉。",
+        "dialogue": "别太过分啊",
+        "speaker": "林妙",
+        "emotion": "严厉",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；办公室茶桌旁，白色墙壁；画面中央人物，身穿深灰色西装套裙，银色项链，坐在椅子上，头部微转，嘴巴开合，表情：眉毛紧蹙，眼睛斜视，嘴巴张开说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面左侧",
+                "action": "站在桌边，身体微侧，嘴巴开合",
+                "expression": "眉毛舒展，眼睛看着前方，嘴巴张开说话"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面右侧",
+                "action": "站在门口，看着周浪",
+                "expression": "眉毛平展，眼睛看着周浪，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室茶桌旁，玻璃门",
+        "description_narrative": "中景固定镜头，周浪站在桌边，身体微侧，嘴巴张开说话，王林站在右侧门口看着周浪。",
+        "dialogue": "迟早的事嘛 来让我摸摸你小腰",
+        "speaker": "周浪",
+        "emotion": "轻浮",
+        "duration": 4.56,
+        "description_visual": "中景平拍镜头；办公室茶桌旁，玻璃门；画面左侧人物，身穿白色长袖衬衫，蓝色牛仔裤，站在桌边，身体微侧，嘴巴开合，表情：眉毛舒展，眼睛看着前方，嘴巴张开说话；画面右侧人物，身穿棕色双排扣工作制服，站在门口，看着周浪，表情：眉毛平展，眼睛看着周浪，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面前景",
+                "action": "手持红色除尘掸挥动",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "特写固定镜头，王林手持红色除尘掸快速挥动，眉毛紧蹙，眼睛注视前方，动作有力。",
+        "dialogue": "臭保洁的",
+        "speaker": "周浪",
+        "emotion": "愤怒",
+        "duration": 3.24,
+        "description_visual": "特写平拍镜头；模糊的办公室背景；画面前景人物，身穿棕色双排扣工作制服，手持红色除尘掸挥动，表情：眉毛紧蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "手捂着胸口，身体后仰，表情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，绿色植物",
+        "description_narrative": "中近景固定镜头，周浪手捂着胸口，身体后仰，眉毛上扬，眼睛睁大，表情惊讶。",
+        "dialogue": "你管什么闲事 信不信爷爷我",
+        "speaker": "周浪",
+        "emotion": "惊讶",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；办公室内部，绿色植物；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，手捂着胸口，身体后仰，表情惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面中央",
+                "action": "手臂伸直指向左侧，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，玻璃门",
+        "description_narrative": "中近景固定镜头，王林手臂伸直指向左侧，身体微侧，眉毛微蹙，嘴巴微张，神情冷峻。",
+        "dialogue": "信不信爷爷我",
+        "speaker": "王林",
+        "emotion": "冷峻",
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；办公室内部，玻璃门；画面中央人物，身穿棕色双排扣工作制服，手臂伸直指向左侧，身体微侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面中央",
+                "action": "手臂伸直指向左侧，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，玻璃门",
+        "description_narrative": "中近景固定镜头，王林手臂伸直指向左侧，身体微侧，眉毛微蹙，嘴巴微张，继续威胁。",
+        "dialogue": "分分钟钟让你失业",
+        "speaker": "王林",
+        "emotion": "威胁",
+        "duration": 1.04,
+        "description_visual": "中近景平拍镜头；办公室内部，玻璃门；画面中央人物，身穿棕色双排扣工作制服，手臂伸直指向左侧，身体微侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装套裙，银色项链",
+                "position": "画面中央",
+                "action": "坐在椅子上，头部微转，眼神严厉",
+                "expression": "眉毛紧蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室茶桌旁，白色墙壁",
+        "description_narrative": "特写固定镜头，林妙坐在椅子上，头部微转，眼神严厉，眉毛紧蹙，嘴巴紧闭。",
+        "dialogue": "林妙你坐下",
+        "speaker": "周浪",
+        "emotion": "严厉",
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；办公室茶桌旁，白色墙壁；画面中央人物，身穿深灰色西装套裙，银色项链，坐在椅子上，头部微转，眼神严厉，表情：眉毛紧蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "手握着除尘掸杆，身体微侧",
+                "expression": "眉毛微蹙，眼睛看着前方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，绿色植物",
+        "description_narrative": "中近景固定镜头，周浪手握着除尘掸杆，身体微侧，眉毛微蹙，嘴巴微张，神情紧张。",
+        "dialogue": "林妙你坐下",
+        "speaker": "周浪",
+        "emotion": "紧张",
+        "duration": 1.04,
+        "description_visual": "中近景平拍镜头；办公室内部，绿色植物；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，手握着除尘掸杆，身体微侧，表情：眉毛微蹙，眼睛看着前方，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装套裙，银色项链",
+                "position": "画面中央",
+                "action": "坐在椅子上，头部微转，眼神疑惑",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "办公室茶桌旁，白色墙壁",
+        "description_narrative": "特写固定镜头，林妙坐在椅子上，头部微转，眼神疑惑，眉毛微蹙，嘴巴微张。",
+        "dialogue": "我跟你说话呢 什么玩意",
+        "speaker": "周浪",
+        "emotion": "疑惑",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；办公室茶桌旁，白色墙壁；画面中央人物，身穿深灰色西装套裙，银色项链，坐在椅子上，头部微转，眼神疑惑，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "手摸着脸颊，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，玻璃门",
+        "description_narrative": "中近景固定镜头，周浪手摸着脸颊，身体微侧，眉毛微蹙，嘴巴微张，神情痛苦。",
+        "dialogue": "什么玩意",
+        "speaker": "王林",
+        "emotion": "痛苦",
+        "duration": 2.68,
+        "description_visual": "中近景平拍镜头；办公室内部，玻璃门；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，手摸着脸颊，身体微侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面中央",
+                "action": "侧脸看向左下方，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛看向左下方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，模糊背景",
+        "description_narrative": "特写固定镜头，王林侧脸看向左下方，眉毛微蹙，嘴巴微张，神情不屑。",
+        "dialogue": "你等着",
+        "speaker": "周浪",
+        "emotion": "不屑",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；办公室内部，模糊背景；画面中央人物，身穿棕色双排扣工作制服，侧脸看向左下方，嘴巴微张，表情：眉毛微蹙，眼睛看向左下方，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "手抓着衣领，身体后仰",
+                "expression": "眉毛紧蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，绿色植物",
+        "description_narrative": "中近景固定镜头，周浪手抓着衣领，身体后仰，眉毛紧蹙，嘴巴微张，神情惊恐。",
+        "dialogue": "你等我找人来",
+        "speaker": "周浪",
+        "emotion": "惊恐",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；办公室内部，绿色植物；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，手抓着衣领，身体后仰，表情：眉毛紧蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "身体前倾，手扶着桌子",
+                "expression": "眉毛紧蹙，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室内部，模糊背景",
+        "description_narrative": "中近景固定镜头，周浪身体前倾，手扶着桌子，眉毛紧蹙，眼睛向下看，嘴巴紧闭。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 4.68,
+        "description_visual": "中近景平拍镜头；办公室内部，模糊背景；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，身体前倾，手扶着桌子，表情：眉毛紧蹙，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装套裙，银色项链",
+                "position": "画面中央",
+                "action": "坐在椅子上，头部微转，眼神疑惑",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "办公室茶桌旁，白色墙壁",
+        "description_narrative": "特写固定镜头，林妙坐在椅子上，头部微转，眼神疑惑，眉毛微蹙，嘴巴微张。",
+        "dialogue": "林妙",
+        "speaker": "周浪",
+        "emotion": "疑惑",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；办公室茶桌旁，白色墙壁；画面中央人物，身穿深灰色西装套裙，银色项链，坐在椅子上，头部微转，眼神疑惑，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "手摸着脸颊，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，玻璃门",
+        "description_narrative": "中近景固定镜头，周浪手摸着脸颊，身体微侧，眉毛微蹙，嘴巴微张，神情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；办公室内部，玻璃门；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，手摸着脸颊，身体微侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装套裙，银色项链",
+                "position": "画面中央",
+                "action": "坐在椅子上，头部微转，眼神平静",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "办公室茶桌旁，白色墙壁",
+        "description_narrative": "特写固定镜头，林妙坐在椅子上，头部微转，眼神平静，眉毛舒展，嘴巴微张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 3.96,
+        "description_visual": "特写平拍镜头；办公室茶桌旁，白色墙壁；画面中央人物，身穿深灰色西装套裙，银色项链，坐在椅子上，头部微转，眼神平静，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面中央",
+                "action": "侧脸看向左上方，嘴巴微张",
+                "expression": "眉毛平展，眼睛看向左上方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，模糊背景",
+        "description_narrative": "特写固定镜头，王林侧脸看向左上方，眉毛平展，嘴巴微张，神情平静。",
+        "dialogue": "王林 怎么能不小心 打到周公子的脸呢",
+        "speaker": "林妙",
+        "emotion": "平静",
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；办公室内部，模糊背景；画面中央人物，身穿棕色双排扣工作制服，侧脸看向左上方，嘴巴微张，表情：眉毛平展，眼睛看向左上方，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面中央",
+                "action": "侧脸看向左上方，嘴巴微张",
+                "expression": "眉毛平展，眼睛看向左上方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，模糊背景",
+        "description_narrative": "特写固定镜头，王林侧脸看向左上方，眉毛平展，嘴巴微张，神情平静。",
+        "dialogue": "快道歉",
+        "speaker": "林妙",
+        "emotion": "平静",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；办公室内部，模糊背景；画面中央人物，身穿棕色双排扣工作制服，侧脸看向左上方，嘴巴微张，表情：眉毛平展，眼睛看向左上方，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作制服",
+                "position": "画面中央",
+                "action": "侧脸看向左上方，嘴巴微张",
+                "expression": "眉毛平展，眼睛看向左上方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，模糊背景",
+        "description_narrative": "特写固定镜头，王林侧脸看向左上方，眉毛平展，嘴巴微张，神情平静。",
+        "dialogue": "下次",
+        "speaker": "王林",
+        "emotion": "平静",
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；办公室内部，模糊背景；画面中央人物，身穿棕色双排扣工作制服，侧脸看向左上方，嘴巴微张，表情：眉毛平展，眼睛看向左上方，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周浪",
+                "gender": "男",
+                "clothing": "白色长袖衬衫，蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "手摸着脸颊，身体微侧",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "办公室内部，玻璃门",
+        "description_narrative": "特写固定镜头，周浪手摸着脸颊，身体微侧，眉毛紧蹙，眼睛紧闭，嘴巴微张，神情痛苦。",
+        "dialogue": "下次",
+        "speaker": "王林",
+        "emotion": "痛苦",
+        "duration": 5.68,
+        "description_visual": "特写平拍镜头；办公室内部，玻璃门；画面中央人物，身穿白色长袖衬衫，蓝色牛仔裤，手摸着脸颊，身体微侧，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张。"
+    }
+]

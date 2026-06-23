@@ -1,0 +1,1155 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色西装，白色T恤",
+                "position": "画面右侧前景",
+                "action": "手持花束，眼神注视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色衬衫",
+                "position": "画面左侧背景",
+                "action": "站在白衣男子身后，看向前方",
+                "expression": "眉毛舒展，眼睛微睁，嘴巴微张"
+            }
+        ],
+        "background": "室内走廊，白色墙壁，光线明亮",
+        "description_narrative": "中近景固定镜头。白衣男子手持花束站在右侧，神情严肃。灰衣男子站在其身后左侧，看向前方说道：'在她旁边那个。'",
+        "dialogue": "在她旁边那个。",
+        "speaker": "灰衣男子",
+        "emotion": "疑惑",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；室内走廊，白色墙壁，光线明亮；画面右侧前景人物，身穿白色西装，白色T恤，手持花束，眼神注视前方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭；画面左侧背景人物，身穿灰色西装，黑色衬衫，站在白衣男子身后，看向前方，表情：眉毛舒展，眼睛微睁，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白大褂，黑色内搭",
+                "position": "画面中央偏左",
+                "action": "与安吉拉并肩行走",
+                "expression": "戴眼镜，面带微笑"
+            },
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面中央偏右",
+                "action": "与医生并肩行走，手抚头发",
+                "expression": "眉毛舒展，眼睛微眯笑，嘴巴微张"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面左侧前景（模糊）",
+                "action": "背影模糊，注视前方两人",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，橙色门，白色地面",
+        "description_narrative": "全景跟拍镜头。医生与安吉拉并肩走在走廊尽头，白衣男子在前景模糊处注视。画外音响起：'看起来有点。'",
+        "dialogue": "看起来有点。",
+        "speaker": "灰衣男子",
+        "emotion": "观察",
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头（跟拍）；医院走廊，橙色门，白色地面；画面中央偏左人物，身穿白大褂，黑色内搭，与安吉拉并肩行走，表情：戴眼镜，面带微笑；画面中央偏右人物，身穿白色西装套装，与医生并肩行走，手抚头发，表情：眉毛舒展，眼睛微眯笑，嘴巴微张；画面左侧前景（模糊）人物，身穿白色西装，背影模糊，注视前方两人，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白大褂，黑色内搭",
+                "position": "画面左侧",
+                "action": "行走，侧头看安吉拉",
+                "expression": "戴眼镜，微笑"
+            },
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面右侧",
+                "action": "行走，手抚头发，低头笑",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "医院走廊，橙色墙面",
+        "description_narrative": "中景跟拍镜头。医生与安吉拉走近，安吉拉羞涩低头笑。画外音继续：'眼熟。'",
+        "dialogue": "眼熟。",
+        "speaker": "灰衣男子",
+        "emotion": "猜测",
+        "duration": 1.28,
+        "description_visual": "中景平拍镜头（跟拍）；医院走廊，橙色墙面；画面左侧人物，身穿白大褂，黑色内搭，行走，侧头看安吉拉，表情：戴眼镜，微笑；画面右侧人物，身穿白色西装套装，行走，手抚头发，低头笑，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "转头看向白衣男子",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写固定镜头。灰衣男子表情惊讶，猜测道：'不会是她男朋友吧'",
+        "dialogue": "不会是她男朋友吧",
+        "speaker": "灰衣男子",
+        "emotion": "惊讶",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿灰色西装，黑色衬衫，转头看向白衣男子，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色西装，白色T恤",
+                "position": "画面中央",
+                "action": "手持花束，眼神凝固",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，白色墙面",
+        "description_narrative": "近景固定镜头。白衣男子听到'男朋友'一词，神情变得严肃失落。画外音重复：'男朋友。'",
+        "dialogue": "男朋友。",
+        "speaker": "白衣男子",
+        "emotion": "失落",
+        "duration": 2.56,
+        "description_visual": "近景平拍镜头；室内，白色墙面；画面中央人物，身穿白色西装，白色T恤，手持花束，眼神凝固，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹睡衣男",
+                "gender": "男",
+                "clothing": "条纹病号服",
+                "position": "画面左侧",
+                "action": "站立，手指指向安吉拉",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面右侧床上",
+                "action": "坐在病床上，微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "病房，病床，输液架",
+        "description_narrative": "中景固定镜头。病房内，条纹睡衣男站立指着床上的安吉拉，安吉拉微笑回应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "中景平拍镜头；病房，病床，输液架；画面左侧人物，身穿条纹病号服，站立，手指指向安吉拉，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面右侧床上人物，身穿条纹病号服，坐在病床上，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹睡衣男",
+                "gender": "男",
+                "clothing": "条纹病号服",
+                "position": "画面左侧",
+                "action": "站立，手指指向安吉拉",
+                "expression": "表情质疑"
+            },
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面右侧床上",
+                "action": "坐在病床上，摆手否认",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "病房，病床",
+        "description_narrative": "中景固定镜头。安吉拉摆手否认，说道：'怎么可能啊'",
+        "dialogue": "怎么可能啊",
+        "speaker": "安吉拉",
+        "emotion": "否认",
+        "duration": 1.12,
+        "description_visual": "中景平拍镜头；病房，病床；画面左侧人物，身穿条纹病号服，站立，手指指向安吉拉，表情：表情质疑；画面右侧床上人物，身穿条纹病号服，坐在病床上，摆手否认，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面中央",
+                "action": "转头看向一侧",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "特写固定镜头。安吉拉表情认真，解释道：'我其实已经结婚了'",
+        "dialogue": "我其实已经结婚了",
+        "speaker": "安吉拉",
+        "emotion": "认真",
+        "duration": 2.36,
+        "description_visual": "特写平拍镜头；病房背景；画面中央人物，身穿条纹病号服，转头看向一侧，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色过渡画面",
+        "description_narrative": "白色过渡画面。画外音响起：'他。'",
+        "dialogue": "他。",
+        "speaker": "灰衣男子",
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；白色过渡画面。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白大褂，黑色内搭",
+                "position": "画面左侧",
+                "action": "行走，侧头看安吉拉",
+                "expression": "戴眼镜，微笑"
+            },
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "画面右侧",
+                "action": "行走，手抚头发",
+                "expression": "微笑"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "中景跟拍镜头。医生与安吉拉再次出现。画外音继续：'就是安吉拉的。'",
+        "dialogue": "就是安吉拉的。",
+        "speaker": "灰衣男子",
+        "emotion": "揭示",
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头（跟拍）；医院走廊；画面左侧人物，身穿白大褂，黑色内搭，行走，侧头看安吉拉，表情：戴眼镜，微笑；画面右侧人物，身穿白色西装套装，行走，手抚头发，表情：微笑。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色西装，白色T恤",
+                "position": "画面中央",
+                "action": "手持花束，眼神复杂",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，白色墙面",
+        "description_narrative": "近景固定镜头。白衣男子听到真相，神情凝重。画外音结束：'老公。'",
+        "dialogue": "老公。",
+        "speaker": "灰衣男子",
+        "emotion": "震惊",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；室内，白色墙面；画面中央人物，身穿白色西装，白色T恤，手持花束，眼神复杂，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面左侧",
+                "action": "手持花束移动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，书架",
+        "description_narrative": "特写摇镜。花束被移动放置，暗示白衣男子放弃送花。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头（摇镜）；室内，书架；画面左侧人物，身穿未知，手持花束移动，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧",
+                "action": "背对镜头转身离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，书架",
+        "description_narrative": "中景跟拍镜头。白衣男子转身离去。画外音响起：'哎，老板。'",
+        "dialogue": "哎，老板。",
+        "speaker": "灰衣男子",
+        "emotion": "呼唤",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头（跟拍）；室内，书架；画面右侧人物，身穿白色西装，背对镜头转身离开，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "升降",
+        "subjects": [],
+        "background": "城市大桥，河流，车流",
+        "description_narrative": "远景俯拍镜头。城市大桥上车流穿梭，场景转换。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "远景俯拍镜头（升降）；城市大桥，河流，车流。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面右侧桌边",
+                "action": "独自坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅，桌椅，窗帘",
+        "description_narrative": "全景固定镜头。餐厅内，安吉拉独自坐在桌边。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；餐厅，桌椅，窗帘；画面右侧桌边人物，身穿白色西装，独自坐着，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "举杯喝水",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴接触杯沿"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。安吉拉优雅地喝水。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿白色西装，举杯喝水，表情：眉毛舒展，眼睛微闭，嘴巴接触杯沿。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面左侧",
+                "action": "挽着浅灰西装男手臂进入",
+                "expression": "眉毛微挑，眼睛注视前方"
+            },
+            {
+                "name": "浅灰西装男",
+                "gender": "男",
+                "clothing": "浅灰色西装，黑色衬衫",
+                "position": "画面右侧",
+                "action": "被挽着手臂进入",
+                "expression": "戴眼镜，表情平淡"
+            }
+        ],
+        "background": "餐厅入口",
+        "description_narrative": "中景固定镜头。红裙女子挽着浅灰西装男进入餐厅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "中景平拍镜头；餐厅入口；画面左侧人物，身穿红色吊带裙，挽着浅灰西装男手臂进入，表情：眉毛微挑，眼睛注视前方；画面右侧人物，身穿浅灰色西装，黑色衬衫，被挽着手臂进入，表情：戴眼镜，表情平淡。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "侧头看向安吉拉",
+                "expression": "眉毛微挑，嘴唇微张，眼神轻蔑"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。红裙女子看到安吉拉，轻蔑地说道：'哟。'",
+        "dialogue": "哟。",
+        "speaker": "红裙女子",
+        "emotion": "轻蔑",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，侧头看向安吉拉，表情：眉毛微挑，嘴唇微张，眼神轻蔑。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "抬头看向红裙女子",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            },
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面右侧前景（模糊）",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅",
+        "description_narrative": "过肩固定镜头。安吉拉抬头看向走近的红裙女子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "警惕",
+        "duration": 1.44,
+        "description_visual": "过肩平拍镜头；餐厅；画面左侧人物，身穿白色西装，抬头看向红裙女子，表情：眉毛微蹙，眼睛注视，嘴巴紧闭；画面右侧前景（模糊）人物，身穿红色吊带裙，背影，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面左侧桌边",
+                "action": "坐着",
+                "expression": "平静"
+            },
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "站立，面对安吉拉",
+                "expression": "嘲讽"
+            },
+            {
+                "name": "浅灰西装男",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "旁观"
+            }
+        ],
+        "background": "餐厅",
+        "description_narrative": "全景固定镜头。三人对峙。红裙女子嘲讽道：'呦 真是你啊'",
+        "dialogue": "呦 真是你啊",
+        "speaker": "红裙女子",
+        "emotion": "嘲讽",
+        "duration": 1.08,
+        "description_visual": "全景平拍镜头；餐厅；画面左侧桌边人物，身穿白色西装，坐着，表情：平静；画面中央人物，身穿红色吊带裙，站立，面对安吉拉，表情：嘲讽；画面右侧人物，身穿浅灰色西装，站立，表情：旁观。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "双手抱胸，眼神轻蔑",
+                "expression": "眉毛微挑，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。红裙女子继续羞辱：'就你也配来这么高档的餐厅吃饭啊？'",
+        "dialogue": "就你也配来这么高档的餐厅吃饭啊？",
+        "speaker": "红裙女子",
+        "emotion": "傲慢",
+        "duration": 2.68,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，双手抱胸，眼神轻蔑，表情：眉毛微挑，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "坐着，抬头",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。安吉拉平静回应：'哦。'",
+        "dialogue": "哦。",
+        "speaker": "安吉拉",
+        "emotion": "冷淡",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿白色西装，坐着，抬头，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "手摸下巴，思考状",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。红裙女子假装思考，说道：'不对，我想起来了。'",
+        "dialogue": "不对，我想起来了。",
+        "speaker": "红裙女子",
+        "emotion": "假装",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，手摸下巴，思考状，表情：眉毛微蹙，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "坐着，注视红裙女子",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面右侧前景（模糊）",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅",
+        "description_narrative": "过肩固定镜头。安吉拉冷眼旁观。画外音（红裙女子）：'该不会是你勾搭上陈万鑫？'",
+        "dialogue": "该不会是你勾搭上陈万鑫？",
+        "speaker": "红裙女子",
+        "emotion": "揣测",
+        "duration": 1.8,
+        "description_visual": "过肩平拍镜头；餐厅；画面左侧人物，身穿白色西装，坐着，注视红裙女子，表情：眉毛微蹙，眼睛直视，嘴巴紧闭；画面右侧前景（模糊）人物，身穿红色吊带裙，背影，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "双手抱胸， smirk",
+                "expression": "眉毛微挑，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。红裙女子轻蔑地补充：'那个老色批。'",
+        "dialogue": "那个老色批。",
+        "speaker": "红裙女子",
+        "emotion": "轻蔑",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，双手抱胸， smirk，表情：眉毛微挑，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "坐着，侧头",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。安吉拉面无表情。画外音（红裙女子）：'他带你来的吧。'",
+        "dialogue": "他带你来的吧。",
+        "speaker": "红裙女子",
+        "emotion": "嘲讽",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿白色西装，坐着，侧头，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "大笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴张开"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。红裙女子得意大笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 0.88,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，大笑，表情：眉毛舒展，眼睛眯起，嘴巴张开。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "坐着，注视",
+                "expression": "眼神冰冷"
+            }
+        ],
+        "background": "餐厅",
+        "description_narrative": "过肩固定镜头。安吉拉冷冷地看着对方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 1.0,
+        "description_visual": "过肩平拍镜头；餐厅；画面左侧人物，身穿白色西装，坐着，注视，表情：眼神冰冷。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "坐着，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。安吉拉眼神中透出怒意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "隐忍",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿白色西装，坐着，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "坐着，准备起身",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。安吉拉忍无可忍。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "爆发前",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿白色西装，坐着，准备起身，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "手捂嘴笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴被手遮住"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。红裙女子继续嘲笑：'哈哈。'",
+        "dialogue": "哈哈。",
+        "speaker": "红裙女子",
+        "emotion": "嘲笑",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，手捂嘴笑，表情：眉毛舒展，眼睛眯起，嘴巴被手遮住。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "站起，走向红裙女子",
+                "expression": "愤怒"
+            },
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "惊讶"
+            },
+            {
+                "name": "浅灰西装男",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "旁观"
+            }
+        ],
+        "background": "餐厅",
+        "description_narrative": "全景固定镜头。安吉拉站起走向红裙女子，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.12,
+        "description_visual": "全景平拍镜头；餐厅；画面左侧人物，身穿白色西装，站起，走向红裙女子，表情：愤怒；画面中央人物，身穿红色吊带裙，站立，表情：惊讶；画面右侧人物，身穿浅灰色西装，站立，表情：旁观。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "站立，怒视",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴紧闭"
+            },
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面右侧前景（模糊）",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅",
+        "description_narrative": "中近景固定镜头。安吉拉怒视对方，随即出手（画面外）。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；餐厅；画面左侧人物，身穿白色西装，站立，怒视，表情：眉毛紧蹙，眼睛瞪大，嘴巴紧闭；画面右侧前景（模糊）人物，身穿红色吊带裙，背影，表情：不可见。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "手捂脸颊，头偏向一侧",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "特写固定镜头。红裙女子被扇耳光，手捂脸颊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊/疼痛",
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，手捂脸颊，头偏向一侧，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "手捂脸颊，震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。红裙女子难以置信，说道：'你。'",
+        "dialogue": "你。",
+        "speaker": "红裙女子",
+        "emotion": "震惊",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，手捂脸颊，震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "手指指向红裙女子",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。安吉拉手指对方。画外音（红裙女子）：'你敢打我？'",
+        "dialogue": "你敢打我？",
+        "speaker": "红裙女子",
+        "emotion": "愤怒",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；餐厅背景；画面左侧人物，身穿白色西装，手指指向红裙女子，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面左侧",
+                "action": "手捂脸，看向丈夫",
+                "expression": "委屈"
+            },
+            {
+                "name": "浅灰西装男",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面右侧",
+                "action": "站立，面无表情",
+                "expression": "冷漠"
+            }
+        ],
+        "background": "餐厅",
+        "description_narrative": "中景固定镜头。红裙女子向丈夫撒娇告状：'老公。'",
+        "dialogue": "老公。",
+        "speaker": "红裙女子",
+        "emotion": "撒娇/委屈",
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；餐厅；画面左侧人物，身穿红色吊带裙，手捂脸，看向丈夫，表情：委屈；画面右侧人物，身穿浅灰色西装，站立，面无表情，表情：冷漠。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面左侧",
+                "action": "手拉浅灰西装男袖子",
+                "expression": "不可见"
+            },
+            {
+                "name": "浅灰西装男",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面右侧",
+                "action": "手臂被拉",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅",
+        "description_narrative": "特写固定镜头。红裙女子拉着丈夫袖子，结巴道：'她她。'",
+        "dialogue": "她她。",
+        "speaker": "红裙女子",
+        "emotion": "委屈",
+        "duration": 0.72,
+        "description_visual": "特写平拍镜头；餐厅；画面左侧人物，身穿红色吊带裙，手拉浅灰西装男袖子，表情：不可见；画面右侧人物，身穿浅灰色西装，手臂被拉，表情：不可见。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "哭泣状",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。红裙女子哭诉：'打人家。'",
+        "dialogue": "打人家。",
+        "speaker": "红裙女子",
+        "emotion": "哭诉",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，哭泣状，表情：眉毛紧蹙，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浅灰西装男",
+                "gender": "男",
+                "clothing": "浅灰色西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "低头看安吉拉",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "中景固定镜头。浅灰西装男轻蔑地看着安吉拉，说道：'看你长得有几分姿色。'",
+        "dialogue": "看你长得有几分姿色。",
+        "speaker": "浅灰西装男",
+        "emotion": "轻蔑",
+        "duration": 1.44,
+        "description_visual": "中景平拍镜头；餐厅背景；画面中央人物，身穿浅灰色西装，黑色衬衫，低头看安吉拉，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站立，注视",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "中近景固定镜头。安吉拉冷冷地看着对方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷漠",
+        "duration": 1.04,
+        "description_visual": "中近景平拍镜头；餐厅背景；画面中央人物，身穿白色西装，站立，注视，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浅灰西装男",
+                "gender": "男",
+                "clothing": "浅灰色西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "站立，摇头",
+                "expression": "眉毛微挑，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "中景固定镜头。浅灰西装男继续指责：'没想到这么粗鲁。'",
+        "dialogue": "没想到这么粗鲁。",
+        "speaker": "浅灰西装男",
+        "emotion": "失望/指责",
+        "duration": 1.56,
+        "description_visual": "中景平拍镜头；餐厅背景；画面中央人物，身穿浅灰色西装，黑色衬衫，站立，摇头，表情：眉毛微挑，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站立，反问",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。安吉拉反问：'我粗鲁。'",
+        "dialogue": "我粗鲁。",
+        "speaker": "安吉拉",
+        "emotion": "反问/愤怒",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿白色西装，站立，反问，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红裙女子",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "手捂脸，眼神躲闪",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "近景固定镜头。红裙女子心虚。画外音（安吉拉）：'你要不要问问她。'",
+        "dialogue": "你要不要问问她。",
+        "speaker": "安吉拉",
+        "emotion": "揭露",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；餐厅背景；画面中央人物，身穿红色吊带裙，手捂脸，眼神躲闪，表情：眉毛微蹙，眼睛侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安吉拉",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站立，手指对方",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "餐厅背景",
+        "description_narrative": "中近景固定镜头。安吉拉揭露真相：'都在背后对我做了什么。'",
+        "dialogue": "都在背后对我做了什么。",
+        "speaker": "安吉拉",
+        "emotion": "愤怒/揭露",
+        "duration": 3.24,
+        "description_visual": "中近景平拍镜头；餐厅背景；画面中央人物，身穿白色西装，站立，手指对方，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张。"
+    }
+]

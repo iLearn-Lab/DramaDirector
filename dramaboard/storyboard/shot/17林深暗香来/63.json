@@ -1,0 +1,546 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦牧川",
+                "gender": "男",
+                "clothing": "浅灰色西装三件套",
+                "position": "背景门口",
+                "action": "推门进入室内，身体微侧",
+                "expression": "眉毛微挑，眼睛看向室内，嘴巴微张"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "黑色外套，白色内搭，白色长裤",
+                "position": "画面中央沙发",
+                "action": "端坐，双手交叠放在腿上",
+                "expression": "眉毛平展，眼神锐利，嘴巴紧闭"
+            },
+            {
+                "name": "刘珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面右侧沙发",
+                "action": "背对镜头坐着，身体微转向门口",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代风格客厅，米色沙发，暖色灯光，门口有深色木门",
+        "description_narrative": "全景镜头，秦牧川身穿浅灰色西装从背景门口走进客厅，母亲身穿黑色外套端坐在中央沙发上，刘珊珊身穿粉色连衣裙坐在右侧沙发上。秦牧川进门打招呼，母亲回应并让他看东西。",
+        "dialogue": "妈，我回来了。牧川，你回来的正好。看看吧。",
+        "speaker": "秦牧川/母亲",
+        "emotion": "平静/威严",
+        "duration": 11.52,
+        "description_visual": "全景平拍镜头；现代风格客厅，米色沙发，暖色灯光，门口有深色木门；背景门口人物，身穿浅灰色西装三件套，推门进入室内，身体微侧，表情：眉毛微挑，眼睛看向室内，嘴巴微张；画面中央沙发人物，身穿黑色外套，白色内搭，白色长裤，端坐，双手交叠放在腿上，表情：眉毛平展，眼神锐利，嘴巴紧闭；画面右侧沙发人物，身穿粉色连衣裙，背对镜头坐着，身体微转向门口，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "黑色外套，白色内搭，珍珠项链",
+                "position": "画面中央",
+                "action": "头部微转，眼神注视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇微启"
+            }
+        ],
+        "background": "虚化的室内背景，暖色调",
+        "description_narrative": "母亲面部特写，她神情严肃，佩戴珍珠耳环和项链，正在陈述事实。",
+        "dialogue": "刘珊珊抽血",
+        "speaker": "母亲",
+        "emotion": "严肃",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；虚化的室内背景，暖色调；画面中央人物，身穿黑色外套，白色内搭，珍珠项链，头部微转，眼神注视前方，表情：眉毛微蹙，眼睛直视，嘴唇微启。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦牧川",
+                "gender": "男",
+                "clothing": "浅灰色西装，白色衬衫，深色领带",
+                "position": "画面中央",
+                "action": "低头注视下方，身体静止",
+                "expression": "眉毛下垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "虚化的室内背景",
+        "description_narrative": "秦牧川近景，他身穿灰色西装，低头听着母亲的话，神情略显凝重。",
+        "dialogue": "和你做的",
+        "speaker": "母亲",
+        "emotion": "凝重",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；虚化的室内背景；画面中央人物，身穿浅灰色西装，白色衬衫，深色领带，低头注视下方，身体静止，表情：眉毛下垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "手持文件递出",
+                "expression": "不可见"
+            },
+            {
+                "name": "秦牧川",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面右侧",
+                "action": "伸手接过文件",
+                "expression": "不可见"
+            }
+        ],
+        "background": "文件特写，背景虚化",
+        "description_narrative": "特写镜头，母亲的手将一份文件递给秦牧川，文件上隐约可见文字。",
+        "dialogue": "和你做的亲子鉴定",
+        "speaker": "母亲",
+        "emotion": "冷静",
+        "duration": 0.6,
+        "description_visual": "特写俯拍镜头；文件特写，背景虚化；画面左侧人物，身穿黑色外套，手持文件递出，表情：不可见；画面右侧人物，身穿浅灰色西装，伸手接过文件，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "秦牧川",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面下方",
+                "action": "手持文件阅读",
+                "expression": "不可见"
+            }
+        ],
+        "background": "文件纸张纹理，模糊的文字",
+        "description_narrative": "镜头推进聚焦在文件上，秦牧川的手拿着文件，纸张上的文字逐渐清晰。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "特写俯拍镜头（推进）；文件纸张纹理，模糊的文字；画面下方人物，身穿浅灰色西装，手持文件阅读，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦牧川",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面下方",
+                "action": "手指捏住文件边缘",
+                "expression": "不可见"
+            }
+        ],
+        "background": "文件表格内容，基因位点数据",
+        "description_narrative": "文件特写，清晰显示出表格和基因位点数据，秦牧川的手指捏着纸张边缘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "特写俯拍镜头；文件表格内容，基因位点数据；画面下方人物，身穿浅灰色西装，手指捏住文件边缘，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙，银色项链",
+                "position": "画面左侧",
+                "action": "侧身站立，手扶着秦牧川的手臂",
+                "expression": "眉毛微蹙，眼睛看向秦牧川，嘴巴微张"
+            }
+        ],
+        "background": "虚化的大理石墙面",
+        "description_narrative": "刘珊珊近景，她身穿粉色连衣裙，佩戴项链，神情紧张期待地看着秦牧川。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；虚化的大理石墙面；画面左侧人物，身穿粉色连衣裙，银色项链，侧身站立，手扶着秦牧川的手臂，表情：眉毛微蹙，眼睛看向秦牧川，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦牧川",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面下方",
+                "action": "手持文件",
+                "expression": "不可见"
+            }
+        ],
+        "background": "人民医院医学检验中心报告单",
+        "description_narrative": "报告单特写，标题清晰可见“人民医院医学检验中心”，秦牧川正在阅读。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "特写俯拍镜头；人民医院医学检验中心报告单；画面下方人物，身穿浅灰色西装，手持文件，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面左侧",
+                "action": "低头看文件，手扶秦牧川手臂",
+                "expression": "眉毛低垂，眼睛下视，嘴唇涂红"
+            }
+        ],
+        "background": "虚化的室内背景",
+        "description_narrative": "刘珊珊低头看着秦牧川手中的文件，神情专注且带着一丝试探。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；虚化的室内背景；画面左侧人物，身穿粉色连衣裙，低头看文件，手扶秦牧川手臂，表情：眉毛低垂，眼睛下视，嘴唇涂红。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦牧川",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "低头阅读文件，眉头微锁",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "虚化的室内背景",
+        "description_narrative": "秦牧川近景，他低头看着手中的鉴定报告，神情复杂，刘珊珊在一旁催促。",
+        "dialogue": "牧川你看。",
+        "speaker": "刘珊珊",
+        "emotion": "急切",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；虚化的室内背景；画面中央人物，身穿浅灰色西装，低头阅读文件，眉头微锁，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "抬头看向秦牧川，手抚腹部",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张说话"
+            }
+        ],
+        "background": "虚化的大理石墙面",
+        "description_narrative": "刘珊珊近景，她抬头看着秦牧川，手轻轻放在腹部，说出怀孕的事实。",
+        "dialogue": "我怀的就是你的孩子。",
+        "speaker": "刘珊珊",
+        "emotion": "坚定",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；虚化的大理石墙面；画面中央人物，身穿粉色连衣裙，抬头看向秦牧川，手抚腹部，表情：眉毛舒展，眼睛直视，嘴巴微张说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦牧川",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "抬头直视前方，表情平淡",
+                "expression": "眉毛平展，眼睛平视，嘴巴紧闭"
+            }
+        ],
+        "background": "虚化的室内背景",
+        "description_narrative": "秦牧川近景，他听着刘珊珊的话，面无表情，刘珊珊继续提出上户口的要求。",
+        "dialogue": "孩子需要上户口。",
+        "speaker": "刘珊珊",
+        "emotion": "平淡",
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；虚化的室内背景；画面中央人物，身穿浅灰色西装，抬头直视前方，表情平淡，表情：眉毛平展，眼睛平视，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面左侧",
+                "action": "侧头看向秦牧川，眼神期待",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "虚化的大理石墙面",
+        "description_narrative": "刘珊珊近景，她紧盯着秦牧川，询问结婚的时间，手依然扶着秦牧川的手臂。",
+        "dialogue": "我们什么时候结婚啊？",
+        "speaker": "刘珊珊",
+        "emotion": "期待",
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；虚化的大理石墙面；画面左侧人物，身穿粉色连衣裙，侧头看向秦牧川，眼神期待，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "黑色外套，珍珠项链",
+                "position": "画面中央",
+                "action": "侧头看向一旁，神情冷漠",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴微启"
+            }
+        ],
+        "background": "虚化的室内背景，有光斑",
+        "description_narrative": "母亲面部特写，她神情冷淡，眼神看向别处，缓缓说出推迟结婚的决定。",
+        "dialogue": "等你生下来再说吧。",
+        "speaker": "母亲",
+        "emotion": "冷漠",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；虚化的室内背景，有光斑；画面中央人物，身穿黑色外套，珍珠项链，侧头看向一旁，神情冷漠，表情：眉毛微蹙，眼睛斜视，嘴巴微启。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面左侧",
+                "action": "低头，眼神失落",
+                "expression": "眉毛下垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "虚化的大理石墙面",
+        "description_narrative": "刘珊珊近景，听到母亲的回答后，她低下头，眼神中闪过一丝失落但很快恢复平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "失落",
+        "duration": 0.68,
+        "description_visual": "近景平拍镜头；虚化的大理石墙面；画面左侧人物，身穿粉色连衣裙，低头，眼神失落，表情：眉毛下垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦牧川",
+                "gender": "男",
+                "clothing": "浅灰色西装",
+                "position": "画面中央",
+                "action": "闭眼深吸一口气，无奈",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "虚化的室内背景",
+        "description_narrative": "秦牧川近景，他无奈地闭上眼睛，似乎对现状感到疲惫，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无奈",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；虚化的室内背景；画面中央人物，身穿浅灰色西装，闭眼深吸一口气，无奈，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面左侧",
+                "action": "低头顺从，手扶腹部",
+                "expression": "眉毛低垂，眼睛下视，嘴巴微动"
+            }
+        ],
+        "background": "虚化的大理石墙面",
+        "description_narrative": "刘珊珊近景，她低头轻声答应，表面顺从，手依然护着腹部。",
+        "dialogue": "是。",
+        "speaker": "刘珊珊",
+        "emotion": "顺从",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；虚化的大理石墙面；画面左侧人物，身穿粉色连衣裙，低头顺从，手扶腹部，表情：眉毛低垂，眼睛下视，嘴巴微动。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "刘珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "低头，眼神阴狠",
+                "expression": "眉毛微蹙，眼睛下视，嘴角微抿"
+            }
+        ],
+        "background": "虚化的室内背景",
+        "description_narrative": "刘珊珊近景，她表面顺从，内心却在盘算，画外音传出她联系媒体曝光婚讯的计划。",
+        "dialogue": "快帮我联系新闻社，我要让所有人知道，我马上就要嫁进秦家。秦夫人少奶奶的位置迟早是我的。",
+        "speaker": "刘珊珊",
+        "emotion": "阴狠",
+        "duration": 19.72,
+        "description_visual": "近景平拍镜头；虚化的室内背景；画面中央人物，身穿粉色连衣裙，低头，眼神阴狠，表情：眉毛微蹙，眼睛下视，嘴角微抿。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑屏",
+        "description_narrative": "黑屏过渡，传来女同事兴奋的声音，播报大新闻。",
+        "dialogue": "大新闻，大新闻，秦总要",
+        "speaker": "女同事",
+        "emotion": "兴奋",
+        "duration": 4.52,
+        "description_visual": "特写平拍镜头；黑屏。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面手持手机",
+                "action": "手持手机展示屏幕",
+                "expression": "不可见"
+            }
+        ],
+        "background": "手机屏幕，新闻界面",
+        "description_narrative": "手机屏幕特写，显示着秦牧川的新闻，女同事的手拿着手机，画外音继续播报婚讯。",
+        "dialogue": "结婚了。",
+        "speaker": "女同事",
+        "emotion": "兴奋",
+        "duration": 1.64,
+        "description_visual": "特写俯拍镜头；手机屏幕，新闻界面；画面手持手机人物，身穿不可见，手持手机展示屏幕，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏曼",
+                "gender": "女",
+                "clothing": "灰色外套，黑色高领衫",
+                "position": "画面中央办公桌前",
+                "action": "坐在电脑前，手持手机，神情震惊",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，白色办公桌，电脑",
+        "description_narrative": "苏曼坐在办公室桌前，看着手机上的新闻，神情从震惊转为悲伤，女同事在旁安慰。",
+        "dialogue": "这回，我真的是彻底的失恋了。秦牧川和你，本来就不是一路人，你有什么好难过的？是时候和他划清界限了。",
+        "speaker": "女同事",
+        "emotion": "悲伤/安慰",
+        "duration": 17.32,
+        "description_visual": "中景平拍镜头；办公室环境，白色办公桌，电脑；画面中央办公桌前人物，身穿灰色外套，黑色高领衫，坐在电脑前，手持手机，神情震惊，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏曼",
+                "gender": "女",
+                "clothing": "灰色外套",
+                "position": "画面中央",
+                "action": "手持手机通话，眼神决绝",
+                "expression": "眉毛舒展，眼睛坚定，嘴巴微张说话"
+            }
+        ],
+        "background": "办公室环境，强光过曝效果",
+        "description_narrative": "苏曼中近景，画面带有强光过曝效果，她拿着手机打电话给浩然，语气决绝地提出领证。",
+        "dialogue": "浩然，我想，我们去领证吧。",
+        "speaker": "苏曼",
+        "emotion": "决绝",
+        "duration": 6.68,
+        "description_visual": "中近景平拍镜头；办公室环境，强光过曝效果；画面中央人物，身穿灰色外套，手持手机通话，眼神决绝，表情：眉毛舒展，眼睛坚定，嘴巴微张说话。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏曼",
+                "gender": "女",
+                "clothing": "灰色外套",
+                "position": "画面中央",
+                "action": "闭眼，头部微垂",
+                "expression": "眉毛低垂，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室环境，强光过曝效果",
+        "description_narrative": "苏曼中近景，强光笼罩，她说完话后闭眼，似乎在下定决心斩断过去。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "释然",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；办公室环境，强光过曝效果；画面中央人物，身穿灰色外套，闭眼，头部微垂，表情：眉毛低垂，眼睛闭合，嘴巴紧闭。"
+    }
+]

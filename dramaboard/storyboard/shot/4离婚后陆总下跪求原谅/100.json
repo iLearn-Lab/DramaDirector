@@ -1,0 +1,726 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林全",
+                "gender": "男",
+                "clothing": "黑色西装外套",
+                "position": "前景右侧",
+                "action": "背对镜头站立，面向病床",
+                "expression": "不可见"
+            },
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "背景中央",
+                "action": "躺在病床上，双眼紧闭",
+                "expression": "平静，无意识"
+            }
+        ],
+        "background": "医院病房，白色墙壁，床头有粉色床号标识66",
+        "description_narrative": "中景固定镜头，林全身穿黑色西装背对镜头站在病床边，时庭身穿蓝白条纹病号服躺在病床上昏迷不醒，顾晚在画外呼唤林全的名字。",
+        "dialogue": "林全",
+        "speaker": "顾晚",
+        "emotion": "关切",
+        "duration": 2.08,
+        "description_visual": "中景平拍镜头；医院病房，白色墙壁，床头有粉色床号标识66；前景右侧人物，身穿黑色西装外套，背对镜头站立，面向病床，表情：不可见；背景中央人物，身穿蓝白条纹病号服，躺在病床上，双眼紧闭，表情：平静，无意识。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林全",
+                "gender": "男",
+                "clothing": "黑色西装外套，黑色内搭",
+                "position": "画面中央",
+                "action": "转身面向镜头，微微低头",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "浅色格纹窗帘背景",
+        "description_narrative": "中近景固定镜头，林全转身面向顾晚，神情恭敬地称呼对方为夫人。",
+        "dialogue": "夫人。",
+        "speaker": "林全",
+        "emotion": "恭敬",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；浅色格纹窗帘背景；画面中央人物，身穿黑色西装外套，黑色内搭，转身面向镜头，微微低头，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色泡泡袖连衣裙，珍珠项链",
+                "position": "画面中央",
+                "action": "站立，目光看向画面右侧",
+                "expression": "眉毛舒展，眼睛平视，嘴唇紧闭"
+            }
+        ],
+        "background": "病房门口，白色墙壁",
+        "description_narrative": "中近景固定镜头，顾晚身穿白色连衣裙站在门口，林全在画外询问她今天的情况。",
+        "dialogue": "您来了，今天怎么样？",
+        "speaker": "林全",
+        "emotion": "平静",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；病房门口，白色墙壁；画面中央人物，身穿白色泡泡袖连衣裙，珍珠项链，站立，目光看向画面右侧，表情：眉毛舒展，眼睛平视，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "躺在枕头上，头部微仰",
+                "expression": "双眼紧闭，嘴巴微张，呼吸平稳"
+            }
+        ],
+        "background": "病床床头，白色医疗设备面板",
+        "description_narrative": "特写仰拍镜头，时庭躺在病床上昏迷不醒，顾晚在画外焦急地询问他是否还没醒。",
+        "dialogue": "他还是没醒吗？",
+        "speaker": "顾晚",
+        "emotion": "担忧",
+        "duration": 1.52,
+        "description_visual": "特写仰拍镜头；病床床头，白色医疗设备面板；画面中央人物，身穿蓝白条纹病号服，躺在枕头上，头部微仰，表情：双眼紧闭，嘴巴微张，呼吸平稳。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面左侧",
+                "action": "站立，看向病床",
+                "expression": "眉头微蹙，神情担忧"
+            },
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央床上",
+                "action": "躺着不动",
+                "expression": "昏迷中"
+            },
+            {
+                "name": "林全",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立，背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房全景，病床，床头柜",
+        "description_narrative": "全景高角度镜头，三人在病房内，林全在画外回答还没有醒。",
+        "dialogue": "还没有。",
+        "speaker": "林全",
+        "emotion": "无奈",
+        "duration": 1.36,
+        "description_visual": "全景高角度镜头；医院病房全景，病床，床头柜；画面左侧人物，身穿白色连衣裙，站立，看向病床，表情：眉头微蹙，神情担忧；画面中央床上人物，身穿蓝白条纹病号服，躺着不动，表情：昏迷中；画面右侧人物，身穿黑色西装，站立，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面中央",
+                "action": "微微低头，眼神下移",
+                "expression": "眉毛微垂，眼睛向下看，嘴唇微动"
+            }
+        ],
+        "background": "模糊的前景肩膀，白色墙壁",
+        "description_narrative": "中近景过肩镜头，顾晚让林全先去忙，神情略显疲惫。",
+        "dialogue": "好，你先去忙吧。",
+        "speaker": "顾晚",
+        "emotion": "疲惫",
+        "duration": 2.32,
+        "description_visual": "中近景过肩镜头；模糊的前景肩膀，白色墙壁；画面中央人物，身穿白色连衣裙，微微低头，眼神下移，表情：眉毛微垂，眼睛向下看，嘴唇微动。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林全",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "低头，准备离开",
+                "expression": "眉毛下垂，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "浅色格纹窗帘",
+        "description_narrative": "中近景固定镜头，林全低头应声，准备离开病房。",
+        "dialogue": "哦。",
+        "speaker": "林全",
+        "emotion": "顺从",
+        "duration": 2.04,
+        "description_visual": "中近景平拍镜头；浅色格纹窗帘；画面中央人物，身穿黑色西装，低头，准备离开，表情：眉毛下垂，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面左侧",
+                "action": "转身，看向林全方向",
+                "expression": "眉毛微挑，眼睛注视，嘴唇微张"
+            }
+        ],
+        "background": "病房一角，蓝色床头柜",
+        "description_narrative": "中景固定镜头，顾晚转身看向林全，林全在画外转达医生的建议。",
+        "dialogue": "对了，医生说要多说话。",
+        "speaker": "林全",
+        "emotion": "提醒",
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；病房一角，蓝色床头柜；画面左侧人物，身穿白色连衣裙，转身，看向林全方向，表情：眉毛微挑，眼睛注视，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林全",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "侧头看向病床方向",
+                "expression": "眉毛舒展，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "浅色格纹窗帘",
+        "description_narrative": "中近景固定镜头，林全补充说要说病人爱听的话。",
+        "dialogue": "尤其是说爱听的话。",
+        "speaker": "林全",
+        "emotion": "认真",
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；浅色格纹窗帘；画面中央人物，身穿黑色西装，侧头看向病床方向，表情：眉毛舒展，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面中央",
+                "action": "点头，若有所思",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴唇微动"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "中近景固定镜头，顾晚重复着医生的话，表示理解这样能好得快。",
+        "dialogue": "这样才能好的快一点",
+        "speaker": "顾晚",
+        "emotion": "理解",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；白色墙壁；画面中央人物，身穿白色连衣裙，点头，若有所思，表情：眉毛微蹙，眼睛注视前方，嘴唇微动。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林全",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "点头，转身离开",
+                "expression": "眉毛舒展，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "浅色格纹窗帘",
+        "description_narrative": "中近景固定镜头，林全应声好，顾晚在画外呼唤时庭的名字。",
+        "dialogue": "时庭",
+        "speaker": "顾晚",
+        "emotion": "温柔",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；浅色格纹窗帘；画面中央人物，身穿黑色西装，点头，转身离开，表情：眉毛舒展，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面左侧",
+                "action": "走向病床",
+                "expression": "神情专注"
+            },
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央床上",
+                "action": "躺着",
+                "expression": "昏迷"
+            },
+            {
+                "name": "林全",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "前景右侧",
+                "action": "走出画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房，病床，床头柜",
+        "description_narrative": "全景高角度跟拍镜头，林全离开，顾晚独自走向病床边。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "孤独",
+        "duration": 2.24,
+        "description_visual": "全景高角度镜头（跟拍）；医院病房，病床，床头柜；画面左侧人物，身穿白色连衣裙，走向病床，表情：神情专注；画面中央床上人物，身穿蓝白条纹病号服，躺着，表情：昏迷；前景右侧人物，身穿黑色西装，走出画面，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面中央",
+                "action": "低头看着病床",
+                "expression": "眉毛微蹙，眼睛向下看，嘴唇紧闭"
+            }
+        ],
+        "background": "病房门口",
+        "description_narrative": "中景固定镜头，顾晚站在床边低头看着昏迷的时庭，神情悲伤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 2.48,
+        "description_visual": "中景平拍镜头；病房门口；画面中央人物，身穿白色连衣裙，低头看着病床，表情：眉毛微蹙，眼睛向下看，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "躺着，双眼紧闭",
+                "expression": "平静，无意识"
+            }
+        ],
+        "background": "病床床头",
+        "description_narrative": "特写仰拍镜头，时庭依旧昏迷，顾晚在画外焦急地问他为什么还不醒。",
+        "dialogue": "你为什么还不醒啊",
+        "speaker": "顾晚",
+        "emotion": "焦急",
+        "duration": 2.04,
+        "description_visual": "特写仰拍镜头；病床床头；画面中央人物，身穿蓝白条纹病号服，躺着，双眼紧闭，表情：平静，无意识。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面中央",
+                "action": "身体前倾，靠近病床",
+                "expression": "眉毛紧锁，眼睛注视病床，嘴唇微动"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "中近景固定镜头，顾晚俯身对着时庭承诺，如果他醒了就原谅他。",
+        "dialogue": "如果你醒了。",
+        "speaker": "顾晚",
+        "emotion": "深情",
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；白色墙壁；画面中央人物，身穿白色连衣裙，身体前倾，靠近病床，表情：眉毛紧锁，眼睛注视病床，嘴唇微动。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "躺着，双眼紧闭",
+                "expression": "平静，无意识"
+            }
+        ],
+        "background": "病床床头",
+        "description_narrative": "特写仰拍镜头，时庭依旧躺着，顾晚在画外说完我就原谅你。",
+        "dialogue": "我就原谅你。",
+        "speaker": "顾晚",
+        "emotion": "坚定",
+        "duration": 2.04,
+        "description_visual": "特写仰拍镜头；病床床头；画面中央人物，身穿蓝白条纹病号服，躺着，双眼紧闭，表情：平静，无意识。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "突然坐起，睁眼",
+                "expression": "眉毛上扬，眼睛睁开，嘴巴微张"
+            }
+        ],
+        "background": "病床床头",
+        "description_narrative": "中近景固定镜头，时庭突然坐起来，惊讶地问真的吗。",
+        "dialogue": "真的吗",
+        "speaker": "时庭",
+        "emotion": "惊喜",
+        "duration": 0.88,
+        "description_visual": "中近景平拍镜头；病床床头；画面中央人物，身穿蓝白条纹病号服，突然坐起，睁眼，表情：眉毛上扬，眼睛睁开，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面左侧",
+                "action": "身体后仰，瞪大眼睛",
+                "expression": "眉毛高挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "中近景固定镜头，顾晚被时庭的突然苏醒吓了一跳，惊讶地说你醒啦。",
+        "dialogue": "你醒啦。",
+        "speaker": "顾晚",
+        "emotion": "震惊",
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；白色墙壁；画面左侧人物，身穿白色连衣裙，身体后仰，瞪大眼睛，表情：眉毛高挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "前景左侧",
+                "action": "坐着/站着",
+                "expression": "不可见"
+            },
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "背景右侧床上",
+                "action": "坐起，看着顾晚",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微动"
+            }
+        ],
+        "background": "病床，床头柜",
+        "description_narrative": "中景过肩镜头，时庭笑着指责顾晚又骗他。",
+        "dialogue": "你又骗我。",
+        "speaker": "时庭",
+        "emotion": "调侃",
+        "duration": 1.4,
+        "description_visual": "中景过肩镜头；病床，床头柜；前景左侧人物，身穿白色连衣裙，坐着/站着，表情：不可见；背景右侧床上人物，身穿蓝白条纹病号服，坐起，看着顾晚，表情：眉毛微蹙，眼睛注视，嘴巴微动。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "捂头，皱眉",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "近景侧拍镜头，时庭假装头痛，发出哎呦的声音。",
+        "dialogue": "哎呦",
+        "speaker": "时庭",
+        "emotion": "假装痛苦",
+        "duration": 1.56,
+        "description_visual": "近景侧拍镜头；白色墙壁；画面中央人物，身穿蓝白条纹病号服，捂头，皱眉，表情：眉毛紧锁，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面中央",
+                "action": "前倾，伸手",
+                "expression": "眉毛紧蹙，眼睛担忧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "中近景固定镜头，顾晚紧张地问他有没有事。",
+        "dialogue": "你没事吧",
+        "speaker": "顾晚",
+        "emotion": "紧张",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；白色墙壁；画面中央人物，身穿白色连衣裙，前倾，伸手，表情：眉毛紧蹙，眼睛担忧，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "前景",
+                "action": "手搭在时庭肩膀上",
+                "expression": "不可见"
+            },
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "背景",
+                "action": "肩膀被触碰",
+                "expression": "不可见"
+            }
+        ],
+        "background": "蓝白条纹布料",
+        "description_narrative": "特写固定镜头，顾晚的手搭在时庭肩膀上，时庭在画外说头痛。",
+        "dialogue": "头痛",
+        "speaker": "时庭",
+        "emotion": "撒娇",
+        "duration": 0.76,
+        "description_visual": "特写平拍镜头；蓝白条纹布料；前景人物，身穿白色连衣裙，手搭在时庭肩膀上，表情：不可见；背景人物，身穿蓝白条纹病号服，肩膀被触碰，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "前景",
+                "action": "手握住顾晚的手腕",
+                "expression": "不可见"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "背景",
+                "action": "手腕被握住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "蓝白条纹布料，白色布料",
+        "description_narrative": "特写固定镜头，时庭握住顾晚的手腕，深情地呼唤她的名字顾晚。",
+        "dialogue": "顾晚",
+        "speaker": "时庭",
+        "emotion": "深情",
+        "duration": 0.76,
+        "description_visual": "特写平拍镜头；蓝白条纹布料，白色布料；前景人物，身穿蓝白条纹病号服，手握住顾晚的手腕，表情：不可见；背景人物，身穿白色连衣裙，手腕被握住，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面右侧",
+                "action": "看着顾晚，眼神诚恳",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微动"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "中近景过肩镜头，时庭请求顾晚再给他一次机会。",
+        "dialogue": "再给我一次机会",
+        "speaker": "时庭",
+        "emotion": "恳求",
+        "duration": 1.84,
+        "description_visual": "中近景过肩镜头；白色墙壁；画面右侧人物，身穿蓝白条纹病号服，看着顾晚，眼神诚恳，表情：眉毛微蹙，眼睛注视，嘴巴微动。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面左侧",
+                "action": "看着时庭，眼眶微红",
+                "expression": "眉毛微蹙，眼睛湿润，嘴唇微张"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "中近景过肩镜头，顾晚看着时庭，时庭在画外说自己知道错了。",
+        "dialogue": "我知道错了",
+        "speaker": "时庭",
+        "emotion": "悔过",
+        "duration": 1.8,
+        "description_visual": "中近景过肩镜头；白色墙壁；画面左侧人物，身穿白色连衣裙，看着时庭，眼眶微红，表情：眉毛微蹙，眼睛湿润，嘴唇微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "前景",
+                "action": "手拿戒指戴在顾晚手指上",
+                "expression": "不可见"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "背景",
+                "action": "手指被戴上戒指",
+                "expression": "不可见"
+            }
+        ],
+        "background": "粉色被子",
+        "description_narrative": "特写俯拍镜头，时庭将戒指戴在顾晚手指上，问她愿不愿意。",
+        "dialogue": "你愿意",
+        "speaker": "时庭",
+        "emotion": "期待",
+        "duration": 2.44,
+        "description_visual": "特写俯拍镜头；粉色被子；前景人物，身穿蓝白条纹病号服，手拿戒指戴在顾晚手指上，表情：不可见；背景人物，身穿白色连衣裙，手指被戴上戒指，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面中央",
+                "action": "低头看着戒指，流泪",
+                "expression": "眉毛紧锁，眼睛含泪，嘴唇颤抖"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "中近景固定镜头，顾晚感动地看着手上的戒指，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "感动",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；白色墙壁；画面中央人物，身穿白色连衣裙，低头看着戒指，流泪，表情：眉毛紧锁，眼睛含泪，嘴唇颤抖。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "时庭",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面右侧",
+                "action": "亲吻顾晚",
+                "expression": "闭眼"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面左侧",
+                "action": "被亲吻，手放在时庭头上",
+                "expression": "闭眼"
+            }
+        ],
+        "background": "病床，窗帘",
+        "description_narrative": "中景侧拍镜头，两人深情拥吻，时庭在画外问能不能再嫁给他一次。",
+        "dialogue": "再嫁给我一次吗",
+        "speaker": "时庭",
+        "emotion": "深情",
+        "duration": 7.12,
+        "description_visual": "中景侧拍镜头；病床，窗帘；画面右侧人物，身穿蓝白条纹病号服，亲吻顾晚，表情：闭眼；画面左侧人物，身穿白色连衣裙，被亲吻，手放在时庭头上，表情：闭眼。"
+    }
+]

@@ -1,0 +1,845 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套内搭白色T恤",
+                "position": "画面左侧",
+                "action": "趴在桌上睡觉，头枕在手臂上",
+                "expression": "眼睛紧闭，嘴巴微张，处于睡眠状态"
+            },
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面右侧",
+                "action": "坐在电脑前打字",
+                "expression": "眼神专注屏幕，表情平静"
+            },
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色长袖上衣",
+                "position": "右前景",
+                "action": "背对镜头，双手整理桌上文件",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室场景，白色办公桌，堆叠的书籍和文件，光线明亮",
+        "description_narrative": "全景俯拍办公室，老陈趴在左侧桌上睡觉，黎苑在右侧打字工作，前景盛夏背对镜头整理文件，桌上堆满书籍。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.7,
+        "description_visual": "全景俯拍镜头；办公室场景，白色办公桌，堆叠的书籍和文件，光线明亮；画面左侧人物，身穿黑色外套内搭白色T恤，趴在桌上睡觉，头枕在手臂上，表情：眼睛紧闭，嘴巴微张，处于睡眠状态；画面右侧人物，身穿黑色金扣外套，坐在电脑前打字，表情：眼神专注屏幕，表情平静；右前景人物，身穿黑色长袖上衣，背对镜头，双手整理桌上文件，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "头枕在手臂上趴在文件上",
+                "expression": "黑发遮住额头，眼镜滑落，正在熟睡"
+            }
+        ],
+        "background": "白色桌面，棕色文件夹，文件纸张",
+        "description_narrative": "特写老陈趴在文件上熟睡，黑发凌乱，眼镜歪斜，手臂枕在头下。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；白色桌面，棕色文件夹，文件纸张；画面中央人物，身穿黑色外套，头枕在手臂上趴在文件上，表情：黑发遮住额头，眼镜滑落，正在熟睡。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "猛然抬头，手撑在桌上",
+                "expression": "眼睛惊醒睁大，嘴巴微张，神情慌乱"
+            }
+        ],
+        "background": "模糊的办公背景",
+        "description_narrative": "镜头推进，老陈猛然从桌上抬头，眼神惊慌，嘴巴微张，似乎发现了什么。",
+        "dialogue": "盛总啊",
+        "speaker": "老陈",
+        "emotion": "惊慌",
+        "duration": 0.73,
+        "description_visual": "近景平拍镜头（推进）；模糊的办公背景；画面中央人物，身穿黑色外套，猛然抬头，手撑在桌上，表情：眼睛惊醒睁大，嘴巴微张，神情慌乱。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套内搭白色T恤",
+                "position": "画面左侧",
+                "action": "坐直身体，双手摊开解释",
+                "expression": "眉毛微挑，眼神躲闪，嘴巴快速开合"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫黑色短裙",
+                "position": "画面中央后方",
+                "action": "站立，双手自然下垂",
+                "expression": "眉头微蹙，眼神严肃，嘴唇紧闭"
+            },
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面右侧",
+                "action": "继续打字，侧脸看向老陈",
+                "expression": "眼神旁观，表情淡定"
+            }
+        ],
+        "background": "办公室，玻璃隔断，白色办公桌",
+        "description_narrative": "中景镜头，老陈坐直身体慌乱解释，盛总站在身后严肃注视，黎苑在旁打字旁观。",
+        "dialogue": "这个季度的报表，我交给新员工做了。",
+        "speaker": "老陈",
+        "emotion": "推卸责任",
+        "duration": 5.47,
+        "description_visual": "中景平拍镜头；办公室，玻璃隔断，白色办公桌；画面左侧人物，身穿黑色外套内搭白色T恤，坐直身体，双手摊开解释，表情：眉毛微挑，眼神躲闪，嘴巴快速开合；画面中央后方人物，身穿白色衬衫黑色短裙，站立，双手自然下垂，表情：眉头微蹙，眼神严肃，嘴唇紧闭；画面右侧人物，身穿黑色金扣外套，继续打字，侧脸看向老陈，表情：眼神旁观，表情淡定。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "身体前倾，手指指向某处",
+                "expression": "眼神急切，嘴巴微张，试图甩锅"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧后方",
+                "action": "站立，双臂交叉抱胸",
+                "expression": "目光冷冽，嘴角下撇，充满质疑"
+            }
+        ],
+        "background": "办公室，堆叠的书籍，电脑屏幕",
+        "description_narrative": "老陈身体前倾指向新员工方向，盛总双臂交叉抱胸，冷眼旁观，表情质疑。",
+        "dialogue": "呃，那个小夏。",
+        "speaker": "老陈",
+        "emotion": "急切",
+        "duration": 1.77,
+        "description_visual": "中近景平拍镜头；办公室，堆叠的书籍，电脑屏幕；画面左侧人物，身穿黑色外套，身体前倾，手指指向某处，表情：眼神急切，嘴巴微张，试图甩锅；画面右侧后方人物，身穿白色衬衫，站立，双臂交叉抱胸，表情：目光冷冽，嘴角下撇，充满质疑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色低领长袖",
+                "position": "画面中央",
+                "action": "坐在桌前，双手放在文件上",
+                "expression": "低头看文件，神情专注平静"
+            }
+        ],
+        "background": "办公桌，白色花朵装饰，模糊的书堆",
+        "description_narrative": "镜头聚焦盛夏，她坐在桌前低头整理文件，神情平静，对身后的争执似乎未受影响。",
+        "dialogue": "你把这个月的财务报表，",
+        "speaker": "老陈",
+        "emotion": "命令",
+        "duration": 1.93,
+        "description_visual": "中近景平拍镜头；办公桌，白色花朵装饰，模糊的书堆；画面中央人物，身穿黑色低领长袖，坐在桌前，双手放在文件上，表情：低头看文件，神情专注平静。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色低领长袖",
+                "position": "画面中央",
+                "action": "抬头看向侧方",
+                "expression": "眼神微抬，嘴唇轻抿，表情淡然"
+            }
+        ],
+        "background": "办公桌，白色花朵，书堆",
+        "description_narrative": "盛夏听到指令后微微抬头，眼神平静地看向说话方向，嘴唇轻抿，没有立即反应。",
+        "dialogue": "给盛总看一下。",
+        "speaker": "老陈",
+        "emotion": "命令",
+        "duration": 1.37,
+        "description_visual": "中近景平拍镜头；办公桌，白色花朵，书堆；画面中央人物，身穿黑色低领长袖，抬头看向侧方，表情：眼神微抬，嘴唇轻抿，表情淡然。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "站立，身体微侧",
+                "expression": "表情尴尬，眼神看向盛夏"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央后方",
+                "action": "双臂交叉抱胸",
+                "expression": "眉头紧锁，表情严肃"
+            },
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面右侧",
+                "action": "坐在电脑前",
+                "expression": "侧脸关注局势"
+            },
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "右前景",
+                "action": "坐着，双手交叠",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室全景，白色长桌，文件书籍",
+        "description_narrative": "全景镜头，老陈站立尴尬，盛总抱胸严肃注视，黎苑和盛夏在座，气氛紧张。",
+        "dialogue": "我没做。",
+        "speaker": "盛夏",
+        "emotion": "冷静",
+        "duration": 1.53,
+        "description_visual": "全景俯拍镜头；办公室全景，白色长桌，文件书籍；画面左侧人物，身穿黑色外套，站立，身体微侧，表情：表情尴尬，眼神看向盛夏；画面中央后方人物，身穿白色衬衫，双臂交叉抱胸，表情：眉头紧锁，表情严肃；画面右侧人物，身穿黑色外套，坐在电脑前，表情：侧脸关注局势；右前景人物，身穿黑色上衣，坐着，双手交叠，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "站立，身体僵硬",
+                "expression": "嘴巴微张，眼神惊讶"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "双臂交叉",
+                "expression": "目光锐利，表情不变"
+            }
+        ],
+        "background": "办公室，书堆，电脑",
+        "description_narrative": "老陈听到回答后身体僵硬，嘴巴微张表示惊讶，盛总依旧抱胸冷眼旁观。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.57,
+        "description_visual": "中景平拍镜头；办公室，书堆，电脑；画面左侧人物，身穿黑色外套，站立，身体僵硬，表情：嘴巴微张，眼神惊讶；画面右侧人物，身穿白色衬衫，双臂交叉，表情：目光锐利，表情不变。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "身体前倾，手指桌面",
+                "expression": "眉毛竖起，眼神指责，嘴巴张大"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "双臂交叉",
+                "expression": "面无表情，眼神审视"
+            }
+        ],
+        "background": "办公桌，书堆，电脑屏幕",
+        "description_narrative": "老陈情绪激动，身体前倾指责，眉毛竖起，盛总在一旁冷眼审视，双臂交叉。",
+        "dialogue": "我交给你的工作，你为什么不做？",
+        "speaker": "老陈",
+        "emotion": "愤怒",
+        "duration": 2.47,
+        "description_visual": "中近景平拍镜头；办公桌，书堆，电脑屏幕；画面左侧人物，身穿黑色外套，身体前倾，手指桌面，表情：眉毛竖起，眼神指责，嘴巴张大；画面右侧人物，身穿白色衬衫，双臂交叉，表情：面无表情，眼神审视。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色低领长袖",
+                "position": "画面中央",
+                "action": "双手抱臂，身体后靠",
+                "expression": "眼神斜视，嘴角微撇，不屑"
+            }
+        ],
+        "background": "办公桌，白色花朵，书堆",
+        "description_narrative": "盛夏双手抱臂靠在椅背上，眼神斜视，嘴角微撇，流露出明显的不屑和冷淡。",
+        "dialogue": "你第一天上班，就这样吊儿郎当的。",
+        "speaker": "老陈",
+        "emotion": "指责",
+        "duration": 2.63,
+        "description_visual": "中近景平拍镜头；办公桌，白色花朵，书堆；画面中央人物，身穿黑色低领长袖，双手抱臂，身体后靠，表情：眼神斜视，嘴角微撇，不屑。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "转身看向盛总，手指盛夏",
+                "expression": "表情急切，眼神求助，嘴巴张开"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "双臂交叉",
+                "expression": "眉头微蹙，表情严肃"
+            }
+        ],
+        "background": "办公室，书堆，电脑",
+        "description_narrative": "老陈转身向盛总告状，手指盛夏方向，表情急切求助，盛总依旧抱胸严肃。",
+        "dialogue": "盛总把她开了。你为什么不做？",
+        "speaker": "老陈",
+        "emotion": "告状",
+        "duration": 4.63,
+        "description_visual": "中景平拍镜头；办公室，书堆，电脑；画面左侧人物，身穿黑色外套，转身看向盛总，手指盛夏，表情：表情急切，眼神求助，嘴巴张开；画面右侧人物，身穿白色衬衫，双臂交叉，表情：眉头微蹙，表情严肃。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色低领长袖",
+                "position": "画面中央",
+                "action": "身体前倾，伸手拿文件",
+                "expression": "眼神坚定，嘴唇微启，准备反驳"
+            }
+        ],
+        "background": "办公桌，白色花朵，书堆",
+        "description_narrative": "盛夏身体前倾，伸手拿起桌上的蓝色文件夹，眼神坚定，嘴唇微启准备说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "中近景平拍镜头；办公桌，白色花朵，书堆；画面中央人物，身穿黑色低领长袖，身体前倾，伸手拿文件，表情：眼神坚定，嘴唇微启，准备反驳。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色低领长袖",
+                "position": "画面中央",
+                "action": "举起蓝色文件夹",
+                "expression": "眼神直视前方，表情严肃认真"
+            }
+        ],
+        "background": "模糊的办公背景",
+        "description_narrative": "盛夏举起手中的蓝色文件夹，眼神直视前方，表情严肃，展示文件内容。",
+        "dialogue": "这个签名是陈老师的。",
+        "speaker": "盛夏",
+        "emotion": "冷静",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；模糊的办公背景；画面中央人物，身穿黑色低领长袖，举起蓝色文件夹，表情：眼神直视前方，表情严肃认真。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "看着飞来的文件夹",
+                "expression": "眼神惊讶，嘴巴微张"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "看着文件夹",
+                "expression": "目光跟随文件，表情探究"
+            },
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "右前景",
+                "action": "手持文件夹伸出",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公桌，书堆，电脑",
+        "description_narrative": "过肩镜头，盛夏将蓝色文件夹递出，老陈和盛总看着文件，老陈眼神惊讶。",
+        "dialogue": "这个签名是陈老师的。",
+        "speaker": "盛夏",
+        "emotion": "冷静",
+        "duration": 1.83,
+        "description_visual": "中景过肩镜头；办公桌，书堆，电脑；画面左侧人物，身穿黑色外套，看着飞来的文件夹，表情：眼神惊讶，嘴巴微张；画面右侧人物，身穿白色衬衫，看着文件夹，表情：目光跟随文件，表情探究；右前景人物，身穿黑色上衣，手持文件夹伸出，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色低领长袖",
+                "position": "画面中央",
+                "action": "手持文件夹，手指指向文件",
+                "expression": "眉毛微挑，眼神犀利，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的办公背景",
+        "description_narrative": "盛夏手持文件夹，手指指向文件上的签名，眉毛微挑，眼神犀利地反驳。",
+        "dialogue": "应该由陈老师自己去做。",
+        "speaker": "盛夏",
+        "emotion": "坚定",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；模糊的办公背景；画面中央人物，身穿黑色低领长袖，手持文件夹，手指指向文件，表情：眉毛微挑，眼神犀利，嘴唇紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "看着文件夹",
+                "expression": "表情错愕"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "右侧",
+                "action": "将文件夹推回",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室，白色长桌",
+        "description_narrative": "全景镜头，盛夏将文件夹推回给老陈，老陈表情错愕，盛总抱胸旁观。",
+        "dialogue": "和我又有什么关系。",
+        "speaker": "盛夏",
+        "emotion": "冷漠",
+        "duration": 3.17,
+        "description_visual": "全景俯拍镜头；办公室，白色长桌；画面左侧人物，身穿黑色外套，看着文件夹，表情：表情错愕；画面中央人物，身穿白色衬衫，双臂交叉，表情：表情严肃；右侧人物，身穿黑色上衣，将文件夹推回，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "接过文件夹，低头看",
+                "expression": "表情尴尬，眼神游移"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉，看着老陈",
+                "expression": "眉头紧锁，眼神失望"
+            },
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面右侧",
+                "action": "坐在电脑前",
+                "expression": "侧脸关注"
+            }
+        ],
+        "background": "办公室，书堆，文件",
+        "description_narrative": "老陈尴尬地接过文件夹低头查看，盛总双臂交叉，眉头紧锁地看着他，眼神失望。",
+        "dialogue": "规定的时间，没有完成规定的工作。",
+        "speaker": "盛总",
+        "emotion": "严肃",
+        "duration": 3.3,
+        "description_visual": "中景平拍镜头；办公室，书堆，文件；画面左侧人物，身穿黑色外套，接过文件夹，低头看，表情：表情尴尬，眼神游移；画面中央人物，身穿白色衬衫，双臂交叉，看着老陈，表情：眉头紧锁，眼神失望；画面右侧人物，身穿黑色外套，坐在电脑前，表情：侧脸关注。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "低头翻文件",
+                "expression": "表情沮丧，不敢抬头"
+            },
+            {
+                "name": "盛总",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "双臂交叉",
+                "expression": "目光冷冽，嘴唇微动"
+            }
+        ],
+        "background": "办公桌，书堆",
+        "description_narrative": "老陈低头沮丧地翻着文件，不敢抬头，盛总目光冷冽，嘴唇微动宣布决定。",
+        "dialogue": "这个月的绩效。",
+        "speaker": "盛总",
+        "emotion": "决断",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；办公桌，书堆；画面左侧人物，身穿黑色外套，低头翻文件，表情：表情沮丧，不敢抬头；画面右侧人物，身穿白色衬衫，双臂交叉，表情：目光冷冽，嘴唇微动。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色低领长袖",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神看向侧方",
+                "expression": "眼神平静，嘴角微抿，无动于衷"
+            }
+        ],
+        "background": "办公桌，白色花朵，书堆",
+        "description_narrative": "镜头切回盛夏，她坐在桌前，眼神平静地看向侧方，嘴角微抿，对处罚结果无动于衷。",
+        "dialogue": "全扣。",
+        "speaker": "盛总",
+        "emotion": "严厉",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；办公桌，白色花朵，书堆；画面中央人物，身穿黑色低领长袖，坐在桌前，眼神看向侧方，表情：眼神平静，嘴角微抿，无动于衷。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老陈",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "拿着文件夹，身体微躬",
+                "expression": "表情灰败，眼神低落"
+            }
+        ],
+        "background": "办公桌，书堆",
+        "description_narrative": "老陈拿着文件夹，身体微躬，表情灰败，眼神低落，接受处罚。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.3,
+        "description_visual": "中景平拍镜头；办公桌，书堆；画面左侧人物，身穿黑色外套，拿着文件夹，身体微躬，表情：表情灰败，眼神低落。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面右侧",
+                "action": "手伸向盘子里的饼干",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色桌面，长方形盘子，饼干，白色花朵",
+        "description_narrative": "特写桌面上的长方形盘子，里面放着饼干和白色花朵装饰，黎苑的手伸向饼干。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.7,
+        "description_visual": "特写俯拍镜头；白色桌面，长方形盘子，饼干，白色花朵；画面右侧人物，身穿黑色金扣外套，手伸向盘子里的饼干，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面中央",
+                "action": "低头微笑",
+                "expression": "嘴角上扬，眼神柔和"
+            }
+        ],
+        "background": "模糊的办公背景",
+        "description_narrative": "黎苑低头看着桌面，嘴角上扬露出微笑，眼神柔和，气氛缓和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.7,
+        "description_visual": "近景平拍镜头；模糊的办公背景；画面中央人物，身穿黑色金扣外套，低头微笑，表情：嘴角上扬，眼神柔和。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面左侧",
+                "action": "侧身看向盛夏",
+                "expression": "眼神关切，嘴巴微动"
+            },
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "双手交叠放在桌上",
+                "expression": "眼神看向黎苑，表情平静"
+            }
+        ],
+        "background": "办公桌，书堆",
+        "description_narrative": "黎苑侧身看向盛夏，眼神关切地低声提醒，盛夏双手交叠，平静地看向她。",
+        "dialogue": "小心老陈。",
+        "speaker": "黎苑",
+        "emotion": "关切",
+        "duration": 2.5,
+        "description_visual": "中近景平拍镜头；办公桌，书堆；画面左侧人物，身穿黑色金扣外套，侧身看向盛夏，表情：眼神关切，嘴巴微动；画面右侧人物，身穿黑色上衣，双手交叠放在桌上，表情：眼神看向黎苑，表情平静。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面中央",
+                "action": "双臂交叉放在桌上",
+                "expression": "眉毛微蹙，眼神认真，嘴巴开合"
+            }
+        ],
+        "background": "模糊的办公背景",
+        "description_narrative": "黎苑双臂交叉放在桌上，眉毛微蹙，眼神认真地解释老陈的身份和后果。",
+        "dialogue": "他可是老员工，如果得罪他的话。",
+        "speaker": "黎苑",
+        "emotion": "认真",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；模糊的办公背景；画面中央人物，身穿黑色金扣外套，双臂交叉放在桌上，表情：眉毛微蹙，眼神认真，嘴巴开合。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面左侧",
+                "action": "看着盛夏",
+                "expression": "眼神担忧"
+            },
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "双手交叠",
+                "expression": "眼神平静，嘴角微抿"
+            }
+        ],
+        "background": "办公桌",
+        "description_narrative": "黎苑看着盛夏，眼神担忧地继续警告，盛夏双手交叠，神情依旧平静淡然。",
+        "dialogue": "会麻烦事不断的。",
+        "speaker": "黎苑",
+        "emotion": "担忧",
+        "duration": 1.83,
+        "description_visual": "中近景平拍镜头；办公桌；画面左侧人物，身穿黑色金扣外套，看着盛夏，表情：眼神担忧；画面右侧人物，身穿黑色上衣，双手交叠，表情：眼神平静，嘴角微抿。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面中央",
+                "action": "低头微笑",
+                "expression": "嘴角上扬，眼神柔和"
+            }
+        ],
+        "background": "模糊的办公背景",
+        "description_narrative": "黎苑低头微笑，听着盛夏的回应，表情柔和友善。",
+        "dialogue": "谢谢你，我叫盛夏，你呢？",
+        "speaker": "盛夏",
+        "emotion": "友好",
+        "duration": 5.37,
+        "description_visual": "近景平拍镜头；模糊的办公背景；画面中央人物，身穿黑色金扣外套，低头微笑，表情：嘴角上扬，眼神柔和。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面左侧",
+                "action": "看着盛夏",
+                "expression": "微笑，嘴巴微动"
+            },
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "看着黎苑",
+                "expression": "眼神期待，嘴角微扬"
+            }
+        ],
+        "background": "办公桌",
+        "description_narrative": "黎苑看着盛夏微笑介绍自己，盛夏眼神期待，嘴角微扬，两人关系拉近。",
+        "dialogue": "黎苑",
+        "speaker": "黎苑",
+        "emotion": "友好",
+        "duration": 1.73,
+        "description_visual": "中近景平拍镜头；办公桌；画面左侧人物，身穿黑色金扣外套，看着盛夏，表情：微笑，嘴巴微动；画面右侧人物，身穿黑色上衣，看着黎苑，表情：眼神期待，嘴角微扬。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黎苑",
+                "gender": "女",
+                "clothing": "黑色金扣外套",
+                "position": "画面左侧",
+                "action": "微笑看着盛夏",
+                "expression": "笑容温和"
+            },
+            {
+                "name": "盛夏",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "拿起饼干",
+                "expression": "眼神看向饼干，嘴角含笑"
+            }
+        ],
+        "background": "办公桌，书堆",
+        "description_narrative": "黎苑温和微笑，盛夏拿起一块饼干，眼神看着饼干，嘴角含笑，提到某人。",
+        "dialogue": "这个饼干，是小最喜欢吃的。",
+        "speaker": "盛夏",
+        "emotion": "怀念",
+        "duration": 12.93,
+        "description_visual": "中近景平拍镜头；办公桌，书堆；画面左侧人物，身穿黑色金扣外套，微笑看着盛夏，表情：笑容温和；画面右侧人物，身穿黑色上衣，拿起饼干，表情：眼神看向饼干，嘴角含笑。"
+    }
+]

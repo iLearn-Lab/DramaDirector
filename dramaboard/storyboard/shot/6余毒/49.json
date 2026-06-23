@@ -1,0 +1,795 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫，黑色长裤",
+                "position": "画面左侧，背对镜头",
+                "action": "双手插兜，站立",
+                "expression": "眉毛微蹙，眼神冷峻，嘴唇紧闭"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带，金丝眼镜",
+                "position": "画面中央偏右",
+                "action": "面对景少，身体微侧",
+                "expression": "眉毛舒展，眼神直视，嘴角微扬"
+            },
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫，黑色开叉半身裙",
+                "position": "画面右侧",
+                "action": "双手交叠于身前，站立",
+                "expression": "眉毛平展，目光柔和，嘴唇微闭"
+            }
+        ],
+        "background": "欧式建筑街道，阳光明媚，远处有尖顶塔楼",
+        "description_narrative": "全景镜头，阳光明媚的欧式街道上，景少背对镜头双手插兜站立，对面傅少身穿灰色西装正面对他说话，顾小姐站在一旁双手交叠，神情温婉。",
+        "dialogue": "景少，顾小姐之前被我傅家误会。",
+        "speaker": "傅少",
+        "emotion": "解释",
+        "duration": 5.52,
+        "description_visual": "全景平拍镜头；欧式建筑街道，阳光明媚，远处有尖顶塔楼；画面左侧，背对镜头人物，身穿米色风衣，白衬衫，黑色长裤，双手插兜，站立，表情：眉毛微蹙，眼神冷峻，嘴唇紧闭；画面中央偏右人物，身穿灰色三件套西装，黑领带，金丝眼镜，面对景少，身体微侧，表情：眉毛舒展，眼神直视，嘴角微扬；画面右侧人物，身穿浅粉色蝴蝶结衬衫，黑色开叉半身裙，双手交叠于身前，站立，表情：眉毛平展，目光柔和，嘴唇微闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "头部微抬，眼神坚定",
+                "expression": "眉毛微挑，眼神自信，嘴角带笑"
+            }
+        ],
+        "background": "模糊的欧式建筑背景，光线明亮",
+        "description_narrative": "近景镜头聚焦傅少，他戴着金丝眼镜，身穿灰色西装，表情略带傲慢地陈述傅家的意图，阳光洒在他的脸上。",
+        "dialogue": "今天傅家要跟她赔礼道歉。",
+        "speaker": "傅少",
+        "emotion": "傲慢",
+        "duration": 2.68,
+        "description_visual": "近景平拍镜头；模糊的欧式建筑背景，光线明亮；画面中央人物，身穿灰色三件套西装，黑领带，金丝眼镜，头部微抬，眼神坚定，表情：眉毛微挑，眼神自信，嘴角带笑。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神斜视",
+                "expression": "眉毛微蹙，眼神不屑，嘴角下撇"
+            }
+        ],
+        "background": "模糊的砖墙背景，自然光",
+        "description_narrative": "近景镜头切换至景少，他身穿米色风衣，表情冷峻，眼神中流露出一丝嘲讽，对傅少的说法不以为然。",
+        "dialogue": "傅少的行事风格还真是霸道至极啊。",
+        "speaker": "景少",
+        "emotion": "嘲讽",
+        "duration": 3.62,
+        "description_visual": "近景平拍镜头；模糊的砖墙背景，自然光；画面中央人物，身穿米色风衣，白衬衫，头部微侧，眼神斜视，表情：眉毛微蹙，眼神不屑，嘴角下撇。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "视线微垂，随后抬起",
+                "expression": "眉毛微皱，眼神锐利，嘴唇微张"
+            }
+        ],
+        "background": "模糊的街道背景，光线充足",
+        "description_narrative": "近景镜头回到傅少，他推了推眼镜，语气加重，指责景少的过往行为，表情严肃。",
+        "dialogue": "景少为了退婚，威胁苏家大小姐。",
+        "speaker": "傅少",
+        "emotion": "指责",
+        "duration": 3.74,
+        "description_visual": "近景平拍镜头；模糊的街道背景，光线充足；画面中央人物，身穿灰色三件套西装，黑领带，金丝眼镜，视线微垂，随后抬起，表情：眉毛微皱，眼神锐利，嘴唇微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫，黑色开叉半身裙",
+                "position": "画面中央",
+                "action": "头部微转，眼神看向景少",
+                "expression": "眉毛平展，眼神平静，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的建筑背景，阳光柔和",
+        "description_narrative": "近景镜头给到顾小姐，她身穿粉色衬衫，神情淡然地听着两人的对话，目光在两人之间流转。",
+        "dialogue": "也不算礼貌，傅家壮士断腕。",
+        "speaker": "景少",
+        "emotion": "冷静",
+        "duration": 2.9,
+        "description_visual": "近景平拍镜头；模糊的建筑背景，阳光柔和；画面中央人物，身穿浅粉色蝴蝶结衬衫，黑色开叉半身裙，头部微转，眼神看向景少，表情：眉毛平展，眼神平静，嘴唇紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面中央",
+                "action": "眼神直视前方，头部微动",
+                "expression": "眉毛微挑，眼神深邃，嘴角微扬"
+            }
+        ],
+        "background": "模糊的砖墙背景，自然光",
+        "description_narrative": "近景镜头聚焦景少，他继续用冷静的语气分析傅家的商业手段，表情中带着一丝看透世事的淡漠。",
+        "dialogue": "立刻与林家划清界限，很会审时度势。",
+        "speaker": "景少",
+        "emotion": "分析",
+        "duration": 4.52,
+        "description_visual": "近景平拍镜头；模糊的砖墙背景，自然光；画面中央人物，身穿米色风衣，白衬衫，眼神直视前方，头部微动，表情：眉毛微挑，眼神深邃，嘴角微扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "头部微昂，眼神挑衅",
+                "expression": "眉毛上扬，眼神轻蔑，嘴角微动"
+            }
+        ],
+        "background": "模糊的街道背景，光线明亮",
+        "description_narrative": "近景镜头切换至傅少，他反驳景少的观点，提及景少在股市上的动作，表情带着反击的意味。",
+        "dialogue": "景少闻风而动，肆意做空林家股票。",
+        "speaker": "傅少",
+        "emotion": "反击",
+        "duration": 3.62,
+        "description_visual": "近景平拍镜头；模糊的街道背景，光线明亮；画面中央人物，身穿灰色三件套西装，黑领带，金丝眼镜，头部微昂，眼神挑衅，表情：眉毛上扬，眼神轻蔑，嘴角微动。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫，黑色开叉半身裙",
+                "position": "画面中央",
+                "action": "嘴角上扬，发出邀请",
+                "expression": "眉毛舒展，眼神含笑，嘴唇微张"
+            }
+        ],
+        "background": "模糊的建筑背景，阳光柔和",
+        "description_narrative": "近景镜头给到顾小姐，她适时地打断两人的针锋相对，微笑着向景少发出用餐邀请，语气轻松。",
+        "dialogue": "更是能趁热打铁呀，不如景少随我一起回傅家用餐如何？",
+        "speaker": "顾小姐",
+        "emotion": "邀请",
+        "duration": 6.16,
+        "description_visual": "近景平拍镜头；模糊的建筑背景，阳光柔和；画面中央人物，身穿浅粉色蝴蝶结衬衫，黑色开叉半身裙，嘴角上扬，发出邀请，表情：眉毛舒展，眼神含笑，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面中央",
+                "action": "微微点头，眼神平静",
+                "expression": "眉毛平展，眼神温和，嘴唇轻启"
+            }
+        ],
+        "background": "模糊的砖墙背景，自然光",
+        "description_narrative": "近景镜头聚焦景少，他略作思索后答应了顾小姐的邀请，表情平静，看不出太多情绪波动。",
+        "dialogue": "可以。",
+        "speaker": "景少",
+        "emotion": "答应",
+        "duration": 1.26,
+        "description_visual": "近景平拍镜头；模糊的砖墙背景，自然光；画面中央人物，身穿米色风衣，白衬衫，微微点头，眼神平静，表情：眉毛平展，眼神温和，嘴唇轻启。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "眼神看向顾小姐，略带不满",
+                "expression": "眉毛微蹙，眼神复杂，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的街道背景，光线充足",
+        "description_narrative": "近景镜头回到傅少，他对顾小姐替景少做决定感到不满，眼神中流露出一丝无奈和醋意。",
+        "dialogue": "顾小姐很擅长替别人做决定。",
+        "speaker": "傅少",
+        "emotion": "不满",
+        "duration": 3.9,
+        "description_visual": "近景平拍镜头；模糊的街道背景，光线充足；画面中央人物，身穿灰色三件套西装，黑领带，金丝眼镜，眼神看向顾小姐，略带不满，表情：眉毛微蹙，眼神复杂，嘴唇紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫，黑色开叉半身裙",
+                "position": "画面中央",
+                "action": "微笑回应，眼神灵动",
+                "expression": "眉毛微挑，眼神戏谑，嘴角上扬"
+            }
+        ],
+        "background": "模糊的建筑背景，阳光柔和",
+        "description_narrative": "近景镜头给到顾小姐，她毫不示弱地回击傅少，笑容中带着一丝狡黠，气氛微妙。",
+        "dialogue": "傅先生也很擅长被人围观。",
+        "speaker": "顾小姐",
+        "emotion": "回击",
+        "duration": 2.84,
+        "description_visual": "近景平拍镜头；模糊的建筑背景，阳光柔和；画面中央人物，身穿浅粉色蝴蝶结衬衫，黑色开叉半身裙，微笑回应，眼神灵动，表情：眉毛微挑，眼神戏谑，嘴角上扬。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "转身准备离开",
+                "expression": "表情平静，眼神向前"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带",
+                "position": "画面中央",
+                "action": "站立不动，看着景少",
+                "expression": "表情严肃，眼神注视"
+            },
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫，黑色开叉半身裙",
+                "position": "画面右侧",
+                "action": "站在傅少身边，看向景少",
+                "expression": "表情自然，眼神跟随"
+            }
+        ],
+        "background": "欧式建筑街道，阳光强烈，地面有影子",
+        "description_narrative": "全景镜头展示三人站位，景少转身准备跟随顾小姐离开，傅少站在原地目送，阳光在地面投下长长的影子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.46,
+        "description_visual": "全景平拍镜头；欧式建筑街道，阳光强烈，地面有影子；画面左侧人物，身穿米色风衣，白衬衫，黑色长裤，转身准备离开，表情：表情平静，眼神向前；画面中央人物，身穿灰色三件套西装，黑领带，站立不动，看着景少，表情：表情严肃，眼神注视；画面右侧人物，身穿浅粉色蝴蝶结衬衫，黑色开叉半身裙，站在傅少身边，看向景少，表情：表情自然，眼神跟随。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面中央",
+                "action": "低头沉思，随后抬头",
+                "expression": "眉毛微蹙，眼神低垂，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的砖墙背景，自然光",
+        "description_narrative": "近景镜头聚焦景少，他低头似乎在思考什么，随后抬起头，神情恢复冷峻。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 0.98,
+        "description_visual": "近景平拍镜头；模糊的砖墙背景，自然光；画面中央人物，身穿米色风衣，白衬衫，低头沉思，随后抬头，表情：眉毛微蹙，眼神低垂，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "行走，双手插兜",
+                "expression": "表情平静，眼神向前"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带",
+                "position": "画面右侧",
+                "action": "行走，双手插兜",
+                "expression": "表情严肃，眼神侧视"
+            }
+        ],
+        "background": "欧式建筑街道，阳光强烈，背景有雕塑",
+        "description_narrative": "中景跟拍镜头，景少和傅少并肩走在街道上，两人保持一定距离，气氛略显尴尬，阳光刺眼。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.66,
+        "description_visual": "中景平拍镜头（跟拍）；欧式建筑街道，阳光强烈，背景有雕塑；画面左侧人物，身穿米色风衣，白衬衫，黑色长裤，行走，双手插兜，表情：表情平静，眼神向前；画面右侧人物，身穿灰色三件套西装，黑领带，行走，双手插兜，表情：表情严肃，眼神侧视。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "直视前方，步伐稳健",
+                "expression": "眉毛平展，眼神坚定，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的街道背景，光线明亮",
+        "description_narrative": "近景镜头聚焦傅少，他走在路上，表情严肃，眼神中带着思索，西装笔挺。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 4.16,
+        "description_visual": "近景平拍镜头；模糊的街道背景，光线明亮；画面中央人物，身穿灰色三件套西装，黑领带，金丝眼镜，直视前方，步伐稳健，表情：眉毛平展，眼神坚定，嘴唇紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅老爷",
+                "gender": "男",
+                "clothing": "深灰色条纹西装，蓝领带，眼镜",
+                "position": "画面左侧沙发",
+                "action": "坐在沙发上，身体后仰",
+                "expression": "表情放松，眼神看向门口"
+            },
+            {
+                "name": "宋姐",
+                "gender": "女",
+                "clothing": "灰色制服",
+                "position": "画面中央偏右",
+                "action": "站立，引导众人",
+                "expression": "表情恭敬，眼神看向傅老爷"
+            },
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫，黑色开叉半身裙",
+                "position": "画面中央",
+                "action": "跟随宋姐走入",
+                "expression": "表情自然，眼神向前"
+            },
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面右后景",
+                "action": "跟随走入",
+                "expression": "表情平静，眼神环顾"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面右后景",
+                "action": "跟随走入",
+                "expression": "表情严肃，眼神向前"
+            }
+        ],
+        "background": "现代豪华客厅，高挑空，白色沙发，大理石地面",
+        "description_narrative": "全景镜头展示宽敞明亮的客厅，傅老爷坐在左侧沙发上，宋姐引导顾小姐、景少和傅少从后方走入，装修现代奢华。",
+        "dialogue": "老爷，我把顾小姐给您带过来了。",
+        "speaker": "宋姐",
+        "emotion": "恭敬",
+        "duration": 3.38,
+        "description_visual": "全景平拍镜头；现代豪华客厅，高挑空，白色沙发，大理石地面；画面左侧沙发人物，身穿深灰色条纹西装，蓝领带，眼镜，坐在沙发上，身体后仰，表情：表情放松，眼神看向门口；画面中央偏右人物，身穿灰色制服，站立，引导众人，表情：表情恭敬，眼神看向傅老爷；画面中央人物，身穿浅粉色蝴蝶结衬衫，黑色开叉半身裙，跟随宋姐走入，表情：表情自然，眼神向前；画面右后景人物，身穿米色风衣，白衬衫，跟随走入，表情：表情平静，眼神环顾；画面右后景人物，身穿灰色三件套西装，跟随走入，表情：表情严肃，眼神向前。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅老爷",
+                "gender": "男",
+                "clothing": "深灰色条纹西装，蓝领带，眼镜",
+                "position": "画面左侧沙发",
+                "action": "坐在沙发上，挥手示意",
+                "expression": "表情温和，眼神看向宋姐"
+            }
+        ],
+        "background": "客厅一角，白色窗帘，落地窗",
+        "description_narrative": "中景镜头聚焦傅老爷，他坐在沙发上，微笑着对宋姐说话，挥手示意她离开，姿态从容。",
+        "dialogue": "好的，宋姐，你走吧。",
+        "speaker": "傅老爷",
+        "emotion": "温和",
+        "duration": 5.2,
+        "description_visual": "中景平拍镜头；客厅一角，白色窗帘，落地窗；画面左侧沙发人物，身穿深灰色条纹西装，蓝领带，眼镜，坐在沙发上，挥手示意，表情：表情温和，眼神看向宋姐。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅老爷",
+                "gender": "男",
+                "clothing": "深灰色条纹西装，蓝领带，眼镜",
+                "position": "画面中央",
+                "action": "站起身，微笑面对众人",
+                "expression": "眉毛舒展，眼神含笑，嘴角上扬"
+            }
+        ],
+        "background": "客厅背景，白色墙面，光线柔和",
+        "description_narrative": "近景镜头聚焦傅老爷，他站起身来，面带微笑地夸赞顾小姐，显得十分客气和威严。",
+        "dialogue": "两日不见，顾小姐风采依旧啊。",
+        "speaker": "傅老爷",
+        "emotion": "客套",
+        "duration": 3.1,
+        "description_visual": "近景平拍镜头；客厅背景，白色墙面，光线柔和；画面中央人物，身穿深灰色条纹西装，蓝领带，眼镜，站起身，微笑面对众人，表情：眉毛舒展，眼神含笑，嘴角上扬。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面左侧",
+                "action": "站立，低头",
+                "expression": "眉毛低垂，眼神向下，嘴唇紧闭"
+            },
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫，黑色开叉半身裙",
+                "position": "画面右侧",
+                "action": "站立，双手交叠，微笑",
+                "expression": "眉毛舒展，眼神含笑，嘴角上扬"
+            }
+        ],
+        "background": "客厅背景，落地窗，光线明亮",
+        "description_narrative": "中近景镜头展示景少和顾小姐并排站立，顾小姐微笑着回应傅老爷的客套，景少则低头沉默。",
+        "dialogue": "傅先生一直以来受您照顾，我很感激。",
+        "speaker": "顾小姐",
+        "emotion": "感激",
+        "duration": 3.62,
+        "description_visual": "中近景平拍镜头；客厅背景，落地窗，光线明亮；画面左侧人物，身穿米色风衣，白衬衫，站立，低头，表情：眉毛低垂，眼神向下，嘴唇紧闭；画面右侧人物，身穿浅粉色蝴蝶结衬衫，黑色开叉半身裙，站立，双手交叠，微笑，表情：眉毛舒展，眼神含笑，嘴角上扬。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "站立，双手插兜",
+                "expression": "眉毛微蹙，眼神低垂，嘴唇紧闭"
+            }
+        ],
+        "background": "客厅背景，白色窗帘，光线柔和",
+        "description_narrative": "近景镜头聚焦傅少，他站在一旁，表情略显复杂，似乎在听着顾小姐的发言，双手插在裤兜里。",
+        "dialogue": "但是因为身体原因。",
+        "speaker": "顾小姐",
+        "emotion": "解释",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；客厅背景，白色窗帘，光线柔和；画面中央人物，身穿灰色三件套西装，黑领带，金丝眼镜，站立，双手插兜，表情：眉毛微蹙，眼神低垂，嘴唇紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫，黑色开叉半身裙",
+                "position": "画面中央",
+                "action": "说话，表情略带歉意",
+                "expression": "眉毛微蹙，眼神诚恳，嘴唇微张"
+            }
+        ],
+        "background": "客厅背景，模糊的家具",
+        "description_narrative": "近景镜头给到顾小姐，她继续解释离开的原因，表情诚恳中带着一丝无奈，语气平缓。",
+        "dialogue": "我不得不离开傅家。",
+        "speaker": "顾小姐",
+        "emotion": "无奈",
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；客厅背景，模糊的家具；画面中央人物，身穿浅粉色蝴蝶结衬衫，黑色开叉半身裙，说话，表情略带歉意，表情：眉毛微蹙，眼神诚恳，嘴唇微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅老爷",
+                "gender": "男",
+                "clothing": "深灰色条纹西装，蓝领带，眼镜",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微皱，眼神深沉，嘴唇紧闭"
+            }
+        ],
+        "background": "客厅背景，光线柔和",
+        "description_narrative": "近景镜头聚焦傅老爷，他听到顾小姐要离开，表情变得严肃，眼神中闪过一丝不悦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.26,
+        "description_visual": "近景平拍镜头；客厅背景，光线柔和；画面中央人物，身穿深灰色条纹西装，蓝领带，眼镜，站立，表情严肃，表情：眉毛微皱，眼神深沉，嘴唇紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面中央",
+                "action": "侧头看向顾小姐",
+                "expression": "眉毛微挑，眼神关切，嘴唇微张"
+            }
+        ],
+        "background": "客厅背景，模糊的酒柜",
+        "description_narrative": "近景镜头聚焦景少，他侧头看向顾小姐，主动询问是否需要帮忙收拾东西，表情关切。",
+        "dialogue": "需要我帮你收拾东西吗",
+        "speaker": "景少",
+        "emotion": "关切",
+        "duration": 1.58,
+        "description_visual": "近景平拍镜头；客厅背景，模糊的酒柜；画面中央人物，身穿米色风衣，白衬衫，侧头看向顾小姐，表情：眉毛微挑，眼神关切，嘴唇微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫，黑色开叉半身裙",
+                "position": "画面中央",
+                "action": "摇头，微笑拒绝",
+                "expression": "眉毛舒展，眼神温柔，嘴角上扬"
+            }
+        ],
+        "background": "客厅背景，模糊的家具",
+        "description_narrative": "近景镜头给到顾小姐，她微笑着拒绝了景少的提议，让他先和傅先生聊天，语气温柔。",
+        "dialogue": "不用了，你和傅先生聊一会儿，我很快就下来。",
+        "speaker": "顾小姐",
+        "emotion": "温柔",
+        "duration": 3.82,
+        "description_visual": "近景平拍镜头；客厅背景，模糊的家具；画面中央人物，身穿浅粉色蝴蝶结衬衫，黑色开叉半身裙，摇头，微笑拒绝，表情：眉毛舒展，眼神温柔，嘴角上扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅老爷",
+                "gender": "男",
+                "clothing": "深灰色条纹西装，蓝领带，眼镜",
+                "position": "画面中央",
+                "action": "看向景少，表情惊讶",
+                "expression": "眉毛上扬，眼神疑惑，嘴唇微张"
+            }
+        ],
+        "background": "客厅背景，光线柔和",
+        "description_narrative": "近景镜头聚焦傅老爷，他似乎刚注意到景少也在场，表情略带惊讶地发问。",
+        "dialogue": "景琛也在这里啊。",
+        "speaker": "傅老爷",
+        "emotion": "惊讶",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；客厅背景，光线柔和；画面中央人物，身穿深灰色条纹西装，蓝领带，眼镜，看向景少，表情惊讶，表情：眉毛上扬，眼神疑惑，嘴唇微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面中央",
+                "action": "直视傅老爷，表情平淡",
+                "expression": "眉毛平展，眼神平静，嘴唇轻启"
+            }
+        ],
+        "background": "客厅背景，模糊的酒柜",
+        "description_narrative": "近景镜头聚焦景少，他面对傅老爷的询问，淡淡地回答，表情看不出太多情绪。",
+        "dialogue": "不知道。",
+        "speaker": "景少",
+        "emotion": "平淡",
+        "duration": 1.22,
+        "description_visual": "近景平拍镜头；客厅背景，模糊的酒柜；画面中央人物，身穿米色风衣，白衬衫，直视傅老爷，表情平淡，表情：眉毛平展，眼神平静，嘴唇轻启。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅老爷",
+                "gender": "男",
+                "clothing": "深灰色条纹西装，蓝领带，眼镜",
+                "position": "画面中央",
+                "action": "眼神审视景少",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇紧闭"
+            }
+        ],
+        "background": "客厅背景，光线柔和",
+        "description_narrative": "近景镜头聚焦傅老爷，他听到景少的回答后，眼神变得更加锐利，似乎在审视景少。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "审视",
+        "duration": 0.4,
+        "description_visual": "近景平拍镜头；客厅背景，光线柔和；画面中央人物，身穿深灰色条纹西装，蓝领带，眼镜，眼神审视景少，表情：眉毛微蹙，眼神锐利，嘴唇紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅老爷",
+                "gender": "男",
+                "clothing": "深灰色条纹西装，蓝领带，眼镜",
+                "position": "画面中央",
+                "action": "直视景少，发问",
+                "expression": "眉毛微挑，眼神质问，嘴唇微张"
+            }
+        ],
+        "background": "客厅背景，光线柔和",
+        "description_narrative": "近景镜头聚焦傅老爷，他直接质问景少和顾小姐的关系，语气严肃，气场强大。",
+        "dialogue": "你和顾小姐有什么关系啊？",
+        "speaker": "傅老爷",
+        "emotion": "质问",
+        "duration": 2.7,
+        "description_visual": "近景平拍镜头；客厅背景，光线柔和；画面中央人物，身穿深灰色条纹西装，蓝领带，眼镜，直视景少，发问，表情：眉毛微挑，眼神质问，嘴唇微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面中央",
+                "action": "直视傅老爷，坦然回答",
+                "expression": "眉毛舒展，眼神坚定，嘴唇微张"
+            }
+        ],
+        "background": "客厅背景，模糊的酒柜",
+        "description_narrative": "近景镜头聚焦景少，他毫不避讳地直视傅老爷，坦然承认自己在追求顾小姐，表情坚定。",
+        "dialogue": "我在追求顾小姐。",
+        "speaker": "景少",
+        "emotion": "坚定",
+        "duration": 3.14,
+        "description_visual": "近景平拍镜头；客厅背景，模糊的酒柜；画面中央人物，身穿米色风衣，白衬衫，直视傅老爷，坦然回答，表情：眉毛舒展，眼神坚定，嘴唇微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "身体微僵，眼神震惊",
+                "expression": "眉毛上扬，眼神惊愕，嘴唇微张"
+            }
+        ],
+        "background": "客厅背景，白色窗帘，光线过曝",
+        "description_narrative": "近景镜头聚焦傅少，他听到景少的宣言后，表情震惊，身体微僵，画面光线逐渐变亮，营造紧张氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.66,
+        "description_visual": "近景平拍镜头；客厅背景，白色窗帘，光线过曝；画面中央人物，身穿灰色三件套西装，黑领带，金丝眼镜，身体微僵，眼神震惊，表情：眉毛上扬，眼神惊愕，嘴唇微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "站立，眼神复杂",
+                "expression": "眉毛微蹙，眼神深沉，嘴唇紧闭"
+            }
+        ],
+        "background": "客厅背景，白色窗帘，光线明亮",
+        "description_narrative": "近景镜头继续聚焦傅少，他在强光中表情复杂，似乎在消化这个惊人的消息，气氛凝固。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；客厅背景，白色窗帘，光线明亮；画面中央人物，身穿灰色三件套西装，黑领带，金丝眼镜，站立，眼神复杂，表情：眉毛微蹙，眼神深沉，嘴唇紧闭。"
+    }
+]

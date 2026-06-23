@@ -1,0 +1,916 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "右手抬起挠头，头部微低",
+                "expression": "眉毛微蹙，眼神向下，嘴巴紧闭"
+            }
+        ],
+        "background": "户外庭院，背景有屋檐和树木，光线明亮",
+        "description_narrative": "中近景固定镜头，花衬衫男站在户外庭院中，身穿黄色热带花纹衬衫，右手抬起烦躁地挠着蓬松的头发，头部微低，眉头紧锁，神情焦虑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.18,
+        "description_visual": "中近景平拍镜头；户外庭院，背景有屋檐和树木，光线明亮；画面中央人物，身穿黄色热带花纹衬衫，黑色长裤，右手抬起挠头，头部微低，表情：眉毛微蹙，眼神向下，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白T中年男",
+                "gender": "男",
+                "clothing": "白色短袖T恤",
+                "position": "画面右侧",
+                "action": "头部微抬，视线向右上方看",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "黑白花纹上衣",
+                "position": "画面左侧边缘",
+                "action": "侧脸看向右方",
+                "expression": "神情关注，嘴巴微张"
+            }
+        ],
+        "background": "室内或屋檐下，背景模糊，有绿植",
+        "description_narrative": "近景固定镜头，白T中年男身穿白色T恤，神情惊讶地抬头向右上方看去，嘴巴微张，左侧边缘可见一名穿黑白花纹上衣的女性侧脸，同样露出关注的神情。",
+        "dialogue": "叶柔跟冯磊私奔领证了",
+        "speaker": "未知",
+        "emotion": "惊讶",
+        "duration": 1.5,
+        "description_visual": "近景平拍镜头；室内或屋檐下，背景模糊，有绿植；画面右侧人物，身穿白色短袖T恤，头部微抬，视线向右上方看，表情：眉毛上扬，眼睛睁大，嘴巴微张；画面左侧边缘人物，身穿黑白花纹上衣，侧脸看向右方，表情：神情关注，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "身体侧向镜头，头部回转看向左后方",
+                "expression": "眉毛紧锁，眼神震惊，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有房屋门窗和树木，光线自然",
+        "description_narrative": "中景摇镜，镜头转向花衬衫男，他身穿黄色花纹衬衫，身体侧立，突然回头看向左后方，脸上露出震惊的表情，嘴巴微张，似乎听到了惊人的消息。",
+        "dialogue": "叶柔跟冯磊私奔领证了",
+        "speaker": "未知",
+        "emotion": "震惊",
+        "duration": 4.26,
+        "description_visual": "中景平拍镜头（摇镜）；户外庭院，背景有房屋门窗和树木，光线自然；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，身体侧向镜头，头部回转看向左后方，表情：眉毛紧锁，眼神震惊，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "画面全黑，无可见背景",
+        "description_narrative": "画面全黑，仅能听到画外音询问情况，作为场景转换的过渡。",
+        "dialogue": "哎，咋回事啊？",
+        "speaker": "未知",
+        "emotion": null,
+        "duration": 3.04,
+        "description_visual": "特写平拍镜头；画面全黑，无可见背景。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白T中年男",
+                "gender": "男",
+                "clothing": "白色短袖T恤，黑色长裤",
+                "position": "画面左侧",
+                "action": "手持蒲扇，身体微侧看向右方",
+                "expression": "眉毛舒展，眼神平和，嘴巴微张"
+            },
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面左后景",
+                "action": "站在白T男身后，看向前方",
+                "expression": "神情平静，注视前方"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "面无表情，注视前方"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "背对镜头，面向其他人",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外树下，地面有落叶，背景有房屋",
+        "description_narrative": "中景固定镜头，户外树下，白T中年男手持蒲扇站在左侧，身后站着条纹衫男，中间站着穿白色背心的背心男，右侧花衬衫男背对镜头面向众人，似乎正在打招呼。",
+        "dialogue": "伯父。",
+        "speaker": "花衬衫男",
+        "emotion": "礼貌",
+        "duration": 1.86,
+        "description_visual": "中景平拍镜头；户外树下，地面有落叶，背景有房屋；画面左侧人物，身穿白色短袖T恤，黑色长裤，手持蒲扇，身体微侧看向右方，表情：眉毛舒展，眼神平和，嘴巴微张；画面左后景人物，身穿蓝白条纹短袖，棕色长裤，站在白T男身后，看向前方，表情：神情平静，注视前方；画面中央人物，身穿白色背心，黑色长裤，站立，双手自然下垂，表情：面无表情，注视前方；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，背对镜头，面向其他人，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "身体前倾，面向白T中年男",
+                "expression": "眉毛微挑，眼神急切，嘴巴张开"
+            },
+            {
+                "name": "白T中年男",
+                "gender": "男",
+                "clothing": "白色短袖T恤，黑色长裤",
+                "position": "画面右侧",
+                "action": "手持蒲扇和竹篮，抬头看花衬衫男",
+                "expression": "眉毛微蹙，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "户外街道，背景有砖墙和树木",
+        "description_narrative": "中景固定镜头，花衬衫男身体前倾，急切地面向白T中年男询问，白T中年男手持蒲扇和竹篮，抬头露出疑惑的神情，两人正在对话。",
+        "dialogue": "是不是和这废物离婚了",
+        "speaker": "花衬衫男",
+        "emotion": "急切",
+        "duration": 4.7,
+        "description_visual": "中景平拍镜头；户外街道，背景有砖墙和树木；画面左侧人物，身穿黄色热带花纹衬衫，黑色长裤，身体前倾，面向白T中年男，表情：眉毛微挑，眼神急切，嘴巴张开；画面右侧人物，身穿白色短袖T恤，黑色长裤，手持蒲扇和竹篮，抬头看花衬衫男，表情：眉毛微蹙，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白T中年男",
+                "gender": "男",
+                "clothing": "白色短袖T恤，黑色长裤",
+                "position": "画面左侧",
+                "action": "点头确认，手持蒲扇",
+                "expression": "眉毛舒展，眼神确认，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "侧身站立，面向白T男",
+                "expression": "表情期待，注视对方"
+            }
+        ],
+        "background": "户外街道，背景有砖墙和树木",
+        "description_narrative": "中景固定镜头，白T中年男点头确认，手持蒲扇，神情肯定地回答花衬衫男的问题，花衬衫男侧身站立，表情期待地看着对方。",
+        "dialogue": "对对，离婚了。",
+        "speaker": "白T中年男",
+        "emotion": "确认",
+        "duration": 11.06,
+        "description_visual": "中景平拍镜头；户外街道，背景有砖墙和树木；画面左侧人物，身穿白色短袖T恤，黑色长裤，点头确认，手持蒲扇，表情：眉毛舒展，眼神确认，嘴巴微张；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，侧身站立，面向白T男，表情：表情期待，注视对方。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "伸手拍打白T中年男肩膀，身体前倾",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开大笑"
+            },
+            {
+                "name": "白T中年男",
+                "gender": "男",
+                "clothing": "白色短袖T恤，黑色长裤",
+                "position": "画面左侧",
+                "action": "被拍肩膀，手持蒲扇",
+                "expression": "眉毛微扬，眼神惊讶，嘴巴微张"
+            },
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面左后景",
+                "action": "站在后方，神情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，注视前方"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央后景",
+                "action": "站在后方，神情严肃",
+                "expression": "眉毛微蹙，注视前方"
+            }
+        ],
+        "background": "户外树下，树干上有纸板招牌",
+        "description_narrative": "中景固定镜头，花衬衫男兴奋地伸手拍打白T中年男的肩膀，身体前倾大笑，宣布要去提亲，白T中年男和身后的条纹衫男、背心男都露出惊讶或严肃的神情。",
+        "dialogue": "伯伯那等会呢我就去提亲",
+        "speaker": "花衬衫男",
+        "emotion": "得意",
+        "duration": 0.34,
+        "description_visual": "中景平拍镜头；户外树下，树干上有纸板招牌；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，伸手拍打白T中年男肩膀，身体前倾，表情：眉毛上扬，眼睛睁大，嘴巴张开大笑；画面左侧人物，身穿白色短袖T恤，黑色长裤，被拍肩膀，手持蒲扇，表情：眉毛微扬，眼神惊讶，嘴巴微张；画面左后景人物，身穿蓝白条纹短袖，棕色长裤，站在后方，神情惊讶，表情：眉毛上扬，眼睛睁大，注视前方；画面中央后景人物，身穿白色背心，黑色长裤，站在后方，神情严肃，表情：眉毛微蹙，注视前方。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面左侧",
+                "action": "头部转向右侧，嘴巴张开",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开惊讶"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面右侧",
+                "action": "站在条纹衫男身后，看向前方",
+                "expression": "眉毛微蹙，眼神关注，嘴巴紧闭"
+            }
+        ],
+        "background": "户外树下，背景模糊",
+        "description_narrative": "中近景固定镜头，条纹衫男转头看向右侧，嘴巴张大露出极度惊讶的表情，似乎对刚才的话表示质疑，身后的背心男神情关注地看着前方。",
+        "dialogue": "你说什么呢你",
+        "speaker": "条纹衫男",
+        "emotion": "惊讶",
+        "duration": 0.52,
+        "description_visual": "中近景平拍镜头；户外树下，背景模糊；画面左侧人物，身穿蓝白条纹短袖，棕色长裤，头部转向右侧，嘴巴张开，表情：眉毛上扬，眼睛睁大，嘴巴张开惊讶；画面右侧人物，身穿白色背心，黑色长裤，站在条纹衫男身后，看向前方，表情：眉毛微蹙，眼神关注，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "伸手推搡条纹衫男",
+                "expression": "眉毛倒竖，眼神凶狠，嘴巴张开"
+            },
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面左侧",
+                "action": "身体后仰，被推搡",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴张开痛苦"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央",
+                "action": "伸手扶住条纹衫男",
+                "expression": "眉毛微蹙，眼神紧张，嘴巴微张"
+            }
+        ],
+        "background": "户外树下，地面有杂物",
+        "description_narrative": "中景跟拍镜头，花衬衫男伸手用力推搡条纹衫男，表情凶狠，条纹衫男身体后仰露出痛苦表情，背心男伸手扶住条纹衫男，神情紧张。",
+        "dialogue": "有你啥事啊",
+        "speaker": "花衬衫男",
+        "emotion": "愤怒",
+        "duration": 0.56,
+        "description_visual": "中景平拍镜头（跟拍）；户外树下，地面有杂物；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，伸手推搡条纹衫男，表情：眉毛倒竖，眼神凶狠，嘴巴张开；画面左侧人物，身穿蓝白条纹短袖，棕色长裤，身体后仰，被推搡，表情：眉毛紧锁，眼睛眯起，嘴巴张开痛苦；画面中央人物，身穿白色背心，黑色长裤，伸手扶住条纹衫男，表情：眉毛微蹙，眼神紧张，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "挥动手臂，身体前倾攻击",
+                "expression": "表情模糊，动作剧烈"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "身体后仰躲避",
+                "expression": "表情模糊，动作剧烈"
+            }
+        ],
+        "background": "户外树下，背景有砖墙",
+        "description_narrative": "中景摇镜，画面因快速动作而模糊，花衬衫男挥动手臂发起攻击，背心男身体后仰躲避，两人发生肢体冲突。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.36,
+        "description_visual": "中景平拍镜头（摇镜）；户外树下，背景有砖墙；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，挥动手臂，身体前倾攻击，表情：表情模糊，动作剧烈；画面左侧人物，身穿白色背心，黑色长裤，身体后仰躲避，表情：表情模糊，动作剧烈。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "身体前倾，继续攻击",
+                "expression": "表情模糊，动作剧烈"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "蹲下躲避",
+                "expression": "表情模糊，动作剧烈"
+            }
+        ],
+        "background": "户外树下，背景有砖墙",
+        "description_narrative": "中景跟拍镜头，花衬衫男身体前倾继续攻击，背心男蹲下躲避，动作幅度大，画面带有动态模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.44,
+        "description_visual": "中景平拍镜头（跟拍）；户外树下，背景有砖墙；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，身体前倾，继续攻击，表情：表情模糊，动作剧烈；画面左侧人物，身穿白色背心，黑色长裤，蹲下躲避，表情：表情模糊，动作剧烈。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "抬腿踢人",
+                "expression": "表情模糊，动作剧烈"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "身体后仰倒地",
+                "expression": "表情模糊，动作剧烈"
+            }
+        ],
+        "background": "户外树下，背景有砖墙",
+        "description_narrative": "中景固定镜头，花衬衫男抬腿踢向对方，背心男身体后仰倒地，打斗激烈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.22,
+        "description_visual": "中景平拍镜头；户外树下，背景有砖墙；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，抬腿踢人，表情：表情模糊，动作剧烈；画面左侧人物，身穿白色背心，黑色长裤，身体后仰倒地，表情：表情模糊，动作剧烈。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面中央偏右",
+                "action": "站立，手指指向地上的人",
+                "expression": "眉毛倒竖，眼神嚣张，嘴巴张开"
+            },
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面左侧地面",
+                "action": "坐在地上，手撑地",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴微张"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央地面",
+                "action": "坐在地上，手撑地",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴微张"
+            }
+        ],
+        "background": "户外树下，地面有落叶和水桶",
+        "description_narrative": "全景固定镜头，花衬衫男站立在中央，手指指向坐在地上的条纹衫男和背心男，表情嚣张地宣示主权，两人坐在地上，神情愤怒地看着他。",
+        "dialogue": "小子，叶柔是老子的，不管隔了多少年",
+        "speaker": "花衬衫男",
+        "emotion": "嚣张",
+        "duration": 2.2,
+        "description_visual": "全景平拍镜头；户外树下，地面有落叶和水桶；画面中央偏右人物，身穿黄色热带花纹衬衫，黑色长裤，站立，手指指向地上的人，表情：眉毛倒竖，眼神嚣张，嘴巴张开；画面左侧地面人物，身穿蓝白条纹短袖，棕色长裤，坐在地上，手撑地，表情：眉毛紧锁，眼神愤怒，嘴巴微张；画面中央地面人物，身穿白色背心，黑色长裤，坐在地上，手撑地，表情：眉毛紧锁，眼神愤怒，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面上方",
+                "action": "俯身，双手抓住背心男的脸/衣领",
+                "expression": "眉毛紧锁，眼神凶狠，嘴巴张开"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面下方",
+                "action": "仰头，被抓住",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴紧闭"
+            }
+        ],
+        "background": "户外树下，背景模糊",
+        "description_narrative": "特写仰拍镜头，花衬衫男俯身双手抓住背心男的脸或衣领，表情狰狞地威胁，背心男仰头被制住，眼神愤怒。",
+        "dialogue": "都是今晚我就得到她",
+        "speaker": "花衬衫男",
+        "emotion": "凶狠",
+        "duration": 11.32,
+        "description_visual": "特写仰拍镜头；户外树下，背景模糊；画面上方人物，身穿黄色热带花纹衬衫，黑色长裤，俯身，双手抓住背心男的脸/衣领，表情：眉毛紧锁，眼神凶狠，嘴巴张开；画面下方人物，身穿白色背心，仰头，被抓住，表情：眉毛紧锁，眼神愤怒，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面左侧地面",
+                "action": "坐在地上，手捂胸口",
+                "expression": "眉毛紧锁，眼神惊恐，嘴巴微张"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面右侧地面",
+                "action": "坐在地上，手指指向花衬衫男方向",
+                "expression": "眉毛倒竖，眼神愤怒，嘴巴张开"
+            }
+        ],
+        "background": "户外地面，有黄色标线",
+        "description_narrative": "中景固定镜头，条纹衫男和背心男坐在地上，条纹衫男手捂胸口神情惊恐，背心男手指前方，愤怒地发出威胁。",
+        "dialogue": "你要敢再动她一下，我让你生不如死。",
+        "speaker": "背心男",
+        "emotion": "愤怒",
+        "duration": 3.0,
+        "description_visual": "中景平拍镜头；户外地面，有黄色标线；画面左侧地面人物，身穿蓝白条纹短袖，棕色长裤，坐在地上，手捂胸口，表情：眉毛紧锁，眼神惊恐，嘴巴微张；画面右侧地面人物，身穿白色背心，黑色长裤，坐在地上，手指指向花衬衫男方向，表情：眉毛倒竖，眼神愤怒，嘴巴张开。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "转身背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面右侧地面",
+                "action": "坐在地上，看向前方",
+                "expression": "眉毛微蹙，注视前方"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面右侧地面",
+                "action": "坐在地上，看向前方",
+                "expression": "眉毛微蹙，注视前方"
+            }
+        ],
+        "background": "户外地面，有黄色标线，背景砖墙",
+        "description_narrative": "中景固定镜头，花衬衫男转身背对镜头，地上的条纹衫男和背心男抬头看向前方，神情警惕。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.34,
+        "description_visual": "中景平拍镜头；户外地面，有黄色标线，背景砖墙；画面左侧人物，身穿黄色热带花纹衬衫，黑色长裤，转身背对镜头，表情：不可见；画面右侧地面人物，身穿蓝白条纹短袖，棕色长裤，坐在地上，看向前方，表情：眉毛微蹙，注视前方；画面右侧地面人物，身穿白色背心，黑色长裤，坐在地上，看向前方，表情：眉毛微蹙，注视前方。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "弯腰伸手掐住背心男脖子",
+                "expression": "眉毛倒竖，眼神凶狠，嘴巴张开"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面右侧地面",
+                "action": "坐在地上，双手抓住花衬衫男的手",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴张开痛苦"
+            },
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面右后景",
+                "action": "坐在地上，神情惊恐",
+                "expression": "眉毛上扬，眼睛睁大，注视前方"
+            }
+        ],
+        "background": "户外地面，背景砖墙",
+        "description_narrative": "中景跟拍镜头，花衬衫男弯腰伸手掐住坐在地上的背心男脖子，表情凶狠，背心男双手抓住对方的手挣扎，神情痛苦，条纹衫男在后方惊恐地看着。",
+        "dialogue": "你他妈就认识个周县长",
+        "speaker": "花衬衫男",
+        "emotion": "愤怒",
+        "duration": 4.62,
+        "description_visual": "中景平拍镜头（跟拍）；户外地面，背景砖墙；画面左侧人物，身穿黄色热带花纹衬衫，黑色长裤，弯腰伸手掐住背心男脖子，表情：眉毛倒竖，眼神凶狠，嘴巴张开；画面右侧地面人物，身穿白色背心，黑色长裤，坐在地上，双手抓住花衬衫男的手，表情：眉毛紧锁，眼睛睁大，嘴巴张开痛苦；画面右后景人物，身穿蓝白条纹短袖，棕色长裤，坐在地上，神情惊恐，表情：眉毛上扬，眼睛睁大，注视前方。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "伸手推搡",
+                "expression": "表情模糊，动作剧烈"
+            },
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面左侧",
+                "action": "蹲在地上，伸手阻挡",
+                "expression": "眉毛紧锁，嘴巴张开"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面中央地面",
+                "action": "坐在地上，身体后仰",
+                "expression": "眉毛紧锁，嘴巴张开"
+            }
+        ],
+        "background": "户外树下，地面有杂物",
+        "description_narrative": "中景固定镜头，花衬衫男伸手推搡，条纹衫男蹲在地上伸手阻挡，背心男坐在地上身体后仰，三人动作激烈。",
+        "dialogue": "尾巴都翘天上去了。",
+        "speaker": "花衬衫男",
+        "emotion": "愤怒",
+        "duration": 1.06,
+        "description_visual": "中景平拍镜头；户外树下，地面有杂物；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，伸手推搡，表情：表情模糊，动作剧烈；画面左侧人物，身穿蓝白条纹短袖，棕色长裤，蹲在地上，伸手阻挡，表情：眉毛紧锁，嘴巴张开；画面中央地面人物，身穿白色背心，黑色长裤，坐在地上，身体后仰，表情：眉毛紧锁，嘴巴张开。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "抬腿踢人",
+                "expression": "表情模糊，动作剧烈"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "身体后仰躲避",
+                "expression": "表情模糊，动作剧烈"
+            }
+        ],
+        "background": "户外树下，地面有杂物",
+        "description_narrative": "中景跟拍镜头，花衬衫男抬腿踢向背心男，背心男身体后仰躲避，动作迅速带有动态模糊。",
+        "dialogue": "去你的",
+        "speaker": "花衬衫男",
+        "emotion": "愤怒",
+        "duration": 0.76,
+        "description_visual": "中景平拍镜头（跟拍）；户外树下，地面有杂物；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，抬腿踢人，表情：表情模糊，动作剧烈；画面左侧人物，身穿白色背心，黑色长裤，身体后仰躲避，表情：表情模糊，动作剧烈。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "挥拳攻击",
+                "expression": "表情模糊，动作剧烈"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "抬手格挡",
+                "expression": "表情模糊，动作剧烈"
+            }
+        ],
+        "background": "户外树下，背景模糊",
+        "description_narrative": "中景跟拍镜头，花衬衫男挥拳攻击，背心男抬手格挡，两人动作激烈，画面带有动态模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.32,
+        "description_visual": "中景平拍镜头（跟拍）；户外树下，背景模糊；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，挥拳攻击，表情：表情模糊，动作剧烈；画面左侧人物，身穿白色背心，黑色长裤，抬手格挡，表情：表情模糊，动作剧烈。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色短袖衬衫，黑色西裤",
+                "position": "画面左侧",
+                "action": "行走进入画面，看向花衬衫男",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴紧闭"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "背对镜头，停止动作",
+                "expression": "不可见"
+            },
+            {
+                "name": "条纹衫男",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖，棕色长裤",
+                "position": "画面右侧地面",
+                "action": "蹲在地上，看向前方",
+                "expression": "眉毛微蹙，注视前方"
+            }
+        ],
+        "background": "户外街道，背景有树木和围墙",
+        "description_narrative": "中景固定镜头，蓝衬衫男行走进入画面，神情严肃地看向花衬衫男，花衬衫男背对镜头停止动作，地上的条纹衫男抬头看向前方。",
+        "dialogue": "住手。姑父。",
+        "speaker": "蓝衬衫男",
+        "emotion": "严肃",
+        "duration": 4.0,
+        "description_visual": "中景平拍镜头；户外街道，背景有树木和围墙；画面左侧人物，身穿浅蓝色短袖衬衫，黑色西裤，行走进入画面，看向花衬衫男，表情：眉毛微蹙，眼神严肃，嘴巴紧闭；画面中央人物，身穿黄色热带花纹衬衫，黑色长裤，背对镜头，停止动作，表情：不可见；画面右侧地面人物，身穿蓝白条纹短袖，棕色长裤，蹲在地上，看向前方，表情：眉毛微蹙，注视前方。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "回头看向蓝衬衫男，身体微侧",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开惊讶"
+            },
+            {
+                "name": "蓝衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色短袖衬衫，黑色西裤",
+                "position": "画面左侧",
+                "action": "站立，背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "背心男",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面左后景",
+                "action": "站立，看向前方",
+                "expression": "眉毛微蹙，注视前方"
+            }
+        ],
+        "background": "户外树下，背景有房屋",
+        "description_narrative": "中景固定镜头，花衬衫男回头看向蓝衬衫男，脸上露出极度惊讶的表情，嘴巴张开，蓝衬衫男背对镜头站立，背心男在后方注视。",
+        "dialogue": "姑父你咋来了",
+        "speaker": "花衬衫男",
+        "emotion": "惊讶",
+        "duration": 2.98,
+        "description_visual": "中景平拍镜头；户外树下，背景有房屋；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，回头看向蓝衬衫男，身体微侧，表情：眉毛上扬，眼睛睁大，嘴巴张开惊讶；画面左侧人物，身穿浅蓝色短袖衬衫，黑色西裤，站立，背对镜头，表情：不可见；画面左后景人物，身穿白色背心，黑色长裤，站立，看向前方，表情：眉毛微蹙，注视前方。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "侧身站立，面向蓝衬衫男",
+                "expression": "眉毛微蹙，眼神疑惑，嘴巴微张"
+            },
+            {
+                "name": "蓝衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色短袖衬衫，黑色西裤",
+                "position": "画面左侧",
+                "action": "站立，面向花衬衫男",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外树下，背景有房屋",
+        "description_narrative": "中景固定镜头，花衬衫男侧身站立，面向蓝衬衫男，露出疑惑的表情，似乎在询问对方为何到来。",
+        "dialogue": "你咋来了？",
+        "speaker": "花衬衫男",
+        "emotion": "疑惑",
+        "duration": 3.32,
+        "description_visual": "中景平拍镜头；户外树下，背景有房屋；画面右侧人物，身穿黄色热带花纹衬衫，黑色长裤，侧身站立，面向蓝衬衫男，表情：眉毛微蹙，眼神疑惑，嘴巴微张；画面左侧人物，身穿浅蓝色短袖衬衫，黑色西裤，站立，面向花衬衫男，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色短袖衬衫",
+                "position": "画面中央",
+                "action": "面部特写，表情严肃",
+                "expression": "眉毛紧锁，眼神严厉，嘴巴紧闭"
+            }
+        ],
+        "background": "户外背景模糊，有树木",
+        "description_narrative": "近景固定镜头，蓝衬衫男面部特写，眉头紧锁，眼神严厉，嘴巴紧闭，表情非常严肃。",
+        "dialogue": "不是。",
+        "speaker": "花衬衫男",
+        "emotion": "严肃",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；户外背景模糊，有树木；画面中央人物，身穿浅蓝色短袖衬衫，面部特写，表情严肃，表情：眉毛紧锁，眼神严厉，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色短袖衬衫",
+                "position": "画面中央",
+                "action": "面部特写，说话",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "户外背景模糊，有树木",
+        "description_narrative": "近景固定镜头，蓝衬衫男面部特写，眉毛上扬，眼睛睁大，嘴巴张开，正在大声命令。",
+        "dialogue": "还不给赶紧给冯磊道歉",
+        "speaker": "蓝衬衫男",
+        "emotion": "愤怒",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；户外背景模糊，有树木；画面中央人物，身穿浅蓝色短袖衬衫，面部特写，说话，表情：眉毛上扬，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "右手捂着脸，身体微侧",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张震惊"
+            }
+        ],
+        "background": "户外树下，背景模糊",
+        "description_narrative": "中景固定镜头，花衬衫男右手捂着脸，身体微侧，脸上露出震惊的表情，似乎刚被打了一巴掌。",
+        "dialogue": "还不给赶紧给冯磊道歉",
+        "speaker": "蓝衬衫男",
+        "emotion": "震惊",
+        "duration": 1.44,
+        "description_visual": "中景平拍镜头；户外树下，背景模糊；画面中央人物，身穿黄色热带花纹衬衫，黑色长裤，右手捂着脸，身体微侧，表情：眉毛上扬，眼睛睁大，嘴巴微张震惊。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "右手捂着脸，左手指向左侧",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张震惊"
+            }
+        ],
+        "background": "户外树下，背景模糊",
+        "description_narrative": "中景固定镜头，花衬衫男右手捂着脸，左手指向左侧，脸上依然带着震惊的表情，似乎不敢相信刚才发生的事。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "中景平拍镜头；户外树下，背景模糊；画面中央人物，身穿黄色热带花纹衬衫，黑色长裤，右手捂着脸，左手指向左侧，表情：眉毛上扬，眼睛睁大，嘴巴微张震惊。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "黄色热带花纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "右手捂着脸，左手指向左侧",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张震惊"
+            }
+        ],
+        "background": "户外树下，背景模糊",
+        "description_narrative": "中景固定镜头，花衬衫男右手捂着脸，左手指向左侧，脸上依然带着震惊的表情，身体姿态未变。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.02,
+        "description_visual": "中景平拍镜头；户外树下，背景模糊；画面中央人物，身穿黄色热带花纹衬衫，黑色长裤，右手捂着脸，左手指向左侧，表情：眉毛上扬，眼睛睁大，嘴巴微张震惊。"
+    }
+]

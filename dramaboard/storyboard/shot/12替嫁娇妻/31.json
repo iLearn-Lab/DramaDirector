@@ -1,0 +1,748 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "青绿色长袍",
+                "position": "画面左侧",
+                "action": "从后方环抱白衣女子，头部微倾靠近女子耳侧",
+                "expression": "眉毛微挑，眼神注视女子，嘴角微抿"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "绣纹白衣",
+                "position": "画面右侧前景",
+                "action": "身体被环抱，头部微低，双手交叠在身前",
+                "expression": "眉毛微蹙，视线向下，嘴唇紧闭，神情落寞"
+            }
+        ],
+        "background": "深色雕花屏风背景，光线柔和，色调偏暖",
+        "description_narrative": "中景固定镜头，明王身穿青绿色长袍从后方环抱白衣女子，头部微倾靠近女子耳侧，眼神注视女子。白衣女子身穿绣纹白衣，头部微低，双手交叠在身前，眉毛微蹙，视线向下，神情落寞。背景为深色雕花屏风，光线柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色雕花屏风背景，光线柔和，色调偏暖；画面左侧人物，身穿青绿色长袍，从后方环抱白衣女子，头部微倾靠近女子耳侧，表情：眉毛微挑，眼神注视女子，嘴角微抿；画面右侧前景人物，身穿绣纹白衣，身体被环抱，头部微低，双手交叠在身前，表情：眉毛微蹙，视线向下，嘴唇紧闭，神情落寞。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "绣纹白衣",
+                "position": "画面中央",
+                "action": "头部微低，视线向下，身体静止",
+                "expression": "眉毛微蹙，眼神低垂，嘴唇微张，神情严肃"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "特写固定镜头，白衣女子身穿绣纹白衣，头部微低，视线向下，身体静止。眉毛微蹙，眼神低垂，嘴唇微张，神情严肃。背景为室内模糊背景，光线柔和。",
+        "dialogue": "皇兄不必烦恼",
+        "speaker": "睿王",
+        "emotion": "安抚",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿绣纹白衣，头部微低，视线向下，身体静止，表情：眉毛微蹙，眼神低垂，嘴唇微张，神情严肃。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王",
+                "gender": "男",
+                "clothing": "浅色锦袍",
+                "position": "画面右侧",
+                "action": "身体微侧，面带微笑，头部转向左侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬，露出牙齿"
+            }
+        ],
+        "background": "室内木质门窗背景，光线明亮",
+        "description_narrative": "近景固定镜头，睿王身穿浅色锦袍，身体微侧，面带微笑，头部转向左侧。眉毛舒展，眼睛微眯，嘴角上扬，露出牙齿。背景为室内木质门窗，光线明亮。",
+        "dialogue": "父皇",
+        "speaker": "睿王",
+        "emotion": "恭敬",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；室内木质门窗背景，光线明亮；画面右侧人物，身穿浅色锦袍，身体微侧，面带微笑，头部转向左侧，表情：眉毛舒展，眼睛微眯，嘴角上扬，露出牙齿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王",
+                "gender": "男",
+                "clothing": "浅色锦袍",
+                "position": "画面右侧",
+                "action": "身体前倾，双手作揖，向对面人行礼",
+                "expression": "眉毛微垂，眼神专注，嘴唇微动，神情恭敬"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "浅色龙袍",
+                "position": "画面左侧前景",
+                "action": "背对镜头，头部微侧",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内场景，有红色帷幔和青花瓷瓶，光线充足",
+        "description_narrative": "中景过肩镜头，睿王身穿浅色锦袍，身体前倾，双手作揖，向对面人行礼。眉毛微垂，眼神专注，嘴唇微动，神情恭敬。皇帝身穿浅色龙袍，背对镜头，头部微侧。背景有红色帷幔和青花瓷瓶，光线充足。",
+        "dialogue": "臣弟听闻太后身体有恙",
+        "speaker": "睿王",
+        "emotion": "关切",
+        "duration": 3.24,
+        "description_visual": "中景过肩镜头；室内场景，有红色帷幔和青花瓷瓶，光线充足；画面右侧人物，身穿浅色锦袍，身体前倾，双手作揖，向对面人行礼，表情：眉毛微垂，眼神专注，嘴唇微动，神情恭敬；画面左侧前景人物，身穿浅色龙袍，背对镜头，头部微侧，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王",
+                "gender": "男",
+                "clothing": "浅色锦袍",
+                "position": "画面中央",
+                "action": "头部低垂，视线向下",
+                "expression": "眉毛微，眼神下视，嘴唇紧闭，神情严肃"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "特写俯拍镜头，睿王身穿浅色锦袍，头部低垂，视线向下。眉毛微蹙，眼神下视，嘴唇紧闭，神情严肃。背景为室内模糊背景，光线柔和。",
+        "dialogue": "特地请来一名神医",
+        "speaker": "睿王",
+        "emotion": "郑重",
+        "duration": 1.64,
+        "description_visual": "特写俯拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿浅色锦袍，头部低垂，视线向下，表情：眉毛微，眼神下视，嘴唇紧闭，神情严肃。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王",
+                "gender": "男",
+                "clothing": "浅色锦袍",
+                "position": "画面背景",
+                "action": "站立，视线看向前方",
+                "expression": "眉毛微挑，眼神注视前方，嘴唇微抿"
+            },
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "灰布长衫",
+                "position": "画面前景",
+                "action": "背对镜头，身体前倾行礼",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内场景，有红色帷幔，光线明亮",
+        "description_narrative": "中近景过肩镜头，睿王身穿浅色锦袍，站立，视线看向前方。眉毛微挑，眼神注视前方，嘴唇微抿。梁神医身穿灰布长衫，背对镜头，身体前倾行礼。背景有红色帷幔，光线明亮。",
+        "dialogue": "见过陛下",
+        "speaker": "梁神医",
+        "emotion": "恭敬",
+        "duration": 0.92,
+        "description_visual": "中近景过肩镜头；室内场景，有红色帷幔，光线明亮；画面背景人物，身穿浅色锦袍，站立，视线看向前方，表情：眉毛微挑，眼神注视前方，嘴唇微抿；画面前景人物，身穿灰布长衫，背对镜头，身体前倾行礼，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "浅色龙袍",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向左侧",
+                "expression": "眉毛微蹙，眼神怀疑，嘴唇紧闭，神情威严"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写平拍镜头，皇帝身穿浅色龙袍，头部微侧，视线看向左侧。眉毛微蹙，眼神怀疑，嘴唇紧闭，神情威严。背景为深色背景，光线柔和。",
+        "dialogue": "梁神医的医术本王是见过的",
+        "speaker": "睿王",
+        "emotion": "自信",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色龙袍，头部微侧，视线看向左侧，表情：眉毛微蹙，眼神怀疑，嘴唇紧闭，神情威严。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王",
+                "gender": "男",
+                "clothing": "浅色锦袍",
+                "position": "画面中央",
+                "action": "头部微抬，视线看向前方",
+                "expression": "眉毛舒展，眼睛睁大，嘴角微张，神情自信"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮",
+        "description_narrative": "近景平拍镜头，睿王身穿浅色锦袍，头部微抬，视线看向前方。眉毛舒展，眼睛睁大，嘴角微张，神情自信。背景为室内模糊背景，光线明亮。",
+        "dialogue": "天下无双，殿下可以用梁神医为太后医治",
+        "speaker": "睿王",
+        "emotion": "推荐",
+        "duration": 3.72,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线明亮；画面中央人物，身穿浅色锦袍，头部微抬，视线看向前方，表情：眉毛舒展，眼睛睁大，嘴角微张，神情自信。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "浅色龙袍",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向左侧",
+                "expression": "眉毛紧蹙，眼神严厉，嘴唇紧闭，神情不悦"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写平拍镜头，皇帝身穿浅色龙袍，头部微侧，视线看向左侧。眉毛紧蹙，眼神严厉，嘴唇紧闭，神情不悦。背景为深色背景，光线柔和。",
+        "dialogue": "不可",
+        "speaker": "皇帝",
+        "emotion": "拒绝",
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色龙袍，头部微侧，视线看向左侧，表情：眉毛紧蹙，眼神严厉，嘴唇紧闭，神情不悦。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "青绿色长袍",
+                "position": "画面中央",
+                "action": "头部低垂，视线向下",
+                "expression": "眉毛微蹙，眼神下视，嘴唇微动，神情担忧"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "近景平拍镜头，明王身穿青绿色长袍，头部低垂，视线向下。眉毛微蹙，眼神下视，嘴唇微动，神情担忧。背景为室内模糊背景，光线柔和。",
+        "dialogue": "父皇",
+        "speaker": "明王",
+        "emotion": "劝阻",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿青绿色长袍，头部低垂，视线向下，表情：眉毛微蹙，眼神下视，嘴唇微动，神情担忧。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王",
+                "gender": "男",
+                "clothing": "浅色锦袍",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向左侧",
+                "expression": "眉毛微挑，眼神惊讶，嘴唇微张，神情不解"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮",
+        "description_narrative": "近景平拍镜头，睿王身穿浅色锦袍，头部微侧，视线看向左侧。眉毛微挑，眼神惊讶，嘴唇微张，神情不解。背景为室内模糊背景，光线明亮。",
+        "dialogue": "这梁神医来路不明，怎可随意为太后治病？",
+        "speaker": "明王",
+        "emotion": "质疑",
+        "duration": 2.72,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线明亮；画面中央人物，身穿浅色锦袍，头部微侧，视线看向左侧，表情：眉毛微挑，眼神惊讶，嘴唇微张，神情不解。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王",
+                "gender": "男",
+                "clothing": "浅色锦袍",
+                "position": "画面中央",
+                "action": "头部微抬，视线看向前方",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇微动，神情不悦"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮",
+        "description_narrative": "近景平拍镜头，睿王身穿浅色锦袍，头部微抬，视线看向前方。眉毛微蹙，眼神锐利，嘴唇微动，神情不悦。背景为室内模糊背景，光线明亮。",
+        "dialogue": "明王是不信任本王",
+        "speaker": "睿王",
+        "emotion": "质问",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线明亮；画面中央人物，身穿浅色锦袍，头部微抬，视线看向前方，表情：眉毛微蹙，眼神锐利，嘴唇微动，神情不悦。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "青绿色长袍",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向右侧",
+                "expression": "眉毛微挑，眼神惊讶，嘴唇微张，神情无辜"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮",
+        "description_narrative": "近景平拍镜头，明王身穿青绿色长袍，头部微侧，视线看向右侧。眉毛微挑，眼神惊讶，嘴唇微张，神情无辜。背景为室内模糊背景，光线明亮。",
+        "dialogue": "认为本王会加害太后吗？",
+        "speaker": "睿王",
+        "emotion": "反问",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线明亮；画面中央人物，身穿青绿色长袍，头部微侧，视线看向右侧，表情：眉毛微挑，眼神惊讶，嘴唇微张，神情无辜。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王",
+                "gender": "男",
+                "clothing": "浅色锦袍",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向左侧",
+                "expression": "眉毛舒展，眼神平和，嘴唇微动，神情缓和"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮",
+        "description_narrative": "近景平拍镜头，睿王身穿浅色锦袍，头部微侧，视线看向左侧。眉毛舒展，眼神平和，嘴唇微动，神情缓和。背景为室内模糊背景，光线明亮。",
+        "dialogue": "皇叔多心了，皇叔对太后如此用心，侄儿怎会如此揣测？",
+        "speaker": "明王",
+        "emotion": "解释",
+        "duration": 4.92,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线明亮；画面中央人物，身穿浅色锦袍，头部微侧，视线看向左侧，表情：眉毛舒展，眼神平和，嘴唇微动，神情缓和。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "青绿色长袍",
+                "position": "画面中央",
+                "action": "头部低垂，视线向下",
+                "expression": "眉毛微蹙，眼神下视，嘴唇紧闭，神情诚恳"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "近景平拍镜头，明王身穿青绿色长袍，头部低垂，视线向下。眉毛微蹙，眼神下视，嘴唇紧闭，神情诚恳。背景为室内模糊背景，光线柔和。",
+        "dialogue": "本王自然是真心的",
+        "speaker": "明王",
+        "emotion": "表忠心",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿青绿色长袍，头部低垂，视线向下，表情：眉毛微蹙，眼神下视，嘴唇紧闭，神情诚恳。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "浅色龙袍",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向右侧",
+                "expression": "眉毛微蹙，眼神思索，嘴唇紧闭，神情威严"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写平拍镜头，皇帝身穿浅色龙袍，头部微侧，视线看向右侧。眉毛微蹙，眼神思索，嘴唇紧闭，神情威严。背景为深色背景，光线柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色龙袍，头部微侧，视线看向右侧，表情：眉毛微蹙，眼神思索，嘴唇紧闭，神情威严。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "浅色龙袍",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向左侧",
+                "expression": "眉毛微蹙，眼神犹豫，嘴唇微动，神情思索"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写平拍镜头，皇帝身穿浅色龙袍，头部微侧，视线看向左侧。眉毛微蹙，眼神犹豫，嘴唇微动，神情思索。背景为深色背景，光线柔和。",
+        "dialogue": "陛下，梁神医的医术在下有所耳闻，不如",
+        "speaker": "宦官",
+        "emotion": "建议",
+        "duration": 3.2,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色龙袍，头部微侧，视线看向左侧，表情：眉毛微蹙，眼神犹豫，嘴唇微动，神情思索。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宦官",
+                "gender": "男",
+                "clothing": "黑色官服",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向前方",
+                "expression": "眉毛微挑，眼神专注，嘴唇微动，神情恭敬"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮",
+        "description_narrative": "特写平拍镜头，宦官身穿黑色官服，头部微侧，视线看向前方。眉毛微挑，眼神专注，嘴唇微动，神情恭敬。背景为室内模糊背景，光线明亮。",
+        "dialogue": "让梁神医一试，总不能任由",
+        "speaker": "宦官",
+        "emotion": "建议",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；室内背景模糊，光线明亮；画面中央人物，身穿黑色官服，头部微侧，视线看向前方，表情：眉毛微挑，眼神专注，嘴唇微动，神情恭敬。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "浅色龙袍",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向前方",
+                "expression": "眉毛微蹙，眼神坚定，嘴唇微动，神情威严"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写平拍镜头，皇帝身穿浅色龙袍，头部微侧，视线看向前方。眉毛微蹙，眼神坚定，嘴唇微动，神情威严。背景为深色背景，光线柔和。",
+        "dialogue": "王妃这个妇人为太后施针吧，准了",
+        "speaker": "皇帝",
+        "emotion": "决断",
+        "duration": 3.48,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色龙袍，头部微侧，视线看向前方，表情：眉毛微蹙，眼神坚定，嘴唇微动，神情威严。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "浅色龙袍",
+                "position": "画面左侧前景",
+                "action": "背对镜头，站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "睿王",
+                "gender": "男",
+                "clothing": "浅色锦袍",
+                "position": "画面右侧背景",
+                "action": "站立，视线看向前方",
+                "expression": "眉毛微蹙，眼神注视前方，嘴唇紧闭"
+            },
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "灰布长衫",
+                "position": "画面右侧前景",
+                "action": "身体前倾，向皇帝行礼",
+                "expression": "眉毛微垂，眼神恭敬，嘴唇紧闭"
+            },
+            {
+                "name": "宦官",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面左侧背景",
+                "action": "站立，低头",
+                "expression": "眉毛微垂，眼神下视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内场景，有红色帷幔和青花瓷瓶，光线充足",
+        "description_narrative": "全景平拍镜头，皇帝身穿浅色龙袍，背对镜头，站立。睿王身穿浅色锦袍，站立，视线看向前方。梁神医身穿灰布长衫，身体前倾，向皇帝行礼。宦官身穿紫色官服，站立，低头。背景有红色帷幔和青花瓷瓶，光线充足。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；室内场景，有红色帷幔和青花瓷瓶，光线充足；画面左侧前景人物，身穿浅色龙袍，背对镜头，站立，表情：不可见；画面右侧背景人物，身穿浅色锦袍，站立，视线看向前方，表情：眉毛微蹙，眼神注视前方，嘴唇紧闭；画面右侧前景人物，身穿灰布长衫，身体前倾，向皇帝行礼，表情：眉毛微垂，眼神恭敬，嘴唇紧闭；画面左侧背景人物，身穿紫色官服，站立，低头，表情：眉毛微垂，眼神下视，嘴唇紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "白色袖口",
+                "position": "画面右侧",
+                "action": "手指搭在病人手腕上诊脉",
+                "expression": "不可见"
+            },
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面左侧",
+                "action": "手腕伸出，静止",
+                "expression": "不可见"
+            }
+        ],
+        "background": "床榻边缘，有花纹织物，光线柔和",
+        "description_narrative": "特写俯拍镜头，梁神医身穿白色袖口，手指搭在病人手腕上诊脉。太后手腕伸出，静止。背景为床榻边缘，有花纹织物，光线柔和。",
+        "dialogue": "是你",
+        "speaker": "梁神医",
+        "emotion": "惊讶",
+        "duration": 2.92,
+        "description_visual": "特写俯拍镜头；床榻边缘，有花纹织物，光线柔和；画面右侧人物，身穿白色袖口，手指搭在病人手腕上诊脉，表情：不可见；画面左侧人物，身穿不可见，手腕伸出，静止，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "浅色寝衣",
+                "position": "画面中央",
+                "action": "平躺，双目紧闭，呼吸微弱",
+                "expression": "眉毛舒展，眼睛紧闭，嘴唇微张，神情安详"
+            }
+        ],
+        "background": "床榻，有花纹枕头，光线昏暗",
+        "description_narrative": "特写平拍镜头，太后身穿浅色寝衣，平躺，双目紧闭，呼吸微弱。眉毛舒展，眼睛紧闭，嘴唇微张，神情安详。背景为床榻，有花纹枕头，光线昏暗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；床榻，有花纹枕头，光线昏暗；画面中央人物，身穿浅色寝衣，平躺，双目紧闭，呼吸微弱，表情：眉毛舒展，眼睛紧闭，嘴唇微张，神情安详。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "灰布长衫",
+                "position": "画面中央",
+                "action": "头部低垂，视线向下",
+                "expression": "眉毛微蹙，眼神专注，嘴唇紧闭，神情严肃"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "近景平拍镜头，梁神医身穿灰布长衫，头部低垂，视线向下。眉毛微蹙，眼神专注，嘴唇紧闭，神情严肃。背景为室内模糊背景，光线柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿灰布长衫，头部低垂，视线向下，表情：眉毛微蹙，眼神专注，嘴唇紧闭，神情严肃。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "灰布长衫",
+                "position": "画面中央",
+                "action": "头部微抬，视线看向前方",
+                "expression": "眉毛微蹙，眼神思索，嘴唇微动，神情凝重"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "近景平拍镜头，梁神医身穿灰布长衫，头部微抬，视线看向前方。眉毛微蹙，眼神思索，嘴唇微动，神情凝重。背景为室内模糊背景，光线柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿灰布长衫，头部微抬，视线看向前方，表情：眉毛微蹙，眼神思索，嘴唇微动，神情凝重。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "灰布长衫",
+                "position": "画面中央",
+                "action": "身体前倾，双手作揖，向皇帝行礼",
+                "expression": "眉毛微垂，眼神恭敬，嘴唇微动，神情严肃"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "近景平拍镜头，梁神医身穿灰布长衫，身体前倾，双手作揖，向皇帝行礼。眉毛微垂，眼神恭敬，嘴唇微动，神情严肃。背景为室内模糊背景，光线柔和。",
+        "dialogue": "陛下",
+        "speaker": "梁神医",
+        "emotion": "恭敬",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿灰布长衫，身体前倾，双手作揖，向皇帝行礼，表情：眉毛微垂，眼神恭敬，嘴唇微动，神情严肃。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "浅色龙袍",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向左侧",
+                "expression": "眉毛微，眼神担忧，嘴唇紧闭，神情威严"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写平拍镜头，皇帝身穿浅色龙袍，头部微侧，视线看向左侧。眉毛微蹙，眼神担忧，嘴唇紧闭，神情威严。背景为深色背景，光线柔和。",
+        "dialogue": "太后旧疾已深",
+        "speaker": "梁神医",
+        "emotion": "诊断",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色龙袍，头部微侧，视线看向左侧，表情：眉毛微，眼神担忧，嘴唇紧闭，神情威严。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "灰布长衫",
+                "position": "画面中央",
+                "action": "头部低垂，视线向下",
+                "expression": "眉毛紧蹙，眼神无奈，嘴唇微动，神情遗憾"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "近景平拍镜头，梁神医身穿灰布长衫，头部低垂，视线向下。眉毛紧蹙，眼神无奈，嘴唇微动，神情遗憾。背景为室内模糊背景，光线柔和。",
+        "dialogue": "气血亏空",
+        "speaker": "梁神医",
+        "emotion": "诊断",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿灰布长衫，头部低垂，视线向下，表情：眉毛紧蹙，眼神无奈，嘴唇微动，神情遗憾。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "浅色龙袍",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛紧蹙，眼神失望，嘴唇紧闭，神情沉重"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写平拍镜头，皇帝身穿浅色龙袍，头部微低，视线向下。眉毛紧蹙，眼神失望，嘴唇紧闭，神情沉重。背景为深色背景，光线柔和。",
+        "dialogue": "恕草民也无能为力",
+        "speaker": "梁神医",
+        "emotion": "无奈",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色龙袍，头部微低，视线向下，表情：眉毛紧蹙，眼神失望，嘴唇紧闭，神情沉重。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "绣纹白衣",
+                "position": "画面中央",
+                "action": "头部微抬，视线看向前方",
+                "expression": "眉毛微挑，眼神轻蔑，嘴角微扬，神情倨傲"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮",
+        "description_narrative": "特写平拍镜头，白衣女子身穿绣纹白衣，头部微抬，视线看向前方。眉毛微挑，眼神轻蔑，嘴角微扬，神情倨傲。背景为室内模糊背景，光线明亮。",
+        "dialogue": "呵",
+        "speaker": "白衣女子",
+        "emotion": "嘲讽",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；室内背景模糊，光线明亮；画面中央人物，身穿绣纹白衣，头部微抬，视线看向前方，表情：眉毛微挑，眼神轻蔑，嘴角微扬，神情倨傲。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "绣纹白衣",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向左侧",
+                "expression": "眉毛微蹙，眼神不屑，嘴唇微动，神情讥讽"
+            }
+        ],
+        "background": "室内背景模糊，光线明亮",
+        "description_narrative": "近景平拍镜头，白衣女子身穿绣纹白衣，头部微侧，视线看向左侧。眉毛微蹙，眼神不屑，嘴唇微动，神情讥讽。背景为室内模糊背景，光线明亮。",
+        "dialogue": "我还以为你有多厉害，原来也是徒有虚名",
+        "speaker": "白衣女子",
+        "emotion": "讥讽",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线明亮；画面中央人物，身穿绣纹白衣，头部微侧，视线看向左侧，表情：眉毛微蹙，眼神不屑，嘴唇微动，神情讥讽。"
+    }
+]

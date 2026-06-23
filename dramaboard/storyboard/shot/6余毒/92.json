@@ -1,0 +1,804 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫",
+                "position": "画面右侧",
+                "action": "跪在地上，身体前倾，右手伸向地上的男子",
+                "expression": "眉毛微蹙，眼睛焦急地注视，嘴巴微张呼喊"
+            },
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面左下方",
+                "action": "仰面躺在地上，一动不动",
+                "expression": "双眼紧闭，嘴角有血迹，面色苍白"
+            }
+        ],
+        "background": "户外铺砖地面，阳光强烈，投射出清晰的影子",
+        "description_narrative": "俯拍中景镜头，顾研跪在铺砖地面上，身穿浅粉色衬衫，焦急地俯身查看躺在地上的傅司南。傅司南身穿灰色西装，仰面昏迷，嘴角带血。顾研伸出手，神情恐慌。",
+        "dialogue": "司南，你醒醒，司南。",
+        "speaker": "顾研",
+        "emotion": "焦急",
+        "duration": 3.94,
+        "description_visual": "中景俯拍镜头；户外铺砖地面，阳光强烈，投射出清晰的影子；画面右侧人物，身穿浅粉色蝴蝶结衬衫，跪在地上，身体前倾，右手伸向地上的男子，表情：眉毛微蹙，眼睛焦急地注视，嘴巴微张呼喊；画面左下方人物，身穿灰色西装，仰面躺在地上，一动不动，表情：双眼紧闭，嘴角有血迹，面色苍白。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色蝴蝶结衬衫",
+                "position": "画面右侧",
+                "action": "低头靠近傅司南，双手扶住他的肩膀",
+                "expression": "眉毛紧锁，眼神充满担忧，嘴巴急切地开合"
+            },
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面左下方",
+                "action": "躺在地上，头部后仰",
+                "expression": "双眼紧闭，嘴角流血，毫无反应"
+            }
+        ],
+        "background": "户外地面，背景虚化，光线明亮",
+        "description_narrative": "镜头推进至特写，顾研低头靠近傅司南，双手扶住他，急切地呼唤他的名字。傅司南躺在地上，嘴角血迹清晰可见，处于昏迷状态。",
+        "dialogue": "你醒醒，你怎么了？傅司南。",
+        "speaker": "顾研",
+        "emotion": "恐慌",
+        "duration": 2.1,
+        "description_visual": "特写平拍镜头（推进）；户外地面，背景虚化，光线明亮；画面右侧人物，身穿浅粉色蝴蝶结衬衫，低头靠近傅司南，双手扶住他的肩膀，表情：眉毛紧锁，眼神充满担忧，嘴巴急切地开合；画面左下方人物，身穿灰色西装，躺在地上，头部后仰，表情：双眼紧闭，嘴角流血，毫无反应。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套，黑色高领衫",
+                "position": "画面中央",
+                "action": "坐在驾驶座上，透过车窗向外看",
+                "expression": "眉毛微挑，眼神警惕，嘴巴微张"
+            }
+        ],
+        "background": "白色汽车内部，透过挡风玻璃看到户外树木",
+        "description_narrative": "中近景镜头透过汽车挡风玻璃拍摄，傅轻舟坐在驾驶座上，身穿棕色外套，侧头看向窗外，神情有些紧张。",
+        "dialogue": "傅司南",
+        "speaker": "傅轻舟",
+        "emotion": "警惕",
+        "duration": 1.42,
+        "description_visual": "中近景平拍镜头；白色汽车内部，透过挡风玻璃看到户外树木；画面中央人物，身穿棕色外套，黑色高领衫，坐在驾驶座上，透过车窗向外看，表情：眉毛微挑，眼神警惕，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中央",
+                "action": "被黑衣人从车内向外拉扯，身体前倾",
+                "expression": "眉毛皱起，眼睛看向后方，嘴巴张开质问"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色外套，黑色棒球帽",
+                "position": "画面右侧",
+                "action": "伸手抓住傅轻舟的衣服",
+                "expression": "戴着墨镜，表情冷酷"
+            }
+        ],
+        "background": "白色汽车旁，户外道路，背景有树木",
+        "description_narrative": "侧拍中景，一名戴黑帽的黑衣男子正将傅轻舟从白色汽车内强行拖出。傅轻舟身体前倾，回头质问，神情狼狈。",
+        "dialogue": "你要干什么？",
+        "speaker": "傅轻舟",
+        "emotion": "愤怒",
+        "duration": 0.5,
+        "description_visual": "中景侧拍镜头（跟拍）；白色汽车旁，户外道路，背景有树木；画面中央人物，身穿棕色外套，被黑衣人从车内向外拉扯，身体前倾，表情：眉毛皱起，眼睛看向后方，嘴巴张开质问；画面右侧人物，身穿黑色外套，黑色棒球帽，伸手抓住傅轻舟的衣服，表情：戴着墨镜，表情冷酷。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中央",
+                "action": "挣扎着被拖出车门，身体弯曲",
+                "expression": "眉头紧锁，眼睛向下看，嘴巴紧闭用力"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面右侧",
+                "action": "用力拉扯傅轻舟",
+                "expression": "低头用力，表情严肃"
+            }
+        ],
+        "background": "白色汽车车门处，户外光线强烈",
+        "description_narrative": "镜头跟随动作，傅轻舟被黑衣男子强行拽出车外，身体失去平衡，他挣扎着喊叫，表情痛苦。",
+        "dialogue": "放开我。",
+        "speaker": "傅轻舟",
+        "emotion": "挣扎",
+        "duration": 2.1,
+        "description_visual": "中景侧拍镜头（跟拍）；白色汽车车门处，户外光线强烈；画面中央人物，身穿棕色外套，挣扎着被拖出车门，身体弯曲，表情：眉头紧锁，眼睛向下看，嘴巴紧闭用力；画面右侧人物，身穿黑色外套，用力拉扯傅轻舟，表情：低头用力，表情严肃。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "全景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中央",
+                "action": "被黑衣人按在车身上",
+                "expression": "头部低垂，看不清表情"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面右侧",
+                "action": "控制着傅轻舟",
+                "expression": "戴着帽子，面无表情"
+            }
+        ],
+        "background": "白色汽车停在路边，背景有温室大棚和树木",
+        "description_narrative": "全景镜头展示白色汽车停在路边，傅轻舟被黑衣男子控制在打开的车门旁，周围是光秃的树木和建筑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.76,
+        "description_visual": "全景侧拍镜头；白色汽车停在路边，背景有温室大棚和树木；画面中央人物，身穿棕色外套，被黑衣人按在车身上，表情：头部低垂，看不清表情；画面右侧人物，身穿黑色外套，控制着傅轻舟，表情：戴着帽子，面无表情。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套，黑色高领衫",
+                "position": "画面中央",
+                "action": "被黑衣人架着胳膊，身体歪斜",
+                "expression": "眉毛微皱，眼神有些涣散，嘴巴微张"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面右侧",
+                "action": "架住傅轻舟",
+                "expression": "低头看着傅轻舟"
+            }
+        ],
+        "background": "户外蓝天背景，光线明亮",
+        "description_narrative": "仰拍中近景，傅轻舟被黑衣人架住，头发凌乱，身穿棕色西装外套，神情有些恍惚，似乎刚经历剧烈动作。",
+        "dialogue": "我",
+        "speaker": "傅轻舟",
+        "emotion": "虚弱",
+        "duration": 0.44,
+        "description_visual": "中近景仰拍镜头；户外蓝天背景，光线明亮；画面中央人物，身穿棕色外套，黑色高领衫，被黑衣人架着胳膊，身体歪斜，表情：眉毛微皱，眼神有些涣散，嘴巴微张；画面右侧人物，身穿黑色外套，架住傅轻舟，表情：低头看着傅轻舟。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面左侧",
+                "action": "被黑衣人推搡，身体前倾",
+                "expression": "眉头紧锁，眼睛眯起，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面右侧",
+                "action": "用力推傅轻舟",
+                "expression": "戴着帽子，表情凶狠"
+            }
+        ],
+        "background": "户外模糊背景，光线强烈",
+        "description_narrative": "镜头跟随动作，傅轻舟被黑衣人用力推搡，身体向前踉跄，表情痛苦，外套上的胸针清晰可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.4,
+        "description_visual": "中近景侧拍镜头（跟拍）；户外模糊背景，光线强烈；画面左侧人物，身穿棕色外套，被黑衣人推搡，身体前倾，表情：眉头紧锁，眼睛眯起，嘴巴紧闭；画面右侧人物，身穿黑色外套，用力推傅轻舟，表情：戴着帽子，表情凶狠。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中央",
+                "action": "被黑衣人抓住手臂，身体弯曲",
+                "expression": "眼睛紧闭，嘴巴微张，表情痛苦"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面右上方",
+                "action": "抓住傅轻舟的手臂",
+                "expression": "低头用力"
+            }
+        ],
+        "background": "户外模糊背景，光线明亮",
+        "description_narrative": "中近景镜头，傅轻舟被黑衣人抓住手臂强行控制，他闭着眼睛，面部表情因疼痛或挣扎而扭曲。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.54,
+        "description_visual": "中近景侧拍镜头；户外模糊背景，光线明亮；画面中央人物，身穿棕色外套，被黑衣人抓住手臂，身体弯曲，表情：眼睛紧闭，嘴巴微张，表情痛苦；画面右上方人物，身穿黑色外套，抓住傅轻舟的手臂，表情：低头用力。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面左前景",
+                "action": "跪在地上，看着前方",
+                "expression": "神情悲伤，低头看着地上的人"
+            },
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面下方",
+                "action": "躺在地上",
+                "expression": "昏迷不醒"
+            },
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中后景",
+                "action": "被黑衣人按着，身体前倾",
+                "expression": "看向地上的傅司南"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面右后景",
+                "action": "控制着傅轻舟",
+                "expression": "低头"
+            }
+        ],
+        "background": "户外铺砖地面，背景有温室大棚",
+        "description_narrative": "低角度全景镜头，前景是顾研跪在地上守护傅司南，后景中傅轻舟被黑衣人控制着站在旁边，形成对峙局面。",
+        "dialogue": "我当时也是着急。",
+        "speaker": "傅轻舟",
+        "emotion": "辩解",
+        "duration": 1.8,
+        "description_visual": "全景低角度镜头；户外铺砖地面，背景有温室大棚；画面左前景人物，身穿浅粉色衬衫，跪在地上，看着前方，表情：神情悲伤，低头看着地上的人；画面下方人物，身穿灰色西装，躺在地上，表情：昏迷不醒；画面中后景人物，身穿棕色外套，被黑衣人按着，身体前倾，表情：看向地上的傅司南；画面右后景人物，身穿黑色外套，控制着傅轻舟，表情：低头。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面中央",
+                "action": "跪在地上，抬头看向对方",
+                "expression": "眉毛微蹙，眼神愤怒，嘴巴微张说话"
+            },
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面左下方",
+                "action": "躺在地上",
+                "expression": "昏迷"
+            }
+        ],
+        "background": "户外铺砖地面，光线明亮",
+        "description_narrative": "俯拍中近景，顾研跪在地上，抬头看向站立的傅轻舟，神情愤怒地质问，身下是昏迷的傅司南。",
+        "dialogue": "想赶紧带他去医院",
+        "speaker": "傅轻舟",
+        "emotion": "狡辩",
+        "duration": 1.02,
+        "description_visual": "中近景俯拍镜头；户外铺砖地面，光线明亮；画面中央人物，身穿浅粉色衬衫，跪在地上，抬头看向对方，表情：眉毛微蹙，眼神愤怒，嘴巴微张说话；画面左下方人物，身穿灰色西装，躺在地上，表情：昏迷。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中央",
+                "action": "低头看着下方",
+                "expression": "眉毛微挑，眼神轻蔑，嘴巴微张"
+            }
+        ],
+        "background": "户外模糊背景，光线强烈",
+        "description_narrative": "俯拍特写镜头，傅轻舟低着头，头发凌乱，眼神中带着不屑，正在为自己的行为找借口。",
+        "dialogue": "谁知道刹车失灵了呢",
+        "speaker": "傅轻舟",
+        "emotion": "推卸责任",
+        "duration": 1.42,
+        "description_visual": "特写俯拍镜头；户外模糊背景，光线强烈；画面中央人物，身穿棕色外套，低头看着下方，表情：眉毛微挑，眼神轻蔑，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面中央",
+                "action": "跪在地上，抬头直视前方",
+                "expression": "眉毛紧锁，眼神坚定，嘴巴微张"
+            }
+        ],
+        "background": "户外铺砖地面，光线明亮",
+        "description_narrative": "俯拍中近景，顾研跪在地上，抬头直视傅轻舟，眼神中充满了愤怒和决绝，喊出了他的名字。",
+        "dialogue": "傅轻舟",
+        "speaker": "顾研",
+        "emotion": "愤怒",
+        "duration": 1.32,
+        "description_visual": "中近景俯拍镜头；户外铺砖地面，光线明亮；画面中央人物，身穿浅粉色衬衫，跪在地上，抬头直视前方，表情：眉毛紧锁，眼神坚定，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中央",
+                "action": "侧头看向一边",
+                "expression": "眉毛上扬，眼神凶狠，嘴巴紧闭"
+            }
+        ],
+        "background": "户外模糊背景，光线明亮",
+        "description_narrative": "特写镜头，傅轻舟侧头看向顾研，眼神变得凶狠，发出威胁，表情冷酷。",
+        "dialogue": "我不会放过你的。",
+        "speaker": "傅轻舟",
+        "emotion": "威胁",
+        "duration": 2.84,
+        "description_visual": "特写平拍镜头；户外模糊背景，光线明亮；画面中央人物，身穿棕色外套，侧头看向一边，表情：眉毛上扬，眼神凶狠，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面中央",
+                "action": "跪在地上，抬头直视",
+                "expression": "眉毛舒展，眼神坚定，嘴巴微张说话"
+            }
+        ],
+        "background": "户外铺砖地面，光线明亮",
+        "description_narrative": "俯拍中近景，顾研跪在地上，毫无惧色地抬头回应傅轻舟的威胁，表示要报警揭露真相。",
+        "dialogue": "我会把我今天看到的一切都告诉警察。",
+        "speaker": "顾研",
+        "emotion": "坚定",
+        "duration": 2.54,
+        "description_visual": "中近景俯拍镜头；户外铺砖地面，光线明亮；画面中央人物，身穿浅粉色衬衫，跪在地上，抬头直视，表情：眉毛舒展，眼神坚定，嘴巴微张说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中央",
+                "action": "侧头看向顾研",
+                "expression": "眉毛微挑，眼神质疑，嘴巴微张"
+            }
+        ],
+        "background": "户外模糊背景，光线明亮",
+        "description_narrative": "特写镜头，傅轻舟侧头看着顾研，嘴角带着一丝冷笑，质疑她的决定。",
+        "dialogue": "顾小姐，你确定？",
+        "speaker": "傅轻舟",
+        "emotion": "质疑",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；户外模糊背景，光线明亮；画面中央人物，身穿棕色外套，侧头看向顾研，表情：眉毛微挑，眼神质疑，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面中央",
+                "action": "跪在地上，抬头看着对方",
+                "expression": "眉毛微蹙，眼神坚定，嘴巴紧闭"
+            }
+        ],
+        "background": "户外铺砖地面，光线明亮",
+        "description_narrative": "俯拍中近景，顾研跪在地上，沉默地注视着傅轻舟，眼神中没有丝毫退缩。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.86,
+        "description_visual": "中近景俯拍镜头；户外铺砖地面，光线明亮；画面中央人物，身穿浅粉色衬衫，跪在地上，抬头看着对方，表情：眉毛微蹙，眼神坚定，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中央",
+                "action": "侧头看向顾研",
+                "expression": "眉毛微皱，眼神阴沉，嘴巴微张"
+            }
+        ],
+        "background": "户外模糊背景，光线明亮",
+        "description_narrative": "特写镜头，傅轻舟继续用合作伙伴的关系来施压，表情阴沉，试图动摇顾研。",
+        "dialogue": "我们可是合作伙伴。",
+        "speaker": "傅轻舟",
+        "emotion": "施压",
+        "duration": 6.02,
+        "description_visual": "特写平拍镜头；户外模糊背景，光线明亮；画面中央人物，身穿棕色外套，侧头看向顾研，表情：眉毛微皱，眼神阴沉，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面中央",
+                "action": "跪在地上，抬头直视",
+                "expression": "眉毛紧锁，眼神决绝，嘴巴微张说话"
+            }
+        ],
+        "background": "户外铺砖地面，光线明亮",
+        "description_narrative": "俯拍中近景，顾研抬头回应傅轻舟，表示不在乎坐牢的风险，神情非常坚决。",
+        "dialogue": "你以为我会担心这几年牢狱之灾吗？我受得起。",
+        "speaker": "顾研",
+        "emotion": "决绝",
+        "duration": 1.88,
+        "description_visual": "中近景俯拍镜头；户外铺砖地面，光线明亮；画面中央人物，身穿浅粉色衬衫，跪在地上，抬头直视，表情：眉毛紧锁，眼神决绝，嘴巴微张说话。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅轻舟",
+                "gender": "男",
+                "clothing": "棕色外套",
+                "position": "画面中央",
+                "action": "侧头看着前方",
+                "expression": "眉毛微皱，眼神复杂，嘴巴紧闭"
+            }
+        ],
+        "background": "户外模糊背景，光线明亮",
+        "description_narrative": "特写镜头，傅轻舟听到顾研的话后，表情变得复杂，沉默不语，似乎被她的决心震慑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.1,
+        "description_visual": "特写平拍镜头；户外模糊背景，光线明亮；画面中央人物，身穿棕色外套，侧头看着前方，表情：眉毛微皱，眼神复杂，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面左侧",
+                "action": "跪在床边，双手合十握住男子的手",
+                "expression": "低头祈祷，神情悲伤"
+            },
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "白色病号服/被子",
+                "position": "画面右侧",
+                "action": "躺在床上，盖着白色被子",
+                "expression": "双眼紧闭，昏迷不醒"
+            }
+        ],
+        "background": "温馨卧室，白色床品，藤编床头，暖色灯光",
+        "description_narrative": "场景切换至卧室，全景镜头。顾研跪在床边，握着昏迷中傅司南的手，低头祈祷。新闻播报声起，讲述傅家变故。",
+        "dialogue": "傅正雄在监狱被人围殴致死。",
+        "speaker": "新闻播报",
+        "emotion": "悲伤",
+        "duration": 4.1,
+        "description_visual": "全景平拍镜头；温馨卧室，白色床品，藤编床头，暖色灯光；画面左侧人物，身穿浅粉色衬衫，跪在床边，双手合十握住男子的手，表情：低头祈祷，神情悲伤；画面右侧人物，身穿白色病号服/被子，躺在床上，盖着白色被子，表情：双眼紧闭，昏迷不醒。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面左侧",
+                "action": "低头握着男子的手",
+                "expression": "眉毛低垂，眼睛闭合，神情哀伤"
+            }
+        ],
+        "background": "卧室床边，米色窗帘，暖色灯光",
+        "description_narrative": "中近景镜头，顾研低头紧握傅司南的手，神情哀伤。新闻播报继续，讲述傅轻舟被起诉的消息。",
+        "dialogue": "其继承人傅轻舟因故意杀人较多犯罪被起诉。",
+        "speaker": "新闻播报",
+        "emotion": "哀伤",
+        "duration": 6.04,
+        "description_visual": "中近景侧拍镜头；卧室床边，米色窗帘，暖色灯光；画面左侧人物，身穿浅粉色衬衫，低头握着男子的手，表情：眉毛低垂，眼睛闭合，神情哀伤。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "白色被子",
+                "position": "画面中央",
+                "action": "躺在床上，头部枕在枕头上",
+                "expression": "双眼紧闭，面色苍白，呼吸微弱"
+            }
+        ],
+        "background": "白色枕头，藤编床头，暖色灯光",
+        "description_narrative": "俯拍特写镜头，傅司南安静地躺在床上，处于昏迷状态。新闻播报讲述他重伤未愈，有成为植物人的风险。",
+        "dialogue": "其子傅司南因车祸致重伤，还未度过危险期，有风险成为植物人。",
+        "speaker": "新闻播报",
+        "emotion": "沉重",
+        "duration": 4.0,
+        "description_visual": "特写俯拍镜头；白色枕头，藤编床头，暖色灯光；画面中央人物，身穿白色被子，躺在床上，头部枕在枕头上，表情：双眼紧闭，面色苍白，呼吸微弱。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面左侧",
+                "action": "低头握着男子的手",
+                "expression": "眉毛紧锁，眼睛低垂，神情悲痛"
+            }
+        ],
+        "background": "卧室床边，米色窗帘",
+        "description_narrative": "中近景镜头，顾研低头悲痛。新闻播报揭示傅司南才是顶峰国际掌门人，身份曝光。",
+        "dialogue": "顶峰国际掌门人身份曝光，竟是傅家次子。",
+        "speaker": "新闻播报",
+        "emotion": "悲痛",
+        "duration": 9.1,
+        "description_visual": "中近景侧拍镜头；卧室床边，米色窗帘；画面左侧人物，身穿浅粉色衬衫，低头握着男子的手，表情：眉毛紧锁，眼睛低垂，神情悲痛。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面左侧",
+                "action": "跪在床边，握着男子的手",
+                "expression": "低头，神情专注"
+            },
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "白色被子",
+                "position": "画面右侧",
+                "action": "躺在床上",
+                "expression": "昏迷"
+            }
+        ],
+        "background": "温馨卧室，白色床品，暖色灯光",
+        "description_narrative": "全景镜头，顾研守在床边。新闻播报讲述傅司南立下遗嘱，将股份赠予顾研。",
+        "dialogue": "其助理夏宇轩因涉及重大违规被查处。傅司南在社交平台留下遗嘱，其名下顶峰国际。",
+        "speaker": "新闻播报",
+        "emotion": "平静",
+        "duration": 8.38,
+        "description_visual": "全景平拍镜头；温馨卧室，白色床品，暖色灯光；画面左侧人物，身穿浅粉色衬衫，跪在床边，握着男子的手，表情：低头，神情专注；画面右侧人物，身穿白色被子，躺在床上，表情：昏迷。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面左侧",
+                "action": "低头握着男子的手，手指交叉",
+                "expression": "眉毛微蹙，眼睛低垂，神情复杂"
+            }
+        ],
+        "background": "卧室床边，木质床头柜",
+        "description_narrative": "中近景镜头，顾研紧握傅司南的手。新闻播报结束，顾研开始倾诉，提到傅轻舟的威胁。",
+        "dialogue": "73% 股份尽数赠予顾研女士。亲爱的，你什么时候才能醒过来？",
+        "speaker": "新闻播报/顾研",
+        "emotion": "复杂",
+        "duration": 4.56,
+        "description_visual": "中近景侧拍镜头；卧室床边，木质床头柜；画面左侧人物，身穿浅粉色衬衫，低头握着男子的手，手指交叉，表情：眉毛微蹙，眼睛低垂，神情复杂。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "白色被子",
+                "position": "画面中央",
+                "action": "躺在床上，双眼紧闭",
+                "expression": "面色平静，昏迷中"
+            }
+        ],
+        "background": "白色枕头，藤编床头",
+        "description_narrative": "俯拍特写镜头，傅司南安静地躺着。顾研的声音继续，讲述自己曾被威胁，但傅司南暗中帮助了她。",
+        "dialogue": "傅轻舟之前威胁我。",
+        "speaker": "顾研",
+        "emotion": "愧疚",
+        "duration": 14.5,
+        "description_visual": "特写俯拍镜头；白色枕头，藤编床头；画面中央人物，身穿白色被子，躺在床上，双眼紧闭，表情：面色平静，昏迷中。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面左侧",
+                "action": "低头握着男子的手，手指紧扣",
+                "expression": "眉毛紧锁，眼睛闭合，神情痛苦"
+            }
+        ],
+        "background": "卧室床边，米色窗帘",
+        "description_narrative": "中近景镜头，顾研低头痛苦地倾诉，讲述傅司南暗中帮她与受害者达成和解，自己却一无所知。",
+        "dialogue": "因为之前我们的任务偷盗的物品价值超过一亿，如果我揭发他，我也会把牢底坐穿。但是他怎么也想不到，早在很久之前。",
+        "speaker": "顾研",
+        "emotion": "痛苦",
+        "duration": 10.7,
+        "description_visual": "中近景侧拍镜头；卧室床边，米色窗帘；画面左侧人物，身穿浅粉色衬衫，低头握着男子的手，手指紧扣，表情：眉毛紧锁，眼睛闭合，神情痛苦。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "白色被子",
+                "position": "画面中央",
+                "action": "躺在床上，双眼紧闭",
+                "expression": "面色苍白，毫无反应"
+            }
+        ],
+        "background": "白色枕头，藤编床头",
+        "description_narrative": "俯拍特写镜头，傅司南依旧昏迷。顾研的声音充满懊悔，说自己什么都不知道。",
+        "dialogue": "你就帮我和所有的受害者都达成了和解，司南，你为我做了那么多。",
+        "speaker": "顾研",
+        "emotion": "懊悔",
+        "duration": 5.24,
+        "description_visual": "特写俯拍镜头；白色枕头，藤编床头；画面中央人物，身穿白色被子，躺在床上，双眼紧闭，表情：面色苍白，毫无反应。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "浅粉色衬衫",
+                "position": "画面左侧",
+                "action": "低头握着男子的手，身体前倾",
+                "expression": "眉毛紧锁，眼睛低垂，神情悲痛"
+            }
+        ],
+        "background": "卧室床边，光线柔和",
+        "description_narrative": "中近景镜头，顾研低头悲痛欲绝，画面逐渐变白，结束。",
+        "dialogue": "我却什么都不知道。",
+        "speaker": "顾研",
+        "emotion": "悲痛",
+        "duration": 2.16,
+        "description_visual": "中近景侧拍镜头；卧室床边，光线柔和；画面左侧人物，身穿浅粉色衬衫，低头握着男子的手，身体前倾，表情：眉毛紧锁，眼睛低垂，神情悲痛。"
+    }
+]

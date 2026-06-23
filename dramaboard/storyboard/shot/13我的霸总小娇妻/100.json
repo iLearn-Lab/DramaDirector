@@ -1,0 +1,588 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣长者",
+                "gender": "男",
+                "clothing": "黑色中式上衣，胸前有金色龙纹刺绣",
+                "position": "画面左侧",
+                "action": "坐在沙发上，身体微侧向右",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微闭"
+            },
+            {
+                "name": "绿衣长者",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面右侧",
+                "action": "坐在沙发上，左臂搭在沙发靠背上",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张似在交谈"
+            }
+        ],
+        "background": "现代风格客厅，白色窗帘，灰色沙发，圆形茶几，光线柔和",
+        "description_narrative": "全景镜头，现代客厅内，黑衣长者和绿衣长者坐在沙发上交谈，光线明亮柔和，氛围轻松。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；现代风格客厅，白色窗帘，灰色沙发，圆形茶几，光线柔和；画面左侧人物，身穿黑色中式上衣，胸前有金色龙纹刺绣，坐在沙发上，身体微侧向右，表情：眉毛舒展，眼睛注视前方，嘴巴微闭；画面右侧人物，身穿绿色中式对襟上衣，坐在沙发上，左臂搭在沙发靠背上，表情：眉毛微扬，眼睛看向左侧，嘴巴微张似在交谈。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "白色沙发靠垫",
+                "position": "画面中央",
+                "action": "静止",
+                "expression": "无"
+            }
+        ],
+        "background": "白色沙发靠垫细节，背景虚化",
+        "description_narrative": "特写镜头聚焦于白色沙发靠垫的纹理，背景深暗，作为场景过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.4,
+        "description_visual": "特写平拍镜头；白色沙发靠垫细节，背景虚化；画面中央人物，身穿白色沙发靠垫，静止，表情：无。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐下，双手整理裤腿",
+                "expression": "无"
+            }
+        ],
+        "background": "室内暗调背景，白色沙发边缘可见",
+        "description_narrative": "中近景镜头，王林身穿黑色衬衫和长裤，正在坐下并整理裤腿，动作自然。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头（跟拍）；室内暗调背景，白色沙发边缘可见；画面中央人物，身穿黑色衬衫，黑色长裤，坐下，双手整理裤腿，表情：无。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，头部微转",
+                "expression": "眉毛平展，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "暗色背景，光线集中在人物面部",
+        "description_narrative": "近景镜头推进至王林面部，他身穿黑色衬衫，神情专注，似乎正在倾听或思考。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头（推进）；暗色背景，光线集中在人物面部；画面中央人物，身穿黑色衬衫，身体前倾，头部微转，表情：眉毛平展，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣长者",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面中央",
+                "action": "坐在沙发上，右手搭在膝盖上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张似在说话"
+            }
+        ],
+        "background": "客厅沙发区域，光线明亮",
+        "description_narrative": "中景镜头，绿衣长者坐在沙发上，面带微笑看着对面，似乎正在回应王林的提议。",
+        "dialogue": "最近有什么好日子？我想跟妙妙把婚礼办了。",
+        "speaker": "王林",
+        "emotion": "期待",
+        "duration": 5.0,
+        "description_visual": "中景平拍镜头；客厅沙发区域，光线明亮；画面中央人物，身穿绿色中式对襟上衣，坐在沙发上，右手搭在膝盖上，表情：眉毛微蹙，眼睛注视前方，嘴巴微张似在说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣长者",
+                "gender": "男",
+                "clothing": "黑色中式上衣，胸前有金色龙纹刺绣",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手自然放置",
+                "expression": "眉毛舒展，眼睛温和注视，嘴角上扬"
+            }
+        ],
+        "background": "客厅白色窗帘背景，前景有花卉装饰",
+        "description_narrative": "中近景镜头，黑衣长者面带慈祥笑容，看着对面，胸前龙纹清晰可见，正在给出建议。",
+        "dialogue": "后天就是个不错的日子，也有足够的时间准备",
+        "speaker": "黑衣长者",
+        "emotion": "支持",
+        "duration": 5.0,
+        "description_visual": "中近景平拍镜头；客厅白色窗帘背景，前景有花卉装饰；画面中央人物，身穿黑色中式上衣，胸前有金色龙纹刺绣，坐在沙发上，双手自然放置，表情：眉毛舒展，眼睛温和注视，嘴角上扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐着，头部微侧",
+                "expression": "眉毛微蹙，眼睛闭合后睁开，嘴巴微张"
+            }
+        ],
+        "background": "暗色背景，光线柔和",
+        "description_narrative": "近景镜头，王林表情略显犹豫，闭眼片刻后睁开，似乎有顾虑欲言又止。",
+        "dialogue": "妙妙她",
+        "speaker": "王林",
+        "emotion": "犹豫",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；暗色背景，光线柔和；画面中央人物，身穿黑色衬衫，坐着，头部微侧，表情：眉毛微蹙，眼睛闭合后睁开，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣长者",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面中央",
+                "action": "身体后仰靠在沙发上",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴张开露齿"
+            }
+        ],
+        "background": "客厅沙发区域，光线明亮",
+        "description_narrative": "中近景镜头，绿衣长者开怀大笑，身体放松后仰，显得非常开心和放心。",
+        "dialogue": "妙妙我来说服，我们有感情，而且感情很深。",
+        "speaker": "绿衣长者",
+        "emotion": "开心",
+        "duration": 5.72,
+        "description_visual": "中近景平拍镜头；客厅沙发区域，光线明亮；画面中央人物，身穿绿色中式对襟上衣，身体后仰靠在沙发上，表情：眉毛舒展，眼睛眯起笑，嘴巴张开露齿。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣长者",
+                "gender": "男",
+                "clothing": "黑色中式上衣，胸前有金色龙纹刺绣",
+                "position": "画面中央",
+                "action": "侧身向右看，手部微动",
+                "expression": "眉毛微扬，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "客厅白色窗帘背景，前景有花卉装饰",
+        "description_narrative": "中近景镜头，黑衣长者侧头看向旁边，面带微笑，正在安排婚礼准备工作。",
+        "dialogue": "那我们叫人准备场地，印请柬。",
+        "speaker": "黑衣长者",
+        "emotion": "积极",
+        "duration": 3.96,
+        "description_visual": "中近景平拍镜头；客厅白色窗帘背景，前景有花卉装饰；画面中央人物，身穿黑色中式上衣，胸前有金色龙纹刺绣，侧身向右看，手部微动，表情：眉毛微扬，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣长者",
+                "gender": "男",
+                "clothing": "黑色中式上衣",
+                "position": "画面左侧",
+                "action": "坐在沙发上",
+                "expression": "面带微笑"
+            },
+            {
+                "name": "绿衣长者",
+                "gender": "男",
+                "clothing": "绿色中式对襟上衣",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体前倾",
+                "expression": "低头微笑"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧",
+                "action": "坐在单人沙发上，侧身面向长辈",
+                "expression": "侧脸，神情专注"
+            }
+        ],
+        "background": "客厅全景，三人围坐，光线明亮",
+        "description_narrative": "全景镜头展示客厅全貌，三位男性围坐交谈，氛围融洽，黑衣长者表示会陪同。",
+        "dialogue": "我陪你一起走",
+        "speaker": "黑衣长者",
+        "emotion": "支持",
+        "duration": 2.56,
+        "description_visual": "全景平拍镜头；客厅全景，三人围坐，光线明亮；画面左侧人物，身穿黑色中式上衣，坐在沙发上，表情：面带微笑；画面中央人物，身穿绿色中式对襟上衣，坐在沙发上，身体前倾，表情：低头微笑；画面右侧人物，身穿黑色衬衫，坐在单人沙发上，侧身面向长辈，表情：侧脸，神情专注。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "白色西装外套，黑色内搭",
+                "position": "画面右侧",
+                "action": "从门口走进，头部微转",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内门口，白色门框，光线柔和",
+        "description_narrative": "中近景镜头，林妙身穿白色西装出现在门口，神情略显复杂，似乎听到了什么。",
+        "dialogue": "妙妙",
+        "speaker": "王林",
+        "emotion": "惊讶",
+        "duration": 12.68,
+        "description_visual": "中近景平拍镜头；室内门口，白色门框，光线柔和；画面右侧人物，身穿白色西装外套，黑色内搭，从门口走进，头部微转，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "侧身坐着，手臂伸出",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "灰色条纹墙面，光线较暗",
+        "description_narrative": "近景侧拍镜头，王林侧脸出镜，神情认真，正在倾听林妙的倾诉。",
+        "dialogue": "王林我想跟你说，有些事我没办法控制，但是我对你的感情一直都是真的。我知道我没有质疑你，但是我会觉得我在高攀你。",
+        "speaker": "林妙",
+        "emotion": "忧虑",
+        "duration": 16.24,
+        "description_visual": "近景侧拍镜头；灰色条纹墙面，光线较暗；画面左侧人物，身穿黑色衬衫，侧身坐着，手臂伸出，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "靠近林妙",
+                "expression": "眉毛微蹙，眼睛注视林妙，嘴巴微张"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "白色西装外套，黑色内搭",
+                "position": "画面右侧",
+                "action": "站在王林身旁，低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "灰色条纹墙面，光线柔和",
+        "description_narrative": "近景镜头，王林靠近低头的林妙，两人距离很近，氛围亲密而略带紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；灰色条纹墙面，光线柔和；画面左侧人物，身穿黑色衬衫，靠近林妙，表情：眉毛微蹙，眼睛注视林妙，嘴巴微张；画面右侧人物，身穿白色西装外套，黑色内搭，站在王林身旁，低头，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "侧脸靠近林妙",
+                "expression": "眉毛舒展，眼睛注视林妙，嘴巴微张"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面右侧",
+                "action": "低头，长发垂落",
+                "expression": "眉毛微蹙，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "灰色条纹墙面，光线集中在面部",
+        "description_narrative": "特写镜头，王林温柔地看着低头的林妙，用幽默的话语化解她的不安。",
+        "dialogue": "怎么是高攀呢？我现在还是要你给我开支呢。",
+        "speaker": "王林",
+        "emotion": "温柔",
+        "duration": 4.6,
+        "description_visual": "特写平拍镜头；灰色条纹墙面，光线集中在面部；画面左侧人物，身穿黑色衬衫，侧脸靠近林妙，表情：眉毛舒展，眼睛注视林妙，嘴巴微张；画面右侧人物，身穿白色西装外套，低头，长发垂落，表情：眉毛微蹙，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "低头注视",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面右侧",
+                "action": "侧脸靠近王林",
+                "expression": "眉毛微蹙，眼睛注视王林，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，光线柔和",
+        "description_narrative": "近景镜头，林妙继续表达自己的担忧，王林低头倾听，神情专注。",
+        "dialogue": "你的身份有很大的压力，我怕会拖你的后腿。",
+        "speaker": "林妙",
+        "emotion": "担忧",
+        "duration": 7.0,
+        "description_visual": "近景平拍镜头；室内环境，光线柔和；画面左侧人物，身穿黑色衬衫，低头注视，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面右侧人物，身穿白色西装外套，侧脸靠近王林，表情：眉毛微蹙，眼睛注视王林，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "抬头，嘴巴张开",
+                "expression": "眉毛上扬，眼睛注视上方，嘴巴张开"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面右侧前景",
+                "action": "手部抬起",
+                "expression": "无"
+            }
+        ],
+        "background": "室内环境，光线柔和",
+        "description_narrative": "特写镜头，王林神情坚定地发誓，林妙的手出现在前景，似乎要阻止他。",
+        "dialogue": "我王林在此发誓，身是林妙的人。",
+        "speaker": "王林",
+        "emotion": "坚定",
+        "duration": 4.6,
+        "description_visual": "特写平拍镜头；室内环境，光线柔和；画面中央人物，身穿黑色衬衫，抬头，嘴巴张开，表情：眉毛上扬，眼睛注视上方，嘴巴张开；画面右侧前景人物，身穿白色西装外套，手部抬起，表情：无。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "被捂住嘴",
+                "expression": "眼睛睁大，眉毛上扬"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面右侧",
+                "action": "用手捂住王林的嘴",
+                "expression": "无"
+            }
+        ],
+        "background": "室内环境，光线柔和",
+        "description_narrative": "特写镜头，林妙伸手捂住王林的嘴，阻止他发毒誓，动作亲昵。",
+        "dialogue": "呸呸",
+        "speaker": "林妙",
+        "emotion": "嗔怪",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；室内环境，光线柔和；画面左侧人物，身穿黑色衬衫，被捂住嘴，表情：眼睛睁大，眉毛上扬；画面右侧人物，身穿白色西装外套，用手捂住王林的嘴，表情：无。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "被林妙搂住",
+                "expression": "眼睛看向林妙，嘴巴被捂住"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面右侧",
+                "action": "一手捂嘴一手搂肩",
+                "expression": "眉毛微蹙，眼睛注视王林，嘴巴微张"
+            }
+        ],
+        "background": "室内门口区域，光线明亮",
+        "description_narrative": "中近景镜头，林妙搂住王林，手捂着他的嘴，轻声责备他乱说话。",
+        "dialogue": "瞎说什么呢",
+        "speaker": "林妙",
+        "emotion": "温柔",
+        "duration": 1.36,
+        "description_visual": "中近景平拍镜头；室内门口区域，光线明亮；画面左侧人物，身穿黑色衬衫，被林妙搂住，表情：眼睛看向林妙，嘴巴被捂住；画面右侧人物，身穿白色西装外套，一手捂嘴一手搂肩，表情：眉毛微蹙，眼睛注视王林，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "抱起林妙",
+                "expression": "眼睛注视林妙"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面右侧",
+                "action": "被王林抱起",
+                "expression": "眼睛注视王林"
+            }
+        ],
+        "background": "室内走廊，光线明亮",
+        "description_narrative": "中景镜头，王林突然将林妙公主抱起，动作流畅有力，两人深情对视。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "甜蜜",
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头（跟拍）；室内走廊，光线明亮；画面左侧人物，身穿黑色衬衫，抱起林妙，表情：眼睛注视林妙；画面右侧人物，身穿白色西装外套，被王林抱起，表情：眼睛注视王林。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "模糊人影",
+                "position": "画面中央",
+                "action": "模糊移动",
+                "expression": "无"
+            }
+        ],
+        "background": "客厅场景，画面模糊，快速移动",
+        "description_narrative": "全景镜头快速摇过客厅，画面模糊，作为场景转换或回忆的过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "全景平拍镜头（摇镜）；客厅场景，画面模糊，快速移动；画面中央人物，身穿模糊人影，模糊移动，表情：无。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "面部特写，叠加客厅场景",
+                "expression": "眼睛微闭，神情温柔"
+            }
+        ],
+        "background": "客厅场景半透明叠加在人物面部",
+        "description_narrative": "特写镜头，王林的面部特写与客厅场景双重曝光，营造回忆或憧憬的氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "深情",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；客厅场景半透明叠加在人物面部；画面中央人物，身穿黑色衬衫，面部特写，叠加客厅场景，表情：眼睛微闭，神情温柔。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "面部特写，叠加客厅场景",
+                "expression": "眼睛微闭，神情温柔"
+            }
+        ],
+        "background": "客厅场景半透明叠加在人物面部",
+        "description_narrative": "特写镜头延续双重曝光效果，王林神情宁静，画面逐渐淡出。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "宁静",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；客厅场景半透明叠加在人物面部；画面中央人物，身穿黑色衬衫，面部特写，叠加客厅场景，表情：眼睛微闭，神情温柔。"
+    }
+]

@@ -1,0 +1,793 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装配红色衬衫",
+                "position": "画面右侧",
+                "action": "身体前倾，右手手指插入陈思思的发丝间",
+                "expression": "眉毛微挑，眼睛眯起，嘴角上扬露出猥琐笑容"
+            },
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫和白色外套",
+                "position": "画面左侧",
+                "action": "头部向后躲避，身体紧绷",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张露出痛苦神情"
+            }
+        ],
+        "background": "昏暗室内，背景模糊，暖色调灯光集中在人物身上",
+        "description_narrative": "特写镜头下，西装男子身体前倾，右手手指插入陈思思的发丝间，脸上带着猥琐笑容。陈思思头部向后躲避，身体紧绷，眉头紧蹙，双眼紧闭，嘴巴微张露出痛苦神情，喊道别碰我。",
+        "dialogue": "别碰我",
+        "speaker": "陈思思",
+        "emotion": "恐惧",
+        "duration": 1.57,
+        "description_visual": "特写平拍镜头；昏暗室内，背景模糊，暖色调灯光集中在人物身上；画面右侧人物，身穿黑色西装配红色衬衫，身体前倾，右手手指插入陈思思的发丝间，表情：眉毛微挑，眼睛眯起，嘴角上扬露出猥琐笑容；画面左侧人物，身穿粉色衬衫和白色外套，头部向后躲避，身体紧绷，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张露出痛苦神情。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装配红色衬衫",
+                "position": "画面中央",
+                "action": "低头看着下方，双手在陈思思肩部附近动作",
+                "expression": "眉毛舒展，眼睛眯成缝，嘴角咧开大笑"
+            }
+        ],
+        "background": "昏暗室内，背景虚化，光线集中在男子面部",
+        "description_narrative": "俯拍特写镜头，西装男子低头看着下方，双手在陈思思肩部附近动作，眉毛舒展，眼睛眯成缝，嘴角咧开大笑，神情阴险。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "阴险",
+        "duration": 0.77,
+        "description_visual": "特写俯拍镜头；昏暗室内，背景虚化，光线集中在男子面部；画面中央人物，身穿黑色西装配红色衬衫，低头看着下方，双手在陈思思肩部附近动作，表情：眉毛舒展，眼睛眯成缝，嘴角咧开大笑。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "身体被绳索捆绑在椅子上，头部低垂，头发凌乱",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴微张喘息"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右后景",
+                "action": "站在陈思思身后，手部动作模糊",
+                "expression": "面部模糊，隐约可见笑容"
+            }
+        ],
+        "background": "昏暗房间，背景有砖墙纹理，光线昏暗",
+        "description_narrative": "近景镜头，陈思思身体被绳索捆绑在椅子上，头部低垂，头发凌乱，眉毛紧锁，眼睛向下看，嘴巴微张喘息。西装男子站在身后，画外音响起这照片。",
+        "dialogue": "这照片",
+        "speaker": "高小姐",
+        "emotion": "痛苦",
+        "duration": 3.33,
+        "description_visual": "近景平拍镜头；昏暗房间，背景有砖墙纹理，光线昏暗；画面中央人物，身穿粉色衬衫，身体被绳索捆绑在椅子上，头部低垂，头发凌乱，表情：眉毛紧锁，眼睛向下看，嘴巴微张喘息；画面右后景人物，身穿黑色西装，站在陈思思身后，手部动作模糊，表情：面部模糊，隐约可见笑容。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫白色外套黑色短裙",
+                "position": "画面中央",
+                "action": "被绑在椅子上，身体前倾，被西装男子从身后抱住",
+                "expression": "头部低垂，表情痛苦"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "陈思思身后",
+                "action": "双手环抱陈思思，头部靠近陈思思",
+                "expression": "面带笑容"
+            },
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面右侧",
+                "action": "手持相机对准两人拍照",
+                "expression": "专注拍摄"
+            }
+        ],
+        "background": "宽敞房间，背景有酒柜和装饰画，木地板，聚光灯照明",
+        "description_narrative": "全景镜头展示宽敞房间，陈思思被绑在椅子上，身体前倾，被西装男子从身后抱住。高小姐站在右侧，手持相机对准两人拍照。画外音响起你一定会很。",
+        "dialogue": "你一定会很",
+        "speaker": "高小姐",
+        "emotion": "得意",
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；宽敞房间，背景有酒柜和装饰画，木地板，聚光灯照明；画面中央人物，身穿粉色衬衫白色外套黑色短裙，被绑在椅子上，身体前倾，被西装男子从身后抱住，表情：头部低垂，表情痛苦；陈思思身后人物，身穿黑色西装，双手环抱陈思思，头部靠近陈思思，表情：面带笑容；画面右侧人物，身穿黑色珍珠装饰粗花呢外套，手持相机对准两人拍照，表情：专注拍摄。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面中央",
+                "action": "双手举着相机拍照，身体微侧",
+                "expression": "眉毛上扬，眼睛透过取景器看，嘴巴张开大笑"
+            }
+        ],
+        "background": "室内背景模糊，可见部分画框，暖色调灯光",
+        "description_narrative": "中近景镜头，高小姐双手举着相机拍照，身体微侧，眉毛上扬，眼睛透过取景器看，嘴巴张开大笑，说道很喜欢的。",
+        "dialogue": "很喜欢的",
+        "speaker": "高小姐",
+        "emotion": "嘲讽",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；室内背景模糊，可见部分画框，暖色调灯光；画面中央人物，身穿黑色珍珠装饰粗花呢外套，双手举着相机拍照，身体微侧，表情：眉毛上扬，眼睛透过取景器看，嘴巴张开大笑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面左侧",
+                "action": "身体挣扎，头部低垂",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴张开痛苦呼喊"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "右手抓住陈思思的衣领或头发",
+                "expression": "低头看着陈思思，表情阴狠"
+            }
+        ],
+        "background": "昏暗室内，背景模糊",
+        "description_narrative": "近景镜头，陈思思身体挣扎，头部低垂，眉毛紧蹙，眼睛紧闭，嘴巴张开痛苦呼喊。西装男子右手抓住陈思思的衣领或头发，低头看着她。陈思思喊道我跟他根本不是那种关系。",
+        "dialogue": "我跟他根本不是那种关系",
+        "speaker": "陈思思",
+        "emotion": "绝望",
+        "duration": 3.43,
+        "description_visual": "近景平拍镜头；昏暗室内，背景模糊；画面左侧人物，身穿粉色衬衫，身体挣扎，头部低垂，表情：眉毛紧蹙，眼睛紧闭，嘴巴张开痛苦呼喊；画面右侧人物，身穿黑色西装，右手抓住陈思思的衣领或头发，表情：低头看着陈思思，表情阴狠。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "从身后紧紧抱住陈思思，头部贴近",
+                "expression": "表情狰狞"
+            },
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，被束缚",
+                "expression": "痛苦低头"
+            }
+        ],
+        "background": "砖墙背景，挂有画框，光线昏暗",
+        "description_narrative": "中景侧拍镜头，西装男子从身后紧紧抱住陈思思，头部贴近，表情狰狞。陈思思身体前倾被束缚，痛苦低头。画外音响起住口。",
+        "dialogue": "住口",
+        "speaker": "高小姐",
+        "emotion": "愤怒",
+        "duration": 1.73,
+        "description_visual": "中景侧拍镜头；砖墙背景，挂有画框，光线昏暗；画面左侧人物，身穿黑色西装，从身后紧紧抱住陈思思，头部贴近，表情：表情狰狞；画面中央人物，身穿粉色衬衫，身体前倾，被束缚，表情：痛苦低头。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面中央",
+                "action": "头部微侧，眼神凌厉",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴张开大声呵斥"
+            }
+        ],
+        "background": "室内背景模糊，暖光",
+        "description_narrative": "特写镜头，高小姐头部微侧，眼神凌厉，眉毛紧锁，眼睛睁大，嘴巴张开大声呵斥，说道不要再狡辩了。",
+        "dialogue": "不要再狡辩了",
+        "speaker": "高小姐",
+        "emotion": "愤怒",
+        "duration": 1.57,
+        "description_visual": "特写平拍镜头；室内背景模糊，暖光；画面中央人物，身穿黑色珍珠装饰粗花呢外套，头部微侧，眼神凌厉，表情：眉毛紧锁，眼睛睁大，嘴巴张开大声呵斥。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "头部低垂，头发遮挡部分面部",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景，光线集中在面部",
+        "description_narrative": "俯拍特写镜头，陈思思头部低垂，头发遮挡部分面部，眉毛微蹙，眼睛向下看，嘴巴微张。画外音响起陈思思，我告诉你。",
+        "dialogue": "陈思思，我告诉你",
+        "speaker": "高小姐",
+        "emotion": "悲伤",
+        "duration": 1.97,
+        "description_visual": "特写俯拍镜头；昏暗背景，光线集中在面部；画面中央人物，身穿粉色衬衫，头部低垂，头发遮挡部分面部，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面中央",
+                "action": "身体前倾，眼神逼视对方",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴张开命令式说话"
+            }
+        ],
+        "background": "室内背景，可见画框",
+        "description_narrative": "近景镜头，高小姐身体前倾，眼神逼视对方，眉毛上扬，眼睛瞪大，嘴巴张开命令式说话，说道马上离开严祁。",
+        "dialogue": "马上离开严祁",
+        "speaker": "高小姐",
+        "emotion": "强势",
+        "duration": 1.83,
+        "description_visual": "近景平拍镜头；室内背景，可见画框；画面中央人物，身穿黑色珍珠装饰粗花呢外套，身体前倾，眼神逼视对方，表情：眉毛上扬，眼睛瞪大，嘴巴张开命令式说话。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "抬头看向对方，眼中含泪",
+                "expression": "眉毛微蹙，眼睛湿润，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写镜头，陈思思抬头看向对方，眼中含泪，眉毛微蹙，眼睛湿润，嘴巴微张。画外音响起只要你离开严祁，我就放了你。",
+        "dialogue": "只要你离开严祁，我就放了你",
+        "speaker": "高小姐",
+        "emotion": "哀求",
+        "duration": 2.47,
+        "description_visual": "特写平拍镜头；昏暗背景；画面中央人物，身穿粉色衬衫，抬头看向对方，眼中含泪，表情：眉毛微蹙，眼睛湿润，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面中央",
+                "action": "眼神轻蔑地看着对方",
+                "expression": "眉毛微挑，眼睛斜视，嘴唇紧闭后微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "近景镜头，高小姐眼神轻蔑地看着对方，眉毛微挑，眼睛斜视，嘴唇紧闭后微张，说道否则就让小哥哥今晚一直陪着你。",
+        "dialogue": "否则就让小哥哥今晚一直陪着你",
+        "speaker": "高小姐",
+        "emotion": "威胁",
+        "duration": 4.77,
+        "description_visual": "近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿黑色珍珠装饰粗花呢外套，眼神轻蔑地看着对方，表情：眉毛微挑，眼睛斜视，嘴唇紧闭后微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "抬头向上看，表情倔强",
+                "expression": "眉毛微扬，眼睛直视上方，嘴巴张开说话"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "仰拍特写镜头，陈思思抬头向上看，表情倔强，眉毛微扬，眼睛直视上方，嘴巴张开说话，说道就算我离开严祁。",
+        "dialogue": "就算我离开严祁",
+        "speaker": "陈思思",
+        "emotion": "倔强",
+        "duration": 1.8,
+        "description_visual": "特写仰拍镜头；昏暗背景；画面中央人物，身穿粉色衬衫，抬头向上看，表情倔强，表情：眉毛微扬，眼睛直视上方，嘴巴张开说话。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神挑衅",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开反问"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "仰拍特写镜头，陈思思头部微侧，眼神挑衅，眉毛上扬，眼睛睁大，嘴巴张开反问，说道你就确定他会爱上你吗。",
+        "dialogue": "你就确定他会爱上你吗",
+        "speaker": "陈思思",
+        "emotion": "挑衅",
+        "duration": 2.47,
+        "description_visual": "特写仰拍镜头；昏暗背景；画面中央人物，身穿粉色衬衫，头部微侧，眼神挑衅，表情：眉毛上扬，眼睛睁大，嘴巴张开反问。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "头部后仰，面部表情极度痛苦",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴大张尖叫"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写镜头，陈思思头部后仰，面部表情极度痛苦，眉毛紧锁，眼睛紧闭，嘴巴大张尖叫，发出啊的声音。",
+        "dialogue": "啊",
+        "speaker": "陈思思",
+        "emotion": "痛苦",
+        "duration": 0.87,
+        "description_visual": "特写平拍镜头；昏暗背景；画面中央人物，身穿粉色衬衫，头部后仰，面部表情极度痛苦，表情：眉毛紧锁，眼睛紧闭，嘴巴大张尖叫。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面右侧",
+                "action": "侧身对着镜头，手指指向陈思思方向",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴张开指责"
+            }
+        ],
+        "background": "室内背景，光线集中在人物",
+        "description_narrative": "侧拍近景镜头，高小姐侧身对着镜头，手指指向陈思思方向，眉毛上扬，眼睛瞪大，嘴巴张开指责，说道你看看你自己。",
+        "dialogue": "你看看你自己",
+        "speaker": "高小姐",
+        "emotion": "轻蔑",
+        "duration": 2.03,
+        "description_visual": "近景侧拍镜头；室内背景，光线集中在人物；画面右侧人物，身穿黑色珍珠装饰粗花呢外套，侧身对着镜头，手指指向陈思思方向，表情：眉毛上扬，眼睛瞪大，嘴巴张开指责。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面左侧",
+                "action": "被绑在椅子上，头部后仰",
+                "expression": "表情痛苦扭曲"
+            },
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面右侧",
+                "action": "站在陈思思身旁，低头看着她",
+                "expression": "表情傲慢"
+            }
+        ],
+        "background": "砖墙背景，挂有画框",
+        "description_narrative": "中景镜头，陈思思被绑在椅子上，头部后仰，表情痛苦扭曲。高小姐站在身旁，低头看着她，表情傲慢。画外音响起长得没我好看，身材没我好，学历也没我高。",
+        "dialogue": "长得没我好看，身材没我好，学历也没我高",
+        "speaker": "高小姐",
+        "emotion": "傲慢",
+        "duration": 3.83,
+        "description_visual": "中景平拍镜头；砖墙背景，挂有画框；画面左侧人物，身穿粉色衬衫，被绑在椅子上，头部后仰，表情：表情痛苦扭曲；画面右侧人物，身穿黑色珍珠装饰粗花呢外套，站在陈思思身旁，低头看着她，表情：表情傲慢。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面中央",
+                "action": "眼神轻蔑地看向一侧",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，可见画框",
+        "description_narrative": "近景镜头，高小姐眼神轻蔑地看向一侧，眉毛微蹙，眼睛斜视，嘴巴微张，说道根本配不上严祁。",
+        "dialogue": "根本配不上严祁",
+        "speaker": "高小姐",
+        "emotion": "不屑",
+        "duration": 2.23,
+        "description_visual": "近景平拍镜头；室内背景，可见画框；画面中央人物，身穿黑色珍珠装饰粗花呢外套，眼神轻蔑地看向一侧，表情：眉毛微蹙，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "头部低垂，眼神向下",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "俯拍特写镜头，陈思思头部低垂，眼神向下，眉毛微蹙，眼睛向下看，嘴巴微张。画外音响起不过呢。",
+        "dialogue": "不过呢",
+        "speaker": "高小姐",
+        "emotion": "绝望",
+        "duration": 1.7,
+        "description_visual": "特写俯拍镜头；昏暗背景；画面中央人物，身穿粉色衬衫，头部低垂，眼神向下，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面中央",
+                "action": "低头看着下方，嘴角微扬",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "近景镜头，高小姐低头看着下方，嘴角微扬，眉毛舒展，眼睛下视，嘴巴微张，说道过了今天晚上呀。",
+        "dialogue": "过了今天晚上呀",
+        "speaker": "高小姐",
+        "emotion": "阴险",
+        "duration": 1.03,
+        "description_visual": "近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿黑色珍珠装饰粗花呢外套，低头看着下方，嘴角微扬，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "抬头看向对方，眼神惊恐",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "仰拍特写镜头，陈思思抬头看向对方，眼神惊恐，眉毛上扬，眼睛睁大，嘴巴微张。画外音响起你这副身体将会变得无比肮脏。",
+        "dialogue": "你这副身体将会变得无比肮脏",
+        "speaker": "高小姐",
+        "emotion": "惊恐",
+        "duration": 9.83,
+        "description_visual": "特写仰拍镜头；昏暗背景；画面中央人物，身穿粉色衬衫，抬头看向对方，眼神惊恐，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面中央",
+                "action": "头部微侧，眼神震惊",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，可见画框",
+        "description_narrative": "近景镜头，高小姐头部微侧，眼神震惊，眉毛紧锁，眼睛睁大，嘴巴微张。画外音响起我终于知道为什么严祁那么讨厌你，你就是一个可怕的女人。",
+        "dialogue": "我终于知道为什么严祁那么讨厌你，你就是一个可怕的女人",
+        "speaker": "陈思思",
+        "emotion": "震惊",
+        "duration": 6.97,
+        "description_visual": "近景平拍镜头；室内背景，可见画框；画面中央人物，身穿黑色珍珠装饰粗花呢外套，头部微侧，眼神震惊，表情：眉毛紧锁，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装配红色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，看向高小姐方向",
+                "expression": "眉毛微挑，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "仰拍近景镜头，西装男子头部微侧，看向高小姐方向，眉毛微挑，眼睛眯起，嘴角上扬，说道高小姐。",
+        "dialogue": "高小姐",
+        "speaker": "西装男子",
+        "emotion": "谄媚",
+        "duration": 2.1,
+        "description_visual": "近景仰拍镜头；昏暗背景；画面中央人物，身穿黑色西装配红色衬衫，头部微侧，看向高小姐方向，表情：眉毛微挑，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面中央",
+                "action": "头部微侧，嘴角含笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内背景，可见画框",
+        "description_narrative": "近景镜头，高小姐头部微侧，嘴角含笑，眉毛舒展，眼睛微眯，嘴角上扬。画外音响起这丫头嘴很硬，不如让我翘一翘试试。",
+        "dialogue": "这丫头嘴很硬，不如让我翘一翘试试",
+        "speaker": "西装男子",
+        "emotion": "得意",
+        "duration": 4.07,
+        "description_visual": "近景平拍镜头；室内背景，可见画框；画面中央人物，身穿黑色珍珠装饰粗花呢外套，头部微侧，嘴角含笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，表情惊恐中带笑",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写镜头，陈思思头部微侧，表情惊恐中带笑，眉毛上扬，眼睛睁大，嘴巴张开。画外音响起哈哈哈。",
+        "dialogue": "哈哈哈",
+        "speaker": "西装男子",
+        "emotion": "惊恐",
+        "duration": 1.5,
+        "description_visual": "特写平拍镜头；昏暗背景；画面中央人物，身穿粉色衬衫，头部微侧，表情惊恐中带笑，表情：眉毛上扬，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "高小姐",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰粗花呢外套",
+                "position": "画面左侧",
+                "action": "背对镜头，右手抬起指向远方",
+                "expression": "不可见"
+            }
+        ],
+        "background": "砖墙背景，光线昏暗",
+        "description_narrative": "侧拍中近景镜头，高小姐背对镜头，右手抬起指向远方，准备离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.33,
+        "description_visual": "中近景侧拍镜头；砖墙背景，光线昏暗；画面左侧人物，身穿黑色珍珠装饰粗花呢外套，背对镜头，右手抬起指向远方，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装配红色衬衫",
+                "position": "画面中央",
+                "action": "双手搓动，面带笑容",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴咧开大笑"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写镜头，西装男子双手搓动，面带笑容，眉毛舒展，眼睛眯起，嘴巴咧开大笑。画外音响起好好享受吧。",
+        "dialogue": "好好享受吧",
+        "speaker": "高小姐",
+        "emotion": "猥琐",
+        "duration": 1.57,
+        "description_visual": "特写平拍镜头；昏暗背景；画面中央人物，身穿黑色西装配红色衬衫，双手搓动，面带笑容，表情：眉毛舒展，眼睛眯起，嘴巴咧开大笑。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装配红色衬衫",
+                "position": "画面中央",
+                "action": "双手手指交叉搓动",
+                "expression": "眉毛微挑，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写镜头，西装男子双手手指交叉搓动，眉毛微挑，眼睛眯起，嘴角上扬，说道小妹妹。",
+        "dialogue": "小妹妹",
+        "speaker": "西装男子",
+        "emotion": "猥琐",
+        "duration": 1.13,
+        "description_visual": "特写平拍镜头；昏暗背景；画面中央人物，身穿黑色西装配红色衬衫，双手手指交叉搓动，表情：眉毛微挑，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "背对镜头，面向陈思思",
+                "expression": "不可见"
+            },
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫白色外套黑色短裙",
+                "position": "画面中央",
+                "action": "被绑在椅子上，抬头看着男子",
+                "expression": "表情惊恐"
+            }
+        ],
+        "background": "宽敞房间，背景有酒柜，木地板",
+        "description_narrative": "全景镜头，西装男子背对镜头，面向陈思思。陈思思被绑在椅子上，抬头看着男子，表情惊恐。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恐惧",
+        "duration": 1.7,
+        "description_visual": "全景平拍镜头；宽敞房间，背景有酒柜，木地板；画面左侧人物，身穿黑色西装，背对镜头，面向陈思思，表情：不可见；画面中央人物，身穿粉色衬衫白色外套黑色短裙，被绑在椅子上，抬头看着男子，表情：表情惊恐。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "抬头向上看，眼神绝望",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "仰拍特写镜头，陈思思抬头向上看，眼神绝望，眉毛微蹙，眼睛睁大，嘴巴微张。画外音响起春宵一刻值千金呐。",
+        "dialogue": "春宵一刻值千金呐",
+        "speaker": "西装男子",
+        "emotion": "绝望",
+        "duration": 0.97,
+        "description_visual": "特写仰拍镜头；昏暗背景；画面中央人物，身穿粉色衬衫，抬头向上看，眼神绝望，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装配红色衬衫",
+                "position": "画面中央",
+                "action": "双手手指交叉搓动，身体前倾",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴咧开大笑"
+            }
+        ],
+        "background": "砖墙背景，光线昏暗",
+        "description_narrative": "近景镜头，西装男子双手手指交叉搓动，身体前倾，眉毛舒展，眼睛眯起，嘴巴咧开大笑，说道哈哈哈。",
+        "dialogue": "哈哈哈",
+        "speaker": "西装男子",
+        "emotion": "猖狂",
+        "duration": 6.03,
+        "description_visual": "近景平拍镜头；砖墙背景，光线昏暗；画面中央人物，身穿黑色西装配红色衬衫，双手手指交叉搓动，身体前倾，表情：眉毛舒展，眼睛眯起，嘴巴咧开大笑。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色强光画面",
+        "description_narrative": "特写镜头，画面被白色强光充满，细节不可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.1,
+        "description_visual": "特写平拍镜头；白色强光画面。"
+    }
+]

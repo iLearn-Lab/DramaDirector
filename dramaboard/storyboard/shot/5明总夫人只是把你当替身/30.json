@@ -1,0 +1,703 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Ming Hao",
+                "gender": "男",
+                "clothing": "深色湿衣",
+                "position": "画面左侧",
+                "action": "低头注视",
+                "expression": "眉毛微蹙，眼神深情，嘴唇紧闭"
+            },
+            {
+                "name": "Fu Xin",
+                "gender": "女",
+                "clothing": "深色湿衣",
+                "position": "画面右侧",
+                "action": "仰头注视",
+                "expression": "眉毛舒展，眼神湿润，嘴唇微张"
+            }
+        ],
+        "background": "雨夜场景，光线昏暗，雨丝清晰可见",
+        "description_narrative": "特写镜头，Ming Hao 和 Fu Xin 在雨中深情对视，Ming Hao 低头看着 Fu Xin，雨水打湿了两人的头发和脸庞，氛围浪漫而紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.04,
+        "description_visual": "特写侧拍镜头；雨夜场景，光线昏暗，雨丝清晰可见；画面左侧人物，身穿深色湿衣，低头注视，表情：眉毛微蹙，眼神深情，嘴唇紧闭；画面右侧人物，身穿深色湿衣，仰头注视，表情：眉毛舒展，眼神湿润，嘴唇微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景，带有金色光斑粒子效果",
+        "description_narrative": "黑色背景上显示白色文字“第三十集”，下方有模糊的剧名文字，金色光斑在背景中漂浮。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；黑色背景，带有金色光斑粒子效果。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Fu Xin",
+                "gender": "女",
+                "clothing": "白底棕色格纹睡衣",
+                "position": "画面中央",
+                "action": "低头注视前方",
+                "expression": "眉毛紧锁，眼神愤怒，嘴唇紧闭"
+            }
+        ],
+        "background": "医院病房，粉色窗帘，光线明亮",
+        "description_narrative": "近景镜头，Fu Xin 身穿格纹睡衣，表情愤怒且焦急，低头看着前方，似乎在对某人质问。",
+        "dialogue": "孙薇薇，你发什么疯？",
+        "speaker": "Fu Xin",
+        "emotion": "愤怒",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；医院病房，粉色窗帘，光线明亮；画面中央人物，身穿白底棕色格纹睡衣，低头注视前方，表情：眉毛紧锁，眼神愤怒，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面中央",
+                "action": "闭眼皱眉",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张作痛苦状"
+            }
+        ],
+        "background": "医院病房，白色墙壁，光线柔和",
+        "description_narrative": "特写镜头，Sun Weiwei 身穿米色连衣裙，表情痛苦，闭着眼睛，似乎正在假装受伤或不适。",
+        "dialogue": "啊，妹妹。",
+        "speaker": "Sun Weiwei",
+        "emotion": "痛苦",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；医院病房，白色墙壁，光线柔和；画面中央人物，身穿米色紧身连衣裙，闭眼皱眉，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张作痛苦状。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "前景",
+                "action": "向后摔倒",
+                "expression": "眼睛紧闭，嘴巴张开呼喊"
+            },
+            {
+                "name": "Gu Tai",
+                "gender": "女",
+                "clothing": "蓝紫色花卉连衣裙",
+                "position": "背景门口",
+                "action": " rushing in",
+                "expression": "表情惊慌"
+            },
+            {
+                "name": "Doctor",
+                "gender": "男",
+                "clothing": "白大褂",
+                "position": "背景门口",
+                "action": "站立",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "医院病房门口，光线明亮",
+        "description_narrative": "中景镜头，Sun Weiwei 在前景向后摔倒，表情痛苦地喊着“不要推我”，背景中 Gu Tai 和医生正从门口匆忙进入。",
+        "dialogue": "你不要推我。",
+        "speaker": "Sun Weiwei",
+        "emotion": "惊恐",
+        "duration": 0.6,
+        "description_visual": "中景平拍镜头；医院病房门口，光线明亮；前景人物，身穿米色紧身连衣裙，向后摔倒，表情：眼睛紧闭，嘴巴张开呼喊；背景门口人物，身穿蓝紫色花卉连衣裙，rushing in，表情：表情惊慌；背景门口人物，身穿白大褂，站立，表情：模糊不清。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Fu Xin",
+                "gender": "女",
+                "clothing": "白底棕色格纹睡衣",
+                "position": "画面中央",
+                "action": "愤怒反驳",
+                "expression": "眉毛倒竖，眼睛瞪大，嘴巴张开大声说话"
+            }
+        ],
+        "background": "医院病房，粉色窗帘背景",
+        "description_narrative": "特写镜头，Fu Xin 表情极度愤怒，眉头紧锁，张嘴大声反驳，指责对方在演戏。",
+        "dialogue": "你别再演戏了。",
+        "speaker": "Fu Xin",
+        "emotion": "愤怒",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；医院病房，粉色窗帘背景；画面中央人物，身穿白底棕色格纹睡衣，愤怒反驳，表情：眉毛倒竖，眼睛瞪大，嘴巴张开大声说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Fu Xin",
+                "gender": "女",
+                "clothing": "白底棕色格纹睡衣",
+                "position": "画面中央",
+                "action": "被抓住肩膀",
+                "expression": "眼睛紧闭，面部扭曲痛苦"
+            },
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "未知",
+                "position": "画面右侧（仅手）",
+                "action": "手抓 Fu Xin 肩膀",
+                "expression": "未知"
+            }
+        ],
+        "background": "医院病房，粉色窗帘",
+        "description_narrative": "特写镜头，一只戴着绿色戒指的手紧紧抓住 Fu Xin 的肩膀，Fu Xin 闭眼皱眉，表情痛苦，似乎在挣扎。",
+        "dialogue": "小可爱。",
+        "speaker": "Sun Weiwei",
+        "emotion": "嘲讽",
+        "duration": 1.08,
+        "description_visual": "特写平拍镜头；医院病房，粉色窗帘；画面中央人物，身穿白底棕色格纹睡衣，被抓住肩膀，表情：眼睛紧闭，面部扭曲痛苦；画面右侧（仅手）人物，身穿未知，手抓 Fu Xin 肩膀，表情：未知。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Fu Xin",
+                "gender": "女",
+                "clothing": "白底棕色格纹睡衣",
+                "position": "画面中央",
+                "action": "回头看向后方",
+                "expression": "眉毛紧蹙，眼神疑惑且委屈，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，蓝色床头板",
+        "description_narrative": "过肩镜头，Fu Xin 回头看向身后，表情委屈且困惑，似乎在回应某人的质问。",
+        "dialogue": "你对薇薇做了什么？",
+        "speaker": "Gu Tai",
+        "emotion": "质问",
+        "duration": 2.68,
+        "description_visual": "近景过肩镜头；医院病房，蓝色床头板；画面中央人物，身穿白底棕色格纹睡衣，回头看向后方，表情：眉毛紧蹙，眼神疑惑且委屈，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面中央",
+                "action": "坐在地上看手",
+                "expression": "低头注视手掌，表情痛苦"
+            }
+        ],
+        "background": "医院地面，米色瓷砖",
+        "description_narrative": "俯拍特写，Sun Weiwei 坐在地上，低头看着自己沾满红色血迹的手掌，表情显得无助和痛苦。",
+        "dialogue": "我没有推她，是她自己摔的。",
+        "speaker": "Fu Xin",
+        "emotion": "辩解",
+        "duration": 2.16,
+        "description_visual": "特写俯拍镜头；医院地面，米色瓷砖；画面中央人物，身穿米色紧身连衣裙，坐在地上看手，表情：低头注视手掌，表情痛苦。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面中央",
+                "action": "展示流血的手",
+                "expression": "低头看手，眉头紧锁"
+            }
+        ],
+        "background": "医院地面，光线明亮",
+        "description_narrative": "特写镜头，Sun Weiwei 的手掌上满是鲜红的血迹，她低头看着手，声音虚弱地说自己流血了。",
+        "dialogue": "我流血了。",
+        "speaker": "Sun Weiwei",
+        "emotion": "虚弱",
+        "duration": 0.64,
+        "description_visual": "特写俯拍镜头；医院地面，光线明亮；画面中央人物，身穿米色紧身连衣裙，展示流血的手，表情：低头看手，眉头紧锁。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Gu Tai",
+                "gender": "女",
+                "clothing": "蓝紫色花卉连衣裙",
+                "position": "画面左侧",
+                "action": "扶着 Sun Weiwei",
+                "expression": "表情惊慌，嘴巴张开呼喊"
+            },
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面右侧",
+                "action": "坐在地上",
+                "expression": "低头看手，表情痛苦"
+            }
+        ],
+        "background": "医院病房，粉色隔帘",
+        "description_narrative": "中景镜头，Gu Tai 惊慌地扶着坐在地上的 Sun Weiwei，大声呼喊叫医生，Sun Weiwei 则展示着流血的手。",
+        "dialogue": "快叫医生。",
+        "speaker": "Gu Tai",
+        "emotion": "惊慌",
+        "duration": 1.12,
+        "description_visual": "中景平拍镜头；医院病房，粉色隔帘；画面左侧人物，身穿蓝紫色花卉连衣裙，扶着 Sun Weiwei，表情：表情惊慌，嘴巴张开呼喊；画面右侧人物，身穿米色紧身连衣裙，坐在地上，表情：低头看手，表情痛苦。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Gu Tai",
+                "gender": "女",
+                "clothing": "蓝紫色花卉连衣裙",
+                "position": "画面中央",
+                "action": "愤怒指责",
+                "expression": "眉毛倒竖，眼神凶狠，嘴巴张开"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "近景镜头，Gu Tai 表情愤怒，手指指向前方（Fu Xin 方向），似乎在进行严厉的指责。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁；画面中央人物，身穿蓝紫色花卉连衣裙，愤怒指责，表情：眉毛倒竖，眼神凶狠，嘴巴张开。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Gu Tai",
+                "gender": "女",
+                "clothing": "蓝紫色花卉连衣裙",
+                "position": "画面中央",
+                "action": "手指前方",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "特写镜头，Gu Tai 愤怒地指着前方，询问孩子有什么问题，表情充满了担忧和怒火。",
+        "dialogue": "孩子有什么问题？",
+        "speaker": "Gu Tai",
+        "emotion": "焦急",
+        "duration": 3.16,
+        "description_visual": "特写平拍镜头；医院病房，白色墙壁；画面中央人物，身穿蓝紫色花卉连衣裙，手指前方，表情：眉毛紧锁，眼神愤怒，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Gu Tai",
+                "gender": "女",
+                "clothing": "蓝紫色花卉连衣裙",
+                "position": "画面左侧",
+                "action": "坐在地上扶着 Sun Weiwei",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面右侧",
+                "action": "躺在地上",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "Fu Xin",
+                "gender": "女",
+                "clothing": "白底棕色格纹睡衣",
+                "position": "前景左侧（背影）",
+                "action": "坐在床上",
+                "expression": "未知"
+            }
+        ],
+        "background": "医院病房，门口有人影",
+        "description_narrative": "全景镜头，Gu Tai 坐在地上扶着 Sun Weiwei，恶狠狠地威胁要让对方不得好死，前景是 Fu Xin 的背影。",
+        "dialogue": "我让你不得好死。",
+        "speaker": "Gu Tai",
+        "emotion": "狠毒",
+        "duration": 1.44,
+        "description_visual": "全景平拍镜头；医院病房，门口有人影；画面左侧人物，身穿蓝紫色花卉连衣裙，坐在地上扶着 Sun Weiwei，表情：表情严肃；画面右侧人物，身穿米色紧身连衣裙，躺在地上，表情：表情痛苦；前景左侧（背影）人物，身穿白底棕色格纹睡衣，坐在床上，表情：未知。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Gu Tai",
+                "gender": "女",
+                "clothing": "蓝紫色花卉连衣裙",
+                "position": "画面左侧",
+                "action": "坐在地上",
+                "expression": "表情担忧"
+            },
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面右侧",
+                "action": "躺在地上",
+                "expression": "闭眼痛苦"
+            },
+            {
+                "name": "Doctor",
+                "gender": "男",
+                "clothing": "白大褂",
+                "position": "背景门口",
+                "action": "进入房间",
+                "expression": "戴口罩"
+            },
+            {
+                "name": "Ming Hao",
+                "gender": "男",
+                "clothing": "白底格纹衬衫",
+                "position": "背景门口",
+                "action": "跟随进入",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "医院病房，光线过曝",
+        "description_narrative": "全景镜头，画面光线强烈过曝，医生和 Ming Hao 从门口进入，Gu Tai 和 Sun Weiwei 在地上，场面混乱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.36,
+        "description_visual": "全景平拍镜头；医院病房，光线过曝；画面左侧人物，身穿蓝紫色花卉连衣裙，坐在地上，表情：表情担忧；画面右侧人物，身穿米色紧身连衣裙，躺在地上，表情：闭眼痛苦；背景门口人物，身穿白大褂，进入房间，表情：戴口罩；背景门口人物，身穿白底格纹衬衫，跟随进入，表情：表情严肃。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Doctor",
+                "gender": "男",
+                "clothing": "白大褂，口罩",
+                "position": "画面右侧",
+                "action": "蹲下查看",
+                "expression": "眼神专注"
+            },
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面左侧",
+                "action": "坐在地上",
+                "expression": "抬头看医生"
+            }
+        ],
+        "background": "医院地面，米色瓷砖",
+        "description_narrative": "中景镜头，医生蹲在地上查看情况，向 Gu Tai 和 Ming Hao 打招呼，Sun Weiwei 坐在一旁。",
+        "dialogue": "顾太 明总。",
+        "speaker": "Doctor",
+        "emotion": "专业",
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头；医院地面，米色瓷砖；画面右侧人物，身穿白大褂，口罩，蹲下查看，表情：眼神专注；画面左侧人物，身穿米色紧身连衣裙，坐在地上，表情：抬头看医生。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Doctor",
+                "gender": "男",
+                "clothing": "白大褂，口罩",
+                "position": "画面右侧",
+                "action": "蹲着说话",
+                "expression": "眼神严肃"
+            },
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面左侧",
+                "action": "坐在地上",
+                "expression": "表情痛苦"
+            }
+        ],
+        "background": "医院地面，米色瓷砖",
+        "description_narrative": "中景镜头，医生蹲在地上，手持文件夹，严肃地宣布 Sun Weiwei 流产的消息。",
+        "dialogue": "孙小姐流产了。",
+        "speaker": "Doctor",
+        "emotion": "严肃",
+        "duration": 2.16,
+        "description_visual": "中景平拍镜头；医院地面，米色瓷砖；画面右侧人物，身穿白大褂，口罩，蹲着说话，表情：眼神严肃；画面左侧人物，身穿米色紧身连衣裙，坐在地上，表情：表情痛苦。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眼神看向一侧，嘴唇微张"
+            }
+        ],
+        "background": "医院病房，模糊背景",
+        "description_narrative": "特写镜头，Sun Weiwei 侧着头，表情虚弱，画外音传来医生需要赶紧安排手术的声音。",
+        "dialogue": "需要赶紧安排手术。",
+        "speaker": "Doctor",
+        "emotion": "紧急",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；医院病房，模糊背景；画面中央人物，身穿米色紧身连衣裙，侧头，表情：眼神看向一侧，嘴唇微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Gu Tai",
+                "gender": "女",
+                "clothing": "蓝紫色花卉连衣裙",
+                "position": "画面左侧",
+                "action": "握着 Sun Weiwei 的手",
+                "expression": "表情担忧"
+            },
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面右侧",
+                "action": "坐在地上",
+                "expression": "抬头看 Gu Tai"
+            }
+        ],
+        "background": "医院病房，粉色隔帘",
+        "description_narrative": "中景镜头，Gu Tai 握着 Sun Weiwei 的手，Sun Weiwei 虚弱地请求一定要保住明皓哥的孩子。",
+        "dialogue": "妈，一定要保住。",
+        "speaker": "Sun Weiwei",
+        "emotion": "哀求",
+        "duration": 3.32,
+        "description_visual": "中景平拍镜头；医院病房，粉色隔帘；画面左侧人物，身穿蓝紫色花卉连衣裙，握着 Sun Weiwei 的手，表情：表情担忧；画面右侧人物，身穿米色紧身连衣裙，坐在地上，表情：抬头看 Gu Tai。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Gu Tai",
+                "gender": "女",
+                "clothing": "蓝紫色花卉连衣裙",
+                "position": "画面中央",
+                "action": "哭泣",
+                "expression": "眉毛紧蹙，眼泪汪汪，嘴巴张开哭诉"
+            }
+        ],
+        "background": "医院病房，粉色隔帘",
+        "description_narrative": "特写镜头，Gu Tai 情绪激动地哭泣，抱怨上辈子造了什么孽，才会遇到这种事。",
+        "dialogue": "傅芯，上辈子造了什么孽。",
+        "speaker": "Gu Tai",
+        "emotion": "悲痛",
+        "duration": 4.2,
+        "description_visual": "特写平拍镜头；医院病房，粉色隔帘；画面中央人物，身穿蓝紫色花卉连衣裙，哭泣，表情：眉毛紧蹙，眼泪汪汪，嘴巴张开哭诉。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Gu Tai",
+                "gender": "女",
+                "clothing": "蓝紫色花卉连衣裙",
+                "position": "画面左侧",
+                "action": "握着 Sun Weiwei 的手",
+                "expression": "表情悲伤"
+            },
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面右侧",
+                "action": "坐在地上",
+                "expression": "闭眼痛苦"
+            }
+        ],
+        "background": "医院地面，粉色隔帘",
+        "description_narrative": "中景镜头，Gu Tai 继续哭诉遇到 Fu Xin 这个扫把星，Sun Weiwei 坐在地上，大腿处有血迹。",
+        "dialogue": "遇到你这个扫把星。",
+        "speaker": "Gu Tai",
+        "emotion": "怨恨",
+        "duration": 3.04,
+        "description_visual": "中景平拍镜头；医院地面，粉色隔帘；画面左侧人物，身穿蓝紫色花卉连衣裙，握着 Sun Weiwei 的手，表情：表情悲伤；画面右侧人物，身穿米色紧身连衣裙，坐在地上，表情：闭眼痛苦。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Sun Weiwei",
+                "gender": "女",
+                "clothing": "米色紧身连衣裙",
+                "position": "画面中央",
+                "action": "闭眼",
+                "expression": "眼睛紧闭，嘴巴微张，表情虚弱"
+            }
+        ],
+        "background": "医院病房，模糊背景",
+        "description_narrative": "特写镜头，Sun Weiwei 闭着眼睛，画外音传来 Gu Tai 心疼孙子的声音。",
+        "dialogue": "我的孙子。",
+        "speaker": "Gu Tai",
+        "emotion": "心痛",
+        "duration": 2.84,
+        "description_visual": "特写平拍镜头；医院病房，模糊背景；画面中央人物，身穿米色紧身连衣裙，闭眼，表情：眼睛紧闭，嘴巴微张，表情虚弱。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Ming Hao",
+                "gender": "男",
+                "clothing": "白底格纹衬衫",
+                "position": "画面中央",
+                "action": "站立倾听",
+                "expression": "眼神震惊，眉毛微挑，嘴唇紧闭"
+            }
+        ],
+        "background": "医院病房，白色天花板",
+        "description_narrative": "仰拍近景，Ming Hao 站在一旁，表情震惊地听着 Sun Weiwei 的画外音，说她怀了他的孩子。",
+        "dialogue": "明皓哥，她因为嫉妒我，怀了你的孩子。",
+        "speaker": "Sun Weiwei",
+        "emotion": "震惊",
+        "duration": 6.52,
+        "description_visual": "近景仰拍镜头；医院病房，白色天花板；画面中央人物，身穿白底格纹衬衫，站立倾听，表情：眼神震惊，眉毛微挑，嘴唇紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Ming Hao",
+                "gender": "男",
+                "clothing": "白底格纹衬衫",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眼神复杂，眉毛微蹙，嘴唇紧闭"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "近景镜头，Ming Hao 侧着头，神情复杂，画外音继续传来 Sun Weiwei 说 Fu Xin 推了她的声音。",
+        "dialogue": "她就推我。",
+        "speaker": "Sun Weiwei",
+        "emotion": "怀疑",
+        "duration": 3.24,
+        "description_visual": "近景仰拍镜头；医院病房，白色墙壁；画面中央人物，身穿白底格纹衬衫，侧头，表情：眼神复杂，眉毛微蹙，嘴唇紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Ming Hao",
+                "gender": "男",
+                "clothing": "白底格纹衬衫",
+                "position": "画面中央",
+                "action": "注视前方",
+                "expression": "眼神凝重，眉毛微锁，嘴唇紧闭"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "近景镜头，Ming Hao 面无表情地注视着前方，似乎在消化刚才听到的信息，陷入沉思。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 0.68,
+        "description_visual": "近景仰拍镜头；医院病房，白色墙壁；画面中央人物，身穿白底格纹衬衫，注视前方，表情：眼神凝重，眉毛微锁，嘴唇紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Ming Hao",
+                "gender": "男",
+                "clothing": "白底格纹衬衫",
+                "position": "画面中央",
+                "action": "注视前方",
+                "expression": "眼神深邃，眉毛舒展，嘴唇紧闭"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "近景镜头，Ming Hao 依然保持着注视的姿势，眼神中流露出复杂的情绪，画面定格。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 3.04,
+        "description_visual": "近景仰拍镜头；医院病房，白色墙壁；画面中央人物，身穿白底格纹衬衫，注视前方，表情：眼神深邃，眉毛舒展，嘴唇紧闭。"
+    }
+]

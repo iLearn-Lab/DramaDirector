@@ -1,0 +1,734 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "侧脸凝视前方男子",
+                "expression": "眉毛舒展，眼睛深情注视，嘴巴微闭"
+            },
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "侧脸凝视前方女子",
+                "expression": "眉毛微挑，眼睛注视女子，嘴巴微张"
+            }
+        ],
+        "background": "金色光斑背景，带有剧名文字特效",
+        "description_narrative": "特写镜头，画面展示剧集标题卡，一男一女深情对视，背景为虚化的金色光斑，下方显示剧名及集数。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；金色光斑背景，带有剧名文字特效；画面左侧人物，身穿白色上衣，侧脸凝视前方男子，表情：眉毛舒展，眼睛深情注视，嘴巴微闭；画面右侧人物，身穿深色西装，侧脸凝视前方女子，表情：眉毛微挑，眼睛注视女子，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装，白色荷叶边衬衫",
+                "position": "画面左侧",
+                "action": "伸手触摸衣架上的礼服",
+                "expression": "眉毛自然，眼睛注视衣物，嘴巴微闭"
+            },
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙，白色翻领",
+                "position": "画面右侧",
+                "action": "伸手轻搭在嫂子手臂上",
+                "expression": "眉毛舒展，眼睛看向嫂子，嘴巴微张"
+            }
+        ],
+        "background": "高档服装店内部，挂满礼服的衣架，暖色调灯光",
+        "description_narrative": "中景镜头，嫂子与小美站在衣架前，嫂子伸手挑选衣物，小美站在身旁伸手轻触嫂子手臂，两人正在浏览商品。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 7.88,
+        "description_visual": "中景平拍镜头；高档服装店内部，挂满礼服的衣架，暖色调灯光；画面左侧人物，身穿浅灰色粗花呢套装，白色荷叶边衬衫，伸手触摸衣架上的礼服，表情：眉毛自然，眼睛注视衣物，嘴巴微闭；画面右侧人物，身穿黑色丝绒连衣裙，白色翻领，伸手轻搭在嫂子手臂上，表情：眉毛舒展，眼睛看向嫂子，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装，白色高跟鞋",
+                "position": "画面左侧",
+                "action": "向前行走",
+                "expression": "眉毛自然，眼睛平视前方，嘴巴微闭"
+            },
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙，黑色短靴",
+                "position": "画面右侧",
+                "action": "跟随行走",
+                "expression": "眉毛自然，眼睛看向前方，嘴巴微闭"
+            }
+        ],
+        "background": "服装店过道，白色拱门，远处展示着礼服",
+        "description_narrative": "全景跟拍镜头，嫂子与小美并肩在服装店过道中行走，背景可见白色拱门和陈列的礼服。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "全景平拍镜头（跟拍）；服装店过道，白色拱门，远处展示着礼服；画面左侧人物，身穿浅灰色粗花呢套装，白色高跟鞋，向前行走，表情：眉毛自然，眼睛平视前方，嘴巴微闭；画面右侧人物，身穿黑色丝绒连衣裙，黑色短靴，跟随行走，表情：眉毛自然，眼睛看向前方，嘴巴微闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面左前景",
+                "action": "背影模糊，面向前方",
+                "expression": "不可见"
+            },
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙，渔网袜",
+                "position": "画面右后景",
+                "action": "从气球装饰后走出，面向镜头",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "粉色黑色气球装饰，堆叠的礼品盒",
+        "description_narrative": "过肩镜头，前景为嫂子模糊的背影，婷婷从气球装饰后方走出，表情严肃地看向她们。",
+        "dialogue": "小美。",
+        "speaker": "婷婷",
+        "emotion": "冷漠",
+        "duration": 1.84,
+        "description_visual": "中景过肩镜头；粉色黑色气球装饰，堆叠的礼品盒；画面左前景人物，身穿浅灰色粗花呢套装，背影模糊，面向前方，表情：不可见；画面右后景人物，身穿棕色挂脖连衣裙，渔网袜，从气球装饰后走出，面向镜头，表情：眉毛微挑，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面左侧",
+                "action": "站立注视前方",
+                "expression": "眉毛微蹙，眼睛注视婷婷，嘴巴微张"
+            },
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙",
+                "position": "画面中央",
+                "action": "站立注视婷婷",
+                "expression": "眉毛舒展，眼睛看向婷婷，嘴巴微张"
+            },
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面右侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "服装店内部，白色拱门，陈列的礼服",
+        "description_narrative": "中景镜头，嫂子与小美面对背对镜头的婷婷站立，小美开口打招呼。",
+        "dialogue": "婷婷姐",
+        "speaker": "小美",
+        "emotion": "惊讶",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；服装店内部，白色拱门，陈列的礼服；画面左侧人物，身穿浅灰色粗花呢套装，站立注视前方，表情：眉毛微蹙，眼睛注视婷婷，嘴巴微张；画面中央人物，身穿黑色丝绒连衣裙，站立注视婷婷，表情：眉毛舒展，眼睛看向婷婷，嘴巴微张；画面右侧人物，身穿棕色挂脖连衣裙，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面左前景",
+                "action": "侧身站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面右侧",
+                "action": "面对镜头微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "粉色黑色气球，礼品盒",
+        "description_narrative": "中近景镜头，婷婷面对嫂子和小美，脸上带着客套的微笑说话。",
+        "dialogue": "你也来逛街来了",
+        "speaker": "婷婷",
+        "emotion": "假笑",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；粉色黑色气球，礼品盒；画面左前景人物，身穿浅灰色粗花呢套装，侧身站立，表情：不可见；画面右侧人物，身穿棕色挂脖连衣裙，面对镜头微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装，白色丝带",
+                "position": "画面中央",
+                "action": "双手交握提着手袋",
+                "expression": "眉毛自然，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的服装店背景，暖色灯光",
+        "description_narrative": "中近景镜头，嫂子面对婷婷，礼貌性地回应，双手提着白色手袋。",
+        "dialogue": "好巧呀",
+        "speaker": "嫂子",
+        "emotion": "礼貌",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；模糊的服装店背景，暖色灯光；画面中央人物，身穿浅灰色粗花呢套装，白色丝带，双手交握提着手袋，表情：眉毛自然，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面中央",
+                "action": "侧头看向旁边",
+                "expression": "眉毛微挑，眼睛斜视，嘴角带笑"
+            },
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙",
+                "position": "画面左侧",
+                "action": "部分入镜",
+                "expression": "微笑"
+            }
+        ],
+        "background": "模糊的粉色气球背景",
+        "description_narrative": "特写镜头，婷婷发出轻蔑的声音，眼神斜视，嘴角挂着嘲讽的笑意。",
+        "dialogue": "哟",
+        "speaker": "婷婷",
+        "emotion": "嘲讽",
+        "duration": 3.6,
+        "description_visual": "特写平拍镜头；模糊的粉色气球背景；画面中央人物，身穿棕色挂脖连衣裙，侧头看向旁边，表情：眉毛微挑，眼睛斜视，嘴角带笑；画面左侧人物，身穿黑色丝绒连衣裙，部分入镜，表情：微笑。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面中央",
+                "action": "双手交握提包，站立不动",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的服装店背景，金色装饰",
+        "description_narrative": "中近景镜头，嫂子面无表情地站着，听着婷婷的画外音嘲讽。",
+        "dialogue": "哟，这不是你那位登不上台面的嫂子吗？",
+        "speaker": "婷婷",
+        "emotion": "冷漠",
+        "duration": 0.68,
+        "description_visual": "中近景平拍镜头；模糊的服装店背景，金色装饰；画面中央人物，身穿浅灰色粗花呢套装，双手交握提包，站立不动，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙",
+                "position": "画面左侧",
+                "action": "被婷婷挽住手臂",
+                "expression": "眉毛微蹙，眼睛看向婷婷，嘴巴微张"
+            },
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面右侧",
+                "action": "挽着小美手臂，侧头说话",
+                "expression": "眉毛舒展，眼睛看向嫂子，嘴角上扬"
+            }
+        ],
+        "background": "粉色黑色气球，礼品盒",
+        "description_narrative": "中景镜头，婷婷挽着小美的手臂，侧头对着嫂子方向说话，言语中带着贬低。",
+        "dialogue": "你哥的眼光",
+        "speaker": "婷婷",
+        "emotion": "轻蔑",
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头；粉色黑色气球，礼品盒；画面左侧人物，身穿黑色丝绒连衣裙，被婷婷挽住手臂，表情：眉毛微蹙，眼睛看向婷婷，嘴巴微张；画面右侧人物，身穿棕色挂脖连衣裙，挽着小美手臂，侧头说话，表情：眉毛舒展，眼睛看向嫂子，嘴角上扬。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面中央",
+                "action": "双手提包，眼神坚定",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的服装店背景",
+        "description_narrative": "中近景镜头，嫂子听着婷婷继续贬低，表情保持平静但眼神锐利。",
+        "dialogue": "真是直线下降呀",
+        "speaker": "婷婷",
+        "emotion": "平静",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；模糊的服装店背景；画面中央人物，身穿浅灰色粗花呢套装，双手提包，眼神坚定，表情：眉毛微挑，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙",
+                "position": "画面左侧",
+                "action": "伸手拉住婷婷",
+                "expression": "眉毛微蹙，眼睛看向婷婷，嘴巴微张"
+            },
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面右侧",
+                "action": "被拉住，低头看小美",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "粉色黑色气球",
+        "description_narrative": "中景镜头，小美试图打断婷婷的话，伸手拉住她，婷婷低头看向小美。",
+        "dialogue": "哎",
+        "speaker": "小美",
+        "emotion": "劝阻",
+        "duration": 3.92,
+        "description_visual": "中景平拍镜头；粉色黑色气球；画面左侧人物，身穿黑色丝绒连衣裙，伸手拉住婷婷，表情：眉毛微蹙，眼睛看向婷婷，嘴巴微张；画面右侧人物，身穿棕色挂脖连衣裙，被拉住，低头看小美，表情：眉毛舒展，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面中央",
+                "action": "侧头说话",
+                "expression": "眉毛舒展，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "模糊的粉色气球",
+        "description_narrative": "特写镜头，小美的画外音响起，提议让婷婷帮忙挑衣服，婷婷听着。",
+        "dialogue": "婷婷姐，你跟我一起给我嫂子挑两件衣服吧。",
+        "speaker": "小美",
+        "emotion": "调和",
+        "duration": 3.84,
+        "description_visual": "特写平拍镜头；模糊的粉色气球；画面中央人物，身穿棕色挂脖连衣裙，侧头说话，表情：眉毛舒展，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面中央",
+                "action": "微笑站立",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角上扬"
+            }
+        ],
+        "background": "模糊的服装店背景",
+        "description_narrative": "中近景镜头，嫂子面带微笑，婷婷的画外音继续阴阳怪气地建议买衣服。",
+        "dialogue": "是该买两件像样的衣服，要不然怎么见人呢？",
+        "speaker": "婷婷",
+        "emotion": "微笑",
+        "duration": 7.0,
+        "description_visual": "中近景平拍镜头；模糊的服装店背景；画面中央人物，身穿浅灰色粗花呢套装，微笑站立，表情：眉毛舒展，眼睛注视前方，嘴角上扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写推进镜头，嫂子反击，表情严肃地回怼婷婷的穿着。",
+        "dialogue": "您这样的 好见 天天穿的 跟个坐台小姐似的",
+        "speaker": "嫂子",
+        "emotion": "反击",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头（推进）；模糊背景；画面中央人物，身穿浅灰色粗花呢套装，直视前方，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面中央",
+                "action": "转身看向旁边",
+                "expression": "眉毛自然，眼睛看向左侧，嘴巴微闭"
+            },
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面左后景",
+                "action": "模糊站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "服装店内部，白色拱门",
+        "description_narrative": "中景摇镜，嫂子说完后转身看向旁边的展示区，婷婷在背景中模糊可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头（摇镜）；服装店内部，白色拱门；画面中央人物，身穿浅灰色粗花呢套装，转身看向旁边，表情：眉毛自然，眼睛看向左侧，嘴巴微闭；画面左后景人物，身穿棕色挂脖连衣裙，模糊站立，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "服装店中央展台，金色枝形吊灯，模特穿着亮片裙",
+        "description_narrative": "全景镜头，展示店中央展台上的模特，穿着金色亮片裙和灰色皮草外套。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；服装店中央展台，金色枝形吊灯，模特穿着亮片裙。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面中央",
+                "action": "看向左侧",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微闭"
+            }
+        ],
+        "background": "模糊的金色装饰",
+        "description_narrative": "中近景镜头，嫂子看向旁边的衣服，小美的画外音响起推荐这件衣服。",
+        "dialogue": "这件好看，嫂子你试试。",
+        "speaker": "小美",
+        "emotion": "推荐",
+        "duration": 4.2,
+        "description_visual": "中近景平拍镜头；模糊的金色装饰；画面中央人物，身穿浅灰色粗花呢套装，看向左侧，表情：眉毛微挑，眼睛看向左侧，嘴巴微闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙",
+                "position": "画面右侧",
+                "action": "附和说话",
+                "expression": "眉毛舒展，眼睛看向嫂子方向，嘴巴微张"
+            }
+        ],
+        "background": "服装店内部，金色装饰",
+        "description_narrative": "中景镜头，婷婷和小美站在一起，小美附和着推荐衣服。",
+        "dialogue": "就是。",
+        "speaker": "小美",
+        "emotion": "附和",
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头；服装店内部，金色装饰；画面左侧人物，身穿棕色挂脖连衣裙，站立，表情：眉毛舒展，眼睛看向前方，嘴巴微张；画面右侧人物，身穿黑色丝绒连衣裙，附和说话，表情：眉毛舒展，眼睛看向嫂子方向，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "模糊的金色装饰",
+        "description_narrative": "中近景镜头，嫂子看着衣服微笑，婷婷的画外音也称赞衣服不错。",
+        "dialogue": "这件不错呀。",
+        "speaker": "婷婷",
+        "emotion": "微笑",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；模糊的金色装饰；画面中央人物，身穿浅灰色粗花呢套装，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面中央",
+                "action": "点头",
+                "expression": "眉毛自然，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的服装店背景",
+        "description_narrative": "中近景镜头，嫂子决定试穿，开口说话。",
+        "dialogue": "这件我试试。",
+        "speaker": "嫂子",
+        "emotion": "决定",
+        "duration": 2.56,
+        "description_visual": "中近景平拍镜头；模糊的服装店背景；画面中央人物，身穿浅灰色粗花呢套装，点头，表情：眉毛自然，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "黑色职业西装",
+                "position": "画面中央",
+                "action": "微笑点头",
+                "expression": "眉毛舒展，眼睛微笑，嘴角上扬"
+            }
+        ],
+        "background": "挂满红色礼服的衣架",
+        "description_narrative": "中近景镜头，店员面带职业微笑回应。",
+        "dialogue": "好的。",
+        "speaker": "店员",
+        "emotion": "职业",
+        "duration": 0.88,
+        "description_visual": "中近景平拍镜头；挂满红色礼服的衣架；画面中央人物，身穿黑色职业西装，微笑点头，表情：眉毛舒展，眼睛微笑，嘴角上扬。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛自然，眼睛看向前方，嘴巴微闭"
+            },
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙",
+                "position": "画面右侧",
+                "action": "伸手去接包",
+                "expression": "眉毛舒展，眼睛看向嫂子，嘴巴微张"
+            }
+        ],
+        "background": "服装店内部",
+        "description_narrative": "中景镜头，小美主动伸手要去接嫂子的手袋，让她去试衣。",
+        "dialogue": "哎嫂子，我来拿包。",
+        "speaker": "小美",
+        "emotion": "主动",
+        "duration": 1.88,
+        "description_visual": "中景平拍镜头；服装店内部；画面左侧人物，身穿棕色挂脖连衣裙，站立，表情：眉毛自然，眼睛看向前方，嘴巴微闭；画面右侧人物，身穿黑色丝绒连衣裙，伸手去接包，表情：眉毛舒展，眼睛看向嫂子，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙，白色袖口",
+                "position": "画面右侧",
+                "action": "手伸向白色手袋",
+                "expression": "不可见"
+            },
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "未知",
+                "position": "画面左侧",
+                "action": "手提白色手袋",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头，小美的手伸向嫂子手中的白色手袋，示意她去试衣。",
+        "dialogue": "你去试吧。",
+        "speaker": "小美",
+        "emotion": "催促",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；模糊背景；画面右侧人物，身穿黑色丝绒连衣裙，白色袖口，手伸向白色手袋，表情：不可见；画面左侧人物，身穿未知，手提白色手袋，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "嫂子",
+                "gender": "女",
+                "clothing": "浅灰色粗花呢套装",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "模糊的服装店背景",
+        "description_narrative": "中近景镜头，嫂子低头，似乎准备去试衣间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；模糊的服装店背景；画面中央人物，身穿浅灰色粗花呢套装，低头，表情：眉毛微垂，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙",
+                "position": "画面中央",
+                "action": "侧头看向旁边",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            },
+            {
+                "name": "婷婷",
+                "gender": "女",
+                "clothing": "棕色挂脖连衣裙",
+                "position": "画面左侧",
+                "action": "部分入镜",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的服装店背景",
+        "description_narrative": "中近景镜头，小美侧头看向旁边，眼神中流露出一丝深意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；模糊的服装店背景；画面中央人物，身穿黑色丝绒连衣裙，侧头看向旁边，表情：眉毛微挑，眼睛看向左侧，嘴巴微张；画面左侧人物，身穿棕色挂脖连衣裙，部分入镜，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小美",
+                "gender": "女",
+                "clothing": "黑色丝绒连衣裙",
+                "position": "画面中央",
+                "action": "低头看包",
+                "expression": "眉毛微垂，眼睛下视，嘴角微扬"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头，小美低头看着手中的包，嘴角露出一丝不易察觉的微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.2,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黑色丝绒连衣裙，低头看包，表情：眉毛微垂，眼睛下视，嘴角微扬。"
+    }
+]

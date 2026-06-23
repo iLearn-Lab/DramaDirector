@@ -1,0 +1,733 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体",
+        "description_narrative": "画面全黑，无可见人物或物体，持续4.2秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.2,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景上有金色光点漂浮，中央显示白色文字“第三十七集”及金色艺术字标题",
+        "description_narrative": "黑色背景中漂浮着金色光点，屏幕中央显示白色文字“第三十七集”，下方浮现金色艺术字标题，镜头固定。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "全景平拍镜头；黑色背景上有金色光点漂浮，中央显示白色文字“第三十七集”及金色艺术字标题。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "极暗环境，隐约可见模糊的浅色物体轮廓",
+        "description_narrative": "画面极暗，隐约可见模糊的浅色织物或物体轮廓，光线微弱，镜头固定。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；极暗环境，隐约可见模糊的浅色物体轮廓。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑暗背景中燃烧的木柴，火焰呈橙黄色",
+        "description_narrative": "大特写镜头对准燃烧的木柴，橙黄色的火焰在黑暗中跳动，照亮了木头的纹理，镜头固定。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "大特写平拍镜头；黑暗背景中燃烧的木柴，火焰呈橙黄色。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面左侧",
+                "action": "蹲坐在火堆旁，双手拿着一件白色婴儿衣物",
+                "expression": "眉毛微蹙，眼睛视线下移看着手中衣物，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊的暖色串灯光斑，前景有燃烧的火盆",
+        "description_narrative": "中景镜头，白衣女子身穿白色长袖连衣裙，蹲坐在夜晚户外的火盆旁，背景是模糊的暖色串灯。她双手拿着一件白色婴儿衣物，低头注视，神情哀伤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "哀伤",
+        "duration": 3.2,
+        "description_visual": "中景平拍镜头；夜晚户外，背景有模糊的暖色串灯光斑，前景有燃烧的火盆；画面左侧人物，身穿白色长袖连衣裙，蹲坐在火堆旁，双手拿着一件白色婴儿衣物，表情：眉毛微蹙，眼睛视线下移看着手中衣物，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面中央",
+                "action": "双手轻轻抚摸手中的白色衣物，手指微微颤抖",
+                "expression": "眉毛舒展但眼神低垂，眼睛盯着衣物，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，火光照亮人物面部，背景光斑虚化",
+        "description_narrative": "近景镜头推进，白衣女子双手轻轻抚摸手中的白色衣物，手指微微颤抖。火光照亮她的面部，她眼神低垂盯着衣物，嘴巴微张，似在回忆。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "怀念",
+        "duration": 3.04,
+        "description_visual": "近景平拍镜头（推进）；夜晚户外，火光照亮人物面部，背景光斑虚化；画面中央人物，身穿白色长袖连衣裙，双手轻轻抚摸手中的白色衣物，手指微微颤抖，表情：眉毛舒展但眼神低垂，眼睛盯着衣物，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面左侧",
+                "action": "保持蹲坐姿势，双手捧着衣物靠近火盆",
+                "expression": "眉毛微蹙，眼睛注视火盆，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，火盆在右侧燃烧，背景有串灯",
+        "description_narrative": "中景镜头，白衣女子保持蹲坐姿势，双手捧着白色衣物靠近右侧燃烧的火盆。她注视着火盆，眉毛微蹙，神情凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 5.16,
+        "description_visual": "中景平拍镜头；夜晚户外，火盆在右侧燃烧，背景有串灯；画面左侧人物，身穿白色长袖连衣裙，保持蹲坐姿势，双手捧着衣物靠近火盆，表情：眉毛微蹙，眼睛注视火盆，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛紧锁，眼睛含泪视线下移，嘴巴微张轻声说话"
+            }
+        ],
+        "background": "黑暗背景，左侧有绿色光斑，面部被暖光照明",
+        "description_narrative": "特写镜头对准白衣女子面部，她头部微低，视线向下。眉毛紧锁，眼睛含泪，嘴巴微张轻声说出“宝宝”。",
+        "dialogue": "宝宝",
+        "speaker": "白衣女子",
+        "emotion": "悲痛",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；黑暗背景，左侧有绿色光斑，面部被暖光照明；画面中央人物，身穿白色长袖连衣裙，头部微低，视线向下，表情：眉毛紧锁，眼睛含泪视线下移，嘴巴微张轻声说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面中央",
+                "action": "嘴唇颤动，继续低语",
+                "expression": "眉毛紧蹙，眼睛流泪，嘴巴张合说话"
+            }
+        ],
+        "background": "黑暗背景，左侧有绿色光斑，面部被暖光照明",
+        "description_narrative": "特写镜头，白衣女子嘴唇颤动，继续低语。她眉毛紧蹙，眼泪流下，嘴巴张合说出“妈妈对不起你”。",
+        "dialogue": "妈妈对不起你",
+        "speaker": "白衣女子",
+        "emotion": "愧疚",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；黑暗背景，左侧有绿色光斑，面部被暖光照明；画面中央人物，身穿白色长袖连衣裙，嘴唇颤动，继续低语，表情：眉毛紧蹙，眼睛流泪，嘴巴张合说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面中央",
+                "action": "眼神乞求般向下看",
+                "expression": "眉毛微挑，眼睛含泪注视下方，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景，左侧有绿色光斑，面部被暖光照明",
+        "description_narrative": "特写镜头，白衣女子眼神乞求般向下看。她眉毛微挑，眼睛含泪，嘴巴微张说出“你可以原谅妈妈吗”。",
+        "dialogue": "你可以原谅妈妈吗",
+        "speaker": "白衣女子",
+        "emotion": "乞求",
+        "duration": 4.64,
+        "description_visual": "特写平拍镜头；黑暗背景，左侧有绿色光斑，面部被暖光照明；画面中央人物，身穿白色长袖连衣裙，眼神乞求般向下看，表情：眉毛微挑，眼睛含泪注视下方，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面左侧",
+                "action": "双手交握放在膝前，闭眼沉思",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，火盆在右侧燃烧，背景有串灯",
+        "description_narrative": "中景镜头，白衣女子双手交握放在膝前，闭眼沉思。她眉毛舒展，眼睛闭合，嘴巴紧闭，轻声说出“或许是时候告别”。",
+        "dialogue": "或许是时候告别",
+        "speaker": "白衣女子",
+        "emotion": "释然",
+        "duration": 3.32,
+        "description_visual": "中景平拍镜头；夜晚户外，火盆在右侧燃烧，背景有串灯；画面左侧人物，身穿白色长袖连衣裙，双手交握放在膝前，闭眼沉思，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面中央",
+                "action": "抬头望向远方",
+                "expression": "眉毛微扬，眼睛睁大望向侧前方，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景光斑虚化，面部被暖光照明",
+        "description_narrative": "近景镜头，白衣女子抬头望向远方。她眉毛微扬，眼睛睁大望向侧前方，嘴巴微张说出“过去”。",
+        "dialogue": "过去",
+        "speaker": "白衣女子",
+        "emotion": "坚定",
+        "duration": 0.88,
+        "description_visual": "近景平拍镜头；夜晚户外，背景光斑虚化，面部被暖光照明；画面中央人物，身穿白色长袖连衣裙，抬头望向远方，表情：眉毛微扬，眼睛睁大望向侧前方，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面中央",
+                "action": "视线保持望向远方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景光斑虚化，面部被暖光照明",
+        "description_narrative": "近景镜头，白衣女子视线保持望向远方。她眉毛舒展，眼睛注视前方，嘴巴微张说出“重新开始”。",
+        "dialogue": "重新开始",
+        "speaker": "白衣女子",
+        "emotion": "希望",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；夜晚户外，背景光斑虚化，面部被暖光照明；画面中央人物，身穿白色长袖连衣裙，视线保持望向远方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面中央",
+                "action": "眼神略微下移",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴闭合"
+            }
+        ],
+        "background": "夜晚户外，背景光斑虚化，面部被暖光照明",
+        "description_narrative": "近景镜头，白衣女子眼神略微下移。她眉毛微蹙，眼睛视线下移，嘴巴闭合，轻声说出“新生活了”。",
+        "dialogue": "新生活了",
+        "speaker": "白衣女子",
+        "emotion": "决心",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；夜晚户外，背景光斑虚化，面部被暖光照明；画面中央人物，身穿白色长袖连衣裙，眼神略微下移，表情：眉毛微蹙，眼睛视线下移，嘴巴闭合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面中央",
+                "action": "静止不动，眼神空洞",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景光斑虚化，面部被暖光照明",
+        "description_narrative": "近景镜头，白衣女子静止不动，眼神空洞。她眉毛舒展，眼睛直视前方，嘴巴紧闭，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；夜晚户外，背景光斑虚化，面部被暖光照明；画面中央人物，身穿白色长袖连衣裙，静止不动，眼神空洞，表情：眉毛舒展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "拉远",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长袖连衣裙",
+                "position": "画面中央",
+                "action": "低头，光线逐渐变暗",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，光线逐渐变暗，背景光斑模糊",
+        "description_narrative": "近景镜头拉远，白衣女子低头，光线逐渐变暗。她眉毛微蹙，眼睛下视，嘴巴紧闭，画面渐隐。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "落寞",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头（拉远）；夜晚户外，光线逐渐变暗，背景光斑模糊；画面中央人物，身穿白色长袖连衣裙，低头，光线逐渐变暗，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面，隐约可见极暗的轮廓",
+        "description_narrative": "画面全黑，隐约可见极暗的轮廓，无可见人物动作，持续0.84秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "全景平拍镜头；全黑画面，隐约可见极暗的轮廓。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明皓",
+                "gender": "男",
+                "clothing": "深色衣物",
+                "position": "画面左侧",
+                "action": "站立或倚靠，身体前倾",
+                "expression": "面部不可见，轮廓模糊"
+            },
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带裙",
+                "position": "画面右侧",
+                "action": "站立，手扶男子",
+                "expression": "面部不可见，轮廓模糊"
+            }
+        ],
+        "background": "昏暗室内，床铺在前景",
+        "description_narrative": "中景镜头，昏暗室内，明皓身穿深色衣物在左侧，身体前倾。米色裙女子身穿米色吊带裙在右侧，手扶男子。两人轮廓模糊，前景有床铺。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "中景平拍镜头；昏暗室内，床铺在前景；画面左侧人物，身穿深色衣物，站立或倚靠，身体前倾，表情：面部不可见，轮廓模糊；画面右侧人物，身穿米色吊带裙，站立，手扶男子，表情：面部不可见，轮廓模糊。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面右侧",
+                "action": "坐在床边，身体前倾，手抚头发",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "卧室环境，光线柔和，床铺在前景",
+        "description_narrative": "中景镜头，米色裙女子身穿米色吊带丝绸裙，坐在床边。她身体前倾，手抚头发，眉毛微挑，眼睛看向左侧，嘴巴微张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "诱惑",
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；卧室环境，光线柔和，床铺在前景；画面右侧人物，身穿米色吊带丝绸裙，坐在床边，身体前倾，手抚头发，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面中央",
+                "action": "双手拿着药片和水杯",
+                "expression": "面部不可见，仅见手部动作"
+            }
+        ],
+        "background": "模糊背景，焦点在手中的药片和水杯",
+        "description_narrative": "大特写镜头，米色裙女子双手拿着药片和水杯。焦点在手中的白色药片和透明水杯，背景模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.52,
+        "description_visual": "大特写平拍镜头；模糊背景，焦点在手中的药片和水杯；画面中央人物，身穿米色吊带丝绸裙，双手拿着药片和水杯，表情：面部不可见，仅见手部动作。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面中央",
+                "action": "手持水杯，低头微笑",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "室内环境，背景有模糊光斑",
+        "description_narrative": "近景镜头，米色裙女子手持水杯，低头微笑。她眉毛舒展，眼睛下视，嘴角上扬，神情温柔。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "温柔",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；室内环境，背景有模糊光斑；画面中央人物，身穿米色吊带丝绸裙，手持水杯，低头微笑，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明皓",
+                "gender": "男",
+                "clothing": "深色衬衫",
+                "position": "画面下方",
+                "action": "躺在床上，闭眼",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            },
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面上方背景",
+                "action": "手持水杯，身体前倾",
+                "expression": "面部模糊"
+            }
+        ],
+        "background": "卧室床铺，白色枕头",
+        "description_narrative": "特写仰拍镜头，明皓身穿深色衬衫躺在床上，闭眼。米色裙女子在画面上方背景，手持水杯身体前倾。明皓眉毛舒展，眼睛闭合，嘴巴微张，女子轻声唤“明皓哥”。",
+        "dialogue": "明皓哥",
+        "speaker": "米色裙女子",
+        "emotion": "温柔",
+        "duration": 3.2,
+        "description_visual": "特写仰拍镜头；卧室床铺，白色枕头；画面下方人物，身穿深色衬衫，躺在床上，闭眼，表情：眉毛舒展，眼睛闭合，嘴巴微张；画面上方背景人物，身穿米色吊带丝绸裙，手持水杯，身体前倾，表情：面部模糊。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面中央",
+                "action": "手放在男子胸口衣物上",
+                "expression": "面部不可见，仅见手部"
+            }
+        ],
+        "background": "深色衣物纹理",
+        "description_narrative": "大特写镜头，米色裙女子的手放在男子胸口衣物上。手指轻触布料，背景为深色衣物纹理，女子轻声说“喝点水”。",
+        "dialogue": "喝点水",
+        "speaker": "米色裙女子",
+        "emotion": "关切",
+        "duration": 11.28,
+        "description_visual": "大特写平拍镜头；深色衣物纹理；画面中央人物，身穿米色吊带丝绸裙，手放在男子胸口衣物上，表情：面部不可见，仅见手部。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明皓",
+                "gender": "男",
+                "clothing": "深色衬衫",
+                "position": "画面下方",
+                "action": "躺在床上，不动",
+                "expression": "眼睛闭合，面部放松"
+            },
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面上方",
+                "action": "双手正在解男子衬衫扣子",
+                "expression": "低头注视，神情专注"
+            }
+        ],
+        "background": "白色床铺，光线柔和",
+        "description_narrative": "近景俯拍镜头，明皓躺在床上不动，眼睛闭合。米色裙女子在画面上方，双手正在解男子衬衫扣子，低头注视，神情专注，轻声说“要不我把你扣子解开吧”。",
+        "dialogue": "要不我把你扣子解开吧",
+        "speaker": "米色裙女子",
+        "emotion": "诱惑",
+        "duration": 2.4,
+        "description_visual": "近景俯拍镜头；白色床铺，光线柔和；画面下方人物，身穿深色衬衫，躺在床上，不动，表情：眼睛闭合，面部放松；画面上方人物，身穿米色吊带丝绸裙，双手正在解男子衬衫扣子，表情：低头注视，神情专注。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "大特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面中央",
+                "action": "低头靠近男子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "大特写侧拍镜头，米色裙女子低头靠近男子。她眉毛微蹙，眼睛下视，嘴巴微张，轻声说“明皓哥你好心急啊”。",
+        "dialogue": "明皓哥你好心急啊",
+        "speaker": "米色裙女子",
+        "emotion": "调情",
+        "duration": 7.0,
+        "description_visual": "大特写侧拍镜头；模糊的室内背景；画面中央人物，身穿米色吊带丝绸裙，低头靠近男子，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明皓",
+                "gender": "男",
+                "clothing": "深色衬衫",
+                "position": "画面下方",
+                "action": "躺在床上，无意识呢喃",
+                "expression": "眉毛微动，眼睛闭合，嘴巴微张"
+            },
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面上方",
+                "action": "俯身看着男子",
+                "expression": "眉毛微挑，眼睛注视男子，嘴巴紧闭"
+            }
+        ],
+        "background": "白色床铺，光线柔和",
+        "description_narrative": "近景俯拍镜头，明皓躺在床上无意识呢喃，眉毛微动，眼睛闭合。米色裙女子俯身看着男子，眉毛微挑，眼睛注视男子。明皓梦中轻声说“我好想你”。",
+        "dialogue": "我好想你",
+        "speaker": "明皓",
+        "emotion": "深情",
+        "duration": 2.16,
+        "description_visual": "近景俯拍镜头；白色床铺，光线柔和；画面下方人物，身穿深色衬衫，躺在床上，无意识呢喃，表情：眉毛微动，眼睛闭合，嘴巴微张；画面上方人物，身穿米色吊带丝绸裙，俯身看着男子，表情：眉毛微挑，眼睛注视男子，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面左侧",
+                "action": "拥抱男子，脸贴男子肩膀",
+                "expression": "眉毛微蹙，眼睛闭合，嘴角微扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写侧拍镜头，米色裙女子拥抱男子，脸贴男子肩膀。她眉毛微蹙，眼睛闭合，嘴角微扬。明皓梦中继续说“你不要离开我，你怎么会这么对我啊”。",
+        "dialogue": "你不要离开我，你怎么会这么对我啊",
+        "speaker": "明皓",
+        "emotion": "痛苦",
+        "duration": 6.56,
+        "description_visual": "特写侧拍镜头；模糊的室内背景；画面左侧人物，身穿米色吊带丝绸裙，拥抱男子，脸贴男子肩膀，表情：眉毛微蹙，眼睛闭合，嘴角微扬。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面左侧",
+                "action": "身体后仰，表情变冷",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景侧拍镜头，米色裙女子身体后仰，表情变冷。她眉毛紧锁，眼睛眯起，嘴巴紧闭，轻声说“居然还”。",
+        "dialogue": "居然还",
+        "speaker": "米色裙女子",
+        "emotion": "嫉妒",
+        "duration": 2.16,
+        "description_visual": "近景侧拍镜头；模糊的室内背景；画面左侧人物，身穿米色吊带丝绸裙，身体后仰，表情变冷，表情：眉毛紧锁，眼睛眯起，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明皓",
+                "gender": "男",
+                "clothing": "深色衬衫",
+                "position": "画面中央",
+                "action": "熟睡中",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "白色枕头",
+        "description_narrative": "特写俯拍镜头，明皓熟睡中，眉毛舒展，眼睛闭合。米色裙女子画外音继续说“想着那个”。",
+        "dialogue": "想着那个",
+        "speaker": "米色裙女子",
+        "emotion": "阴狠",
+        "duration": 1.56,
+        "description_visual": "特写俯拍镜头；白色枕头；画面中央人物，身穿深色衬衫，熟睡中，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面中央",
+                "action": "手持手机贴在耳边",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线明亮",
+        "description_narrative": "近景侧拍镜头，米色裙女子手持手机贴在耳边。她眉毛微挑，眼睛直视前方，嘴巴微张，轻声说“小可爱”。",
+        "dialogue": "小可爱",
+        "speaker": "米色裙女子",
+        "emotion": "嘲讽",
+        "duration": 2.96,
+        "description_visual": "近景侧拍镜头；室内背景，光线明亮；画面中央人物，身穿米色吊带丝绸裙，手持手机贴在耳边，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面右侧",
+                "action": "坐在床边打电话",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张合"
+            },
+            {
+                "name": "明皓",
+                "gender": "男",
+                "clothing": "深色衬衫",
+                "position": "画面左侧背景",
+                "action": "躺在床上",
+                "expression": "面部模糊"
+            }
+        ],
+        "background": "卧室环境，床铺和枕头",
+        "description_narrative": "中景侧拍镜头，米色裙女子坐在床边打电话，明皓躺在左侧背景床上。女子眉毛微蹙，眼睛注视前方，嘴巴张合说“喂你在哪”。",
+        "dialogue": "喂你在哪",
+        "speaker": "米色裙女子",
+        "emotion": "急切",
+        "duration": 1.6,
+        "description_visual": "中景侧拍镜头；卧室环境，床铺和枕头；画面右侧人物，身穿米色吊带丝绸裙，坐在床边打电话，表情：眉毛微蹙，眼睛注视前方，嘴巴张合；画面左侧背景人物，身穿深色衬衫，躺在床上，表情：面部模糊。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色裙女子",
+                "gender": "女",
+                "clothing": "米色吊带丝绸裙",
+                "position": "画面中央",
+                "action": "对着电话说话",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内背景，光线明亮",
+        "description_narrative": "近景侧拍镜头，米色裙女子对着电话说话。她眉毛舒展，眼睛微眯，嘴角上扬，说出“现在马上过来，我们玩点刺激的”。",
+        "dialogue": "现在马上过来，我们玩点刺激的",
+        "speaker": "米色裙女子",
+        "emotion": "阴谋",
+        "duration": 7.16,
+        "description_visual": "近景侧拍镜头；室内背景，光线明亮；画面中央人物，身穿米色吊带丝绸裙，对着电话说话，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    }
+]

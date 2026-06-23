@@ -1,0 +1,577 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕，无具体场景内容",
+        "description_narrative": "画面为纯白色背景，无可见人物或物体，作为场景过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；白色屏幕，无具体场景内容。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "双手捧着白色药碗，身体前倾坐下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅，米色窗帘背景，光线柔和",
+        "description_narrative": "王林身穿蓝白条纹衬衫，双手捧着药碗，正坐在沙发上，神情略显无奈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头；室内客厅，米色窗帘背景，光线柔和；画面中央人物，身穿蓝白条纹衬衫，黑色长裤，双手捧着白色药碗，身体前倾坐下，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "深绿色中式盘扣上衣",
+                "position": "画面中央",
+                "action": "端坐在沙发上，双手自然放在腿上",
+                "expression": "眉毛舒展，眼睛平视，嘴巴微闭"
+            }
+        ],
+        "background": "客厅沙发区，背后有书架和装饰品",
+        "description_narrative": "爷爷身穿绿色中式上衣坐在沙发上，神态平静地看着前方，似乎在听王林说话。",
+        "dialogue": "老爷子你的这个药比妙妙的苦",
+        "speaker": "王林",
+        "emotion": "抱怨",
+        "duration": 4.6,
+        "description_visual": "中近景平拍镜头；客厅沙发区，背后有书架和装饰品；画面中央人物，身穿深绿色中式盘扣上衣，端坐在沙发上，双手自然放在腿上，表情：眉毛舒展，眼睛平视，嘴巴微闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "深绿色中式盘扣上衣",
+                "position": "画面右侧",
+                "action": "右手抬起做手势，身体微侧",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张说话"
+            },
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面左侧",
+                "action": "双手捧碗，身体后仰",
+                "expression": "眉毛紧锁，眼睛看向一边，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅沙发区，茶几上有茶具",
+        "description_narrative": "爷爷抬手解释药效更强，旁边的妙妙穿着卡其色西装，捧着碗一脸抗拒。",
+        "dialogue": "同样药效也会更大一点你要忍住",
+        "speaker": "爷爷",
+        "emotion": "严肃",
+        "duration": 3.16,
+        "description_visual": "中景平拍镜头；客厅沙发区，茶几上有茶具；画面右侧人物，身穿深绿色中式盘扣上衣，右手抬起做手势，身体微侧，表情：眉毛微挑，眼睛注视前方，嘴巴微张说话；画面左侧人物，身穿卡其色西装外套，双手捧碗，身体后仰，表情：眉毛紧锁，眼睛看向一边，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面中央",
+                "action": "双手捧着药碗，眼神游移",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴唇微抿"
+            }
+        ],
+        "background": "模糊的室内背景，暖色调灯光",
+        "description_narrative": "镜头特写妙妙，她捧着药碗，表情显得有些不情愿和怀疑。",
+        "dialogue": "我什么大风大浪没见过区区这点草药",
+        "speaker": "爷爷",
+        "emotion": "不屑",
+        "duration": 4.92,
+        "description_visual": "特写平拍镜头；模糊的室内背景，暖色调灯光；画面中央人物，身穿卡其色西装外套，双手捧着药碗，眼神游移，表情：眉毛微蹙，眼睛看向侧方，嘴唇微抿。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面左侧",
+                "action": "双手捧碗，眉头紧锁",
+                "expression": "眉毛紧皱，眼睛下视，嘴巴撇向一边"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "深绿色中式盘扣上衣",
+                "position": "画面右侧",
+                "action": "单手举碗，另一只手摆动",
+                "expression": "眉毛舒展，眼睛看碗，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区，书架背景",
+        "description_narrative": "妙妙皱眉表示不想喝药，爷爷则举着碗示意，两人同框。",
+        "dialogue": "难不住我的爷爷这药我不想喝",
+        "speaker": "妙妙",
+        "emotion": "抗拒",
+        "duration": 4.84,
+        "description_visual": "中近景平拍镜头；客厅沙发区，书架背景；画面左侧人物，身穿卡其色西装外套，双手捧碗，眉头紧锁，表情：眉毛紧皱，眼睛下视，嘴巴撇向一边；画面右侧人物，身穿深绿色中式盘扣上衣，单手举碗，另一只手摆动，表情：眉毛舒展，眼睛看碗，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面中央",
+                "action": "双手捧碗，视线低垂",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴紧闭成一条线"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "妙妙特写，她看着碗里的药，表情非常为难，似乎在听爷爷的训斥。",
+        "dialogue": "王林这么用心给你配的药",
+        "speaker": "爷爷",
+        "emotion": "责备",
+        "duration": 3.08,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿卡其色西装外套，双手捧碗，视线低垂，表情：眉毛紧锁，眼睛向下看，嘴巴紧闭成一条线。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "深绿色中式盘扣上衣",
+                "position": "画面中央",
+                "action": "双手举碗仰头喝药",
+                "expression": "眼睛紧闭，眉毛微皱，嘴巴贴着碗沿"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "爷爷以身作则，双手捧着碗大口喝下苦药，展示长辈的威严。",
+        "dialogue": "不想喝也得喝",
+        "speaker": "爷爷",
+        "emotion": "强硬",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；米色窗帘背景；画面中央人物，身穿深绿色中式盘扣上衣，双手举碗仰头喝药，表情：眼睛紧闭，眉毛微皱，嘴巴贴着碗沿。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面中央",
+                "action": "双手捧碗，犹豫不决",
+                "expression": "眉毛紧蹙，眼睛盯着碗，嘴巴微张"
+            }
+        ],
+        "background": "暖色调室内背景",
+        "description_narrative": "妙妙看着碗，嘴里念叨着给自己打气，准备喝药。",
+        "dialogue": "喝喝喝",
+        "speaker": "妙妙",
+        "emotion": "纠结",
+        "duration": 6.48,
+        "description_visual": "特写平拍镜头；暖色调室内背景；画面中央人物，身穿卡其色西装外套，双手捧碗，犹豫不决，表情：眉毛紧蹙，眼睛盯着碗，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面中央",
+                "action": "将碗凑近嘴边",
+                "expression": "眼睛紧闭，眉毛皱起，表情痛苦"
+            }
+        ],
+        "background": "暖色调室内背景",
+        "description_narrative": "妙妙闭着眼睛，痛苦地将药碗送到嘴边准备喝下。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；暖色调室内背景；画面中央人物，身穿卡其色西装外套，将碗凑近嘴边，表情：眼睛紧闭，眉毛皱起，表情痛苦。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "深绿色中式盘扣上衣",
+                "position": "画面中央",
+                "action": "喝完药放下碗，侧头看人",
+                "expression": "眉毛舒展，眼睛微眯，嘴角带笑"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "爷爷喝完药后，神态轻松地看向一旁，似乎在等待两人的反应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "满意",
+        "duration": 2.92,
+        "description_visual": "近景平拍镜头；米色窗帘背景；画面中央人物，身穿深绿色中式盘扣上衣，喝完药放下碗，侧头看人，表情：眉毛舒展，眼睛微眯，嘴角带笑。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微侧",
+                "expression": "眉毛平展，眼睛看向爷爷，嘴巴微闭"
+            }
+        ],
+        "background": "米色窗帘背景，沙发扶手可见",
+        "description_narrative": "王林坐在沙发上，神情专注地听爷爷说话。",
+        "dialogue": "王林这段日子你一直在",
+        "speaker": "爷爷",
+        "emotion": "询问",
+        "duration": 3.64,
+        "description_visual": "中景平拍镜头；米色窗帘背景，沙发扶手可见；画面中央人物，身穿蓝白条纹衬衫，坐在沙发上，身体微侧，表情：眉毛平展，眼睛看向爷爷，嘴巴微闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "深绿色中式盘扣上衣",
+                "position": "画面中央",
+                "action": "侧身坐着，头部微转",
+                "expression": "眉毛微挑，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "爷爷侧脸对着镜头，继续对王林说话，提到辅佐妙妙的事。",
+        "dialogue": "辅佐妙妙",
+        "speaker": "爷爷",
+        "emotion": "肯定",
+        "duration": 2.08,
+        "description_visual": "近景侧拍镜头；米色窗帘背景；画面中央人物，身穿深绿色中式盘扣上衣，侧身坐着，头部微转，表情：眉毛微挑，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面中央",
+                "action": "静坐，眼神低垂",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的大理石墙面背景",
+        "description_narrative": "妙妙听到爷爷提议办婚礼，表情变得严肃，低头沉思。",
+        "dialogue": "既然你俩领了证不如找个日子把婚礼举办了",
+        "speaker": "爷爷",
+        "emotion": "期待",
+        "duration": 3.32,
+        "description_visual": "特写平拍镜头；模糊的大理石墙面背景；画面中央人物，身穿卡其色西装外套，静坐，眼神低垂，表情：眉毛微蹙，眼睛看向下方，嘴唇紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手自然放置",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "王林接过话茬，表情稳重地表示公司刚度过危机，应以事业为主。",
+        "dialogue": "爷爷现在公司刚刚度过危机应该先以公司为主其他事情再缓缓吧",
+        "speaker": "王林",
+        "emotion": "理智",
+        "duration": 8.52,
+        "description_visual": "中景平拍镜头；米色窗帘背景；画面中央人物，身穿蓝白条纹衬衫，坐在沙发上，双手自然放置，表情：眉毛平展，眼睛直视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面左侧",
+                "action": "双手交叠放在腿上",
+                "expression": "眉毛微蹙，眼睛看向前方，表情严肃"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "深绿色中式盘扣上衣",
+                "position": "画面右侧",
+                "action": "双手放在膝盖上",
+                "expression": "眉毛微皱，眼睛看前方，若有所思"
+            }
+        ],
+        "background": "客厅沙发区，书架背景",
+        "description_narrative": "王林继续分析外患未除，镜头给到妙妙和爷爷，两人都在认真倾听。",
+        "dialogue": "我赞同妙妙的意见虽然现在把内忧解决掉了但是外患还一直在虎视眈眈呢",
+        "speaker": "王林",
+        "emotion": "坚定",
+        "duration": 6.64,
+        "description_visual": "中景平拍镜头；客厅沙发区，书架背景；画面左侧人物，身穿卡其色西装外套，双手交叠放在腿上，表情：眉毛微蹙，眼睛看向前方，表情严肃；画面右侧人物，身穿深绿色中式盘扣上衣，双手放在膝盖上，表情：眉毛微皱，眼睛看前方，若有所思。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面中央",
+                "action": "低头，嘴角微动",
+                "expression": "眉毛微垂，眼睛下视，嘴角略带无奈"
+            }
+        ],
+        "background": "模糊的大理石墙面背景",
+        "description_narrative": "爷爷无奈接受以公司为主的建议，但感叹抱重孙的希望渺茫，妙妙低头听着。",
+        "dialogue": "先以公司为主吧我还想在有生之年抱上重外孙呢看来有点悬喽",
+        "speaker": "爷爷",
+        "emotion": "无奈",
+        "duration": 9.48,
+        "description_visual": "特写平拍镜头；模糊的大理石墙面背景；画面中央人物，身穿卡其色西装外套，低头，嘴角微动，表情：眉毛微垂，眼睛下视，嘴角略带无奈。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "深绿色中式盘扣上衣",
+                "position": "画面中央",
+                "action": "侧身坐着，头部微低",
+                "expression": "眉毛舒展，眼睛微眯，嘴角下垂"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "爷爷说完后，神情略显落寞，看向一旁。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "失落",
+        "duration": 2.28,
+        "description_visual": "近景侧拍镜头；米色窗帘背景；画面中央人物，身穿深绿色中式盘扣上衣，侧身坐着，头部微低，表情：眉毛舒展，眼睛微眯，嘴角下垂。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交叉",
+                "expression": "眉毛平展，眼睛看前方，嘴巴微张"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "爷爷催促两人早点休息，王林点头回应，提到明天还要去公司。",
+        "dialogue": "你俩早点休息吧明天还要去公司呢",
+        "speaker": "爷爷",
+        "emotion": "关切",
+        "duration": 3.4,
+        "description_visual": "中景平拍镜头；米色窗帘背景；画面中央人物，身穿蓝白条纹衬衫，坐在沙发上，双手交叉，表情：眉毛平展，眼睛看前方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面中央",
+                "action": "静坐，眼神平视",
+                "expression": "眉毛舒展，眼睛看前方，嘴角微抿"
+            }
+        ],
+        "background": "模糊的大理石墙面背景",
+        "description_narrative": "妙妙听到爷爷的话，表情平静地点头示意知道了。",
+        "dialogue": "知道了老爷子",
+        "speaker": "王林",
+        "emotion": "顺从",
+        "duration": 2.48,
+        "description_visual": "特写平拍镜头；模糊的大理石墙面背景；画面中央人物，身穿卡其色西装外套，静坐，眼神平视，表情：眉毛舒展，眼睛看前方，嘴角微抿。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微侧",
+                "expression": "眉毛平展，眼睛看侧面，嘴巴微闭"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "王林礼貌地让爷爷也早点休息，准备起身离开。",
+        "dialogue": "你也早点休息",
+        "speaker": "王林",
+        "emotion": "礼貌",
+        "duration": 2.24,
+        "description_visual": "中景平拍镜头；米色窗帘背景；画面中央人物，身穿蓝白条纹衬衫，坐在沙发上，身体微侧，表情：眉毛平展，眼睛看侧面，嘴巴微闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "卡其色西装外套",
+                "position": "画面左侧",
+                "action": "双手交叠放在腿上",
+                "expression": "眉毛平展，眼睛看前方，表情平静"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "深绿色中式盘扣上衣",
+                "position": "画面右侧",
+                "action": "双手放在膝盖上",
+                "expression": "眉毛微垂，眼睛微闭，神态放松"
+            }
+        ],
+        "background": "客厅沙发区，书架背景",
+        "description_narrative": "王林在离开前细心叮嘱明天会安排人煎药，妙妙和爷爷坐在沙发上听着。",
+        "dialogue": "对了明天我会安排人给你煎药记得喝",
+        "speaker": "王林",
+        "emotion": "细心",
+        "duration": 3.96,
+        "description_visual": "中景平拍镜头；客厅沙发区，书架背景；画面左侧人物，身穿卡其色西装外套，双手交叠放在腿上，表情：眉毛平展，眼睛看前方，表情平静；画面右侧人物，身穿深绿色中式盘扣上衣，双手放在膝盖上，表情：眉毛微垂，眼睛微闭，神态放松。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "从沙发上站起，整理衣物",
+                "expression": "眉毛平展，眼睛看前方，嘴巴微闭"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "王林说完后起身准备离开，动作利落。",
+        "dialogue": "好好去吧",
+        "speaker": "爷爷",
+        "emotion": "欣慰",
+        "duration": 4.0,
+        "description_visual": "中景平拍镜头；米色窗帘背景；画面中央人物，身穿蓝白条纹衬衫，从沙发上站起，整理衣物，表情：眉毛平展，眼睛看前方，嘴巴微闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面中央",
+                "action": "转身离开，背影模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "王林转身离开画面，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "中景平拍镜头；米色窗帘背景；画面中央人物，身穿蓝白条纹衬衫，转身离开，背影模糊，表情：不可见。"
+    }
+]

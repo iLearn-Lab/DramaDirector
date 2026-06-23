@@ -1,0 +1,609 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带，黑色袜子",
+                "position": "画面右侧，躺在棕色皮沙发上",
+                "action": "身体放松躺卧，双眼闭合，处于睡眠或昏迷状态",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴微张，神情虚弱"
+            }
+        ],
+        "background": "室内客厅，深蓝色落地窗帘，灰色墙壁，光线柔和",
+        "description_narrative": "全景固定镜头，张东身穿黑色西装躺在棕色皮沙发上，双眼紧闭，神情虚弱，似乎正在沉睡或昏迷，背景是深蓝色的窗帘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.56,
+        "description_visual": "全景平拍镜头；室内客厅，深蓝色落地窗帘，灰色墙壁，光线柔和；画面右侧，躺在棕色皮沙发上人物，身穿黑色西装，白衬衫，花纹领带，黑色袜子，身体放松躺卧，双眼闭合，处于睡眠或昏迷状态，表情：眉毛舒展，眼睛紧闭，嘴巴微张，神情虚弱。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面中央，躺在沙发上",
+                "action": "头部微动，缓缓睁开双眼，眼神迷离",
+                "expression": "眉毛微挑，眼睛半睁，嘴巴微张，神情恍惚"
+            }
+        ],
+        "background": "室内客厅，棕色皮沙发，白色墙壁，挂画一角",
+        "description_narrative": "中景固定镜头，张东躺在沙发上缓缓醒来，眼神迷离，似乎刚从梦中苏醒，嘴里轻声念着名字。",
+        "dialogue": "玲珑",
+        "speaker": "张东",
+        "emotion": "恍惚",
+        "duration": 2.8,
+        "description_visual": "中景平拍镜头；室内客厅，棕色皮沙发，白色墙壁，挂画一角；画面中央，躺在沙发上人物，身穿黑色西装，白衬衫，花纹领带，头部微动，缓缓睁开双眼，眼神迷离，表情：眉毛微挑，眼睛半睁，嘴巴微张，神情恍惚。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装外套，黑色长裙，红色围巾",
+                "position": "画面左侧，站立",
+                "action": "低头注视着沙发上的张东，双手自然下垂",
+                "expression": "眉毛柔和，眼睛下视，嘴角微扬，神情温柔"
+            },
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面右侧，躺在沙发上",
+                "action": "抬头仰望站立的玲珑，身体微撑",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张，神情惊喜"
+            }
+        ],
+        "background": "室内客厅，深蓝色窗帘，棕色皮沙发",
+        "description_narrative": "中景固定镜头，玲珑身穿黑衣红围巾站立在沙发旁，低头看着张东；张东躺在沙发上抬头仰望她，眼神中充满惊喜和不敢置信。",
+        "dialogue": "玲珑 真的是你吗",
+        "speaker": "张东",
+        "emotion": "惊喜",
+        "duration": 3.16,
+        "description_visual": "中景平拍镜头；室内客厅，深蓝色窗帘，棕色皮沙发；画面左侧，站立人物，身穿黑色西装外套，黑色长裙，红色围巾，低头注视着沙发上的张东，双手自然下垂，表情：眉毛柔和，眼睛下视，嘴角微扬，神情温柔；画面右侧，躺在沙发上人物，身穿黑色西装，白衬衫，花纹领带，抬头仰望站立的玲珑，身体微撑，表情：眉毛上扬，眼睛睁大，嘴巴微张，神情惊喜。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "微微低头，眼神柔和地看着对方",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬露出微笑，神情温柔坚定"
+            }
+        ],
+        "background": "深蓝色窗帘背景，虚化",
+        "description_narrative": "特写固定镜头，玲珑面带温柔微笑，微微低头确认自己的身份，眼神中流露出安抚的意味。",
+        "dialogue": "你没有看错，真的是我。",
+        "speaker": "玲珑",
+        "emotion": "温柔",
+        "duration": 2.6,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景，虚化；画面中央人物，身穿黑色西装，红色发带，红色围巾，微微低头，眼神柔和地看着对方，表情：眉毛舒展，眼睛下视，嘴角上扬露出微笑，神情温柔坚定。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面右侧",
+                "action": "抬头仰望，伸手握住对方的手",
+                "expression": "眉毛微蹙，眼睛直视上方，嘴巴微张，神情急切求证"
+            }
+        ],
+        "background": "室内背景，模糊的挂画和灯光",
+        "description_narrative": "中近景仰拍镜头，张东抬头看着面前的玲珑，伸手握住她的手，急切地询问关于黑暗空间的事情。",
+        "dialogue": "是你在黑暗空间说出我的爱。",
+        "speaker": "张东",
+        "emotion": "急切",
+        "duration": 2.84,
+        "description_visual": "中近景仰拍镜头；室内背景，模糊的挂画和灯光；画面右侧人物，身穿黑色西装，白衬衫，花纹领带，抬头仰望，伸手握住对方的手，表情：眉毛微蹙，眼睛直视上方，嘴巴微张，神情急切求证。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "微微垂眸，轻声诉说",
+                "expression": "眉毛低垂，眼睛下视，嘴巴微动，神情平静"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑垂下眼眸，平静地讲述契约解除的事情。",
+        "dialogue": "解除了我们的契约。",
+        "speaker": "玲珑",
+        "emotion": "平静",
+        "duration": 2.36,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，微微垂眸，轻声诉说，表情：眉毛低垂，眼睛下视，嘴巴微动，神情平静。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "继续低头诉说，表情略带感慨",
+                "expression": "眉毛舒展，眼睛下视，嘴唇轻启，神情释然"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑继续诉说自己现在的状态，表情中带着一丝成为真正的人的感慨。",
+        "dialogue": "我现在",
+        "speaker": "玲珑",
+        "emotion": "释然",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，继续低头诉说，表情略带感慨，表情：眉毛舒展，眼睛下视，嘴唇轻启，神情释然。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面右侧",
+                "action": "抬头看着对方，眼神中充满疑惑和惊喜",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张，神情复杂"
+            }
+        ],
+        "background": "室内背景，模糊的挂画",
+        "description_narrative": "中近景仰拍镜头，张东听到玲珑说自己成了真正的人后感到高兴，随即又疑惑地询问关于寿命和月珊的事情。",
+        "dialogue": "是一个真正的人了，那太好了。那现在对了，我的寿命不是全给了月珊吗？",
+        "speaker": "张东",
+        "emotion": "疑惑",
+        "duration": 6.88,
+        "description_visual": "中近景仰拍镜头；室内背景，模糊的挂画；画面右侧人物，身穿黑色西装，白衬衫，花纹领带，抬头看着对方，眼神中充满疑惑和惊喜，表情：眉毛上扬，眼睛睁大，嘴巴微张，神情复杂。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "闭眼片刻，似乎在回忆",
+                "expression": "眉毛微蹙，眼睛闭合，嘴巴紧闭，神情凝重"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑闭上眼睛，似乎在回忆黑暗空间中的经历，神情略显凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，闭眼片刻，似乎在回忆，表情：眉毛微蹙，眼睛闭合，嘴巴紧闭，神情凝重。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "睁开眼，轻声解释",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张，神情认真"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑睁开眼，开始解释在黑暗空间恢复时发生的事情。",
+        "dialogue": "我在黑暗空间恢复的时候",
+        "speaker": "玲珑",
+        "emotion": "认真",
+        "duration": 3.88,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，睁开眼，轻声解释，表情：眉毛舒展，眼睛下视，嘴巴微张，神情认真。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "继续解释，眼神坚定",
+                "expression": "眉毛微挑，眼睛下视，嘴巴微动，神情专注"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑继续解释自己将力量注入对方身体的过程，眼神坚定。",
+        "dialogue": "将我的力量注入了你的身体",
+        "speaker": "玲珑",
+        "emotion": "专注",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，继续解释，眼神坚定，表情：眉毛微挑，眼睛下视，嘴巴微动，神情专注。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面右侧",
+                "action": "抬头倾听，眼神专注",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张，神情认真"
+            }
+        ],
+        "background": "室内背景，模糊的挂画",
+        "description_narrative": "中近景仰拍镜头，张东抬头认真倾听玲珑的解释，得知自己身体里有大量能量和心脏的真相。",
+        "dialogue": "你身体里现在有大量的能量，心脏。",
+        "speaker": "玲珑",
+        "emotion": "认真",
+        "duration": 4.84,
+        "description_visual": "中近景仰拍镜头；室内背景，模糊的挂画；画面右侧人物，身穿黑色西装，白衬衫，花纹领带，抬头倾听，眼神专注，表情：眉毛微蹙，眼睛直视，嘴巴微张，神情认真。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "微微低头，眼神温柔",
+                "expression": "眉毛舒展，眼睛下视，嘴角微扬，神情深情"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑深情地表示那颗心脏也是为她跳动的，眼神中流露出爱意。",
+        "dialogue": "也是为我跳动的。",
+        "speaker": "玲珑",
+        "emotion": "深情",
+        "duration": 2.72,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，微微低头，眼神温柔，表情：眉毛舒展，眼睛下视，嘴角微扬，神情深情。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面右侧",
+                "action": "抬头看着对方，伸手轻触对方衣袖",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张，神情关切"
+            }
+        ],
+        "background": "室内背景，模糊的挂画",
+        "description_narrative": "中近景仰拍镜头，张东确认了玲珑的话后，立刻关切地询问反派月珊是否被抓住。",
+        "dialogue": "真的，那月珊抓住了吗？",
+        "speaker": "张东",
+        "emotion": "关切",
+        "duration": 3.48,
+        "description_visual": "中近景仰拍镜头；室内背景，模糊的挂画；画面右侧人物，身穿黑色西装，白衬衫，花纹领带，抬头看着对方，伸手轻触对方衣袖，表情：眉毛上扬，眼睛睁大，嘴巴微张，神情关切。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "眼神微闪，似乎在思考如何回答",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴紧闭，神情犹豫"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑听到关于月珊的问题，眼神微闪，神情略显犹豫，似乎在斟酌措辞。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "犹豫",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，眼神微闪，似乎在思考如何回答，表情：眉毛微蹙，眼睛侧视，嘴巴紧闭，神情犹豫。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面左侧",
+                "action": "侧头看向一边，轻声叹息",
+                "expression": "眉毛低垂，眼睛侧视，嘴巴微张，神情惋惜"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写侧拍镜头，玲珑侧过头，惋惜地表示那天可惜让月珊跑掉了。",
+        "dialogue": "那天可惜。",
+        "speaker": "玲珑",
+        "emotion": "惋惜",
+        "duration": 0.72,
+        "description_visual": "特写侧拍镜头；深蓝色窗帘背景；画面左侧人物，身穿黑色西装，红色发带，红色围巾，侧头看向一边，轻声叹息，表情：眉毛低垂，眼睛侧视，嘴巴微张，神情惋惜。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "转回头，继续解释",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微动，神情认真"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑转回头，继续解释月珊逃跑的情况。",
+        "dialogue": "让他给跑了。",
+        "speaker": "玲珑",
+        "emotion": "认真",
+        "duration": 1.08,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，转回头，继续解释，表情：眉毛舒展，眼睛直视前方，嘴巴微动，神情认真。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面右侧",
+                "action": "低头沉思，双手交握",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭，神情失落"
+            }
+        ],
+        "background": "室内背景，棕色沙发",
+        "description_narrative": "中近景俯拍镜头，张东听到月珊逃跑的消息后低下头，神情略显失落，双手交握放在腿上。",
+        "dialogue": "不过。",
+        "speaker": "玲珑",
+        "emotion": "失落",
+        "duration": 1.64,
+        "description_visual": "中近景俯拍镜头；室内背景，棕色沙发；画面右侧人物，身穿黑色西装，白衬衫，花纹领带，低头沉思，双手交握，表情：眉毛微蹙，眼睛下视，嘴巴紧闭，神情失落。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "眼神坚定，语气自信",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张，神情自信"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑眼神变得坚定，表示有系统在，月珊跑不远。",
+        "dialogue": "有系统在，她跑再远。",
+        "speaker": "玲珑",
+        "emotion": "自信",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，眼神坚定，语气自信，表情：眉毛微挑，眼睛直视，嘴巴微张，神情自信。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "微微点头，露出微笑",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬，神情安抚"
+            }
+        ],
+        "background": "深蓝色窗帘背景",
+        "description_narrative": "特写固定镜头，玲珑微微点头，微笑着表示一定能找到月珊，安抚张东的情绪。",
+        "dialogue": "也能找到。",
+        "speaker": "玲珑",
+        "emotion": "安抚",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；深蓝色窗帘背景；画面中央人物，身穿黑色西装，红色发带，红色围巾，微微点头，露出微笑，表情：眉毛舒展，眼睛下视，嘴角上扬，神情安抚。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央",
+                "action": "低头看着张东，画面逐渐模糊",
+                "expression": "眉毛低垂，眼睛闭合，嘴巴微张，神情温柔"
+            }
+        ],
+        "background": "深蓝色窗帘背景，虚化",
+        "description_narrative": "特写推进镜头，画面逐渐模糊，玲珑低头看着张东，温柔地让他不要担心。",
+        "dialogue": "你不要担心",
+        "speaker": "玲珑",
+        "emotion": "温柔",
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头（推进）；深蓝色窗帘背景，虚化；画面中央人物，身穿黑色西装，红色发带，红色围巾，低头看着张东，画面逐渐模糊，表情：眉毛低垂，眼睛闭合，嘴巴微张，神情温柔。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面右侧",
+                "action": "抬头看着玲珑，露出安心的笑容",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬，神情安心"
+            }
+        ],
+        "background": "室内背景，模糊的挂画",
+        "description_narrative": "中近景仰拍镜头，张东听到玲珑的安慰后露出安心的笑容，紧绷的身体放松下来。",
+        "dialogue": "你不要担心",
+        "speaker": "玲珑",
+        "emotion": "安心",
+        "duration": 0.68,
+        "description_visual": "中近景仰拍镜头；室内背景，模糊的挂画；画面右侧人物，身穿黑色西装，白衬衫，花纹领带，抬头看着玲珑，露出安心的笑容，表情：眉毛舒展，眼睛微眯，嘴角上扬，神情安心。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面中央偏后",
+                "action": "站在沙发后，手搭在张东肩上",
+                "expression": "眉毛低垂，眼睛下视，神情复杂"
+            },
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央偏前",
+                "action": "背对镜头坐在沙发上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内客厅，深蓝色窗帘",
+        "description_narrative": "中景固定镜头，玲珑站在沙发后，手搭在张东肩上，张东背对镜头，玲珑神情复杂地看着他。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；室内客厅，深蓝色窗帘；画面中央偏后人物，身穿黑色西装，红色发带，红色围巾，站在沙发后，手搭在张东肩上，表情：眉毛低垂，眼睛下视，神情复杂；画面中央偏前人物，身穿黑色西装，背对镜头坐在沙发上，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面左侧，坐在沙发边",
+                "action": "侧身坐着，看着睡着的张东",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张，神情温柔"
+            },
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面右侧，躺在沙发上",
+                "action": "闭眼睡眠，呼吸平稳",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴微张，神情安详"
+            }
+        ],
+        "background": "室内客厅，白色墙壁，挂画",
+        "description_narrative": "中景固定镜头，张东已经安心睡去，玲珑坐在沙发边，温柔地让他好好休息。",
+        "dialogue": "好好休息。",
+        "speaker": "玲珑",
+        "emotion": "温柔",
+        "duration": 11.68,
+        "description_visual": "中景平拍镜头；室内客厅，白色墙壁，挂画；画面左侧，坐在沙发边人物，身穿黑色西装，红色发带，红色围巾，侧身坐着，看着睡着的张东，表情：眉毛舒展，眼睛直视，嘴巴微张，神情温柔；画面右侧，躺在沙发上人物，身穿黑色西装，白衬衫，花纹领带，闭眼睡眠，呼吸平稳，表情：眉毛舒展，眼睛紧闭，嘴巴微张，神情安详。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "玲珑",
+                "gender": "女",
+                "clothing": "黑色西装，红色发带，红色围巾",
+                "position": "画面左侧，坐在沙发边",
+                "action": "看着睡着的张东，眼神转为悲伤",
+                "expression": "眉毛微蹙，眼睛下视，嘴角下垂，神情悲伤愧疚"
+            },
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，花纹领带",
+                "position": "画面右侧，躺在沙发上",
+                "action": "熟睡中",
+                "expression": "眉毛舒展，眼睛紧闭，神情安详"
+            }
+        ],
+        "background": "室内客厅，白色墙壁，挂画",
+        "description_narrative": "中景固定镜头，确认张东睡熟后，玲珑的眼神转为悲伤和愧疚，低声道歉承认自己骗了他，氛围变得沉重。",
+        "dialogue": "张东，对不起，我骗了你。",
+        "speaker": "玲珑",
+        "emotion": "悲伤",
+        "duration": 4.48,
+        "description_visual": "中景平拍镜头；室内客厅，白色墙壁，挂画；画面左侧，坐在沙发边人物，身穿黑色西装，红色发带，红色围巾，看着睡着的张东，眼神转为悲伤，表情：眉毛微蹙，眼睛下视，嘴角下垂，神情悲伤愧疚；画面右侧，躺在沙发上人物，身穿黑色西装，白衬衫，花纹领带，熟睡中，表情：眉毛舒展，眼睛紧闭，神情安详。"
+    }
+]

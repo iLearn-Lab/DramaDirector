@@ -1,0 +1,786 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色西装外套，黑色高领内搭",
+                "position": "画面左侧",
+                "action": "站立，双手自然下垂，身体微侧向右",
+                "expression": "眉毛微蹙，眼神平静地注视前方，嘴唇紧闭"
+            },
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央偏右",
+                "action": "站立，身体面向温晚",
+                "expression": "眉毛微挑，眼神专注，嘴唇微张似在说话"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，黑色高领毛衣",
+                "position": "画面右侧前景",
+                "action": "背对镜头站立，头部微侧向左",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室场景，后方有百叶窗和置物架，光线柔和",
+        "description_narrative": "全景镜头固定，办公室内，温晚身穿棕色西装站在左侧，神情平静地看向右侧。霍总身穿黑色大衣站在中间，正面对着温晚。棕衣男子背对镜头站在右侧前景。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "全景平拍镜头；办公室场景，后方有百叶窗和置物架，光线柔和；画面左侧人物，身穿棕色西装外套，黑色高领内搭，站立，双手自然下垂，身体微侧向右，表情：眉毛微蹙，眼神平静地注视前方，嘴唇紧闭；画面中央偏右人物，身穿黑色大衣，黑色高领毛衣，站立，身体面向温晚，表情：眉毛微挑，眼神专注，嘴唇微张似在说话；画面右侧前景人物，身穿棕色皮夹克，黑色高领毛衣，背对镜头站立，头部微侧向左，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛舒展，眼神略带歉意，嘴唇微张"
+            }
+        ],
+        "background": "背景为模糊的百叶窗，光线明亮",
+        "description_narrative": "特写镜头聚焦霍总面部，他身穿黑色高领毛衣和黑色大衣，眼神看向左侧，表情略带歉意，嘴唇微动正在解释。",
+        "dialogue": "我不是那个意思。",
+        "speaker": "霍总",
+        "emotion": "歉意",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；背景为模糊的百叶窗，光线明亮；画面中央人物，身穿黑色大衣，黑色高领毛衣，头部微侧，眼神看向左侧，表情：眉毛舒展，眼神略带歉意，嘴唇微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色西装外套，黑色高领内搭",
+                "position": "画面中央",
+                "action": "站立，身体微侧，头部转向右侧",
+                "expression": "眉毛平展，眼神看向右上方，嘴唇轻抿"
+            }
+        ],
+        "background": "办公室背景，后方有黑色置物架和装饰品",
+        "description_narrative": "中近景镜头拍摄温晚，她身穿棕色闪光西装外套，内搭黑色高领衫，佩戴珍珠耳环，侧身站立，目光投向右侧，神情淡然。",
+        "dialogue": "你别生气啊。",
+        "speaker": "霍总",
+        "emotion": "淡然",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；办公室背景，后方有黑色置物架和装饰品；画面中央人物，身穿棕色西装外套，黑色高领内搭，站立，身体微侧，头部转向右侧，表情：眉毛平展，眼神看向右上方，嘴唇轻抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面左侧",
+                "action": "低头，身体微向前倾",
+                "expression": "眉毛低垂，眼神向下，嘴唇紧闭"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，黑色高领毛衣",
+                "position": "画面右侧",
+                "action": "侧身面向霍总，头部微转",
+                "expression": "眉毛微挑，眼神注视霍总，嘴唇微动"
+            }
+        ],
+        "background": "办公室百叶窗背景，光线透过缝隙射入",
+        "description_narrative": "中景镜头展示霍总和棕衣男子。霍总低头站在左侧，神情低沉。棕衣男子站在右侧，戴着眼镜，侧脸看向霍总，正在说话。",
+        "dialogue": "霍总，刚刚是我失言了。",
+        "speaker": "棕衣男子",
+        "emotion": "诚恳",
+        "duration": 2.92,
+        "description_visual": "中景平拍镜头；办公室百叶窗背景，光线透过缝隙射入；画面左侧人物，身穿黑色大衣，黑色高领毛衣，低头，身体微向前倾，表情：眉毛低垂，眼神向下，嘴唇紧闭；画面右侧人物，身穿棕色皮夹克，黑色高领毛衣，侧身面向霍总，头部微转，表情：眉毛微挑，眼神注视霍总，嘴唇微动。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，黑色高领毛衣，银色项链",
+                "position": "画面右侧",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼神下垂，嘴唇紧闭"
+            }
+        ],
+        "background": "深色木质墙面背景",
+        "description_narrative": "特写镜头聚焦棕衣男子侧脸，他戴着细框眼镜，身穿棕色皮夹克，佩戴银色项链，视线低垂，神情略显尴尬。",
+        "dialogue": "你该道歉的人不是我。",
+        "speaker": "霍总",
+        "emotion": "严肃",
+        "duration": 2.28,
+        "description_visual": "特写平拍镜头；深色木质墙面背景；画面右侧人物，身穿棕色皮夹克，黑色高领毛衣，银色项链，头部微低，视线向下，表情：眉毛微蹙，眼神下垂，嘴唇紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部转正，直视前方",
+                "expression": "眉毛微展，眼神坚定，嘴唇微张"
+            }
+        ],
+        "background": "百叶窗背景，光线柔和",
+        "description_narrative": "特写镜头回到霍总面部，他抬起头，眼神直视前方，嘴唇微动，似乎在呼唤某人的名字。",
+        "dialogue": "温晚。",
+        "speaker": "霍总",
+        "emotion": "认真",
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；百叶窗背景，光线柔和；画面中央人物，身穿黑色大衣，黑色高领毛衣，头部转正，直视前方，表情：眉毛微展，眼神坚定，嘴唇微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色西装外套，黑色高领内搭",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛平展，眼神看向右侧，嘴唇轻闭"
+            }
+        ],
+        "background": "办公室背景，置物架清晰可见",
+        "description_narrative": "中近景镜头拍摄温晚，她身穿棕色西装，神情平静地站立，目光投向右侧，似乎在倾听对方的话语。",
+        "dialogue": "如果你不想回家。",
+        "speaker": "霍总",
+        "emotion": "试探",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；办公室背景，置物架清晰可见；画面中央人物，身穿棕色西装外套，黑色高领内搭，站立，双手自然下垂，表情：眉毛平展，眼神看向右侧，嘴唇轻闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神诚恳，嘴唇微张"
+            }
+        ],
+        "background": "百叶窗背景",
+        "description_narrative": "特写镜头聚焦霍总，他侧头看向左侧，表情认真且带着一丝恳求，正在继续对温晚说话。",
+        "dialogue": "就不回家，我不逼你。",
+        "speaker": "霍总",
+        "emotion": "恳切",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；百叶窗背景；画面中央人物，身穿黑色大衣，黑色高领毛衣，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神诚恳，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色西装外套，黑色高领内搭",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛微挑，眼神看向右前方，嘴唇轻抿"
+            }
+        ],
+        "background": "办公室背景，光线明亮",
+        "description_narrative": "中近景镜头拍摄温晚，她身穿棕色西装，目光投向右侧，神情依旧冷淡，似乎在思考对方的话。",
+        "dialogue": "如果你愿意的话。",
+        "speaker": "霍总",
+        "emotion": "期待",
+        "duration": 1.84,
+        "description_visual": "中近景平拍镜头；办公室背景，光线明亮；画面中央人物，身穿棕色西装外套，黑色高领内搭，站立，身体微侧，表情：眉毛微挑，眼神看向右前方，嘴唇轻抿。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛舒展，眼神温柔，嘴唇微动"
+            }
+        ],
+        "background": "百叶窗背景",
+        "description_narrative": "特写镜头聚焦霍总，他微微低头，眼神中流露出温柔和等待，继续向温晚表达意愿。",
+        "dialogue": "我可以在家等你",
+        "speaker": "霍总",
+        "emotion": "温柔",
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；百叶窗背景；画面中央人物，身穿黑色大衣，黑色高领毛衣，头部微低，眼神向下，表情：眉毛舒展，眼神温柔，嘴唇微动。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色西装外套，黑色高领内搭",
+                "position": "画面中央",
+                "action": "站立，头部微转",
+                "expression": "眉毛平展，眼神直视前方，嘴唇微动"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "中近景镜头拍摄温晚，她直视前方，表情冷静，嘴唇微动，拒绝了霍总的提议。",
+        "dialogue": "你放心，我不会的。",
+        "speaker": "温晚",
+        "emotion": "冷淡",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；办公室背景；画面中央人物，身穿棕色西装外套，黑色高领内搭，站立，头部微转，表情：眉毛平展，眼神直视前方，嘴唇微动。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛低垂，眼神失落，嘴唇紧闭"
+            }
+        ],
+        "background": "百叶窗背景",
+        "description_narrative": "特写镜头聚焦霍总，他听到拒绝后微微低头，眼神中闪过一丝失落，随后开口让两人先聊。",
+        "dialogue": "好，你们先聊",
+        "speaker": "霍总",
+        "emotion": "失落",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；百叶窗背景；画面中央人物，身穿黑色大衣，黑色高领毛衣，头部微低，眼神向下，表情：眉毛低垂，眼神失落，嘴唇紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "黑色大衣，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微转，准备离开",
+                "expression": "眉毛舒展，眼神平静，嘴唇微动"
+            }
+        ],
+        "background": "百叶窗背景",
+        "description_narrative": "特写镜头继续聚焦霍总，他调整姿态，表示自己不打扰了，准备转身离开。",
+        "dialogue": "我不打扰了。",
+        "speaker": "霍总",
+        "emotion": "平静",
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；百叶窗背景；画面中央人物，身穿黑色大衣，黑色高领毛衣，头部微转，准备离开，表情：眉毛舒展，眼神平静，嘴唇微动。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "黑色大衣",
+                "position": "画面左侧",
+                "action": "背对镜头转身离开",
+                "expression": "不可见"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克",
+                "position": "画面右侧",
+                "action": "侧身看着霍总离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室木质门背景",
+        "description_narrative": "近景镜头跟随霍总转身，他背对镜头向左侧走去，棕衣男子在右侧目送他离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头（跟拍）；办公室木质门背景；画面左侧人物，身穿黑色大衣，背对镜头转身离开，表情：不可见；画面右侧人物，身穿棕色皮夹克，侧身看着霍总离开，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克",
+                "position": "画面右侧",
+                "action": "头部微转，看向霍总离开的方向",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室背景",
+        "description_narrative": "近景镜头拍摄棕衣男子背影，他戴着眼镜，头部微转，注视着霍总离开的方向。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "近景平拍镜头；办公室背景；画面右侧人物，身穿棕色皮夹克，头部微转，看向霍总离开的方向，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色西装外套",
+                "position": "画面左侧",
+                "action": "站立，看着霍总离开的方向",
+                "expression": "眉毛微蹙，眼神复杂"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克",
+                "position": "画面右侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室全景，桌子，置物架",
+        "description_narrative": "全景镜头展示办公室全貌，温晚站在左侧桌边，目送霍总离开。棕衣男子站在右侧，背对镜头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.04,
+        "description_visual": "全景平拍镜头；办公室全景，桌子，置物架；画面左侧人物，身穿棕色西装外套，站立，看着霍总离开的方向，表情：眉毛微蹙，眼神复杂；画面右侧人物，身穿棕色皮夹克，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "身体前倾，低头",
+                "expression": "眉毛微挑，嘴角带笑"
+            }
+        ],
+        "background": "木质墙面背景",
+        "description_narrative": "特写俯拍镜头，棕衣男子身体前倾，低头看着下方，嘴角带着一丝玩味的笑意，开始评论霍总。",
+        "dialogue": "他那么着急找叶。",
+        "speaker": "棕衣男子",
+        "emotion": "玩味",
+        "duration": 3.52,
+        "description_visual": "特写俯拍镜头；木质墙面背景；画面中央人物，身穿棕色皮夹克，黑色高领毛衣，身体前倾，低头，表情：眉毛微挑，嘴角带笑。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色西装外套",
+                "position": "画面中央",
+                "action": "坐在桌前，手中拿着笔和文件",
+                "expression": "眉毛平展，眼神向下看文件，嘴唇轻抿"
+            }
+        ],
+        "background": "办公室桌面，文件，茶具",
+        "description_narrative": "中近景镜头拍摄温晚坐在桌前，她身穿棕色西装，手中拿着笔和文件，低头看着纸张，冷淡地回应。",
+        "dialogue": "会不会真有什么急事，跟我有什么关系？",
+        "speaker": "温晚",
+        "emotion": "冷漠",
+        "duration": 3.28,
+        "description_visual": "中近景平拍镜头；办公室桌面，文件，茶具；画面中央人物，身穿棕色西装外套，坐在桌前，手中拿着笔和文件，表情：眉毛平展，眼神向下看文件，嘴唇轻抿。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "坐着，双手交叠",
+                "expression": "眉毛微挑，眼神看向温晚，嘴角上扬"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景镜头拍摄棕衣男子坐着，他双手交叠放在腿上，戴着眼镜，面带微笑地怂恿温晚。",
+        "dialogue": "那你可以跟他摊牌，打他的脸喽。",
+        "speaker": "棕衣男子",
+        "emotion": "挑唆",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿棕色皮夹克，黑色高领毛衣，坐着，双手交叠，表情：眉毛微挑，眼神看向温晚，嘴角上扬。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色西装外套",
+                "position": "画面中央",
+                "action": "坐着，手持文件和笔",
+                "expression": "眉毛微蹙，眼神坚定，嘴唇轻动"
+            }
+        ],
+        "background": "办公室桌面背景",
+        "description_narrative": "中近景镜头拍摄温晚，她坐在桌前，手持文件，眼神坚定地看着前方，冷冷地表示对方不配。",
+        "dialogue": "他不配。",
+        "speaker": "温晚",
+        "emotion": "不屑",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；办公室桌面背景；画面中央人物，身穿棕色西装外套，坐着，手持文件和笔，表情：眉毛微蹙，眼神坚定，嘴唇轻动。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色皮夹克，黑色高领毛衣",
+                "position": "画面中央",
+                "action": "坐着，双手交叠",
+                "expression": "眉毛舒展，嘴角带笑，眼神玩味"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "中近景镜头拍摄棕衣男子，他坐着，双手交叠，脸上带着意味深长的笑容，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "玩味",
+        "duration": 2.32,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿棕色皮夹克，黑色高领毛衣，坐着，双手交叠，表情：眉毛舒展，嘴角带笑，眼神玩味。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "灰色连体衣，白色腰带",
+                "position": "画面中央",
+                "action": "手提购物袋，在商场走廊行走",
+                "expression": "眉毛平展，眼神直视前方"
+            }
+        ],
+        "background": "商场走廊，灯光璀璨，有柱子",
+        "description_narrative": "全景镜头跟随温晚在商场走廊行走，她换上了灰色连体衣，手提购物袋，神情平静地向前走。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.44,
+        "description_visual": "全景平拍镜头（跟拍）；商场走廊，灯光璀璨，有柱子；画面中央人物，身穿灰色连体衣，白色腰带，手提购物袋，在商场走廊行走，表情：眉毛平展，眼神直视前方。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "灰色连体衣",
+                "position": "画面中央",
+                "action": "行走中转头",
+                "expression": "眉毛微挑，眼神看向右侧，嘴唇微张"
+            }
+        ],
+        "background": "商场店铺背景，灯光模糊",
+        "description_narrative": "中近景镜头拍摄温晚，她在行走中突然转头看向右侧，似乎听到了什么声音，表情略显惊讶。",
+        "dialogue": "你这种人",
+        "speaker": "中年妇女",
+        "emotion": "惊讶",
+        "duration": 0.96,
+        "description_visual": "中近景平拍镜头；商场店铺背景，灯光模糊；画面中央人物，身穿灰色连体衣，行走中转头，表情：眉毛微挑，眼神看向右侧，嘴唇微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "格纹马甲，米色围巾，黑色内搭",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "眉毛上扬，眼神鄙夷，嘴巴张开说话"
+            }
+        ],
+        "background": "商场砖墙背景，有发光字体",
+        "description_narrative": "中近景镜头拍摄中年妇女，她盘着头发，围着米色围巾，身穿格纹马甲，表情傲慢地对着温晚说话。",
+        "dialogue": "也配逛这样的店",
+        "speaker": "中年妇女",
+        "emotion": "鄙夷",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；商场砖墙背景，有发光字体；画面中央人物，身穿格纹马甲，米色围巾，黑色内搭，站立，头部微侧，表情：眉毛上扬，眼神鄙夷，嘴巴张开说话。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "灰色连体衣",
+                "position": "画面中央",
+                "action": "站立，转身",
+                "expression": "眉毛平展，眼神看向左侧"
+            },
+            {
+                "name": "服务员",
+                "gender": "男",
+                "clothing": "棕色制服",
+                "position": "画面左侧边缘",
+                "action": "伸手递东西",
+                "expression": "不可见"
+            }
+        ],
+        "background": "商场店铺门口，灯光",
+        "description_narrative": "全景镜头展示商场店铺门口，温晚站在中央，左侧边缘可见服务员的手臂递出物品，温晚转身查看。",
+        "dialogue": "温小姐，你的卡落下了。",
+        "speaker": "服务员",
+        "emotion": "礼貌",
+        "duration": 1.36,
+        "description_visual": "全景平拍镜头；商场店铺门口，灯光；画面中央人物，身穿灰色连体衣，站立，转身，表情：眉毛平展，眼神看向左侧；画面左侧边缘人物，身穿棕色制服，伸手递东西，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "灰色连体衣",
+                "position": "画面中央",
+                "action": "侧身，微笑",
+                "expression": "眉毛舒展，眼神柔和，嘴角上扬"
+            }
+        ],
+        "background": "商场背景，灯光模糊",
+        "description_narrative": "中近景镜头拍摄温晚侧身，她面带微笑，礼貌地向服务员道谢。",
+        "dialogue": "谢谢啊。",
+        "speaker": "温晚",
+        "emotion": "礼貌",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；商场背景，灯光模糊；画面中央人物，身穿灰色连体衣，侧身，微笑，表情：眉毛舒展，眼神柔和，嘴角上扬。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "格纹马甲，米色围巾",
+                "position": "画面中央",
+                "action": "站立，头部微转",
+                "expression": "眉毛紧蹙，眼神愤怒，嘴巴张开"
+            }
+        ],
+        "background": "商场砖墙背景",
+        "description_narrative": "中近景镜头拍摄中年妇女，她表情愤怒，转头对着温晚大声指责，语气激烈。",
+        "dialogue": "你缠着我儿子不离婚。",
+        "speaker": "中年妇女",
+        "emotion": "愤怒",
+        "duration": 2.12,
+        "description_visual": "中近景平拍镜头；商场砖墙背景；画面中央人物，身穿格纹马甲，米色围巾，站立，头部微转，表情：眉毛紧蹙，眼神愤怒，嘴巴张开。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "灰色连体衣",
+                "position": "画面中央",
+                "action": "低头看手中的卡",
+                "expression": "眉毛低垂，眼神向下，嘴唇紧闭"
+            }
+        ],
+        "background": "商场背景",
+        "description_narrative": "中近景镜头拍摄温晚低头看着手中的卡，神情略显无奈，背景音中传来中年妇女的继续指责。",
+        "dialogue": "刷他的卡，偷买东西。",
+        "speaker": "中年妇女",
+        "emotion": "指责",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；商场背景；画面中央人物，身穿灰色连体衣，低头看手中的卡，表情：眉毛低垂，眼神向下，嘴唇紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "格纹马甲，米色围巾",
+                "position": "画面中央",
+                "action": "举起手中的卡",
+                "expression": "眉毛高挑，眼神轻蔑，嘴巴张大"
+            }
+        ],
+        "background": "商场砖墙背景",
+        "description_narrative": "中近景镜头拍摄中年妇女，她手中举着一张卡，表情轻蔑且激动，大声质问温晚要不要脸。",
+        "dialogue": "温晚你要不要脸",
+        "speaker": "中年妇女",
+        "emotion": "轻蔑",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；商场砖墙背景；画面中央人物，身穿格纹马甲，米色围巾，举起手中的卡，表情：眉毛高挑，眼神轻蔑，嘴巴张大。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "格纹马甲，米色围巾",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "眉毛舒展，嘴角上扬，露出得意的笑"
+            }
+        ],
+        "background": "商场砖墙背景",
+        "description_narrative": "中近景镜头拍摄中年妇女，她说完后嘴角上扬，露出一丝得意的笑容，眼神中充满胜利感。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；商场砖墙背景；画面中央人物，身穿格纹马甲，米色围巾，站立，头部微侧，表情：眉毛舒展，嘴角上扬，露出得意的笑。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "格纹马甲，米色围巾",
+                "position": "画面中央",
+                "action": "站立，表情不变",
+                "expression": "眉毛舒展，嘴角带笑"
+            }
+        ],
+        "background": "商场砖墙背景",
+        "description_narrative": "中近景镜头继续拍摄中年妇女，她保持着得意的笑容，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；商场砖墙背景；画面中央人物，身穿格纹马甲，米色围巾，站立，表情不变，表情：眉毛舒展，嘴角带笑。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "格纹马甲，米色围巾",
+                "position": "画面中央",
+                "action": "站立，微笑",
+                "expression": "眉毛舒展，嘴角上扬"
+            }
+        ],
+        "background": "商场砖墙背景",
+        "description_narrative": "中近景镜头拍摄中年妇女，她依旧面带微笑，眼神中透着傲慢，画面结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "傲慢",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；商场砖墙背景；画面中央人物，身穿格纹马甲，米色围巾，站立，微笑，表情：眉毛舒展，嘴角上扬。"
+    }
+]

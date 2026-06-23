@@ -1,0 +1,794 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面左侧",
+                "action": "从后方环抱明王妃",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微闭"
+            },
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "浅色绣花长裙",
+                "position": "画面右侧",
+                "action": "被明王环抱，身体微微前倾",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木质屏风背景，上方有金色装饰，光线柔和",
+        "description_narrative": "中景固定镜头，明王身穿白色金纹长袍从后方环抱身穿浅色绣花长裙的明王妃，明王妃神情忧虑，背景为深色木质屏风。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色木质屏风背景，上方有金色装饰，光线柔和；画面左侧人物，身穿白色金纹长袍，从后方环抱明王妃，表情：眉毛舒展，眼睛注视前方，嘴巴微闭；画面右侧人物，身穿浅色绣花长裙，被明王环抱，身体微微前倾，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "白色龙袍",
+                "position": "画面右侧主位",
+                "action": "端坐在龙椅上",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色金纹华服",
+                "position": "画面左侧主位",
+                "action": "端坐在凤椅上",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "白色长袍",
+                "position": "画面左侧前景",
+                "action": "侧身坐着",
+                "expression": "眉毛微蹙，眼睛看向主位，嘴巴微张"
+            }
+        ],
+        "background": "宫廷大殿，雕梁画栋，红色地毯，光线明亮",
+        "description_narrative": "全景固定镜头，宫廷大殿内，皇帝与太后分坐主位，王爷等人坐在左侧，皇帝开口说话，神情略带质疑。",
+        "dialogue": "不会真把苏家送来的东西，",
+        "speaker": "皇帝",
+        "emotion": "质疑",
+        "duration": 2.52,
+        "description_visual": "全景平拍镜头；宫廷大殿，雕梁画栋，红色地毯，光线明亮；画面右侧主位人物，身穿白色龙袍，端坐在龙椅上，表情：眉毛微挑，眼睛注视前方，嘴巴微张；画面左侧主位人物，身穿绿色金纹华服，端坐在凤椅上，表情：眉毛平展，眼睛注视前方，嘴巴紧闭；画面左侧前景人物，身穿白色长袍，侧身坐着，表情：眉毛微蹙，眼睛看向主位，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "白色龙袍",
+                "position": "画面中央",
+                "action": "头部微动",
+                "expression": "眉毛微挑，眼睛眯起，嘴巴张开说话"
+            }
+        ],
+        "background": "金色龙椅靠背，光线聚焦在面部",
+        "description_narrative": "特写固定镜头，皇帝面部特写，头戴金冠，留有胡须，嘴巴张开正在说话，神情略带戏谑。",
+        "dialogue": "拿来当做贺礼",
+        "speaker": "皇帝",
+        "emotion": "戏谑",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；金色龙椅靠背，光线聚焦在面部；画面中央人物，身穿白色龙袍，头部微动，表情：眉毛微挑，眼睛眯起，嘴巴张开说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贵妃",
+                "gender": "女",
+                "clothing": "粉色衣裳",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，贵妃身穿粉色衣裳，头戴金饰，神情略带轻蔑，嘴巴微张似乎在接话。",
+        "dialogue": "送给太后吧",
+        "speaker": "贵妃",
+        "emotion": "轻蔑",
+        "duration": 3.0,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿粉色衣裳，头部微侧，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "浅色绣花长裙",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王妃身穿浅色绣花长裙，头戴白花发饰，神情忧虑，眼睛下视，似乎在忍受嘲讽。",
+        "dialogue": "这明王妃本就出身低微，没见过什么世面，",
+        "speaker": "贵妃",
+        "emotion": "嘲讽",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色绣花长裙，头部微低，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贵妃",
+                "gender": "女",
+                "clothing": "粉色衣裳",
+                "position": "画面中央",
+                "action": "头部微动",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，贵妃面部特写，表情夸张，露齿而笑，似乎在继续嘲讽。",
+        "dialogue": "也是可以理解。太后，你可",
+        "speaker": "贵妃",
+        "emotion": "嘲讽",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿粉色衣裳，头部微动，表情：眉毛上扬，眼睛睁大，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色金纹华服",
+                "position": "画面中央",
+                "action": "头部微动",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景，金色头饰",
+        "description_narrative": "特写固定镜头，太后身穿绿色金纹华服，头戴繁复金饰，神情严肃，似乎在制止贵妃。",
+        "dialogue": "千万要理解",
+        "speaker": "贵妃",
+        "emotion": "严肃",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；深色背景，金色头饰；画面中央人物，身穿绿色金纹华服，头部微动，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "浅色绣花长裙",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王妃低头，神情隐忍，眉毛紧蹙，似乎在酝酿反击。",
+        "dialogue": "贵妃此言差矣。",
+        "speaker": "明王妃",
+        "emotion": "隐忍",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色绣花长裙，头部微低，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "白色长袍",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "近景固定镜头，王爷身穿白色长袍，侧身坐着，神情略带质疑，嘴巴微张正在说话。",
+        "dialogue": "这明王府的宝物，还没有露出。",
+        "speaker": "王爷",
+        "emotion": "质疑",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；深色背景，光线柔和；画面中央人物，身穿白色长袍，头部微侧，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "白色长袍",
+                "position": "画面中央",
+                "action": "头部微动",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "近景固定镜头，王爷面部特写，表情夸张，嘴巴张开，似乎在催促明王。",
+        "dialogue": "不能过早下结论呢。明王，",
+        "speaker": "王爷",
+        "emotion": "催促",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；深色背景，光线柔和；画面中央人物，身穿白色长袍，头部微动，表情：眉毛微挑，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "浅色绣花长裙",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王妃低头，神情不安，似乎在担心明王。",
+        "dialogue": "还不把宝物拿出来？",
+        "speaker": "王爷",
+        "emotion": "不安",
+        "duration": 2.72,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色绣花长裙，头部微低，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "手指轻轻敲击桌面",
+                "expression": "无"
+            }
+        ],
+        "background": "深色桌面，光线聚焦在手部",
+        "description_narrative": "大特写固定镜头，明王的手指轻轻敲击桌面，动作轻微，显示出内心的沉稳。",
+        "dialogue": "王爷。",
+        "speaker": "明王妃",
+        "emotion": "沉稳",
+        "duration": 0.84,
+        "description_visual": "大特写俯拍镜头；深色桌面，光线聚焦在手部；画面中央人物，身穿白色金纹长袍，手指轻轻敲击桌面，表情：无。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王面部特写，神情淡定，似乎在安抚明王妃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "淡定",
+        "duration": 2.32,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿白色金纹长袍，头部微侧，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面左侧前景",
+                "action": "起身站立",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色金纹华服",
+                "position": "画面左侧主位",
+                "action": "端坐在凤椅上",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "白色龙袍",
+                "position": "画面右侧主位",
+                "action": "端坐在龙椅上",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "宫廷大殿，雕梁画栋，红色地毯，光线明亮",
+        "description_narrative": "全景固定镜头，明王起身站立，面向太后和皇帝，神情恭敬，准备献礼。",
+        "dialogue": "没事。",
+        "speaker": "明王",
+        "emotion": "恭敬",
+        "duration": 4.12,
+        "description_visual": "全景平拍镜头；宫廷大殿，雕梁画栋，红色地毯，光线明亮；画面左侧前景人物，身穿白色金纹长袍，起身站立，表情：眉毛舒展，眼睛注视前方，嘴巴微张；画面左侧主位人物，身穿绿色金纹华服，端坐在凤椅上，表情：眉毛平展，眼睛注视前方，嘴巴紧闭；画面右侧主位人物，身穿白色龙袍，端坐在龙椅上，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王面部特写，神情专注，正在介绍贺礼。",
+        "dialogue": "启禀太后，明王府这次献给太后的，是……",
+        "speaker": "明王",
+        "emotion": "专注",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿白色金纹长袍，头部微低，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "青色长袍",
+                "position": "画面中央",
+                "action": "双手捧着卷轴",
+                "expression": "无"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "中景固定镜头，一名侍从身穿青色长袍，双手捧着卷轴，准备展示。",
+        "dialogue": "贺礼是",
+        "speaker": "明王",
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "中景平拍镜头；深色背景，光线柔和；画面中央人物，身穿青色长袍，双手捧着卷轴，表情：无。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "青色长袍",
+                "position": "画面中央前景",
+                "action": "背对镜头站立",
+                "expression": "无"
+            },
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色金纹华服",
+                "position": "画面左侧主位",
+                "action": "端坐在凤椅上",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "白色龙袍",
+                "position": "画面右侧主位",
+                "action": "端坐在龙椅上",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "宫廷大殿，雕梁画栋，红色地毯，光线明亮",
+        "description_narrative": "全景固定镜头，侍从背对镜头站立，太后和皇帝坐在主位，神情惊讶。",
+        "dialogue": "群仙捧日图。",
+        "speaker": "明王",
+        "emotion": "惊讶",
+        "duration": 3.8,
+        "description_visual": "全景平拍镜头；宫廷大殿，雕梁画栋，红色地毯，光线明亮；画面中央前景人物，身穿青色长袍，背对镜头站立，表情：无；画面左侧主位人物，身穿绿色金纹华服，端坐在凤椅上，表情：眉毛微挑，眼睛注视前方，嘴巴微张；画面右侧主位人物，身穿白色龙袍，端坐在龙椅上，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色金纹华服",
+                "position": "画面中央",
+                "action": "头部微动",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，金色头饰",
+        "description_narrative": "特写固定镜头，太后面部特写，神情惊讶，似乎认出了画作。",
+        "dialogue": "这，",
+        "speaker": "太后",
+        "emotion": "惊讶",
+        "duration": 1.76,
+        "description_visual": "特写平拍镜头；深色背景，金色头饰；画面中央人物，身穿绿色金纹华服，头部微动，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "青色长袍",
+                "position": "画面中央",
+                "action": "双手捧着卷轴",
+                "expression": "无"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "中景固定镜头，侍从双手捧着卷轴，画面聚焦在卷轴上。",
+        "dialogue": "这不是失传已久的，名画吗？",
+        "speaker": "皇帝",
+        "emotion": "惊讶",
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；深色背景，光线柔和；画面中央人物，身穿青色长袍，双手捧着卷轴，表情：无。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王面部特写，神情恭敬，正在解释画作来历。",
+        "dialogue": "儿臣得知，太后寻找",
+        "speaker": "明王",
+        "emotion": "恭敬",
+        "duration": 2.36,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿白色金纹长袍，头部微低，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏大小姐",
+                "gender": "女",
+                "clothing": "浅蓝色衣裳",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，苏大小姐身穿浅蓝色衣裳，神情慌张，似乎被揭穿谎言。",
+        "dialogue": "此画已久，便派人到处寻找，",
+        "speaker": "明王",
+        "emotion": "慌张",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅蓝色衣裳，头部微低，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王面部特写，神情专注，继续解释。",
+        "dialogue": "果然，天佑太后，",
+        "speaker": "明王",
+        "emotion": "专注",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿白色金纹长袍，头部微低，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "白色龙袍",
+                "position": "画面中央",
+                "action": "头部微动",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "金色龙椅靠背，光线聚焦在面部",
+        "description_narrative": "特写固定镜头，皇帝面部特写，神情满意，似乎在赞赏明王。",
+        "dialogue": "这幅画被儿臣寻到",
+        "speaker": "明王",
+        "emotion": "满意",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；金色龙椅靠背，光线聚焦在面部；画面中央人物，身穿白色龙袍，头部微动，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色金纹华服",
+                "position": "画面中央",
+                "action": "头部微动",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张露齿笑"
+            }
+        ],
+        "background": "深色背景，金色头饰",
+        "description_narrative": "特写固定镜头，太后面部特写，神情愉悦，露齿而笑，表示满意。",
+        "dialogue": "儿臣携妇，祝太后，",
+        "speaker": "明王",
+        "emotion": "愉悦",
+        "duration": 3.52,
+        "description_visual": "特写平拍镜头；深色背景，金色头饰；画面中央人物，身穿绿色金纹华服，头部微动，表情：眉毛舒展，眼睛注视前方，嘴巴微张露齿笑。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "近景固定镜头，明王神情恭敬，正在接受赏赐。",
+        "dialogue": "祝太后",
+        "speaker": "明王",
+        "emotion": "恭敬",
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；深色背景，光线柔和；画面中央人物，身穿白色金纹长袍，头部微低，表情：眉毛舒展，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "双手作揖",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "近景固定镜头，明王双手作揖，神情恭敬，正在谢恩。",
+        "dialogue": "久安久乐，万寿无疆。",
+        "speaker": "明王",
+        "emotion": "恭敬",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；深色背景，光线柔和；画面中央人物，身穿白色金纹长袍，双手作揖，表情：眉毛舒展，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅蓝色长袍",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "近景固定镜头，王爷身穿浅蓝色长袍，神情质疑，似乎发现了问题。",
+        "dialogue": "好好，墨儿的贺礼，哀家最为喜欢。",
+        "speaker": "太后",
+        "emotion": "质疑",
+        "duration": 3.12,
+        "description_visual": "近景平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅蓝色长袍，头部微侧，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏大小姐",
+                "gender": "女",
+                "clothing": "浅蓝色衣裳",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，苏大小姐神情慌张，低头不语。",
+        "dialogue": "赏水晶玉雕，",
+        "speaker": "太后",
+        "emotion": "慌张",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅蓝色衣裳，头部微低，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "浅色绣花长裙",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王妃神情不安，似乎在担心苏大小姐。",
+        "dialogue": "给墨儿。",
+        "speaker": "太后",
+        "emotion": "不安",
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色绣花长裙，头部微低，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王神情严肃，似乎在警告某人。",
+        "dialogue": "谢太后。苏大小姐，你不是说明王府送的是玉珠吗？",
+        "speaker": "王爷",
+        "emotion": "严肃",
+        "duration": 2.92,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿白色金纹长袍，头部微低，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "浅色绣花长裙",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王妃神情坚定，眼神中透露出警告之意。",
+        "dialogue": "你不是说",
+        "speaker": "王爷",
+        "emotion": "坚定",
+        "duration": 3.32,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色绣花长裙，头部微低，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "浅色绣花长裙",
+                "position": "画面中央",
+                "action": "头部微低",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王妃神情冷峻，似乎在思考对策。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷峻",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和；画面中央人物，身穿浅色绣花长裙，头部微低，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭。"
+    }
+]

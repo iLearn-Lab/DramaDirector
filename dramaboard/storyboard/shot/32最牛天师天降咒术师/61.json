@@ -1,0 +1,816 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心，黑色长裤",
+                "position": "画面右侧",
+                "action": "身体微蹲，双手握拳呈格斗预备姿势",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面左侧远处",
+                "action": "身体前倾弯腰，似乎正在躲避或准备进攻",
+                "expression": "眉毛紧锁，眼睛盯着对手，嘴巴微张"
+            }
+        ],
+        "background": "废弃建筑工地内部，混凝土梁柱结构，光线明亮",
+        "description_narrative": "全景斜角镜头，废弃工地内，张成身穿黑色背心在右侧摆出格斗架势，远处黑衣帽男弯腰对峙，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.97,
+        "description_visual": "全景斜角镜头；废弃建筑工地内部，混凝土梁柱结构，光线明亮；画面右侧人物，身穿黑色无袖背心，黑色长裤，身体微蹲，双手握拳呈格斗预备姿势，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；画面左侧远处人物，身穿黑色长衫，黑色礼帽，身体前倾弯腰，似乎正在躲避或准备进攻，表情：眉毛紧锁，眼睛盯着对手，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面中央",
+                "action": "双手举起一个木制椅子框架作为武器",
+                "expression": "眉毛上扬，眼睛凶狠直视，嘴巴紧闭"
+            }
+        ],
+        "background": "工地混凝土天花板背景，光线从侧面射入",
+        "description_narrative": "仰拍近景推进，黑衣帽男高举木椅框架，表情凶狠，准备发起攻击。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "近景仰拍镜头（推进）；工地混凝土天花板背景，光线从侧面射入；画面中央人物，身穿黑色长衫，黑色礼帽，双手举起一个木制椅子框架作为武器，表情：眉毛上扬，眼睛凶狠直视，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心，黑色长裤",
+                "position": "画面右侧",
+                "action": "双手抓住木椅框架，身体前倾用力拉扯",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴咧开露齿用力"
+            },
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面左侧前景",
+                "action": "背对镜头，手持椅子框架与对方角力",
+                "expression": "不可见"
+            }
+        ],
+        "background": "工地内部，背景有堆积的杂物",
+        "description_narrative": "过肩跟拍镜头，张成抓住黑衣帽男手中的木椅框架，双方激烈争夺，张成表情狰狞用力。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "中近景过肩镜头（跟拍）；工地内部，背景有堆积的杂物；画面右侧人物，身穿黑色无袖背心，黑色长裤，双手抓住木椅框架，身体前倾用力拉扯，表情：眉毛紧皱，眼睛眯起，嘴巴咧开露齿用力；画面左侧前景人物，身穿黑色长衫，黑色礼帽，背对镜头，手持椅子框架与对方角力，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面左侧",
+                "action": "挥舞木椅框架砸向对方",
+                "expression": "眉毛紧锁，眼睛紧盯目标，嘴巴微张"
+            },
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心，黑色长裤",
+                "position": "画面右侧",
+                "action": "身体后仰躲避攻击",
+                "expression": "眉毛上扬，眼睛注视武器，嘴巴紧闭"
+            }
+        ],
+        "background": "工地空旷区域，地面有灰尘",
+        "description_narrative": "斜角摇镜，黑衣帽男挥舞椅子砸向张成，张成迅速后仰躲避，动作幅度大。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.07,
+        "description_visual": "中景斜角镜头（摇镜）；工地空旷区域，地面有灰尘；画面左侧人物，身穿黑色长衫，黑色礼帽，挥舞木椅框架砸向对方，表情：眉毛紧锁，眼睛紧盯目标，嘴巴微张；画面右侧人物，身穿黑色无袖背心，黑色长裤，身体后仰躲避攻击，表情：眉毛上扬，眼睛注视武器，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "手部快速击打靠在柱子上的木板",
+                "expression": "不可见"
+            }
+        ],
+        "background": "混凝土柱子，靠着一块木板",
+        "description_narrative": "特写镜头，一只手快速击打靠在柱子上的木板，发出声响。",
+        "dialogue": "过来过来。",
+        "speaker": "黑衣帽男",
+        "emotion": "挑衅",
+        "duration": 1.17,
+        "description_visual": "特写平拍镜头；混凝土柱子，靠着一块木板；画面中央人物，身穿未知，手部快速击打靠在柱子上的木板，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑纱女",
+                "gender": "女",
+                "clothing": "黑色网纱头饰，黑红条纹上衣",
+                "position": "画面中央",
+                "action": "头部微转，嘴巴张开呼喊",
+                "expression": "眉毛微蹙，眼睛担忧，嘴巴张开"
+            }
+        ],
+        "background": "模糊的工地背景",
+        "description_narrative": "近景固定镜头，被绑的黑纱女面带担忧，张嘴呼喊张成的名字。",
+        "dialogue": "张成。",
+        "speaker": "黑纱女",
+        "emotion": "担忧",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；模糊的工地背景；画面中央人物，身穿黑色网纱头饰，黑红条纹上衣，头部微转，嘴巴张开呼喊，表情：眉毛微蹙，眼睛担忧，嘴巴张开。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白西装女",
+                "gender": "女",
+                "clothing": "白色西装外套，红色连衣裙，珍珠项链",
+                "position": "画面中央",
+                "action": "转头看向打斗方向",
+                "expression": "眉毛舒展，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "工地柱子背景",
+        "description_narrative": "近景固定镜头，白西装女转头看向打斗现场，神情惊讶关注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.33,
+        "description_visual": "近景平拍镜头；工地柱子背景；画面中央人物，身穿白色西装外套，红色连衣裙，珍珠项链，转头看向打斗方向，表情：眉毛舒展，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心，黑色长裤",
+                "position": "画面中央",
+                "action": "背靠柱子，双手张开，身体微倾",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张大惊呼"
+            }
+        ],
+        "background": "混凝土柱子，背景明亮",
+        "description_narrative": "中近景固定镜头，张成背靠柱子，双手张开，表情震惊地看着前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "中近景平拍镜头；混凝土柱子，背景明亮；画面中央人物，身穿黑色无袖背心，黑色长裤，背靠柱子，双手张开，身体微倾，表情：眉毛上扬，眼睛睁大，嘴巴张大惊呼。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面中央",
+                "action": "身体前倾快速奔跑冲向镜头",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "工地内部，地面粗糙",
+        "description_narrative": "低角度跟拍，黑衣帽男前倾身体快速冲向镜头，气势汹汹。",
+        "dialogue": "滚。",
+        "speaker": "张成",
+        "emotion": "愤怒",
+        "duration": 1.0,
+        "description_visual": "中景低角度镜头（跟拍）；工地内部，地面粗糙；画面中央人物，身穿黑色长衫，黑色礼帽，身体前倾快速奔跑冲向镜头，表情：眉毛紧锁，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "斜角",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "挥舞木板击打对方",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴咧开用力"
+            },
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面右侧",
+                "action": "背对镜头承受攻击",
+                "expression": "不可见"
+            }
+        ],
+        "background": "工地地面",
+        "description_narrative": "斜角摇镜，张成挥舞木板猛烈击打黑衣帽男，动作模糊显示速度极快。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.57,
+        "description_visual": "中近景斜角镜头（摇镜）；工地地面；画面左侧人物，身穿黑色无袖背心，黑色长裤，挥舞木板击打对方，表情：眉毛紧皱，眼睛眯起，嘴巴咧开用力；画面右侧人物，身穿黑色长衫，黑色礼帽，背对镜头承受攻击，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心",
+                "position": "画面中央",
+                "action": "手臂挥动，身体扭转",
+                "expression": "眉毛紧锁，眼睛注视目标，嘴巴微张"
+            }
+        ],
+        "background": "模糊的工地背景",
+        "description_narrative": "特写镜头，张成手臂快速挥动，身体扭转发力，动作带有残影。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；模糊的工地背景；画面中央人物，身穿黑色无袖背心，手臂挥动，身体扭转，表情：眉毛紧锁，眼睛注视目标，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面中央",
+                "action": "身体失去平衡向后倒下",
+                "expression": "眉毛紧皱，眼睛紧闭，嘴巴微张痛苦"
+            }
+        ],
+        "background": "工地地面",
+        "description_narrative": "中景固定镜头，黑衣帽男被击中后身体失去平衡，向后摔倒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "中景平拍镜头；工地地面；画面中央人物，身穿黑色长衫，黑色礼帽，身体失去平衡向后倒下，表情：眉毛紧皱，眼睛紧闭，嘴巴微张痛苦。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫",
+                "position": "画面中央",
+                "action": "身体倒在地上滚动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "粗糙的水泥地面",
+        "description_narrative": "俯拍摇镜，黑衣帽男倒在地上滚动，画面模糊显示动作迅速。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.67,
+        "description_visual": "近景俯拍镜头（摇镜）；粗糙的水泥地面；画面中央人物，身穿黑色长衫，身体倒在地上滚动，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心，黑色长裤",
+                "position": "画面中央",
+                "action": "单腿站立，另一条腿抬起做踢击动作",
+                "expression": "眉毛紧锁，眼睛注视下方，嘴巴紧闭"
+            }
+        ],
+        "background": "工地柱子旁",
+        "description_narrative": "跟拍镜头，张成单腿站立，抬起另一条腿做出踢击动作，姿态矫健。",
+        "dialogue": "哎呦。",
+        "speaker": "黑衣帽男",
+        "emotion": "痛苦",
+        "duration": 0.73,
+        "description_visual": "中景平拍镜头（跟拍）；工地柱子旁；画面中央人物，身穿黑色无袖背心，黑色长裤，单腿站立，另一条腿抬起做踢击动作，表情：眉毛紧锁，眼睛注视下方，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面中央",
+                "action": "趴在地上，双手撑地，嘴角流血",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴流血紧闭"
+            }
+        ],
+        "background": "水泥地面",
+        "description_narrative": "低角度近景，黑衣帽男趴在地上，嘴角带血，眼神不甘地看向一侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.03,
+        "description_visual": "近景低角度镜头；水泥地面；画面中央人物，身穿黑色长衫，黑色礼帽，趴在地上，双手撑地，嘴角流血，表情：眉毛微蹙，眼睛斜视，嘴巴流血紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "拉远",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心，黑色长裤",
+                "position": "画面中央",
+                "action": "站立，身体微侧，双手自然下垂",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "空旷的工地大厅",
+        "description_narrative": "全景拉远镜头，张成站在空旷的工地中央，姿态放松，看着倒地的对手。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 9.73,
+        "description_visual": "全景平拍镜头（拉远）；空旷的工地大厅；画面中央人物，身穿黑色无袖背心，黑色长裤，站立，身体微侧，双手自然下垂，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面下方",
+                "action": "抬头看向镜头，一只脚踩在他面前",
+                "expression": "眉毛上扬，眼睛睁大惊恐，嘴巴微张"
+            },
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色长裤，黑色皮鞋",
+                "position": "画面右上方",
+                "action": "脚部特写，踩在地面或对方身上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "工地地面",
+        "description_narrative": "低角度推进，黑衣帽男惊恐地抬头看着面前的脚，表情震惊。",
+        "dialogue": "呀啊。",
+        "speaker": "黑衣帽男",
+        "emotion": "惊恐",
+        "duration": 1.7,
+        "description_visual": "中近景低角度镜头（推进）；工地地面；画面下方人物，身穿黑色长衫，黑色礼帽，抬头看向镜头，一只脚踩在他面前，表情：眉毛上扬，眼睛睁大惊恐，嘴巴微张；画面右上方人物，身穿黑色长裤，黑色皮鞋，脚部特写，踩在地面或对方身上，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "深色衣物",
+                "position": "画面中央",
+                "action": "快速移动，画面模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的地面",
+        "description_narrative": "特写摇镜，画面快速移动模糊，显示有人快速经过或动作。",
+        "dialogue": "嘘。",
+        "speaker": "马甲男",
+        "emotion": "轻蔑",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的地面；画面中央人物，身穿深色衣物，快速移动，画面模糊，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲男",
+                "gender": "男",
+                "clothing": "粉色衬衫，灰色格纹马甲，蓝色领巾",
+                "position": "画面中央",
+                "action": "侧头看向一侧，表情平静",
+                "expression": "眉毛舒展，眼睛平视，嘴巴紧闭"
+            }
+        ],
+        "background": "工地梁柱背景",
+        "description_narrative": "近景固定镜头，马甲男侧头看向打斗方向，神情淡定冷漠。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.37,
+        "description_visual": "近景平拍镜头；工地梁柱背景；画面中央人物，身穿粉色衬衫，灰色格纹马甲，蓝色领巾，侧头看向一侧，表情平静，表情：眉毛舒展，眼睛平视，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣帽男",
+                "gender": "男",
+                "clothing": "黑色长衫，黑色礼帽",
+                "position": "画面中央",
+                "action": "躺在地上，嘴角流血，抬头看",
+                "expression": "眉毛紧皱，眼睛半睁，嘴巴流血微张"
+            }
+        ],
+        "background": "地面",
+        "description_narrative": "俯拍特写，黑衣帽男满脸是血躺在地上，眼神痛苦。",
+        "dialogue": "靠 废物",
+        "speaker": "马甲男",
+        "emotion": "愤怒",
+        "duration": 1.73,
+        "description_visual": "特写俯拍镜头；地面；画面中央人物，身穿黑色长衫，黑色礼帽，躺在地上，嘴角流血，抬头看，表情：眉毛紧皱，眼睛半睁，嘴巴流血微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面",
+        "description_narrative": "黑屏画面，只有声音。",
+        "dialogue": "不可能 你的速度 怎么这么快",
+        "speaker": "黑衣帽男",
+        "emotion": "震惊",
+        "duration": 6.43,
+        "description_visual": "全景平拍镜头；全黑画面。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色长裤",
+                "position": "画面右侧",
+                "action": "手握一把黑色折叠刀",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的工地背景",
+        "description_narrative": "特写镜头，张成手中紧握一把黑色折叠刀，指节用力发白。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.83,
+        "description_visual": "特写平拍镜头；模糊的工地背景；画面右侧人物，身穿黑色长裤，手握一把黑色折叠刀，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲男",
+                "gender": "男",
+                "clothing": "粉色衬衫，灰色格纹马甲，蓝色领巾",
+                "position": "画面中央",
+                "action": "低头看向下方，嘴角微扬",
+                "expression": "眉毛微挑，眼睛下视，嘴巴微张带笑"
+            }
+        ],
+        "background": "工地天花板梁柱",
+        "description_narrative": "仰拍近景，马甲男低头俯视，嘴角带着一丝轻蔑的笑意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.83,
+        "description_visual": "近景仰拍镜头；工地天花板梁柱；画面中央人物，身穿粉色衬衫，灰色格纹马甲，蓝色领巾，低头看向下方，嘴角微扬，表情：眉毛微挑，眼睛下视，嘴巴微张带笑。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色长裤，黑色皮鞋",
+                "position": "画面上方",
+                "action": "脚部特写，踩在有水渍的地面上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "布满水渍脚印的水泥地面",
+        "description_narrative": "俯拍跟拍，张成的黑皮鞋踩在布满水渍和脚印的地面上，向前走动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.33,
+        "description_visual": "特写俯拍镜头（跟拍）；布满水渍脚印的水泥地面；画面上方人物，身穿黑色长裤，黑色皮鞋，脚部特写，踩在有水渍的地面上，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心，黑色长裤",
+                "position": "画面右侧",
+                "action": "弯腰低头，似乎在捡东西或行礼",
+                "expression": "不可见"
+            },
+            {
+                "name": "马甲男",
+                "gender": "男",
+                "clothing": "粉色衬衫，灰色格纹马甲",
+                "position": "画面左侧背景",
+                "action": "站立，手搭在黑纱女肩上",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑纱女",
+                "gender": "女",
+                "clothing": "黑色网纱头饰，黑红条纹上衣",
+                "position": "画面左侧背景",
+                "action": "被绑在椅子上",
+                "expression": "不可见"
+            },
+            {
+                "name": "白西装女",
+                "gender": "女",
+                "clothing": "白色西装外套，红色连衣裙",
+                "position": "画面左侧",
+                "action": "站立观看",
+                "expression": "不可见"
+            }
+        ],
+        "background": "工地大厅，有桌子和锅",
+        "description_narrative": "斜角全景，张成在右侧弯腰，远处马甲男控制着两名女子，现场有桌子和锅具。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.53,
+        "description_visual": "全景斜角镜头；工地大厅，有桌子和锅；画面右侧人物，身穿黑色无袖背心，黑色长裤，弯腰低头，似乎在捡东西或行礼，表情：不可见；画面左侧背景人物，身穿粉色衬衫，灰色格纹马甲，站立，手搭在黑纱女肩上，表情：不可见；画面左侧背景人物，身穿黑色网纱头饰，黑红条纹上衣，被绑在椅子上，表情：不可见；画面左侧人物，身穿白色西装外套，红色连衣裙，站立观看，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑纱女",
+                "gender": "女",
+                "clothing": "黑色网纱头饰，黑红条纹上衣",
+                "position": "画面中央",
+                "action": "头部微转，嘴巴张开呼喊",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张开"
+            }
+        ],
+        "background": "模糊的工地背景",
+        "description_narrative": "近景固定镜头，黑纱女再次呼喊张成的名字，神情急切。",
+        "dialogue": "张成",
+        "speaker": "黑纱女",
+        "emotion": "急切",
+        "duration": 0.87,
+        "description_visual": "近景平拍镜头；模糊的工地背景；画面中央人物，身穿黑色网纱头饰，黑红条纹上衣，头部微转，嘴巴张开呼喊，表情：眉毛微蹙，眼睛注视前方，嘴巴张开。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白西装女",
+                "gender": "女",
+                "clothing": "白色西装外套，红色连衣裙",
+                "position": "画面中央",
+                "action": "眼睛睁大，嘴巴张开",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开惊讶"
+            }
+        ],
+        "background": "工地背景",
+        "description_narrative": "近景固定镜头，白西装女表情极度惊讶，嘴巴张大。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；工地背景；画面中央人物，身穿白色西装外套，红色连衣裙，眼睛睁大，嘴巴张开，表情：眉毛上扬，眼睛睁大，嘴巴张开惊讶。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑纱女",
+                "gender": "女",
+                "clothing": "黑色网纱头饰，黑红条纹上衣",
+                "position": "画面中央",
+                "action": "手指指向镜头方向",
+                "expression": "眉毛紧锁，眼睛怒视，嘴巴张开斥责"
+            }
+        ],
+        "background": "工地柱子背景",
+        "description_narrative": "近景固定镜头，黑纱女愤怒地指着前方，大声斥责对方是禽兽。",
+        "dialogue": "你们这帮禽兽",
+        "speaker": "黑纱女",
+        "emotion": "愤怒",
+        "duration": 2.07,
+        "description_visual": "近景平拍镜头；工地柱子背景；画面中央人物，身穿黑色网纱头饰，黑红条纹上衣，手指指向镜头方向，表情：眉毛紧锁，眼睛怒视，嘴巴张开斥责。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲男",
+                "gender": "男",
+                "clothing": "粉色衬衫，灰色格纹马甲，蓝色领巾",
+                "position": "画面中央",
+                "action": "面带微笑，头部微侧",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴微张"
+            }
+        ],
+        "background": "工地梁柱背景",
+        "description_narrative": "近景固定镜头，马甲男面带微笑，对女子的威胁不以为意。",
+        "dialogue": "我一定要将你们碎尸万段",
+        "speaker": "黑纱女",
+        "emotion": "威胁",
+        "duration": 3.03,
+        "description_visual": "近景平拍镜头；工地梁柱背景；画面中央人物，身穿粉色衬衫，灰色格纹马甲，蓝色领巾，面带微笑，头部微侧，表情：眉毛舒展，眼睛眯起笑，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张成",
+                "gender": "男",
+                "clothing": "黑色无袖背心",
+                "position": "画面中央",
+                "action": "抬头看向对方，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "工地天花板",
+        "description_narrative": "仰拍近景，张成抬头看着对方，神情严肃，听着对方的嘲讽。",
+        "dialogue": "都什么年代了",
+        "speaker": "马甲男",
+        "emotion": "嘲讽",
+        "duration": 2.03,
+        "description_visual": "近景仰拍镜头；工地天花板；画面中央人物，身穿黑色无袖背心，抬头看向对方，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲男",
+                "gender": "男",
+                "clothing": "粉色衬衫，灰色格纹马甲，蓝色领巾",
+                "position": "画面中央",
+                "action": "身体前倾，张嘴大笑",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴张大狂笑"
+            }
+        ],
+        "background": "工地梁柱",
+        "description_narrative": "仰拍中近景，马甲男前倾身体，嘲笑现在还用刀打打杀杀。",
+        "dialogue": "还用刀打打杀杀 哈哈",
+        "speaker": "马甲男",
+        "emotion": "嘲笑",
+        "duration": 1.53,
+        "description_visual": "中近景仰拍镜头；工地梁柱；画面中央人物，身穿粉色衬衫，灰色格纹马甲，蓝色领巾，身体前倾，张嘴大笑，表情：眉毛上扬，眼睛眯起，嘴巴张大狂笑。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲男",
+                "gender": "男",
+                "clothing": "粉色衬衫，灰色格纹马甲",
+                "position": "画面中央",
+                "action": "身体微侧，继续大笑",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴张开笑"
+            }
+        ],
+        "background": "工地背景，黑白滤镜",
+        "description_narrative": "仰拍中近景，画面转为黑白，马甲男继续嘲笑冷兵器过时。",
+        "dialogue": "还用刀打打杀杀",
+        "speaker": "马甲男",
+        "emotion": "嘲笑",
+        "duration": 0.93,
+        "description_visual": "中近景仰拍镜头；工地背景，黑白滤镜；画面中央人物，身穿粉色衬衫，灰色格纹马甲，身体微侧，继续大笑，表情：眉毛舒展，眼睛注视前方，嘴巴张开笑。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲男",
+                "gender": "男",
+                "clothing": "粉色衬衫，灰色格纹马甲",
+                "position": "画面中央",
+                "action": "身体微侧，表情得意",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张带笑"
+            }
+        ],
+        "background": "工地背景",
+        "description_narrative": "仰拍中近景，马甲男一脸得意，发出最后的嘲笑声。",
+        "dialogue": "哈哈",
+        "speaker": "马甲男",
+        "emotion": "得意",
+        "duration": 1.57,
+        "description_visual": "中近景仰拍镜头；工地背景；画面中央人物，身穿粉色衬衫，灰色格纹马甲，身体微侧，表情得意，表情：眉毛微挑，眼睛斜视，嘴巴微张带笑。"
+    }
+]

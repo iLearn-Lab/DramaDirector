@@ -1,0 +1,306 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯灰色背景，无明显物体，光线均匀",
+        "description_narrative": "画面呈现纯灰色背景，无具体人物或物体，作为场景过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "远景平拍镜头；纯灰色背景，无明显物体，光线均匀。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色西装，内搭条纹衬衫",
+                "position": "画面左侧",
+                "action": "右手持黑色手机贴在右耳旁，身体略微侧向镜头",
+                "expression": "面部模糊，嘴角微张，似乎正在通话"
+            }
+        ],
+        "background": "模糊的室内背景，色调偏冷灰",
+        "description_narrative": "镜头聚焦于西装男的侧脸特写，画面略显模糊，他身穿深色西装，正手持手机贴在耳边进行通话。",
+        "dialogue": "我的事情完成了",
+        "speaker": "西装男",
+        "emotion": "冷静",
+        "duration": 0.92,
+        "description_visual": "特写平拍镜头；模糊的室内背景，色调偏冷灰；画面左侧人物，身穿深色西装，内搭条纹衬衫，右手持黑色手机贴在右耳旁，身体略微侧向镜头，表情：面部模糊，嘴角微张，似乎正在通话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夹克男",
+                "gender": "男",
+                "clothing": "深色中式立领夹克，内搭条纹衬衫",
+                "position": "画面左侧",
+                "action": "左手持手机贴在左耳，身体侧向窗户，目光望向窗外",
+                "expression": "眉毛舒展，眼神锐利，嘴角微动正在说话"
+            }
+        ],
+        "background": "室内窗边，米色百叶窗透入自然光",
+        "description_narrative": "夹克男站在窗边，身穿深色中式夹克，一手持手机通话，目光透过百叶窗望向室外，神情显得颇为得意。",
+        "dialogue": "剩下就交给你们了",
+        "speaker": "夹克男",
+        "emotion": "得意",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；室内窗边，米色百叶窗透入自然光；画面左侧人物，身穿深色中式立领夹克，内搭条纹衬衫，左手持手机贴在左耳，身体侧向窗户，目光望向窗外，表情：眉毛舒展，眼神锐利，嘴角微动正在说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白色背景，无其他视觉元素",
+        "description_narrative": "画面转为纯白色，作为转场，伴随画外音对话。",
+        "dialogue": "你看着他倒下的吗？我亲眼看着他倒下的，而且那个姓王的说把他送到医院，他终于倒下了。可好，我这边准备施压，终于等到这天。",
+        "speaker": "西装男 / 夹克男",
+        "emotion": "阴险",
+        "duration": 10.28,
+        "description_visual": "远景平拍镜头；纯白色背景，无其他视觉元素。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色吊带衫，佩戴银色项链",
+                "position": "画面右侧",
+                "action": "坐在副驾驶座，系着安全带，头部微侧看向左前方",
+                "expression": "眉毛微蹙，眼神低垂，嘴唇紧闭，神情忧虑"
+            }
+        ],
+        "background": "车内环境，车窗外可见模糊的绿植",
+        "description_narrative": "棕衣女子坐在车内副驾驶座，身穿棕色吊带衫，长发佩戴黑色蝴蝶结，神情凝重地望向车窗外。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "担忧",
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；车内环境，车窗外可见模糊的绿植；画面右侧人物，身穿棕色吊带衫，佩戴银色项链，坐在副驾驶座，系着安全带，头部微侧看向左前方，表情：眉毛微蹙，眼神低垂，嘴唇紧闭，神情忧虑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面左侧",
+                "action": "双手握方向盘驾驶车辆，头部微转看向前方",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张正在说话"
+            }
+        ],
+        "background": "驾驶座视角，车窗外可见街道和树木",
+        "description_narrative": "白衣男子正在驾驶车辆，身穿白色衬衫，神情冷静，一边开车一边开口询问关于爷爷的情况。",
+        "dialogue": "我爷爷怎么会又倒下了呢？",
+        "speaker": "白衣男子",
+        "emotion": "疑惑",
+        "duration": 2.8,
+        "description_visual": "中近景平拍镜头（跟拍）；驾驶座视角，车窗外可见街道和树木；画面左侧人物，身穿白色立领衬衫，双手握方向盘驾驶车辆，头部微转看向前方，表情：眉毛微挑，眼睛直视前方，嘴巴微张正在说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色吊带衫，佩戴银色项链",
+                "position": "画面中央",
+                "action": "身体转向驾驶员方向，头部微抬",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张，显露震惊"
+            }
+        ],
+        "background": "车内副驾驶座，背景虚化",
+        "description_narrative": "棕衣女子转头看向驾驶员，眼神中充满震惊与不可置信，脱口而出爷爷中毒的真相。",
+        "dialogue": "有人下毒。",
+        "speaker": "棕衣女子",
+        "emotion": "震惊",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；车内副驾驶座，背景虚化；画面中央人物，身穿棕色吊带衫，佩戴银色项链，身体转向驾驶员方向，头部微抬，表情：眉毛紧锁，眼睛睁大，嘴巴微张，显露震惊。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面左侧",
+                "action": "手握方向盘，目视前方，头部保持正直",
+                "expression": "眉毛平展，眼神沉稳，嘴唇微动"
+            }
+        ],
+        "background": "驾驶座视角，车窗外光线明亮",
+        "description_narrative": "白衣男子继续驾驶，神情严肃，坦言自己目前也不知道具体的下毒者是谁。",
+        "dialogue": "但是具体是谁我也不知道，",
+        "speaker": "白衣男子",
+        "emotion": "严肃",
+        "duration": 3.72,
+        "description_visual": "中近景平拍镜头（跟拍）；驾驶座视角，车窗外光线明亮；画面左侧人物，身穿白色立领衬衫，手握方向盘，目视前方，头部保持正直，表情：眉毛平展，眼神沉稳，嘴唇微动。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色吊带衫，佩戴银色项链",
+                "position": "画面中央",
+                "action": "身体微向前倾，目光注视驾驶员",
+                "expression": "眉头紧皱，眼神焦急，嘴巴微张询问"
+            }
+        ],
+        "background": "车内副驾驶座，自然光照射",
+        "description_narrative": "棕衣女子面露难色，焦急地询问接下来应该采取什么应对措施。",
+        "dialogue": "那我们应该怎么办？",
+        "speaker": "棕衣女子",
+        "emotion": "焦急",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；车内副驾驶座，自然光照射；画面中央人物，身穿棕色吊带衫，佩戴银色项链，身体微向前倾，目光注视驾驶员，表情：眉头紧皱，眼神焦急，嘴巴微张询问。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面左侧",
+                "action": "驾驶车辆，头部微侧，似乎在倾听或思考",
+                "expression": "眉毛微蹙，眼神深邃，嘴唇闭合"
+            }
+        ],
+        "background": "驾驶座视角，车外景物后退",
+        "description_narrative": "镜头对准白衣男子，此时画外音响起棕衣女子的声音，质疑身边忠诚的人不会害爷爷。",
+        "dialogue": "这些人都忠心耿耿，谁会害爷爷啊？",
+        "speaker": "棕衣女子",
+        "emotion": "难以置信",
+        "duration": 3.72,
+        "description_visual": "中近景平拍镜头（跟拍）；驾驶座视角，车外景物后退；画面左侧人物，身穿白色立领衬衫，驾驶车辆，头部微侧，似乎在倾听或思考，表情：眉毛微蹙，眼神深邃，嘴唇闭合。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色吊带衫，佩戴银色项链",
+                "position": "画面中央",
+                "action": "目光低垂，头部微低，身体静止",
+                "expression": "眉毛紧锁，眼神黯淡，嘴角下撇，神情悲伤"
+            }
+        ],
+        "background": "车内副驾驶座，光线柔和",
+        "description_narrative": "棕衣女子低头沉思，神情落寞，画外音传来白衣男子感叹人心难测的声音。",
+        "dialogue": "人心难测，心面不一的人太多了，我们先静观其变吧。",
+        "speaker": "白衣男子",
+        "emotion": "无奈",
+        "duration": 5.4,
+        "description_visual": "中近景平拍镜头；车内副驾驶座，光线柔和；画面中央人物，身穿棕色吊带衫，佩戴银色项链，目光低垂，头部微低，身体静止，表情：眉毛紧锁，眼神黯淡，嘴角下撇，神情悲伤。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色吊带衫，佩戴银色项链",
+                "position": "画面中央",
+                "action": "头部微抬，目光坚定看向前方",
+                "expression": "眉毛微扬，眼神坚定，嘴唇紧闭"
+            }
+        ],
+        "background": "车内环境，画面带有重影特效",
+        "description_narrative": "画面出现重影特效，棕衣女子神情逐渐转为坚定，画外音中白衣男子承诺一定会抓到真凶。",
+        "dialogue": "不过我一定会抓到那个人。",
+        "speaker": "白衣男子",
+        "emotion": "坚定",
+        "duration": 5.0,
+        "description_visual": "中近景平拍镜头；车内环境，画面带有重影特效；画面中央人物，身穿棕色吊带衫，佩戴银色项链，头部微抬，目光坚定看向前方，表情：眉毛微扬，眼神坚定，嘴唇紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色吊带衫，佩戴银色项链",
+                "position": "画面中央",
+                "action": "静坐，目光注视前方",
+                "expression": "眉毛舒展，眼神平静，嘴唇微闭"
+            }
+        ],
+        "background": "车内副驾驶座，背景清晰",
+        "description_narrative": "棕衣女子坐在车内，神情恢复平静，默默听着对方的话语。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；车内副驾驶座，背景清晰；画面中央人物，身穿棕色吊带衫，佩戴银色项链，静坐，目光注视前方，表情：眉毛舒展，眼神平静，嘴唇微闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色吊带衫，佩戴银色项链",
+                "position": "画面中央",
+                "action": "静坐，目光略微下移",
+                "expression": "眉毛微蹙，眼神若有所思，嘴唇紧闭"
+            }
+        ],
+        "background": "车内副驾驶座，自然光",
+        "description_narrative": "棕衣女子继续保持静坐姿态，眼神中流露出一丝复杂的情绪，似乎在消化刚才的信息。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 0.96,
+        "description_visual": "中近景平拍镜头；车内副驾驶座，自然光；画面中央人物，身穿棕色吊带衫，佩戴银色项链，静坐，目光略微下移，表情：眉毛微蹙，眼神若有所思，嘴唇紧闭。"
+    }
+]

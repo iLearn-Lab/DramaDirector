@@ -1,0 +1,619 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体。",
+        "description_narrative": "画面全黑，无可见人物或物体，持续3.28秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体。",
+        "description_narrative": "画面持续全黑，无可见内容，持续7.04秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 7.04,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色饰有安全别针的连衣裙",
+                "position": "画面中央",
+                "action": "右手扶额，眉头紧锁，身体微侧靠在沙发上",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张显露痛苦"
+            }
+        ],
+        "background": "室内客厅，背景有白色书架，光线明亮柔和。",
+        "description_narrative": "中近景固定镜头，苏总身穿黑色饰有安全别针的连衣裙，坐在沙发上，右手扶额，眉头紧锁，眼睛紧闭，嘴巴微张，显露出刚醒来时的头痛和迷茫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦/迷茫",
+        "duration": 3.84,
+        "description_visual": "中近景平拍镜头；室内客厅，背景有白色书架，光线明亮柔和。；画面中央人物，身穿黑色饰有安全别针的连衣裙，右手扶额，眉头紧锁，身体微侧靠在沙发上，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张显露痛苦。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服，佩戴BA0103胸牌",
+                "position": "画面中央",
+                "action": "头部后仰靠在沙发背上，双眼闭合，似乎刚被惊醒",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张发出声音"
+            }
+        ],
+        "background": "室内客厅，背景模糊可见书架，光线自然。",
+        "description_narrative": "中近景固定镜头，年轻保安身穿浅蓝色制服，头部后仰靠在沙发上，双眼闭合，嘴巴微张发出“啊”的声音，似乎刚从睡梦中被惊醒或感到不适。",
+        "dialogue": "啊",
+        "speaker": "年轻保安",
+        "emotion": "困倦/惊醒",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；室内客厅，背景模糊可见书架，光线自然。；画面中央人物，身穿浅蓝色保安制服，佩戴BA0103胸牌，头部后仰靠在沙发背上，双眼闭合，似乎刚被惊醒，表情：眉毛舒展，眼睛闭合，嘴巴微张发出声音。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色饰有安全别针的连衣裙，手持白色衣物",
+                "position": "画面中央",
+                "action": "双手紧紧抓着白色衣物遮挡胸前，身体后缩",
+                "expression": "眉毛紧蹙，眼睛向下看，嘴巴紧闭显露厌恶"
+            }
+        ],
+        "background": "室内客厅，白色书架背景，光线明亮。",
+        "description_narrative": "中景固定镜头，苏总坐在沙发上，双手紧紧抓着白色衣物遮挡在胸前，身体后缩，眉头紧锁，眼神向下，嘴巴紧闭，显露出惊恐和厌恶，口中骂道“臭流氓”。",
+        "dialogue": "臭流氓",
+        "speaker": "苏总",
+        "emotion": "愤怒/惊恐",
+        "duration": 2.64,
+        "description_visual": "中景平拍镜头；室内客厅，白色书架背景，光线明亮。；画面中央人物，身穿黑色饰有安全别针的连衣裙，手持白色衣物，双手紧紧抓着白色衣物遮挡胸前，身体后缩，表情：眉毛紧蹙，眼睛向下看，嘴巴紧闭显露厌恶。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "右手捂住腹部，身体微侧，头部转向一侧",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴微张显露困惑"
+            }
+        ],
+        "background": "室内客厅，背景模糊，光线柔和。",
+        "description_narrative": "中近景固定镜头，年轻保安坐在沙发上，右手捂住腹部，身体微侧，头部转向一侧，眉毛微蹙，眼神困惑，嘴巴微张，问道“你对我做了什么呀”。",
+        "dialogue": "你对我做了什么呀",
+        "speaker": "年轻保安",
+        "emotion": "困惑/不适",
+        "duration": 3.24,
+        "description_visual": "中近景平拍镜头；室内客厅，背景模糊，光线柔和。；画面中央人物，身穿浅蓝色保安制服，右手捂住腹部，身体微侧，头部转向一侧，表情：眉毛微蹙，眼睛看向下方，嘴巴微张显露困惑。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙，手持白色衣物",
+                "position": "画面中央",
+                "action": "双手抓着衣物，身体紧绷，眼神惊恐地看向一侧",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张显露震惊"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中近景固定镜头，苏总双手抓着白色衣物，身体紧绷，眼神惊恐地看向一侧，眉毛上扬，眼睛睁大，嘴巴微张。画外音响起年轻保安的声音：“苏总，昨天晚上可是你拉着我”。",
+        "dialogue": "苏总 昨天晚上可是你拉着我",
+        "speaker": "年轻保安",
+        "emotion": "震惊/恐惧",
+        "duration": 3.36,
+        "description_visual": "中近景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色连衣裙，手持白色衣物，双手抓着衣物，身体紧绷，眼神惊恐地看向一侧，表情：眉毛上扬，眼睛睁大，嘴巴微张显露震惊。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "双手正在整理衬衫扣子，身体后靠",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张正在说话"
+            }
+        ],
+        "background": "室内客厅，背景可见楼梯，光线自然。",
+        "description_narrative": "中近景固定镜头，年轻保安身体后靠，双手正在整理衬衫扣子，眉毛微挑，眼神看向一侧，嘴巴微张，继续解释道“不让我走的，我，不可能”。",
+        "dialogue": "不让我走的 我 不可能",
+        "speaker": "年轻保安",
+        "emotion": "认真/解释",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；室内客厅，背景可见楼梯，光线自然。；画面中央人物，身穿浅蓝色保安制服，双手正在整理衬衫扣子，身体后靠，表情：眉毛微挑，眼睛看向一侧，嘴巴微张正在说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙，手持白色衣物",
+                "position": "画面中央",
+                "action": "双手紧紧抱着白色衣物，身体侧倾靠在沙发扶手上",
+                "expression": "眉毛紧蹙，眼睛看向左侧，嘴巴紧闭显露怀疑"
+            }
+        ],
+        "background": "室内客厅，白色书架背景，光线明亮。",
+        "description_narrative": "中景固定镜头，苏总双手紧紧抱着白色衣物，身体侧倾靠在沙发扶手上，眉毛紧蹙，眼神看向左侧，嘴巴紧闭，显露出对保安话语的怀疑和警惕。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "怀疑/警惕",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；室内客厅，白色书架背景，光线明亮。；画面中央人物，身穿黑色连衣裙，手持白色衣物，双手紧紧抱着白色衣物，身体侧倾靠在沙发扶手上，表情：眉毛紧蹙，眼睛看向左侧，嘴巴紧闭显露怀疑。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "身体前倾，手肘撑在沙发靠背上，眼神直视前方",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张显露认真"
+            }
+        ],
+        "background": "室内客厅，背景模糊，光线柔和。",
+        "description_narrative": "特写固定镜头，年轻保安身体前倾，手肘撑在沙发靠背上，眼神直视前方，眉毛舒展，嘴巴微张，认真地说道“你是我第一个女人”。",
+        "dialogue": "你是我第一个女人",
+        "speaker": "年轻保安",
+        "emotion": "认真/深情",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；室内客厅，背景模糊，光线柔和。；画面中央人物，身穿浅蓝色保安制服，身体前倾，手肘撑在沙发靠背上，眼神直视前方，表情：眉毛舒展，眼睛直视，嘴巴微张显露认真。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙，手持白色衣物",
+                "position": "画面中央",
+                "action": "双手抓着衣物，身体后仰，眼神震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张显露不可置信"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中景固定镜头，苏总双手抓着衣物，身体后仰，眼神震惊，眉毛上扬，眼睛睁大，嘴巴微张。画外音响起年轻保安的声音：“我会对你负责的”。",
+        "dialogue": "我会对你负责的",
+        "speaker": "年轻保安",
+        "emotion": "震惊/不可置信",
+        "duration": 4.6,
+        "description_visual": "中景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色连衣裙，手持白色衣物，双手抓着衣物，身体后仰，眼神震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张显露不可置信。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "身体后靠，左手搭在沙发背上，眼神看向一侧",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张显露倾听"
+            }
+        ],
+        "background": "室内客厅，背景模糊，光线自然。",
+        "description_narrative": "中近景固定镜头，年轻保安身体后靠，左手搭在沙发背上，眼神看向一侧，眉毛微蹙，嘴巴微张，正在倾听。画外音响起苏总的声音：“负责？你拿什么负责？拿你一个月那点工资吗”。",
+        "dialogue": "负责 你拿什么负责 拿你一个月那点工资吗",
+        "speaker": "苏总",
+        "emotion": "倾听/无奈",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；室内客厅，背景模糊，光线自然。；画面中央人物，身穿浅蓝色保安制服，身体后靠，左手搭在沙发背上，眼神看向一侧，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张显露倾听。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙，手持白色衣物",
+                "position": "画面中央",
+                "action": "双手抱着衣物，低头看向下方，神情沮丧",
+                "expression": "眉毛下垂，眼睛向下看，嘴巴微张显露无奈"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中景固定镜头，苏总双手抱着衣物，低头看向下方，神情沮丧，眉毛下垂，嘴巴微张，无奈地说道“算了，你走吧，就当昨天晚上什么都没有发生过”。",
+        "dialogue": "算了 你走吧 就当昨天晚上 什么都没有发生过",
+        "speaker": "苏总",
+        "emotion": "无奈/沮丧",
+        "duration": 5.12,
+        "description_visual": "中景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色连衣裙，手持白色衣物，双手抱着衣物，低头看向下方，神情沮丧，表情：眉毛下垂，眼睛向下看，嘴巴微张显露无奈。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "双手正在扣衬衫扣子，低头看着胸口",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴紧闭显露专注"
+            }
+        ],
+        "background": "室内客厅，背景可见楼梯，光线自然。",
+        "description_narrative": "中近景固定镜头，年轻保安双手正在扣衬衫扣子，低头看着胸口，眉毛微蹙，嘴巴紧闭，专注于整理衣物，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；室内客厅，背景可见楼梯，光线自然。；画面中央人物，身穿浅蓝色保安制服，双手正在扣衬衫扣子，低头看着胸口，表情：眉毛微蹙，眼睛向下看，嘴巴紧闭显露专注。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙，手持白色衣物",
+                "position": "画面中央",
+                "action": "双手拿着白色衣物，眼神看向一侧，神情复杂",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张显露犹豫"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中景固定镜头，苏总双手拿着白色衣物，眼神看向一侧，神情复杂，眉毛微蹙，嘴巴微张。画外音响起年轻保安的声音：“我说过对你负责”。",
+        "dialogue": "我说过对你负责",
+        "speaker": "年轻保安",
+        "emotion": "犹豫/复杂",
+        "duration": 0.84,
+        "description_visual": "中景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色连衣裙，手持白色衣物，双手拿着白色衣物，眼神看向一侧，神情复杂，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张显露犹豫。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "头部微侧，眼神坚定地看着前方",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张显露坚定"
+            }
+        ],
+        "background": "室内客厅，背景模糊，光线自然。",
+        "description_narrative": "特写固定镜头，年轻保安头部微侧，眼神坚定地看着前方，眉毛微挑，嘴巴微张，坚定地说道“就一定会对你负责”。",
+        "dialogue": "就一定会对你负责",
+        "speaker": "年轻保安",
+        "emotion": "坚定",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；室内客厅，背景模糊，光线自然。；画面中央人物，身穿浅蓝色保安制服，头部微侧，眼神坚定地看着前方，表情：眉毛微挑，眼睛直视，嘴巴微张显露坚定。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙，手持白色衣物",
+                "position": "画面中央",
+                "action": "双手抱着衣物，眼神轻蔑地看向一侧",
+                "expression": "眉毛上扬，眼睛斜视，嘴巴微张显露不屑"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中景固定镜头，苏总双手抱着衣物，眼神轻蔑地看向一侧，眉毛上扬，眼睛斜视，嘴巴微张。画外音响起苏总的声音：“哼，你以为你是谁啊”。",
+        "dialogue": "哼 你以为你是谁啊",
+        "speaker": "苏总",
+        "emotion": "轻蔑/不屑",
+        "duration": 3.24,
+        "description_visual": "中景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色连衣裙，手持白色衣物，双手抱着衣物，眼神轻蔑地看向一侧，表情：眉毛上扬，眼睛斜视，嘴巴微张显露不屑。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向一侧，神情平静",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张显露平静"
+            }
+        ],
+        "background": "室内客厅，背景模糊，光线自然。",
+        "description_narrative": "中近景固定镜头，年轻保安身体微侧，眼神看向一侧，神情平静，眉毛舒展，嘴巴微张。画外音响起苏总的声音：“你就是一个保安而已”。",
+        "dialogue": "你就是一个保安而已",
+        "speaker": "苏总",
+        "emotion": "平静/倾听",
+        "duration": 2.52,
+        "description_visual": "中近景平拍镜头；室内客厅，背景模糊，光线自然。；画面中央人物，身穿浅蓝色保安制服，身体微侧，眼神看向一侧，神情平静，表情：眉毛舒展，眼睛看向一侧，嘴巴微张显露平静。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙，手持白色衣物",
+                "position": "画面中央",
+                "action": "双手抱着衣物，眼神厌恶地看向一侧",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴微张显露厌恶"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中景固定镜头，苏总双手抱着衣物，眼神厌恶地看向一侧，眉毛紧蹙，嘴巴微张，愤怒地说道“负责？你拿什么负责？我不想看见你”。",
+        "dialogue": "负责 你拿什么负责 我不想看见你",
+        "speaker": "苏总",
+        "emotion": "厌恶/愤怒",
+        "duration": 4.68,
+        "description_visual": "中景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色连衣裙，手持白色衣物，双手抱着衣物，眼神厌恶地看向一侧，表情：眉毛紧蹙，眼睛斜视，嘴巴微张显露厌恶。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "背对镜头，身体微侧，似乎准备离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内客厅，背景可见窗户和墙壁，光线明亮。",
+        "description_narrative": "中景固定镜头，年轻保安背对镜头，身体微侧，似乎准备离开。画外音响起苏总的声音：“走”。",
+        "dialogue": "走",
+        "speaker": "苏总",
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "中景平拍镜头；室内客厅，背景可见窗户和墙壁，光线明亮。；画面中央人物，身穿浅蓝色保安制服，背对镜头，身体微侧，似乎准备离开，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "身体转向镜头，头部微仰，眼神看向斜上方",
+                "expression": "眉毛微挑，眼睛看向斜上方，嘴巴微张显露自信"
+            }
+        ],
+        "background": "室内客厅，背景模糊，光线自然。",
+        "description_narrative": "中近景固定镜头，年轻保安身体转向镜头，头部微仰，眼神看向斜上方，眉毛微挑，嘴巴微张，自信地说道“我就在楼下巡逻”。",
+        "dialogue": "我就在楼下巡逻",
+        "speaker": "年轻保安",
+        "emotion": "自信",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；室内客厅，背景模糊，光线自然。；画面中央人物，身穿浅蓝色保安制服，身体转向镜头，头部微仰，眼神看向斜上方，表情：眉毛微挑，眼睛看向斜上方，嘴巴微张显露自信。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻保安",
+                "gender": "男",
+                "clothing": "浅蓝色保安制服",
+                "position": "画面中央",
+                "action": "右手抬起指向斜上方，眼神坚定",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张显露认真"
+            }
+        ],
+        "background": "室内客厅，背景模糊，光线自然。",
+        "description_narrative": "特写仰拍固定镜头，年轻保安右手抬起指向斜上方，眼神坚定，眉毛微挑，嘴巴微张，认真地说道“有需要”。",
+        "dialogue": "有需要",
+        "speaker": "年轻保安",
+        "emotion": "认真",
+        "duration": 0.96,
+        "description_visual": "特写仰拍镜头；室内客厅，背景模糊，光线自然。；画面中央人物，身穿浅蓝色保安制服，右手抬起指向斜上方，眼神坚定，表情：眉毛微挑，眼睛直视，嘴巴微张显露认真。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙，手持白色衣物",
+                "position": "画面中央",
+                "action": "双手紧紧抱着衣物，身体蜷缩，神情痛苦",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张显露痛苦"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中景固定镜头，苏总双手紧紧抱着衣物，身体蜷缩，神情痛苦，眉毛紧蹙，眼睛紧闭。画外音响起年轻保安的声音：“有需要，随时喊我”。",
+        "dialogue": "有需要 随时喊我",
+        "speaker": "年轻保安",
+        "emotion": "痛苦/烦躁",
+        "duration": 5.16,
+        "description_visual": "中景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色连衣裙，手持白色衣物，双手紧紧抱着衣物，身体蜷缩，神情痛苦，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张显露痛苦。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "双手拿着白色衣物，低头看着衣物，神情懊恼",
+                "expression": "眉毛紧蹙，眼睛向下看，嘴巴紧闭显露懊恼"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中景固定镜头，苏总双手拿着白色衣物，低头看着衣物，神情懊恼，眉毛紧蹙，嘴巴紧闭，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "懊恼",
+        "duration": 0.64,
+        "description_visual": "中景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色连衣裙，双手拿着白色衣物，低头看着衣物，神情懊恼，表情：眉毛紧蹙，眼睛向下看，嘴巴紧闭显露懊恼。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "双手用力甩动白色衣物，头部微侧",
+                "expression": "眉毛紧蹙，眼睛看向一侧，嘴巴微张显露愤怒"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中近景固定镜头，苏总双手用力甩动白色衣物，头部微侧，眉毛紧蹙，嘴巴微张，显露出愤怒的情绪，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色连衣裙，双手用力甩动白色衣物，头部微侧，表情：眉毛紧蹙，眼睛看向一侧，嘴巴微张显露愤怒。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色饰有安全别针的连衣裙",
+                "position": "画面中央",
+                "action": "身体前倾，双手放在腿上，头部微低",
+                "expression": "眉毛舒展，眼睛向下看，嘴巴微张显露疲惫"
+            }
+        ],
+        "background": "室内客厅，白色书架背景。",
+        "description_narrative": "中近景固定镜头，苏总身体前倾，双手放在腿上，头部微低，眉毛舒展，眼神向下，嘴巴微张，显露出疲惫和无奈，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疲惫/无奈",
+        "duration": 1.8,
+        "description_visual": "中近景平拍镜头；室内客厅，白色书架背景。；画面中央人物，身穿黑色饰有安全别针的连衣裙，身体前倾，双手放在腿上，头部微低，表情：眉毛舒展，眼睛向下看，嘴巴微张显露疲惫。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黑色饰有安全别针的连衣裙",
+                "position": "画面右侧",
+                "action": "头部转向左侧，眼神看向远方",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张显露若有所思"
+            }
+        ],
+        "background": "室内客厅，白色书架背景模糊。",
+        "description_narrative": "特写侧拍固定镜头，苏总头部转向左侧，眼神看向远方，眉毛微蹙，嘴巴微张，显露出若有所思的神情，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "若有所思",
+        "duration": 4.04,
+        "description_visual": "特写侧拍镜头；室内客厅，白色书架背景模糊。；画面右侧人物，身穿黑色饰有安全别针的连衣裙，头部转向左侧，眼神看向远方，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张显露若有所思。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景，无可见物体。",
+        "description_narrative": "画面全白，无可见人物或物体，持续3.64秒，视频结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.64,
+        "description_visual": "全景平拍镜头；纯白背景，无可见物体。。"
+    }
+]

@@ -1,0 +1,618 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面中央",
+                "action": "嘴唇微张，正在说话",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴张开"
+            }
+        ],
+        "background": "室内宫殿，背景有暖色灯光虚化",
+        "description_narrative": "特写镜头，东莱公主身穿黑色礼服头戴大檐帽，嘴唇微张，神情自信地开口称呼皇帝陛下。",
+        "dialogue": "皇帝陛下。",
+        "speaker": "东莱公主",
+        "emotion": "自信",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；室内宫殿，背景有暖色灯光虚化；画面中央人物，身穿黑色礼服，大檐帽，嘴唇微张，正在说话，表情：眉毛微挑，眼睛直视前方，嘴巴张开。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面中央",
+                "action": "手持羽毛扇，身体微向前倾",
+                "expression": "眉毛舒展，眼神坚定，嘴角微扬"
+            }
+        ],
+        "background": "室内宫殿，背景暖色灯光",
+        "description_narrative": "近景镜头，东莱公主手持白色羽毛扇，身体微向前倾，宣布文斗规矩由东莱定。",
+        "dialogue": "今日我们先行文斗，规矩由我东莱定。",
+        "speaker": "东莱公主",
+        "emotion": "傲慢",
+        "duration": 3.72,
+        "description_visual": "近景平拍镜头；室内宫殿，背景暖色灯光；画面中央人物，身穿黑色礼服，大檐帽，手持羽毛扇，身体微向前倾，表情：眉毛舒展，眼神坚定，嘴角微扬。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面中央偏左",
+                "action": "站立，双手交叠持扇",
+                "expression": "表情严肃，直视前方"
+            },
+            {
+                "name": "大夏皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "前景背影",
+                "action": "端坐",
+                "expression": "不可见"
+            },
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "表情平静"
+            },
+            {
+                "name": "张允文",
+                "gender": "男",
+                "clothing": "米黄色袍服",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "大殿内部，烛台林立，光线昏暗庄重",
+        "description_narrative": "全景镜头展示大殿内众人，东莱公主站在中央提出赌注，若东莱胜大夏称臣，若大夏胜东莱归顺。",
+        "dialogue": "若东莱获胜，大夏俯首称臣。若大夏胜，东莱归入你大夏，陛下意下如何呀？",
+        "speaker": "东莱公主",
+        "emotion": "挑衅",
+        "duration": 7.52,
+        "description_visual": "全景平拍镜头；大殿内部，烛台林立，光线昏暗庄重；画面中央偏左人物，身穿黑色礼服，站立，双手交叠持扇，表情：表情严肃，直视前方；前景背影人物，身穿黄色龙袍，端坐，表情：不可见；画面左侧人物，身穿紫色官袍，站立，表情：表情平静；画面右侧人物，身穿米黄色袍服，站立，表情：表情平静。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大夏皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍，金冠",
+                "position": "画面中央",
+                "action": "端坐龙椅，微微点头",
+                "expression": "眉毛平展，眼神威严，嘴巴微张"
+            }
+        ],
+        "background": "龙椅后方金色屏风，光线明亮",
+        "description_narrative": "中近景镜头，大夏皇帝身穿黄色龙袍端坐，听到提议后表示君无戏言，同意比试。",
+        "dialogue": "君无戏言，朕当然同意。",
+        "speaker": "大夏皇帝",
+        "emotion": "威严",
+        "duration": 2.56,
+        "description_visual": "中近景平拍镜头；龙椅后方金色屏风，光线明亮；画面中央人物，身穿黄色龙袍，金冠，端坐龙椅，微微点头，表情：眉毛平展，眼神威严，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面中央",
+                "action": "手持羽毛扇，眼神斜视",
+                "expression": "眉毛微蹙，嘴角紧闭，眼神带笑"
+            }
+        ],
+        "background": "室内宫殿，背景有人物虚化",
+        "description_narrative": "近景镜头，东莱公主提到此前太子出尽风头，猜测此次大夏要趁胜追击。",
+        "dialogue": "此前我东莱国来使，太子殿下出尽风头，此次恐怕要趁胜追击了吧。",
+        "speaker": "东莱公主",
+        "emotion": "嘲讽",
+        "duration": 6.52,
+        "description_visual": "近景平拍镜头；室内宫殿，背景有人物虚化；画面中央人物，身穿黑色礼服，大檐帽，手持羽毛扇，眼神斜视，表情：眉毛微蹙，嘴角紧闭，眼神带笑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大夏皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "抬手示意",
+                "expression": "眉毛微挑，眼神坚定，嘴巴微张"
+            }
+        ],
+        "background": "龙椅后方金色屏风",
+        "description_narrative": "中近景镜头，大夏皇帝抬手否认，表示今日先由九殿下允文出战。",
+        "dialogue": "不，今日先由我允文出战。",
+        "speaker": "大夏皇帝",
+        "emotion": "果断",
+        "duration": 3.36,
+        "description_visual": "中近景平拍镜头；龙椅后方金色屏风；画面中央人物，身穿黄色龙袍，抬手示意，表情：眉毛微挑，眼神坚定，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面中央",
+                "action": "微微侧头，嘴唇微动",
+                "expression": "眉毛舒展，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，背景有人物虚化",
+        "description_narrative": "近景镜头，东莱公主重复九殿下张允文的名字，似乎在确认对手。",
+        "dialogue": "九殿下张允文。",
+        "speaker": "东莱公主",
+        "emotion": "疑惑",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；室内宫殿，背景有人物虚化；画面中央人物，身穿黑色礼服，大檐帽，微微侧头，嘴唇微动，表情：眉毛舒展，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面中央",
+                "action": "手持羽毛扇，眼神看向一侧",
+                "expression": "眉毛微挑，眼神轻蔑，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，背景有人物虚化",
+        "description_narrative": "近景镜头，东莱公主看着对手，此时画外音响起九殿下的自谦之词。",
+        "dialogue": "本殿才疏学浅，",
+        "speaker": "张允文 (画外音)",
+        "emotion": "轻蔑",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；室内宫殿，背景有人物虚化；画面中央人物，身穿黑色礼服，大檐帽，手持羽毛扇，眼神看向一侧，表情：眉毛微挑，眼神轻蔑，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张允文",
+                "gender": "男",
+                "clothing": "米黄色绣金纹袍服",
+                "position": "画面中央",
+                "action": "低头微笑，双手交叠",
+                "expression": "眉毛下垂，眼睛微闭，嘴角上扬"
+            }
+        ],
+        "background": "室内宫殿，暖色背景",
+        "description_narrative": "中近景镜头，九殿下张允文低头假意谦虚，说没想到名声传到东莱，感到惭愧。",
+        "dialogue": "却没想到名声，都已经传到东莱国去了，实在惭愧惭愧。",
+        "speaker": "张允文",
+        "emotion": "虚伪",
+        "duration": 7.88,
+        "description_visual": "中近景平拍镜头；室内宫殿，暖色背景；画面中央人物，身穿米黄色绣金纹袍服，低头微笑，双手交叠，表情：眉毛下垂，眼睛微闭，嘴角上扬。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官袍，黑色官帽",
+                "position": "画面中央",
+                "action": "闭眼摇头，手抚胸口",
+                "expression": "眉毛皱起，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，烛光摇曳",
+        "description_narrative": "中近景镜头，老臣闭眼摇头发出感叹声，似乎在附和九殿下的谦虚。",
+        "dialogue": "哎。",
+        "speaker": "老臣",
+        "emotion": "感叹",
+        "duration": 2.52,
+        "description_visual": "中近景平拍镜头；室内宫殿，烛光摇曳；画面中央人物，身穿紫色官袍，黑色官帽，闭眼摇头，手抚胸口，表情：眉毛皱起，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官袍，黑色官帽",
+                "position": "画面中央",
+                "action": "睁眼，手势比划",
+                "expression": "眉毛舒展，眼睛睁开，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，烛光摇曳",
+        "description_narrative": "中近景镜头，老臣开始夸赞九殿下文武双全。",
+        "dialogue": "九殿下文武双全，",
+        "speaker": "老臣",
+        "emotion": "赞赏",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内宫殿，烛光摇曳；画面中央人物，身穿紫色官袍，黑色官帽，睁眼，手势比划，表情：眉毛舒展，眼睛睁开，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官袍，黑色官帽",
+                "position": "画面中央",
+                "action": "继续手势比划，身体微晃",
+                "expression": "眉毛上扬，眼神赞许，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，烛光摇曳",
+        "description_narrative": "中近景镜头，老臣继续夸赞九殿下声名鹊起。",
+        "dialogue": "声名雀起，",
+        "speaker": "老臣",
+        "emotion": "赞赏",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；室内宫殿，烛光摇曳；画面中央人物，身穿紫色官袍，黑色官帽，继续手势比划，身体微晃，表情：眉毛上扬，眼神赞许，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官袍，黑色官帽",
+                "position": "画面中央",
+                "action": "手势向外展开",
+                "expression": "眉毛平展，眼神看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，烛光摇曳",
+        "description_narrative": "中近景镜头，老臣说在诸多王子当中。",
+        "dialogue": "在诸多的王子当中",
+        "speaker": "老臣",
+        "emotion": "强调",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内宫殿，烛光摇曳；画面中央人物，身穿紫色官袍，黑色官帽，手势向外展开，表情：眉毛平展，眼神看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官袍，黑色官帽",
+                "position": "画面中央",
+                "action": "手势收回，点头",
+                "expression": "眉毛微挑，眼神肯定，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，烛光摇曳",
+        "description_narrative": "中近景镜头，老臣重复当中，语气停顿。",
+        "dialogue": "当中。",
+        "speaker": "老臣",
+        "emotion": "强调",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内宫殿，烛光摇曳；画面中央人物，身穿紫色官袍，黑色官帽，手势收回，点头，表情：眉毛微挑，眼神肯定，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官袍，黑色官帽",
+                "position": "画面中央",
+                "action": "竖起大拇指",
+                "expression": "眉毛上扬，眼神自豪，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，烛光摇曳",
+        "description_narrative": "中近景镜头，老臣竖起大拇指，夸赞九殿下确实是数得上的头名。",
+        "dialogue": "确实是数得上的头名啊",
+        "speaker": "老臣",
+        "emotion": "自豪",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；室内宫殿，烛光摇曳；画面中央人物，身穿紫色官袍，黑色官帽，竖起大拇指，表情：眉毛上扬，眼神自豪，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张允文",
+                "gender": "男",
+                "clothing": "米黄色绣金纹袍服",
+                "position": "画面中央",
+                "action": "微笑，头部微侧",
+                "expression": "眉毛舒展，眼神得意，嘴角上扬"
+            }
+        ],
+        "background": "室内宫殿，暖色背景",
+        "description_narrative": "中近景镜头，张允文听到夸赞后发出得意的啊声。",
+        "dialogue": "啊。",
+        "speaker": "张允文",
+        "emotion": "得意",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；室内宫殿，暖色背景；画面中央人物，身穿米黄色绣金纹袍服，微笑，头部微侧，表情：眉毛舒展，眼神得意，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面左侧",
+                "action": "手指指向对方",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "张允文",
+                "gender": "男",
+                "clothing": "米黄色袍服",
+                "position": "画面中央",
+                "action": "站立微笑",
+                "expression": "嘴角上扬"
+            },
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面右侧",
+                "action": "站立，手持羽毛扇",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "大殿内部，光线明亮",
+        "description_narrative": "全景镜头，张允文挑衅公主若是害怕了，现在投降也来得及。",
+        "dialogue": "公主若是害怕了，不妨现在投降也来得及。",
+        "speaker": "张允文",
+        "emotion": "挑衅",
+        "duration": 4.2,
+        "description_visual": "全景平拍镜头；大殿内部，光线明亮；画面左侧人物，身穿紫色官袍，手指指向对方，表情：表情严肃；画面中央人物，身穿米黄色袍服，站立微笑，表情：嘴角上扬；画面右侧人物，身穿黑色礼服，站立，手持羽毛扇，表情：表情平静。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面左侧",
+                "action": "转身",
+                "expression": "表情惊讶"
+            },
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面右侧",
+                "action": "抬头，眼神犀利",
+                "expression": "眉毛微蹙，眼神愤怒，嘴巴微张"
+            }
+        ],
+        "background": "大殿内部，光线明亮",
+        "description_narrative": "全景镜头，东莱公主反驳谁说东莱要投降。",
+        "dialogue": "谁说东莱，",
+        "speaker": "东莱公主",
+        "emotion": "愤怒",
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头；大殿内部，光线明亮；画面左侧人物，身穿紫色官袍，转身，表情：表情惊讶；画面右侧人物，身穿黑色礼服，抬头，眼神犀利，表情：眉毛微蹙，眼神愤怒，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面右侧",
+                "action": "身体前倾，语气强硬",
+                "expression": "眉毛上扬，眼神坚定，嘴巴张开"
+            }
+        ],
+        "background": "大殿内部，光线明亮",
+        "description_narrative": "全景镜头，东莱公主强硬说完要投降啊，表示绝不认输。",
+        "dialogue": "要投降啊。",
+        "speaker": "东莱公主",
+        "emotion": "强硬",
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；大殿内部，光线明亮；画面右侧人物，身穿黑色礼服，身体前倾，语气强硬，表情：眉毛上扬，眼神坚定，嘴巴张开。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面中央",
+                "action": "转身",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "红色官袍",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "大殿内部，光线明亮",
+        "description_narrative": "全景镜头，镜头摇过，东莱公主转身，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "全景平拍镜头（摇镜）；大殿内部，光线明亮；画面中央人物，身穿黑色礼服，转身，表情：表情严肃；画面右侧人物，身穿红色官袍，站立，表情：表情平静。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "东莱公主",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "表情平静"
+            },
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "红色官袍",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "大殿内部，光线明亮",
+        "description_narrative": "全景镜头，众人站立，等待下一步行动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "全景平拍镜头；大殿内部，光线明亮；画面左侧人物，身穿黑色礼服，站立，表情：表情平静；画面中央人物，身穿红色官袍，站立，表情：表情平静。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张允文",
+                "gender": "男",
+                "clothing": "米黄色绣金纹袍服",
+                "position": "画面中央",
+                "action": "侧头看向一侧",
+                "expression": "眉毛微挑，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，暖色背景",
+        "description_narrative": "中近景镜头，张允文侧头看向一侧，似乎有人登场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疑惑",
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；室内宫殿，暖色背景；画面中央人物，身穿米黄色绣金纹袍服，侧头看向一侧，表情：眉毛微挑，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李大白",
+                "gender": "男",
+                "clothing": "素色长袍",
+                "position": "画面中央",
+                "action": "站立，双手交叠",
+                "expression": "眉毛平展，眼睛微闭，表情平静"
+            }
+        ],
+        "background": "室内宫殿，背景有人物虚化",
+        "description_narrative": "中近景镜头，诗仙李大白登场，被人介绍。",
+        "dialogue": "诗仙李大白。",
+        "speaker": "李大白",
+        "emotion": "平静",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；室内宫殿，背景有人物虚化；画面中央人物，身穿素色长袍，站立，双手交叠，表情：眉毛平展，眼睛微闭，表情平静。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李大白",
+                "gender": "男",
+                "clothing": "素色长袍",
+                "position": "画面中央",
+                "action": "抱拳行礼",
+                "expression": "眉毛微垂，眼神恭敬，嘴巴微张"
+            }
+        ],
+        "background": "室内宫殿，背景有人物虚化",
+        "description_narrative": "中近景镜头，李大白抱拳行礼，拜见大夏皇帝陛下。",
+        "dialogue": "草民李大白，拜见大夏皇帝陛下。",
+        "speaker": "李大白",
+        "emotion": "恭敬",
+        "duration": 5.92,
+        "description_visual": "中近景平拍镜头；室内宫殿，背景有人物虚化；画面中央人物，身穿素色长袍，抱拳行礼，表情：眉毛微垂，眼神恭敬，嘴巴微张。"
+    }
+]

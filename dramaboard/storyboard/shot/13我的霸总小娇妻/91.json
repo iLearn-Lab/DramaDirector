@@ -1,0 +1,256 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白屏幕，无场景细节",
+        "description_narrative": "画面为纯白屏幕，持续3.84秒，无可见人物或场景细节，作为转场或片头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；纯白屏幕，无场景细节。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子（右）",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "手持文件夹，身体微侧，面部表情得意",
+                "expression": "眉毛舒展，眼睛微眯带笑，嘴角上扬露出得意神情"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央偏左",
+                "action": "站立，身体微倾，神情低落",
+                "expression": "眉毛微蹙，视线下移，嘴巴紧闭"
+            },
+            {
+                "name": "白衣男子（左）",
+                "gender": "男",
+                "clothing": "白色衬衫，白色裤子",
+                "position": "画面左侧",
+                "action": "站立，手搭在林妙肩上",
+                "expression": "眉毛微蹙，眼神关切，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，米色墙壁，深棕色门，绿色桌布覆盖的长桌",
+        "description_narrative": "全景镜头，房间内三人对峙。右侧白衣男子手持文件夹，神情嚣张得意，宣称林氏终于是他的了。中间林妙身穿灰色西装，神情悲伤。左侧白衣男子手搭在她肩上，神情坚定。桌上放着两台笔记本电脑。",
+        "dialogue": "哈哈哈哈，林氏终于是我的了，不枉我费了那么多年心血。",
+        "speaker": "白衣男子（右）",
+        "emotion": "得意",
+        "duration": 8.8,
+        "description_visual": "全景平拍镜头；室内房间，米色墙壁，深棕色门，绿色桌布覆盖的长桌；画面右侧人物，身穿白色衬衫，手持文件夹，身体微侧，面部表情得意，表情：眉毛舒展，眼睛微眯带笑，嘴角上扬露出得意神情；画面中央偏左人物，身穿灰色西装外套，站立，身体微倾，神情低落，表情：眉毛微蹙，视线下移，嘴巴紧闭；画面左侧人物，身穿白色衬衫，白色裤子，站立，手搭在林妙肩上，表情：眉毛微蹙，眼神关切，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央",
+                "action": "低头看着笔记本电脑，肩膀微耸",
+                "expression": "眉毛紧锁，眼眶微红，嘴角下撇，神情自责"
+            },
+            {
+                "name": "白衣男子（左）",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左后方",
+                "action": "手放在林妙肩膀上安抚",
+                "expression": "眉毛微蹙，眼神坚定"
+            }
+        ],
+        "background": "室内近景，绿色桌布，笔记本电脑一角",
+        "description_narrative": "特写镜头聚焦林妙，她低头看着电脑，神情悲伤自责，感叹没有守住爷爷的心血。左侧白衣男子的手搭在她肩上给予安慰，承诺会夺回来。",
+        "dialogue": "我没有守住爷爷的心血，我们会夺回来的，相信我。",
+        "speaker": "林妙",
+        "emotion": "悲伤",
+        "duration": 6.6,
+        "description_visual": "特写平拍镜头；室内近景，绿色桌布，笔记本电脑一角；画面中央人物，身穿灰色西装外套，低头看着笔记本电脑，肩膀微耸，表情：眉毛紧锁，眼眶微红，嘴角下撇，神情自责；画面左后方人物，身穿白色衬衫，手放在林妙肩膀上安抚，表情：眉毛微蹙，眼神坚定。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子（左）",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "身体前倾，靠近林妙，手撑在桌上",
+                "expression": "眉毛上扬，眼神坚定，嘴巴微张说话"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央",
+                "action": "抬头看向左侧男子",
+                "expression": "眉毛微展，眼神中带着希望"
+            },
+            {
+                "name": "白衣男子（右）",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "站立，手持文件夹，神情轻蔑",
+                "expression": "嘴角冷笑，眼神不屑"
+            }
+        ],
+        "background": "室内房间，绿色桌布，笔记本电脑，米色墙壁",
+        "description_narrative": "中景镜头，左侧白衣男子俯身安慰林妙，字幕显示“我们会夺回来的相信我”。右侧白衣男子见状，轻蔑地回应“别痴人说梦了”，质问对方拿什么夺。",
+        "dialogue": "别痴人说梦了，你拿什么夺？",
+        "speaker": "白衣男子（右）",
+        "emotion": "轻蔑",
+        "duration": 4.08,
+        "description_visual": "中景平拍镜头；室内房间，绿色桌布，笔记本电脑，米色墙壁；画面左侧人物，身穿白色衬衫，身体前倾，靠近林妙，手撑在桌上，表情：眉毛上扬，眼神坚定，嘴巴微张说话；画面中央人物，身穿灰色西装外套，抬头看向左侧男子，表情：眉毛微展，眼神中带着希望；画面右侧人物，身穿白色衬衫，站立，手持文件夹，神情轻蔑，表情：嘴角冷笑，眼神不屑。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央",
+                "action": "抬头怒视前方，身体紧绷",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴紧闭，神情愤怒"
+            },
+            {
+                "name": "白衣男子（左）",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手臂搭在林妙肩上",
+                "expression": "神情严肃"
+            }
+        ],
+        "background": "室内近景，绿色桌布，笔记本电脑",
+        "description_narrative": "近景镜头聚焦林妙，她听到对方的条件后，神情变得愤怒且抗拒。右侧男子（画外）提出无耻交易，要求她今晚跟他走。",
+        "dialogue": "林妙你要是今天晚上跟我走",
+        "speaker": "白衣男子（右）",
+        "emotion": "愤怒",
+        "duration": 3.92,
+        "description_visual": "近景平拍镜头；室内近景，绿色桌布，笔记本电脑；画面中央人物，身穿灰色西装外套，抬头怒视前方，身体紧绷，表情：眉毛紧蹙，眼睛瞪大，嘴巴紧闭，神情愤怒；画面左侧人物，身穿白色衬衫，手臂搭在林妙肩上，表情：神情严肃。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子（右）",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "低头看着手中的文件夹，侧脸对着镜头",
+                "expression": "眉毛微挑，嘴角带笑，神情傲慢"
+            }
+        ],
+        "background": "室内近景，米色墙壁，绿色桌布边缘",
+        "description_narrative": "近景镜头给到右侧白衣男子，他低头看着文件，继续说出交易条件，承诺保留她的董事之位，否则将封杀林家。",
+        "dialogue": "我就保留你的董事之位，要不然我在整个行业封杀林家。",
+        "speaker": "白衣男子（右）",
+        "emotion": "傲慢",
+        "duration": 3.08,
+        "description_visual": "近景平拍镜头；室内近景，米色墙壁，绿色桌布边缘；画面右侧人物，身穿白色衬衫，低头看着手中的文件夹，侧脸对着镜头，表情：眉毛微挑，嘴角带笑，神情傲慢。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央",
+                "action": "抬头看向右上方，眼神坚定",
+                "expression": "眉毛上扬，眼神锐利，嘴巴微张，神情决绝"
+            }
+        ],
+        "background": "室内近景，绿色桌布，米色墙壁",
+        "description_narrative": "近景镜头回到林妙，她听到威胁后，严词拒绝，表示不可能跟他走，眼神中充满 defiance（反抗）。",
+        "dialogue": "你做梦，我不可能跟你走的。",
+        "speaker": "林妙",
+        "emotion": "决绝",
+        "duration": 4.56,
+        "description_visual": "近景平拍镜头；室内近景，绿色桌布，米色墙壁；画面中央人物，身穿灰色西装外套，抬头看向右上方，眼神坚定，表情：眉毛上扬，眼神锐利，嘴巴微张，神情决绝。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子（左）",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "侧身面对右侧男子，神情愤怒",
+                "expression": "眉毛紧锁，眼神凶狠，嘴巴微张"
+            },
+            {
+                "name": "白衣男子（右）",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "面对左侧男子，神情震惊",
+                "expression": "眼睛睁大，嘴巴微张，神情错愕"
+            }
+        ],
+        "background": "室内近景，窗户光线明亮",
+        "description_narrative": "近景镜头展示两名男子面对面，气氛紧张。左侧白衣男子愤怒地发出死亡威胁，说“你想死就直说”，暗示刚刚发生了肢体冲突（如掌掴）。",
+        "dialogue": "你想死就直说。",
+        "speaker": "白衣男子（左）",
+        "emotion": "愤怒",
+        "duration": 3.04,
+        "description_visual": "近景平拍镜头；室内近景，窗户光线明亮；画面左侧人物，身穿白色衬衫，侧身面对右侧男子，神情愤怒，表情：眉毛紧锁，眼神凶狠，嘴巴微张；画面右侧人物，身穿白色衬衫，面对左侧男子，神情震惊，表情：眼睛睁大，嘴巴微张，神情错愕。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子（右）",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "手捂着脸，身体微倾，神情痛苦愤怒",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开，神情震惊且愤怒"
+            }
+        ],
+        "background": "室内近景，窗户光线明亮，绿色桌布边缘",
+        "description_narrative": "近景镜头聚焦右侧白衣男子，他捂着脸（显然刚被打），恼羞成怒地回应，自称是林氏老大，并威胁要送对方去见阎王，呼叫保安驱赶二人。",
+        "dialogue": "我可以送你去见阎王，保安保安把他们都赶出去。我现在是你们林氏的老大。",
+        "speaker": "白衣男子（右）",
+        "emotion": "愤怒",
+        "duration": 10.32,
+        "description_visual": "近景平拍镜头；室内近景，窗户光线明亮，绿色桌布边缘；画面中央人物，身穿白色衬衫，手捂着脸，身体微倾，神情痛苦愤怒，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开，神情震惊且愤怒。"
+    }
+]

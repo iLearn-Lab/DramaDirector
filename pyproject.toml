@@ -1,0 +1,30 @@
+[project]
+name = "dramadirector"
+version = "0.1.0"
+description = "Research codebase for drama understanding, storyboard generation, and downstream video prompt packaging."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "accelerate>=1.6.0",
+    "dashscope>=1.20.0",
+    "datasets>=3.5.0",
+    "numpy>=1.26.0",
+    "openai>=1.79.0",
+    "opencv-python>=4.10.0.84",
+    "peft>=0.15.0",
+    "pyarrow>=20.0.0",
+    "python-dotenv>=1.0.1",
+    "torch>=2.6.0",
+    "tqdm>=4.67.1",
+    "transformers>=4.51.0",
+    "trl>=0.17.0",
+    "unsloth>=2025.5.8",
+]
+
+[project.optional-dependencies]
+inference = [
+    "vllm>=0.8.0",
+]
+
+[tool.uv]
+package = false

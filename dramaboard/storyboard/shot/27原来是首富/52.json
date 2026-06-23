@@ -1,0 +1,824 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "黄色外卖服",
+                "position": "中央前景",
+                "action": "身穿外卖服站立",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "微笑"
+            },
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "黑色露肩上衣",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "侧脸注视"
+            },
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "中后景",
+                "action": "站立",
+                "expression": "平静"
+            }
+        ],
+        "background": "色彩斑斓的宣传海报背景，带有金币特效和标题文字",
+        "description_narrative": "视频开场为剧集宣传海报，画面中央是身穿黄色外卖服的顾少，周围环绕着其他主要角色，背景有金币飘落特效和剧名标题。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.73,
+        "description_visual": "全景平拍镜头；色彩斑斓的宣传海报背景，带有金币特效和标题文字；中央前景人物，身穿黄色外卖服，身穿外卖服站立，表情：表情严肃；右侧人物，身穿棕色西装，站立，表情：微笑；左侧人物，身穿黑色露肩上衣，站立，表情：侧脸注视；中后景人物，身穿白色上衣，站立，表情：平静。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套内搭白色T恤",
+                "position": "画面中央",
+                "action": "头部微转，视线向前",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇微张"
+            }
+        ],
+        "background": "室内米色墙壁，光线柔和",
+        "description_narrative": "镜头切至顾少近景，他身穿牛仔外套，神情冷峻，目光似乎锁定了某人，嘴唇微动说出台词。",
+        "dialogue": "果然是他，我没有猜错。",
+        "speaker": "顾少",
+        "emotion": "冷峻",
+        "duration": 2.57,
+        "description_visual": "近景平拍镜头；室内米色墙壁，光线柔和；画面中央人物，身穿蓝色牛仔外套内搭白色T恤，头部微转，视线向前，表情：眉毛微蹙，眼神锐利，嘴唇微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色西裤",
+                "position": "画面中央",
+                "action": "身体前倾，抬头向上看",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张，神情惊恐"
+            },
+            {
+                "name": "保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "背景右侧",
+                "action": "站立注视",
+                "expression": "面无表情"
+            }
+        ],
+        "background": "室内客厅，蓝色窗帘，光线较暗",
+        "description_narrative": "白衬衫男跪在地上，抬头向上看，脸上露出极度惊恐的表情，身后站着黑衣保镖。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头；室内客厅，蓝色窗帘，光线较暗；画面中央人物，身穿白色衬衫，黑色西裤，身体前倾，抬头向上看，表情：眉毛上扬，眼睛睁大，嘴巴微张，神情惊恐；背景右侧人物，身穿黑色西装，站立注视，表情：面无表情。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "黑色西裤",
+                "position": "画面中央",
+                "action": "双膝跪在地毯上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "灰色地毯，局部特写",
+        "description_narrative": "镜头给到白衬衫男跪在地毯上的膝盖特写，强调其下跪求饶的姿态。",
+        "dialogue": "好。",
+        "speaker": "顾少",
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写俯拍镜头；灰色地毯，局部特写；画面中央人物，身穿黑色西裤，双膝跪在地毯上，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "抬头仰望，身体微颤",
+                "expression": "眉头紧锁，眼神慌乱，嘴巴急切张合"
+            }
+        ],
+        "background": "室内背景，模糊的绿色植物",
+        "description_narrative": "白衬衫男跪在地上抬头仰望，表情急切且慌乱，正在向上方的人辩解。",
+        "dialogue": "顾少，我已经把我知道的。",
+        "speaker": "白衬衫男",
+        "emotion": "急切",
+        "duration": 1.77,
+        "description_visual": "中近景仰拍镜头；室内背景，模糊的绿色植物；画面中央人物，身穿白色衬衫，抬头仰望，身体微颤，表情：眉头紧锁，眼神慌乱，嘴巴急切张合。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "继续抬头说话，身体前倾",
+                "expression": "眼神恳求，嘴巴张大"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "白衬衫男继续急切地诉说，强调自己已经交代了一切。",
+        "dialogue": "知道的全部都告诉你了。",
+        "speaker": "白衬衫男",
+        "emotion": "恳求",
+        "duration": 1.17,
+        "description_visual": "中近景仰拍镜头；室内背景，模糊；画面中央人物，身穿白色衬衫，继续抬头说话，身体前倾，表情：眼神恳求，嘴巴张大。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微侧，低头",
+                "expression": "眉头紧蹙，眼神向下，嘴角下撇，神情痛苦"
+            }
+        ],
+        "background": "室内沙发区域，光线柔和",
+        "description_narrative": "镜头转向坐在沙发上的白裙女，她低着头，表情痛苦慌乱，似乎在哭泣求饶。",
+        "dialogue": "我求你饶了我吧。",
+        "speaker": "白裙女",
+        "emotion": "痛苦",
+        "duration": 2.53,
+        "description_visual": "中近景平拍镜头；室内沙发区域，光线柔和；画面中央人物，身穿白色露肩连衣裙，坐在沙发上，身体微侧，低头，表情：眉头紧蹙，眼神向下，嘴角下撇，神情痛苦。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "抬头向上，身体紧绷",
+                "expression": "眉毛上扬，眼神闪烁，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，深色墙面",
+        "description_narrative": "白衬衫男继续抬头辩解，试图将责任推卸给他人。",
+        "dialogue": "您是顾氏的继承人，都是那个泽少。",
+        "speaker": "白衬衫男",
+        "emotion": "推卸",
+        "duration": 3.03,
+        "description_visual": "中近景仰拍镜头；室内背景，深色墙面；画面中央人物，身穿白色衬衫，抬头向上，身体紧绷，表情：眉毛上扬，眼神闪烁，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套内搭白色T恤",
+                "position": "画面中央",
+                "action": "侧脸站立，目光注视前方",
+                "expression": "眼神平静，嘴唇紧闭，面无表情"
+            }
+        ],
+        "background": "室内走廊或门口，背景模糊",
+        "description_narrative": "顾少侧身站立，面无表情地听着对方的辩解，眼神中透着冷意。",
+        "dialogue": "我是被他胁迫的，迫不得已。",
+        "speaker": "白衬衫男",
+        "emotion": "冷漠",
+        "duration": 1.87,
+        "description_visual": "近景平拍镜头；室内走廊或门口，背景模糊；画面中央人物，身穿蓝色牛仔外套内搭白色T恤，侧脸站立，目光注视前方，表情：眼神平静，嘴唇紧闭，面无表情。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，浅色裤子",
+                "position": "画面左侧",
+                "action": "站立俯视",
+                "expression": "表情冷峻"
+            },
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色西裤",
+                "position": "画面中央地面",
+                "action": "跪在地上，伸手抓住顾少裤腿",
+                "expression": "抬头仰望，表情极度恐惧"
+            },
+            {
+                "name": "保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "背景",
+                "action": "站立",
+                "expression": "严肃"
+            },
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "左侧沙发",
+                "action": "坐着",
+                "expression": "惊恐"
+            }
+        ],
+        "background": "客厅全景，蓝色窗帘，吊灯，地毯",
+        "description_narrative": "全景镜头展示客厅对峙场面，白衬衫男跪在地上抓住顾少的裤腿苦苦哀求，顾少冷漠站立，背景有保镖和白裙女。",
+        "dialogue": "我求你饶了我这条狗命。",
+        "speaker": "白衬衫男",
+        "emotion": "恐惧",
+        "duration": 2.17,
+        "description_visual": "全景平拍镜头；客厅全景，蓝色窗帘，吊灯，地毯；画面左侧人物，身穿蓝色牛仔外套，浅色裤子，站立俯视，表情：表情冷峻；画面中央地面人物，身穿白色衬衫，黑色西裤，跪在地上，伸手抓住顾少裤腿，表情：抬头仰望，表情极度恐惧；背景人物，身穿黑色西装，站立，表情：严肃；左侧沙发人物，身穿白色连衣裙，坐着，表情：惊恐。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套内搭白色T恤",
+                "position": "画面中央",
+                "action": "低头向下看，嘴唇微动",
+                "expression": "眉毛微挑，眼神不屑，嘴角微撇"
+            }
+        ],
+        "background": "室内米色墙壁",
+        "description_narrative": "顾少低头看着跪地的人，嘴角露出一丝不屑的冷笑，质疑对方的说辞。",
+        "dialogue": "什么迫不得已？",
+        "speaker": "顾少",
+        "emotion": "不屑",
+        "duration": 0.93,
+        "description_visual": "近景平拍镜头；室内米色墙壁；画面中央人物，身穿蓝色牛仔外套内搭白色T恤，低头向下看，嘴唇微动，表情：眉毛微挑，眼神不屑，嘴角微撇。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "抬头向上，神情慌张",
+                "expression": "眉毛紧皱，眼神躲闪，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "白衬衫男听到质问后更加慌张，抬头看着上方，顾少的声音传来指责他。",
+        "dialogue": "我看你装着。",
+        "speaker": "顾少",
+        "emotion": "慌张",
+        "duration": 0.87,
+        "description_visual": "中近景仰拍镜头；室内背景，模糊；画面中央人物，身穿白色衬衫，抬头向上，神情慌张，表情：眉毛紧皱，眼神躲闪，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套内搭白色T恤",
+                "position": "画面中央",
+                "action": "视线向下，嘴唇开合",
+                "expression": "眼神锐利，表情严肃"
+            }
+        ],
+        "background": "室内米色墙壁",
+        "description_narrative": "顾少继续斥责对方，眼神中充满了厌恶和看透一切的锐利。",
+        "dialogue": "一肚子坏水。",
+        "speaker": "顾少",
+        "emotion": "厌恶",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；室内米色墙壁；画面中央人物，身穿蓝色牛仔外套内搭白色T恤，视线向下，嘴唇开合，表情：眼神锐利，表情严肃。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "抬头向上，表情绝望",
+                "expression": "眉毛上扬，眼神惊恐，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "白衬衫男听着顾少的斥责，脸上露出绝望的神情，顾少的声音继续传来。",
+        "dialogue": "和泽少狼狈为奸，像你这样的人渣，不配留在这。",
+        "speaker": "顾少",
+        "emotion": "绝望",
+        "duration": 2.87,
+        "description_visual": "中近景仰拍镜头；室内背景；画面中央人物，身穿白色衬衫，抬头向上，表情绝望，表情：眉毛上扬，眼神惊恐，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套内搭白色T恤",
+                "position": "画面中央",
+                "action": "转头看向侧面，下达命令",
+                "expression": "眼神坚定，嘴唇紧闭后张开"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "顾少转头看向一旁的保镖，冷声下令将人带走交给法律制裁。",
+        "dialogue": "给我带下去，送到执法队，让法律制裁他。",
+        "speaker": "顾少",
+        "emotion": "冷酷",
+        "duration": 3.37,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿蓝色牛仔外套内搭白色T恤，转头看向侧面，下达命令，表情：眼神坚定，嘴唇紧闭后张开。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "冷漠"
+            },
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧地面",
+                "action": "跪坐在地，抬头",
+                "expression": "惊恐"
+            },
+            {
+                "name": "保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "背景",
+                "action": "站立",
+                "expression": "严肃"
+            }
+        ],
+        "background": "客厅全景，蓝色窗帘",
+        "description_narrative": "全景镜头中，白衬衫男听到要被送走，惊恐地在地上挣扎呼喊不要。",
+        "dialogue": "不要不要。",
+        "speaker": "白衬衫男",
+        "emotion": "惊恐",
+        "duration": 2.7,
+        "description_visual": "全景平拍镜头；客厅全景，蓝色窗帘；画面左侧人物，身穿蓝色牛仔外套，站立，表情：冷漠；画面右侧地面人物，身穿白色衬衫，跪坐在地，抬头，表情：惊恐；背景人物，身穿黑色西装，站立，表情：严肃。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体前倾，哭泣",
+                "expression": "眉头紧锁，眼泪汪汪，嘴巴颤抖"
+            }
+        ],
+        "background": "室内沙发区域",
+        "description_narrative": "白裙女坐在沙发上，满脸泪痕，惊恐地表示不想坐牢，继续求饶。",
+        "dialogue": "我不想坐牢，我求求您饶了我吧。",
+        "speaker": "白裙女",
+        "emotion": "恐惧",
+        "duration": 2.73,
+        "description_visual": "中近景平拍镜头；室内沙发区域；画面中央人物，身穿白色露肩连衣裙，坐在沙发上，身体前倾，哭泣，表情：眉头紧锁，眼泪汪汪，嘴巴颤抖。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面左侧边缘",
+                "action": "手臂伸出",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内角落，绿色植物，黑色电视屏幕",
+        "description_narrative": "镜头扫过角落的绿植和电视，有人出声询问小雪的情况。",
+        "dialogue": "小雪，你没事吧？",
+        "speaker": "顾少",
+        "emotion": null,
+        "duration": 2.27,
+        "description_visual": "中景平拍镜头（摇镜）；室内角落，绿色植物，黑色电视屏幕；画面左侧边缘人物，身穿白色连衣裙，手臂伸出，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色露肩连衣裙",
+                "position": "画面中央",
+                "action": "站立，眼神低垂",
+                "expression": "眉毛微蹙，眼神失望，嘴唇紧闭"
+            }
+        ],
+        "background": "室内米色墙壁，门框",
+        "description_narrative": "黑裙女（小雪）出现在画面中，表情严肃失望，解释自己也是被利用的。",
+        "dialogue": "我也是被他利用",
+        "speaker": "黑裙女",
+        "emotion": "失望",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；室内米色墙壁，门框；画面中央人物，身穿黑色露肩连衣裙，站立，眼神低垂，表情：眉毛微蹙，眼神失望，嘴唇紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色露肩连衣裙",
+                "position": "画面中央",
+                "action": "头部微转，视线看向侧面",
+                "expression": "眼神复杂，嘴唇微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "黑裙女继续解释，说明对方把自己引过来的目的。",
+        "dialogue": "把你引过来",
+        "speaker": "黑裙女",
+        "emotion": "复杂",
+        "duration": 0.5,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿黑色露肩连衣裙，头部微转，视线看向侧面，表情：眼神复杂，嘴唇微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，转头辩解",
+                "expression": "眉头紧皱，眼神慌乱，嘴巴急切张合"
+            }
+        ],
+        "background": "室内沙发区域，蓝色窗帘",
+        "description_narrative": "白裙女听到黑裙女的话，急忙转头辩解，声称自己在酒里被下药迷晕了。",
+        "dialogue": "他在酒里下药啊，我刚刚也被迷晕了。",
+        "speaker": "白裙女",
+        "emotion": "慌乱",
+        "duration": 3.23,
+        "description_visual": "中近景平拍镜头；室内沙发区域，蓝色窗帘；画面中央人物，身穿白色露肩连衣裙，坐在沙发上，转头辩解，表情：眉头紧皱，眼神慌乱，嘴巴急切张合。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "表情痛苦，摇头",
+                "expression": "眉毛紧锁，眼神委屈，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "白裙女继续痛苦地辩解，但黑裙女的声音传来让她别装了。",
+        "dialogue": "你别装了。",
+        "speaker": "黑裙女",
+        "emotion": "委屈",
+        "duration": 1.67,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿白色露肩连衣裙，表情痛苦，摇头，表情：眉毛紧锁，眼神委屈，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色露肩连衣裙",
+                "position": "画面中央",
+                "action": "侧身站立，眼神指责",
+                "expression": "眉毛微扬，眼神愤怒，嘴唇微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "黑裙女愤怒地指责白裙女，认为这一切都是她和傅少串通好的。",
+        "dialogue": "都是你和傅少串通好的。",
+        "speaker": "黑裙女",
+        "emotion": "愤怒",
+        "duration": 2.9,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿黑色露肩连衣裙，侧身站立，眼神指责，表情：眉毛微扬，眼神愤怒，嘴唇微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色露肩连衣裙",
+                "position": "画面中央",
+                "action": "视线看向对方，表情失望",
+                "expression": "眼神悲伤，嘴唇微动"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "黑裙女继续表达失望，感叹自己枉把对方当成姐妹。",
+        "dialogue": "枉我把你当成",
+        "speaker": "黑裙女",
+        "emotion": "失望",
+        "duration": 0.93,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿黑色露肩连衣裙，视线看向对方，表情失望，表情：眼神悲伤，嘴唇微动。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "面对黑裙女，表情痛苦",
+                "expression": "眼泪流下，眉毛紧蹙，嘴巴颤抖"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "白裙女听着指责，泪流满面，黑裙女继续控诉那杯酒是她亲手给的。",
+        "dialogue": "最好的姐妹，你居然这样伤害我，那杯酒是你亲手给我的。",
+        "speaker": "黑裙女",
+        "emotion": "痛苦",
+        "duration": 3.8,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿白色露肩连衣裙，面对黑裙女，表情痛苦，表情：眼泪流下，眉毛紧蹙，嘴巴颤抖。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色露肩连衣裙",
+                "position": "画面中央",
+                "action": "侧身，眼神坚定",
+                "expression": "眼神锐利，嘴唇微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "黑裙女继续揭露，指出白裙女亲眼看见自己被害。",
+        "dialogue": "也是你亲眼看见我被。",
+        "speaker": "黑裙女",
+        "emotion": "坚定",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿黑色露肩连衣裙，侧身，眼神坚定，表情：眼神锐利，嘴唇微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "摇头否认，表情绝望",
+                "expression": "眉毛紧锁，眼神无助，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "白裙女绝望地摇头，否认事实，声称不是这样子的。",
+        "dialogue": "不是这样子的。",
+        "speaker": "白裙女",
+        "emotion": "绝望",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿白色露肩连衣裙，摇头否认，表情绝望，表情：眉毛紧锁，眼神无助，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色露肩连衣裙",
+                "position": "画面中央",
+                "action": "双手交叉抱在胸前，眼神低垂",
+                "expression": "表情严肃，眼神冷淡"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "黑裙女双手抱胸，再次强调自己也是被利用的。",
+        "dialogue": "我也是被他利用的。",
+        "speaker": "黑裙女",
+        "emotion": "冷淡",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿黑色露肩连衣裙，双手交叉抱在胸前，眼神低垂，表情：表情严肃，眼神冷淡。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "抬头解释，神情急切",
+                "expression": "眉毛上扬，眼神恳求，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "白裙女急切地解释，声称如果不这么做会有后果。",
+        "dialogue": "我要是不这么做。",
+        "speaker": "白裙女",
+        "emotion": "急切",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿白色露肩连衣裙，抬头解释，神情急切，表情：眉毛上扬，眼神恳求，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套内搭白色T恤",
+                "position": "画面中央",
+                "action": "站立，视线向前",
+                "expression": "眼神平静，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景，镜子",
+        "description_narrative": "顾少面无表情地听着，白裙女的声音继续传来，说傅少会害秦奋。",
+        "dialogue": "傅少就会害秦奋。",
+        "speaker": "白裙女",
+        "emotion": "平静",
+        "duration": 1.23,
+        "description_visual": "近景平拍镜头；室内背景，镜子；画面中央人物，身穿蓝色牛仔外套内搭白色T恤，站立，视线向前，表情：眼神平静，嘴唇紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "侧脸，闭眼痛苦",
+                "expression": "眼睛紧闭，表情痛苦"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "白裙女闭着眼睛痛苦地解释，声称是为了救秦奋才这么做的。",
+        "dialogue": "秦奋，我也是为了救你才这么做的。",
+        "speaker": "白裙女",
+        "emotion": "痛苦",
+        "duration": 2.33,
+        "description_visual": "中近景平拍镜头；室内背景；画面中央人物，身穿白色露肩连衣裙，侧脸，闭眼痛苦，表情：眼睛紧闭，表情痛苦。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾少",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套内搭白色T恤",
+                "position": "画面中央",
+                "action": "站立，视线微垂",
+                "expression": "眼神复杂，嘴唇微张后闭合"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "顾少听到解释后，眼神中闪过一丝复杂的情绪，沉默不语。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 2.27,
+        "description_visual": "近景平拍镜头；室内背景；画面中央人物，身穿蓝色牛仔外套内搭白色T恤，站立，视线微垂，表情：眼神复杂，嘴唇微张后闭合。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白屏幕",
+        "description_narrative": "画面渐变为纯白，视频结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.63,
+        "description_visual": "全景平拍镜头；纯白屏幕。"
+    }
+]

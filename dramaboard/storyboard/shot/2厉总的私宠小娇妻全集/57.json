@@ -1,0 +1,809 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装三件套",
+                "position": "画面中景偏右",
+                "action": "手持手机贴在耳边，向画面左侧行走",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张似在通话"
+            }
+        ],
+        "background": "地下车库，绿色立柱标有白色C字，顶部有管道和灯管",
+        "description_narrative": "全景镜头，地下车库内，身穿深蓝色西装的慎行一边打电话一边向左侧行走，背景是标有C字的绿色立柱和停放的车辆。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 9.0,
+        "description_visual": "全景平拍镜头；地下车库，绿色立柱标有白色C字，顶部有管道和灯管；画面中景偏右人物，身穿深蓝色西装三件套，手持手机贴在耳边，向画面左侧行走，表情：眉毛舒展，眼睛注视前方，嘴巴微张似在通话。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面右侧",
+                "action": "背对镜头行走，右手持手机通话",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色衣物",
+                "position": "画面左侧边缘",
+                "action": "手持木棍的手臂伸入画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "车库灰色墙壁和门，光线较暗",
+        "description_narrative": "中景跟拍镜头，慎行背对镜头继续通话行走，画面左侧边缘突然出现一只手持木棍的手臂，暗示袭击即将发生。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头（跟拍）；车库灰色墙壁和门，光线较暗；画面右侧人物，身穿深蓝色西装，背对镜头行走，右手持手机通话，表情：不可见；画面左侧边缘人物，身穿黑色衣物，手持木棍的手臂伸入画面，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "身体向后仰，抬手格挡",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张显惊愕"
+            },
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色短袖，黑色帽子",
+                "position": "画面右侧",
+                "action": "背对镜头，双手挥舞木棍砸向慎行",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑色轿车旁，车库地面有白色停车线",
+        "description_narrative": "中景镜头，黑衣袭击者挥舞木棍砸向慎行，慎行惊慌向后仰身躲避，此时电话那头传来妻子的声音。",
+        "dialogue": "喂 慎行",
+        "speaker": "老婆",
+        "emotion": "紧张",
+        "duration": 2.16,
+        "description_visual": "中景平拍镜头（摇镜）；黑色轿车旁，车库地面有白色停车线；画面左侧人物，身穿深蓝色西装，身体向后仰，抬手格挡，表情：眉毛紧蹙，眼睛睁大，嘴巴微张显惊愕；画面右侧人物，身穿黑色短袖，黑色帽子，背对镜头，双手挥舞木棍砸向慎行，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "粗糙的水泥地面",
+        "description_narrative": "特写镜头，手机掉落在地面上，屏幕亮起显示正在与“老婆”通话，通话时长正在增加。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "特写俯拍镜头；粗糙的水泥地面。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "转身面向袭击者，左手抬起",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "黑色轿车和车库顶部管道",
+        "description_narrative": "中近景镜头，慎行转身面对袭击者，神情警惕，左手抬起似乎在示意对方停下。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "警惕",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；黑色轿车和车库顶部管道；画面中央人物，身穿深蓝色西装，转身面向袭击者，左手抬起，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色短袖，黑色帽子，墨镜，口罩",
+                "position": "画面中央",
+                "action": "左手摊开 gesturing，右手持棍",
+                "expression": "被墨镜和口罩遮挡，不可见"
+            }
+        ],
+        "background": "车库绿色立柱和远处车辆",
+        "description_narrative": "中景镜头，黑衣袭击者戴着墨镜口罩，左手摊开做出挑衅或解释的手势，右手握着木棍。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.12,
+        "description_visual": "中景平拍镜头；车库绿色立柱和远处车辆；画面中央人物，身穿黑色短袖，黑色帽子，墨镜，口罩，左手摊开 gesturing，右手持棍，表情：被墨镜和口罩遮挡，不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛微蹙，眼睛直视对方，嘴巴张开说话"
+            }
+        ],
+        "background": "车库顶部管道和灯光",
+        "description_narrative": "中近景镜头，慎行站立在车旁，神情严肃地质问对方身份。",
+        "dialogue": "你是谁",
+        "speaker": "慎行",
+        "emotion": "疑惑",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；车库顶部管道和灯光；画面中央人物，身穿深蓝色西装，站立，双手自然下垂，表情：眉毛微蹙，眼睛直视对方，嘴巴张开说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色短袖，黑色帽子，墨镜，口罩",
+                "position": "画面中央",
+                "action": "左手摊开，右手持棍",
+                "expression": "被遮挡，不可见"
+            }
+        ],
+        "background": "车库绿色立柱C和金属护栏",
+        "description_narrative": "中景镜头，袭击者继续摊手说话，告知慎行有人花钱买他的命。",
+        "dialogue": "甭管我是谁，总之有人花钱要买你的命。",
+        "speaker": "黑衣袭击者",
+        "emotion": "冷漠",
+        "duration": 4.36,
+        "description_visual": "中景平拍镜头；车库绿色立柱C和金属护栏；画面中央人物，身穿黑色短袖，黑色帽子，墨镜，口罩，左手摊开，右手持棍，表情：被遮挡，不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "站立，双手下垂",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "车库顶部和黑色轿车",
+        "description_narrative": "中近景镜头，慎行听到对方的话后，表情凝重，似乎在消化这个信息。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；车库顶部和黑色轿车；画面中央人物，身穿深蓝色西装，站立，双手下垂，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色短袖，黑色帽子，墨镜，口罩",
+                "position": "画面中央",
+                "action": "双手持棍，做出准备攻击的姿势",
+                "expression": "被遮挡，不可见"
+            }
+        ],
+        "background": "车库绿色立柱和护栏",
+        "description_narrative": "中景镜头，袭击者再次举起木棍，此时慎行的声音再次响起质问对方。",
+        "dialogue": "你是谁",
+        "speaker": "慎行",
+        "emotion": "愤怒",
+        "duration": 2.04,
+        "description_visual": "中景平拍镜头；车库绿色立柱和护栏；画面中央人物，身穿黑色短袖，黑色帽子，墨镜，口罩，双手持棍，做出准备攻击的姿势，表情：被遮挡，不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "站立不动",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色衣物",
+                "position": "画面右侧",
+                "action": "背对镜头，挥舞木棍",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑色轿车旁，车库地面",
+        "description_narrative": "全景镜头，袭击者再次挥棍，电话那头传来妻子焦急呼唤慎行名字的声音。",
+        "dialogue": "慎行",
+        "speaker": "老婆",
+        "emotion": "焦急",
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头；黑色轿车旁，车库地面；画面左侧人物，身穿深蓝色西装，站立不动，表情：表情严肃；画面右侧人物，身穿黑色衣物，背对镜头，挥舞木棍，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "身体晃动，抬手格挡",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴巴张大呼喊"
+            }
+        ],
+        "background": "模糊的车库背景",
+        "description_narrative": "中近景镜头，慎行在躲避攻击时大声呼喊，身体因动作幅度大而略显模糊。",
+        "dialogue": "啊",
+        "speaker": "慎行",
+        "emotion": "痛苦",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头（跟拍）；模糊的车库背景；画面中央人物，身穿深蓝色西装，身体晃动，抬手格挡，表情：眉毛紧蹙，眼睛眯起，嘴巴张大呼喊。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色衣物",
+                "position": "画面前景",
+                "action": "快速挥舞木棍",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的黑色轿车",
+        "description_narrative": "特写镜头，木棍在空中快速挥舞，画面因动作迅速而产生动态模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.64,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的黑色轿车；画面前景人物，身穿黑色衣物，快速挥舞木棍，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "站立，双手握拳下垂",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "黑色轿车和车库墙壁",
+        "description_narrative": "中景镜头，慎行站在车旁，神情紧绷，准备应对接下来的攻击。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头；黑色轿车和车库墙壁；画面左侧人物，身穿深蓝色西装，站立，双手握拳下垂，表情：眉毛紧锁，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色衣物",
+                "position": "画面中央",
+                "action": "侧身挥舞木棍",
+                "expression": "被遮挡"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "中景镜头，袭击者用力挥棍，慎行在画外呼喊求救。",
+        "dialogue": "快来人啊",
+        "speaker": "慎行",
+        "emotion": "恐慌",
+        "duration": 1.44,
+        "description_visual": "中景平拍镜头（跟拍）；白色墙壁；画面中央人物，身穿黑色衣物，侧身挥舞木棍，表情：被遮挡。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面背景",
+                "action": "与袭击者纠缠",
+                "expression": "痛苦"
+            },
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色衣物",
+                "position": "画面前景",
+                "action": "背对镜头，压制慎行",
+                "expression": "不可见"
+            }
+        ],
+        "background": "车库门和墙壁",
+        "description_narrative": "中景镜头，慎行与袭击者扭打在一起，画面模糊，慎行发出痛苦的叫声。",
+        "dialogue": "啊~",
+        "speaker": "慎行",
+        "emotion": "痛苦",
+        "duration": 1.92,
+        "description_visual": "中景平拍镜头（跟拍）；车库门和墙壁；画面背景人物，身穿深蓝色西装，与袭击者纠缠，表情：痛苦；画面前景人物，身穿黑色衣物，背对镜头，压制慎行，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色衣物",
+                "position": "画面中央",
+                "action": "高举木棍准备砸下",
+                "expression": "被遮挡"
+            }
+        ],
+        "background": "绿色立柱和车库通道",
+        "description_narrative": "中景镜头，袭击者高举木棍，准备给予致命一击。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头（跟拍）；绿色立柱和车库通道；画面中央人物，身穿黑色衣物，高举木棍准备砸下，表情：被遮挡。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "侧身行走，看向左侧",
+                "expression": "嘴巴微张，神情惊讶"
+            }
+        ],
+        "background": "黑色奔驰轿车",
+        "description_narrative": "中景镜头，慎行侧身走过车头，突然看向左侧，似乎发现了什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；黑色奔驰轿车；画面中央人物，身穿深蓝色西装，侧身行走，看向左侧，表情：嘴巴微张，神情惊讶。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带丝绸长裙",
+                "position": "画面中央",
+                "action": "站立，看向右侧",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "黑色商务车，车牌清晰可见",
+        "description_narrative": "全景镜头，身穿红裙的贝贝出现在车库中，神情惊讶地看向某处。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；黑色商务车，车牌清晰可见；画面中央人物，身穿红色吊带丝绸长裙，站立，看向右侧，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面左侧",
+                "action": "奔跑向慎行，伸手推他",
+                "expression": "眉毛紧蹙，眼睛急切，嘴巴大喊"
+            },
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面右侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色衣物",
+                "position": "画面左后景",
+                "action": "持棍冲来",
+                "expression": "不可见"
+            }
+        ],
+        "background": "车库灰色墙壁",
+        "description_narrative": "中景镜头，贝贝冲向慎行并大喊小心，背景中袭击者持棍冲来。",
+        "dialogue": "小心啊",
+        "speaker": "贝贝",
+        "emotion": "焦急",
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头（跟拍）；车库灰色墙壁；画面左侧人物，身穿红色吊带裙，奔跑向慎行，伸手推他，表情：眉毛紧蹙，眼睛急切，嘴巴大喊；画面右侧人物，身穿深蓝色西装，背对镜头，表情：不可见；画面左后景人物，身穿黑色衣物，持棍冲来，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面右侧",
+                "action": "背对镜头，长发飘动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的木棍和车库背景",
+        "description_narrative": "特写镜头，木棍从画面左侧挥过，贝贝背对镜头，长发遮住了脸部。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；模糊的木棍和车库背景；画面右侧人物，身穿红色吊带裙，背对镜头，长发飘动，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面右侧",
+                "action": "抱住贝贝，回头看向袭击者",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开惊呼"
+            },
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "被慎行护在怀里",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色衣物",
+                "position": "画面左侧",
+                "action": "背对镜头，持棍站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色立柱和绿色墙面",
+        "description_narrative": "中景镜头，慎行紧紧抱住贝贝护在身前，回头惊恐地看着持棍的袭击者。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；白色立柱和绿色墙面；画面右侧人物，身穿深蓝色西装，抱住贝贝，回头看向袭击者，表情：眉毛紧锁，眼睛瞪大，嘴巴张开惊呼；画面中央人物，身穿红色吊带裙，被慎行护在怀里，表情：不可见；画面左侧人物，身穿黑色衣物，背对镜头，持棍站立，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "侧脸看着贝贝",
+                "expression": "嘴巴微张"
+            },
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面右侧",
+                "action": "头向后仰，靠在慎行怀里",
+                "expression": "眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "车库顶部灯光",
+        "description_narrative": "近景镜头，贝贝无力地向后仰倒在慎行怀里，慎行侧脸看着她，神情担忧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "担忧",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；车库顶部灯光；画面左侧人物，身穿深蓝色西装，侧脸看着贝贝，表情：嘴巴微张；画面右侧人物，身穿红色吊带裙，头向后仰，靠在慎行怀里，表情：眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣袭击者",
+                "gender": "男",
+                "clothing": "黑色衣物",
+                "position": "画面右前景",
+                "action": "奔跑离开",
+                "expression": "不可见"
+            },
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左后景",
+                "action": "抱住贝贝",
+                "expression": "不可见"
+            },
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面左后景",
+                "action": "被抱住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "车库通道，远处有广告牌",
+        "description_narrative": "全景镜头，袭击者转身逃跑，慎行在后方抱着贝贝大喊她的名字。",
+        "dialogue": "贝贝",
+        "speaker": "慎行",
+        "emotion": "悲痛",
+        "duration": 0.72,
+        "description_visual": "全景平拍镜头；车库通道，远处有广告牌；画面右前景人物，身穿黑色衣物，奔跑离开，表情：不可见；画面左后景人物，身穿深蓝色西装，抱住贝贝，表情：不可见；画面左后景人物，身穿红色吊带裙，被抱住，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "抱着贝贝",
+                "expression": "嘴巴张大呼喊"
+            },
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面右侧",
+                "action": "头后仰",
+                "expression": "眼睛闭合"
+            }
+        ],
+        "background": "车库墙壁",
+        "description_narrative": "近景镜头，慎行抱着昏迷的贝贝，焦急地呼喊求救。",
+        "dialogue": "来人啊",
+        "speaker": "慎行",
+        "emotion": "焦急",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；车库墙壁；画面左侧人物，身穿深蓝色西装，抱着贝贝，表情：嘴巴张大呼喊；画面右侧人物，身穿红色吊带裙，头后仰，表情：眼睛闭合。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "低头看贝贝",
+                "expression": "眉毛紧蹙，眼睛关切，嘴巴微张"
+            },
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面右侧",
+                "action": "抬头看慎行",
+                "expression": "眼神迷离"
+            }
+        ],
+        "background": "模糊的车库背景",
+        "description_narrative": "特写镜头，慎行低头看着怀里的贝贝，贝贝虚弱地抬头看着他，慎行再次呼唤她的名字。",
+        "dialogue": "贝贝",
+        "speaker": "慎行",
+        "emotion": "关切",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；模糊的车库背景；画面左侧人物，身穿深蓝色西装，低头看贝贝，表情：眉毛紧蹙，眼睛关切，嘴巴微张；画面右侧人物，身穿红色吊带裙，抬头看慎行，表情：眼神迷离。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "闭眼，头微微晃动",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "绿色墙面",
+        "description_narrative": "特写镜头，贝贝闭着眼睛，虚弱地对慎行说自己没事。",
+        "dialogue": "你没事",
+        "speaker": "贝贝",
+        "emotion": "虚弱",
+        "duration": 4.4,
+        "description_visual": "特写平拍镜头；绿色墙面；画面中央人物，身穿红色吊带裙，闭眼，头微微晃动，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "头彻底向后仰去",
+                "expression": "嘴巴微张，失去意识"
+            }
+        ],
+        "background": "灰色墙面",
+        "description_narrative": "特写镜头，贝贝头向后仰去，彻底失去意识，慎行在画外悲痛地呼喊她的名字。",
+        "dialogue": "贝贝",
+        "speaker": "慎行",
+        "emotion": "悲痛",
+        "duration": 0.92,
+        "description_visual": "特写侧拍镜头；灰色墙面；画面中央人物，身穿红色吊带裙，头彻底向后仰去，表情：嘴巴微张，失去意识。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "抱着贝贝，表情痛苦",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴张大"
+            },
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面右侧",
+                "action": "昏迷在慎行怀里",
+                "expression": "不可见"
+            }
+        ],
+        "background": "车库地面",
+        "description_narrative": "中近景俯拍镜头，慎行抱着昏迷的贝贝，表情极度痛苦，大声呼救。",
+        "dialogue": "来人 快来人啊",
+        "speaker": "慎行",
+        "emotion": "绝望",
+        "duration": 3.56,
+        "description_visual": "中近景俯拍镜头；车库地面；画面左侧人物，身穿深蓝色西装，抱着贝贝，表情痛苦，表情：眉毛紧锁，眼睛紧闭，嘴巴张大；画面右侧人物，身穿红色吊带裙，昏迷在慎行怀里，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贝贝",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "画面中央",
+                "action": "昏迷，头靠在慎行身上",
+                "expression": "眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "慎行的西装和黑暗背景",
+        "description_narrative": "特写镜头，贝贝昏迷在慎行怀里，画面下方显示求救的字幕。",
+        "dialogue": "来人啊",
+        "speaker": "慎行",
+        "emotion": "绝望",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；慎行的西装和黑暗背景；画面中央人物，身穿红色吊带裙，昏迷，头靠在慎行身上，表情：眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "粗糙的水泥地面",
+        "description_narrative": "特写镜头，手机依然掉落在地面上，屏幕显示与“老婆”的通话仍在继续，暗示电话那头的人听到了一切。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.8,
+        "description_visual": "特写俯拍镜头；粗糙的水泥地面。"
+    }
+]

@@ -1,0 +1,993 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "红色礼服",
+                "position": "画面右上方",
+                "action": "微笑注视前方",
+                "expression": "眉毛舒展，眼睛明亮，嘴角上扬"
+            },
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左下方",
+                "action": "戴眼镜注视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "黄色外卖服",
+                "position": "画面中央下方",
+                "action": "戴头盔看手表",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "黑白裙女性",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面正上方",
+                "action": "注视前方",
+                "expression": "眉毛舒展，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "棕外套女性",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面左上方",
+                "action": "侧身注视",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "电影海报背景，带有金色钱币和城市夜景元素，色调绚丽",
+        "description_narrative": "全景固定镜头展示电影海报，画面中央是身穿黄色外卖服的条纹西装男子，周围环绕着子怡、黑西装男子、黑白裙女性和棕外套女性，背景有金色钱币飞舞和城市夜景，标题“原来是首富”醒目。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.53,
+        "description_visual": "全景平拍镜头；电影海报背景，带有金色钱币和城市夜景元素，色调绚丽；画面右上方人物，身穿红色礼服，微笑注视前方，表情：眉毛舒展，眼睛明亮，嘴角上扬；画面左下方人物，身穿黑色西装，戴眼镜注视前方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭；画面中央下方人物，身穿黄色外卖服，戴头盔看手表，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面正上方人物，身穿白色上衣，注视前方，表情：眉毛舒展，眼睛直视，嘴巴紧闭；画面左上方人物，身穿黑色礼服，侧身注视，表情：眉毛微挑，眼睛侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内办公室环境，背景有绿植和棕色沙发，光线柔和",
+        "description_narrative": "近景固定镜头拍摄子怡，她身穿白色蝴蝶结衬衫，手持手机贴在耳边，神情惊讶地称呼对方“二哥”。",
+        "dialogue": "二哥。",
+        "speaker": "子怡",
+        "emotion": "惊讶",
+        "duration": 0.67,
+        "description_visual": "近景平拍镜头；室内办公室环境，背景有绿植和棕色沙发，光线柔和；画面中央人物，身穿白色蝴蝶结衬衫，手持手机通话，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝马甲男子",
+                "gender": "男",
+                "clothing": "蓝色马甲，白色中式内衬",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴紧闭"
+            }
+        ],
+        "background": "室外绿植背景，光线自然",
+        "description_narrative": "近景固定镜头拍摄蓝马甲男子，他身穿蓝色马甲和白色中式内衬，手持手机贴在耳边，闭目倾听。",
+        "dialogue": "二哥",
+        "speaker": "蓝马甲男子",
+        "emotion": "平静",
+        "duration": 1.1,
+        "description_visual": "近景平拍镜头；室外绿植背景，光线自然；画面中央人物，身穿蓝色马甲，白色中式内衬，手持手机通话，表情：眉毛舒展，眼睛微闭，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内办公室环境，背景有绿植和棕色沙发，光线柔和",
+        "description_narrative": "近景固定镜头拍摄子怡，她手持手机，神情严肃地告知对方“顾泽他回来了”。",
+        "dialogue": "顾泽他回来了",
+        "speaker": "子怡",
+        "emotion": "严肃",
+        "duration": 1.03,
+        "description_visual": "近景平拍镜头；室内办公室环境，背景有绿植和棕色沙发，光线柔和；画面中央人物，身穿白色蝴蝶结衬衫，手持手机通话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内办公室环境，背景有绿植和棕色沙发，光线柔和",
+        "description_narrative": "近景固定镜头拍摄子怡，她继续通话，眉头微皱，询问“现在该怎么办”。",
+        "dialogue": "现在该怎么办",
+        "speaker": "子怡",
+        "emotion": "担忧",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；室内办公室环境，背景有绿植和棕色沙发，光线柔和；画面中央人物，身穿白色蝴蝶结衬衫，手持手机通话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝马甲男子",
+                "gender": "男",
+                "clothing": "蓝色马甲，白色中式内衬",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "眉毛微蹙，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "室外绿植背景，光线自然",
+        "description_narrative": "近景固定镜头拍摄蓝马甲男子，他手持手机，神情沉稳地指示“咱们不要打草惊蛇”。",
+        "dialogue": "咱们不要打草惊蛇",
+        "speaker": "蓝马甲男子",
+        "emotion": "沉稳",
+        "duration": 4.9,
+        "description_visual": "近景平拍镜头；室外绿植背景，光线自然；画面中央人物，身穿蓝色马甲，白色中式内衬，手持手机通话，表情：眉毛微蹙，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "站在门边，低头看手机",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内门口，深色木门，墙纸有花纹",
+        "description_narrative": "中景固定镜头拍摄黑西装男子，他站在深色木门前，低头看着手机，画外音响起“咱们不要打草惊蛇”。",
+        "dialogue": "咱们不要打草惊蛇",
+        "speaker": "蓝马甲男子",
+        "emotion": "疑虑",
+        "duration": 0.97,
+        "description_visual": "中景平拍镜头；室内门口，深色木门，墙纸有花纹；画面左侧人物，身穿黑色西装，站在门边，低头看手机，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝马甲男子",
+                "gender": "男",
+                "clothing": "蓝色马甲，白色中式内衬",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "眉毛微蹙，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "室外绿植背景，光线自然",
+        "description_narrative": "近景固定镜头拍摄蓝马甲男子，他继续通话，强调“秦奋和顾泽的身世一定要保密”。",
+        "dialogue": "秦奋和顾泽的身世一定要保密，暂时不能让顾泽知道他真实情况。",
+        "speaker": "蓝马甲男子",
+        "emotion": "严肃",
+        "duration": 3.27,
+        "description_visual": "近景平拍镜头；室外绿植背景，光线自然；画面中央人物，身穿蓝色马甲，白色中式内衬，手持手机通话，表情：眉毛微蹙，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝马甲男子",
+                "gender": "男",
+                "clothing": "蓝色马甲，白色中式内衬",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "眉毛微蹙，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "室外绿植背景，光线自然",
+        "description_narrative": "近景固定镜头拍摄蓝马甲男子，他继续通话，提到“他的真实情况”。",
+        "dialogue": "他的真实情况",
+        "speaker": "蓝马甲男子",
+        "emotion": "严肃",
+        "duration": 2.7,
+        "description_visual": "近景平拍镜头；室外绿植背景，光线自然；画面中央人物，身穿蓝色马甲，白色中式内衬，手持手机通话，表情：眉毛微蹙，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内办公室环境，背景有绿植和棕色沙发，光线柔和",
+        "description_narrative": "近景固定镜头拍摄子怡，她手持手机，神情凝重地说“等大姐回来再说”。",
+        "dialogue": "等大姐回来再说",
+        "speaker": "子怡",
+        "emotion": "凝重",
+        "duration": 1.43,
+        "description_visual": "近景平拍镜头；室内办公室环境，背景有绿植和棕色沙发，光线柔和；画面中央人物，身穿白色蝴蝶结衬衫，手持手机通话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内办公室环境，背景有绿植和棕色沙发，光线柔和",
+        "description_narrative": "近景固定镜头拍摄子怡，她结束通话，说道“好，那我先去开会”。",
+        "dialogue": "好，那我先去开会",
+        "speaker": "子怡",
+        "emotion": "干练",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；室内办公室环境，背景有绿植和棕色沙发，光线柔和；画面中央人物，身穿白色蝴蝶结衬衫，手持手机通话，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "手持酒杯，神情疑虑",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内房间，深色木门，墙纸有花纹",
+        "description_narrative": "近景固定镜头拍摄黑西装男子，他手持酒杯，眼神疑惑地自语“什么身世”。",
+        "dialogue": "什么身世",
+        "speaker": "黑西装男子",
+        "emotion": "疑虑",
+        "duration": 1.1,
+        "description_visual": "近景平拍镜头；室内房间，深色木门，墙纸有花纹；画面中央人物，身穿黑色西装，手持酒杯，神情疑虑，表情：眉毛微蹙，眼睛侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "手持酒杯，神情疑虑",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，深色木门，墙纸有花纹",
+        "description_narrative": "近景固定镜头拍摄黑西装男子，他继续自语，疑惑“到底瞒着我什么秘密”。",
+        "dialogue": "什么身世，到底瞒着我什么秘密",
+        "speaker": "黑西装男子",
+        "emotion": "疑虑",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；室内房间，深色木门，墙纸有花纹；画面中央人物，身穿黑色西装，手持酒杯，神情疑虑，表情：眉毛微蹙，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫，黑色裙子",
+                "position": "画面中央",
+                "action": "快步走过玻璃门",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室走廊，玻璃门，白色墙壁，地面光亮",
+        "description_narrative": "全景跟拍镜头，子怡身穿白色衬衫和黑色裙子，快步走过玻璃门进入办公室区域。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "匆忙",
+        "duration": 1.27,
+        "description_visual": "全景平拍镜头（跟拍）；办公室走廊，玻璃门，白色墙壁，地面光亮；画面中央人物，身穿白色蝴蝶结衬衫，黑色裙子，快步走过玻璃门，表情：眉毛舒展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "注视前方",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他身穿深色条纹西装，系着蓝金条纹领带，注视着前方。",
+        "dialogue": "你先在这等我一下",
+        "speaker": "条纹西装男子",
+        "emotion": "温和",
+        "duration": 1.1,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，蓝金条纹领带，注视前方，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "站立，侧身",
+                "expression": "眉毛舒展，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，白色墙壁",
+        "description_narrative": "近景固定镜头拍摄子怡，她侧身站立，说道“我去准备会议资料”。",
+        "dialogue": "我去准备会议资料",
+        "speaker": "子怡",
+        "emotion": "干练",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；办公室环境，白色墙壁；画面中央人物，身穿白色蝴蝶结衬衫，站立，侧身，表情：眉毛舒展，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "注视前方",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他重复道“我去准备会议资料”。",
+        "dialogue": "我去准备会议资料",
+        "speaker": "条纹西装男子",
+        "emotion": "温和",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，蓝金条纹领带，注视前方，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "注视前方",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他轻声呼唤“哎”。",
+        "dialogue": "哎",
+        "speaker": "条纹西装男子",
+        "emotion": "犹豫",
+        "duration": 1.23,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，蓝金条纹领带，注视前方，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "转身",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室环境，白色墙壁",
+        "description_narrative": "近景固定镜头拍摄子怡，她转身回头，条纹西装男子画外音响起“哎子怡昨天晚上的事”。",
+        "dialogue": "哎子怡昨天晚上的事",
+        "speaker": "条纹西装男子",
+        "emotion": "犹豫",
+        "duration": 1.17,
+        "description_visual": "近景平拍镜头；办公室环境，白色墙壁；画面中央人物，身穿白色蝴蝶结衬衫，转身，表情：眉毛微挑，眼睛侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他微笑着继续说“哎子怡昨天晚上的事”。",
+        "dialogue": "哎子怡昨天晚上的事",
+        "speaker": "条纹西装男子",
+        "emotion": "微笑",
+        "duration": 0.83,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，蓝金条纹领带，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他继续说道“那事儿”。",
+        "dialogue": "那事儿",
+        "speaker": "条纹西装男子",
+        "emotion": "微笑",
+        "duration": 1.97,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，蓝金条纹领带，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室环境，白色墙壁",
+        "description_narrative": "近景固定镜头拍摄子怡，她神情平静，条纹西装男子画外音响起“我会对你负责任的”。",
+        "dialogue": "我会对你负责任的",
+        "speaker": "条纹西装男子",
+        "emotion": "平静",
+        "duration": 0.63,
+        "description_visual": "近景平拍镜头；办公室环境，白色墙壁；画面中央人物，身穿白色蝴蝶结衬衫，站立，表情：眉毛舒展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他认真地说道“我会对你负责任的”。",
+        "dialogue": "我会对你负责任的",
+        "speaker": "条纹西装男子",
+        "emotion": "认真",
+        "duration": 0.93,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，蓝金条纹领带，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他点头回应“嗯”。",
+        "dialogue": "嗯",
+        "speaker": "条纹西装男子",
+        "emotion": "肯定",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，蓝金条纹领带，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁，海报",
+        "description_narrative": "中景固定镜头拍摄条纹西装男子和子怡相对而立，两人沉默对视。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉默",
+        "duration": 1.03,
+        "description_visual": "中景平拍镜头；办公室走廊，白色墙壁，海报；画面左侧人物，身穿深色条纹西装，站立，表情：眉毛舒展，眼睛直视，嘴巴紧闭；画面右侧人物，身穿白色蝴蝶结衬衫，站立，表情：眉毛舒展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黑白裙女性",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面右侧",
+                "action": "手持玻璃杯行走",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁",
+        "description_narrative": "中景跟拍镜头，黑白裙女性手持玻璃杯匆匆走过。",
+        "dialogue": "嗯",
+        "speaker": "黑白裙女性",
+        "emotion": "匆忙",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头（跟拍）；办公室走廊，白色墙壁；画面右侧人物，身穿白色衬衫，黑色背带裙，手持玻璃杯行走，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑白裙女性",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面中央",
+                "action": "手持玻璃杯",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁",
+        "description_narrative": "近景固定镜头拍摄黑白裙女性，她手持玻璃杯，轻声回应“嗯”。",
+        "dialogue": "那个",
+        "speaker": "黑白裙女性",
+        "emotion": "犹豫",
+        "duration": 2.53,
+        "description_visual": "近景平拍镜头；办公室走廊，白色墙壁；画面中央人物，身穿白色衬衫，黑色背带裙，手持玻璃杯，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他低头看着地面，黑白裙女性画外音响起“那个”。",
+        "dialogue": "那个",
+        "speaker": "黑白裙女性",
+        "emotion": "犹豫",
+        "duration": 0.77,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，低头，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑白裙女性",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面中央",
+                "action": "手持玻璃杯",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁",
+        "description_narrative": "近景固定镜头拍摄黑白裙女性，她手持玻璃杯，道歉道“对不起我不是故意的”。",
+        "dialogue": "对不起我不是故意的",
+        "speaker": "黑白裙女性",
+        "emotion": "歉意",
+        "duration": 0.7,
+        "description_visual": "近景平拍镜头；办公室走廊，白色墙壁；画面中央人物，身穿白色衬衫，黑色背带裙，手持玻璃杯，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑白裙女性",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面中央",
+                "action": "手持玻璃杯",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁",
+        "description_narrative": "近景固定镜头拍摄黑白裙女性，她继续道歉“我不是故意的”。",
+        "dialogue": "我不是故意的",
+        "speaker": "黑白裙女性",
+        "emotion": "歉意",
+        "duration": 1.3,
+        "description_visual": "近景平拍镜头；办公室走廊，白色墙壁；画面中央人物，身穿白色衬衫，黑色背带裙，手持玻璃杯，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他低头回应“没事”。",
+        "dialogue": "没事",
+        "speaker": "条纹西装男子",
+        "emotion": "温和",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，低头，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑白裙女性",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面中央",
+                "action": "手持玻璃杯",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁",
+        "description_narrative": "近景固定镜头拍摄黑白裙女性，她手持玻璃杯，询问“那个，你知道咖啡机在哪吗”。",
+        "dialogue": "那个，你知道咖啡机在哪吗",
+        "speaker": "黑白裙女性",
+        "emotion": "询问",
+        "duration": 0.7,
+        "description_visual": "近景平拍镜头；办公室走廊，白色墙壁；画面中央人物，身穿白色衬衫，黑色背带裙，手持玻璃杯，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛舒展，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他低头沉默。",
+        "dialogue": "我也是新来的",
+        "speaker": "黑白裙女性",
+        "emotion": "尴尬",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，低头，表情：眉毛舒展，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑白裙女性",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面中央",
+                "action": "手持玻璃杯",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁",
+        "description_narrative": "近景固定镜头拍摄黑白裙女性，她解释道“我也是新来的”。",
+        "dialogue": "我也不知道",
+        "speaker": "条纹西装男子",
+        "emotion": "无奈",
+        "duration": 0.67,
+        "description_visual": "近景平拍镜头；办公室走廊，白色墙壁；画面中央人物，身穿白色衬衫，黑色背带裙，手持玻璃杯，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "黑白裙女性",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面右侧",
+                "action": "手持玻璃杯",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁，海报",
+        "description_narrative": "中景固定镜头拍摄两人相对而立，条纹西装男子说道“我也不知道”。",
+        "dialogue": "你个",
+        "speaker": "棕外套女性",
+        "emotion": "愤怒",
+        "duration": 0.7,
+        "description_visual": "中景平拍镜头；办公室走廊，白色墙壁，海报；画面左侧人物，身穿深色条纹西装，站立，表情：眉毛舒展，眼睛直视，嘴巴微张；画面右侧人物，身穿白色衬衫，黑色背带裙，手持玻璃杯，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕外套女性",
+                "gender": "女",
+                "clothing": "棕色西装外套，格纹裙",
+                "position": "画面中央",
+                "action": "愤怒表情",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "办公室环境，模糊背景",
+        "description_narrative": "近景固定镜头拍摄棕外套女性，她表情愤怒，骂道“你个”。",
+        "dialogue": "白痴",
+        "speaker": "棕外套女性",
+        "emotion": "愤怒",
+        "duration": 0.97,
+        "description_visual": "近景平拍镜头；办公室环境，模糊背景；画面中央人物，身穿棕色西装外套，格纹裙，愤怒表情，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑白裙女性",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色背带裙",
+                "position": "画面中央",
+                "action": "被拉扯头发",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁",
+        "description_narrative": "特写固定镜头拍摄黑白裙女性，她被人拉扯头发，表情痛苦，画外音响起“白痴”。",
+        "dialogue": "我跟你说了多少遍",
+        "speaker": "棕外套女性",
+        "emotion": "愤怒",
+        "duration": 0.67,
+        "description_visual": "特写平拍镜头；办公室走廊，白色墙壁；画面中央人物，身穿白色衬衫，黑色背带裙，被拉扯头发，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕外套女性",
+                "gender": "女",
+                "clothing": "棕色西装外套，格纹裙",
+                "position": "画面中央",
+                "action": "愤怒表情",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "办公室环境，模糊背景",
+        "description_narrative": "近景固定镜头拍摄棕外套女性，她继续愤怒地指责“我跟你说了多少遍”。",
+        "dialogue": "让你泡咖啡",
+        "speaker": "棕外套女性",
+        "emotion": "愤怒",
+        "duration": 0.7,
+        "description_visual": "近景平拍镜头；办公室环境，模糊背景；画面中央人物，身穿棕色西装外套，格纹裙，愤怒表情，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "注视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他听到指责，神情严肃，画外音响起“让你泡咖啡”。",
+        "dialogue": "你在这给我偷懒是吧",
+        "speaker": "棕外套女性",
+        "emotion": "愤怒",
+        "duration": 0.67,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，注视前方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕外套女性",
+                "gender": "女",
+                "clothing": "棕色西装外套，格纹裙",
+                "position": "画面中央",
+                "action": "愤怒表情",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "办公室环境，模糊背景",
+        "description_narrative": "近景固定镜头拍摄棕外套女性，她继续指责“你在这给我偷懒是吧”。",
+        "dialogue": "是吧",
+        "speaker": "棕外套女性",
+        "emotion": "愤怒",
+        "duration": 1.53,
+        "description_visual": "近景平拍镜头；办公室环境，模糊背景；画面中央人物，身穿棕色西装外套，格纹裙，愤怒表情，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "注视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室环境，灰色墙壁",
+        "description_narrative": "近景固定镜头拍摄条纹西装男子，他听到指责，神情不悦，画外音响起“是吧”。",
+        "dialogue": "没有没有",
+        "speaker": "黑白裙女性",
+        "emotion": "慌张",
+        "duration": 1.43,
+        "description_visual": "近景平拍镜头；办公室环境，灰色墙壁；画面中央人物，身穿深色条纹西装，注视前方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    }
+]

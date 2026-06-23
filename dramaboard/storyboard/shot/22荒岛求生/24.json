@@ -1,0 +1,756 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，白色文字标题。",
+        "description_narrative": "黑色背景中央显示白色大字标题“第二十五集”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；纯黑背景，白色文字标题。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧前景",
+                "action": "背对镜头，身体前倾看向地面。",
+                "expression": "眉毛微蹙，眼神关切。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "坐在地上，低头看着怀里的人，双手紧握。",
+                "expression": "眉头紧锁，眼眶含泪，嘴巴微张。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方，躺在若溪腿上",
+                "action": "双眼紧闭，头部靠在若溪大腿上，身体静止。",
+                "expression": "面色苍白，嘴唇微启，无意识状态。"
+            }
+        ],
+        "background": "深夜野外草丛，光线昏暗，色调偏冷。",
+        "description_narrative": "俯拍镜头下，深夜的草丛中，若溪坐在地上抱着昏迷的曼凝，周正蹲在一旁关切地看着她们，若溪神情焦急。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 0.73,
+        "description_visual": "中近景俯拍镜头；深夜野外草丛，光线昏暗，色调偏冷。；画面左侧前景人物，身穿脏污白色衬衫，背对镜头，身体前倾看向地面。，表情：眉毛微蹙，眼神关切。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，坐在地上，低头看着怀里的人，双手紧握。，表情：眉头紧锁，眼眶含泪，嘴巴微张。；画面下方，躺在若溪腿上人物，身穿白衬衫，双眼紧闭，头部靠在若溪大腿上，身体静止。，表情：面色苍白，嘴唇微启，无意识状态。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧前景",
+                "action": "侧身看着若溪。",
+                "expression": "神情严肃。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "抬头看向周正，双手颤抖。",
+                "expression": "眼泪滑落，眉毛紧皱，嘴巴微张求助。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "躺在若溪腿上，无动作。",
+                "expression": "双眼紧闭，面色苍白。"
+            }
+        ],
+        "background": "深夜野外，黑暗笼罩，仅有微弱光源照亮人物。",
+        "description_narrative": "若溪抬头泪眼婆娑地看着周正，无助地询问怎么办，周正侧身倾听，曼凝依旧昏迷不醒。",
+        "dialogue": "怎么办",
+        "speaker": "若溪",
+        "emotion": "恐慌",
+        "duration": 1.27,
+        "description_visual": "中近景俯拍镜头；深夜野外，黑暗笼罩，仅有微弱光源照亮人物。；画面左侧前景人物，身穿脏污白色衬衫，侧身看着若溪。，表情：神情严肃。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，抬头看向周正，双手颤抖。，表情：眼泪滑落，眉毛紧皱，嘴巴微张求助。；画面下方人物，身穿白衬衫，躺在若溪腿上，无动作。，表情：双眼紧闭，面色苍白。。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧",
+                "action": "保持蹲姿，注视前方。",
+                "expression": "表情凝重。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "低头看着曼凝，身体微微前倾。",
+                "expression": "悲伤，眼泪在眼眶打转。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "静止不动。",
+                "expression": "闭眼，呼吸微弱。"
+            }
+        ],
+        "background": "夜间户外，背景为模糊的灌木丛。",
+        "description_narrative": "若溪低头哭泣，周正沉默片刻，气氛紧张压抑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 0.63,
+        "description_visual": "中近景俯拍镜头；夜间户外，背景为模糊的灌木丛。；画面左侧人物，身穿脏污白色衬衫，保持蹲姿，注视前方。，表情：表情凝重。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，低头看着曼凝，身体微微前倾。，表情：悲伤，眼泪在眼眶打转。；画面下方人物，身穿白衬衫，静止不动。，表情：闭眼，呼吸微弱。。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫，内搭黑色背心",
+                "position": "画面中央",
+                "action": "侧脸特写，头部微低。",
+                "expression": "眼神坚定，嘴唇紧闭。"
+            }
+        ],
+        "background": "黑暗背景，突出人物轮廓。",
+        "description_narrative": "镜头给到周正侧脸特写，他冷静地开口安慰若溪，指示要救活曼凝。",
+        "dialogue": "别哭了，她还有呼吸。我们要救活她。",
+        "speaker": "周正",
+        "emotion": "冷静",
+        "duration": 3.27,
+        "description_visual": "特写侧拍镜头；黑暗背景，突出人物轮廓。；画面中央人物，身穿脏污白色衬衫，内搭黑色背心，侧脸特写，头部微低。，表情：眼神坚定，嘴唇紧闭。。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧",
+                "action": "伸手触碰曼凝。",
+                "expression": "专注。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "抱着曼凝，身体僵硬。",
+                "expression": "哭泣，神情无助。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "躺在若溪腿上。",
+                "expression": "昏迷。"
+            }
+        ],
+        "background": "夜间草地，光线昏暗。",
+        "description_narrative": "周正伸手检查曼凝状况，若溪依旧在哭泣，画面充满紧张感。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.8,
+        "description_visual": "中近景俯拍镜头；夜间草地，光线昏暗。；画面左侧人物，身穿脏污白色衬衫，伸手触碰曼凝。，表情：专注。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，抱着曼凝，身体僵硬。，表情：哭泣，神情无助。；画面下方人物，身穿白衬衫，躺在若溪腿上。，表情：昏迷。。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧",
+                "action": "手部动作。",
+                "expression": "专注。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "低头看着曼凝。",
+                "expression": "悲伤。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "发出微弱的声音。",
+                "expression": "眉头微动。"
+            }
+        ],
+        "background": "夜间野外，暗调。",
+        "description_narrative": "曼凝发出微弱的声音，若溪和周正同时看向她。",
+        "dialogue": "啊",
+        "speaker": "曼凝",
+        "emotion": "虚弱",
+        "duration": 0.6,
+        "description_visual": "中近景俯拍镜头；夜间野外，暗调。；画面左侧人物，身穿脏污白色衬衫，手部动作。，表情：专注。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，低头看着曼凝。，表情：悲伤。；画面下方人物，身穿白衬衫，发出微弱的声音。，表情：眉头微动。。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧",
+                "action": "呼唤名字。",
+                "expression": "关切。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "抱着曼凝。",
+                "expression": "担忧。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "无反应。",
+                "expression": "闭眼。"
+            }
+        ],
+        "background": "夜间草丛。",
+        "description_narrative": "周正轻声呼唤曼凝的名字，试图唤醒她。",
+        "dialogue": "曼凝。",
+        "speaker": "周正",
+        "emotion": "关切",
+        "duration": 1.4,
+        "description_visual": "中近景俯拍镜头；夜间草丛。；画面左侧人物，身穿脏污白色衬衫，呼唤名字。，表情：关切。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，抱着曼凝。，表情：担忧。；画面下方人物，身穿白衬衫，无反应。，表情：闭眼。。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧",
+                "action": "侧身倾听。",
+                "expression": "严肃。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "焦急地看向周正。",
+                "expression": "哭泣，眉头紧锁。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "躺在若溪腿上。",
+                "expression": "苍白。"
+            }
+        ],
+        "background": "夜间野外。",
+        "description_narrative": "若溪再次焦急地询问周正该怎么办，周正侧身听着。",
+        "dialogue": "怎么办？周正。",
+        "speaker": "若溪",
+        "emotion": "焦急",
+        "duration": 3.2,
+        "description_visual": "中近景俯拍镜头；夜间野外。；画面左侧人物，身穿脏污白色衬衫，侧身倾听。，表情：严肃。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，焦急地看向周正。，表情：哭泣，眉头紧锁。；画面下方人物，身穿白衬衫，躺在若溪腿上。，表情：苍白。。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧",
+                "action": "触摸曼凝的手臂。",
+                "expression": "凝重。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "抱着曼凝，身体颤抖。",
+                "expression": "恐惧，流泪。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "身体冰冷。",
+                "expression": "无意识。"
+            }
+        ],
+        "background": "夜间草地，暗调。",
+        "description_narrative": "若溪哭着说曼凝的身体越来越冷了，周正触摸曼凝的手臂确认温度。",
+        "dialogue": "曼凝的身体越来越冷了。",
+        "speaker": "若溪",
+        "emotion": "恐惧",
+        "duration": 0.6,
+        "description_visual": "中近景俯拍镜头；夜间草地，暗调。；画面左侧人物，身穿脏污白色衬衫，触摸曼凝的手臂。，表情：凝重。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，抱着曼凝，身体颤抖。，表情：恐惧，流泪。；画面下方人物，身穿白衬衫，身体冰冷。，表情：无意识。。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧",
+                "action": "手放在曼凝身上。",
+                "expression": "思考。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "紧紧抱着曼凝。",
+                "expression": "绝望。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "静止。",
+                "expression": "苍白。"
+            }
+        ],
+        "background": "夜间野外。",
+        "description_narrative": "若溪继续哭诉曼凝身体变冷，周正低头思考对策。",
+        "dialogue": "曼凝的身体越来越冷了。",
+        "speaker": "若溪",
+        "emotion": "绝望",
+        "duration": 0.77,
+        "description_visual": "中近景俯拍镜头；夜间野外。；画面左侧人物，身穿脏污白色衬衫，手放在曼凝身上。，表情：思考。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，紧紧抱着曼凝。，表情：绝望。；画面下方人物，身穿白衬衫，静止。，表情：苍白。。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "脏污白色衬衫",
+                "position": "画面左侧",
+                "action": "抬头。",
+                "expression": "决断。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "看着周正。",
+                "expression": "期待。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "发出微弱声音。",
+                "expression": "痛苦。"
+            }
+        ],
+        "background": "夜间草丛。",
+        "description_narrative": "曼凝再次发出微弱的声音，周正似乎想到了办法。",
+        "dialogue": "啊。",
+        "speaker": "曼凝",
+        "emotion": "痛苦",
+        "duration": 1.33,
+        "description_visual": "中近景俯拍镜头；夜间草丛。；画面左侧人物，身穿脏污白色衬衫，抬头。，表情：决断。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，看着周正。，表情：期待。；画面下方人物，身穿白衬衫，发出微弱声音。，表情：痛苦。。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心（正在脱白衬衫）",
+                "position": "画面左侧",
+                "action": "脱下白色衬衫，递给若溪。",
+                "expression": "果断。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "接过衬衫。",
+                "expression": "疑惑转为理解。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "被覆盖衣物。",
+                "expression": "闭眼。"
+            }
+        ],
+        "background": "夜间野外。",
+        "description_narrative": "周正迅速脱下自己的白衬衫，指挥若溪抱紧曼凝，通过体温传递热量。",
+        "dialogue": "让我想想。这样。你抱紧她。这样热量传递的更快。",
+        "speaker": "周正",
+        "emotion": "果断",
+        "duration": 10.47,
+        "description_visual": "中近景俯拍镜头；夜间野外。；画面左侧人物，身穿黑色背心（正在脱白衬衫），脱下白色衬衫，递给若溪。，表情：果断。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，接过衬衫。，表情：疑惑转为理解。；画面下方人物，身穿白衬衫，被覆盖衣物。，表情：闭眼。。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "协助覆盖衣物。",
+                "expression": "专注。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "紧紧抱住曼凝。",
+                "expression": "用力。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫（被周正的衬衫覆盖）",
+                "position": "画面下方",
+                "action": "身体颤抖，皱眉。",
+                "expression": "痛苦，寒冷。"
+            }
+        ],
+        "background": "夜间草地。",
+        "description_narrative": "曼凝在昏迷中感到寒冷，痛苦地说不行好冷，若溪紧紧抱着她。",
+        "dialogue": "不行。不行，我好冷啊。",
+        "speaker": "曼凝",
+        "emotion": "痛苦",
+        "duration": 6.87,
+        "description_visual": "中近景俯拍镜头；夜间草地。；画面左侧人物，身穿黑色背心，协助覆盖衣物。，表情：专注。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，紧紧抱住曼凝。，表情：用力。；画面下方人物，身穿白衬衫（被周正的衬衫覆盖），身体颤抖，皱眉。，表情：痛苦，寒冷。。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "侧脸，说话。",
+                "expression": "温柔转为严肃。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面右侧（画外/局部）",
+                "action": "说话。",
+                "expression": "迷糊。"
+            }
+        ],
+        "background": "黑暗背景。",
+        "description_narrative": "周正安慰曼凝说不冷，自己正抱着她，曼凝迷糊中问那边是不是色狼。",
+        "dialogue": "不冷，曼凝。不冷，我正抱着你。那边，那边是那个色狼在那吗？",
+        "speaker": "周正",
+        "emotion": "安慰",
+        "duration": 8.57,
+        "description_visual": "特写侧拍镜头；黑暗背景。；画面左侧人物，身穿黑色背心，侧脸，说话。，表情：温柔转为严肃。；画面右侧（画外/局部）人物，身穿白衬衫，说话。，表情：迷糊。。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "看着曼凝。",
+                "expression": "嘴角微扬，调侃。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "抱着曼凝。",
+                "expression": "担忧。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "躺在若溪腿上，被白衬衫覆盖。",
+                "expression": "眉头微皱，嘴微张。"
+            }
+        ],
+        "background": "夜间野外。",
+        "description_narrative": "周正听到曼凝叫色狼，调侃她还有心说话说明能活，若溪依旧担忧。",
+        "dialogue": "还有心叫我色狼，看来你还能活。",
+        "speaker": "周正",
+        "emotion": "调侃",
+        "duration": 3.33,
+        "description_visual": "中近景俯拍镜头；夜间野外。；画面左侧人物，身穿黑色背心，看着曼凝。，表情：嘴角微扬，调侃。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，抱着曼凝。，表情：担忧。；画面下方人物，身穿白衬衫，躺在若溪腿上，被白衬衫覆盖。，表情：眉头微皱，嘴微张。。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "伸手抚摸曼凝额头。",
+                "expression": "关切。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "抱着曼凝。",
+                "expression": "哭泣。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "头部微动。",
+                "expression": "痛苦，眩晕。"
+            }
+        ],
+        "background": "夜间草丛。",
+        "description_narrative": "曼凝感到头晕，周正伸手安抚她，若溪在一旁哭泣。",
+        "dialogue": "啊，我头，我头好晕啊。",
+        "speaker": "曼凝",
+        "emotion": "眩晕",
+        "duration": 4.77,
+        "description_visual": "中近景俯拍镜头；夜间草丛。；画面左侧人物，身穿黑色背心，伸手抚摸曼凝额头。，表情：关切。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，抱着曼凝。，表情：哭泣。；画面下方人物，身穿白衬衫，头部微动。，表情：痛苦，眩晕。。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "侧脸，倾听。",
+                "expression": "严肃。"
+            }
+        ],
+        "background": "黑暗背景。",
+        "description_narrative": "曼凝虚弱地托付周正照顾好若溪，周正侧耳倾听。",
+        "dialogue": "你要帮我照顾好若溪。",
+        "speaker": "曼凝",
+        "emotion": "虚弱",
+        "duration": 3.13,
+        "description_visual": "特写侧拍镜头；黑暗背景。；画面左侧人物，身穿黑色背心，侧脸，倾听。，表情：严肃。。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "看着曼凝。",
+                "expression": "严厉。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "抱着曼凝。",
+                "expression": "震惊。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "看着周正。",
+                "expression": "虚弱，眼神涣散。"
+            }
+        ],
+        "background": "夜间野外。",
+        "description_narrative": "周正狠话刺激曼凝，说如果她死了自己就不管若溪，曼凝眼神震动。",
+        "dialogue": "你要是死了，我可不管若溪。",
+        "speaker": "周正",
+        "emotion": "严厉",
+        "duration": 3.5,
+        "description_visual": "中近景俯拍镜头；夜间野外。；画面左侧人物，身穿黑色背心，看着曼凝。，表情：严厉。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，抱着曼凝。，表情：震惊。；画面下方人物，身穿白衬衫，看着周正。，表情：虚弱，眼神涣散。。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "注视曼凝。",
+                "expression": "坚定。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "抱着曼凝。",
+                "expression": "担忧。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "嘴唇微动。",
+                "expression": "虚弱。"
+            }
+        ],
+        "background": "夜间草丛。",
+        "description_narrative": "曼凝被激将法刺激，虚弱地发出一个“你”字，周正坚定地看着她。",
+        "dialogue": "你。",
+        "speaker": "曼凝",
+        "emotion": "虚弱",
+        "duration": 1.7,
+        "description_visual": "中近景俯拍镜头；夜间草丛。；画面左侧人物，身穿黑色背心，注视曼凝。，表情：坚定。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，抱着曼凝。，表情：担忧。；画面下方人物，身穿白衬衫，嘴唇微动。，表情：虚弱。。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "保持姿势。",
+                "expression": "关注。"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "校服白衬衫、彩色领结、深色背心",
+                "position": "画面中央",
+                "action": "抱着曼凝。",
+                "expression": "哭泣。"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "白衬衫",
+                "position": "画面下方",
+                "action": "闭眼休息。",
+                "expression": "平静。"
+            }
+        ],
+        "background": "夜间野外，暗调。",
+        "description_narrative": "三人保持在草地上的姿势，气氛稍缓，周正继续守护着她们。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 5.0,
+        "description_visual": "中近景俯拍镜头；夜间野外，暗调。；画面左侧人物，身穿黑色背心，保持姿势。，表情：关注。；画面中央人物，身穿校服白衬衫、彩色领结、深色背心，抱着曼凝。，表情：哭泣。；画面下方人物，身穿白衬衫，闭眼休息。，表情：平静。。"
+    }
+]

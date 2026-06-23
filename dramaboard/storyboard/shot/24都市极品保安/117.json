@@ -1,0 +1,676 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣，白色短裙",
+                "position": "画面右侧",
+                "action": "站立，手被一名男子握住",
+                "expression": "表情自信，嘴角微扬，眼神看向侧前方"
+            },
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央偏左",
+                "action": "坐着，抬头看向苏总，手被苏总握住",
+                "expression": "眼神向上看，表情略带期待"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "绿色连衣裙",
+                "position": "画面左侧",
+                "action": "站立，手搭在男子肩上",
+                "expression": "表情平静，看向前方"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面左后景",
+                "action": "站立",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带，灰色开衫",
+                "position": "画面右后景",
+                "action": "站立，微笑",
+                "expression": "嘴角上扬，眼神柔和"
+            }
+        ],
+        "background": "夜晚都市背景，灯光虚化，带有金色光斑",
+        "description_narrative": "全景镜头，夜晚都市背景下，苏总身穿黄色上衣站在右侧，手握着坐在中央的男子的手，周围环绕着其他几位女性，画面下方出现剧名标题。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.52,
+        "description_visual": "全景平拍镜头；夜晚都市背景，灯光虚化，带有金色光斑；画面右侧人物，身穿黄色丝绸上衣，白色短裙，站立，手被一名男子握住，表情：表情自信，嘴角微扬，眼神看向侧前方；画面中央偏左人物，身穿黑色西装，坐着，抬头看向苏总，手被苏总握住，表情：眼神向上看，表情略带期待；画面左侧人物，身穿绿色连衣裙，站立，手搭在男子肩上，表情：表情平静，看向前方；画面左后景人物，身穿黑色上衣，站立，表情：表情严肃；画面右后景人物，身穿粉色吊带，灰色开衫，站立，微笑，表情：嘴角上扬，眼神柔和。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "室内墙面，挂着一幅几何抽象画，色调温暖",
+        "description_narrative": "特写镜头，聚焦于墙面上的一幅几何抽象画，画面静止，色调偏暖黄。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "特写平拍镜头；室内墙面，挂着一幅几何抽象画，色调温暖。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带内搭，灰色开衫",
+                "position": "画面右侧",
+                "action": "匆忙进入画面，右手抬起",
+                "expression": "眉毛微蹙，嘴巴微张，神情焦急"
+            }
+        ],
+        "background": "室内办公环境，背景有几何画作",
+        "description_narrative": "中景镜头，粉衣女子匆忙从右侧进入画面，右手抬起，神情焦急地呼喊。",
+        "dialogue": "茵茵姐。",
+        "speaker": "粉衣女子",
+        "emotion": "焦急",
+        "duration": 1.08,
+        "description_visual": "中景平拍镜头（跟拍）；室内办公环境，背景有几何画作；画面右侧人物，身穿粉色吊带内搭，灰色开衫，匆忙进入画面，右手抬起，表情：眉毛微蹙，嘴巴微张，神情焦急。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面左侧",
+                "action": "坐在办公桌后，抬头看向进人",
+                "expression": "眉毛微挑，眼睛睁大，嘴唇微张，显露惊讶"
+            },
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "灰色开衫",
+                "position": "画面右侧前景",
+                "action": "身体前倾，手臂伸出",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "过肩镜头，苏总坐在桌后，听到呼喊后抬头，眼神惊讶地看向前景的粉衣女子。",
+        "dialogue": "茵茵姐 不好了",
+        "speaker": "粉衣女子",
+        "emotion": "惊讶",
+        "duration": 2.36,
+        "description_visual": "近景过肩镜头；办公室内，背景有书架；画面左侧人物，身穿黄色丝绸上衣，坐在办公桌后，抬头看向进人，表情：眉毛微挑，眼睛睁大，嘴唇微张，显露惊讶；画面右侧前景人物，身穿灰色开衫，身体前倾，手臂伸出，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带，灰色开衫",
+                "position": "画面中央",
+                "action": "站立，身体微向前倾",
+                "expression": "眉毛紧锁，眼神向下，嘴巴快速开合，语速急促"
+            }
+        ],
+        "background": "室内墙面，色调暖黄",
+        "description_narrative": "近景镜头，粉衣女子面对镜头，神情焦虑地解释情况，语速较快。",
+        "dialogue": "我爸让我回家继承公司去。",
+        "speaker": "粉衣女子",
+        "emotion": "焦虑",
+        "duration": 3.12,
+        "description_visual": "近景平拍镜头；室内墙面，色调暖黄；画面中央人物，身穿粉色吊带，灰色开衫，站立，身体微向前倾，表情：眉毛紧锁，眼神向下，嘴巴快速开合，语速急促。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，双手放在桌上",
+                "expression": "眉毛舒展，眼神平和，嘴角微扬，带着笑意"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总听到消息后，面带微笑，语气轻松地回应对方。",
+        "dialogue": "那多好啊 你不是一直想当总裁吗",
+        "speaker": "苏总",
+        "emotion": "轻松",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，双手放在桌上，表情：眉毛舒展，眼神平和，嘴角微扬，带着笑意。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带，灰色开衫",
+                "position": "画面中央",
+                "action": "站立，眼神低垂",
+                "expression": "眉毛微蹙，眼神躲闪，嘴角下撇，显得委屈"
+            }
+        ],
+        "background": "室内墙面，色调暖黄",
+        "description_narrative": "近景镜头，粉衣女子听到苏总的话，并没有高兴，反而低下头，表情委屈。",
+        "dialogue": "那多好啊 你不是一直想当总裁吗",
+        "speaker": "苏总",
+        "emotion": "委屈",
+        "duration": 0.88,
+        "description_visual": "近景平拍镜头；室内墙面，色调暖黄；画面中央人物，身穿粉色吊带，灰色开衫，站立，眼神低垂，表情：眉毛微蹙，眼神躲闪，嘴角下撇，显得委屈。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，身体微前倾，手势询问",
+                "expression": "眉毛微挑，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总察觉到对方情绪不对，身体前倾，疑惑地询问原因。",
+        "dialogue": "这得偿所愿了 怎么还不高兴啦",
+        "speaker": "苏总",
+        "emotion": "疑惑",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，身体微前倾，手势询问，表情：眉毛微挑，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带，灰色开衫",
+                "position": "画面中央",
+                "action": "站立，眼神看向侧下方",
+                "expression": "眉毛紧锁，眼神游离，嘴巴微张，欲言又止"
+            }
+        ],
+        "background": "室内墙面，色调暖黄",
+        "description_narrative": "近景镜头，粉衣女子依然愁眉不展，眼神游离，似乎在犹豫如何开口。",
+        "dialogue": "他说回去当总裁的前提是得有个老公",
+        "speaker": "粉衣女子",
+        "emotion": "为难",
+        "duration": 3.8,
+        "description_visual": "近景平拍镜头；室内墙面，色调暖黄；画面中央人物，身穿粉色吊带，灰色开衫，站立，眼神看向侧下方，表情：眉毛紧锁，眼神游离，嘴巴微张，欲言又止。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，双手交握",
+                "expression": "眉毛微蹙，眼神专注，嘴唇紧闭，认真倾听"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总坐在桌后，双手交握，认真倾听粉衣女子的难处，表情逐渐变得严肃。",
+        "dialogue": "我连个男朋友都没有",
+        "speaker": "粉衣女子",
+        "emotion": "认真",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，双手交握，表情：眉毛微蹙，眼神专注，嘴唇紧闭，认真倾听。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带，灰色开衫",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛下垂，眼神无奈，嘴巴微张，叹气"
+            }
+        ],
+        "background": "室内墙面，色调暖黄",
+        "description_narrative": "近景镜头，粉衣女子无奈地摊开双手（或垂下），表达自己单身的困境。",
+        "dialogue": "我上哪儿找我的老公去啊",
+        "speaker": "粉衣女子",
+        "emotion": "无奈",
+        "duration": 4.12,
+        "description_visual": "近景平拍镜头；室内墙面，色调暖黄；画面中央人物，身穿粉色吊带，灰色开衫，站立，双手自然下垂，表情：眉毛下垂，眼神无奈，嘴巴微张，叹气。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，眼神看向对方",
+                "expression": "眉毛微挑，眼神略带同情，嘴唇微抿"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总听到对方的抱怨，眼神中流露出一丝同情和理解。",
+        "dialogue": "就因为这个啊",
+        "speaker": "苏总",
+        "emotion": "理解",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，眼神看向对方，表情：眉毛微挑，眼神略带同情，嘴唇微抿。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带，灰色开衫",
+                "position": "画面中央",
+                "action": "站立，微微点头",
+                "expression": "眉毛舒展，眼神期待，嘴角微动"
+            }
+        ],
+        "background": "室内墙面，色调暖黄",
+        "description_narrative": "近景镜头，粉衣女子确认就是因为这个原因，眼神中带着期待看向苏总。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；室内墙面，色调暖黄；画面中央人物，身穿粉色吊带，灰色开衫，站立，微微点头，表情：眉毛舒展，眼神期待，嘴角微动。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，双手摊开",
+                "expression": "眉毛微蹙，眼神无奈，嘴角下撇，摇头"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总双手摊开，表示这件事自己也帮不上忙，表情无奈。",
+        "dialogue": "你说吧，这要是别的事儿，我或许还能帮得上忙。谈恋爱结婚这个我也帮不上什么忙啊。",
+        "speaker": "苏总",
+        "emotion": "无奈",
+        "duration": 7.96,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，双手摊开，表情：眉毛微蹙，眼神无奈，嘴角下撇，摇头。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带，灰色开衫",
+                "position": "画面中央",
+                "action": "站立，身体微前倾",
+                "expression": "眉毛微挑，眼神狡黠，嘴角上扬，带着笑意"
+            }
+        ],
+        "background": "室内墙面，色调暖黄",
+        "description_narrative": "近景镜头，粉衣女子听到苏总的话，反而露出了狡黠的笑容，似乎有了主意。",
+        "dialogue": "其实啊 你也是能帮上我的",
+        "speaker": "粉衣女子",
+        "emotion": "狡黠",
+        "duration": 3.56,
+        "description_visual": "近景平拍镜头；室内墙面，色调暖黄；画面中央人物，身穿粉色吊带，灰色开衫，站立，身体微前倾，表情：眉毛微挑，眼神狡黠，嘴角上扬，带着笑意。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面左侧",
+                "action": "坐在桌后，身体后仰",
+                "expression": "眉毛高挑，眼睛睁大，嘴巴微张，十分惊讶"
+            },
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "灰色开衫",
+                "position": "画面右侧前景",
+                "action": "不可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "过肩镜头，苏总听到粉衣女子说自己能帮忙，惊讶地后仰身体，瞪大了眼睛。",
+        "dialogue": "啊 怎么帮",
+        "speaker": "苏总",
+        "emotion": "惊讶",
+        "duration": 2.08,
+        "description_visual": "近景过肩镜头；办公室内，背景有书架；画面左侧人物，身穿黄色丝绸上衣，坐在桌后，身体后仰，表情：眉毛高挑，眼睛睁大，嘴巴微张，十分惊讶；画面右侧前景人物，身穿灰色开衫，不可见，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带，灰色开衫",
+                "position": "画面中央",
+                "action": "站立，眼神坚定",
+                "expression": "眉毛微扬，眼神直视，嘴角微动，语气大胆"
+            }
+        ],
+        "background": "室内墙面，色调暖黄",
+        "description_narrative": "近景镜头，粉衣女子大胆地提出了自己的请求，眼神坚定地看着苏总。",
+        "dialogue": "把方大哥让给我呀",
+        "speaker": "粉衣女子",
+        "emotion": "大胆",
+        "duration": 2.68,
+        "description_visual": "近景平拍镜头；室内墙面，色调暖黄；画面中央人物，身穿粉色吊带，灰色开衫，站立，眼神坚定，表情：眉毛微扬，眼神直视，嘴角微动，语气大胆。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，身体僵硬",
+                "expression": "眉毛紧锁，眼神震惊，嘴巴微张，难以置信"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总听到这个请求，整个人僵住，表情震惊，难以置信地看着对方。",
+        "dialogue": "你要嫁给方不凡",
+        "speaker": "苏总",
+        "emotion": "震惊",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，身体僵硬，表情：眉毛紧锁，眼神震惊，嘴巴微张，难以置信。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色吊带，灰色开衫",
+                "position": "画面中央",
+                "action": "站立，微微点头",
+                "expression": "眉毛舒展，眼神期待，嘴角微扬"
+            }
+        ],
+        "background": "室内墙面，色调暖黄",
+        "description_narrative": "近景镜头，粉衣女子确认了自己的意图，微微点头，眼神中充满期待。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；室内墙面，色调暖黄；画面中央人物，身穿粉色吊带，灰色开衫，站立，微微点头，表情：眉毛舒展，眼神期待，嘴角微扬。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "办公桌一角，有一盆绿萝，背景虚化",
+        "description_narrative": "特写镜头，聚焦于办公桌上的绿萝盆栽，背景虚化，作为场景转换或情绪缓冲。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；办公桌一角，有一盆绿萝，背景虚化。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，看向门口",
+                "expression": "眉毛微蹙，眼神疑惑，嘴唇微动"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总看向门口方向，似乎听到了新的声音，表情疑惑。",
+        "dialogue": "苏总，我有件事想要跟您商量一下。",
+        "speaker": "绿衣女子",
+        "emotion": "疑惑",
+        "duration": 5.48,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，看向门口，表情：眉毛微蹙，眼神疑惑，嘴唇微动。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "绿色露肩连衣裙",
+                "position": "画面中央",
+                "action": "站立，双手交握身前",
+                "expression": "眉毛微垂，眼神礼貌，嘴角微扬"
+            }
+        ],
+        "background": "室内墙面，色调暖黄",
+        "description_narrative": "近景镜头，绿衣女子站在办公室内，双手交握，礼貌地提出请求。",
+        "dialogue": "你说什么事",
+        "speaker": "苏总",
+        "emotion": "礼貌",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；室内墙面，色调暖黄；画面中央人物，身穿绿色露肩连衣裙，站立，双手交握身前，表情：眉毛微垂，眼神礼貌，嘴角微扬。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，侧头倾听",
+                "expression": "眉毛微挑，眼神专注，嘴唇微抿"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总侧头倾听绿衣女子的请求，表情专注。",
+        "dialogue": "我妈妈他想见方大哥一面",
+        "speaker": "绿衣女子",
+        "emotion": "专注",
+        "duration": 3.12,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，侧头倾听，表情：眉毛微挑，眼神专注，嘴唇微抿。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "绿色露肩连衣裙",
+                "position": "画面中央",
+                "action": "站立，眼神诚恳",
+                "expression": "眉毛微蹙，眼神诚恳，嘴巴微张"
+            }
+        ],
+        "background": "室内背景虚化",
+        "description_narrative": "近景镜头，绿衣女子眼神诚恳地看着苏总，继续说明来意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "诚恳",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；室内背景虚化；画面中央人物，身穿绿色露肩连衣裙，站立，眼神诚恳，表情：眉毛微蹙，眼神诚恳，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，身体微前倾",
+                "expression": "眉毛微挑，眼神玩味，嘴角上扬"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总听到请求后，身体前倾，嘴角上扬，露出一丝玩味的笑容。",
+        "dialogue": "你妈妈想要见方不凡",
+        "speaker": "苏总",
+        "emotion": "玩味",
+        "duration": 3.68,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，身体微前倾，表情：眉毛微挑，眼神玩味，嘴角上扬。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "女",
+                "clothing": "黄色丝绸上衣",
+                "position": "画面中央",
+                "action": "坐在桌后，眼神锐利",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇紧闭"
+            }
+        ],
+        "background": "办公室内，背景有书架",
+        "description_narrative": "近景镜头，苏总重复着对方的话，眼神变得锐利，似乎在思考对方的真实意图。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "锐利",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架；画面中央人物，身穿黄色丝绸上衣，坐在桌后，眼神锐利，表情：眉毛微蹙，眼神锐利，嘴唇紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "快速移动，画面模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的背景",
+        "description_narrative": "特写镜头，画面快速移动，呈现出模糊的动态效果，可能是人物转身或镜头快速切换。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的背景；画面中央人物，身穿未知，快速移动，画面模糊，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "静止，画面模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的背景",
+        "description_narrative": "特写镜头，画面依然保持模糊状态，可能是过渡镜头或焦点未对准。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；模糊的背景；画面中央人物，身穿未知，静止，画面模糊，表情：不可见。"
+    }
+]

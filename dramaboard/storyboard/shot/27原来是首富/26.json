@@ -1,0 +1,878 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，蓝金条纹领带",
+                "position": "前景中央",
+                "action": "身穿黄色外卖服，戴头盔，看手表",
+                "expression": "眉毛微蹙，眼神专注，嘴巴紧闭"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "棕色西装，黑衬衫",
+                "position": "右侧",
+                "action": "站立，手插口袋",
+                "expression": "眉毛舒展，眼神自信，嘴角微扬"
+            },
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣",
+                "position": "左侧",
+                "action": "站立，侧身",
+                "expression": "眉毛微挑，眼神冷艳，红唇紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色方领上衣",
+                "position": "后景中央",
+                "action": "站立，双手下垂",
+                "expression": "眉毛平展，眼神温和，嘴巴微闭"
+            }
+        ],
+        "background": "彩色渐变背景，带有金币和城市剪影特效，充满财富象征",
+        "description_narrative": "全景固定镜头展示电影海报，年轻男子身穿黄色外卖服位于前景中央看手表，周围环绕着其他主要角色，背景是充满金币和城市剪影的财富主题特效。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.5,
+        "description_visual": "全景平拍镜头；彩色渐变背景，带有金币和城市剪影特效，充满财富象征；前景中央人物，身穿深色条纹西装，蓝金条纹领带，身穿黄色外卖服，戴头盔，看手表，表情：眉毛微蹙，眼神专注，嘴巴紧闭；右侧人物，身穿棕色西装，黑衬衫，站立，手插口袋，表情：眉毛舒展，眼神自信，嘴角微扬；左侧人物，身穿黑色露肩上衣，站立，侧身，表情：眉毛微挑，眼神冷艳，红唇紧闭；后景中央人物，身穿白色方领上衣，站立，双手下垂，表情：眉毛平展，眼神温和，嘴巴微闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套，格纹上衣",
+                "position": "画面中央",
+                "action": "低头向下看，头部微侧",
+                "expression": "眉毛紧蹙，眼睛微眯，嘴巴张开露出牙齿，表情厌恶"
+            }
+        ],
+        "background": "办公室室内，白色天花板，光线明亮",
+        "description_narrative": "仰拍特写镜头，棕衣女子低头向下看，眉头紧锁，嘴巴张开露出牙齿，表情充满厌恶和愤怒，似乎在对地上的人说话。",
+        "dialogue": "你给我起开。小狐狸精。",
+        "speaker": "棕衣女子",
+        "emotion": "厌恶",
+        "duration": 1.87,
+        "description_visual": "特写仰拍镜头；办公室室内，白色天花板，光线明亮；画面中央人物，身穿棕色西装外套，格纹上衣，低头向下看，头部微侧，表情：眉毛紧蹙，眼睛微眯，嘴巴张开露出牙齿，表情厌恶。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套，格纹上衣",
+                "position": "画面中央",
+                "action": "头部微抬，眼神轻蔑地扫视",
+                "expression": "眉毛微挑，眼神向下，嘴角下撇"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，挂画模糊可见",
+        "description_narrative": "仰拍近景镜头，棕衣女子头部微抬，眼神轻蔑地扫视前方，嘴角下撇，继续用言语攻击对方。",
+        "dialogue": "每天装疯卖惨给谁看呢",
+        "speaker": "棕衣女子",
+        "emotion": "轻蔑",
+        "duration": 1.83,
+        "description_visual": "近景仰拍镜头；办公室室内，白色墙壁，挂画模糊可见；画面中央人物，身穿棕色西装外套，格纹上衣，头部微抬，眼神轻蔑地扫视，表情：眉毛微挑，眼神向下，嘴角下撇。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向一侧，嘴巴微张",
+                "expression": "眉毛微蹙，眼神锐利，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室室内，灰色墙壁，光线均匀",
+        "description_narrative": "平拍近景镜头，年轻男子头部微侧，眼神锐利地看向一侧，嘴巴微张，开始回击对方的言语。",
+        "dialogue": "你可真是。",
+        "speaker": "年轻男子",
+        "emotion": "愤怒",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；办公室室内，灰色墙壁，光线均匀；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，头部微侧，眼神看向一侧，嘴巴微张，表情：眉毛微蹙，眼神锐利，嘴巴张开说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套",
+                "position": "画面左侧",
+                "action": "转身回头，眼神惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，门框可见，背景有人影",
+        "description_narrative": "平拍中近景镜头，棕衣女子转身回头，眉毛上扬，眼睛睁大，表情惊讶，似乎对听到的话感到意外。",
+        "dialogue": "口出狂言啊。",
+        "speaker": "年轻男子",
+        "emotion": "惊讶",
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头（摇镜）；办公室走廊，门框可见，背景有人影；画面左侧人物，身穿棕色西装外套，转身回头，眼神惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "眼神坚定，嘴巴张开说话",
+                "expression": "眉毛微蹙，眼神直视，嘴巴张开"
+            }
+        ],
+        "background": "办公室室内，灰色墙壁",
+        "description_narrative": "平拍近景镜头，年轻男子眼神坚定，嘴巴张开说话，表情严肃，宣布要开除对方。",
+        "dialogue": "我看要开除的",
+        "speaker": "年轻男子",
+        "emotion": "严肃",
+        "duration": 1.37,
+        "description_visual": "近景平拍镜头；办公室室内，灰色墙壁；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，眼神坚定，嘴巴张开说话，表情：眉毛微蹙，眼神直视，嘴巴张开。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "手指向前方，身体前倾",
+                "expression": "眉毛紧锁，眼神犀利，嘴巴微张"
+            }
+        ],
+        "background": "办公室室内，灰色墙壁",
+        "description_narrative": "平拍近景镜头推进，年轻男子手指向前方，身体前倾，眉毛紧锁，眼神犀利，明确指出要开除的对象。",
+        "dialogue": "是你们俩吧",
+        "speaker": "年轻男子",
+        "emotion": "坚定",
+        "duration": 0.63,
+        "description_visual": "近景平拍镜头（推进）；办公室室内，灰色墙壁；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，手指向前方，身体前倾，表情：眉毛紧锁，眼神犀利，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑衬衫，金丝眼镜",
+                "position": "画面中央",
+                "action": "面带笑容，头部微晃",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴张开露齿"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，紫色装饰板",
+        "description_narrative": "平拍近景镜头，中年男子面带笑容，头部微晃，眉毛舒展，眼睛眯起笑，嘴巴张开露齿，对年轻男子的话表示不屑。",
+        "dialogue": "开除我们",
+        "speaker": "中年男子",
+        "emotion": "嘲笑",
+        "duration": 1.43,
+        "description_visual": "近景平拍镜头；办公室室内，白色墙壁，紫色装饰板；画面中央人物，身穿灰色西装，黑衬衫，金丝眼镜，面带笑容，头部微晃，表情：眉毛舒展，眼睛眯起笑，嘴巴张开露齿。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "眼神直视前方，表情严肃",
+                "expression": "眉毛平展，眼睛睁大，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室室内，灰色墙壁",
+        "description_narrative": "平拍近景镜头，年轻男子眼神直视前方，表情严肃，眉毛平展，眼睛睁大，嘴巴紧闭，继续警告对方。",
+        "dialogue": "我看你是痴人说梦吧",
+        "speaker": "年轻男子",
+        "emotion": "严肃",
+        "duration": 1.87,
+        "description_visual": "近景平拍镜头；办公室室内，灰色墙壁；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，眼神直视前方，表情严肃，表情：眉毛平展，眼睛睁大，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑衬衫，金丝眼镜",
+                "position": "画面中央",
+                "action": "嘴巴微张，眼神质疑",
+                "expression": "眉毛微挑，眼神怀疑，嘴巴微张"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，紫色装饰板",
+        "description_narrative": "平拍近景镜头，中年男子嘴巴微张，眼神质疑，眉毛微挑，开始反问年轻男子的身份。",
+        "dialogue": "你该不会是从",
+        "speaker": "中年男子",
+        "emotion": "质疑",
+        "duration": 1.43,
+        "description_visual": "近景平拍镜头；办公室室内，白色墙壁，紫色装饰板；画面中央人物，身穿灰色西装，黑衬衫，金丝眼镜，嘴巴微张，眼神质疑，表情：眉毛微挑，眼神怀疑，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套，格纹上衣",
+                "position": "画面中央",
+                "action": "抬头向上看，眼神轻蔑",
+                "expression": "眉毛微蹙，眼神向上，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室走廊，绿色墙壁，门框",
+        "description_narrative": "仰拍中近景镜头，棕衣女子抬头向上看，眼神轻蔑，眉毛微蹙，嘴巴紧闭，配合中年男子嘲讽年轻男子。",
+        "dialogue": "哪个精神病院",
+        "speaker": "棕衣女子",
+        "emotion": "轻蔑",
+        "duration": 1.43,
+        "description_visual": "中近景仰拍镜头；办公室走廊，绿色墙壁，门框；画面中央人物，身穿棕色西装外套，格纹上衣，抬头向上看，眼神轻蔑，表情：眉毛微蹙，眼神向上，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑衬衫，金丝眼镜",
+                "position": "画面中央",
+                "action": "咧嘴笑，表情夸张",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴张开露齿"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，紫色装饰板",
+        "description_narrative": "平拍近景镜头，中年男子咧嘴笑，表情夸张，眉毛上扬，眼睛眯起，继续嘲讽年轻男子是精神病。",
+        "dialogue": "跑出来神经",
+        "speaker": "中年男子",
+        "emotion": "嘲讽",
+        "duration": 1.37,
+        "description_visual": "近景平拍镜头；办公室室内，白色墙壁，紫色装饰板；画面中央人物，身穿灰色西装，黑衬衫，金丝眼镜，咧嘴笑，表情夸张，表情：眉毛上扬，眼睛眯起，嘴巴张开露齿。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套，格纹上衣",
+                "position": "画面中央",
+                "action": "侧头，眼神不屑",
+                "expression": "眉毛微挑，眼神斜视，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，绿色墙壁",
+        "description_narrative": "仰拍中近景镜头，棕衣女子侧头，眼神不屑，眉毛微挑，嘴巴微张，进一步侮辱年轻男子。",
+        "dialogue": "不正常的人吧",
+        "speaker": "棕衣女子",
+        "emotion": "不屑",
+        "duration": 3.03,
+        "description_visual": "中近景仰拍镜头；办公室走廊，绿色墙壁；画面中央人物，身穿棕色西装外套，格纹上衣，侧头，眼神不屑，表情：眉毛微挑，眼神斜视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套",
+                "position": "画面左侧",
+                "action": "双臂交叉，侧身站立",
+                "expression": "眼睛闭合，嘴巴撅起，表情傲慢"
+            }
+        ],
+        "background": "办公室走廊，模糊背景",
+        "description_narrative": "侧拍中近景镜头，棕衣女子双臂交叉，侧身站立，眼睛闭合，嘴巴撅起，表情傲慢地命令对方离开。",
+        "dialogue": "给我滚蛋",
+        "speaker": "棕衣女子",
+        "emotion": "傲慢",
+        "duration": 0.63,
+        "description_visual": "中近景侧拍镜头；办公室走廊，模糊背景；画面左侧人物，身穿棕色西装外套，双臂交叉，侧身站立，表情：眼睛闭合，嘴巴撅起，表情傲慢。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白衬衫，黑背带裙",
+                "position": "画面中央",
+                "action": "坐在地上，背靠墙壁，神情无助",
+                "expression": "眉毛微蹙，眼神悲伤，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室角落，白色墙壁，光线较暗",
+        "description_narrative": "平拍中景镜头，白衣女子坐在地上，背靠墙壁，神情无助，眉毛微蹙，眼神悲伤，嘴巴紧闭，处于被欺凌的状态。",
+        "dialogue": "给我滚蛋",
+        "speaker": "棕衣女子",
+        "emotion": "无助",
+        "duration": 1.3,
+        "description_visual": "中景平拍镜头；办公室角落，白色墙壁，光线较暗；画面中央人物，身穿白衬衫，黑背带裙，坐在地上，背靠墙壁，神情无助，表情：眉毛微蹙，眼神悲伤，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套",
+                "position": "画面左侧",
+                "action": "双臂交叉，侧身，闭眼",
+                "expression": "眼睛闭合，嘴巴微张，表情嫌弃"
+            }
+        ],
+        "background": "办公室走廊，绿色墙壁，植物模糊可见",
+        "description_narrative": "侧拍中近景镜头，棕衣女子双臂交叉，侧身闭眼，嘴巴微张，表情嫌弃，表示多看一眼都嫌脏。",
+        "dialogue": "多看你们俩一眼",
+        "speaker": "棕衣女子",
+        "emotion": "嫌弃",
+        "duration": 1.23,
+        "description_visual": "中近景侧拍镜头；办公室走廊，绿色墙壁，植物模糊可见；画面左侧人物，身穿棕色西装外套，双臂交叉，侧身，闭眼，表情：眼睛闭合，嘴巴微张，表情嫌弃。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "眼神坚定，嘴巴张开说话",
+                "expression": "眉毛微蹙，眼神直视，嘴巴张开"
+            }
+        ],
+        "background": "办公室室内，灰色墙壁",
+        "description_narrative": "平拍近景镜头，年轻男子眼神坚定，嘴巴张开说话，眉毛微蹙，表明自己是陈总请来的。",
+        "dialogue": "我可是你们公司陈子怡陈总请来的。",
+        "speaker": "年轻男子",
+        "emotion": "自信",
+        "duration": 2.63,
+        "description_visual": "近景平拍镜头；办公室室内，灰色墙壁；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，眼神坚定，嘴巴张开说话，表情：眉毛微蹙，眼神直视，嘴巴张开。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑衬衫，金丝眼镜",
+                "position": "画面中央",
+                "action": "表情严肃，眼神质疑",
+                "expression": "眉毛平展，眼神直视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，紫色装饰板",
+        "description_narrative": "平拍近景镜头，中年男子表情严肃，眼神质疑，眉毛平展，嘴巴紧闭，对年轻男子的身份表示怀疑。",
+        "dialogue": "合作伙伴。",
+        "speaker": "中年男子",
+        "emotion": "怀疑",
+        "duration": 1.23,
+        "description_visual": "近景平拍镜头；办公室室内，白色墙壁，紫色装饰板；画面中央人物，身穿灰色西装，黑衬衫，金丝眼镜，表情严肃，眼神质疑，表情：眉毛平展，眼神直视，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "眼神凌厉，嘴巴微张",
+                "expression": "眉毛微挑，眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "办公室室内，灰色墙壁",
+        "description_narrative": "平拍近景镜头，年轻男子眼神凌厉，嘴巴微张，眉毛微挑，警告谁敢对他无礼。",
+        "dialogue": "我看谁敢对我无礼",
+        "speaker": "年轻男子",
+        "emotion": "威严",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；办公室室内，灰色墙壁；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，眼神凌厉，嘴巴微张，表情：眉毛微挑，眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑衬衫，金丝眼镜",
+                "position": "画面中央",
+                "action": "嘴巴微张，表情不屑",
+                "expression": "眉毛微蹙，眼神轻蔑，嘴巴微张"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，紫色装饰板",
+        "description_narrative": "平拍近景镜头，中年男子嘴巴微张，表情不屑，眉毛微蹙，眼神轻蔑，反问年轻男子在唬谁。",
+        "dialogue": "你唬谁呢",
+        "speaker": "中年男子",
+        "emotion": "不屑",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；办公室室内，白色墙壁，紫色装饰板；画面中央人物，身穿灰色西装，黑衬衫，金丝眼镜，嘴巴微张，表情不屑，表情：眉毛微蹙，眼神轻蔑，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "表情平静，眼神直视",
+                "expression": "眉毛平展，眼神坚定，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室室内，灰色墙壁",
+        "description_narrative": "平拍近景镜头，年轻男子表情平静，眼神直视，眉毛平展，嘴巴紧闭，陈述合作伙伴一直是顾氏。",
+        "dialogue": "我们的合作伙伴一直都是顾氏。",
+        "speaker": "年轻男子",
+        "emotion": "平静",
+        "duration": 2.23,
+        "description_visual": "近景平拍镜头；办公室室内，灰色墙壁；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，表情平静，眼神直视，表情：眉毛平展，眼神坚定，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑衬衫，金丝眼镜",
+                "position": "画面中央",
+                "action": "皱眉，嘴巴微张",
+                "expression": "眉毛紧蹙，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，紫色装饰板",
+        "description_narrative": "平拍近景镜头，中年男子皱眉，嘴巴微张，眉毛紧蹙，眼神疑惑，表示没听说过新合作伙伴。",
+        "dialogue": "我从没听说过有什么新的合作伙伴。",
+        "speaker": "中年男子",
+        "emotion": "疑惑",
+        "duration": 2.6,
+        "description_visual": "近景平拍镜头；办公室室内，白色墙壁，紫色装饰板；画面中央人物，身穿灰色西装，黑衬衫，金丝眼镜，皱眉，嘴巴微张，表情：眉毛紧蹙，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套，格纹上衣",
+                "position": "画面中央",
+                "action": "双臂交叉，撇嘴",
+                "expression": "眉毛微挑，眼神斜视，嘴巴撅起"
+            }
+        ],
+        "background": "办公室走廊，绿色墙壁",
+        "description_narrative": "仰拍中近景镜头，棕衣女子双臂交叉，撇嘴，眉毛微挑，眼神斜视，猜测年轻男子是实习生。",
+        "dialogue": "我看啊，是这个实习生啊。",
+        "speaker": "棕衣女子",
+        "emotion": "猜测",
+        "duration": 1.97,
+        "description_visual": "中近景仰拍镜头；办公室走廊，绿色墙壁；画面中央人物，身穿棕色西装外套，格纹上衣，双臂交叉，撇嘴，表情：眉毛微挑，眼神斜视，嘴巴撅起。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑衬衫，金丝眼镜",
+                "position": "画面中央",
+                "action": "表情严肃，眼神审视",
+                "expression": "眉毛平展，眼神直视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，紫色装饰板",
+        "description_narrative": "平拍近景镜头，中年男子表情严肃，眼神审视，眉毛平展，嘴巴紧闭，认定年轻男子有精神病。",
+        "dialogue": "有精神病还胡言乱语的",
+        "speaker": "中年男子",
+        "emotion": "认定",
+        "duration": 2.17,
+        "description_visual": "近景平拍镜头；办公室室内，白色墙壁，紫色装饰板；画面中央人物，身穿灰色西装，黑衬衫，金丝眼镜，表情严肃，眼神审视，表情：眉毛平展，眼神直视，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套，格纹上衣",
+                "position": "画面中央",
+                "action": "双臂交叉，张嘴说话",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "办公室走廊，绿色墙壁",
+        "description_narrative": "仰拍中近景镜头，棕衣女子双臂交叉，张嘴说话，眉毛上扬，眼睛睁大，指责年轻男子冒充合作商。",
+        "dialogue": "冒充合作商呢。",
+        "speaker": "棕衣女子",
+        "emotion": "指责",
+        "duration": 2.13,
+        "description_visual": "中近景仰拍镜头；办公室走廊，绿色墙壁；画面中央人物，身穿棕色西装外套，格纹上衣，双臂交叉，张嘴说话，表情：眉毛上扬，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑衬衫，金丝眼镜",
+                "position": "画面中央",
+                "action": "嘴巴微张，眼神不耐烦",
+                "expression": "眉毛微蹙，眼神斜视，嘴巴微张"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，紫色装饰板",
+        "description_narrative": "平拍近景镜头，中年男子嘴巴微张，眼神不耐烦，眉毛微蹙，制止继续胡说八道。",
+        "dialogue": "好了。不要跟他胡说八道了。",
+        "speaker": "中年男子",
+        "emotion": "不耐烦",
+        "duration": 3.03,
+        "description_visual": "近景平拍镜头；办公室室内，白色墙壁，紫色装饰板；画面中央人物，身穿灰色西装，黑衬衫，金丝眼镜，嘴巴微张，眼神不耐烦，表情：眉毛微蹙，眼神斜视，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色西装，黑衬衫",
+                "position": "画面中央",
+                "action": "向前走动，表情严肃",
+                "expression": "眉毛平展，眼神直视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室走廊，绿色墙壁，模糊背景",
+        "description_narrative": "平拍中景跟拍镜头，保安身穿黑色西装向前走动，表情严肃，眉毛平展，被叫来处理情况。",
+        "dialogue": "保安。保安。",
+        "speaker": "中年男子",
+        "emotion": "严肃",
+        "duration": 0.97,
+        "description_visual": "中景平拍镜头（跟拍）；办公室走廊，绿色墙壁，模糊背景；画面中央人物，身穿黑色西装，黑衬衫，向前走动，表情严肃，表情：眉毛平展，眼神直视，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧",
+                "action": "站立，面对中年男子",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装外套",
+                "position": "画面中央",
+                "action": "双臂交叉，站立",
+                "expression": "表情傲慢"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面右侧",
+                "action": "背对镜头，指向年轻男子",
+                "expression": "背影"
+            },
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "西装",
+                "position": "会议桌两侧",
+                "action": "坐着观看",
+                "expression": "旁观"
+            }
+        ],
+        "background": "会议室，长桌，植物，白色墙壁，挂画",
+        "description_narrative": "平拍全景镜头，会议室中，中年男子背对镜头指向年轻男子，棕衣女子双臂交叉站立，其他人坐在会议桌两侧观看，中年男子命令保安把人带走。",
+        "dialogue": "把这个神经不正常的。",
+        "speaker": "中年男子",
+        "emotion": "命令",
+        "duration": 1.03,
+        "description_visual": "全景平拍镜头；会议室，长桌，植物，白色墙壁，挂画；画面左侧人物，身穿深色条纹西装，站立，面对中年男子，表情：表情严肃；画面中央人物，身穿棕色西装外套，双臂交叉，站立，表情：表情傲慢；画面右侧人物，身穿灰色西装，背对镜头，指向年轻男子，表情：背影；会议桌两侧人物，身穿西装，坐着观看，表情：旁观。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "眼神平静，直视前方",
+                "expression": "眉毛平展，眼神坚定，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室室内，灰色墙壁",
+        "description_narrative": "平拍近景镜头，年轻男子眼神平静，直视前方，眉毛平展，嘴巴紧闭，面对侮辱保持冷静。",
+        "dialogue": "白痴。",
+        "speaker": "中年男子",
+        "emotion": "冷静",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；办公室室内，灰色墙壁；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，眼神平静，直视前方，表情：眉毛平展，眼神坚定，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑衬衫，金丝眼镜",
+                "position": "画面中央",
+                "action": "嘴巴张开，下令",
+                "expression": "眉毛微蹙，眼神凶狠，嘴巴张开"
+            }
+        ],
+        "background": "办公室室内，白色墙壁，紫色装饰板",
+        "description_narrative": "平拍近景镜头，中年男子嘴巴张开，下令，眉毛微蹙，眼神凶狠，命令把年轻男子扔进精神病院。",
+        "dialogue": "给我扔进精神病院",
+        "speaker": "中年男子",
+        "emotion": "凶狠",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；办公室室内，白色墙壁，紫色装饰板；画面中央人物，身穿灰色西装，黑衬衫，金丝眼镜，嘴巴张开，下令，表情：眉毛微蹙，眼神凶狠，嘴巴张开。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色西装，黑衬衫",
+                "position": "画面中央",
+                "action": "站立，回应",
+                "expression": "眉毛平展，眼神直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，绿色墙壁",
+        "description_narrative": "平拍中近景镜头，保安站立，回应，眉毛平展，眼神直视，嘴巴微张，接受命令。",
+        "dialogue": "是。",
+        "speaker": "保安",
+        "emotion": "服从",
+        "duration": 0.77,
+        "description_visual": "中近景平拍镜头；办公室走廊，绿色墙壁；画面中央人物，身穿黑色西装，黑衬衫，站立，回应，表情：眉毛平展，眼神直视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧",
+                "action": "站立，被保安抓住",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "抓住年轻男子",
+                "expression": "动作中"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面右侧",
+                "action": "站立观看",
+                "expression": "背影"
+            }
+        ],
+        "background": "会议室，长桌，植物，白色墙壁",
+        "description_narrative": "平拍全景镜头，会议室中，保安伸手抓住年轻男子，中年男子站立观看，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头；会议室，长桌，植物，白色墙壁；画面左侧人物，身穿深色条纹西装，站立，被保安抓住，表情：表情严肃；画面中央人物，身穿黑色西装，抓住年轻男子，表情：动作中；画面右侧人物，身穿灰色西装，站立观看，表情：背影。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，蓝金条纹领带",
+                "position": "画面中央",
+                "action": "抬头，眼神凌厉",
+                "expression": "眉毛微蹙，眼神向上，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室室内，模糊背景",
+        "description_narrative": "平拍近景镜头，年轻男子抬头，眼神凌厉，眉毛微蹙，嘴巴紧闭，准备爆发。",
+        "dialogue": "住手。",
+        "speaker": "年轻男子",
+        "emotion": "愤怒",
+        "duration": 0.77,
+        "description_visual": "近景平拍镜头；办公室室内，模糊背景；画面中央人物，身穿深色条纹西装，白衬衫，蓝金条纹领带，抬头，眼神凌厉，表情：眉毛微蹙，眼神向上，嘴巴紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面上方",
+                "action": "面部特写",
+                "expression": "眼神坚定"
+            },
+            {
+                "name": "棕衣女子",
+                "gender": "女",
+                "clothing": "棕色西装",
+                "position": "画面中间",
+                "action": "面部特写",
+                "expression": "表情惊讶"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面下方",
+                "action": "面部特写",
+                "expression": "表情震惊"
+            }
+        ],
+        "background": "分割画面，三人面部特写叠加",
+        "description_narrative": "平拍特写镜头，分割画面展示三人面部特写叠加，年轻男子在上，棕衣女子在中，中年男子在下，表现关键时刻的紧张对峙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；分割画面，三人面部特写叠加；画面上方人物，身穿深色条纹西装，面部特写，表情：眼神坚定；画面中间人物，身穿棕色西装，面部特写，表情：表情惊讶；画面下方人物，身穿灰色西装，面部特写，表情：表情震惊。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色背景，无内容",
+        "description_narrative": "平拍全景镜头，画面全白，无内容，可能是转场或结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.63,
+        "description_visual": "全景平拍镜头；白色背景，无内容。"
+    }
+]

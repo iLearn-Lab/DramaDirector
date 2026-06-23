@@ -1,0 +1,731 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色衬衫配花纹领带",
+                "position": "画面中央",
+                "action": "躺在地上，头部后仰，面部肌肉紧绷",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴张大呈哭喊状"
+            }
+        ],
+        "background": "室内地毯，光线柔和",
+        "description_narrative": "特写俯拍镜头，韩烨躺在地上，头部后仰，面部表情极度痛苦，紧闭双眼张大嘴巴哭喊求救。",
+        "dialogue": "爸，救我，爸。",
+        "speaker": "韩烨",
+        "emotion": "痛苦/恐惧",
+        "duration": 4.24,
+        "description_visual": "特写俯拍镜头；室内地毯，光线柔和；画面中央人物，身穿黑色衬衫配花纹领带，躺在地上，头部后仰，面部肌肉紧绷，表情：眉毛紧锁，眼睛紧闭，嘴巴张大呈哭喊状。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "前景下方",
+                "action": "躺在地上",
+                "expression": "面部痛苦"
+            },
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "背景中央",
+                "action": "站立，手持拐杖，低头看",
+                "expression": "眉头微蹙，嘴巴微张，表情无奈"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "背景右侧",
+                "action": "双臂交叉抱胸，站立",
+                "expression": "眼神冷淡，嘴角微抿"
+            },
+            {
+                "name": "保镖",
+                "gender": "男",
+                "clothing": "黑色西装戴墨镜",
+                "position": "前景左侧",
+                "action": "站立",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "会议室，背景有股票行情屏幕",
+        "description_narrative": "全景镜头，韩烨躺在前景地上，韩老站在后方手持拐杖低头叹息，安然双臂抱胸冷眼旁观，保镖站在左侧。",
+        "dialogue": "哎",
+        "speaker": "韩老",
+        "emotion": "无奈/叹息",
+        "duration": 2.32,
+        "description_visual": "全景平拍镜头；会议室，背景有股票行情屏幕；前景下方人物，身穿黑色衬衫，躺在地上，表情：面部痛苦；背景中央人物，身穿黑色西装系蓝色领带，站立，手持拐杖，低头看，表情：眉头微蹙，嘴巴微张，表情无奈；背景右侧人物，身穿黑色蕾丝吊带裙，双臂交叉抱胸，站立，表情：眼神冷淡，嘴角微抿；前景左侧人物，身穿黑色西装戴墨镜，站立，表情：表情严肃。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面左侧",
+                "action": "侧身站立，手持拐杖",
+                "expression": "嘴巴微张，正在说话，表情恳切"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面右侧",
+                "action": "双臂交叉，抬头看上方",
+                "expression": "眼神向上，表情冷漠"
+            }
+        ],
+        "background": "会议室，背景有股票行情大屏幕",
+        "description_narrative": "中景镜头，韩老侧身对着安然，手持拐杖正在劝说，安然双臂抱胸抬头看向别处，神情冷淡。",
+        "dialogue": "得饶人处且饶人。",
+        "speaker": "韩老",
+        "emotion": "恳求",
+        "duration": 2.24,
+        "description_visual": "中景平拍镜头；会议室，背景有股票行情大屏幕；画面左侧人物，身穿黑色西装系蓝色领带，侧身站立，手持拐杖，表情：嘴巴微张，正在说话，表情恳切；画面右侧人物，身穿黑色蕾丝吊带裙，双臂交叉，抬头看上方，表情：眼神向上，表情冷漠。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面左侧",
+                "action": "双手握住拐杖顶部，身体微前倾",
+                "expression": "眉毛微皱，眼神恳求，嘴巴张开说话"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面右侧前景",
+                "action": "背对镜头，仅见背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内墙壁，光线明亮",
+        "description_narrative": "近景镜头，韩老双手扶着拐杖，表情诚恳地向安然求情，希望看在自己面子上放过儿子。",
+        "dialogue": "刚才犬子自不量力，冲撞了安小姐，看在我这把老骨头的面上，给我一个面子，算了吧。",
+        "speaker": "韩老",
+        "emotion": "恳求/卑微",
+        "duration": 7.96,
+        "description_visual": "近景平拍镜头；室内墙壁，光线明亮；画面左侧人物，身穿黑色西装系蓝色领带，双手握住拐杖顶部，身体微前倾，表情：眉毛微皱，眼神恳求，嘴巴张开说话；画面右侧前景人物，身穿黑色蕾丝吊带裙，背对镜头，仅见背影，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸，面对韩老",
+                "expression": "眉毛舒展，嘴角微扬，眼神带笑"
+            },
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "前景左侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内深色背景",
+        "description_narrative": "过肩镜头，安然面对韩老，双臂抱胸，嘴角带着一丝嘲讽的笑意，反驳韩老的双标行为。",
+        "dialogue": "韩老，这话说的真有意思。得饶人处且饶人，刚刚你们饶过我了吗？韩老，您是商会里的大家长，年轻一代的标杆，您做事可不能这么双标。",
+        "speaker": "安然",
+        "emotion": "嘲讽/冷傲",
+        "duration": 13.64,
+        "description_visual": "近景过肩镜头；室内深色背景；画面中央人物，身穿黑色蕾丝吊带裙，双臂交叉抱胸，面对韩老，表情：眉毛舒展，嘴角微扬，眼神带笑；前景左侧人物，身穿黑色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面左侧",
+                "action": "站立，双手扶拐杖",
+                "expression": "眉头紧锁，嘴巴微张，表情尴尬愤怒"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "前景右侧",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "近景镜头，韩老听到安然的话，表情变得尴尬且愤怒，安然继续向周老质问韩老的行为。",
+        "dialogue": "周老，安然一个小辈，在您的地盘上如此放肆。您作为商会会长，难道就没有什么想说的吗？",
+        "speaker": "安然",
+        "emotion": "质问/挑衅",
+        "duration": 9.88,
+        "description_visual": "近景平拍镜头；室内墙壁；画面左侧人物，身穿黑色西装系蓝色领带，站立，双手扶拐杖，表情：眉头紧锁，嘴巴微张，表情尴尬愤怒；前景右侧人物，身穿黑色蕾丝吊带裙，背影，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周老",
+                "gender": "男",
+                "clothing": "黑色西装白衬衫",
+                "position": "画面中央",
+                "action": "坐在桌后，双手交叠放在纸上",
+                "expression": "眉毛平展，眼神平静，嘴巴微张说话"
+            }
+        ],
+        "background": "浅色花纹墙纸，绿色桌布",
+        "description_narrative": "中近景镜头，周老坐在绿色桌后，双手交叠，表情平静地回应韩老，表明自己代表商会。",
+        "dialogue": "韩老，你也说了，我代表的是商会。",
+        "speaker": "周老",
+        "emotion": "平静/公事公办",
+        "duration": 4.4,
+        "description_visual": "中近景平拍镜头；浅色花纹墙纸，绿色桌布；画面中央人物，身穿黑色西装白衬衫，坐在桌后，双手交叠放在纸上，表情：眉毛平展，眼神平静，嘴巴微张说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周老",
+                "gender": "男",
+                "clothing": "黑色西装白衬衫",
+                "position": "画面中央",
+                "action": "坐在桌后，身体微侧",
+                "expression": "眼神看向一侧，嘴巴微张，表情淡然"
+            }
+        ],
+        "background": "浅色花纹墙纸",
+        "description_narrative": "中近景镜头，周老侧身看向韩老方向，继续冷淡地表示愿赌服输是韩家的作风。",
+        "dialogue": "不代表谁。愿赌服输，不是您韩家一贯的作风吗？",
+        "speaker": "周老",
+        "emotion": "冷淡/反问",
+        "duration": 6.0,
+        "description_visual": "中近景平拍镜头；浅色花纹墙纸；画面中央人物，身穿黑色西装白衬衫，坐在桌后，身体微侧，表情：眼神看向一侧，嘴巴微张，表情淡然。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周老",
+                "gender": "男",
+                "clothing": "黑色西装白衬衫",
+                "position": "画面中央",
+                "action": "坐在桌后，双手握笔",
+                "expression": "眉毛微挑，嘴角微动，表情推脱"
+            }
+        ],
+        "background": "浅色花纹墙纸，绿色桌布",
+        "description_narrative": "中近景镜头，周老双手握着笔放在桌上，表示这件事他做不了主，让韩老去问安小姐。",
+        "dialogue": "这件事情我做不了主，您还是问一下安小姐吧。",
+        "speaker": "周老",
+        "emotion": "推脱/无奈",
+        "duration": 5.44,
+        "description_visual": "中近景平拍镜头；浅色花纹墙纸，绿色桌布；画面中央人物，身穿黑色西装白衬衫，坐在桌后，双手握笔，表情：眉毛微挑，嘴角微动，表情推脱。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面左侧",
+                "action": "站立，双手扶拐杖，低头",
+                "expression": "眉头紧皱，眼睛微闭，表情痛苦愤怒"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "前景右侧",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "近景镜头，韩老低头扶着拐杖，表情痛苦地质问众人是否不给他面子。",
+        "dialogue": "你……你们是不给我这个面子了？",
+        "speaker": "韩老",
+        "emotion": "愤怒/绝望",
+        "duration": 2.84,
+        "description_visual": "近景平拍镜头；室内墙壁；画面左侧人物，身穿黑色西装系蓝色领带，站立，双手扶拐杖，低头，表情：眉头紧皱，眼睛微闭，表情痛苦愤怒；前景右侧人物，身穿黑色蕾丝吊带裙，背影，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面中央",
+                "action": "双臂交叉，直视韩老",
+                "expression": "眼神锐利，嘴角微抿，表情冷傲"
+            },
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "前景左侧",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内深色背景",
+        "description_narrative": "过肩镜头，安然直视韩老，双臂抱胸，冷冰冰地表示面子要自己挣，并提出磕头放过韩烨的条件。",
+        "dialogue": "面子是要自己挣的。我刚刚给过机会了，我说过韩烨在我面前磕十个响头，我就放过他。",
+        "speaker": "安然",
+        "emotion": "冷傲/强硬",
+        "duration": 8.72,
+        "description_visual": "近景过肩镜头；室内深色背景；画面中央人物，身穿黑色蕾丝吊带裙，双臂交叉，直视韩老，表情：眼神锐利，嘴角微抿，表情冷傲；前景左侧人物，身穿黑色西装，背影，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面左侧",
+                "action": "侧身看安然",
+                "expression": "眉头紧锁，眼神犹豫，嘴巴微张"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "前景右侧",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "侧拍近景，韩老侧身看着安然，表情犹豫地确认安然是否说话算话。",
+        "dialogue": "安小姐，说话算话？",
+        "speaker": "韩老",
+        "emotion": "犹豫/确认",
+        "duration": 2.2,
+        "description_visual": "近景侧拍镜头；室内墙壁；画面左侧人物，身穿黑色西装系蓝色领带，侧身看安然，表情：眉头紧锁，眼神犹豫，嘴巴微张；前景右侧人物，身穿黑色蕾丝吊带裙，背影，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色衬衫配花纹领带",
+                "position": "画面中央",
+                "action": "躺在地上，被人按住脖子",
+                "expression": "眼睛睁大，牙齿紧咬，表情惊恐挣扎"
+            }
+        ],
+        "background": "室内地毯",
+        "description_narrative": "俯拍特写，韩烨躺在地上，脖子被按住，表情惊恐地看向一侧，嘴里喊着不磕头。",
+        "dialogue": "当然。你这个小可爱，爸，我不磕，我不磕。",
+        "speaker": "安然 / 韩烨",
+        "emotion": "惊恐/拒绝",
+        "duration": 4.52,
+        "description_visual": "特写俯拍镜头；室内地毯；画面中央人物，身穿黑色衬衫配花纹领带，躺在地上，被人按住脖子，表情：眼睛睁大，牙齿紧咬，表情惊恐挣扎。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面左侧",
+                "action": "站立，表情痛苦",
+                "expression": "眼睛紧闭，面部扭曲，表情不忍"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面右侧",
+                "action": "双臂交叉，冷眼旁观",
+                "expression": "眼神向下，表情冷漠"
+            }
+        ],
+        "background": "室内，股票屏幕背景",
+        "description_narrative": "中景镜头，韩老表情痛苦地闭上眼睛，下令按住韩烨，安然在一旁冷眼旁观。",
+        "dialogue": "按住他。",
+        "speaker": "韩老",
+        "emotion": "痛苦/狠心",
+        "duration": 6.28,
+        "description_visual": "中景平拍镜头；室内，股票屏幕背景；画面左侧人物，身穿黑色西装系蓝色领带，站立，表情痛苦，表情：眼睛紧闭，面部扭曲，表情不忍；画面右侧人物，身穿黑色蕾丝吊带裙，双臂交叉，冷眼旁观，表情：眼神向下，表情冷漠。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "被两名保镖按住肩膀",
+                "expression": "嘴巴张开，眼神惊恐，表情挣扎"
+            },
+            {
+                "name": "保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "两侧",
+                "action": "按住韩烨",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "会议室，绿色桌子",
+        "description_narrative": "中景镜头，两名保镖强行按住韩烨的肩膀，韩烨表情惊恐地挣扎，韩老命令磕头。",
+        "dialogue": "磕。",
+        "speaker": "韩老",
+        "emotion": "命令/冷酷",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；会议室，绿色桌子；画面中央人物，身穿黑色西装，被两名保镖按住肩膀，表情：嘴巴张开，眼神惊恐，表情挣扎；两侧人物，身穿黑色西装，按住韩烨，表情：表情严肃。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "被按住，身体前倾",
+                "expression": "嘴巴张开，眼神看向安然，表情抗拒"
+            },
+            {
+                "name": "保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "两侧",
+                "action": "按住韩烨",
+                "expression": "不可见"
+            }
+        ],
+        "background": "会议室",
+        "description_narrative": "中近景镜头，韩烨被保镖按住，身体前倾，嘴里喊着不跪，看向安然方向。",
+        "dialogue": "你这个小可爱，爸，我不跪。",
+        "speaker": "韩烨",
+        "emotion": "抗拒/哭喊",
+        "duration": 2.64,
+        "description_visual": "中近景平拍镜头；会议室；画面中央人物，身穿黑色西装，被按住，身体前倾，表情：嘴巴张开，眼神看向安然，表情抗拒；两侧人物，身穿黑色西装，按住韩烨，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面中央",
+                "action": "站立，手指指向地面",
+                "expression": "表情痛苦，嘴巴张开命令"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面右侧",
+                "action": "双臂交叉站立",
+                "expression": "表情冷漠"
+            },
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "被按在地上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "会议室，股票屏幕",
+        "description_narrative": "全景镜头，韩老表情痛苦地指着地面命令磕头，安然抱胸站在一旁，韩烨被按在地上。",
+        "dialogue": "磕吧。",
+        "speaker": "韩老",
+        "emotion": "痛苦/命令",
+        "duration": 2.48,
+        "description_visual": "全景平拍镜头；会议室，股票屏幕；画面中央人物，身穿黑色西装系蓝色领带，站立，手指指向地面，表情：表情痛苦，嘴巴张开命令；画面右侧人物，身穿黑色蕾丝吊带裙，双臂交叉站立，表情：表情冷漠；画面左侧人物，身穿黑色西装，被按在地上，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "被按头磕地",
+                "expression": "不可见"
+            },
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面中央",
+                "action": "站立，低头看",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面右侧",
+                "action": "双臂交叉",
+                "expression": "表情冷漠"
+            }
+        ],
+        "background": "会议室，股票屏幕",
+        "description_narrative": "全景镜头，韩烨被保镖强行按头磕地，韩老痛苦地看着，安然开始计数。",
+        "dialogue": "二。",
+        "speaker": "安然",
+        "emotion": "冷漠/计数",
+        "duration": 1.2,
+        "description_visual": "全景平拍镜头；会议室，股票屏幕；画面左侧人物，身穿黑色西装，被按头磕地，表情：不可见；画面中央人物，身穿黑色西装系蓝色领带，站立，低头看，表情：表情痛苦；画面右侧人物，身穿黑色蕾丝吊带裙，双臂交叉，表情：表情冷漠。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "跪在地上",
+                "expression": "不可见"
+            },
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面右侧",
+                "action": "双臂交叉",
+                "expression": "表情冷漠"
+            }
+        ],
+        "background": "会议室，股票屏幕",
+        "description_narrative": "全景镜头，韩烨跪在地上，韩老和安然站在一旁观看，场面僵持。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.32,
+        "description_visual": "全景平拍镜头；会议室，股票屏幕；画面左侧人物，身穿黑色西装，跪在地上，表情：不可见；画面中央人物，身穿黑色西装系蓝色领带，站立，表情：表情痛苦；画面右侧人物，身穿黑色蕾丝吊带裙，双臂交叉，表情：表情冷漠。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "跪在地上，被保镖按住",
+                "expression": "低头，表情痛苦"
+            },
+            {
+                "name": "保镖",
+                "gender": "男",
+                "clothing": "黑色西装戴墨镜",
+                "position": "两侧",
+                "action": "按住韩烨肩膀",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "会议室",
+        "description_narrative": "中景镜头，两名保镖用力按住韩烨的肩膀，韩烨跪在地上，安然发出笑声。",
+        "dialogue": "哈哈哈哈。",
+        "speaker": "安然",
+        "emotion": "嘲笑/得意",
+        "duration": 0.84,
+        "description_visual": "中景平拍镜头；会议室；画面中央人物，身穿黑色西装，跪在地上，被保镖按住，表情：低头，表情痛苦；两侧人物，身穿黑色西装戴墨镜，按住韩烨肩膀，表情：表情严肃。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "跪在地上",
+                "expression": "不可见"
+            },
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面右侧",
+                "action": "双臂交叉",
+                "expression": "表情冷漠"
+            }
+        ],
+        "background": "会议室，股票屏幕",
+        "description_narrative": "全景镜头，韩烨跪在地上，韩老和安然站在一旁，安然发出嗯的声音。",
+        "dialogue": "嗯。",
+        "speaker": "安然",
+        "emotion": "满意/冷漠",
+        "duration": 3.16,
+        "description_visual": "全景平拍镜头；会议室，股票屏幕；画面左侧人物，身穿黑色西装，跪在地上，表情：不可见；画面中央人物，身穿黑色西装系蓝色领带，站立，表情：表情痛苦；画面右侧人物，身穿黑色蕾丝吊带裙，双臂交叉，表情：表情冷漠。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "表情凝重"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面右侧",
+                "action": "双臂交叉",
+                "expression": "嘴角微扬，眼神冷淡"
+            }
+        ],
+        "background": "室内深色背景",
+        "description_narrative": "近景镜头，韩老表情凝重，安然嘴角微扬，继续计数。",
+        "dialogue": "三。",
+        "speaker": "安然",
+        "emotion": "冷漠/计数",
+        "duration": 3.76,
+        "description_visual": "近景平拍镜头；室内深色背景；画面左侧人物，身穿黑色西装系蓝色领带，站立，表情：表情凝重；画面右侧人物，身穿黑色蕾丝吊带裙，双臂交叉，表情：嘴角微扬，眼神冷淡。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩老",
+                "gender": "男",
+                "clothing": "黑色西装系蓝色领带",
+                "position": "画面中央",
+                "action": "站立，看着地上",
+                "expression": "表情痛苦，询问"
+            },
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带裙",
+                "position": "画面右侧",
+                "action": "双臂交叉",
+                "expression": "表情冷傲，说话"
+            },
+            {
+                "name": "韩烨",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "跪在地上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "会议室，股票屏幕",
+        "description_narrative": "全景镜头，韩老询问是否满意，安然冷笑着表示规则变了，危机并未解除。",
+        "dialogue": "十。安小姐，这样总算可以了吧？你满意了吧？那是刚才，现在规则变了。",
+        "speaker": "韩老 / 安然",
+        "emotion": "痛苦/冷傲",
+        "duration": 15.72,
+        "description_visual": "全景平拍镜头；会议室，股票屏幕；画面中央人物，身穿黑色西装系蓝色领带，站立，看着地上，表情：表情痛苦，询问；画面右侧人物，身穿黑色蕾丝吊带裙，双臂交叉，表情：表情冷傲，说话；画面左侧人物，身穿黑色西装，跪在地上，表情：不可见。"
+    }
+]

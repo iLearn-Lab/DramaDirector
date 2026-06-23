@@ -1,0 +1,1146 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "坐在黑色皮沙发上，身体微侧向右，双手交叠放在腿上",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微闭"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "坐在黑色皮沙发上，身体前倾，双手手指交叉紧握",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "复古咖啡厅，墙上有红色摩托车壁画，头顶有鹿角吊灯，光线温暖",
+        "description_narrative": "全景镜头，蓝衣女子与西装男子相对坐在咖啡厅的黑色皮沙发上。女子身体微侧看向男子，男子低头双手紧握，神情略显犹豫。背景墙上有一幅红色的摩托车壁画，头顶悬挂着鹿角吊灯。",
+        "dialogue": "找我来有事吗",
+        "speaker": "西装男子",
+        "emotion": "疑惑",
+        "duration": 1.64,
+        "description_visual": "全景平拍镜头；复古咖啡厅，墙上有红色摩托车壁画，头顶有鹿角吊灯，光线温暖；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，坐在黑色皮沙发上，身体微侧向右，双手交叠放在腿上，表情：眉毛舒展，眼睛注视男子，嘴巴微闭；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，坐在黑色皮沙发上，身体前倾，双手手指交叉紧握，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面中央",
+                "action": "抬头看向对面的女子，双手放在膝盖上",
+                "expression": "眉毛微挑，眼睛直视对方，嘴巴微张"
+            }
+        ],
+        "background": "暖色调背景墙，光线柔和",
+        "description_narrative": "过肩近景镜头，西装男子抬头看向对面的女子，神情认真，似乎在回忆或确认某事。",
+        "dialogue": "我记得",
+        "speaker": "西装男子",
+        "emotion": "认真",
+        "duration": 1.76,
+        "description_visual": "近景过肩镜头；暖色调背景墙，光线柔和；画面中央人物，身穿灰色西装，白色衬衫，黑色领带，抬头看向对面的女子，双手放在膝盖上，表情：眉毛微挑，眼睛直视对方，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "双手交叠放在腿上，身体坐直",
+                "expression": "眉毛平展，眼睛平静注视男子，嘴巴微闭"
+            }
+        ],
+        "background": "墙上有装饰画，光线偏冷",
+        "description_narrative": "过肩中近景镜头，蓝衣女子双手交叠放在腿上，神情冷静地看着男子，语气平淡。",
+        "dialogue": "我们之间没什么交情",
+        "speaker": "蓝衣女子",
+        "emotion": "冷静",
+        "duration": 1.6,
+        "description_visual": "中近景过肩镜头；墙上有装饰画，光线偏冷；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，双手交叠放在腿上，身体坐直，表情：眉毛平展，眼睛平静注视男子，嘴巴微闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面中央",
+                "action": "微微低头，视线向下",
+                "expression": "眉毛微垂，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子微微低头，视线向下，默认了女子的说法，神情略显无奈。",
+        "dialogue": "交情自然没什么",
+        "speaker": "西装男子",
+        "emotion": "无奈",
+        "duration": 2.6,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面中央人物，身穿灰色西装，白色衬衫，黑色领带，微微低头，视线向下，表情：眉毛微垂，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "身体前倾，右手做出手势",
+                "expression": "眉毛上扬，眼睛注视男子，嘴巴微张说话"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子身体前倾，右手做出手势，提出可以谈谈合作，神情自信。",
+        "dialogue": "我们可以谈谈合作",
+        "speaker": "蓝衣女子",
+        "emotion": "自信",
+        "duration": 1.52,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，身体前倾，右手做出手势，表情：眉毛上扬，眼睛注视男子，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "侧头看向女子，神情疑惑",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴微张"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子侧头看向女子，神情疑惑，表示还不知道有什么可合作的。",
+        "dialogue": "我还不知道",
+        "speaker": "西装男子",
+        "emotion": "疑惑",
+        "duration": 1.88,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，侧头看向女子，神情疑惑，表情：眉毛微蹙，眼睛注视女子，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "身体前倾，右手指向男子",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "双手交叉放在腿上，看着女子",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            }
+        ],
+        "background": "复古咖啡厅，红色摩托车壁画",
+        "description_narrative": "全景镜头，蓝衣女子身体前倾，右手指向男子，询问两人之间有什么可合作的。男子双手交叉放在腿上，看着女子。",
+        "dialogue": "我们之间有什么可合作的",
+        "speaker": "西装男子",
+        "emotion": "质疑",
+        "duration": 3.08,
+        "description_visual": "全景平拍镜头；复古咖啡厅，红色摩托车壁画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，身体前倾，右手指向男子，表情：眉毛舒展，眼睛注视男子，嘴巴微张；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，双手交叉放在腿上，看着女子，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "右手食指指向前方，面带微笑",
+                "expression": "眉毛上扬，眼睛注视男子，嘴角上扬"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子右手食指指向前方，面带自信的微笑，肯定地回答当然有。",
+        "dialogue": "当然有",
+        "speaker": "蓝衣女子",
+        "emotion": "自信",
+        "duration": 1.32,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，右手食指指向前方，面带微笑，表情：眉毛上扬，眼睛注视男子，嘴角上扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "双手交叉，身体微前倾",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴微张"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子双手交叉，身体微前倾，听着女子说两人都有一个共同的目标。",
+        "dialogue": "我们都有一个",
+        "speaker": "蓝衣女子",
+        "emotion": "神秘",
+        "duration": 2.04,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，双手交叉，身体微前倾，表情：眉毛微蹙，眼睛注视女子，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "双手交握，身体前倾",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子双手交握，身体前倾，揭示共同目标是让某人离婚。",
+        "dialogue": "那就是让",
+        "speaker": "蓝衣女子",
+        "emotion": "诱导",
+        "duration": 2.76,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，双手交握，身体前倾，表情：眉毛舒展，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "双手交叉，神情 earnest",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴微张"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子双手交叉，神情诚恳地表示自己只是希望她幸福。",
+        "dialogue": "我只是希望她幸福",
+        "speaker": "西装男子",
+        "emotion": "诚恳",
+        "duration": 2.0,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，双手交叉，神情 earnest，表情：眉毛微蹙，眼睛注视女子，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "右手做出手势，反问",
+                "expression": "眉毛微挑，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子右手做出手势，反问男子认为她现在是否真的幸福。",
+        "dialogue": "那你认为",
+        "speaker": "蓝衣女子",
+        "emotion": "反问",
+        "duration": 2.8,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，右手做出手势，反问，表情：眉毛微挑，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "看着女子喝水，神情思考",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，前景女子拿起咖啡杯喝水，西装男子看着女子，神情思考，似乎在反思女子的话。",
+        "dialogue": "她现在真的幸福吗",
+        "speaker": "蓝衣女子",
+        "emotion": "质问",
+        "duration": 3.28,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，看着女子喝水，神情思考，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "双手放在腿上，身体微侧",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子双手放在腿上，身体微侧，指出只有他们两个离婚了。",
+        "dialogue": "只有他们两个离婚了",
+        "speaker": "蓝衣女子",
+        "emotion": "肯定",
+        "duration": 2.88,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，双手放在腿上，身体微侧，表情：眉毛舒展，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "双手交叉，神情专注",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子双手交叉，神情专注地听着女子说这样他才有机会。",
+        "dialogue": "你才有机会",
+        "speaker": "蓝衣女子",
+        "emotion": "诱导",
+        "duration": 2.4,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，双手交叉，神情专注，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "双手交握，面带微笑",
+                "expression": "眉毛舒展，眼睛注视男子，嘴角上扬"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子双手交握，面带微笑，继续诱导男子亲自为他心爱的女人带来幸福。",
+        "dialogue": "亲自为你心爱的女人",
+        "speaker": "蓝衣女子",
+        "emotion": "诱惑",
+        "duration": 2.32,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，双手交握，面带微笑，表情：眉毛舒展，眼睛注视男子，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "低头思考，神情动摇",
+                "expression": "眉毛微垂，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子低头思考，神情动摇，女子反问带来幸福不是吗。",
+        "dialogue": "带来幸福不是吗",
+        "speaker": "蓝衣女子",
+        "emotion": "反问",
+        "duration": 2.24,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，低头思考，神情动摇，表情：眉毛微垂，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "抬头看向女子，神情妥协",
+                "expression": "眉毛舒展，眼睛注视女子，嘴巴微张"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子抬头看向女子，神情妥协，让女子说说她的计划。",
+        "dialogue": "说说你的计划吧",
+        "speaker": "西装男子",
+        "emotion": "妥协",
+        "duration": 3.56,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，抬头看向女子，神情妥协，表情：眉毛舒展，眼睛注视女子，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "面带满意微笑，双手交握",
+                "expression": "眉毛舒展，眼睛注视男子，嘴角上扬"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子面带满意微笑，双手交握，说这才对嘛，开始阐述计划。",
+        "dialogue": "这才对嘛",
+        "speaker": "蓝衣女子",
+        "emotion": "满意",
+        "duration": 3.64,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，面带满意微笑，双手交握，表情：眉毛舒展，眼睛注视男子，嘴角上扬。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "双手交叉，认真倾听",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子双手交叉，认真倾听女子说现在只有顾晚一个人签了离婚协议。",
+        "dialogue": "现在只有顾晚一个人",
+        "speaker": "蓝衣女子",
+        "emotion": "解释",
+        "duration": 2.8,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，双手交叉，认真倾听，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "身体前倾，手势解释",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "手持咖啡杯，低头听",
+                "expression": "眉毛微垂，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "复古咖啡厅，红色摩托车壁画",
+        "description_narrative": "全景镜头，蓝衣女子身体前倾，手势解释陆时庭不知道怎么回事一直下不定决心。男子手持咖啡杯，低头听。",
+        "dialogue": "陆时庭不知道",
+        "speaker": "蓝衣女子",
+        "emotion": "分析",
+        "duration": 1.92,
+        "description_visual": "全景平拍镜头；复古咖啡厅，红色摩托车壁画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，身体前倾，手势解释，表情：眉毛舒展，眼睛注视男子，嘴巴微张；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，手持咖啡杯，低头听，表情：眉毛微垂，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "抬头看向女子，神情专注",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子抬头看向女子，神情专注，女子说我们要做的就是让陆时庭彻底的放弃顾晚。",
+        "dialogue": "我们要做的",
+        "speaker": "蓝衣女子",
+        "emotion": "坚定",
+        "duration": 1.96,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，抬头看向女子，神情专注，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "从桌上拿起一个白色小纸包",
+                "expression": "眉毛舒展，眼睛注视纸包，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "看着女子手中的纸包",
+                "expression": "眉毛微蹙，眼睛注视纸包，嘴巴紧闭"
+            }
+        ],
+        "background": "复古咖啡厅，红色摩托车壁画",
+        "description_narrative": "全景镜头，蓝衣女子从桌上拿起一个白色小纸包，递给男子，说你只需要把这个给顾晚喝了。",
+        "dialogue": "你只需要把这个",
+        "speaker": "蓝衣女子",
+        "emotion": "指令",
+        "duration": 1.64,
+        "description_visual": "全景平拍镜头；复古咖啡厅，红色摩托车壁画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，从桌上拿起一个白色小纸包，表情：眉毛舒展，眼睛注视纸包，嘴巴微张；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，看着女子手中的纸包，表情：眉毛微蹙，眼睛注视纸包，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面左侧",
+                "action": "手持白色小纸包，递向男子",
+                "expression": "眉毛舒展，眼睛注视纸包，嘴巴微张"
+            }
+        ],
+        "background": "黑色皮沙发扶手",
+        "description_narrative": "特写镜头，蓝衣女子手持白色小纸包，递向男子，说给顾晚喝了。",
+        "dialogue": "给顾晚喝了",
+        "speaker": "蓝衣女子",
+        "emotion": "指令",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；黑色皮沙发扶手；画面左侧人物，身穿浅蓝色衬衫，手持白色小纸包，递向男子，表情：眉毛舒展，眼睛注视纸包，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "手持纸包，神情诱惑",
+                "expression": "眉毛微挑，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩近景镜头，蓝衣女子手持纸包，神情诱惑，说这样他就可以彻底的拥有她了。",
+        "dialogue": "你就可以彻底的",
+        "speaker": "蓝衣女子",
+        "emotion": "诱惑",
+        "duration": 1.96,
+        "description_visual": "近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，手持纸包，神情诱惑，表情：眉毛微挑，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "看着女子手中的纸包，神情犹豫",
+                "expression": "眉毛微蹙，眼睛注视纸包，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子看着女子手中的纸包，神情犹豫，女子说你放心。",
+        "dialogue": "你放心",
+        "speaker": "蓝衣女子",
+        "emotion": "安抚",
+        "duration": 2.4,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，看着女子手中的纸包，神情犹豫，表情：眉毛微蹙，眼睛注视纸包，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "手持纸包，解释药效",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子手持纸包，解释这个药效只有四十分钟。",
+        "dialogue": "这个药效",
+        "speaker": "蓝衣女子",
+        "emotion": "解释",
+        "duration": 2.2,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，手持纸包，解释药效，表情：眉毛舒展，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "看着纸包，神情疑虑",
+                "expression": "眉毛微蹙，眼睛注视纸包，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子看着纸包，神情疑虑，女子说不会对她的身体有任何伤害。",
+        "dialogue": "不会对她的身体",
+        "speaker": "蓝衣女子",
+        "emotion": "保证",
+        "duration": 2.16,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，看着纸包，神情疑虑，表情：眉毛微蹙，眼睛注视纸包，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面左侧",
+                "action": "手持白色小纸包",
+                "expression": "眉毛舒展，眼睛注视纸包，嘴巴微张"
+            }
+        ],
+        "background": "灰色西装",
+        "description_narrative": "特写镜头，蓝衣女子手持白色小纸包，靠近男子的西装，强调没有任何伤害。",
+        "dialogue": "有任何伤害",
+        "speaker": "蓝衣女子",
+        "emotion": "保证",
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；灰色西装；画面左侧人物，身穿浅蓝色衬衫，手持白色小纸包，表情：眉毛舒展，眼睛注视纸包，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "闭眼摇头，神情抗拒",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子闭眼摇头，神情抗拒，问女子觉得他会用这种下三滥的手段吗。",
+        "dialogue": "你觉得",
+        "speaker": "西装男子",
+        "emotion": "抗拒",
+        "duration": 1.52,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，闭眼摇头，神情抗拒，表情：眉毛紧蹙，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "睁眼看向女子，神情严肃",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴微张"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子睁眼看向女子，神情严肃，说自己不会用这种下三滥的手段。",
+        "dialogue": "我会用这种",
+        "speaker": "西装男子",
+        "emotion": "严肃",
+        "duration": 2.44,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，睁眼看向女子，神情严肃，表情：眉毛微蹙，眼睛注视女子，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "手持纸包，微笑反问",
+                "expression": "眉毛舒展，眼睛注视男子，嘴角上扬"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子手持纸包，微笑反问来陷害晚晚吗，似乎看穿了男子的顾虑。",
+        "dialogue": "来陷害晚晚吗",
+        "speaker": "蓝衣女子",
+        "emotion": "嘲讽",
+        "duration": 2.56,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，手持纸包，微笑反问，表情：眉毛舒展，眼睛注视男子，嘴角上扬。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "闭眼叹气，神情无奈",
+                "expression": "眉毛微垂，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子闭眼叹气，神情无奈，女子说看来他还不是很了解女人。",
+        "dialogue": "看来你还不是",
+        "speaker": "蓝衣女子",
+        "emotion": "说教",
+        "duration": 2.52,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，闭眼叹气，神情无奈，表情：眉毛微垂，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "身体前倾，语气肯定",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩近景镜头，蓝衣女子身体前倾，语气肯定地说女人只要拥有了她的身体，她的心自然就是你的了。",
+        "dialogue": "女人你只要拥有了",
+        "speaker": "蓝衣女子",
+        "emotion": "蛊惑",
+        "duration": 2.6,
+        "description_visual": "近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，身体前倾，语气肯定，表情：眉毛舒展，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "看着女子，神情动摇",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子看着女子，神情动摇，听着女子说拥有身体就能得到心。",
+        "dialogue": "她的心啊",
+        "speaker": "蓝衣女子",
+        "emotion": "蛊惑",
+        "duration": 2.92,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，看着女子，神情动摇，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "双手交握，继续劝说",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子双手交握，继续劝说更何况他是为了给她幸福。",
+        "dialogue": "更何况",
+        "speaker": "蓝衣女子",
+        "emotion": "劝说",
+        "duration": 3.12,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，双手交握，继续劝说，表情：眉毛舒展，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "闭眼思考，神情挣扎",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子闭眼思考，神情挣扎，女子说你又何必在乎用什么手段呢。",
+        "dialogue": "你又何必在乎",
+        "speaker": "蓝衣女子",
+        "emotion": "诱导",
+        "duration": 2.2,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，闭眼思考，神情挣扎，表情：眉毛紧蹙，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面左侧",
+                "action": "将纸包放入男子手中",
+                "expression": "眉毛舒展，眼睛注视男子的手，嘴巴微张"
+            }
+        ],
+        "background": "黑色皮沙发",
+        "description_narrative": "特写镜头，蓝衣女子将纸包放入男子手中，说用什么手段呢，你只需要照顾你想要照顾的。",
+        "dialogue": "用什么手段呢",
+        "speaker": "蓝衣女子",
+        "emotion": "诱导",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；黑色皮沙发；画面左侧人物，身穿浅蓝色衬衫，将纸包放入男子手中，表情：眉毛舒展，眼睛注视男子的手，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "低头看着手中的纸包",
+                "expression": "眉毛微垂，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子低头看着手中的纸包，女子说你只需要照顾你想要照顾的。",
+        "dialogue": "你只需要照顾",
+        "speaker": "蓝衣女子",
+        "emotion": "指令",
+        "duration": 2.44,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，低头看着手中的纸包，表情：眉毛微垂，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "微笑看着男子",
+                "expression": "眉毛舒展，眼睛注视男子，嘴角上扬"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩近景镜头，蓝衣女子微笑看着男子，说其他的交给我。",
+        "dialogue": "其他的",
+        "speaker": "蓝衣女子",
+        "emotion": "自信",
+        "duration": 1.36,
+        "description_visual": "近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，微笑看着男子，表情：眉毛舒展，眼睛注视男子，嘴角上扬。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面左侧",
+                "action": "手握住男子的手",
+                "expression": "眉毛舒展，眼睛注视男子的手，嘴巴微闭"
+            }
+        ],
+        "background": "灰色西装",
+        "description_narrative": "特写镜头，蓝衣女子手握住男子的手，说交给我。",
+        "dialogue": "交给我",
+        "speaker": "蓝衣女子",
+        "emotion": "承诺",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；灰色西装；画面左侧人物，身穿浅蓝色衬衫，手握住男子的手，表情：眉毛舒展，眼睛注视男子的手，嘴巴微闭。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "微笑看着男子",
+                "expression": "眉毛舒展，眼睛注视男子，嘴角上扬"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩近景镜头，蓝衣女子微笑看着男子，男子似乎已经默认。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，微笑看着男子，表情：眉毛舒展，眼睛注视男子，嘴角上扬。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面右侧",
+                "action": "看着女子，神情复杂",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            }
+        ],
+        "background": "暖色调背景墙",
+        "description_narrative": "过肩近景镜头，西装男子看着女子，神情复杂，似乎已经接受了这个计划。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "近景过肩镜头；暖色调背景墙；画面右侧人物，身穿灰色西装，白色衬衫，黑色领带，看着女子，神情复杂，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "微笑看着男子",
+                "expression": "眉毛舒展，眼睛注视男子，嘴角上扬"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子微笑看着男子，男子伸手做出大拇指手势。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.08,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，微笑看着男子，表情：眉毛舒展，眼睛注视男子，嘴角上扬。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面中央",
+                "action": "右手竖起大拇指",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微闭"
+            }
+        ],
+        "background": "灰色西装",
+        "description_narrative": "特写镜头，西装男子右手竖起大拇指，表示同意，说那就预祝我们。",
+        "dialogue": "那就预祝我们",
+        "speaker": "西装男子",
+        "emotion": "同意",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；灰色西装；画面中央人物，身穿灰色西装，右手竖起大拇指，表情：眉毛舒展，眼睛注视前方，嘴巴微闭。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "拿起咖啡杯，微笑",
+                "expression": "眉毛舒展，眼睛注视男子，嘴角上扬"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩中近景镜头，蓝衣女子拿起咖啡杯，微笑说合作愉快。",
+        "dialogue": "合作愉快",
+        "speaker": "蓝衣女子",
+        "emotion": "满意",
+        "duration": 1.52,
+        "description_visual": "中近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，拿起咖啡杯，微笑，表情：眉毛舒展，眼睛注视男子，嘴角上扬。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面左侧",
+                "action": "手持红色咖啡杯",
+                "expression": "眉毛舒展，眼睛注视杯子，嘴巴微闭"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面右侧",
+                "action": "手持红色咖啡杯",
+                "expression": "眉毛舒展，眼睛注视杯子，嘴巴微闭"
+            }
+        ],
+        "background": "黑色皮沙发",
+        "description_narrative": "特写镜头，两人手持红色咖啡杯碰杯，达成合作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；黑色皮沙发；画面左侧人物，身穿浅蓝色衬衫，手持红色咖啡杯，表情：眉毛舒展，眼睛注视杯子，嘴巴微闭；画面右侧人物，身穿灰色西装，手持红色咖啡杯，表情：眉毛舒展，眼睛注视杯子，嘴巴微闭。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫，黑色短裙",
+                "position": "画面左侧",
+                "action": "喝咖啡，神情得意",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "墙上有装饰画",
+        "description_narrative": "过肩近景镜头，蓝衣女子喝咖啡，神情得意，计划得逞。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "近景过肩镜头；墙上有装饰画；画面左侧人物，身穿浅蓝色衬衫，黑色短裙，喝咖啡，神情得意，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    }
+]

@@ -1,0 +1,592 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "低头站立，双手交握在身前",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内走廊或房间一角，背景模糊，光线柔和",
+        "description_narrative": "中近景固定镜头，助理身穿黑色皮夹克和高领衫，低头站立，神情恭敬严肃，双手交握在身前，正在向傅总汇报情况。",
+        "dialogue": "傅总，林老爷子的肝病恶化了。",
+        "speaker": "助理",
+        "emotion": "严肃",
+        "duration": 3.26,
+        "description_visual": "中近景平拍镜头；室内走廊或房间一角，背景模糊，光线柔和；画面中央人物，身穿黑色皮夹克，黑色高领衫，低头站立，双手交握在身前，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面左侧",
+                "action": "站立，身体微向前倾",
+                "expression": "低头，表情凝重"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面右侧",
+                "action": "坐在沙发上，身体前倾，手放在膝盖附近",
+                "expression": "低头沉思，眉头微锁"
+            }
+        ],
+        "background": "豪华客厅，有沙发、茶几、挂画，光线偏暗",
+        "description_narrative": "全景固定镜头，助理站在茶几左侧，傅总身穿灰色西装坐在右侧沙发上，两人中间隔着茶几，气氛凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.16,
+        "description_visual": "全景平拍镜头；豪华客厅，有沙发、茶几、挂画，光线偏暗；画面左侧人物，身穿黑色皮夹克，黑色高领衫，站立，身体微向前倾，表情：低头，表情凝重；画面右侧人物，身穿灰色西装，坐在沙发上，身体前倾，手放在膝盖附近，表情：低头沉思，眉头微锁。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面中央",
+                "action": "坐着，头部微低",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴微抿"
+            }
+        ],
+        "background": "沙发靠背，模糊背景",
+        "description_narrative": "特写俯拍镜头，傅总身穿灰色西装，低头沉思，表情严肃，似乎在消化助理带来的消息。",
+        "dialogue": "林家这几年日薄西山，全靠林老爷子撑着。林娇不是蠢货，孰轻孰重她自然知道。",
+        "speaker": "助理",
+        "emotion": "深沉",
+        "duration": 8.86,
+        "description_visual": "特写俯拍镜头；沙发靠背，模糊背景；画面中央人物，身穿灰色西装，白色衬衫，黑色领带，坐着，头部微低，表情：眉毛紧锁，眼睛向下看，嘴巴微抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手交握",
+                "expression": "眉毛微挑，眼睛看向下方，嘴巴微张欲言又止"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景固定镜头，助理站立着，神情犹豫，似乎有重要情报即将说出口。",
+        "dialogue": "只是。",
+        "speaker": "助理",
+        "emotion": "犹豫",
+        "duration": 1.18,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿黑色皮夹克，黑色高领衫，站立，双手交握，表情：眉毛微挑，眼睛看向下方，嘴巴微张欲言又止。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交握放在腿上",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "米色沙发，背景模糊",
+        "description_narrative": "中景固定镜头，傅总坐在沙发上，双手交握，抬头看向助理，询问下文。",
+        "dialogue": "只是什么？",
+        "speaker": "傅总",
+        "emotion": "询问",
+        "duration": 1.9,
+        "description_visual": "中景平拍镜头；米色沙发，背景模糊；画面中央人物，身穿灰色西装，白色衬衫，黑色领带，坐在沙发上，双手交握放在腿上，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向侧下方，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景固定镜头，助理继续汇报，神情专注，透露关键信息。",
+        "dialogue": "只是林老爷子是 ABRH 阴性熊猫血。",
+        "speaker": "助理",
+        "emotion": "严肃",
+        "duration": 4.24,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿黑色皮夹克，黑色高领衫，站立，身体微侧，表情：眉毛微蹙，眼睛看向侧下方，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交握",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "米色沙发，背景模糊",
+        "description_narrative": "中景固定镜头，傅总坐在沙发上，表情平静但眼神锐利，继续聆听助理的汇报。",
+        "dialogue": "而林夫人和林小姐都不是。",
+        "speaker": "助理",
+        "emotion": "冷静",
+        "duration": 3.18,
+        "description_visual": "中景平拍镜头；米色沙发，背景模糊；画面中央人物，身穿灰色西装，白色衬衫，黑色领带，坐在沙发上，双手交握，表情：眉毛微挑，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手交握",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景固定镜头，助理继续汇报，提到顾小姐的血型情况。",
+        "dialogue": "反倒是顾小姐居然和林老爷子一",
+        "speaker": "助理",
+        "emotion": "惊讶",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿黑色皮夹克，黑色高领衫，站立，双手交握，表情：眉毛微蹙，眼睛看向下方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫，黑色领带",
+                "position": "画面中央",
+                "action": "坐着，头部微低",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴微抿"
+            }
+        ],
+        "background": "沙发靠背，模糊背景",
+        "description_narrative": "特写俯拍镜头，傅总听到关键信息，表情变得凝重，似乎在思考对策。",
+        "dialogue": "一个血型。",
+        "speaker": "助理",
+        "emotion": "深沉",
+        "duration": 2.84,
+        "description_visual": "特写俯拍镜头；沙发靠背，模糊背景；画面中央人物，身穿灰色西装，白色衬衫，黑色领带，坐着，头部微低，表情：眉毛紧锁，眼睛向下看，嘴巴微抿。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，手持蓝色文件夹",
+                "expression": "不可见（画面只拍到腰部以下）"
+            }
+        ],
+        "background": "室内，白色窗帘，光线明亮",
+        "description_narrative": "中景固定镜头，画面聚焦在白衣女子的腰部和腿部，她身穿白色条纹连衣裙，手持蓝色文件夹，正在汇报名为傅菁的孩子情况。",
+        "dialogue": "傅菁处于生长发育阶段，除了身体增长很快之外。",
+        "speaker": "白衣女子",
+        "emotion": "专业",
+        "duration": 4.86,
+        "description_visual": "中景平拍镜头；室内，白色窗帘，光线明亮；画面中央人物，身穿白色条纹连衣裙，站立，手持蓝色文件夹，表情：不可见（画面只拍到腰部以下）。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色马甲，条纹衬衫，蓝色领带",
+                "position": "画面中央",
+                "action": "坐着，身体后仰",
+                "expression": "眉毛舒展，眼睛看向侧上方，嘴角上扬微笑"
+            }
+        ],
+        "background": "白色窗帘，光线明亮",
+        "description_narrative": "中近景仰拍镜头，傅总身穿灰色马甲和条纹衬衫，戴着眼镜，面带微笑听着汇报，显得轻松自信。",
+        "dialogue": "心理增长也很快，所以说性格也在逐步形成，但是呢容易受很多因素影响。",
+        "speaker": "白衣女子",
+        "emotion": "轻松",
+        "duration": 6.26,
+        "description_visual": "中近景仰拍镜头；白色窗帘，光线明亮；画面中央人物，身穿灰色马甲，条纹衬衫，蓝色领带，坐着，身体后仰，表情：眉毛舒展，眼睛看向侧上方，嘴角上扬微笑。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，手持蓝色文件夹",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘，绿色植物",
+        "description_narrative": "中近景固定镜头，白衣女子手持文件夹，表情认真，继续解释影响因素。",
+        "dialogue": "比如说遗传教育，还有环境。",
+        "speaker": "白衣女子",
+        "emotion": "认真",
+        "duration": 4.04,
+        "description_visual": "中近景平拍镜头；白色窗帘，绿色植物；画面中央人物，身穿白色条纹连衣裙，站立，手持蓝色文件夹，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色马甲，条纹衬衫，蓝色领带",
+                "position": "画面中央",
+                "action": "坐着，闭目养神",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "白色窗帘，光线明亮",
+        "description_narrative": "中近景仰拍镜头，傅总闭着眼睛，似乎在休息或思考，表情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.82,
+        "description_visual": "中近景仰拍镜头；白色窗帘，光线明亮；画面中央人物，身穿灰色马甲，条纹衬衫，蓝色领带，坐着，闭目养神，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，手持蓝色文件夹",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "白色窗帘，光线明亮",
+        "description_narrative": "中近景固定镜头，白衣女子看着傅总，等待指示，表情平静。",
+        "dialogue": "嗯。",
+        "speaker": "傅总",
+        "emotion": "平静",
+        "duration": 3.1,
+        "description_visual": "中近景平拍镜头；白色窗帘，光线明亮；画面中央人物，身穿白色条纹连衣裙，站立，手持蓝色文件夹，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面右侧",
+                "action": "转身走向桌子",
+                "expression": "不可见（背对镜头）"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色马甲，条纹衬衫，蓝色领带",
+                "position": "画面左侧背景",
+                "action": "坐在桌子后",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室，大木桌，茶具，白色窗帘",
+        "description_narrative": "全景跟拍镜头，白衣女子转身走向办公桌，傅总坐在桌后，桌上放着茶具和文件。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.7,
+        "description_visual": "全景平拍镜头（跟拍）；办公室，大木桌，茶具，白色窗帘；画面右侧人物，身穿白色条纹连衣裙，转身走向桌子，表情：不可见（背对镜头）；画面左侧背景人物，身穿灰色马甲，条纹衬衫，蓝色领带，坐在桌子后，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面右侧",
+                "action": "站在门边，手扶门框",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "木门，室内背景",
+        "description_narrative": "中景固定镜头，白衣女子站在门边，回头看向傅总，似乎在确认什么。",
+        "dialogue": "傅先生。",
+        "speaker": "白衣女子",
+        "emotion": "试探",
+        "duration": 3.1,
+        "description_visual": "中景平拍镜头；木门，室内背景；画面右侧人物，身穿白色条纹连衣裙，站在门边，手扶门框，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色马甲，条纹衬衫，蓝色领带",
+                "position": "画面中央",
+                "action": "坐着，闭目养神",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "白色窗帘，光线明亮",
+        "description_narrative": "中近景固定镜头，傅总闭着眼睛，似乎睡着了或在休息，没有反应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.9,
+        "description_visual": "中近景平拍镜头；白色窗帘，光线明亮；画面中央人物，身穿灰色马甲，条纹衬衫，蓝色领带，坐着，闭目养神，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面中央",
+                "action": "手放在腰间，似乎在拿东西",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色条纹连衣裙细节",
+        "description_narrative": "特写固定镜头，白衣女子的手放在腰间，动作隐蔽，似乎在从口袋或腰间取出物品。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.5,
+        "description_visual": "特写平拍镜头；白色条纹连衣裙细节；画面中央人物，身穿白色条纹连衣裙，手放在腰间，似乎在拿东西，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面中央",
+                "action": "低头，身体前倾",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "木门，室内背景",
+        "description_narrative": "中近景固定镜头，白衣女子低头，神情专注，正在进行某种操作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.14,
+        "description_visual": "中近景平拍镜头；木门，室内背景；画面中央人物，身穿白色条纹连衣裙，低头，身体前倾，表情：眉毛微蹙，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面左侧",
+                "action": "弯腰，手放在桌上的笔记本电脑上",
+                "expression": "眉毛微蹙，眼睛看着电脑，嘴巴紧闭"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色马甲，条纹衬衫，蓝色领带",
+                "position": "画面左下角",
+                "action": "手放在椅子扶手上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木桌，笔记本电脑，茶具",
+        "description_narrative": "中景侧拍镜头，白衣女子弯腰靠近桌子，手放在笔记本电脑上，傅总的手在画面左下角可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.88,
+        "description_visual": "中景侧拍镜头；木桌，笔记本电脑，茶具；画面左侧人物，身穿白色条纹连衣裙，弯腰，手放在桌上的笔记本电脑上，表情：眉毛微蹙，眼睛看着电脑，嘴巴紧闭；画面左下角人物，身穿灰色马甲，条纹衬衫，蓝色领带，手放在椅子扶手上，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面左侧",
+                "action": "手拿着 USB 设备插入电脑",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木桌，笔记本电脑键盘",
+        "description_narrative": "特写俯拍镜头，白衣女子的手拿着一个银色 USB 设备，正将其插入笔记本电脑的接口。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.82,
+        "description_visual": "特写俯拍镜头；木桌，笔记本电脑键盘；画面左侧人物，身穿白色条纹连衣裙，手拿着 USB 设备插入电脑，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面中央",
+                "action": "看着电脑屏幕，手在键盘上操作",
+                "expression": "眉毛微蹙，眼睛看着屏幕，嘴巴微张"
+            }
+        ],
+        "background": "木桌，笔记本电脑，茶具",
+        "description_narrative": "中近景侧拍镜头，白衣女子看着电脑屏幕，手指在键盘上操作，同时开口询问。",
+        "dialogue": "傅先生需要打扫吗？",
+        "speaker": "白衣女子",
+        "emotion": "试探",
+        "duration": 5.06,
+        "description_visual": "中近景侧拍镜头；木桌，笔记本电脑，茶具；画面中央人物，身穿白色条纹连衣裙，看着电脑屏幕，手在键盘上操作，表情：眉毛微蹙，眼睛看着屏幕，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面中央",
+                "action": "看着电脑屏幕，身体微动",
+                "expression": "眉毛微蹙，眼睛看着屏幕，嘴巴微张"
+            }
+        ],
+        "background": "木桌，笔记本电脑",
+        "description_narrative": "中近景侧拍镜头，白衣女子继续操作电脑，画面略有模糊，似乎有动作发生。",
+        "dialogue": "来。",
+        "speaker": "傅总",
+        "emotion": "命令",
+        "duration": 0.34,
+        "description_visual": "中近景侧拍镜头；木桌，笔记本电脑；画面中央人物，身穿白色条纹连衣裙，看着电脑屏幕，身体微动，表情：眉毛微蹙，眼睛看着屏幕，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色条纹连衣裙",
+                "position": "画面中央",
+                "action": "画面过曝/模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色强光",
+        "description_narrative": "特写固定镜头，画面过曝变白，只能隐约看到白衣女子的轮廓，她回应了一声。",
+        "dialogue": "嗯。",
+        "speaker": "白衣女子",
+        "emotion": "顺从",
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头；白色强光；画面中央人物，身穿白色条纹连衣裙，画面过曝/模糊，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白色画面",
+        "description_narrative": "特写固定镜头，画面完全变白，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.9,
+        "description_visual": "特写平拍镜头；纯白色画面。"
+    }
+]

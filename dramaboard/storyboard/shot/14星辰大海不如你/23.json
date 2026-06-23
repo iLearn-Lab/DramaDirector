@@ -1,0 +1,385 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "坐在床头，手持书本阅读",
+                "expression": "眉毛舒展，眼睛注视书本，嘴巴闭合"
+            },
+            {
+                "name": "思思",
+                "gender": "女",
+                "clothing": "浅色吊带睡衣",
+                "position": "画面左侧",
+                "action": "躺在床上睡觉，身体被被子覆盖",
+                "expression": "眉毛微蹙，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，暖色台灯照明，色调昏暗",
+        "description_narrative": "全景固定镜头，昏暗的卧室中，男子身穿白色背心坐在床头看书，思思身穿浅色吊带睡衣躺在左侧睡觉，眉头微蹙似乎感到不适。",
+        "dialogue": "嗯，好热。",
+        "speaker": "思思",
+        "emotion": "不适",
+        "duration": 3.3,
+        "description_visual": "全景平拍镜头；卧室床头，暖色台灯照明，色调昏暗；画面右侧人物，身穿白色背心，坐在床头，手持书本阅读，表情：眉毛舒展，眼睛注视书本，嘴巴闭合；画面左侧人物，身穿浅色吊带睡衣，躺在床上睡觉，身体被被子覆盖，表情：眉毛微蹙，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "思思",
+                "gender": "女",
+                "clothing": "浅色吊带睡衣",
+                "position": "画面中央",
+                "action": "侧躺，手放在头侧，身体微动",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴微张喘息"
+            }
+        ],
+        "background": "卧室床头，暖色灯光照射在墙面",
+        "description_narrative": "特写镜头聚焦思思，她侧躺在床上，眉头紧锁，手放在头侧，因炎热而呼吸微重，表情不适。",
+        "dialogue": "好热。",
+        "speaker": "思思",
+        "emotion": "燥热",
+        "duration": 2.3,
+        "description_visual": "特写平拍镜头；卧室床头，暖色灯光照射在墙面；画面中央人物，身穿浅色吊带睡衣，侧躺，手放在头侧，身体微动，表情：眉毛紧蹙，眼睛闭合，嘴巴微张喘息。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头看书，手指翻动书页",
+                "expression": "眉毛微挑，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，暖色背景光",
+        "description_narrative": "近景镜头拍摄男子，他身穿白色背心，低头专注看书，听到声音后眉毛微挑，似乎有所察觉。",
+        "dialogue": "啊。",
+        "speaker": "思思",
+        "emotion": "察觉",
+        "duration": 2.9,
+        "description_visual": "近景平拍镜头；卧室床头，暖色背景光；画面中央人物，身穿白色背心，低头看书，手指翻动书页，表情：眉毛微挑，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "思思",
+                "gender": "女",
+                "clothing": "浅色吊带睡衣",
+                "position": "画面左侧",
+                "action": "猛然睁眼，抬头看向右侧",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张惊讶"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧前景",
+                "action": "手部入镜，似乎正在触碰或靠近",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室床头，光线柔和",
+        "description_narrative": "低角度特写，思思猛然醒来，睁大双眼惊讶地看向右侧，男子的手部在前景模糊可见，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 1.9,
+        "description_visual": "特写低角度镜头；卧室床头，光线柔和；画面左侧人物，身穿浅色吊带睡衣，猛然睁眼，抬头看向右侧，表情：眉毛上扬，眼睛睁大，嘴巴微张惊讶；画面右侧前景人物，身穿白色背心，手部入镜，似乎正在触碰或靠近，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "坐在床上，身体微侧，看向下方",
+                "expression": "眉毛平缓，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，暖色灯光",
+        "description_narrative": "近景镜头拍摄男子，他坐在床上，神情平静地看着下方，似乎在观察刚醒来的思思。",
+        "dialogue": "你酒醒了。",
+        "speaker": "男子",
+        "emotion": "平静",
+        "duration": 1.1,
+        "description_visual": "近景平拍镜头；卧室床头，暖色灯光；画面中央人物，身穿白色背心，坐在床上，身体微侧，看向下方，表情：眉毛平缓，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "思思",
+                "gender": "女",
+                "clothing": "浅色吊带睡衣",
+                "position": "画面左侧",
+                "action": "坐起，双手紧紧抓住被子遮挡胸前",
+                "expression": "眉毛紧蹙，眼睛惊恐直视，嘴巴微张"
+            }
+        ],
+        "background": "卧室床铺，灰色被子，暖色灯光",
+        "description_narrative": "中景镜头，思思坐起身，双手紧紧抓着灰色被子遮挡身体，眼神惊恐地质问，表情充满戒备。",
+        "dialogue": "你怎么 在我家",
+        "speaker": "思思",
+        "emotion": "质问",
+        "duration": 1.47,
+        "description_visual": "中景平拍镜头；卧室床铺，灰色被子，暖色灯光；画面左侧人物，身穿浅色吊带睡衣，坐起，双手紧紧抓住被子遮挡胸前，表情：眉毛紧蹙，眼睛惊恐直视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "坐着，身体微前倾，看着对方",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微动"
+            }
+        ],
+        "background": "卧室床头，暖色背景",
+        "description_narrative": "近景镜头拍摄男子，他身体微前倾，看着思思，神情无奈地解释昨天的情况。",
+        "dialogue": "昨天你喝多了",
+        "speaker": "男子",
+        "emotion": "无奈",
+        "duration": 1.33,
+        "description_visual": "近景平拍镜头；卧室床头，暖色背景；画面中央人物，身穿白色背心，坐着，身体微前倾，看着对方，表情：眉毛微蹙，眼睛注视，嘴巴微动。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "思思",
+                "gender": "女",
+                "clothing": "浅色吊带睡衣",
+                "position": "画面左侧",
+                "action": "抓着被子，身体后仰",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "卧室床铺，灰色被子",
+        "description_narrative": "中景镜头，思思抓着被子身体后仰，依然处于惊恐中，继续质问男子为何在她的床上。",
+        "dialogue": "你怎么在我床上啊",
+        "speaker": "思思",
+        "emotion": "恐慌",
+        "duration": 1.77,
+        "description_visual": "中景平拍镜头；卧室床铺，灰色被子；画面左侧人物，身穿浅色吊带睡衣，抓着被子，身体后仰，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "坐着，看着对方",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，暖色灯光",
+        "description_narrative": "近景镜头拍摄男子，他看着思思，神情有些困惑，似乎在听思思强调这是她的家。",
+        "dialogue": "这是我家呀",
+        "speaker": "思思",
+        "emotion": "困惑",
+        "duration": 2.7,
+        "description_visual": "近景平拍镜头；卧室床头，暖色灯光；画面中央人物，身穿白色背心，坐着，看着对方，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "思思",
+                "gender": "女",
+                "clothing": "浅色吊带睡衣",
+                "position": "画面左侧",
+                "action": "抓着被子，神情迷茫",
+                "expression": "眉毛紧蹙，眼睛游移，嘴巴微张"
+            }
+        ],
+        "background": "卧室床铺，灰色被子",
+        "description_narrative": "中景镜头，思思抓着被子，神情迷茫地自问为何会在这里，完全搞不清状况。",
+        "dialogue": "我，我为什么会在这？",
+        "speaker": "思思",
+        "emotion": "迷茫",
+        "duration": 2.1,
+        "description_visual": "中景平拍镜头；卧室床铺，灰色被子；画面左侧人物，身穿浅色吊带睡衣，抓着被子，神情迷茫，表情：眉毛紧蹙，眼睛游移，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "坐着，无奈地解释",
+                "expression": "眉毛下垂，眼睛注视，嘴巴微动"
+            }
+        ],
+        "background": "卧室床头，暖色灯光",
+        "description_narrative": "近景镜头拍摄男子，他无奈地解释昨天思思喝醉了，自己怎么拦都拦不住她。",
+        "dialogue": "昨天你喝多了，我怎么拦都留不住你",
+        "speaker": "男子",
+        "emotion": "无奈",
+        "duration": 3.87,
+        "description_visual": "近景平拍镜头；卧室床头，暖色灯光；画面中央人物，身穿白色背心，坐着，无奈地解释，表情：眉毛下垂，眼睛注视，嘴巴微动。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "思思",
+                "gender": "女",
+                "clothing": "浅色吊带睡衣",
+                "position": "画面左侧",
+                "action": "用被子裹住身体，伸手推拒",
+                "expression": "眉毛紧蹙，眼睛惊恐，嘴巴大张喊叫"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "坐在床边，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向女子，嘴巴微张"
+            }
+        ],
+        "background": "卧室全貌，床铺凌乱",
+        "description_narrative": "全景镜头，思思用被子裹紧身体，伸手推拒男子，惊慌地喊着不可能让他快出去，男子坐在床边看着她。",
+        "dialogue": "不可能，不可能，你快出去出去",
+        "speaker": "思思",
+        "emotion": "惊慌",
+        "duration": 4.17,
+        "description_visual": "全景平拍镜头；卧室全貌，床铺凌乱；画面左侧人物，身穿浅色吊带睡衣，用被子裹住身体，伸手推拒，表情：眉毛紧蹙，眼睛惊恐，嘴巴大张喊叫；画面右侧人物，身穿白色背心，坐在床边，身体微侧，表情：眉毛微蹙，眼睛看向女子，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "思思",
+                "gender": "女",
+                "clothing": "浅色吊带睡衣",
+                "position": "画面中央",
+                "action": "缩在被子里，只露出头部",
+                "expression": "眉毛紧锁，眼睛警惕，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头，光线昏暗",
+        "description_narrative": "特写镜头，思思缩在被子里，只露出头部，警惕地看着前方，嘴里骂着流氓让他走开，男子在画外回应好好好。",
+        "dialogue": "思思。流氓。快走开。好好好。",
+        "speaker": "男子",
+        "emotion": "警惕",
+        "duration": 7.9,
+        "description_visual": "特写平拍镜头；卧室床头，光线昏暗；画面中央人物，身穿浅色吊带睡衣，缩在被子里，只露出头部，表情：眉毛紧锁，眼睛警惕，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "思思",
+                "gender": "女",
+                "clothing": "浅色吊带睡衣",
+                "position": "画面中央",
+                "action": "侧躺，手捂嘴，眼神躲闪",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴被手遮挡"
+            }
+        ],
+        "background": "卧室床头，暖色灯光",
+        "description_narrative": "特写镜头，思思侧躺在床上，手捂着嘴，眼神躲闪，依然处于紧张和害怕中，画面逐渐转白。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "害怕",
+        "duration": 3.8,
+        "description_visual": "特写平拍镜头；卧室床头，暖色灯光；画面中央人物，身穿浅色吊带睡衣，侧躺，手捂嘴，眼神躲闪，表情：眉毛微蹙，眼睛侧视，嘴巴被手遮挡。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "淡入",
+        "subjects": [],
+        "background": "白色屏幕过渡",
+        "description_narrative": "画面转为白色屏幕过渡，传来男子的画外音，感叹拿这个丫头没办法。",
+        "dialogue": "我到底拿这个丫头怎么办呀？",
+        "speaker": "男子",
+        "emotion": "无奈",
+        "duration": 13.97,
+        "description_visual": "全景平拍镜头（淡入）；白色屏幕过渡。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色有领短袖衫",
+                "position": "画面中央",
+                "action": "坐着打电话，神情忧虑",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，粉紫色光效笼罩",
+        "description_narrative": "近景镜头，男子身穿黑色有领短袖衫，正在打电话，神情忧虑，粉紫色的光效笼罩着他，暗示内心的复杂情绪。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "忧虑",
+        "duration": 5.4,
+        "description_visual": "近景平拍镜头；室内环境，粉紫色光效笼罩；画面中央人物，身穿黑色有领短袖衫，坐着打电话，神情忧虑，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    }
+]

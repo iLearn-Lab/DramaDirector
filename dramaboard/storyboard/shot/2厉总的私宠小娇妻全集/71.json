@@ -1,0 +1,738 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "护士",
+                "gender": "女",
+                "clothing": "白色医护服",
+                "position": "画面右上方",
+                "action": "弯腰俯身，双手按压在伤者腹部",
+                "expression": "眉毛紧锁，眼睛注视伤口，嘴巴微张呼喊"
+            },
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央地面",
+                "action": "平躺在地，身体蜷缩，腹部有血迹",
+                "expression": "眼睛紧闭，嘴巴微张，表情痛苦"
+            }
+        ],
+        "background": "医院病房，浅蓝色隔帘，木质地板，光线明亮",
+        "description_narrative": "俯拍全景镜头，医院病房内，身穿蓝白条纹病号服的温贝贝躺在地上腹部流血，身穿白色医护服的护士弯腰按压其伤口，焦急呼喊。",
+        "dialogue": "来人啊，报警。",
+        "speaker": "护士",
+        "emotion": "焦急",
+        "duration": 4.52,
+        "description_visual": "全景俯拍镜头；医院病房，浅蓝色隔帘，木质地板，光线明亮；画面右上方人物，身穿白色医护服，弯腰俯身，双手按压在伤者腹部，表情：眉毛紧锁，眼睛注视伤口，嘴巴微张呼喊；画面中央地面人物，身穿蓝白条纹病号服，平躺在地，身体蜷缩，腹部有血迹，表情：眼睛紧闭，嘴巴微张，表情痛苦。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "初初",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央",
+                "action": "头部微晃，眼神惊恐",
+                "expression": "眉毛微蹙，眼睛睁大含泪，嘴巴紧闭颤抖"
+            }
+        ],
+        "background": "白色墙壁，光线柔和",
+        "description_narrative": "特写镜头，初初长发披肩，身穿浅蓝色连衣裙，面部表情惊恐，眼神躲闪，嘴唇颤抖着否认。",
+        "dialogue": "不是我",
+        "speaker": "初初",
+        "emotion": "恐惧",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；白色墙壁，光线柔和；画面中央人物，身穿浅蓝色连衣裙，头部微晃，眼神惊恐，表情：眉毛微蹙，眼睛睁大含泪，嘴巴紧闭颤抖。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "初初",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央",
+                "action": "视线向下，身体微缩",
+                "expression": "眉毛紧皱，眼睛下视，嘴巴紧抿"
+            }
+        ],
+        "background": "白色墙壁，光线柔和",
+        "description_narrative": "特写镜头，初初视线低垂，神情无助，继续低声辩解。",
+        "dialogue": "不是我",
+        "speaker": "初初",
+        "emotion": "委屈",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；白色墙壁，光线柔和；画面中央人物，身穿浅蓝色连衣裙，视线向下，身体微缩，表情：眉毛紧皱，眼睛下视，嘴巴紧抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "初初",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央",
+                "action": "头部轻微晃动，眼神游离",
+                "expression": "眉毛舒展又微蹙，眼睛半闭，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线柔和",
+        "description_narrative": "特写镜头推进，初初神情恍惚，似乎陷入回忆或极度恐惧中，画面略显模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恍惚",
+        "duration": 4.6,
+        "description_visual": "特写平拍镜头（推进）；白色墙壁，光线柔和；画面中央人物，身穿浅蓝色连衣裙，头部轻微晃动，眼神游离，表情：眉毛舒展又微蹙，眼睛半闭，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "初初",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央",
+                "action": "蜷缩在墙角，双手抱膝",
+                "expression": "眉毛低垂，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "房间角落，白色墙壁，木质踢脚线",
+        "description_narrative": "中景镜头，初初独自蜷缩在房间角落，双手紧紧抱住膝盖，身体呈现防御姿态，神情落寞。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无助",
+        "duration": 1.64,
+        "description_visual": "中景平拍镜头；房间角落，白色墙壁，木质踢脚线；画面中央人物，身穿浅蓝色连衣裙，蜷缩在墙角，双手抱膝，表情：眉毛低垂，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "白色 T 恤",
+                "position": "画面右侧",
+                "action": "站立，侧身面向画面左侧",
+                "expression": "眉毛平展，眼睛微闭，嘴巴微张"
+            },
+            {
+                "name": "警察同伴",
+                "gender": "男",
+                "clothing": "黑色 T 恤",
+                "position": "画面左后景",
+                "action": "站立在警察身后",
+                "expression": "面部模糊，视线向前"
+            }
+        ],
+        "background": "医院走廊，木门，光线明亮",
+        "description_narrative": "中近景侧拍，身穿白色 T 恤的警察站在门口，侧脸严肃，身后跟着另一名黑衣男子，警察开口说话。",
+        "dialogue": "我们是刑警队的",
+        "speaker": "警察",
+        "emotion": "严肃",
+        "duration": 1.8,
+        "description_visual": "中近景侧拍镜头；医院走廊，木门，光线明亮；画面右侧人物，身穿白色 T 恤，站立，侧身面向画面左侧，表情：眉毛平展，眼睛微闭，嘴巴微张；画面左后景人物，身穿黑色 T 恤，站立在警察身后，表情：面部模糊，视线向前。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "初初",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央",
+                "action": "抬头看向画面右上方",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线柔和",
+        "description_narrative": "中景镜头，初初蜷缩在墙角，听到声音后抬头惊恐地看向门口方向。",
+        "dialogue": "有人说",
+        "speaker": "警察",
+        "emotion": "惊恐",
+        "duration": 1.16,
+        "description_visual": "中景平拍镜头；白色墙壁，光线柔和；画面中央人物，身穿浅蓝色连衣裙，抬头看向画面右上方，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "白色 T 恤",
+                "position": "画面中央",
+                "action": "正面站立，直视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴张开说话"
+            }
+        ],
+        "background": "医院病房，蓝色隔帘，光线明亮",
+        "description_narrative": "仰拍中近景，警察正面站立，表情严肃地告知初初涉案情况。",
+        "dialogue": "你与本次杀人案有关",
+        "speaker": "警察",
+        "emotion": "严肃",
+        "duration": 2.0,
+        "description_visual": "中近景仰拍镜头；医院病房，蓝色隔帘，光线明亮；画面中央人物，身穿白色 T 恤，正面站立，直视前方，表情：眉毛微蹙，眼睛直视，嘴巴张开说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "白色 T 恤",
+                "position": "画面左侧",
+                "action": "侧身站立，视线向下",
+                "expression": "眉毛平展，眼睛微闭，嘴巴微动"
+            }
+        ],
+        "background": "医院走廊，木门，光线明亮",
+        "description_narrative": "侧拍中近景，警察侧身要求配合调查，神情公事公办。",
+        "dialogue": "请配合我们调查",
+        "speaker": "警察",
+        "emotion": "严肃",
+        "duration": 1.84,
+        "description_visual": "中近景侧拍镜头；医院走廊，木门，光线明亮；画面左侧人物，身穿白色 T 恤，侧身站立，视线向下，表情：眉毛平展，眼睛微闭，嘴巴微动。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "初初",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央",
+                "action": "低头，头发垂下遮住部分脸",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，光线柔和",
+        "description_narrative": "特写镜头，初初低着头，长发散落，神情悲伤且顺从，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 4.72,
+        "description_visual": "特写平拍镜头；白色墙壁，光线柔和；画面中央人物，身穿浅蓝色连衣裙，低头，头发垂下遮住部分脸，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "初初",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央",
+                "action": "头部快速低下",
+                "expression": "眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线柔和",
+        "description_narrative": "特写摇镜，初初头部快速低下，画面随之模糊，表现情绪崩溃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "崩溃",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头（摇镜）；白色墙壁，光线柔和；画面中央人物，身穿浅蓝色连衣裙，头部快速低下，表情：眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "淡出",
+        "subjects": [],
+        "background": "黑色画面",
+        "description_narrative": "画面逐渐变黑，转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "全景平拍镜头（淡出）；黑色画面。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "淡入",
+        "subjects": [],
+        "background": "黑色画面",
+        "description_narrative": "画面从黑色中淡入，伴随画外音。",
+        "dialogue": "少爷",
+        "speaker": "助理",
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "全景平拍镜头（淡入）；黑色画面。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧背景",
+                "action": "面向右侧，神情焦急",
+                "expression": "眉毛紧皱，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头，站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，光线明亮",
+        "description_narrative": "过肩镜头，助理身穿黑色衬衫，焦急地看着前方的少爷，称呼对方。",
+        "dialogue": "少爷",
+        "speaker": "助理",
+        "emotion": "焦急",
+        "duration": 0.8,
+        "description_visual": "过肩平拍镜头；医院走廊，白色墙壁，光线明亮；画面左侧背景人物，身穿黑色衬衫，面向右侧，神情焦急，表情：眉毛紧皱，眼睛注视前方，嘴巴微张；画面右侧前景人物，身穿蓝色西装，背对镜头，站立，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，双手插兜，看向左侧",
+                "expression": "眉毛微蹙，眼睛注视左侧，嘴巴紧闭"
+            },
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，光线明亮",
+        "description_narrative": "中近景镜头，少爷身穿蓝色西装，神情凝重地听着助理汇报，画面外传来助理的声音。",
+        "dialogue": "我跑遍每个房间，根本没看到太太。",
+        "speaker": "助理",
+        "emotion": "焦急",
+        "duration": 3.44,
+        "description_visual": "中近景平拍镜头；医院走廊，白色墙壁，光线明亮；画面中央人物，身穿蓝色双排扣西装，站立，双手插兜，看向左侧，表情：眉毛微蹙，眼睛注视左侧，嘴巴紧闭；画面左侧前景人物，身穿黑色衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "面向右侧，神情担忧",
+                "expression": "眉毛紧锁，眼睛注视少爷，嘴巴微张"
+            },
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，光线明亮",
+        "description_narrative": "过肩镜头，助理继续汇报，表情担忧，提到温贝贝也不在。",
+        "dialogue": "而且温贝贝也不在",
+        "speaker": "助理",
+        "emotion": "担忧",
+        "duration": 2.6,
+        "description_visual": "中近景过肩镜头；医院走廊，白色墙壁，光线明亮；画面左侧人物，身穿黑色衬衫，面向右侧，神情担忧，表情：眉毛紧锁，眼睛注视少爷，嘴巴微张；画面右侧前景人物，身穿蓝色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色双排扣西装",
+                "position": "画面中央",
+                "action": "侧身站立，看向左上方",
+                "expression": "眉毛微挑，眼睛思索，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "中景镜头，少爷侧身站立，双手插兜，眉头紧锁，心中疑惑为何两人都不在。",
+        "dialogue": "怎么会这样？难道是温贝贝把初初带走了？",
+        "speaker": "少爷",
+        "emotion": "疑惑",
+        "duration": 5.68,
+        "description_visual": "中景平拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿蓝色双排扣西装，侧身站立，看向左上方，表情：眉毛微挑，眼睛思索，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "侧身站立，表情困惑",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "侧拍中景，助理补充说明温贝贝手机也打不通，神情困惑。",
+        "dialogue": "而且温贝贝手机根本打不通",
+        "speaker": "助理",
+        "emotion": "困惑",
+        "duration": 1.84,
+        "description_visual": "中景侧拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿黑色衬衫，侧身站立，表情困惑，表情：眉毛紧皱，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "护士",
+                "gender": "女",
+                "clothing": "白色医护服",
+                "position": "画面右侧",
+                "action": "侧身站立，转头看向左侧",
+                "expression": "眉毛平展，眼睛注视左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "侧拍中景，护士路过听到对话，转头询问他们是否在找温贝贝。",
+        "dialogue": "打不通。你们在找温贝贝？",
+        "speaker": "护士",
+        "emotion": "询问",
+        "duration": 2.56,
+        "description_visual": "中景侧拍镜头；医院走廊，木质护墙板，光线明亮；画面右侧人物，身穿白色医护服，侧身站立，转头看向左侧，表情：眉毛平展，眼睛注视左侧，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，双手插兜，看向左侧",
+                "expression": "眉毛微蹙，眼睛注视左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "中景镜头，少爷听到护士的话，转头看向她，等待下文。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿蓝色双排扣西装，站立，双手插兜，看向左侧，表情：眉毛微蹙，眼睛注视左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "护士",
+                "gender": "女",
+                "clothing": "白色医护服",
+                "position": "画面中央",
+                "action": "正面站立，神情严肃",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴张开说话"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "中景镜头，护士告知温贝贝正在抢救室抢救。",
+        "dialogue": "她在抢救室抢救呢",
+        "speaker": "护士",
+        "emotion": "严肃",
+        "duration": 2.64,
+        "description_visual": "中景平拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿白色医护服，正面站立，神情严肃，表情：眉毛微蹙，眼睛直视前方，嘴巴张开说话。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "站立，神情震惊",
+                "expression": "眉毛高挑，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色西装",
+                "position": "画面右侧前景",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，光线明亮",
+        "description_narrative": "中近景镜头，助理听到护士的话后露出震惊的表情，画面外传来护士继续说温贝贝被杀了。",
+        "dialogue": "她在抢救室抢救呢，她今天被人杀了。",
+        "speaker": "护士",
+        "emotion": "震惊",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；医院走廊，白色墙壁，光线明亮；画面左侧人物，身穿黑色衬衫，站立，神情震惊，表情：眉毛高挑，眼睛睁大，嘴巴微张；画面右侧前景人物，身穿蓝色西装，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "护士",
+                "gender": "女",
+                "clothing": "白色医护服",
+                "position": "画面中央",
+                "action": "侧身站立，神情严肃",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微动"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "侧拍中景，护士继续描述案情，表情凝重。",
+        "dialogue": "被人杀了。",
+        "speaker": "护士",
+        "emotion": "凝重",
+        "duration": 3.12,
+        "description_visual": "中景侧拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿白色医护服，侧身站立，神情严肃，表情：眉毛平展，眼睛注视前方，嘴巴微动。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色双排扣西装",
+                "position": "画面中央",
+                "action": "正面站立，神情凝重",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "中景镜头，少爷听到有家属被带走，神情变得更加凝重，画面外传来护士的声音。",
+        "dialogue": "一个来看望她的家属，已经被警察带走了。",
+        "speaker": "护士",
+        "emotion": "凝重",
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿蓝色双排扣西装，正面站立，神情凝重，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "护士",
+                "gender": "女",
+                "clothing": "白色医护服",
+                "position": "画面中央",
+                "action": "正面站立，表情夸张",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开描述"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "中景镜头，护士描述凶手手段狠辣，表情生动。",
+        "dialogue": "那个人可狠了",
+        "speaker": "护士",
+        "emotion": "夸张",
+        "duration": 2.4,
+        "description_visual": "中景平拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿白色医护服，正面站立，表情夸张，表情：眉毛上扬，眼睛睁大，嘴巴张开描述。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "侧身站立，手捂腹部",
+                "expression": "眉毛紧皱，眼睛紧闭，嘴巴微张 grimacing"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "侧拍中景，助理听到描述后下意识捂住自己的腹部，露出痛苦的表情，画面外传来护士描述刀插进肚子的声音。",
+        "dialogue": "刀子直接插进她肚子里",
+        "speaker": "护士",
+        "emotion": "痛苦",
+        "duration": 1.68,
+        "description_visual": "中景侧拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿黑色衬衫，侧身站立，手捂腹部，表情：眉毛紧皱，眼睛紧闭，嘴巴微张 grimacing。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "面向右侧，神情猜测",
+                "expression": "眉毛微挑，眼睛注视少爷，嘴巴微张"
+            },
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，光线明亮",
+        "description_narrative": "中近景镜头，助理猜测被带走的家属可能是太太（初初）。",
+        "dialogue": "少爷，你说那个家属会不会是太太？",
+        "speaker": "助理",
+        "emotion": "猜测",
+        "duration": 3.6,
+        "description_visual": "中近景平拍镜头；医院走廊，白色墙壁，光线明亮；画面左侧人物，身穿黑色衬衫，面向右侧，神情猜测，表情：眉毛微挑，眼睛注视少爷，嘴巴微张；画面右侧前景人物，身穿蓝色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色双排扣西装",
+                "position": "画面中央",
+                "action": "正面站立，摇头",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微动"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "中景镜头，少爷坚定摇头，表示初初不会杀人。",
+        "dialogue": "初初是不会杀人的",
+        "speaker": "少爷",
+        "emotion": "坚定",
+        "duration": 2.8,
+        "description_visual": "中景平拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿蓝色双排扣西装，正面站立，摇头，表情：眉毛舒展，眼睛微闭，嘴巴微动。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色双排扣西装",
+                "position": "画面中央",
+                "action": "正面站立，双手插兜，下达指令",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张开说话"
+            }
+        ],
+        "background": "医院走廊，木质护墙板，光线明亮",
+        "description_narrative": "中景镜头，少爷认为其中有误会，决定先去警局看初初，并安排助理盯着温贝贝。",
+        "dialogue": "我先去警局看初初，你给我盯着温贝贝。",
+        "speaker": "少爷",
+        "emotion": "果断",
+        "duration": 3.56,
+        "description_visual": "中景平拍镜头；医院走廊，木质护墙板，光线明亮；画面中央人物，身穿蓝色双排扣西装，正面站立，双手插兜，下达指令，表情：眉毛微蹙，眼睛注视前方，嘴巴张开说话。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "面向右侧，神情严肃",
+                "expression": "眉毛平展，眼睛注视少爷，嘴巴紧闭"
+            },
+            {
+                "name": "少爷",
+                "gender": "男",
+                "clothing": "蓝色西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，白色墙壁，光线明亮",
+        "description_narrative": "中近景镜头，助理听到指令后神情严肃地点头或注视少爷，准备执行任务。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.36,
+        "description_visual": "中近景平拍镜头；医院走廊，白色墙壁，光线明亮；画面左侧人物，身穿黑色衬衫，面向右侧，神情严肃，表情：眉毛平展，眼睛注视少爷，嘴巴紧闭；画面右侧前景人物，身穿蓝色西装，背对镜头，表情：不可见。"
+    }
+]

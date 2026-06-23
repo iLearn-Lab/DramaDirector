@@ -1,0 +1,786 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面右侧",
+                "action": "拥抱女子",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴紧闭"
+            },
+            {
+                "name": "紫衣女子",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面左侧",
+                "action": "被王爷拥抱，头靠在王爷胸前",
+                "expression": "眉毛微蹙，眼睛低垂，嘴巴微张"
+            }
+        ],
+        "background": "室内场景，有盆栽和窗户，光线明亮",
+        "description_narrative": "全景固定镜头，王爷身穿紫色长袍拥抱紫衣女子，女子头靠在他胸前，背景有盆栽和窗户，画面叠加剧名文字。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "全景平拍镜头；室内场景，有盆栽和窗户，光线明亮；画面右侧人物，身穿紫色长袍，拥抱女子，表情：眉毛舒展，眼睛微闭，嘴巴紧闭；画面左侧人物，身穿紫色古装，被王爷拥抱，头靠在王爷胸前，表情：眉毛微蹙，眼睛低垂，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "医师",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面中央",
+                "action": "背对镜头走向门口",
+                "expression": "不可见"
+            }
+        ],
+        "background": "中式木门，红色窗格，光线自然",
+        "description_narrative": "中景跟拍镜头，医师身穿紫色官服背对镜头走向雕花木门，准备离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.36,
+        "description_visual": "中景平拍镜头（跟拍）；中式木门，红色窗格，光线自然；画面中央人物，身穿紫色官服，黑色官帽，背对镜头走向门口，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "双手整理衣袖或药箱带子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的衣物纹理背景",
+        "description_narrative": "特写固定镜头，医师的双手正在整理深紫色衣袖或药箱带子，动作细致。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；模糊的衣物纹理背景；画面中央人物，身穿紫色官服，双手整理衣袖或药箱带子，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "低头站立，神情严肃",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内模糊背景，色调偏冷",
+        "description_narrative": "近景固定镜头，王爷身穿灰色长袍低头站立，神情严肃冷峻，正在听医师说话。",
+        "dialogue": "侧王妃并无大碍。",
+        "speaker": "医师",
+        "emotion": "严肃",
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；室内模糊背景，色调偏冷；画面中央人物，身穿灰色长袍，银色发冠，低头站立，神情严肃，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医师",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面中央",
+                "action": "面对王爷说话",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "红色窗格背景",
+        "description_narrative": "近景固定镜头，医师面对王爷，语气平稳地交代医嘱。",
+        "dialogue": "煎药后按时服下即可。",
+        "speaker": "医师",
+        "emotion": "平静",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；红色窗格背景；画面中央人物，身穿紫色官服，黑色官帽，面对王爷说话，表情：眉毛舒展，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "低头看手中的药方",
+                "expression": "眉毛微蹙，眼睛注视纸张，嘴巴微动"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷低头看着手中的药方，开口向医师道谢。",
+        "dialogue": "有劳医师。",
+        "speaker": "王爷",
+        "emotion": "客气",
+        "duration": 2.52,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，低头看手中的药方，表情：眉毛微蹙，眼睛注视纸张，嘴巴微动。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医师",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面中央",
+                "action": "转身准备离开，手扶腰带",
+                "expression": "眉毛微挑，眼睛看向王爷，嘴巴微张"
+            }
+        ],
+        "background": "红色窗格木门",
+        "description_narrative": "中景固定镜头，医师转身欲走，突然停下叫住王爷。",
+        "dialogue": "王爷。",
+        "speaker": "医师",
+        "emotion": "欲言又止",
+        "duration": 2.4,
+        "description_visual": "中景平拍镜头；红色窗格木门；画面中央人物，身穿紫色官服，黑色官帽，转身准备离开，手扶腰带，表情：眉毛微挑，眼睛看向王爷，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "低头看药方，神情专注",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷低头看着药方，听到医师的补充建议。",
+        "dialogue": "王爷最好再加一份药服食",
+        "speaker": "医师",
+        "emotion": "关切",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，低头看药方，神情专注，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医师",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面中央",
+                "action": "看着王爷解释",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴开合"
+            }
+        ],
+        "background": "红色窗格背景",
+        "description_narrative": "近景固定镜头，医师看着王爷，详细解释侧王妃的病情疑点。",
+        "dialogue": "侧王妃应该吃了不少糕点，腹部会不好消化。",
+        "speaker": "医师",
+        "emotion": "专业",
+        "duration": 3.76,
+        "description_visual": "近景平拍镜头；红色窗格背景；画面中央人物，身穿紫色官服，黑色官帽，看着王爷解释，表情：眉毛微蹙，眼睛注视对方，嘴巴开合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "抬头疑惑地看着医师",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷抬头露出疑惑的神情，询问医师为何这样说。",
+        "dialogue": "医师为何这样说",
+        "speaker": "王爷",
+        "emotion": "疑惑",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，抬头疑惑地看着医师，表情：眉毛皱起，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医师",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面中央",
+                "action": "耐心解释药理",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "红色窗格背景",
+        "description_narrative": "近景固定镜头，医师耐心地向王爷解释糕点中苦参的含量问题。",
+        "dialogue": "那糕点苦参量并不大，若是吃的少。",
+        "speaker": "医师",
+        "emotion": "耐心",
+        "duration": 2.92,
+        "description_visual": "近景平拍镜头；红色窗格背景；画面中央人物，身穿紫色官服，黑色官帽，耐心解释药理，表情：眉毛舒展，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医师",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面中央",
+                "action": "继续解释",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴闭合"
+            }
+        ],
+        "background": "红色窗格背景",
+        "description_narrative": "近景固定镜头，医师继续说明少量食用不会导致腹胀的医学常识。",
+        "dialogue": "不会感觉到腹胀",
+        "speaker": "医师",
+        "emotion": "笃定",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；红色窗格背景；画面中央人物，身穿紫色官服，黑色官帽，继续解释，表情：眉毛微挑，眼睛注视对方，嘴巴闭合。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "眼神变得锐利，似乎明白了什么",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微动"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷眼神变得锐利，表示明白了医师的暗示。",
+        "dialogue": "本王明白了。",
+        "speaker": "王爷",
+        "emotion": "醒悟",
+        "duration": 3.6,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，眼神变得锐利，似乎明白了什么，表情：眉毛舒展，眼睛直视前方，嘴巴微动。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医师",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面中央",
+                "action": "微微点头，嘴角带笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "红色窗格背景",
+        "description_narrative": "近景固定镜头，医师微微点头，露出意味深长的笑容，随后离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "了然",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；红色窗格背景；画面中央人物，身穿紫色官服，黑色官帽，微微点头，嘴角带笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "低头沉思，神情冷峻",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷低头沉思，神情愈发冷峻，似乎在酝酿情绪。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷峻",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，低头沉思，神情冷峻，表情：眉毛紧锁，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色古装，珠翠发饰",
+                "position": "画面右侧",
+                "action": "手扶门框，侧身站立",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "红色窗格木门",
+        "description_narrative": "中景固定镜头，安宁身穿粉色古装手扶门框，侧身站立，似乎在等待或观察。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.08,
+        "description_visual": "中景平拍镜头；红色窗格木门；画面右侧人物，身穿粉色古装，珠翠发饰，手扶门框，侧身站立，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色古装，珠翠发饰",
+                "position": "画面中央",
+                "action": "转身面向王爷",
+                "expression": "眉毛微挑，眼睛看向王爷，嘴巴微张"
+            }
+        ],
+        "background": "红色窗格木门",
+        "description_narrative": "中近景固定镜头，安宁转身面向王爷，听到王爷叫她的名字。",
+        "dialogue": "安宁。",
+        "speaker": "王爷",
+        "emotion": "严肃",
+        "duration": 3.12,
+        "description_visual": "中近景平拍镜头；红色窗格木门；画面中央人物，身穿粉色古装，珠翠发饰，转身面向王爷，表情：眉毛微挑，眼睛看向王爷，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "盯着安宁质问",
+                "expression": "眉毛紧锁，眼睛直视对方，嘴巴微动"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷盯着安宁，语气严厉地质问她吃了多少糕点。",
+        "dialogue": "你到底吃了多少糕点",
+        "speaker": "王爷",
+        "emotion": "质问",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，盯着安宁质问，表情：眉毛紧锁，眼睛直视对方，嘴巴微动。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色古装，珠翠发饰",
+                "position": "画面中央",
+                "action": "眼神躲闪，小声回答",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴微张"
+            }
+        ],
+        "background": "深色木门背景",
+        "description_narrative": "近景固定镜头，安宁眼神躲闪，心虚地回答只吃了一口。",
+        "dialogue": "王爷，我只吃了一口。",
+        "speaker": "安宁",
+        "emotion": "心虚",
+        "duration": 2.24,
+        "description_visual": "近景平拍镜头；深色木门背景；画面中央人物，身穿粉色古装，珠翠发饰，眼神躲闪，小声回答，表情：眉毛微蹙，眼睛看向下方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色古装，珠翠发饰",
+                "position": "画面中央",
+                "action": "继续辩解",
+                "expression": "眉毛皱起，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "深色木门背景",
+        "description_narrative": "近景固定镜头，安宁继续辩解自己吃完后腹痛难忍。",
+        "dialogue": "便腹痛难忍",
+        "speaker": "安宁",
+        "emotion": "委屈",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；深色木门背景；画面中央人物，身穿粉色古装，珠翠发饰，继续辩解，表情：眉毛皱起，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "冷冷地反驳",
+                "expression": "眉毛微挑，眼睛直视对方，嘴巴微动"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷冷冷地引用医师的话进行反驳。",
+        "dialogue": "医师说了。",
+        "speaker": "王爷",
+        "emotion": "冷漠",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，冷冷地反驳，表情：眉毛微挑，眼睛直视对方，嘴巴微动。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色古装，珠翠发饰",
+                "position": "画面中央",
+                "action": "听着王爷的话，表情僵硬",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木门背景",
+        "description_narrative": "近景固定镜头，安宁听着王爷转述医师的话，表情逐渐僵硬。",
+        "dialogue": "只有大量服用糕点。",
+        "speaker": "王爷",
+        "emotion": "讽刺",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；深色木门背景；画面中央人物，身穿粉色古装，珠翠发饰，听着王爷的话，表情僵硬，表情：眉毛微蹙，眼睛看向下方，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "眼神锐利地盯着安宁",
+                "expression": "眉毛紧锁，眼睛直视对方，嘴巴微动"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷眼神锐利，指出只有大量食用才会剧烈腹痛。",
+        "dialogue": "才会剧烈腹痛。",
+        "speaker": "王爷",
+        "emotion": "严厉",
+        "duration": 2.24,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，眼神锐利地盯着安宁，表情：眉毛紧锁，眼睛直视对方，嘴巴微动。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色古装，珠翠发饰",
+                "position": "画面中央",
+                "action": "低头不敢看王爷",
+                "expression": "眉毛皱起，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木门背景",
+        "description_narrative": "近景固定镜头，王爷继续质问，安宁低头不敢对视，显得十分心虚。",
+        "dialogue": "你只吃了一口。",
+        "speaker": "王爷",
+        "emotion": "质问",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；深色木门背景；画面中央人物，身穿粉色古装，珠翠发饰，低头不敢看王爷，表情：眉毛皱起，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "逼近一步，眼神压迫",
+                "expression": "眉毛紧锁，眼睛直视对方，嘴巴微动"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷逼近一步，眼神充满压迫感，质问为何会这样。",
+        "dialogue": "为何会这样？",
+        "speaker": "王爷",
+        "emotion": "愤怒",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，逼近一步，眼神压迫，表情：眉毛紧锁，眼睛直视对方，嘴巴微动。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色古装，珠翠发饰",
+                "position": "画面中央",
+                "action": "低头沉默，表情尴尬",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木门背景",
+        "description_narrative": "近景固定镜头，安宁低头沉默，无法回答王爷的质问，表情尴尬。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "尴尬",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；深色木门背景；画面中央人物，身穿粉色古装，珠翠发饰，低头沉默，表情尴尬，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "失望地看着安宁",
+                "expression": "眉毛舒展但眼神冷淡，嘴巴微动"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "近景固定镜头，王爷失望地看着安宁，说出对她失望的话。",
+        "dialogue": "本王对你太失望了。",
+        "speaker": "王爷",
+        "emotion": "失望",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；室内模糊背景；画面中央人物，身穿灰色长袍，银色发冠，失望地看着安宁，表情：眉毛舒展但眼神冷淡，嘴巴微动。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面左侧",
+                "action": "转身背对安宁",
+                "expression": "不可见"
+            },
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面右侧",
+                "action": "伸手想要挽留",
+                "expression": "眉毛皱起，眼睛看着王爷背影，嘴巴微张"
+            }
+        ],
+        "background": "红色窗格木门",
+        "description_narrative": "中景过肩镜头，王爷转身背对安宁欲走，安宁伸手想要挽留，喊他别走。",
+        "dialogue": "别走。",
+        "speaker": "安宁",
+        "emotion": "焦急",
+        "duration": 1.88,
+        "description_visual": "中景过肩镜头；红色窗格木门；画面左侧人物，身穿灰色长袍，转身背对安宁，表情：不可见；画面右侧人物，身穿粉色古装，伸手想要挽留，表情：眉毛皱起，眼睛看着王爷背影，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫衣女子",
+                "gender": "女",
+                "clothing": "紫色外袍，浅色内搭",
+                "position": "画面中央",
+                "action": "默默注视前方",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室外/走廊背景",
+        "description_narrative": "近景固定镜头，紫衣女子默默注视着前方发生的一切，神情复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 0.64,
+        "description_visual": "近景平拍镜头；模糊的室外/走廊背景；画面中央人物，身穿紫色外袍，浅色内搭，默默注视前方，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白粉相间古装",
+                "position": "画面中央",
+                "action": "侧头看向一侧",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室外/走廊背景",
+        "description_narrative": "近景固定镜头，白衣女子侧头看向一侧，似乎在关注事态发展。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "关注",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；模糊的室外/走廊背景；画面中央人物，身穿白粉相间古装，侧头看向一侧，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫衣女子",
+                "gender": "女",
+                "clothing": "紫色外袍，浅色内搭",
+                "position": "画面中央",
+                "action": "低头，神情落寞",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室外/走廊背景",
+        "description_narrative": "近景固定镜头，紫衣女子低头，神情显得有些落寞和无奈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "落寞",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头；模糊的室外/走廊背景；画面中央人物，身穿紫色外袍，浅色内搭，低头，神情落寞，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面左侧",
+                "action": "侧身走过，不看安宁",
+                "expression": "眉毛紧锁，眼睛看向前方，嘴巴紧闭"
+            },
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面右侧",
+                "action": "看着王爷离去",
+                "expression": "眉毛舒展，嘴角微扬（似笑非笑）",
+                "action_detail": "身体微侧"
+            }
+        ],
+        "background": "红色窗格木门",
+        "description_narrative": "中近景跟拍镜头，王爷侧身走过，不看安宁，安宁看着王爷离去，表情微妙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "微妙",
+        "duration": 2.12,
+        "description_visual": "中近景平拍镜头（跟拍）；红色窗格木门；画面左侧人物，身穿灰色长袍，侧身走过，不看安宁，表情：眉毛紧锁，眼睛看向前方，嘴巴紧闭；画面右侧人物，身穿粉色古装，看着王爷离去，表情：眉毛舒展，嘴角微扬（似笑非笑）。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫衣女子",
+                "gender": "女",
+                "clothing": "紫色外袍，浅色内搭",
+                "position": "画面中央",
+                "action": "眼神坚定地看着前方",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室外/走廊背景",
+        "description_narrative": "近景固定镜头，紫衣女子眼神坚定地看着前方，似乎在思考接下来的行动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "坚定",
+        "duration": 2.84,
+        "description_visual": "近景平拍镜头；模糊的室外/走廊背景；画面中央人物，身穿紫色外袍，浅色内搭，眼神坚定地看着前方，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    }
+]

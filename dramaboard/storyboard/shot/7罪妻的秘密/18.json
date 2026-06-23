@@ -1,0 +1,869 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "医院病房门口，木纹门紧闭，光线柔和",
+        "description_narrative": "全景固定镜头拍摄医院病房的木纹门，门紧闭着，环境安静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.07,
+        "description_visual": "全景平拍镜头；医院病房门口，木纹门紧闭，光线柔和。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在病床上，双手抱着膝盖，身体微缩",
+                "expression": "眉毛微蹙，眼神低垂，嘴唇紧闭，神情悲伤"
+            }
+        ],
+        "background": "医院病房内，白色床单，床头柜上有药瓶",
+        "description_narrative": "中景固定镜头，夏晚晴身穿蓝白条纹病号服坐在病床上，双手抱膝，神情悲伤低垂着头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 3.4,
+        "description_visual": "中景平拍镜头；医院病房内，白色床单，床头柜上有药瓶；画面中央人物，身穿蓝白条纹病号服，坐在病床上，双手抱着膝盖，身体微缩，表情：眉毛微蹙，眼神低垂，嘴唇紧闭，神情悲伤。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套，黑色内搭，白色长裤",
+                "position": "画面中央",
+                "action": "站立，身体微侧，低头看向下方",
+                "expression": "眉毛舒展，眼神冷漠，嘴唇微张"
+            }
+        ],
+        "background": "病房门口背景，木纹门框",
+        "description_narrative": "低角度中近景，慕景洲身穿墨绿色西装站立，低头冷漠地询问孩子的去向。",
+        "dialogue": "那小崽子呢",
+        "speaker": "慕景洲",
+        "emotion": "冷漠",
+        "duration": 1.67,
+        "description_visual": "中近景低角度镜头；病房门口背景，木纹门框；画面中央人物，身穿墨绿色西装外套，黑色内搭，白色长裤，站立，身体微侧，低头看向下方，表情：眉毛舒展，眼神冷漠，嘴唇微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "头部微转，视线看向左侧",
+                "expression": "眉毛微蹙，眼神躲闪，嘴唇微张，神情担忧"
+            }
+        ],
+        "background": "病房墙壁，白色枕头",
+        "description_narrative": "特写镜头，夏晚晴转头看向一侧，眼神担忧地解释孩子害怕。",
+        "dialogue": "宸宸害怕",
+        "speaker": "夏晚晴",
+        "emotion": "担忧",
+        "duration": 0.53,
+        "description_visual": "特写平拍镜头；病房墙壁，白色枕头；画面中央人物，身穿蓝白条纹病号服，头部微转，视线看向左侧，表情：眉毛微蹙，眼神躲闪，嘴唇微张，神情担忧。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "低头，双手交叠放在膝盖上",
+                "expression": "眉毛低垂，视线下移，嘴唇紧闭，神情隐忍"
+            }
+        ],
+        "background": "病房床头，白色枕头",
+        "description_narrative": "近景镜头，夏晚晴低下头，神情隐忍地告诉对方已让护士带走孩子。",
+        "dialogue": "我让护士带他出去了",
+        "speaker": "夏晚晴",
+        "emotion": "隐忍",
+        "duration": 3.83,
+        "description_visual": "近景平拍镜头；病房床头，白色枕头；画面中央人物，身穿蓝白条纹病号服，低头，双手交叠放在膝盖上，表情：眉毛低垂，视线下移，嘴唇紧闭，神情隐忍。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套，黑色内搭",
+                "position": "画面左侧",
+                "action": "站立，身体前倾，低头注视",
+                "expression": "眉毛微挑，眼神审视，嘴唇紧闭"
+            }
+        ],
+        "background": "病房门口，模糊背景",
+        "description_narrative": "低角度中近景，慕景洲身体前倾，低头审视着夏晚晴，气氛压抑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "审视",
+        "duration": 2.77,
+        "description_visual": "中近景低角度镜头；病房门口，模糊背景；画面左侧人物，身穿墨绿色西装外套，黑色内搭，站立，身体前倾，低头注视，表情：眉毛微挑，眼神审视，嘴唇紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "静止坐着，一只手伸入画面",
+                "expression": "眉毛微蹙，视线下移，嘴唇紧闭"
+            }
+        ],
+        "background": "病房床头背景",
+        "description_narrative": "特写推进镜头，一只手伸向夏晚晴，她低头看着，神情紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头（推进）；病房床头背景；画面中央人物，身穿蓝白条纹病号服，静止坐着，一只手伸入画面，表情：眉毛微蹙，视线下移，嘴唇紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "下巴被一只手托起，头部被迫抬起",
+                "expression": "眉毛紧蹙，眼睛微闭，嘴唇紧抿，神情痛苦"
+            },
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装袖子",
+                "position": "画面左侧前景",
+                "action": "手捏住夏晚晴的下巴",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房床头，白色枕头",
+        "description_narrative": "特写镜头，慕景洲的手捏住夏晚晴的下巴，迫使她抬头，她闭眼神情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 1.03,
+        "description_visual": "特写平拍镜头；病房床头，白色枕头；画面中央人物，身穿蓝白条纹病号服，下巴被一只手托起，头部被迫抬起，表情：眉毛紧蹙，眼睛微闭，嘴唇紧抿，神情痛苦；画面左侧前景人物，身穿墨绿色西装袖子，手捏住夏晚晴的下巴，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "下巴被捏住，头部微侧",
+                "expression": "眉毛舒展，眼睛闭合，嘴唇微张，神情顺从"
+            }
+        ],
+        "background": "病房墙壁，白色枕头",
+        "description_narrative": "近景镜头，夏晚晴闭着眼，慕景洲捏着她的下巴询问是否疼痛。",
+        "dialogue": "疼吗",
+        "speaker": "慕景洲",
+        "emotion": "顺从",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；病房墙壁，白色枕头；画面中央人物，身穿蓝白条纹病号服，下巴被捏住，头部微侧，表情：眉毛舒展，眼睛闭合，嘴唇微张，神情顺从。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面中央",
+                "action": "低头注视，嘴角微扬",
+                "expression": "眉毛舒展，眼神带笑，嘴唇微启，神情嘲讽"
+            }
+        ],
+        "background": "病房天花板背景",
+        "description_narrative": "低角度中近景，慕景洲低头看着夏晚晴，嘴角带着嘲讽的笑意说她应得的。",
+        "dialogue": "这是你应得的",
+        "speaker": "慕景洲",
+        "emotion": "嘲讽",
+        "duration": 2.2,
+        "description_visual": "中近景低角度镜头；病房天花板背景；画面中央人物，身穿墨绿色西装外套，低头注视，嘴角微扬，表情：眉毛舒展，眼神带笑，嘴唇微启，神情嘲讽。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "下巴被捏住，勉强微笑",
+                "expression": "眉毛微挑，眼神看向对方，嘴角上扬，神情复杂"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "近景镜头，夏晚晴在下巴被捏住的情况下勉强微笑，说着感谢的话。",
+        "dialogue": "不管怎么说",
+        "speaker": "夏晚晴",
+        "emotion": "复杂",
+        "duration": 4.1,
+        "description_visual": "近景平拍镜头；病房床头；画面中央人物，身穿蓝白条纹病号服，下巴被捏住，勉强微笑，表情：眉毛微挑，眼神看向对方，嘴角上扬，神情复杂。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面中央",
+                "action": "低头微笑，眼神玩味",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬，神情戏谑"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "低角度中近景，慕景洲眯眼戏谑地笑着，听着夏晚晴的感谢。",
+        "dialogue": "还是得谢谢你",
+        "speaker": "夏晚晴",
+        "emotion": "戏谑",
+        "duration": 2.8,
+        "description_visual": "中近景低角度镜头；病房背景；画面中央人物，身穿墨绿色西装外套，低头微笑，眼神玩味，表情：眉毛舒展，眼睛眯起，嘴角上扬，神情戏谑。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "闭眼，头靠在墙上，手被握住",
+                "expression": "眉毛微蹙，眼睛闭合，嘴唇微张，神情感动"
+            }
+        ],
+        "background": "病房墙壁",
+        "description_narrative": "特写镜头，夏晚晴闭眼靠在墙上，似乎被对方的举动感动，慕景洲询问怎么了。",
+        "dialogue": "怎么",
+        "speaker": "慕景洲",
+        "emotion": "感动",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；病房墙壁；画面中央人物，身穿蓝白条纹病号服，闭眼，头靠在墙上，手被握住，表情：眉毛微蹙，眼睛闭合，嘴唇微张，神情感动。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "闭眼，手抓着对方的手腕",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴唇微张，神情痛苦"
+            }
+        ],
+        "background": "病房墙壁",
+        "description_narrative": "特写镜头，夏晚晴闭眼抓着慕景洲的手腕，慕景洲嘲讽她这样就被感动了。",
+        "dialogue": "这样就被感动了",
+        "speaker": "慕景洲",
+        "emotion": "痛苦",
+        "duration": 0.67,
+        "description_visual": "特写平拍镜头；病房墙壁；画面中央人物，身穿蓝白条纹病号服，闭眼，手抓着对方的手腕，表情：眉毛紧蹙，眼睛紧闭，嘴唇微张，神情痛苦。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "双手抓着对方的手，试图挣脱",
+                "expression": "眉毛紧蹙，眼睛微睁，嘴唇微张，神情痛苦"
+            }
+        ],
+        "background": "病房墙壁",
+        "description_narrative": "特写镜头，夏晚晴痛苦地抓着慕景洲的手，轻声呼唤他的名字。",
+        "dialogue": "景洲",
+        "speaker": "夏晚晴",
+        "emotion": "痛苦",
+        "duration": 0.53,
+        "description_visual": "特写平拍镜头；病房墙壁；画面中央人物，身穿蓝白条纹病号服，双手抓着对方的手，试图挣脱，表情：眉毛紧蹙，眼睛微睁，嘴唇微张，神情痛苦。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "双手用力抓着对方的手",
+                "expression": "眉毛紧蹙，眼睛紧闭，牙齿微露，神情疼痛"
+            }
+        ],
+        "background": "病房墙壁",
+        "description_narrative": "特写镜头，夏晚晴因疼痛而皱眉，请求对方轻一点。",
+        "dialogue": "轻点",
+        "speaker": "夏晚晴",
+        "emotion": "疼痛",
+        "duration": 0.97,
+        "description_visual": "特写平拍镜头；病房墙壁；画面中央人物，身穿蓝白条纹病号服，双手用力抓着对方的手，表情：眉毛紧蹙，眼睛紧闭，牙齿微露，神情疼痛。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面左侧",
+                "action": "低头逼近，眼神锐利",
+                "expression": "眉毛紧蹙，眼神凶狠，嘴唇微张，神情愤怒"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "低角度近景，慕景洲愤怒地逼近夏晚晴，指责她的表情是勾引人的把戏。",
+        "dialogue": "夏晚晴，如果说这副表情是你勾引人的新把戏的话，很管用",
+        "speaker": "慕景洲",
+        "emotion": "愤怒",
+        "duration": 7.97,
+        "description_visual": "近景低角度镜头；病房背景；画面左侧人物，身穿墨绿色西装外套，低头逼近，眼神锐利，表情：眉毛紧蹙，眼神凶狠，嘴唇微张，神情愤怒。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面左侧",
+                "action": "低头亲吻夏晚晴的额头",
+                "expression": "不可见"
+            },
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面右侧",
+                "action": "闭眼，手被握住",
+                "expression": "眉毛微蹙，眼睛闭合，嘴唇紧闭，神情被动"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "侧拍特写，慕景洲低头亲吻夏晚晴的额头，她闭眼被动承受。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "被动",
+        "duration": 0.57,
+        "description_visual": "特写侧拍镜头；病房床头；画面左侧人物，身穿墨绿色西装外套，低头亲吻夏晚晴的额头，表情：不可见；画面右侧人物，身穿蓝白条纹病号服，闭眼，手被握住，表情：眉毛微蹙，眼睛闭合，嘴唇紧闭，神情被动。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面左侧",
+                "action": "俯身亲吻夏晚晴的嘴唇",
+                "expression": "不可见"
+            },
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面右侧",
+                "action": "身体后仰，手被握住",
+                "expression": "眼睛闭合，神情抗拒"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "侧拍中近景，慕景洲俯身强吻夏晚晴，她身体后仰表现出抗拒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "抗拒",
+        "duration": 0.4,
+        "description_visual": "中近景侧拍镜头；病房床头；画面左侧人物，身穿墨绿色西装外套，俯身亲吻夏晚晴的嘴唇，表情：不可见；画面右侧人物，身穿蓝白条纹病号服，身体后仰，手被握住，表情：眼睛闭合，神情抗拒。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面左侧",
+                "action": "亲吻后抬头，眼神轻蔑",
+                "expression": "不可见"
+            },
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面右侧",
+                "action": "闭眼，手抓着对方的手",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴唇微张，神情痛苦"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "侧拍特写，慕景洲亲吻后轻蔑地嘲笑她亲一下就受不了。",
+        "dialogue": "亲一下就受不了了",
+        "speaker": "慕景洲",
+        "emotion": "轻蔑",
+        "duration": 2.6,
+        "description_visual": "特写侧拍镜头；病房床头；画面左侧人物，身穿墨绿色西装外套，亲吻后抬头，眼神轻蔑，表情：不可见；画面右侧人物，身穿蓝白条纹病号服，闭眼，手抓着对方的手，表情：眉毛紧蹙，眼睛闭合，嘴唇微张，神情痛苦。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "转头看向左侧，眼神悲伤",
+                "expression": "眉毛紧蹙，眼神躲闪，嘴唇紧闭，神情屈辱"
+            }
+        ],
+        "background": "病房墙壁",
+        "description_narrative": "近景镜头，夏晚晴转头看向一侧，眼神中充满悲伤和屈辱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "屈辱",
+        "duration": 2.37,
+        "description_visual": "近景平拍镜头；病房墙壁；画面中央人物，身穿蓝白条纹病号服，转头看向左侧，眼神悲伤，表情：眉毛紧蹙，眼神躲闪，嘴唇紧闭，神情屈辱。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面中央",
+                "action": "低头看着下方，神情厌恶",
+                "expression": "眉毛微蹙，眼神下视，嘴唇微张，神情厌恶"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "低角度中近景，慕景洲低头看着夏晚晴，神情厌恶地侮辱她。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "厌恶",
+        "duration": 0.33,
+        "description_visual": "中近景低角度镜头；病房背景；画面中央人物，身穿墨绿色西装外套，低头看着下方，神情厌恶，表情：眉毛微蹙，眼神下视，嘴唇微张，神情厌恶。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "直视前方，眼神空洞",
+                "expression": "眉毛舒展，眼神空洞，嘴唇紧闭，神情麻木"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "近景镜头，夏晚晴眼神空洞地听着慕景洲侮辱她是出来卖的。",
+        "dialogue": "真不愧是出来卖的呀",
+        "speaker": "慕景洲",
+        "emotion": "麻木",
+        "duration": 3.8,
+        "description_visual": "近景平拍镜头；病房床头；画面中央人物，身穿蓝白条纹病号服，直视前方，眼神空洞，表情：眉毛舒展，眼神空洞，嘴唇紧闭，神情麻木。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "抬头看向对方，眼神乞求",
+                "expression": "眉毛微蹙，眼神乞求，嘴唇微张，神情悲伤"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "近景镜头，夏晚晴抬头乞求地看着慕景洲，呼唤他的名字。",
+        "dialogue": "景洲",
+        "speaker": "夏晚晴",
+        "emotion": "乞求",
+        "duration": 4.13,
+        "description_visual": "近景平拍镜头；病房床头；画面中央人物，身穿蓝白条纹病号服，抬头看向对方，眼神乞求，表情：眉毛微蹙，眼神乞求，嘴唇微张，神情悲伤。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "抬头看着对方，眉头紧锁",
+                "expression": "眉毛紧锁，眼神悲伤，嘴唇微张，神情痛苦"
+            },
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "黑色头发",
+                "position": "画面左上方",
+                "action": "头部入画，低头注视",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "特写镜头，夏晚晴痛苦地请求慕景洲不要这样说。",
+        "dialogue": "能不能别这么说",
+        "speaker": "夏晚晴",
+        "emotion": "痛苦",
+        "duration": 0.43,
+        "description_visual": "特写平拍镜头；病房床头；画面中央人物，身穿蓝白条纹病号服，抬头看着对方，眉头紧锁，表情：眉毛紧锁，眼神悲伤，嘴唇微张，神情痛苦；画面左上方人物，身穿黑色头发，头部入画，低头注视，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "抬头看着对方，眼神倔强",
+                "expression": "眉毛微挑，眼神倔强，嘴唇紧闭，神情不服"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "特写镜头，夏晚晴眼神倔强地看着慕景洲，慕景洲怒斥她敢顶嘴。",
+        "dialogue": "还敢顶嘴了",
+        "speaker": "慕景洲",
+        "emotion": "不服",
+        "duration": 0.43,
+        "description_visual": "特写平拍镜头；病房床头；画面中央人物，身穿蓝白条纹病号服，抬头看着对方，眼神倔强，表情：眉毛微挑，眼神倔强，嘴唇紧闭，神情不服。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "抬头看着对方，眼神倔强",
+                "expression": "眉毛微挑，眼神倔强，嘴唇紧闭，神情不服"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "特写镜头，夏晚晴依旧倔强地看着慕景洲，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "不服",
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；病房床头；画面中央人物，身穿蓝白条纹病号服，抬头看着对方，眼神倔强，表情：眉毛微挑，眼神倔强，嘴唇紧闭，神情不服。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面左侧",
+                "action": "低头逼近，眼神凶狠",
+                "expression": "眉毛紧蹙，眼神凶狠，嘴唇微张，神情愤怒"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "低角度近景，慕景洲愤怒地逼近夏晚晴，嘲讽她胆子不小敢顶嘴。",
+        "dialogue": "会顶嘴啊",
+        "speaker": "慕景洲",
+        "emotion": "愤怒",
+        "duration": 0.63,
+        "description_visual": "近景低角度镜头；病房背景；画面左侧人物，身穿墨绿色西装外套，低头逼近，眼神凶狠，表情：眉毛紧蹙，眼神凶狠，嘴唇微张，神情愤怒。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面左侧",
+                "action": "俯身逼近夏晚晴，手撑在床头",
+                "expression": "眉毛紧蹙，眼神压迫，嘴唇微张"
+            },
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面右侧",
+                "action": "身体后仰，低头回避",
+                "expression": "眉毛低垂，视线下移，嘴唇紧闭"
+            }
+        ],
+        "background": "病房床头，橙色盒子",
+        "description_narrative": "侧拍中近景推进，慕景洲俯身逼近夏晚晴，手撑在床头，气氛极度压抑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "压迫",
+        "duration": 5.13,
+        "description_visual": "中近景侧拍镜头（推进）；病房床头，橙色盒子；画面左侧人物，身穿墨绿色西装外套，俯身逼近夏晚晴，手撑在床头，表情：眉毛紧蹙，眼神压迫，嘴唇微张；画面右侧人物，身穿蓝白条纹病号服，身体后仰，低头回避，表情：眉毛低垂，视线下移，嘴唇紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面左侧",
+                "action": "低头俯视，表情冷酷",
+                "expression": "眉毛紧蹙，眼神冷酷，嘴唇微张，神情轻蔑"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "俯拍特写，慕景洲冷酷地告诉夏晚晴不要以为救了她一命她就把自己当回事。",
+        "dialogue": "你以为救你一命，再亲你一下，你就把自己当回事了",
+        "speaker": "慕景洲",
+        "emotion": "轻蔑",
+        "duration": 5.03,
+        "description_visual": "特写俯拍镜头；模糊背景；画面左侧人物，身穿墨绿色西装外套，低头俯视，表情冷酷，表情：眉毛紧蹙，眼神冷酷，嘴唇微张，神情轻蔑。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "低头，神情悲伤",
+                "expression": "眉毛低垂，视线下移，嘴唇微张，神情绝望"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "近景镜头，夏晚晴低头听着慕景洲侮辱她是不值钱的陪酒，神情绝望。",
+        "dialogue": "别忘了，你就是个不值钱的陪酒",
+        "speaker": "慕景洲",
+        "emotion": "绝望",
+        "duration": 5.1,
+        "description_visual": "近景平拍镜头；病房床头；画面中央人物，身穿蓝白条纹病号服，低头，神情悲伤，表情：眉毛低垂，视线下移，嘴唇微张，神情绝望。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "抬头看着对方，眼神悲伤",
+                "expression": "眉毛微蹙，眼神悲伤，嘴唇微张，神情乞求"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "近景镜头，夏晚晴抬头悲伤地呼唤慕景洲的名字。",
+        "dialogue": "慕景洲",
+        "speaker": "夏晚晴",
+        "emotion": "乞求",
+        "duration": 3.67,
+        "description_visual": "近景平拍镜头；病房床头；画面中央人物，身穿蓝白条纹病号服，抬头看着对方，眼神悲伤，表情：眉毛微蹙，眼神悲伤，嘴唇微张，神情乞求。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夏晚晴",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "抬头看着对方，眼神绝望",
+                "expression": "眉毛紧蹙，眼神绝望，嘴唇微张，神情悲伤"
+            }
+        ],
+        "background": "病房床头",
+        "description_narrative": "近景镜头，夏晚晴绝望地表示不敢再奢求未来。",
+        "dialogue": "我真的不敢跟你奢望，再有未来了",
+        "speaker": "夏晚晴",
+        "emotion": "绝望",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；病房床头；画面中央人物，身穿蓝白条纹病号服，抬头看着对方，眼神绝望，表情：眉毛紧蹙，眼神绝望，嘴唇微张，神情悲伤。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面左侧",
+                "action": "低头怒吼，表情狰狞",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴大张，神情愤怒"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "低角度近景，慕景洲愤怒地怒吼，夏晚晴乞求他放过自己和孩子。",
+        "dialogue": "我就求求你，能不能放过我跟孩子",
+        "speaker": "夏晚晴",
+        "emotion": "愤怒",
+        "duration": 3.1,
+        "description_visual": "近景低角度镜头；病房背景；画面左侧人物，身穿墨绿色西装外套，低头怒吼，表情狰狞，表情：眉毛紧蹙，眼睛睁大，嘴巴大张，神情愤怒。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面左侧",
+                "action": "怒视对方，表情凶狠",
+                "expression": "眉毛紧蹙，眼神凶狠，嘴唇紧闭，神情暴怒"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头，慕景洲暴怒地吼道“够了”，打断夏晚晴的话。",
+        "dialogue": "够了",
+        "speaker": "慕景洲",
+        "emotion": "暴怒",
+        "duration": 1.23,
+        "description_visual": "特写平拍镜头；模糊背景；画面左侧人物，身穿墨绿色西装外套，怒视对方，表情凶狠，表情：眉毛紧蹙，眼神凶狠，嘴唇紧闭，神情暴怒。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕景洲",
+                "gender": "男",
+                "clothing": "墨绿色西装外套",
+                "position": "画面中央",
+                "action": "怒视前方，胸膛起伏",
+                "expression": "眉毛紧蹙，眼神愤怒，嘴唇微张，神情压抑"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "近景镜头，慕景洲怒视前方，胸膛起伏，气氛凝固。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "压抑",
+        "duration": 2.75,
+        "description_visual": "近景平拍镜头；病房背景；画面中央人物，身穿墨绿色西装外套，怒视前方，胸膛起伏，表情：眉毛紧蹙，眼神愤怒，嘴唇微张，神情压抑。"
+    }
+]

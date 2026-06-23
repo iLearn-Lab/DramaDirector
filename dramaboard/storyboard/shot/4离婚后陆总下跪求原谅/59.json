@@ -1,0 +1,856 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装，紫色领带",
+                "position": "画面左侧，动态模糊",
+                "action": "快速奔跑冲向画面中央",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央地面",
+                "action": "侧躺在地，身体蜷缩",
+                "expression": "眼睛紧闭，嘴巴微张，表情痛苦"
+            }
+        ],
+        "background": "豪华客厅，大理石地面，背景有沙发和展示柜，光线明亮",
+        "description_narrative": "全景镜头跟拍，陆时庭身穿黑色西装从画面左侧快速冲入，表情惊慌。顾晚身穿浅蓝色连衣裙侧躺在大理石地面上，似乎失去意识。",
+        "dialogue": "顾晚",
+        "speaker": "陆时庭",
+        "emotion": "惊慌",
+        "duration": 1.84,
+        "description_visual": "全景平拍镜头（跟拍）；豪华客厅，大理石地面，背景有沙发和展示柜，光线明亮；画面左侧，动态模糊人物，身穿黑色双排扣西装，紫色领带，快速奔跑冲向画面中央，表情：眉毛紧锁，眼睛瞪大，嘴巴微张；画面中央地面人物，身穿浅蓝色连衣裙，侧躺在地，身体蜷缩，表情：眼睛紧闭，嘴巴微张，表情痛苦。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面左侧，背对镜头",
+                "action": "俯身抱住地上的顾晚",
+                "expression": "不可见"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面右侧，被抱住",
+                "action": "头部靠在陆时庭肩上，嘴角有血迹",
+                "expression": "眼睛紧闭，眉头微蹙，嘴角流血"
+            }
+        ],
+        "background": "大理石地面，局部特写",
+        "description_narrative": "俯拍特写，陆时庭俯身紧紧抱住顾晚。顾晚嘴角带有血迹，闭着眼靠在他怀里，画面出现字幕“顾晚”。",
+        "dialogue": "陆时庭",
+        "speaker": "顾晚",
+        "emotion": "虚弱",
+        "duration": 1.92,
+        "description_visual": "特写俯拍镜头；大理石地面，局部特写；画面左侧，背对镜头人物，身穿黑色双排扣西装，俯身抱住地上的顾晚，表情：不可见；画面右侧，被抱住人物，身穿浅蓝色连衣裙，头部靠在陆时庭肩上，嘴角有血迹，表情：眼睛紧闭，眉头微蹙，嘴角流血。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面右侧",
+                "action": "微微抬头看向陆时庭",
+                "expression": "眼神迷离，眉毛微蹙，嘴角带血"
+            },
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面左侧，背对镜头",
+                "action": "抱着顾晚",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内地面，模糊背景",
+        "description_narrative": "近景镜头，顾晚在陆时庭怀中微微睁眼，眼神涣散地看着他，嘴角血迹明显，神情虚弱。",
+        "dialogue": "我又梦到你了",
+        "speaker": "顾晚",
+        "emotion": "迷离",
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；室内地面，模糊背景；画面右侧人物，身穿浅蓝色连衣裙，微微抬头看向陆时庭，表情：眼神迷离，眉毛微蹙，嘴角带血；画面左侧，背对镜头人物，身穿黑色双排扣西装，抱着顾晚，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装，紫色领带",
+                "position": "画面右侧",
+                "action": "手托住顾晚的脸颊",
+                "expression": "眉毛紧锁，眼睛含泪，嘴巴微张"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面左侧，背对镜头",
+                "action": "手抚摸陆时庭的脸",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内环境，背景模糊",
+        "description_narrative": "过肩近景，陆时庭表情痛苦焦急，手托着顾晚的脸。顾晚的手轻轻抚摸着他的脸颊。",
+        "dialogue": "顾晚",
+        "speaker": "陆时庭",
+        "emotion": "痛苦",
+        "duration": 1.76,
+        "description_visual": "近景过肩镜头；室内环境，背景模糊；画面右侧人物，身穿黑色双排扣西装，紫色领带，手托住顾晚的脸颊，表情：眉毛紧锁，眼睛含泪，嘴巴微张；画面左侧，背对镜头人物，身穿浅蓝色连衣裙，手抚摸陆时庭的脸，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "跪在地上抱着顾晚",
+                "expression": "低头看着顾晚，表情悲伤"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央，被抱着",
+                "action": "躺在陆时庭怀里",
+                "expression": "闭眼，表情平静"
+            }
+        ],
+        "background": "豪华客厅，沙发，茶几，大理石地面",
+        "description_narrative": "中景镜头，陆时庭跪在大理石地面上，紧紧抱着顾晚，低头凝视着她，背景是客厅的沙发和装饰。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 1.92,
+        "description_visual": "中景平拍镜头；豪华客厅，沙发，茶几，大理石地面；画面中央人物，身穿黑色双排扣西装，跪在地上抱着顾晚，表情：低头看着顾晚，表情悲伤；画面中央，被抱着人物，身穿浅蓝色连衣裙，躺在陆时庭怀里，表情：闭眼，表情平静。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面上方",
+                "action": "低头靠近顾晚",
+                "expression": "表情极度焦虑，嘴巴微张"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面下方",
+                "action": "仰面躺着，手抬起",
+                "expression": "眼睛紧闭，嘴角流血"
+            }
+        ],
+        "background": "室内地面，模糊背景",
+        "description_narrative": "俯拍特写推进，陆时庭低头急切地看着顾晚，顾晚仰面躺着，嘴角血迹清晰，画面出现字幕“顾晚”。",
+        "dialogue": "顾晚",
+        "speaker": "陆时庭",
+        "emotion": "焦虑",
+        "duration": 3.32,
+        "description_visual": "特写俯拍镜头（推进）；室内地面，模糊背景；画面上方人物，身穿黑色双排扣西装，低头靠近顾晚，表情：表情极度焦虑，嘴巴微张；画面下方人物，身穿浅蓝色连衣裙，仰面躺着，手抬起，表情：眼睛紧闭，嘴角流血。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面右侧",
+                "action": "低头看着顾晚",
+                "expression": "眉头紧皱，眼神焦急，嘴巴微张"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面左侧",
+                "action": "躺着",
+                "expression": "闭眼，脸色苍白"
+            }
+        ],
+        "background": "室内环境，模糊",
+        "description_narrative": "近景镜头，陆时庭低头看着怀中的顾晚，神情极度担忧，似乎在呼唤她。",
+        "dialogue": "你别死",
+        "speaker": "陆时庭",
+        "emotion": "恐惧",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；室内环境，模糊；画面右侧人物，身穿黑色双排扣西装，低头看着顾晚，表情：眉头紧皱，眼神焦急，嘴巴微张；画面左侧人物，身穿浅蓝色连衣裙，躺着，表情：闭眼，脸色苍白。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面右侧",
+                "action": "低头靠近顾晚",
+                "expression": "表情痛苦，嘴巴张开说话"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面左侧",
+                "action": "躺着",
+                "expression": "闭眼，嘴角流血"
+            }
+        ],
+        "background": "室内环境，模糊",
+        "description_narrative": "特写镜头，陆时庭表情痛苦地对着顾晚说话，画面出现字幕“我不准你死”。",
+        "dialogue": "我不准你死",
+        "speaker": "陆时庭",
+        "emotion": "痛苦",
+        "duration": 0.64,
+        "description_visual": "特写平拍镜头；室内环境，模糊；画面右侧人物，身穿黑色双排扣西装，低头靠近顾晚，表情：表情痛苦，嘴巴张开说话；画面左侧人物，身穿浅蓝色连衣裙，躺着，表情：闭眼，嘴角流血。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面右侧",
+                "action": "低头看着顾晚",
+                "expression": "表情急切，嘴巴微张"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面左侧",
+                "action": "躺着",
+                "expression": "闭眼，脸色苍白"
+            }
+        ],
+        "background": "室内环境，模糊",
+        "description_narrative": "近景镜头，陆时庭急切地对顾晚说话，画面出现字幕“我送你去医院”。",
+        "dialogue": "我送你去医院",
+        "speaker": "陆时庭",
+        "emotion": "急切",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；室内环境，模糊；画面右侧人物，身穿黑色双排扣西装，低头看着顾晚，表情：表情急切，嘴巴微张；画面左侧人物，身穿浅蓝色连衣裙，躺着，表情：闭眼，脸色苍白。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "抱起顾晚",
+                "expression": "表情用力，眉头紧锁"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面中央，被抱起",
+                "action": "身体软垂",
+                "expression": "闭眼，无意识"
+            }
+        ],
+        "background": "豪华客厅，大理石地面，沙发",
+        "description_narrative": "全景镜头，陆时庭将顾晚从地上抱起，准备离开，动作迅速有力。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "急切",
+        "duration": 1.28,
+        "description_visual": "全景平拍镜头（跟拍）；豪华客厅，大理石地面，沙发；画面中央人物，身穿黑色双排扣西装，抱起顾晚，表情：表情用力，眉头紧锁；画面中央，被抱起人物，身穿浅蓝色连衣裙，身体软垂，表情：闭眼，无意识。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "豪华客厅，光线变暗，无人",
+        "description_narrative": "全景镜头，客厅内空无一人，光线逐渐变暗，暗示时间流逝或场景转换。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.16,
+        "description_visual": "全景平拍镜头；豪华客厅，光线变暗，无人。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面",
+        "description_narrative": "黑屏过渡，暗示场景切换到医院。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.76,
+        "description_visual": "全景平拍镜头；全黑画面。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面右侧",
+                "action": "坐在病床边，看着顾晚",
+                "expression": "表情关切，眉毛微蹙"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧，床上",
+                "action": "躺着，看着男子",
+                "expression": "眼神虚弱，眉毛微蹙"
+            }
+        ],
+        "background": "医院病房，白色墙壁，医疗设备",
+        "description_narrative": "中景镜头，医院病房内，灰西装男子坐在床边关切地看着躺在病床上的顾晚。",
+        "dialogue": "晚晚",
+        "speaker": "灰西装男子",
+        "emotion": "关切",
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；医院病房，白色墙壁，医疗设备；画面右侧人物，身穿灰色西装，黑色领带，坐在病床边，看着顾晚，表情：表情关切，眉毛微蹙；画面左侧，床上人物，身穿蓝白条纹病号服，躺着，看着男子，表情：眼神虚弱，眉毛微蹙。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面右侧",
+                "action": "身体前倾，询问",
+                "expression": "表情温柔，嘴巴微张"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧，床上",
+                "action": "躺着",
+                "expression": "眼神低垂"
+            }
+        ],
+        "background": "医院病房，床头设备",
+        "description_narrative": "中近景镜头，灰西装男子身体前倾，温柔地询问顾晚的感受。",
+        "dialogue": "感觉怎么样 要不要喝点水",
+        "speaker": "灰西装男子",
+        "emotion": "温柔",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；医院病房，床头设备；画面右侧人物，身穿灰色西装，黑色领带，身体前倾，询问，表情：表情温柔，嘴巴微张；画面左侧，床上人物，身穿蓝白条纹病号服，躺着，表情：眼神低垂。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "低头，表情沉重",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色床单",
+        "description_narrative": "近景镜头，顾晚躺在病床上，低头沉思，表情沉重，画面出现字幕“要不要喝点水”。",
+        "dialogue": "要不要喝点水",
+        "speaker": "灰西装男子",
+        "emotion": "沉重",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；医院病房，白色床单；画面中央人物，身穿蓝白条纹病号服，低头，表情沉重，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面中央",
+                "action": "看着顾晚",
+                "expression": "眼神担忧，眉毛微蹙"
+            }
+        ],
+        "background": "医院病房，模糊背景",
+        "description_narrative": "近景镜头，灰西装男子担忧地看着顾晚，似乎在等待她的回答。",
+        "dialogue": "晚晚",
+        "speaker": "灰西装男子",
+        "emotion": "担忧",
+        "duration": 1.92,
+        "description_visual": "近景平拍镜头；医院病房，模糊背景；画面中央人物，身穿灰色西装，黑色领带，看着顾晚，表情：眼神担忧，眉毛微蹙。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "看着男子，询问",
+                "expression": "眉头紧锁，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "近景镜头，顾晚看着灰西装男子，眉头紧锁，开口询问发生的事情，画面出现字幕“到底发生了什么事”。",
+        "dialogue": "到底发生了什么事",
+        "speaker": "顾晚",
+        "emotion": "疑惑",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁；画面中央人物，身穿蓝白条纹病号服，看着男子，询问，表情：眉头紧锁，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面右侧",
+                "action": "坐在床边，询问",
+                "expression": "表情严肃，嘴巴微张"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧，床上",
+                "action": "躺着，手放在腹部",
+                "expression": "表情痛苦"
+            }
+        ],
+        "background": "医院病房，医疗设备",
+        "description_narrative": "中景镜头，灰西装男子坐在床边严肃地询问顾晚被打的原因。",
+        "dialogue": "那些人为什么要打你",
+        "speaker": "灰西装男子",
+        "emotion": "严肃",
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；医院病房，医疗设备；画面右侧人物，身穿灰色西装，黑色领带，坐在床边，询问，表情：表情严肃，嘴巴微张；画面左侧，床上人物，身穿蓝白条纹病号服，躺着，手放在腹部，表情：表情痛苦。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "回忆，讲述",
+                "expression": "眉头紧锁，眼神悲伤，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "近景镜头，顾晚回忆着当时的情况，表情悲伤地讲述有人警告她。",
+        "dialogue": "有人警告我",
+        "speaker": "顾晚",
+        "emotion": "悲伤",
+        "duration": 2.6,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁；画面中央人物，身穿蓝白条纹病号服，回忆，讲述，表情：眉头紧锁，眼神悲伤，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面中央",
+                "action": "倾听",
+                "expression": "表情震惊，眼睛睁大"
+            }
+        ],
+        "background": "医院病房，模糊背景",
+        "description_narrative": "近景镜头，灰西装男子听到顾晚的话，表情震惊，眼睛睁大。",
+        "dialogue": "说 不属于我的男人",
+        "speaker": "顾晚",
+        "emotion": "震惊",
+        "duration": 2.44,
+        "description_visual": "近景平拍镜头；医院病房，模糊背景；画面中央人物，身穿灰色西装，黑色领带，倾听，表情：表情震惊，眼睛睁大。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面右侧",
+                "action": "看着顾晚",
+                "expression": "表情凝重"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧，床上",
+                "action": "讲述",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "医院病房，医疗设备",
+        "description_narrative": "中景镜头，顾晚平静地说出幕后主使是顾雨晴，灰西装男子凝重地看着她。",
+        "dialogue": "是顾雨晴",
+        "speaker": "顾晚",
+        "emotion": "平静",
+        "duration": 2.08,
+        "description_visual": "中景平拍镜头；医院病房，医疗设备；画面右侧人物，身穿灰色西装，黑色领带，看着顾晚，表情：表情凝重；画面左侧，床上人物，身穿蓝白条纹病号服，讲述，表情：表情平静。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面中央",
+                "action": "站起身，表情愤怒",
+                "expression": "眉毛紧锁，眼神愤怒"
+            }
+        ],
+        "background": "医院病房，模糊背景",
+        "description_narrative": "近景镜头，灰西装男子听到名字后站起身，表情愤怒，顾晚画外音询问他要干什么。",
+        "dialogue": "你要干什么",
+        "speaker": "顾晚",
+        "emotion": "愤怒",
+        "duration": 3.6,
+        "description_visual": "近景平拍镜头；医院病房，模糊背景；画面中央人物，身穿灰色西装，黑色领带，站起身，表情愤怒，表情：眉毛紧锁，眼神愤怒。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "看着男子，担忧",
+                "expression": "眉头微蹙，眼神担忧"
+            }
+        ],
+        "background": "医院病房，白色床单",
+        "description_narrative": "近景镜头，顾晚担忧地看着起身的男子，画外音传来男子说去找她麻烦。",
+        "dialogue": "去找她麻烦",
+        "speaker": "灰西装男子",
+        "emotion": "担忧",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；医院病房，白色床单；画面中央人物，身穿蓝白条纹病号服，看着男子，担忧，表情：眉头微蹙，眼神担忧。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面中央",
+                "action": "看着顾晚",
+                "expression": "表情坚定"
+            }
+        ],
+        "background": "医院病房，模糊背景",
+        "description_narrative": "近景镜头，灰西装男子表情坚定，画外音传来顾晚说没有证据没用。",
+        "dialogue": "没用的 你又没有证据",
+        "speaker": "顾晚",
+        "emotion": "无奈",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；医院病房，模糊背景；画面中央人物，身穿灰色西装，黑色领带，看着顾晚，表情：表情坚定。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "看着男子",
+                "expression": "表情淡然"
+            }
+        ],
+        "background": "医院病房，白色床单",
+        "description_narrative": "近景镜头，顾晚表情淡然，画外音传来男子安慰她说不会让她白受苦。",
+        "dialogue": "晚晚你放心 我一定不会让你 白白受苦的",
+        "speaker": "灰西装男子",
+        "emotion": "坚定",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；医院病房，白色床单；画面中央人物，身穿蓝白条纹病号服，看着男子，表情：表情淡然。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面中央",
+                "action": "看着顾晚",
+                "expression": "表情认真"
+            }
+        ],
+        "background": "医院病房，模糊背景",
+        "description_narrative": "近景镜头，灰西装男子认真地看着顾晚，画外音传来顾晚说已经不在意伤害。",
+        "dialogue": "我已经不在意了 他们伤害我",
+        "speaker": "顾晚",
+        "emotion": "淡然",
+        "duration": 3.12,
+        "description_visual": "近景平拍镜头；医院病房，模糊背景；画面中央人物，身穿灰色西装，黑色领带，看着顾晚，表情：表情认真。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面右侧",
+                "action": "坐在床边",
+                "expression": "表情凝重"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧，床上",
+                "action": "讲述",
+                "expression": "表情悲伤"
+            }
+        ],
+        "background": "医院病房，医疗设备",
+        "description_narrative": "中景镜头，顾晚继续说着伤害不是一次两次，灰西装男子凝重地听着。",
+        "dialogue": "又不是一次两次",
+        "speaker": "顾晚",
+        "emotion": "悲伤",
+        "duration": 3.2,
+        "description_visual": "中景平拍镜头；医院病房，医疗设备；画面右侧人物，身穿灰色西装，黑色领带，坐在床边，表情：表情凝重；画面左侧，床上人物，身穿蓝白条纹病号服，讲述，表情：表情悲伤。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "抚摸腹部",
+                "expression": "眉头紧锁，眼神悲伤，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色床单",
+        "description_narrative": "近景镜头，顾晚手抚摸腹部，悲伤地说自己最在意的是孩子，画面出现字幕“我的孩子”。",
+        "dialogue": "我最在意的就是",
+        "speaker": "顾晚",
+        "emotion": "悲伤",
+        "duration": 3.36,
+        "description_visual": "近景平拍镜头；医院病房，白色床单；画面中央人物，身穿蓝白条纹病号服，抚摸腹部，表情：眉头紧锁，眼神悲伤，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，黑色领带",
+                "position": "画面中央",
+                "action": "倾听",
+                "expression": "表情震惊，眼睛睁大"
+            }
+        ],
+        "background": "医院病房，模糊背景",
+        "description_narrative": "近景镜头，灰西装男子听到孩子的事情，表情震惊，画外音传来顾晚关心孩子吃得好不好。",
+        "dialogue": "我的孩子 吃的好不好",
+        "speaker": "顾晚",
+        "emotion": "震惊",
+        "duration": 0.88,
+        "description_visual": "近景平拍镜头；医院病房，模糊背景；画面中央人物，身穿灰色西装，黑色领带，倾听，表情：表情震惊，眼睛睁大。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "闭眼，流泪",
+                "expression": "眉头紧锁，眼睛紧闭，表情痛苦"
+            }
+        ],
+        "background": "医院病房，白色床单",
+        "description_narrative": "近景镜头，顾晚闭眼流泪，痛苦地询问孩子睡得好不好，还有她的女儿。",
+        "dialogue": "睡的好不好 还有我的女儿",
+        "speaker": "顾晚",
+        "emotion": "痛苦",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；医院病房，白色床单；画面中央人物，身穿蓝白条纹病号服，闭眼，流泪，表情：眉头紧锁，眼睛紧闭，表情痛苦。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装，紫色领带",
+                "position": "画面中央，门口",
+                "action": "站在门口，看着病房内",
+                "expression": "表情复杂，嘴唇微张"
+            }
+        ],
+        "background": "医院走廊，病房门口",
+        "description_narrative": "中景镜头，陆时庭站在病房门口，表情复杂地看着病房内的两人。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 2.68,
+        "description_visual": "中景平拍镜头；医院走廊，病房门口；画面中央，门口人物，身穿黑色双排扣西装，紫色领带，站在门口，看着病房内，表情：表情复杂，嘴唇微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色双排扣西装，紫色领带",
+                "position": "画面背景，门口",
+                "action": "站在门口，看着病床方向",
+                "expression": "表情凝重，眼神深邃"
+            },
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面前景，模糊",
+                "action": "抱着顾晚",
+                "expression": "不可见"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面前景，模糊",
+                "action": "被抱着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房门口，走廊",
+        "description_narrative": "过肩中近景，陆时庭站在门口凝视着病房内相拥的两人，前景是模糊的灰西装男子和顾晚，暗示三人关系的复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 3.28,
+        "description_visual": "中近景过肩镜头；医院病房门口，走廊；画面背景，门口人物，身穿黑色双排扣西装，紫色领带，站在门口，看着病床方向，表情：表情凝重，眼神深邃；画面前景，模糊人物，身穿灰色西装，抱着顾晚，表情：不可见；画面前景，模糊人物，身穿蓝白条纹病号服，被抱着，表情：不可见。"
+    }
+]

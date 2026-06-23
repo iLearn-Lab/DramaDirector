@@ -1,0 +1,885 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面右侧",
+                "action": "侧脸看向女子",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微闭"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，内搭白色荷叶边衬衫",
+                "position": "画面左侧",
+                "action": "侧脸看向男子，手搭在男子肩上",
+                "expression": "眉毛微扬，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "金色光斑背景，带有剧名文字",
+        "description_narrative": "全景固定镜头，画面为剧集海报，男子身穿深棕色马甲位于右侧，女子身穿浅蓝色外套位于左侧，两人深情对视，背景为金色光斑，下方显示剧名及集数。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "全景平拍镜头；金色光斑背景，带有剧名文字；画面右侧人物，身穿黑色衬衫搭配深棕色马甲，侧脸看向女子，表情：眉毛舒展，眼睛注视，嘴巴微闭；画面左侧人物，身穿浅蓝色粗花呢外套，内搭白色荷叶边衬衫，侧脸看向男子，手搭在男子肩上，表情：眉毛微扬，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "低头看着酒杯，随后抬头",
+                "expression": "眉毛微蹙，眼睛下视后抬起，嘴巴微张说话"
+            }
+        ],
+        "background": "室内暗调背景，前景有红酒杯",
+        "description_narrative": "特写固定镜头，男子身穿黑色衬衫和深棕色马甲，低头看着手中的红酒杯，随后抬头看向对面，眉毛微蹙，嘴巴微张开始说话。",
+        "dialogue": "你知道黑客组织 AT 吗？",
+        "speaker": "男子",
+        "emotion": "试探",
+        "duration": 4.24,
+        "description_visual": "特写平拍镜头；室内暗调背景，前景有红酒杯；画面中央人物，身穿黑色衬衫搭配深棕色马甲，低头看着酒杯，随后抬头，表情：眉毛微蹙，眼睛下视后抬起，嘴巴微张说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "侧头看向男子，微微点头",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "暖色调墙壁背景",
+        "description_narrative": "近景固定镜头，女子身穿浅蓝色粗花呢外套，内搭白色荷叶边衬衫，侧头看向男子，眼神专注，嘴巴微张回答男子的问题。",
+        "dialogue": "知道呀，我是程序员，我当然知道 AT 了。",
+        "speaker": "女子",
+        "emotion": "自然",
+        "duration": 4.84,
+        "description_visual": "近景平拍镜头；暖色调墙壁背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，侧头看向男子，微微点头，表情：眉毛舒展，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "看着女子，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴闭合"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子身穿深棕色马甲，表情严肃地看着女子，眉毛微蹙，讲述陆林集团网站被攻击的事情。",
+        "dialogue": "今天陆林集团的网站被攻击。",
+        "speaker": "男子",
+        "emotion": "严肃",
+        "duration": 4.64,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，看着女子，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴闭合。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面左侧",
+                "action": "坐在餐桌旁，看着男子",
+                "expression": "眉毛微扬，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "餐桌，蜡烛，红酒杯，暖光",
+        "description_narrative": "中近景固定镜头，女子坐在餐桌旁，桌上有蜡烛和红酒，她看着男子，描述当时大家焦头烂额的情景。",
+        "dialogue": "所有人都焦头烂额的。",
+        "speaker": "女子",
+        "emotion": "描述",
+        "duration": 2.84,
+        "description_visual": "中近景平拍镜头；餐桌，蜡烛，红酒杯，暖光；画面左侧人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，坐在餐桌旁，看着男子，表情：眉毛微扬，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "看着女子，讲述经过",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子看着女子，讲述 AT 老大出马解决问题的经过，表情略带赞赏。",
+        "dialogue": "最后还是 AT 的老大出马，三下五除二就给解决了。",
+        "speaker": "男子",
+        "emotion": "叙述",
+        "duration": 5.48,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，看着女子，讲述经过，表情：眉毛舒展，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "低头微笑，切食物",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子低头微笑，手中拿着刀叉切食物，画面字幕显示“三下五除二就给解决了”，男子画外音响起。",
+        "dialogue": "那是，也不看看是谁？",
+        "speaker": "男子",
+        "emotion": "得意",
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，低头微笑，切食物，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "抬头惊讶地看着男子",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子抬头惊讶地看着男子，似乎对男子的话感到意外，发出“啊”的声音。",
+        "dialogue": "啊",
+        "speaker": "女子",
+        "emotion": "惊讶",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，抬头惊讶地看着男子，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "看着女子，解释",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子看着女子，意识到自己说漏嘴，发出“啊”的声音并准备解释。",
+        "dialogue": "啊",
+        "speaker": "男子",
+        "emotion": "掩饰",
+        "duration": 1.08,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，看着女子，解释，表情：眉毛微蹙，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "眼神游移，急忙解释",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴快速开合"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子眼神游移，急忙解释说自己指的是 AT 老大是女性。",
+        "dialogue": "我是说",
+        "speaker": "男子",
+        "emotion": "急切",
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，眼神游移，急忙解释，表情：眉毛微蹙，眼睛看向侧方，嘴巴快速开合。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "看着男子，微笑",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子看着男子，面带微笑，男子画外音继续解释 AT 老大是女性。",
+        "dialogue": "她可是 AT 老大。",
+        "speaker": "男子",
+        "emotion": "解释",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，看着男子，微笑，表情：眉毛舒展，眼睛注视，嘴角上扬。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面右侧",
+                "action": "坐在餐桌旁，看着前方",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "餐桌，蜡烛，食物，厨房背景",
+        "description_narrative": "中景固定镜头，男子坐在餐桌旁，桌上摆满食物和蜡烛，他看着前方，表示 AT 老大出马肯定没问题，并以为她们认识。",
+        "dialogue": "她出马肯定没问题啊。啊，我以为你们认识呢。",
+        "speaker": "男子",
+        "emotion": "自然",
+        "duration": 4.36,
+        "description_visual": "中景平拍镜头；餐桌，蜡烛，食物，厨房背景；画面右侧人物，身穿黑色衬衫搭配深棕色马甲，坐在餐桌旁，看着前方，表情：眉毛舒展，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "低头切食物",
+                "expression": "眉毛舒展，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子低头切食物，男子画外音询问她是否在陆林集团工作。",
+        "dialogue": "嗯，对了，你在陆林集团工作呀。",
+        "speaker": "男子",
+        "emotion": "询问",
+        "duration": 3.16,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，低头切食物，表情：眉毛舒展，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "低头，倾听",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子低头倾听，女子画外音回答“啊，对”。",
+        "dialogue": "啊，对。",
+        "speaker": "女子",
+        "emotion": "确认",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，低头，倾听，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "低头，反问",
+                "expression": "眉毛微扬，眼睛下视，嘴巴微张说话"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子低头，反问男子是什么职务。",
+        "dialogue": "什么职务啊？",
+        "speaker": "女子",
+        "emotion": "好奇",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，低头，反问，表情：眉毛微扬，眼睛下视，嘴巴微张说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "看着女子，回答",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子看着女子，谦虚地回答自己只是一个小职员。",
+        "dialogue": "我就是一个小职员。",
+        "speaker": "男子",
+        "emotion": "谦虚",
+        "duration": 2.64,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，看着女子，回答，表情：眉毛舒展，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套",
+                "position": "画面左侧",
+                "action": "坐在餐桌旁，切食物",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张说话"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面右侧",
+                "action": "坐在餐桌旁，切食物",
+                "expression": "眉毛舒展，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "餐桌，蜡烛，花束，厨房背景",
+        "description_narrative": "全景固定镜头，男女主角坐在餐桌两旁用餐，桌上有花束和蜡烛，女子说自己也在陆林集团工作。",
+        "dialogue": "我也",
+        "speaker": "女子",
+        "emotion": "自然",
+        "duration": 1.72,
+        "description_visual": "全景平拍镜头；餐桌，蜡烛，花束，厨房背景；画面左侧人物，身穿浅蓝色粗花呢外套，坐在餐桌旁，切食物，表情：眉毛舒展，眼睛下视，嘴巴微张说话；画面右侧人物，身穿黑色衬衫搭配深棕色马甲，坐在餐桌旁，切食物，表情：眉毛舒展，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "咀嚼食物，眼神微动",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴咀嚼"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子咀嚼食物，眼神微动，女子画外音继续说在陆林集团工作。",
+        "dialogue": "在陆林集团工作。",
+        "speaker": "女子",
+        "emotion": "自然",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，咀嚼食物，眼神微动，表情：眉毛微蹙，眼睛侧视，嘴巴咀嚼。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "看着男子，表情平静",
+                "expression": "眉毛舒展，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子看着男子，表情平静，两人短暂沉默。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，看着男子，表情平静，表情：眉毛舒展，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "低头，手捂嘴咳嗽",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴被手遮住"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子突然低头，手捂嘴咳嗽，女子画外音关心询问“没事吧”。",
+        "dialogue": "没事吧？",
+        "speaker": "女子",
+        "emotion": "关心",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，低头，手捂嘴咳嗽，表情：眉毛紧蹙，眼睛闭合，嘴巴被手遮住。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "看着男子，回答",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子看着男子，回答说自己没事。",
+        "dialogue": "没事。",
+        "speaker": "女子",
+        "emotion": "安抚",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，看着男子，回答，表情：眉毛舒展，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "惊讶地看着女子",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张说话"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子惊讶地看着女子，重复确认她也在陆林。",
+        "dialogue": "你也在",
+        "speaker": "男子",
+        "emotion": "惊讶",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，惊讶地看着女子，表情：眉毛上扬，眼睛睁大，嘴巴微张说话。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "看着男子，确认",
+                "expression": "眉毛微扬，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子看着男子，确认男子也在陆林。",
+        "dialogue": "陆林啊",
+        "speaker": "女子",
+        "emotion": "确认",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，看着男子，确认，表情：眉毛微扬，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "看着女子，回答",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子看着女子，告诉女子自己在项目部。",
+        "dialogue": "我在项目部啊。",
+        "speaker": "男子",
+        "emotion": "自然",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，看着女子，回答，表情：眉毛舒展，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套",
+                "position": "画面左侧",
+                "action": "坐在餐桌旁",
+                "expression": "眉毛舒展，眼睛下视，嘴巴闭合"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面右侧",
+                "action": "坐在餐桌旁",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张说话"
+            }
+        ],
+        "background": "餐桌，蜡烛，花束，厨房背景",
+        "description_narrative": "全景固定镜头，两人继续用餐，男子说“这样”，表示了解了情况。",
+        "dialogue": "这样",
+        "speaker": "男子",
+        "emotion": "了然",
+        "duration": 1.4,
+        "description_visual": "全景平拍镜头；餐桌，蜡烛，花束，厨房背景；画面左侧人物，身穿浅蓝色粗花呢外套，坐在餐桌旁，表情：眉毛舒展，眼睛下视，嘴巴闭合；画面右侧人物，身穿黑色衬衫搭配深棕色马甲，坐在餐桌旁，表情：眉毛舒展，眼睛下视，嘴巴微张说话。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面右侧",
+                "action": "手伸向水果盘",
+                "expression": "无"
+            }
+        ],
+        "background": "餐桌，水果盘，蜡烛",
+        "description_narrative": "特写俯拍镜头，聚焦在桌上的水果盘，有葡萄和橙子，一只手伸向盘子，女子画外音发出“嗯”的声音。",
+        "dialogue": "嗯。",
+        "speaker": "女子",
+        "emotion": "回应",
+        "duration": 0.64,
+        "description_visual": "特写俯拍镜头；餐桌，水果盘，蜡烛；画面右侧人物，身穿未知，手伸向水果盘，表情：无。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "低头吃东西",
+                "expression": "眉毛舒展，眼睛下视，嘴巴咀嚼"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子低头吃东西，神情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，低头吃东西，表情：眉毛舒展，眼睛下视，嘴巴咀嚼。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "看着女子，眼神深沉",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子看着女子，眼神深沉，似乎在思考什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "深沉",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，看着女子，眼神深沉，表情：眉毛微蹙，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "未知",
+                "position": "画面左侧",
+                "action": "手伸向水果盘拿葡萄",
+                "expression": "无"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "未知",
+                "position": "画面右侧",
+                "action": "手伸向水果盘拿葡萄",
+                "expression": "无"
+            }
+        ],
+        "background": "餐桌，水果盘",
+        "description_narrative": "特写俯拍镜头，两人的手同时伸向水果盘拿葡萄，动作默契。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "默契",
+        "duration": 0.96,
+        "description_visual": "特写俯拍镜头；餐桌，水果盘；画面左侧人物，身穿未知，手伸向水果盘拿葡萄，表情：无；画面右侧人物，身穿未知，手伸向水果盘拿葡萄，表情：无。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "惊讶地张嘴",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子似乎被什么惊到，发出“啊”的声音。",
+        "dialogue": "啊",
+        "speaker": "女子",
+        "emotion": "惊讶",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，惊讶地张嘴，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "看着女子，示意",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子看着女子，示意她吃水果。",
+        "dialogue": "你来",
+        "speaker": "男子",
+        "emotion": "温和",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，看着女子，示意，表情：眉毛舒展，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "低头微笑",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子低头微笑，让男子吃。",
+        "dialogue": "你吃吧。",
+        "speaker": "女子",
+        "emotion": "温柔",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，低头微笑，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "看着女子，眼神复杂",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写固定镜头，男子看着女子，眼神复杂，似乎在盘算什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，看着女子，眼神复杂，表情：眉毛微蹙，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "用叉子吃东西",
+                "expression": "眉毛舒展，眼睛注视，嘴巴张开吃东西"
+            }
+        ],
+        "background": "暖色调背景",
+        "description_narrative": "近景固定镜头，女子用叉子吃东西，神情愉悦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愉悦",
+        "duration": 2.24,
+        "description_visual": "近景平拍镜头；暖色调背景；画面中央人物，身穿浅蓝色粗花呢外套，白色荷叶边衬衫，用叉子吃东西，表情：眉毛舒展，眼睛注视，嘴巴张开吃东西。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "坐在沙发上，看手机",
+                "expression": "眉毛微蹙，眼睛注视手机，嘴巴闭合"
+            }
+        ],
+        "background": "客厅，沙发，台灯",
+        "description_narrative": "中景固定镜头，场景切换到客厅，男子坐在沙发上，拿着手机，神情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.52,
+        "description_visual": "中景平拍镜头；客厅，沙发，台灯；画面中央人物，身穿黑色衬衫搭配深棕色马甲，坐在沙发上，看手机，表情：眉毛微蹙，眼睛注视手机，嘴巴闭合。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "打电话，表情冷峻",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "室内暖调背景",
+        "description_narrative": "特写固定镜头，男子拿着手机打电话，表情冷峻，吩咐手下调查温家。",
+        "dialogue": "帮我调查一下温家，尤其是她的后妈和妹妹。",
+        "speaker": "男子",
+        "emotion": "冷峻",
+        "duration": 6.0,
+        "description_visual": "特写平拍镜头；室内暖调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，打电话，表情冷峻，表情：眉毛微蹙，眼睛直视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深棕色马甲",
+                "position": "画面中央",
+                "action": "打电话，补充要求",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "室内暖调背景",
+        "description_narrative": "特写固定镜头，男子继续打电话，要求准备一辆普通的车，暗示要隐藏身份。",
+        "dialogue": "还有啊，帮我弄一辆普通点的车。",
+        "speaker": "男子",
+        "emotion": "谨慎",
+        "duration": 6.76,
+        "description_visual": "特写平拍镜头；室内暖调背景；画面中央人物，身穿黑色衬衫搭配深棕色马甲，打电话，补充要求，表情：眉毛舒展，眼睛注视，嘴巴微张说话。"
+    }
+]

@@ -1,0 +1,925 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "医院走廊，蓝色门框上方挂着白底红字的'手术中'灯箱，光线明亮",
+        "description_narrative": "特写镜头聚焦在医院手术室门上方的灯箱，白底红字清晰显示'手术中'，背景是浅木色墙面和蓝色门框，光线均匀明亮。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；医院走廊，蓝色门框上方挂着白底红字的'手术中'灯箱，光线明亮。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面左侧",
+                "action": "侧身站立，面向右侧女子",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "侧身站立，面向左侧男子",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，蓝色手术门，门上有一个黑色观察窗，光线明亮",
+        "description_narrative": "全景镜头展示医院走廊，蓝色手术门上方挂着'手术中'灯箱，黑衣男子站在画面左侧侧身面向右侧女子，女子站在画面右侧侧身面向左侧男子，两人相对而立，门上有一个黑色观察窗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；医院走廊，蓝色手术门，门上有一个黑色观察窗，光线明亮；画面左侧人物，身穿黑色西装外套及黑色内搭，侧身站立，面向右侧女子，表情：眉毛微蹙，眼睛注视女子，嘴巴微张；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，侧身站立，面向左侧男子，表情：眉毛微蹙，眼睛注视男子，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼睛闭合后睁开",
+                "expression": "眉毛舒展，眼睛闭合后睁开，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准黑衣男子，他身穿黑色西装，头部微侧，眼睛先闭合后睁开，嘴巴微张说出'夫人'，背景是模糊的蓝色门框。",
+        "dialogue": "夫人",
+        "speaker": "黑衣男子",
+        "emotion": "关切",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿黑色西装外套及黑色内搭，头部微侧，眼睛闭合后睁开，表情：眉毛舒展，眼睛闭合后睁开，嘴巴微张说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她身穿白色上衣和粉色裙子，佩戴珍珠耳环，头部微侧，眼神看向左侧，眉毛微蹙，嘴巴紧闭，画面下方出现字幕'要不'。",
+        "dialogue": "要不",
+        "speaker": "女子",
+        "emotion": "犹豫",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准黑衣男子，他头部微侧，眼神看向右侧，嘴巴微张说出'您先回去休息吧'，背景是模糊的蓝色门框。",
+        "dialogue": "您先回去休息吧",
+        "speaker": "黑衣男子",
+        "emotion": "关切",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿黑色西装外套及黑色内搭，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她头部微低，眼神向下，眉毛微蹙，嘴巴微张，画面下方出现字幕'休息吧'。",
+        "dialogue": "休息吧",
+        "speaker": "女子",
+        "emotion": "担忧",
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微低，眼神向下，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微抬，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她头部微抬，眼神看向左侧，眉毛微蹙，嘴巴微张说出'时庭进去这么久了'，背景是模糊的浅木色墙面。",
+        "dialogue": "时庭进去这么久了",
+        "speaker": "女子",
+        "emotion": "焦急",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微抬，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微抬，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她头部微抬，眼神看向左侧，眉毛微蹙，嘴巴微张说出'为什么还不出来'，背景是模糊的浅木色墙面。",
+        "dialogue": "为什么还不出来",
+        "speaker": "女子",
+        "emotion": "焦急",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微抬，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准黑衣男子，他头部微侧，眼神看向右侧，嘴巴微张说出'夫人别着急'，背景是模糊的蓝色门框。",
+        "dialogue": "夫人别着急",
+        "speaker": "黑衣男子",
+        "emotion": "安抚",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿黑色西装外套及黑色内搭，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她头部微低，眼神向下，眉毛微蹙，嘴巴微张，似乎在倾听，背景是模糊的浅木色墙面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "担忧",
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微低，眼神向下，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准黑衣男子，他头部微侧，眼神看向右侧，嘴巴微张说出'总裁的身体那么好'，背景是模糊的蓝色门框。",
+        "dialogue": "总裁的身体那么好",
+        "speaker": "黑衣男子",
+        "emotion": "安抚",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿黑色西装外套及黑色内搭，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准黑衣男子，他头部微侧，眼神看向右侧，嘴巴微张说出'一定会好起来的'，背景是模糊的蓝色门框。",
+        "dialogue": "一定会好起来的",
+        "speaker": "黑衣男子",
+        "emotion": "安抚",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿黑色西装外套及黑色内搭，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张说话。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "右手抬起触摸蓝色门框",
+                "expression": "眉毛微蹙，眼睛注视门框，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她右手抬起触摸蓝色门框，眉毛微蹙，眼睛注视门框，嘴巴紧闭，背景是模糊的蓝色门框。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，右手抬起触摸蓝色门框，表情：眉毛微蹙，眼睛注视门框，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面左侧",
+                "action": "侧身站立，面向右侧女子",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "侧身站立，面向左侧男子",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，蓝色手术门，门上有一个黑色观察窗，光线明亮",
+        "description_narrative": "全景镜头展示医院走廊，蓝色手术门上方挂着'手术中'灯箱，黑衣男子站在画面左侧侧身面向右侧女子，女子站在画面右侧侧身面向左侧男子，两人相对而立，门上有一个黑色观察窗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "全景平拍镜头；医院走廊，蓝色手术门，门上有一个黑色观察窗，光线明亮；画面左侧人物，身穿黑色西装外套及黑色内搭，侧身站立，面向右侧女子，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，侧身站立，面向左侧男子，表情：眉毛微蹙，眼睛注视男子，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "身体前倾，右手伸出",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中景镜头跟拍女子，她身体前倾，右手伸出，眉毛微蹙，嘴巴微张说出'医生'，背景是模糊的浅木色墙面。",
+        "dialogue": "医生",
+        "speaker": "女子",
+        "emotion": "焦急",
+        "duration": 1.64,
+        "description_visual": "中景平拍镜头（跟拍）；医院走廊，浅木色墙面，光线明亮；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，身体前倾，右手伸出，表情：眉毛微蹙，眼睛注视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "双手抓住医生手臂",
+                "expression": "眉毛微蹙，眼睛注视医生，嘴巴微张说话"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面左侧",
+                "action": "站立，被女子抓住手臂",
+                "expression": "眉毛被口罩遮挡，眼睛注视女子"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中景镜头拍摄女子和医生，女子双手抓住医生手臂，眉毛微蹙，嘴巴微张说出'医生他怎么样了'，医生身穿蓝色手术服佩戴口罩，站立被女子抓住手臂，背景是模糊的浅木色墙面。",
+        "dialogue": "医生他怎么样了",
+        "speaker": "女子",
+        "emotion": "焦急",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，双手抓住医生手臂，表情：眉毛微蹙，眼睛注视医生，嘴巴微张说话；画面左侧人物，身穿蓝色手术服，佩戴蓝色口罩，站立，被女子抓住手臂，表情：眉毛被口罩遮挡，眼睛注视女子。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛被口罩遮挡，眼睛注视右侧"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准医生，他身穿蓝色手术服佩戴口罩，头部微侧，眼神看向右侧，画面下方出现字幕'医生他怎么样了'。",
+        "dialogue": "医生他怎么样了",
+        "speaker": "女子",
+        "emotion": "焦急",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿蓝色手术服，佩戴蓝色口罩，头部微侧，眼神看向右侧，表情：眉毛被口罩遮挡，眼睛注视右侧。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准黑衣男子，他头部微侧，眼神看向右侧，嘴巴微张说出'人已经救回来了'，背景是模糊的蓝色门框。",
+        "dialogue": "人已经救回来了",
+        "speaker": "医生",
+        "emotion": "严肃",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿黑色西装外套及黑色内搭，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张说话。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微抬，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她头部微抬，眼神看向左侧，眉毛微蹙，嘴巴微张，画面下方出现字幕'但是由于失血过多'。",
+        "dialogue": "但是由于失血过多",
+        "speaker": "医生",
+        "emotion": "担忧",
+        "duration": 1.04,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微抬，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛被口罩遮挡，眼睛注视右侧"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准医生，他身穿蓝色手术服佩戴口罩，头部微侧，眼神看向右侧，画面下方出现字幕'脑部缺氧'。",
+        "dialogue": "脑部缺氧",
+        "speaker": "医生",
+        "emotion": "严肃",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿蓝色手术服，佩戴蓝色口罩，头部微侧，眼神看向右侧，表情：眉毛被口罩遮挡，眼睛注视右侧。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛被口罩遮挡，眼睛注视右侧"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准医生，他身穿蓝色手术服佩戴口罩，头部微侧，眼神看向右侧，画面下方出现字幕'目前还在昏迷'。",
+        "dialogue": "目前还在昏迷",
+        "speaker": "医生",
+        "emotion": "严肃",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿蓝色手术服，佩戴蓝色口罩，头部微侧，眼神看向右侧，表情：眉毛被口罩遮挡，眼睛注视右侧。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微抬，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她头部微抬，眼神看向左侧，眉毛微蹙，嘴巴微张，似乎在倾听，背景是模糊的浅木色墙面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微抬，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准黑衣男子，他头部微侧，眼神看向右侧，嘴巴微张说出'那他什么时候能醒过来'，背景是模糊的蓝色门框。",
+        "dialogue": "那他什么时候能醒过来",
+        "speaker": "黑衣男子",
+        "emotion": "关切",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿黑色西装外套及黑色内搭，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张说话。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "双手抓住医生手臂",
+                "expression": "眉毛微蹙，眼睛注视医生，嘴巴微张"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面左侧",
+                "action": "站立，被女子抓住手臂",
+                "expression": "眉毛被口罩遮挡，眼睛注视女子"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中景镜头拍摄女子和医生，女子双手抓住医生手臂，眉毛微蹙，嘴巴微张，画面下方出现字幕'这个'。",
+        "dialogue": "这个",
+        "speaker": "医生",
+        "emotion": "犹豫",
+        "duration": 1.44,
+        "description_visual": "中景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，双手抓住医生手臂，表情：眉毛微蹙，眼睛注视医生，嘴巴微张；画面左侧人物，身穿蓝色手术服，佩戴蓝色口罩，站立，被女子抓住手臂，表情：眉毛被口罩遮挡，眼睛注视女子。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "双手抓住医生手臂",
+                "expression": "眉毛微蹙，眼睛注视医生，嘴巴微张说话"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面左侧",
+                "action": "站立，被女子抓住手臂",
+                "expression": "眉毛被口罩遮挡，眼睛注视女子"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中景镜头拍摄女子和医生，女子双手抓住医生手臂，眉毛微蹙，嘴巴微张说出'这个就不好说了'，医生身穿蓝色手术服佩戴口罩，站立被女子抓住手臂，背景是模糊的浅木色墙面。",
+        "dialogue": "这个就不好说了",
+        "speaker": "医生",
+        "emotion": "无奈",
+        "duration": 2.24,
+        "description_visual": "中景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，双手抓住医生手臂，表情：眉毛微蹙，眼睛注视医生，嘴巴微张说话；画面左侧人物，身穿蓝色手术服，佩戴蓝色口罩，站立，被女子抓住手臂，表情：眉毛被口罩遮挡，眼睛注视女子。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛被口罩遮挡，眼睛注视右侧"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准医生，他身穿蓝色手术服佩戴口罩，头部微侧，眼神看向右侧，画面下方出现字幕'也许明天'。",
+        "dialogue": "也许明天",
+        "speaker": "医生",
+        "emotion": "不确定",
+        "duration": 2.56,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿蓝色手术服，佩戴蓝色口罩，头部微侧，眼神看向右侧，表情：眉毛被口罩遮挡，眼睛注视右侧。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微抬，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她头部微抬，眼神看向左侧，眉毛微蹙，嘴巴微张说出'也许'，背景是模糊的浅木色墙面。",
+        "dialogue": "也许",
+        "speaker": "女子",
+        "emotion": "震惊",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微抬，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微抬，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她头部微抬，眼神看向左侧，眉毛微蹙，嘴巴微张说出'也许...'，背景是模糊的浅木色墙面。",
+        "dialogue": "也许...",
+        "speaker": "女子",
+        "emotion": "震惊",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微抬，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "双手抓住医生蓝色手术服袖子",
+                "expression": "眉毛微蹙，眼睛注视医生，嘴巴微张"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服",
+                "position": "画面左侧",
+                "action": "手臂被女子抓住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，蓝色墙面，光线明亮",
+        "description_narrative": "特写镜头聚焦在女子双手抓住医生蓝色手术服袖子上，女子手腕戴着红绳，背景是蓝色墙面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "绝望",
+        "duration": 2.68,
+        "description_visual": "特写平拍镜头；医院走廊，蓝色墙面，光线明亮；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，双手抓住医生蓝色手术服袖子，表情：眉毛微蹙，眼睛注视医生，嘴巴微张；画面左侧人物，身穿蓝色手术服，手臂被女子抓住，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "双手抓住医生手臂，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视医生，嘴巴微张说话"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面中央",
+                "action": "站立，被女子抓住手臂",
+                "expression": "眉毛被口罩遮挡，眼睛注视女子"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面左侧",
+                "action": "站立，注视女子和医生",
+                "expression": "眉毛微蹙，眼睛注视女子和医生，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，蓝色手术门，光线明亮",
+        "description_narrative": "全景镜头展示医院走廊，蓝色手术门上方挂着'手术中'灯箱，女子站在画面右侧双手抓住医生手臂，身体前倾，嘴巴微张说出'不管多少钱我都愿意'，医生身穿蓝色手术服佩戴口罩站在画面中央，黑衣男子站在画面左侧注视两人，背景是蓝色手术门。",
+        "dialogue": "不管多少钱我都愿意",
+        "speaker": "女子",
+        "emotion": "绝望",
+        "duration": 1.52,
+        "description_visual": "全景平拍镜头；医院走廊，蓝色手术门，光线明亮；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，双手抓住医生手臂，身体前倾，表情：眉毛微蹙，眼睛注视医生，嘴巴微张说话；画面中央人物，身穿蓝色手术服，佩戴蓝色口罩，站立，被女子抓住手臂，表情：眉毛被口罩遮挡，眼睛注视女子；画面左侧人物，身穿黑色西装外套及黑色内搭，站立，注视女子和医生，表情：眉毛微蹙，眼睛注视女子和医生，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面中央",
+                "action": "头部微抬，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中近景镜头拍摄女子，她头部微抬，眼神看向左侧，眉毛微蹙，嘴巴微张，似乎在倾听，背景是模糊的浅木色墙面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "绝望",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面中央人物，身穿白色系带短袖上衣和粉色半身裙，头部微抬，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准黑衣男子，他头部微侧，眼神看向右侧，嘴巴微张说出'家人的陪伴也很重要'，背景是模糊的蓝色门框。",
+        "dialogue": "家人的陪伴也很重要",
+        "speaker": "黑衣男子",
+        "emotion": "安抚",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿黑色西装外套及黑色内搭，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张说话。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "双手抓住医生手臂",
+                "expression": "眉毛微蹙，眼睛注视医生，嘴巴微张"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面左侧",
+                "action": "站立，被女子抓住手臂",
+                "expression": "眉毛被口罩遮挡，眼睛注视女子"
+            }
+        ],
+        "background": "医院走廊，浅木色墙面，光线明亮",
+        "description_narrative": "中景镜头拍摄女子和医生，女子双手抓住医生手臂，眉毛微蹙，嘴巴微张，似乎在倾听，医生身穿蓝色手术服佩戴口罩，站立被女子抓住手臂，背景是模糊的浅木色墙面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "绝望",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；医院走廊，浅木色墙面，光线明亮；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，双手抓住医生手臂，表情：眉毛微蹙，眼睛注视医生，嘴巴微张；画面左侧人物，身穿蓝色手术服，佩戴蓝色口罩，站立，被女子抓住手臂，表情：眉毛被口罩遮挡，眼睛注视女子。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，蓝色门框，光线明亮",
+        "description_narrative": "近景镜头对准黑衣男子，他头部微侧，眼神看向右侧，嘴巴微张说出'很有助于他的恢复'，背景是模糊的蓝色门框。",
+        "dialogue": "很有助于他的恢复",
+        "speaker": "黑衣男子",
+        "emotion": "安抚",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；医院走廊，蓝色门框，光线明亮；画面中央人物，身穿黑色西装外套及黑色内搭，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张说话。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "转身走向手术门",
+                "expression": "眉毛微蹙，眼睛注视手术门，嘴巴微张说话"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面中央",
+                "action": "站立，注视女子",
+                "expression": "眉毛被口罩遮挡，眼睛注视女子"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面左侧",
+                "action": "站立，注视女子",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，蓝色手术门，光线明亮",
+        "description_narrative": "中景镜头拍摄女子、医生和黑衣男子，女子转身走向手术门，嘴巴微张说出'好，那我进去看看他'，医生身穿蓝色手术服佩戴口罩站在画面中央，黑衣男子站在画面左侧注视女子，背景是蓝色手术门。",
+        "dialogue": "好，那我进去看看他",
+        "speaker": "女子",
+        "emotion": "坚定",
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头；医院走廊，蓝色手术门，光线明亮；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，转身走向手术门，表情：眉毛微蹙，眼睛注视手术门，嘴巴微张说话；画面中央人物，身穿蓝色手术服，佩戴蓝色口罩，站立，注视女子，表情：眉毛被口罩遮挡，眼睛注视女子；画面左侧人物，身穿黑色西装外套及黑色内搭，站立，注视女子，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色系带短袖上衣和粉色半身裙",
+                "position": "画面右侧",
+                "action": "走向手术门",
+                "expression": "眉毛微蹙，眼睛注视手术门，嘴巴紧闭"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "蓝色手术服，佩戴蓝色口罩",
+                "position": "画面中央",
+                "action": "站立，注视女子",
+                "expression": "眉毛被口罩遮挡，眼睛注视女子"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装外套及黑色内搭",
+                "position": "画面左侧",
+                "action": "站立，注视女子",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，蓝色手术门，光线明亮",
+        "description_narrative": "全景镜头展示医院走廊，蓝色手术门上方挂着'手术中'灯箱，女子走向手术门，医生身穿蓝色手术服佩戴口罩站在画面中央，黑衣男子站在画面左侧注视女子，背景是蓝色手术门。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 6.0,
+        "description_visual": "全景平拍镜头；医院走廊，蓝色手术门，光线明亮；画面右侧人物，身穿白色系带短袖上衣和粉色半身裙，走向手术门，表情：眉毛微蹙，眼睛注视手术门，嘴巴紧闭；画面中央人物，身穿蓝色手术服，佩戴蓝色口罩，站立，注视女子，表情：眉毛被口罩遮挡，眼睛注视女子；画面左侧人物，身穿黑色西装外套及黑色内搭，站立，注视女子，表情：眉毛微蹙，眼睛注视女子，嘴巴紧闭。"
+    }
+]

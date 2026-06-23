@@ -1,0 +1,677 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，中央显示白色宋体字“第十集”。",
+        "description_narrative": "黑色背景中央显示白色标题文字“第十集”，无其他视觉元素。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；纯黑背景，中央显示白色宋体字“第十集”。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "沙土地面，一条黑色的蛇身蜿蜒在草丛边缘，部分被前景绿草遮挡。",
+        "description_narrative": "俯拍视角下，一条黑色的蛇在沙土地上蜿蜒爬行，身体呈S形，前景有模糊的绿色草叶遮挡部分视线。",
+        "dialogue": "啊",
+        "speaker": "女子",
+        "emotion": "惊恐",
+        "duration": 0.83,
+        "description_visual": "特写俯拍镜头；沙土地面，一条黑色的蛇身蜿蜒在草丛边缘，部分被前景绿草遮挡。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面左侧，坐在沙地上",
+                "action": "身体后仰，双手撑地，面部表情惊恐",
+                "expression": "眉毛紧蹙，眼睛睁大视线下移，嘴巴微张露齿"
+            }
+        ],
+        "background": "野外沙地，背景有枯黄的杂草和模糊的树木，光线自然。",
+        "description_narrative": "女子身穿黑色连衣裙坐在沙地上，身体后仰双手撑地，面部表情极度惊恐，眉头紧锁，嘴巴微张似乎在呼救。",
+        "dialogue": "有蛇，有蛇，怎么回事？",
+        "speaker": "女子",
+        "emotion": "恐慌",
+        "duration": 5.3,
+        "description_visual": "中景平拍镜头；野外沙地，背景有枯黄的杂草和模糊的树木，光线自然。；画面左侧，坐在沙地上人物，身穿黑色蕾丝旗袍式连衣裙，身体后仰，双手撑地，面部表情惊恐，表情：眉毛紧蹙，眼睛睁大视线下移，嘴巴微张露齿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心，黑色短裤",
+                "position": "画面右侧，向镜头方向跑来",
+                "action": "赤脚奔跑，身体前倾，双臂摆动",
+                "expression": "眉毛上扬，眼睛注视前方，嘴巴微张喘息"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面左下前景，背对镜头",
+                "action": "坐在地上，头部转向右侧",
+                "expression": "不可见"
+            }
+        ],
+        "background": "野外沙地，背景有枯草，画面中央有白色字幕“周正”。",
+        "description_narrative": "周正身穿白色衬衫和黑色背心，赤脚从背景处向镜头方向跑来，神情焦急，前景是女子的背影。",
+        "dialogue": "我被蛇咬了。",
+        "speaker": "女子",
+        "emotion": "焦急",
+        "duration": 1.7,
+        "description_visual": "中景低角度镜头（跟拍）；野外沙地，背景有枯草，画面中央有白色字幕“周正”。；画面右侧，向镜头方向跑来人物，身穿白色衬衫内搭黑色背心，黑色短裤，赤脚奔跑，身体前倾，双臂摆动，表情：眉毛上扬，眼睛注视前方，嘴巴微张喘息；画面左下前景，背对镜头人物，身穿黑色蕾丝旗袍式连衣裙，坐在地上，头部转向右侧，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面中央，坐在地上",
+                "action": "抬头向上看，左手抓着右小腿",
+                "expression": "眉毛紧皱，眼睛向上看，嘴巴嘟起呈担忧状"
+            }
+        ],
+        "background": "野外沙地，背景是绿色的草丛，光线明亮。",
+        "description_narrative": "女子坐在地上，抬头向上看着赶来的周正，左手抓着受伤的小腿，眉头紧锁，嘴巴嘟起，眼神中充满对死亡的恐惧。",
+        "dialogue": "我会不会死啊",
+        "speaker": "女子",
+        "emotion": "恐惧",
+        "duration": 2.03,
+        "description_visual": "中近景低角度镜头；野外沙地，背景是绿色的草丛，光线明亮。；画面中央，坐在地上人物，身穿黑色蕾丝旗袍式连衣裙，抬头向上看，左手抓着右小腿，表情：眉毛紧皱，眼睛向上看，嘴巴嘟起呈担忧状。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心，黑色短裤",
+                "position": "画面右侧，蹲在地上",
+                "action": "身体前倾，双手伸向女子的腿",
+                "expression": "眉毛微蹙，眼睛注视下方，嘴巴紧闭神情专注"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面左侧，腿部可见",
+                "action": "双腿伸直",
+                "expression": "不可见"
+            }
+        ],
+        "background": "野外沙地，背景模糊，光线自然。",
+        "description_narrative": "周正蹲在女子面前，身体前倾，神情专注地查看女子的腿部， instructing her to flatten her leg.",
+        "dialogue": "把腿放平",
+        "speaker": "周正",
+        "emotion": "冷静",
+        "duration": 4.57,
+        "description_visual": "中近景平拍镜头；野外沙地，背景模糊，光线自然。；画面右侧，蹲在地上人物，身穿白色衬衫内搭黑色背心，黑色短裤，身体前倾，双手伸向女子的腿，表情：眉毛微蹙，眼睛注视下方，嘴巴紧闭神情专注；画面左侧，腿部可见人物，身穿黑色蕾丝旗袍式连衣裙，双腿伸直，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "斜角",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面右侧，头部特写",
+                "action": "低头靠近女子的小腿",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴微张准备吸毒"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面左侧，腿部可见",
+                "action": "手放在膝盖附近",
+                "expression": "不可见"
+            }
+        ],
+        "background": "野外沙地，背景有绿色植物。",
+        "description_narrative": "镜头推进至周正的面部特写，他低头靠近女子的小腿伤口，神情严肃，准备进行急救。",
+        "dialogue": "别动，我把毒吸出来。",
+        "speaker": "周正",
+        "emotion": "专注",
+        "duration": 0.83,
+        "description_visual": "特写斜角镜头（推进）；野外沙地，背景有绿色植物。；画面右侧，头部特写人物，身穿白色衬衫内搭黑色背心，低头靠近女子的小腿，表情：眉毛紧锁，眼睛向下看，嘴巴微张准备吸毒；画面左侧，腿部可见人物，身穿黑色蕾丝旗袍式连衣裙，手放在膝盖附近，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面前景，背对镜头",
+                "action": "低头处理伤口",
+                "expression": "不可见"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面背景，坐在地上",
+                "action": "身体后仰，看着周正",
+                "expression": "眉毛微蹙，眼睛微闭，嘴巴紧闭"
+            }
+        ],
+        "background": "野外沙地，背景有绿色高草。",
+        "description_narrative": "过肩镜头，前景是周正低头的背影，背景中女子坐在地上，表情痛苦地微闭双眼，忍受着治疗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "近景过肩镜头；野外沙地，背景有绿色高草。；画面前景，背对镜头人物，身穿白色衬衫内搭黑色背心，低头处理伤口，表情：不可见；画面背景，坐在地上人物，身穿黑色蕾丝旗袍式连衣裙，身体后仰，看着周正，表情：眉毛微蹙，眼睛微闭，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面右侧，面部特写",
+                "action": "头部上下移动（吸毒动作）",
+                "expression": "眉毛紧皱，眼睛紧闭用力，嘴巴贴合皮肤"
+            }
+        ],
+        "background": "野外沙地，背景模糊。",
+        "description_narrative": "周正面部特写，他正低头在女子腿上进行吸毒动作，眉头紧锁，神情用力。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "特写侧拍镜头；野外沙地，背景模糊。；画面右侧，面部特写人物，身穿白色衬衫内搭黑色背心，头部上下移动（吸毒动作），表情：眉毛紧皱，眼睛紧闭用力，嘴巴贴合皮肤。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面前景",
+                "action": "抬头说话",
+                "expression": "眉毛舒展，眼睛看向女子，嘴巴开合"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面背景",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "野外沙地，背景有绿色植物。",
+        "description_narrative": "周正抬起头，看着女子，嘴巴开合说着安慰的话，神情稍显放松。",
+        "dialogue": "不会死，不会死的。",
+        "speaker": "周正",
+        "emotion": "安抚",
+        "duration": 1.23,
+        "description_visual": "近景侧拍镜头；野外沙地，背景有绿色植物。；画面前景人物，身穿白色衬衫内搭黑色背心，抬头说话，表情：眉毛舒展，眼睛看向女子，嘴巴开合；画面背景人物，身穿黑色蕾丝旗袍式连衣裙，坐着，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面中央",
+                "action": "微微点头",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "野外沙地，背景模糊。",
+        "description_narrative": "女子听到安慰后，微微点头回应，表情稍显缓和。",
+        "dialogue": "嗯",
+        "speaker": "女子",
+        "emotion": "安心",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；野外沙地，背景模糊。；画面中央人物，身穿黑色蕾丝旗袍式连衣裙，微微点头，表情：眉毛舒展，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心，黑色短裤",
+                "position": "画面左侧，坐在地上",
+                "action": "单手扶着后颈，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向女子，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面右侧，坐在地上",
+                "action": "双手抱着手臂，身体蜷缩",
+                "expression": "眉毛紧皱，眼睛看向下方，嘴巴微张"
+            }
+        ],
+        "background": "柳树下，地面铺满绿色柳枝和叶子，光线透过树叶斑驳。",
+        "description_narrative": "场景切换至柳树下，两人坐在铺满柳枝的地面上。周正单手扶着后颈，女子抱着手臂，两人似乎在休息。",
+        "dialogue": "现在感觉怎么样？我...我腿好麻啊。",
+        "speaker": "周正",
+        "emotion": "关切",
+        "duration": 5.07,
+        "description_visual": "全景平拍镜头；柳树下，地面铺满绿色柳枝和叶子，光线透过树叶斑驳。；画面左侧，坐在地上人物，身穿白色衬衫内搭黑色背心，黑色短裤，单手扶着后颈，身体微侧，表情：眉毛微蹙，眼睛看向女子，嘴巴微张；画面右侧，坐在地上人物，身穿黑色蕾丝旗袍式连衣裙，双手抱着手臂，身体蜷缩，表情：眉毛紧皱，眼睛看向下方，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面中央",
+                "action": "低头看着地面",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "柳树下，背景是密集的柳枝。",
+        "description_narrative": "周正坐在柳树下，低头看着地面，神情略显疲惫但平静。",
+        "dialogue": "没事，应该问题不大，好好休息。",
+        "speaker": "周正",
+        "emotion": "平静",
+        "duration": 3.07,
+        "description_visual": "近景平拍镜头；柳树下，背景是密集的柳枝。；画面中央人物，身穿白色衬衫内搭黑色背心，低头看着地面，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面右侧",
+                "action": "身体微侧，看着周正",
+                "expression": "眉毛紧蹙，眼睛直视周正，嘴巴微张"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面左侧，部分可见",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "柳树下，背景是密集的柳枝。",
+        "description_narrative": "女子侧身看着周正，眉头紧锁，眼神中带着怀疑和警惕，似乎在质问什么。",
+        "dialogue": "周正，你不会骗我吧？",
+        "speaker": "女子",
+        "emotion": "怀疑",
+        "duration": 3.93,
+        "description_visual": "中近景平拍镜头；柳树下，背景是密集的柳枝。；画面右侧人物，身穿黑色蕾丝旗袍式连衣裙，身体微侧，看着周正，表情：眉毛紧蹙，眼睛直视周正，嘴巴微张；画面左侧，部分可见人物，身穿白色衬衫内搭黑色背心，坐着，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面中央",
+                "action": "抬头看着女子",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张解释"
+            }
+        ],
+        "background": "柳树下，背景是模糊的柳枝。",
+        "description_narrative": "周正抬头看着女子，眉毛微挑，神情坦然地解释自己的身份，试图消除女子的疑虑。",
+        "dialogue": "我是猎人，怎么会骗你呢",
+        "speaker": "周正",
+        "emotion": "坦然",
+        "duration": 2.1,
+        "description_visual": "近景平拍镜头；柳树下，背景是模糊的柳枝。；画面中央人物，身穿白色衬衫内搭黑色背心，抬头看着女子，表情：眉毛微挑，眼睛直视，嘴巴微张解释。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面右侧",
+                "action": "身体微侧，看着周正",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "柳树下，背景是密集的柳枝。",
+        "description_narrative": "女子依然眉头紧锁，眼神斜视着周正，表情中带着明显的不信任和试探。",
+        "dialogue": "周正",
+        "speaker": "女子",
+        "emotion": "试探",
+        "duration": 2.03,
+        "description_visual": "中近景平拍镜头；柳树下，背景是密集的柳枝。；画面右侧人物，身穿黑色蕾丝旗袍式连衣裙，身体微侧，看着周正，表情：眉毛紧蹙，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面左侧",
+                "action": "转头看向别处",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "柳树下，背景是模糊的柳枝。",
+        "description_narrative": "周正转头看向侧方，似乎在回避女子的目光，表情略显无奈。",
+        "dialogue": "你不会想趁人之危吧",
+        "speaker": "女子",
+        "emotion": "戒备",
+        "duration": 1.07,
+        "description_visual": "近景平拍镜头；柳树下，背景是模糊的柳枝。；画面左侧人物，身穿白色衬衫内搭黑色背心，转头看向别处，表情：眉毛微蹙，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面左侧",
+                "action": "转头看向女子，手部比划",
+                "expression": "眉毛舒展，眼睛看着女子，嘴巴开合解释"
+            }
+        ],
+        "background": "柳树下，背景是模糊的柳枝。",
+        "description_narrative": "周正转头看向女子，手部做出比划动作，认真地解释自己的想法，神情坦荡。",
+        "dialogue": "你在想什么呢？我是觉得你的丝袜可以用来当鱼线啊。",
+        "speaker": "周正",
+        "emotion": "认真",
+        "duration": 5.33,
+        "description_visual": "近景平拍镜头；柳树下，背景是模糊的柳枝。；画面左侧人物，身穿白色衬衫内搭黑色背心，转头看向女子，手部比划，表情：眉毛舒展，眼睛看着女子，嘴巴开合解释。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面右侧",
+                "action": "低头看着自己的腿",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张惊讶"
+            }
+        ],
+        "background": "柳树下，背景是密集的柳枝。",
+        "description_narrative": "女子低头看着自己的腿，听到周正的解释后，眉毛微蹙，嘴巴微张，露出惊讶的表情。",
+        "dialogue": "啊，真的吗？",
+        "speaker": "女子",
+        "emotion": "惊讶",
+        "duration": 2.93,
+        "description_visual": "中近景平拍镜头；柳树下，背景是密集的柳枝。；画面右侧人物，身穿黑色蕾丝旗袍式连衣裙，低头看着自己的腿，表情：眉毛微蹙，眼睛下视，嘴巴微张惊讶。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面左侧",
+                "action": "看着女子，手部动作",
+                "expression": "眉毛微挑，眼睛注视，嘴巴开合讲解"
+            }
+        ],
+        "background": "柳树下，背景是模糊的柳枝。",
+        "description_narrative": "周正看着女子，继续讲解丝袜的特性，眉毛微挑，神情专注地分析材料强度。",
+        "dialogue": "丝袜容易被撕烂，但是被拽断好像没那么容易。",
+        "speaker": "周正",
+        "emotion": "分析",
+        "duration": 4.67,
+        "description_visual": "近景平拍镜头；柳树下，背景是模糊的柳枝。；画面左侧人物，身穿白色衬衫内搭黑色背心，看着女子，手部动作，表情：眉毛微挑，眼睛注视，嘴巴开合讲解。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心，黑色短裤",
+                "position": "画面左侧，坐在地上",
+                "action": "身体微侧，看着女子",
+                "expression": "眉毛微蹙，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面右侧，坐在地上",
+                "action": "双手放在膝盖上",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "柳树下，地面铺满柳枝。",
+        "description_narrative": "两人对坐，周正侧身看着女子，女子低头看着膝盖，似乎在思考周正的话。",
+        "dialogue": "好像确实是这样啊。",
+        "speaker": "女子",
+        "emotion": "思考",
+        "duration": 4.6,
+        "description_visual": "中景平拍镜头；柳树下，地面铺满柳枝。；画面左侧，坐在地上人物，身穿白色衬衫内搭黑色背心，黑色短裤，身体微侧，看着女子，表情：眉毛微蹙，眼睛看着女子，嘴巴微张；画面右侧，坐在地上人物，身穿黑色蕾丝旗袍式连衣裙，双手放在膝盖上，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面左侧",
+                "action": "手部比划缠绕动作",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴开合讲解"
+            }
+        ],
+        "background": "柳树下，背景是模糊的柳枝。",
+        "description_narrative": "周正手部做出缠绕的动作，详细解释如何将丝袜合在一起增加强度，神情投入。",
+        "dialogue": "要是将两条丝袜合在一起，并将它们缠绕，好像就更不容易那么拽断了。而且啊，拉伸效果还挺好。",
+        "speaker": "周正",
+        "emotion": "讲解",
+        "duration": 8.7,
+        "description_visual": "近景平拍镜头；柳树下，背景是模糊的柳枝。；画面左侧人物，身穿白色衬衫内搭黑色背心，手部比划缠绕动作，表情：眉毛微挑，眼睛注视前方，嘴巴开合讲解。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面右侧",
+                "action": "低头，双手放在腿上",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "柳树下，背景是密集的柳枝。",
+        "description_narrative": "女子低头看着自己的腿，表情缓和下来，似乎接受了周正的建议。",
+        "dialogue": "那好吧，那你用吧。",
+        "speaker": "女子",
+        "emotion": "妥协",
+        "duration": 3.37,
+        "description_visual": "中近景平拍镜头；柳树下，背景是密集的柳枝。；画面右侧人物，身穿黑色蕾丝旗袍式连衣裙，低头，双手放在腿上，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面左侧",
+                "action": "手指指向女子",
+                "expression": "眉毛微挑，眼睛看着女子，嘴巴微张"
+            }
+        ],
+        "background": "柳树下，背景是模糊的柳枝。",
+        "description_narrative": "周正手指指向女子，语气直接地要求她脱下丝袜，神情自然。",
+        "dialogue": "那你那你脱呀",
+        "speaker": "周正",
+        "emotion": "直接",
+        "duration": 1.47,
+        "description_visual": "近景平拍镜头；柳树下，背景是模糊的柳枝。；画面左侧人物，身穿白色衬衫内搭黑色背心，手指指向女子，表情：眉毛微挑，眼睛看着女子，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面右侧",
+                "action": "低头，双手放在腿上",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张痛苦"
+            }
+        ],
+        "background": "柳树下，背景是密集的柳枝。",
+        "description_narrative": "女子眉头紧锁，眼睛紧闭，表情痛苦地表示腿麻无法动弹，将难题抛回给周正。",
+        "dialogue": "啊，我腿麻了，动不了。",
+        "speaker": "女子",
+        "emotion": "痛苦/狡黠",
+        "duration": 3.57,
+        "description_visual": "中近景平拍镜头；柳树下，背景是密集的柳枝。；画面右侧人物，身穿黑色蕾丝旗袍式连衣裙，低头，双手放在腿上，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张痛苦。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心",
+                "position": "画面左侧",
+                "action": "看着女子，手部微动",
+                "expression": "眉毛微蹙，眼睛看着女子，嘴巴开合"
+            }
+        ],
+        "background": "柳树下，背景是模糊的柳枝。",
+        "description_narrative": "周正看着女子，听到她说腿麻后，略作迟疑，随即提出由他代劳。",
+        "dialogue": "那...那我代劳了。",
+        "speaker": "周正",
+        "emotion": "迟疑后决定",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；柳树下，背景是模糊的柳枝。；画面左侧人物，身穿白色衬衫内搭黑色背心，看着女子，手部微动，表情：眉毛微蹙，眼睛看着女子，嘴巴开合。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "未知",
+                "position": "画面左侧，手部可见",
+                "action": "双手正在拉扯女子腿上的丝袜",
+                "expression": "不可见"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色蕾丝旗袍式连衣裙",
+                "position": "画面中央，腿部可见",
+                "action": "腿伸直，丝袜被拉扯",
+                "expression": "不可见"
+            }
+        ],
+        "background": "地面铺满绿色柳枝和叶子。",
+        "description_narrative": "特写镜头，周正的双手正在女子的小腿上拉扯肉色丝袜，丝袜紧绷在皮肤上，周围是绿色的柳枝。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.97,
+        "description_visual": "特写俯拍镜头；地面铺满绿色柳枝和叶子。；画面左侧，手部可见人物，身穿未知，双手正在拉扯女子腿上的丝袜，表情：不可见；画面中央，腿部可见人物，身穿黑色蕾丝旗袍式连衣裙，腿伸直，丝袜被拉扯，表情：不可见。"
+    }
+]

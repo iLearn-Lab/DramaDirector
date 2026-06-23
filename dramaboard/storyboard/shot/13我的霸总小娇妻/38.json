@@ -1,0 +1,410 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯灰色背景，无具体场景细节",
+        "description_narrative": "画面为纯灰色背景，无可见人物或动作，作为转场或片头停留。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "远景平拍镜头；纯灰色背景，无具体场景细节。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "深棕色双排扣厨师服",
+                "position": "画面左侧前景",
+                "action": "双臂交叉抱在胸前，身体直立",
+                "expression": "眉毛微蹙，眼神向下看，嘴唇紧闭"
+            },
+            {
+                "name": "小叔",
+                "gender": "男",
+                "clothing": "浅蓝白细条纹衬衫，黑色西裤",
+                "position": "画面右侧背景",
+                "action": "从后方快步走入画面，身体前倾",
+                "expression": "眉头紧锁，嘴巴微张，神情焦急"
+            }
+        ],
+        "background": "室内办公或居家环境，可见红木色柜子和白色墙壁",
+        "description_narrative": "王林身穿深棕色厨师服双臂交叉站在前景，神情严肃。背景中小叔身穿条纹衬衫焦急地从后方走入，看向画面外侧。",
+        "dialogue": "爸。",
+        "speaker": "小叔",
+        "emotion": "焦急",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；室内办公或居家环境，可见红木色柜子和白色墙壁；画面左侧前景人物，身穿深棕色双排扣厨师服，双臂交叉抱在胸前，身体直立，表情：眉毛微蹙，眼神向下看，嘴唇紧闭；画面右侧背景人物，身穿浅蓝白细条纹衬衫，黑色西裤，从后方快步走入画面，身体前倾，表情：眉头紧锁，嘴巴微张，神情焦急。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙，佩戴银色项链",
+                "position": "画面中央",
+                "action": "端坐在米色沙发上，双手自然放在腿上",
+                "expression": "眉毛微挑，眼神关切地看向前方，嘴唇微抿"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式上衣",
+                "position": "画面左侧前景（模糊）",
+                "action": "仅露出部分侧脸和肩膀",
+                "expression": "不可见"
+            }
+        ],
+        "background": "米色花纹墙纸，深色雕花沙发靠背",
+        "description_narrative": "镜头越过爷爷的肩膀，聚焦在坐在沙发上的林妙。她身穿深灰色西装裙，神情担忧地注视着前方的爷爷。",
+        "dialogue": "你怎么来了？你怎么不好好养身体呢？",
+        "speaker": "林妙",
+        "emotion": "担忧",
+        "duration": 3.76,
+        "description_visual": "中近景过肩镜头；米色花纹墙纸，深色雕花沙发靠背；画面中央人物，身穿深灰色西装裙，佩戴银色项链，端坐在米色沙发上，双手自然放在腿上，表情：眉毛微挑，眼神关切地看向前方，嘴唇微抿；画面左侧前景（模糊）人物，身穿绿色中式上衣，仅露出部分侧脸和肩膀，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式盘扣上衣",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微侧，左手被他人轻拍肩膀",
+                "expression": "眉毛舒展，眼神温和，嘴角带着笑意说话"
+            }
+        ],
+        "background": "米色沙发靠背，深色木门背景",
+        "description_narrative": "爷爷身穿绿色中式上衣坐在沙发上，有人手搭在他肩上。他面带微笑，神态轻松地回应着家人的关心。",
+        "dialogue": "身体好得很，不用养了。",
+        "speaker": "爷爷",
+        "emotion": "轻松",
+        "duration": 2.88,
+        "description_visual": "近景平拍镜头；米色沙发靠背，深色木门背景；画面中央人物，身穿绿色中式盘扣上衣，坐在沙发上，身体微侧，左手被他人轻拍肩膀，表情：眉毛舒展，眼神温和，嘴角带着笑意说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小叔",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫，黑色西裤",
+                "position": "画面左侧",
+                "action": "坐在沙发扶手上，左手搭在爷爷肩膀上",
+                "expression": "侧头看着爷爷，嘴巴微张，神情关切"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式盘扣上衣",
+                "position": "画面右侧",
+                "action": "坐在沙发上，右手拿着文玩核桃",
+                "expression": "笑容满面，眼神慈祥"
+            }
+        ],
+        "background": "墙上挂着集体合影相框，大理石桌面",
+        "description_narrative": "小叔坐在沙发扶手上，手搭在爷爷肩头表示亲近。爷爷坐在旁边，手里盘着核桃，脸上洋溢着开心的笑容。",
+        "dialogue": "不用养了",
+        "speaker": "爷爷",
+        "emotion": "开心",
+        "duration": 2.56,
+        "description_visual": "中景平拍镜头；墙上挂着集体合影相框，大理石桌面；画面左侧人物，身穿蓝白细条纹衬衫，黑色西裤，坐在沙发扶手上，左手搭在爷爷肩膀上，表情：侧头看着爷爷，嘴巴微张，神情关切；画面右侧人物，身穿绿色中式盘扣上衣，坐在沙发上，右手拿着文玩核桃，表情：笑容满面，眼神慈祥。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式盘扣上衣",
+                "position": "画面中央",
+                "action": "坐着，头部微转，眼神看向左侧",
+                "expression": "眉毛微抬，眼神中带着询问，嘴唇微动"
+            }
+        ],
+        "background": "米色沙发，深色背景",
+        "description_narrative": "爷爷坐在沙发上，转头看向旁边的小叔，脸上带着疑惑的神情，似乎在询问对方突然来公司的原因。",
+        "dialogue": "你这突然来公司是有什么不放心吗？",
+        "speaker": "小叔",
+        "emotion": "疑惑",
+        "duration": 3.64,
+        "description_visual": "近景平拍镜头；米色沙发，深色背景；画面中央人物，身穿绿色中式盘扣上衣，坐着，头部微转，眼神看向左侧，表情：眉毛微抬，眼神中带着询问，嘴唇微动。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小叔",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面左侧",
+                "action": "身体前倾，看着爷爷",
+                "expression": "眉头微皱，嘴巴微张，神情认真"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式盘扣上衣",
+                "position": "画面右侧",
+                "action": "侧身看着小叔，手里拿着核桃",
+                "expression": "眼神专注，嘴角微抿"
+            }
+        ],
+        "background": "墙上挂着相框，茶几上有茶壶",
+        "description_narrative": "小叔身体前倾靠近爷爷，神情认真地询问。爷爷侧身看着他，手里拿着核桃，似乎在思考如何回答。",
+        "dialogue": "没有什么不放心，最不放心的是我家妙妙。",
+        "speaker": "爷爷",
+        "emotion": "关切",
+        "duration": 3.12,
+        "description_visual": "中景平拍镜头；墙上挂着相框，茶几上有茶壶；画面左侧人物，身穿蓝白细条纹衬衫，身体前倾，看着爷爷，表情：眉头微皱，嘴巴微张，神情认真；画面右侧人物，身穿绿色中式盘扣上衣，侧身看着小叔，手里拿着核桃，表情：眼神专注，嘴角微抿。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式盘扣上衣",
+                "position": "画面中央",
+                "action": "坐着，眼神看向前方",
+                "expression": "眉毛舒展，眼神温和，嘴角带着安抚的笑意"
+            }
+        ],
+        "background": "米色沙发，深色背景",
+        "description_narrative": "爷爷坐在沙发上，眼神温和地看着前方，嘴角带着笑意，似乎在安抚孙女不要担心。",
+        "dialogue": "爷爷不用担心我，我有王林在身边。",
+        "speaker": "林妙",
+        "emotion": "安抚",
+        "duration": 4.4,
+        "description_visual": "近景平拍镜头；米色沙发，深色背景；画面中央人物，身穿绿色中式盘扣上衣，坐着，眼神看向前方，表情：眉毛舒展，眼神温和，嘴角带着安抚的笑意。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小叔",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面中央",
+                "action": "侧身坐着，头部转向左侧",
+                "expression": "嘴巴微张，似乎正在说话或倾听",
+                "expression_detail": "侧脸轮廓清晰，眼神看向左方"
+            }
+        ],
+        "background": "浅色墙壁，部分相框边缘",
+        "description_narrative": "小叔侧身坐着，头部转向左侧，似乎正在对某人说话，神情自然。",
+        "dialogue": "王林啊，好照顾妙妙啊。",
+        "speaker": "爷爷",
+        "emotion": "嘱托",
+        "duration": 7.64,
+        "description_visual": "近景侧拍镜头；浅色墙壁，部分相框边缘；画面中央人物，身穿蓝白细条纹衬衫，侧身坐着，头部转向左侧，表情：嘴巴微张，似乎正在说话或倾听。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交叠放在腿上",
+                "expression": "嘴角微微上扬，眼神带着一丝无奈和笑意，头部微仰"
+            }
+        ],
+        "background": "米色沙发，花纹墙纸",
+        "description_narrative": "林妙坐在沙发上，听到话语后嘴角微微上扬，露出一丝无奈又好笑的表情，头部微微后仰。",
+        "dialogue": "老爷子你放心，我不会让林妙受欺负的。咱们家公司，谁敢欺负小公主啊。",
+        "speaker": "小叔",
+        "emotion": "调侃",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；米色沙发，花纹墙纸；画面中央人物，身穿深灰色西装裙，坐在沙发上，双手交叠放在腿上，表情：嘴角微微上扬，眼神带着一丝无奈和笑意，头部微仰。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小叔",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面左侧",
+                "action": "坐在沙发扶手上，身体微侧",
+                "expression": "嘴巴微张，正在说话，神情轻松"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式盘扣上衣",
+                "position": "画面右侧",
+                "action": "坐在沙发上，低头看着手中的核桃",
+                "expression": "嘴角含笑，眼神向下"
+            }
+        ],
+        "background": "墙上挂着相框，茶几上有茶壶",
+        "description_narrative": "小叔坐在沙发扶手上笑着说话，爷爷坐在旁边低头盘着核桃，脸上带着笑意，氛围轻松愉快。",
+        "dialogue": "小叔你也取笑我",
+        "speaker": "林妙",
+        "emotion": "嗔怪",
+        "duration": 1.44,
+        "description_visual": "中景平拍镜头；墙上挂着相框，茶几上有茶壶；画面左侧人物，身穿蓝白细条纹衬衫，坐在沙发扶手上，身体微侧，表情：嘴巴微张，正在说话，神情轻松；画面右侧人物，身穿绿色中式盘扣上衣，坐在沙发上，低头看着手中的核桃，表情：嘴角含笑，眼神向下。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式盘扣上衣",
+                "position": "画面中央",
+                "action": "坐着，左手搭在膝盖上，右手拿着核桃",
+                "expression": "眉毛微抬，眼神温和，嘴角带着笑意解释"
+            }
+        ],
+        "background": "米色沙发，深色背景",
+        "description_narrative": "爷爷坐在沙发上，手里拿着核桃，面带微笑地解释着，眼神中透着对孙女的宠溺。",
+        "dialogue": "小叔这是在夸你",
+        "speaker": "爷爷",
+        "emotion": "慈爱",
+        "duration": 2.76,
+        "description_visual": "近景平拍镜头；米色沙发，深色背景；画面中央人物，身穿绿色中式盘扣上衣，坐着，左手搭在膝盖上，右手拿着核桃，表情：眉毛微抬，眼神温和，嘴角带着笑意解释。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "深棕色双排扣厨师服",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，身体直立",
+                "expression": "眼神平静，嘴唇紧闭，神情严肃"
+            }
+        ],
+        "background": "室内环境，右侧有绿色植物",
+        "description_narrative": "王林身穿深棕色制服，双臂交叉站在室内，神情严肃冷静，似乎在思考或等待指令。",
+        "dialogue": "等会组织一个记者会吧",
+        "speaker": "爷爷",
+        "emotion": "果断",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；室内环境，右侧有绿色植物；画面中央人物，身穿深棕色双排扣厨师服，双臂交叉抱在胸前，身体直立，表情：眼神平静，嘴唇紧闭，神情严肃。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小叔",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面左侧",
+                "action": "身体前倾，右手伸出指向某处",
+                "expression": "眉头微皱，嘴巴微张，神情认真"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式盘扣上衣",
+                "position": "画面右侧",
+                "action": "坐在沙发上，手里拿着核桃",
+                "expression": "眼神坚定，嘴角微抿"
+            }
+        ],
+        "background": "墙上挂着相框，茶几上有茶壶",
+        "description_narrative": "小叔身体前倾，手指向前方，似乎在确认或强调什么。爷爷坐在旁边，神情坚定地表达自己要公开露面的决定。",
+        "dialogue": "我该在公众场合里面出现了",
+        "speaker": "爷爷",
+        "emotion": "坚定",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；墙上挂着相框，茶几上有茶壶；画面左侧人物，身穿蓝白细条纹衬衫，身体前倾，右手伸出指向某处，表情：眉头微皱，嘴巴微张，神情认真；画面右侧人物，身穿绿色中式盘扣上衣，坐在沙发上，手里拿着核桃，表情：眼神坚定，嘴角微抿。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "深灰色西装裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微前倾",
+                "expression": "眉毛舒展，眼神明亮，嘴角带着微笑说话"
+            }
+        ],
+        "background": "米色沙发，花纹墙纸",
+        "description_narrative": "林妙坐在沙发上，面带微笑，神情爽快地答应下来，准备去安排相关事宜。",
+        "dialogue": "我去安排",
+        "speaker": "林妙",
+        "emotion": "爽快",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；米色沙发，花纹墙纸；画面中央人物，身穿深灰色西装裙，坐在沙发上，身体微前倾，表情：眉毛舒展，眼神明亮，嘴角带着微笑说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "小叔",
+                "gender": "男",
+                "clothing": "浅色条纹衬衫（模糊）",
+                "position": "画面中央（局部）",
+                "action": "手臂挥动，身体移动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "镜头聚焦在小叔模糊的手臂和衣袖上，他一边起身一边说着要去安排家宴的事情，动作带有动态模糊。",
+        "dialogue": "那我去安排人做家宴",
+        "speaker": "小叔",
+        "emotion": "积极",
+        "duration": 3.4,
+        "description_visual": "特写平拍镜头（跟拍）；模糊的室内背景；画面中央（局部）人物，身穿浅色条纹衬衫（模糊），手臂挥动，身体移动，表情：不可见。"
+    }
+]

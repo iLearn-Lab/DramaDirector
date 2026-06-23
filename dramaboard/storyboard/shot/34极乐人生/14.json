@@ -1,0 +1,800 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲，蓝色条纹长裤",
+                "position": "画面左侧",
+                "action": "手持蓝色西装外套，身体微侧，准备坐下",
+                "expression": "眉毛自然，眼睛视线下移，嘴巴微闭"
+            },
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面左边缘",
+                "action": "手臂伸出，做出引导手势",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代风格客厅，米色沙发，橙色靠垫，水晶吊灯，光线明亮",
+        "description_narrative": "俯拍全景镜头，李小凡身穿蓝色条纹西装马甲站在沙发旁，手持外套，王雪在画面左侧边缘伸手示意他坐下，背景是明亮的客厅和水晶吊灯。",
+        "dialogue": "呐，你先坐着，我去给你倒杯水啊。",
+        "speaker": "王雪",
+        "emotion": "热情",
+        "duration": 7.67,
+        "description_visual": "全景俯拍镜头；现代风格客厅，米色沙发，橙色靠垫，水晶吊灯，光线明亮；画面左侧人物，身穿白色衬衫，蓝色条纹西装马甲，蓝色条纹长裤，手持蓝色西装外套，身体微侧，准备坐下，表情：眉毛自然，眼睛视线下移，嘴巴微闭；画面左边缘人物，身穿白色宽松衬衫，手臂伸出，做出引导手势，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "黑色高跟鞋",
+                "position": "画面中央",
+                "action": "双脚穿着黑色高跟鞋在桌腿旁走动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "光滑的地板，桌腿，光线柔和",
+        "description_narrative": "低角度特写镜头，聚焦于王雪穿着黑色高跟鞋的双脚在桌腿旁走动，地面反射出模糊的倒影。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.83,
+        "description_visual": "特写低角度镜头；光滑的地板，桌腿，光线柔和；画面中央人物，身穿黑色高跟鞋，双脚穿着黑色高跟鞋在桌腿旁走动，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "手持玻璃杯，头部后仰，嘴巴张大",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开呈惊讶状"
+            }
+        ],
+        "background": "浅色墙壁，天花板角落，光线均匀",
+        "description_narrative": "仰拍近景镜头，王雪手持玻璃杯，头部后仰，嘴巴张大做出惊讶或呼喊的表情，白色衬衫领口敞开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 0.8,
+        "description_visual": "近景仰拍镜头；浅色墙壁，天花板角落，光线均匀；画面中央人物，身穿白色宽松衬衫，黑色吊带，手持玻璃杯，头部后仰，嘴巴张大，表情：眉毛上扬，眼睛睁大，嘴巴张开呈惊讶状。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "站立，水泼洒在马甲上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的背景，聚焦于衣物",
+        "description_narrative": "特写镜头，水泼洒在李小凡的蓝色条纹西装马甲上，形成明显的水渍，白色衬衫领口清晰可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；模糊的背景，聚焦于衣物；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，站立，水泼洒在马甲上，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "手持空玻璃杯，身体前倾，表情歉意",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "浅色墙壁，橙色靠垫一角",
+        "description_narrative": "平拍近景镜头，王雪手持玻璃杯，身体前倾，面露歉意地看着下方，白色衬衫领口敞开露出黑色吊带。",
+        "dialogue": "啊，不好意思啊。",
+        "speaker": "王雪",
+        "emotion": "歉意",
+        "duration": 1.23,
+        "description_visual": "近景平拍镜头；浅色墙壁，橙色靠垫一角；画面中央人物，身穿白色宽松衬衫，黑色吊带，手持空玻璃杯，身体前倾，表情歉意，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "低头查看湿掉的马甲",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡低头查看被水泼湿的马甲，神情略显无奈，背景是模糊的墙面和画框。",
+        "dialogue": "你看我毛手毛脚的。",
+        "speaker": "王雪",
+        "emotion": "尴尬",
+        "duration": 1.17,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，低头查看湿掉的马甲，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面左侧",
+                "action": "侧脸看向下方，表情自责",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "浅色墙壁，蓝色衣物一角",
+        "description_narrative": "平拍近景镜头，王雪侧脸看向下方，眉头紧锁，表情自责，背景中可见李小凡的蓝色衣物。",
+        "dialogue": "泼你一身。",
+        "speaker": "王雪",
+        "emotion": "自责",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；浅色墙壁，蓝色衣物一角；画面左侧人物，身穿白色宽松衬衫，黑色吊带，侧脸看向下方，表情自责，表情：眉毛紧锁，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "低头，眼神向下",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡低头，眼神向下，神情平静，背景是模糊的墙面和画框。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 0.9,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，低头，眼神向下，表情：眉毛舒展，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面左侧",
+                "action": "侧脸看向下方，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "浅色墙壁，蓝色衣物一角",
+        "description_narrative": "平拍近景镜头，王雪侧脸看向下方，嘴唇微动似乎在说话，神情关注，背景中可见蓝色衣物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "关注",
+        "duration": 1.1,
+        "description_visual": "近景平拍镜头；浅色墙壁，蓝色衣物一角；画面左侧人物，身穿白色宽松衬衫，黑色吊带，侧脸看向下方，嘴唇微动，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面左侧",
+                "action": "侧脸看向对方，嘴巴微张",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "浅色墙壁，门框边缘",
+        "description_narrative": "平拍近景镜头，王雪侧脸看向对方，嘴巴微张似乎在安慰对方，神情轻松，背景是模糊的门框。",
+        "dialogue": "没事没事。",
+        "speaker": "王雪",
+        "emotion": "安慰",
+        "duration": 1.1,
+        "description_visual": "近景平拍镜头；浅色墙壁，门框边缘；画面左侧人物，身穿白色宽松衬衫，黑色吊带，侧脸看向对方，嘴巴微张，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "低头，手部动作模糊",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡低头，手部有轻微动作，神情专注，背景是模糊的墙面和画框。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.7,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，低头，手部动作模糊，表情：眉毛微蹙，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面中央",
+                "action": "手部靠近胸前，动作模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的白色衬衫布料",
+        "description_narrative": "特写镜头，聚焦于王雪的白色衬衫领口和颈部，手部动作模糊，似乎在进行肢体接触。",
+        "dialogue": "李小凡",
+        "speaker": "王雪",
+        "emotion": "诱惑",
+        "duration": 0.87,
+        "description_visual": "特写平拍镜头；模糊的白色衬衫布料；画面中央人物，身穿白色宽松衬衫，手部靠近胸前，动作模糊，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "侧头看向下方，神情复杂",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡侧头看向下方，神情复杂，似乎在思考或感受，背景是模糊的墙面。",
+        "dialogue": "李小凡姐姐的胸舒服吗",
+        "speaker": "王雪",
+        "emotion": "挑逗",
+        "duration": 2.43,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，侧头看向下方，神情复杂，表情：眉毛微蹙，眼睛侧视，嘴巴微闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "双手放在胸前，表情惊讶兴奋",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "浅色墙壁，蓝色衣物一角",
+        "description_narrative": "平拍近景镜头，王雪双手放在胸前，表情惊讶且兴奋，嘴巴张开，白色衬衫领口敞开。",
+        "dialogue": "姐姐的胸舒服吗",
+        "speaker": "王雪",
+        "emotion": "兴奋",
+        "duration": 1.17,
+        "description_visual": "近景平拍镜头；浅色墙壁，蓝色衣物一角；画面中央人物，身穿白色宽松衬衫，黑色吊带，双手放在胸前，表情惊讶兴奋，表情：眉毛上扬，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "低头，眼神向下",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡低头，眼神向下，神情略显被动，背景是模糊的墙面和画框。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "被动",
+        "duration": 1.83,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，低头，眼神向下，表情：眉毛舒展，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "手抚摸头发，侧脸微笑",
+                "expression": "眉毛舒展，眼睛侧视，嘴角上扬"
+            }
+        ],
+        "background": "浅色墙壁，蓝色衣物一角",
+        "description_narrative": "平拍近景镜头，王雪手抚摸头发，侧脸微笑，神情妩媚，背景中可见蓝色衣物。",
+        "dialogue": "姐，这样不好吧。",
+        "speaker": "李小凡",
+        "emotion": "犹豫",
+        "duration": 1.5,
+        "description_visual": "近景平拍镜头；浅色墙壁，蓝色衣物一角；画面中央人物，身穿白色宽松衬衫，黑色吊带，手抚摸头发，侧脸微笑，表情：眉毛舒展，眼睛侧视，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "侧头看向旁边，神情疑惑",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡侧头看向旁边，神情疑惑，似乎在回应对方，背景是模糊的墙面。",
+        "dialogue": "哎，有什么不好的呀？",
+        "speaker": "王雪",
+        "emotion": "不以为然",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，侧头看向旁边，神情疑惑，表情：眉毛微蹙，眼睛侧视，嘴巴微闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "闭眼说话，头部微侧",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，王雪闭眼说话，头部微侧，神情陶醉，白色衬衫领口敞开。",
+        "dialogue": "姐姐不都已经说了吗",
+        "speaker": "王雪",
+        "emotion": "自信",
+        "duration": 1.1,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色宽松衬衫，黑色吊带，闭眼说话，头部微侧，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "侧头看向旁边，神情专注",
+                "expression": "眉毛舒展，眼睛侧视，嘴巴微闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡侧头看向旁边，神情专注，似乎在倾听，背景是模糊的墙面。",
+        "dialogue": "今天晚上",
+        "speaker": "王雪",
+        "emotion": "期待",
+        "duration": 1.7,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，侧头看向旁边，神情专注，表情：眉毛舒展，眼睛侧视，嘴巴微闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "低头说话，表情认真",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "浅色墙壁",
+        "description_narrative": "平拍近景镜头，王雪低头说话，表情认真，白色衬衫领口敞开露出黑色吊带。",
+        "dialogue": "我就是你的人了。",
+        "speaker": "王雪",
+        "emotion": "承诺",
+        "duration": 1.67,
+        "description_visual": "近景平拍镜头；浅色墙壁；画面中央人物，身穿白色宽松衬衫，黑色吊带，低头说话，表情认真，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "低头，眼神向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡低头，眼神向下，神情略显紧张，背景是模糊的墙面。",
+        "dialogue": "你想对我做什么都可以",
+        "speaker": "王雪",
+        "emotion": "诱惑",
+        "duration": 2.57,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，低头，眼神向下，表情：眉毛微蹙，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "侧脸微笑，说话",
+                "expression": "眉毛舒展，眼睛侧视，嘴巴张开"
+            }
+        ],
+        "background": "浅色墙壁",
+        "description_narrative": "平拍近景镜头，王雪侧脸微笑，嘴巴张开说话，神情轻松愉快，白色衬衫领口敞开。",
+        "dialogue": "都可以。",
+        "speaker": "王雪",
+        "emotion": "轻松",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；浅色墙壁；画面中央人物，身穿白色宽松衬衫，黑色吊带，侧脸微笑，说话，表情：眉毛舒展，眼睛侧视，嘴巴张开。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "侧头看向旁边，神情疑惑",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡侧头看向旁边，神情疑惑，似乎在犹豫，背景是模糊的墙面。",
+        "dialogue": "哎呀，没有什么可是啦，你先去洗澡",
+        "speaker": "王雪",
+        "emotion": "催促",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，侧头看向旁边，神情疑惑，表情：眉毛微蹙，眼睛侧视，嘴巴微闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "侧头微笑，眼神诱惑",
+                "expression": "眉毛舒展，眼睛侧视，嘴角上扬"
+            }
+        ],
+        "background": "浅色墙壁",
+        "description_narrative": "平拍近景镜头，王雪侧头微笑，眼神诱惑，白色衬衫领口敞开，神情妩媚。",
+        "dialogue": "待会姐姐",
+        "speaker": "王雪",
+        "emotion": "诱惑",
+        "duration": 2.23,
+        "description_visual": "近景平拍镜头；浅色墙壁；画面中央人物，身穿白色宽松衬衫，黑色吊带，侧头微笑，眼神诱惑，表情：眉毛舒展，眼睛侧视，嘴角上扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色条纹西装马甲",
+                "position": "画面中央",
+                "action": "闭眼，头部微低",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微闭"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，李小凡闭眼，头部微低，神情似乎已经接受，背景是模糊的墙面。",
+        "dialogue": "让你好好舒服舒服",
+        "speaker": "王雪",
+        "emotion": "诱惑",
+        "duration": 3.03,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面中央人物，身穿白色衬衫，蓝色条纹西装马甲，闭眼，头部微低，表情：眉毛舒展，眼睛闭合，嘴巴微闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面左侧",
+                "action": "侧脸微笑，头部微转",
+                "expression": "眉毛舒展，眼睛侧视，嘴角上扬"
+            }
+        ],
+        "background": "浅色墙壁，画框边缘",
+        "description_narrative": "平拍近景镜头，王雪侧脸微笑，头部微转，神情满意，背景是模糊的墙面。",
+        "dialogue": "去吧，嗯。",
+        "speaker": "李小凡",
+        "emotion": "顺从",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；浅色墙壁，画框边缘；画面左侧人物，身穿白色宽松衬衫，黑色吊带，侧脸微笑，头部微转，表情：眉毛舒展，眼睛侧视，嘴角上扬。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "蓝色条纹西装外套",
+                "position": "画面中央",
+                "action": "外套被放置在沙发上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的沙发背景",
+        "description_narrative": "特写镜头，李小凡的蓝色条纹西装外套被放置在沙发上，布料纹理清晰可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.9,
+        "description_visual": "特写平拍镜头；模糊的沙发背景；画面中央人物，身穿蓝色条纹西装外套，外套被放置在沙发上，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "手部特写",
+                "position": "画面中央",
+                "action": "手持手机，屏幕显示来电",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的沙发背景",
+        "description_narrative": "俯拍特写镜头，王雪手持手机，屏幕显示来电人“树萌萌”，手指准备接听。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.6,
+        "description_visual": "特写俯拍镜头；模糊的沙发背景；画面中央人物，身穿手部特写，手持手机，屏幕显示来电，表情：不可见。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "手持手机贴在耳边，闭眼说话",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "浅色墙壁，橙色靠垫一角",
+        "description_narrative": "仰拍近景镜头，王雪手持手机贴在耳边，闭眼说话，神情自然，白色衬衫领口敞开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "自然",
+        "duration": 2.9,
+        "description_visual": "近景仰拍镜头；浅色墙壁，橙色靠垫一角；画面中央人物，身穿白色宽松衬衫，黑色吊带，手持手机贴在耳边，闭眼说话，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，黑色吊带",
+                "position": "画面中央",
+                "action": "侧脸对着镜头，似乎在打电话",
+                "expression": "眉毛舒展，眼睛侧视，嘴巴微动"
+            }
+        ],
+        "background": "昏暗的室内环境",
+        "description_narrative": "平拍近景镜头，王雪侧脸对着镜头，光线较暗，似乎在打电话，神情专注。",
+        "dialogue": "喂，你是谁啊？李小凡呢？他在上钟呢，今天有点忙他在加班，明天早上才能回家。",
+        "speaker": "王雪",
+        "emotion": "撒谎",
+        "duration": 13.53,
+        "description_visual": "近景平拍镜头；昏暗的室内环境；画面中央人物，身穿白色宽松衬衫，黑色吊带，侧脸对着镜头，似乎在打电话，表情：眉毛舒展，眼睛侧视，嘴巴微动。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面右侧",
+                "action": "侧影，光线昏暗",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗的室内环境",
+        "description_narrative": "平拍中景镜头，王雪的侧影在昏暗的光线下，轮廓模糊，营造出神秘氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.63,
+        "description_visual": "中景平拍镜头；昏暗的室内环境；画面右侧人物，身穿白色宽松衬衫，侧影，光线昏暗，表情：不可见。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫（解开扣子）",
+                "position": "画面左侧",
+                "action": "看向对面的王雪，表情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "黑色吊带",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "浴室环境，白色瓷砖，热水器",
+        "description_narrative": "过肩中近景镜头，李小凡身穿解开扣子的白衬衫站在浴室里，看向对面的王雪，表情惊讶，背景是白色瓷砖和热水器。",
+        "dialogue": "你要干嘛？",
+        "speaker": "李小凡",
+        "emotion": "惊讶",
+        "duration": 1.63,
+        "description_visual": "中近景过肩镜头；浴室环境，白色瓷砖，热水器；画面左侧人物，身穿白色衬衫（解开扣子），看向对面的王雪，表情惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张；画面右侧前景人物，身穿黑色吊带，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "黑色吊带，银色亮片短裙",
+                "position": "画面中央",
+                "action": "闭眼微笑，神情享受",
+                "expression": "眉毛舒展，眼睛闭合，嘴角上扬"
+            }
+        ],
+        "background": "浴室环境，白色瓷砖",
+        "description_narrative": "平拍近景镜头，王雪身穿黑色吊带和银色亮片短裙，闭眼微笑，神情享受，背景是白色瓷砖。",
+        "dialogue": "当然是陪你洗澡了。",
+        "speaker": "王雪",
+        "emotion": "诱惑",
+        "duration": 3.27,
+        "description_visual": "近景平拍镜头；浴室环境，白色瓷砖；画面中央人物，身穿黑色吊带，银色亮片短裙，闭眼微笑，神情享受，表情：眉毛舒展，眼睛闭合，嘴角上扬。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王雪",
+                "gender": "女",
+                "clothing": "黑色吊带",
+                "position": "画面中央",
+                "action": "侧身回头，微笑",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬"
+            }
+        ],
+        "background": "昏暗的浴室环境",
+        "description_narrative": "平拍中景镜头，王雪侧身回头，面带微笑，光线昏暗，营造出暧昧氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "诱惑",
+        "duration": 3.07,
+        "description_visual": "中景平拍镜头；昏暗的浴室环境；画面中央人物，身穿黑色吊带，侧身回头，微笑，表情：眉毛舒展，眼睛注视，嘴角上扬。"
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白/灰色背景，无具体场景细节。",
+        "description_narrative": "画面为纯白或浅灰色背景，无具体人物或场景，作为片段的起始或过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；纯白/灰色背景，无具体场景细节。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫、黑色长裤",
+                "position": "画面中央偏左",
+                "action": "双手插兜站立，低头看向地面",
+                "expression": "眉毛微蹙，眼神冷峻，嘴巴紧闭"
+            },
+            {
+                "name": "棕色套装女子",
+                "gender": "女",
+                "clothing": "棕色无袖西装套装",
+                "position": "画面右侧",
+                "action": "站立，身体微侧，看向许松",
+                "expression": "眉头紧锁，眼神厌恶，嘴角下撇"
+            },
+            {
+                "name": "许松",
+                "gender": "男",
+                "clothing": "白色T恤、黑色长裤",
+                "position": "画面左下角",
+                "action": "瘫坐在地，靠墙低头",
+                "expression": "头部低垂，无法看清面部表情"
+            }
+        ],
+        "background": "现代豪宅客厅，大理石墙面，光线明亮。",
+        "description_narrative": "在现代豪宅客厅内，许松战败瘫坐在地。白衬衫男子双手插兜站立，神情冷峻。棕色套装女子站在一旁，面露厌恶地提议将许松关起来。",
+        "dialogue": "把它关在林家别墅吧，没准还有用。",
+        "speaker": "棕色套装女子",
+        "emotion": "厌恶",
+        "duration": 5.2,
+        "description_visual": "全景平拍镜头；现代豪宅客厅，大理石墙面，光线明亮。；画面中央偏左人物，身穿白色立领衬衫、黑色长裤，双手插兜站立，低头看向地面，表情：眉毛微蹙，眼神冷峻，嘴巴紧闭；画面右侧人物，身穿棕色无袖西装套装，站立，身体微侧，看向许松，表情：眉头紧锁，眼神厌恶，嘴角下撇；画面左下角人物，身穿白色T恤、黑色长裤，瘫坐在地，靠墙低头，表情：头部低垂，无法看清面部表情。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色套装女子",
+                "gender": "女",
+                "clothing": "棕色无袖西装套装",
+                "position": "画面中央",
+                "action": "头部微转，视线避开",
+                "expression": "眉毛紧皱，眼神躲闪，嘴唇微抿"
+            }
+        ],
+        "background": "虚化的室内背景，暖色调光线。",
+        "description_narrative": "镜头推进至棕色套装女子面部特写。她眉头紧锁，眼神中流露出明显的不耐烦和厌恶，表示不想再看见许松。",
+        "dialogue": "我不想看见他。",
+        "speaker": "棕色套装女子",
+        "emotion": "厌恶",
+        "duration": 3.68,
+        "description_visual": "特写平拍镜头；虚化的室内背景，暖色调光线。；画面中央人物，身穿棕色无袖西装套装，头部微转，视线避开，表情：眉毛紧皱，眼神躲闪，嘴唇微抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面左侧",
+                "action": "侧身站立，目视前方",
+                "expression": "眉毛舒展，眼神平静，嘴巴微张说话"
+            }
+        ],
+        "background": "室内走廊或门框边缘，背景虚化。",
+        "description_narrative": "侧拍白衬衫男子近景。他神情冷静，目光深邃，指出许松只是被利用的棋子，幕后还有主谋。",
+        "dialogue": "他只是被人利用了，后面还有人没出来。",
+        "speaker": "白衬衫男子",
+        "emotion": "冷静",
+        "duration": 5.72,
+        "description_visual": "近景侧拍镜头；室内走廊或门框边缘，背景虚化。；画面左侧人物，身穿白色立领衬衫，侧身站立，目视前方，表情：眉毛舒展，眼神平静，嘴巴微张说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕色套装女子",
+                "gender": "女",
+                "clothing": "棕色无袖西装套装",
+                "position": "画面中央",
+                "action": "闭眼片刻后睁开，点头",
+                "expression": "眉毛微松，眼神无奈，嘴巴轻启"
+            }
+        ],
+        "background": "虚化的室内背景，暖色调光线。",
+        "description_narrative": "棕色套装女子特写。她短暂闭眼表示妥协，随后睁开眼，同意联系他人将许松关押到别处。",
+        "dialogue": "知道了，我联系人把他关在其它地方。",
+        "speaker": "棕色套装女子",
+        "emotion": "无奈",
+        "duration": 6.48,
+        "description_visual": "特写平拍镜头；虚化的室内背景，暖色调光线。；画面中央人物，身穿棕色无袖西装套装，闭眼片刻后睁开，点头，表情：眉毛微松，眼神无奈，嘴巴轻启。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫、黑色长裤",
+                "position": "画面左侧",
+                "action": "站立，双手插兜",
+                "expression": "表情平淡，注视对方"
+            },
+            {
+                "name": "棕色套装女子",
+                "gender": "女",
+                "clothing": "棕色无袖西装套装",
+                "position": "画面右侧",
+                "action": "站立，面对男子",
+                "expression": "表情严肃，注视男子"
+            }
+        ],
+        "background": "室内走廊，深色门框，地面光洁。",
+        "description_narrative": "中景镜头展示白衬衫男子与棕色套装女子在走廊对峙交谈，气氛凝重，许松仍在背景中瘫坐。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.72,
+        "description_visual": "中景平拍镜头；室内走廊，深色门框，地面光洁。；画面左侧人物，身穿白色立领衬衫、黑色长裤，站立，双手插兜，表情：表情平淡，注视对方；画面右侧人物，身穿棕色无袖西装套装，站立，面对男子，表情：表情严肃，注视男子。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "低头，身体前倾",
+                "expression": "眼神专注向下，嘴巴紧闭"
+            }
+        ],
+        "background": "室内地面或低处，背景模糊。",
+        "description_narrative": "镜头跟随白衬衫男子动作，他低头看向地面，身体前倾，准备从许松身上拿走某物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "近景俯拍镜头（推进）；室内地面或低处，背景模糊。；画面中央人物，身穿白色立领衬衫，低头，身体前倾，表情：眼神专注向下，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面上方",
+                "action": "手部动作模糊，向下伸展",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的地面或衣物纹理。",
+        "description_narrative": "快速模糊的特写镜头，显示白衬衫男子的手部迅速向下动作，从许松身上取走手机。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "特写俯拍镜头（跟拍）；模糊的地面或衣物纹理。；画面上方人物，身穿白色立领衬衫，手部动作模糊，向下伸展，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "弯腰，手臂伸展",
+                "expression": "眼神专注，嘴巴紧闭"
+            }
+        ],
+        "background": "室内墙角，光线柔和。",
+        "description_narrative": "侧面近景，白衬衫男子弯腰，手臂伸向地面上的许松，动作果断。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "近景侧拍镜头（跟拍）；室内墙角，光线柔和。；画面中央人物，身穿白色立领衬衫，弯腰，手臂伸展，表情：眼神专注，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "手部抓取物体，身体微抬",
+                "expression": "眼神专注，面部轮廓清晰"
+            }
+        ],
+        "background": "室内环境，背景虚化。",
+        "description_narrative": "白衬衫男子成功从许松处拿到手机，身体开始直起，动作流畅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "近景侧拍镜头（跟拍）；室内环境，背景虚化。；画面中央人物，身穿白色立领衬衫，手部抓取物体，身体微抬，表情：眼神专注，面部轮廓清晰。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "拉远",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫、黑色长裤",
+                "position": "画面中央",
+                "action": "站直身体，手持手机",
+                "expression": "表情冷峻，注视手机"
+            },
+            {
+                "name": "棕色套装女子",
+                "gender": "女",
+                "clothing": "棕色无袖西装套装",
+                "position": "画面右侧",
+                "action": "站立观看",
+                "expression": "神情关注"
+            },
+            {
+                "name": "许松",
+                "gender": "男",
+                "clothing": "白色T恤",
+                "position": "画面左下角",
+                "action": "保持瘫坐姿势",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代豪宅客厅，大理石墙面。",
+        "description_narrative": "镜头拉远至中景，白衬衫男子站直身体，手中拿着手机，准备接听或拨打电话，女子在一旁注视。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "中景平拍镜头（拉远）；现代豪宅客厅，大理石墙面。；画面中央人物，身穿白色立领衬衫、黑色长裤，站直身体，手持手机，表情：表情冷峻，注视手机；画面右侧人物，身穿棕色无袖西装套装，站立观看，表情：神情关注；画面左下角人物，身穿白色T恤，保持瘫坐姿势，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周公子",
+                "gender": "男",
+                "clothing": "白色衬衫、蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "坐在沙发上，手持手机贴耳",
+                "expression": "眉毛微挑，眼神得意，嘴角微扬"
+            }
+        ],
+        "background": "客厅沙发区，窗帘紧闭，光线较暗。",
+        "description_narrative": "场景切换至周公子，他坐在沙发上打电话，语气得意，以为计划成功，对电话那头说“你真的做到了”。",
+        "dialogue": "你真的做到了。",
+        "speaker": "周公子",
+        "emotion": "得意",
+        "duration": 6.32,
+        "description_visual": "中景侧拍镜头；客厅沙发区，窗帘紧闭，光线较暗。；画面中央人物，身穿白色衬衫、蓝色牛仔裤，坐在沙发上，手持手机贴耳，表情：眉毛微挑，眼神得意，嘴角微扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周公子",
+                "gender": "男",
+                "clothing": "白色衬衫、蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "继续通话，身体放松",
+                "expression": "笑容扩大，眼神自信"
+            }
+        ],
+        "background": "客厅沙发区，窗帘紧闭，光线较暗。",
+        "description_narrative": "周公子继续在电话中炫耀，大笑称林妙没来公司，公司即将易主，并疑惑对方为何不说话。",
+        "dialogue": "林妙没有来公司，公司可以易主了。哈哈。你怎么不说话？",
+        "speaker": "周公子",
+        "emotion": "狂喜",
+        "duration": 6.56,
+        "description_visual": "中景侧拍镜头；客厅沙发区，窗帘紧闭，光线较暗。；画面中央人物，身穿白色衬衫、蓝色牛仔裤，继续通话，身体放松，表情：笑容扩大，眼神自信。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫、黑色长裤",
+                "position": "画面中央",
+                "action": "手持手机靠近嘴边",
+                "expression": "表情冷漠，眼神锐利"
+            },
+            {
+                "name": "棕色套装女子",
+                "gender": "女",
+                "clothing": "棕色无袖西装套装",
+                "position": "画面右侧",
+                "action": "站立旁观",
+                "expression": "神情平静"
+            },
+            {
+                "name": "许松",
+                "gender": "男",
+                "clothing": "白色T恤",
+                "position": "画面左下角",
+                "action": "瘫坐在地",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代豪宅客厅，大理石墙面。",
+        "description_narrative": "切回豪宅场景，白衬衫男子对着手机冷冷地打招呼，揭穿对方身份，称呼其为“周公子”。",
+        "dialogue": "你好啊，周公子。",
+        "speaker": "白衬衫男子",
+        "emotion": "嘲讽",
+        "duration": 3.08,
+        "description_visual": "全景平拍镜头；现代豪宅客厅，大理石墙面。；画面中央人物，身穿白色立领衬衫、黑色长裤，手持手机靠近嘴边，表情：表情冷漠，眼神锐利；画面右侧人物，身穿棕色无袖西装套装，站立旁观，表情：神情平静；画面左下角人物，身穿白色T恤，瘫坐在地，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周公子",
+                "gender": "男",
+                "clothing": "白色衬衫、蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "身体微僵，手持手机",
+                "expression": "眉毛紧皱，眼神惊疑，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区，窗帘紧闭，光线较暗。",
+        "description_narrative": "周公子听到陌生声音，表情瞬间转为震惊和疑惑，急切询问对方身份及许松的下落。",
+        "dialogue": "你是谁？许松呢？",
+        "speaker": "周公子",
+        "emotion": "震惊",
+        "duration": 3.16,
+        "description_visual": "中景侧拍镜头；客厅沙发区，窗帘紧闭，光线较暗。；画面中央人物，身穿白色衬衫、蓝色牛仔裤，身体微僵，手持手机，表情：眉毛紧皱，眼神惊疑，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "低头看手机屏幕",
+                "expression": "眼神冰冷，嘴角微动"
+            }
+        ],
+        "background": "室内走廊，深色门框。",
+        "description_narrative": "白衬衫男子看着手机屏幕，平静地告知对方许松已昏迷，宣告他们的计划彻底破产。",
+        "dialogue": "昏迷了，你们的计划破产了。",
+        "speaker": "白衬衫男子",
+        "emotion": "冷酷",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；室内走廊，深色门框。；画面中央人物，身穿白色立领衬衫，低头看手机屏幕，表情：眼神冰冷，嘴角微动。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周公子",
+                "gender": "男",
+                "clothing": "白色衬衫、蓝色牛仔裤",
+                "position": "画面中央",
+                "action": "身体前倾，情绪激动",
+                "expression": "眉毛倒竖，眼神愤怒，咬牙切齿"
+            }
+        ],
+        "background": "客厅沙发区，窗帘紧闭，光线较暗。",
+        "description_narrative": "周公子得知计划失败，恼羞成怒，对着电话放狠话，威胁要走着瞧。",
+        "dialogue": "算你狠，不过你能奈我何？我们走着瞧。",
+        "speaker": "周公子",
+        "emotion": "愤怒",
+        "duration": 5.92,
+        "description_visual": "中景侧拍镜头；客厅沙发区，窗帘紧闭，光线较暗。；画面中央人物，身穿白色衬衫、蓝色牛仔裤，身体前倾，情绪激动，表情：眉毛倒竖，眼神愤怒，咬牙切齿。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫、黑色长裤",
+                "position": "画面中央",
+                "action": "放下手机，站立",
+                "expression": "表情恢复平静"
+            },
+            {
+                "name": "棕色套装女子",
+                "gender": "女",
+                "clothing": "棕色无袖西装套装",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "注视男子"
+            },
+            {
+                "name": "许松",
+                "gender": "男",
+                "clothing": "白色T恤",
+                "position": "画面左下角",
+                "action": "瘫坐在地",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代豪宅客厅，大理石墙面。",
+        "description_narrative": "通话结束，白衬衫男子放下手机，现场恢复安静，只有许松依旧瘫坐在地，局势已定。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.4,
+        "description_visual": "全景平拍镜头；现代豪宅客厅，大理石墙面。；画面中央人物，身穿白色立领衬衫、黑色长裤，放下手机，站立，表情：表情恢复平静；画面右侧人物，身穿棕色无袖西装套装，站立，表情：注视男子；画面左下角人物，身穿白色T恤，瘫坐在地，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "渐隐",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫、黑色长裤",
+                "position": "画面中央",
+                "action": "身影逐渐变暗",
+                "expression": "不可见"
+            },
+            {
+                "name": "棕色套装女子",
+                "gender": "女",
+                "clothing": "棕色无袖西装套装",
+                "position": "画面右侧",
+                "action": "身影逐渐变暗",
+                "expression": "不可见"
+            }
+        ],
+        "background": "光线迅速变暗，场景隐入黑暗。",
+        "description_narrative": "画面光线迅速变暗，人物轮廓逐渐模糊，场景过渡至全黑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.68,
+        "description_visual": "全景平拍镜头（渐隐）；光线迅速变暗，场景隐入黑暗。；画面中央人物，身穿白色立领衬衫、黑色长裤，身影逐渐变暗，表情：不可见；画面右侧人物，身穿棕色无袖西装套装，身影逐渐变暗，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑屏幕。",
+        "description_narrative": "画面完全变黑，片段结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "全景平拍镜头；全黑屏幕。。"
+    }
+]

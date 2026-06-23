@@ -1,0 +1,988 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝袖口",
+                "position": "画面左侧",
+                "action": "手持红色结婚证，手指轻抚封面",
+                "expression": "无面部可见"
+            }
+        ],
+        "background": "车内中控台，屏幕显示导航界面，光线柔和",
+        "description_narrative": "特写镜头俯拍车内，严太太的手持着一本红色的结婚证，背景是模糊的汽车中控屏幕，手指轻轻捏住证书边缘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.33,
+        "description_visual": "特写俯拍镜头；车内中控台，屏幕显示导航界面，光线柔和；画面左侧人物，身穿白色蕾丝袖口，手持红色结婚证，手指轻抚封面，表情：无面部可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装三件套，黑色衬衫，暗红领带",
+                "position": "画面中央",
+                "action": "低头看向下方，嘴唇微张",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张似在说话"
+            }
+        ],
+        "background": "车内驾驶座，红色皮质座椅头枕可见，窗外绿树模糊",
+        "description_narrative": "中近景平拍，严先生身穿白色西装坐在驾驶座，低头看着手中物品，嘴唇微动，神情专注。",
+        "dialogue": "不错嘛",
+        "speaker": "严先生",
+        "emotion": "满意",
+        "duration": 1.23,
+        "description_visual": "中近景平拍镜头；车内驾驶座，红色皮质座椅头枕可见，窗外绿树模糊；画面中央人物，身穿白色西装三件套，黑色衬衫，暗红领带，低头看向下方，嘴唇微张，表情：眉毛舒展，眼睛下视，嘴巴微张似在说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装袖口",
+                "position": "画面左上方",
+                "action": "手持一本结婚证",
+                "expression": "无面部可见"
+            },
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝袖口",
+                "position": "画面右下方",
+                "action": "手持另一本结婚证",
+                "expression": "无面部可见"
+            }
+        ],
+        "background": "车内中控台区域，黑色内饰",
+        "description_narrative": "特写镜头展示两双手各持一本结婚证，证书封面金色国徽清晰，两人手指靠近，展示新婚状态。",
+        "dialogue": "严太太",
+        "speaker": "严先生",
+        "emotion": "调侃",
+        "duration": 0.57,
+        "description_visual": "特写俯拍镜头；车内中控台区域，黑色内饰；画面左上方人物，身穿白色西装袖口，手持一本结婚证，表情：无面部可见；画面右下方人物，身穿白色蕾丝袖口，手持另一本结婚证，表情：无面部可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装，黑色衬衫，暗红领带",
+                "position": "画面左侧",
+                "action": "侧头看向右侧，嘴角微扬",
+                "expression": "眉毛微挑，眼睛注视侧方，嘴巴张开说话"
+            }
+        ],
+        "background": "车内驾驶座，红色座椅，窗外自然光",
+        "description_narrative": "中近景平拍，严先生侧头看向副驾驶方向，面带笑意，正在对旁边的人说话，神态轻松。",
+        "dialogue": "这样看你还挺上镜的",
+        "speaker": "严先生",
+        "emotion": "赞赏",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；车内驾驶座，红色座椅，窗外自然光；画面左侧人物，身穿白色西装，黑色衬衫，暗红领带，侧头看向右侧，嘴角微扬，表情：眉毛微挑，眼睛注视侧方，嘴巴张开说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝衬衫，珍珠花朵耳环",
+                "position": "画面左侧",
+                "action": "低头看向下方，侧脸示人",
+                "expression": "眉毛平缓，眼睛下视，嘴角微抿"
+            },
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧前景",
+                "action": "模糊可见，面向左侧",
+                "expression": "模糊不可见"
+            }
+        ],
+        "background": "车内副驾驶座，红色座椅，光线明亮",
+        "description_narrative": "过肩镜头，严太太坐在副驾驶，低头看着手中物品，神情恬静，严先生肩膀在前景模糊可见。",
+        "dialogue": "真别说",
+        "speaker": "严先生",
+        "emotion": "感叹",
+        "duration": 1.27,
+        "description_visual": "中近景过肩镜头；车内副驾驶座，红色座椅，光线明亮；画面左侧人物，身穿白色蕾丝衬衫，珍珠花朵耳环，低头看向下方，侧脸示人，表情：眉毛平缓，眼睛下视，嘴角微抿；画面右侧前景人物，身穿白色西装，模糊可见，面向左侧，表情：模糊不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装，黑色衬衫，暗红领带",
+                "position": "画面中央",
+                "action": "转头看向右侧，露齿微笑",
+                "expression": "眉毛舒展，眼睛注视侧方，嘴巴张开露齿"
+            }
+        ],
+        "background": "车内驾驶座，红色座椅头枕可见",
+        "description_narrative": "中近景平拍，严先生转头看向副驾驶，脸上带着明显的笑容，牙齿微露，显得十分愉悦。",
+        "dialogue": "咱俩还挺般配",
+        "speaker": "严先生",
+        "emotion": "得意",
+        "duration": 0.97,
+        "description_visual": "中近景平拍镜头；车内驾驶座，红色座椅头枕可见；画面中央人物，身穿白色西装，黑色衬衫，暗红领带，转头看向右侧，露齿微笑，表情：眉毛舒展，眼睛注视侧方，嘴巴张开露齿。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝衬衫，珍珠花朵耳环",
+                "position": "画面左侧",
+                "action": "目视前方，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛平视，嘴巴微张"
+            },
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧前景",
+                "action": "模糊可见",
+                "expression": "模糊不可见"
+            }
+        ],
+        "background": "车内副驾驶座，车窗外景色模糊",
+        "description_narrative": "侧拍中近景，严太太坐在副驾驶，目视前方，神情略显严肃，嘴唇微动似乎在催促。",
+        "dialogue": "快开车吧",
+        "speaker": "严太太",
+        "emotion": "急切",
+        "duration": 1.4,
+        "description_visual": "中近景侧拍镜头；车内副驾驶座，车窗外景色模糊；画面左侧人物，身穿白色蕾丝衬衫，珍珠花朵耳环，目视前方，嘴唇微动，表情：眉毛微蹙，眼睛平视，嘴巴微张；画面右侧前景人物，身穿白色西装，模糊可见，表情：模糊不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装，黑色衬衫，暗红领带",
+                "position": "画面中央",
+                "action": "转头看向右侧，眼神玩味",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "车内驾驶座，红色座椅，窗外绿树",
+        "description_narrative": "中近景平拍，严先生转头看向副驾驶，眼神中带着一丝玩味和笑意，似乎故意拖延。",
+        "dialogue": "开什么车",
+        "speaker": "严先生",
+        "emotion": "戏谑",
+        "duration": 2.27,
+        "description_visual": "中近景平拍镜头；车内驾驶座，红色座椅，窗外绿树；画面中央人物，身穿白色西装，黑色衬衫，暗红领带，转头看向右侧，眼神玩味，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝衬衫，珍珠花朵耳环",
+                "position": "画面左侧",
+                "action": "转头看向右侧，神情不满",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴唇紧闭"
+            },
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧前景",
+                "action": "模糊可见",
+                "expression": "模糊不可见"
+            }
+        ],
+        "background": "车内副驾驶座，红色座椅",
+        "description_narrative": "侧拍中近景，严太太转头看向驾驶座方向，眉头微蹙，眼神中带着不满和质问。",
+        "dialogue": "你到底开不开车",
+        "speaker": "严太太",
+        "emotion": "嗔怒",
+        "duration": 2.0,
+        "description_visual": "中近景侧拍镜头；车内副驾驶座，红色座椅；画面左侧人物，身穿白色蕾丝衬衫，珍珠花朵耳环，转头看向右侧，神情不满，表情：眉毛微蹙，眼睛注视对方，嘴唇紧闭；画面右侧前景人物，身穿白色西装，模糊可见，表情：模糊不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "车外透过车窗",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "身体前倾靠近女方",
+                "expression": "侧脸，神情专注"
+            },
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝衬衫",
+                "position": "画面右侧",
+                "action": "身体后仰，看着男方",
+                "expression": "眼睛睁大，略显惊讶"
+            }
+        ],
+        "background": "红色车身外部，车窗玻璃反光",
+        "description_narrative": "车外透过车窗拍摄的中景，严先生突然身体前倾靠近严太太，两人距离极近，严太太身体后仰，眼神惊讶。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.53,
+        "description_visual": "中景车外透过车窗镜头；红色车身外部，车窗玻璃反光；画面左侧人物，身穿白色西装，身体前倾靠近女方，表情：侧脸，神情专注；画面右侧人物，身穿白色蕾丝衬衫，身体后仰，看着男方，表情：眼睛睁大，略显惊讶。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "大特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝衬衫",
+                "position": "画面左侧",
+                "action": "闭眼微笑，头部微倾",
+                "expression": "眉毛舒展，眼睛紧闭，嘴角上扬"
+            },
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧",
+                "action": "头部靠近女方",
+                "expression": "侧脸，眼睛下视"
+            }
+        ],
+        "background": "车内红色座椅背景，光线柔和",
+        "description_narrative": "大特写镜头，两人面部极近，严太太闭眼露出甜蜜又害羞的笑容，严先生头部靠近，气氛暧昧。",
+        "dialogue": "哈哈哈哈",
+        "speaker": "严先生",
+        "emotion": "愉悦",
+        "duration": 1.07,
+        "description_visual": "大特写侧拍镜头；车内红色座椅背景，光线柔和；画面左侧人物，身穿白色蕾丝衬衫，闭眼微笑，头部微倾，表情：眉毛舒展，眼睛紧闭，嘴角上扬；画面右侧人物，身穿白色西装，头部靠近女方，表情：侧脸，眼睛下视。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧",
+                "action": "身体后仰回正，低头",
+                "expression": "眉毛舒展，眼睛下视，嘴角含笑"
+            },
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝衬衫",
+                "position": "画面左侧",
+                "action": "坐直身体",
+                "expression": "侧脸，神情平静"
+            }
+        ],
+        "background": "车内前排座位，红色座椅",
+        "description_narrative": "高角度中景，严先生身体后仰回到驾驶位，低头整理，严太太坐直身体，两人恢复常态。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "中景高角度镜头；车内前排座位，红色座椅；画面右侧人物，身穿白色西装，身体后仰回正，低头，表情：眉毛舒展，眼睛下视，嘴角含笑；画面左侧人物，身穿白色蕾丝衬衫，坐直身体，表情：侧脸，神情平静。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝衬衫",
+                "position": "画面中央",
+                "action": "目视前方，安全带斜跨胸前",
+                "expression": "眉毛微蹙，眼睛平视，嘴唇微抿"
+            }
+        ],
+        "background": "车内副驾驶座，红色座椅",
+        "description_narrative": "侧拍特写，严太太目视前方，身上已系好安全带，神情略显无奈，似乎在听对方解释。",
+        "dialogue": "不系安全带我怎么开车呀 我车速很快",
+        "speaker": "严先生",
+        "emotion": "解释",
+        "duration": 2.7,
+        "description_visual": "特写侧拍镜头；车内副驾驶座，红色座椅；画面中央人物，身穿白色蕾丝衬衫，目视前方，安全带斜跨胸前，表情：眉毛微蹙，眼睛平视，嘴唇微抿。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝衬衫，珍珠花朵耳环",
+                "position": "画面左侧",
+                "action": "转头看向右侧，眼神嗔怪",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧前景",
+                "action": "模糊可见",
+                "expression": "模糊不可见"
+            }
+        ],
+        "background": "车内副驾驶座，红色座椅",
+        "description_narrative": "侧拍中近景，严太太转头看向驾驶座，眼神中带着嗔怪和惊讶，似乎对男方的话感到意外。",
+        "dialogue": "你现在都开始欺负我了",
+        "speaker": "严太太",
+        "emotion": "委屈",
+        "duration": 2.53,
+        "description_visual": "中近景侧拍镜头；车内副驾驶座，红色座椅；画面左侧人物，身穿白色蕾丝衬衫，珍珠花朵耳环，转头看向右侧，眼神嗔怪，表情：眉毛上扬，眼睛睁大，嘴巴微张；画面右侧前景人物，身穿白色西装，模糊可见，表情：模糊不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "低头大笑，手持结婚证",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴大张露齿"
+            }
+        ],
+        "background": "车内驾驶座，红色座椅",
+        "description_narrative": "中近景平拍，严先生低头看着手中的结婚证大笑，神情十分开心，似乎很享受女方的反应。",
+        "dialogue": "你太坏了",
+        "speaker": "严太太",
+        "emotion": "娇嗔",
+        "duration": 1.57,
+        "description_visual": "中近景平拍镜头；车内驾驶座，红色座椅；画面中央人物，身穿白色西装，低头大笑，手持结婚证，表情：眉毛舒展，眼睛眯起，嘴巴大张露齿。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严太太",
+                "gender": "女",
+                "clothing": "白色蕾丝衬衫",
+                "position": "画面左侧",
+                "action": "转头看向右侧，露齿微笑",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴张开露齿"
+            },
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧前景",
+                "action": "模糊可见",
+                "expression": "模糊不可见"
+            }
+        ],
+        "background": "车内副驾驶座，红色座椅",
+        "description_narrative": "侧拍中近景，严太太转头看向男方，脸上带着灿烂的笑容，眼神明亮，气氛甜蜜。",
+        "dialogue": "对了 晚上跟我回到家",
+        "speaker": "严先生",
+        "emotion": "吩咐",
+        "duration": 2.6,
+        "description_visual": "中近景侧拍镜头；车内副驾驶座，红色座椅；画面左侧人物，身穿白色蕾丝衬衫，转头看向右侧，露齿微笑，表情：眉毛舒展，眼睛注视对方，嘴巴张开露齿；画面右侧前景人物，身穿白色西装，模糊可见，表情：模糊不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "低头拉安全带，神情认真",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "车内驾驶座，红色座椅",
+        "description_narrative": "中近景平拍，严先生低头拉动安全带准备系上，神情变得认真，准备开车。",
+        "dialogue": "是时候该告诉大家了",
+        "speaker": "严先生",
+        "emotion": "郑重",
+        "duration": 1.77,
+        "description_visual": "中近景平拍镜头；车内驾驶座，红色座椅；画面中央人物，身穿白色西装，低头拉安全带，神情认真，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "一栋现代风格的别墅，灰色屋顶，米色墙面，周围有绿植和草坪，蓝天白云",
+        "description_narrative": "远景仰拍，展示了一栋位于绿树丛中的现代别墅，天空湛蓝，环境幽静优美。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.13,
+        "description_visual": "远景仰拍镜头；一栋现代风格的别墅，灰色屋顶，米色墙面，周围有绿植和草坪，蓝天白云。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙，多层银链项链",
+                "position": "画面左侧",
+                "action": "坐在桌边，双手交叠",
+                "expression": "眉毛平缓，眼睛注视对面，嘴角微抿"
+            },
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣，金项链",
+                "position": "画面右侧",
+                "action": "坐在桌边，手持物品",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内茶室，深色木桌，茶具，绿植，挂画",
+        "description_narrative": "中景平拍，梦珂和严姨相对坐在茶桌旁，桌上摆放着茶具，两人正在交谈，氛围安静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "中景平拍镜头；室内茶室，深色木桌，茶具，绿植，挂画；画面左侧人物，身穿黑色吊带裙，多层银链项链，坐在桌边，双手交叠，表情：眉毛平缓，眼睛注视对面，嘴角微抿；画面右侧人物，身穿彩色几何纹上衣，金项链，坐在桌边，手持物品，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面中央",
+                "action": "低头看着手中物品，说话",
+                "expression": "眉毛微挑，眼睛下视，嘴巴张开"
+            },
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧前景",
+                "action": "模糊可见，双手交叠",
+                "expression": "模糊不可见"
+            }
+        ],
+        "background": "室内茶室，白色墙面，挂画",
+        "description_narrative": "中近景平拍，严姨低头看着手中的耳环，面带微笑地对梦珂说话，神情亲切。",
+        "dialogue": "梦珂啊你看阿姨",
+        "speaker": "严姨",
+        "emotion": "热情",
+        "duration": 1.37,
+        "description_visual": "中近景平拍镜头；室内茶室，白色墙面，挂画；画面中央人物，身穿彩色几何纹上衣，低头看着手中物品，说话，表情：眉毛微挑，眼睛下视，嘴巴张开；画面左侧前景人物，身穿黑色吊带裙，模糊可见，双手交叠，表情：模糊不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面中央",
+                "action": "双手拿着耳环展示",
+                "expression": "眉毛舒展，眼睛注视耳环，嘴巴微张"
+            }
+        ],
+        "background": "室内茶室，模糊背景",
+        "description_narrative": "特写镜头，严姨双手拿着一对精致的耳环，向对面的梦珂展示，脸上带着期待的笑容。",
+        "dialogue": "跟你选对耳环",
+        "speaker": "严姨",
+        "emotion": "喜爱",
+        "duration": 1.43,
+        "description_visual": "特写平拍镜头；室内茶室，模糊背景；画面中央人物，身穿彩色几何纹上衣，双手拿着耳环展示，表情：眉毛舒展，眼睛注视耳环，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "低头看着耳环，伸手去接",
+                "expression": "眉毛微挑，眼睛注视耳环，嘴巴微张"
+            },
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面右下角",
+                "action": "手递耳环",
+                "expression": "模糊不可见"
+            }
+        ],
+        "background": "室内茶室，深色桌面",
+        "description_narrative": "特写镜头，梦珂低头看着严姨递过来的耳环，眼神中流露出惊喜，伸手准备接过。",
+        "dialogue": "跟你挑对耳环 喜欢吗",
+        "speaker": "严姨",
+        "emotion": "询问",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；室内茶室，深色桌面；画面中央人物，身穿黑色吊带裙，低头看着耳环，伸手去接，表情：眉毛微挑，眼睛注视耳环，嘴巴微张；画面右下角人物，身穿彩色几何纹上衣，手递耳环，表情：模糊不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "低头微笑，看着手中物品",
+                "expression": "眉毛舒展，眼睛下视，嘴巴张开露齿"
+            }
+        ],
+        "background": "室内茶室，模糊背景",
+        "description_narrative": "特写镜头，梦珂低头看着手中的耳环，脸上绽放出开心的笑容，显得非常满意。",
+        "dialogue": "太好看了",
+        "speaker": "梦珂",
+        "emotion": "惊喜",
+        "duration": 1.53,
+        "description_visual": "特写平拍镜头；室内茶室，模糊背景；画面中央人物，身穿黑色吊带裙，低头微笑，看着手中物品，表情：眉毛舒展，眼睛下视，嘴巴张开露齿。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "双手拿着耳环仔细端详",
+                "expression": "眉毛舒展，眼睛注视耳环，嘴角上扬"
+            }
+        ],
+        "background": "室内茶室，深色桌面",
+        "description_narrative": "特写镜头，梦珂双手拿着耳环仔细端详，脸上带着满足的笑容，爱不释手。",
+        "dialogue": "太好看了",
+        "speaker": "梦珂",
+        "emotion": "喜爱",
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；室内茶室，深色桌面；画面中央人物，身穿黑色吊带裙，双手拿着耳环仔细端详，表情：眉毛舒展，眼睛注视耳环，嘴角上扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "双手拿着耳环，抬头说话",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴张开"
+            }
+        ],
+        "background": "室内茶室，深色桌面",
+        "description_narrative": "特写镜头，梦珂拿着耳环抬头看向严姨，眼中闪烁着光芒，表达着强烈的喜爱之情。",
+        "dialogue": "我好喜欢",
+        "speaker": "梦珂",
+        "emotion": "兴奋",
+        "duration": 0.97,
+        "description_visual": "特写平拍镜头；室内茶室，深色桌面；画面中央人物，身穿黑色吊带裙，双手拿着耳环，抬头说话，表情：眉毛舒展，眼睛注视对方，嘴巴张开。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面中央",
+                "action": "看着对方，开怀大笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴大张露齿"
+            },
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧前景",
+                "action": "手部动作模糊",
+                "expression": "模糊不可见"
+            }
+        ],
+        "background": "室内茶室，白色墙面",
+        "description_narrative": "中近景平拍，严姨听到梦珂的话后开怀大笑，神情非常高兴，对梦珂的反应很满意。",
+        "dialogue": "我好喜欢",
+        "speaker": "梦珂",
+        "emotion": "开心",
+        "duration": 0.87,
+        "description_visual": "中近景平拍镜头；室内茶室，白色墙面；画面中央人物，身穿彩色几何纹上衣，看着对方，开怀大笑，表情：眉毛舒展，眼睛眯起，嘴巴大张露齿；画面左侧前景人物，身穿黑色吊带裙，手部动作模糊，表情：模糊不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧",
+                "action": "正在戴耳环，侧头微笑",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角上扬"
+            },
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面右侧",
+                "action": "看着对方，微笑",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            }
+        ],
+        "background": "室内茶室，深色木桌，茶具",
+        "description_narrative": "中景平拍，梦珂正在试戴耳环，侧头微笑，严姨坐在对面看着，两人互动温馨。",
+        "dialogue": "嗯",
+        "speaker": "严姨",
+        "emotion": "赞同",
+        "duration": 1.47,
+        "description_visual": "中景平拍镜头；室内茶室，深色木桌，茶具；画面左侧人物，身穿黑色吊带裙，正在戴耳环，侧头微笑，表情：眉毛舒展，眼睛注视前方，嘴角上扬；画面右侧人物，身穿彩色几何纹上衣，看着对方，微笑，表情：眉毛舒展，眼睛注视对方，嘴角上扬。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面中央",
+                "action": "身体前倾，说话",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴张开"
+            }
+        ],
+        "background": "室内茶室，白色墙面",
+        "description_narrative": "中近景平拍，严姨身体微微前倾，面带笑容地夸赞梦珂，神情慈爱。",
+        "dialogue": "果然我们人长得漂亮 戴什么都好看",
+        "speaker": "严姨",
+        "emotion": "夸赞",
+        "duration": 2.93,
+        "description_visual": "中近景平拍镜头；室内茶室，白色墙面；画面中央人物，身穿彩色几何纹上衣，身体前倾，说话，表情：眉毛微挑，眼睛注视对方，嘴巴张开。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "双手摸着耳朵，大笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴大张露齿"
+            }
+        ],
+        "background": "室内茶室，深色桌面",
+        "description_narrative": "中近景平拍，梦珂双手摸着刚戴好的耳环，开心地大笑，显得十分娇羞和高兴。",
+        "dialogue": "严姨你再这么夸我 我要飘死了",
+        "speaker": "梦珂",
+        "emotion": "害羞",
+        "duration": 3.13,
+        "description_visual": "中近景平拍镜头；室内茶室，深色桌面；画面中央人物，身穿黑色吊带裙，双手摸着耳朵，大笑，表情：眉毛舒展，眼睛眯起，嘴巴大张露齿。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面中央",
+                "action": "侧头微笑，说话",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴张开"
+            }
+        ],
+        "background": "室内茶室，白色墙面",
+        "description_narrative": "中近景平拍，严姨侧头看着梦珂，脸上带着宠溺的笑容，继续夸赞。",
+        "dialogue": "确实好看哈哈",
+        "speaker": "严姨",
+        "emotion": "开心",
+        "duration": 1.57,
+        "description_visual": "中近景平拍镜头；室内茶室，白色墙面；画面中央人物，身穿彩色几何纹上衣，侧头微笑，说话，表情：眉毛舒展，眼睛注视对方，嘴巴张开。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "推门进入，背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内门口，磨砂玻璃门，黑色门把手",
+        "description_narrative": "特写镜头，磨砂玻璃门被推开，严先生身穿白色西装的背影出现在门口，准备进入。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；室内门口，磨砂玻璃门，黑色门把手；画面中央人物，身穿白色西装，推门进入，背影，表情：不可见。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面中央",
+                "action": "转头看向门口，说话",
+                "expression": "眉毛微挑，眼睛注视门口，嘴巴张开"
+            }
+        ],
+        "background": "室内茶室，白色墙面",
+        "description_narrative": "中近景平拍，严姨听到动静转头看向门口，脸上带着惊讶和喜悦，出声招呼。",
+        "dialogue": "小严回来了",
+        "speaker": "严姨",
+        "emotion": "惊喜",
+        "duration": 0.83,
+        "description_visual": "中近景平拍镜头；室内茶室，白色墙面；画面中央人物，身穿彩色几何纹上衣，转头看向门口，说话，表情：眉毛微挑，眼睛注视门口，嘴巴张开。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面背景门口",
+                "action": "站在门口，看向屋内",
+                "expression": "神情严肃"
+            },
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧",
+                "action": "坐在桌边",
+                "expression": "侧脸"
+            },
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面右侧",
+                "action": "坐在桌边，看向门口",
+                "expression": "面带微笑"
+            }
+        ],
+        "background": "室内茶室，全景",
+        "description_narrative": "中景平拍，严先生站在门口，屋内梦珂和严姨坐在桌边，严姨正看向门口说话，气氛略显凝固。",
+        "dialogue": "小严回来了",
+        "speaker": "严姨",
+        "emotion": "招呼",
+        "duration": 1.33,
+        "description_visual": "中景平拍镜头；室内茶室，全景；画面背景门口人物，身穿白色西装，站在门口，看向屋内，表情：神情严肃；画面左侧人物，身穿黑色吊带裙，坐在桌边，表情：侧脸；画面右侧人物，身穿彩色几何纹上衣，坐在桌边，看向门口，表情：面带微笑。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧",
+                "action": "转头看向后方，说话",
+                "expression": "眉毛微挑，眼睛注视后方，嘴巴微张"
+            }
+        ],
+        "background": "室内茶室，模糊背景",
+        "description_narrative": "过肩镜头，梦珂听到声音后转头看向门口，脸上带着礼貌的微笑，出声打招呼。",
+        "dialogue": "小严你回来了",
+        "speaker": "梦珂",
+        "emotion": "礼貌",
+        "duration": 1.37,
+        "description_visual": "中近景过肩镜头；室内茶室，模糊背景；画面左侧人物，身穿黑色吊带裙，转头看向后方，说话，表情：眉毛微挑，眼睛注视后方，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站在桌边，看着两人",
+                "expression": "眉毛微蹙，眼睛注视两人，嘴唇紧闭"
+            },
+            {
+                "name": "梦珂",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧",
+                "action": "坐在桌边",
+                "expression": "侧脸"
+            },
+            {
+                "name": "严姨",
+                "gender": "女",
+                "clothing": "彩色几何纹上衣",
+                "position": "画面右侧",
+                "action": "坐在桌边",
+                "expression": "侧脸"
+            }
+        ],
+        "background": "室内茶室，深色木桌",
+        "description_narrative": "中景平拍，严先生走到桌边站定，目光在梦珂和严姨之间扫视，神情有些复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "中景平拍镜头；室内茶室，深色木桌；画面中央人物，身穿白色西装，站在桌边，看着两人，表情：眉毛微蹙，眼睛注视两人，嘴唇紧闭；画面左侧人物，身穿黑色吊带裙，坐在桌边，表情：侧脸；画面右侧人物，身穿彩色几何纹上衣，坐在桌边，表情：侧脸。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "推门进入，光线强烈",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内门口，强光逆光",
+        "description_narrative": "中近景镜头，严先生推门进入，强烈的逆光笼罩着他，他神情严肃地看向屋内。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "中近景平拍镜头（推进）；室内门口，强光逆光；画面中央人物，身穿白色西装，推门进入，光线强烈，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严先生",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站在门口，身体微倾",
+                "expression": "眉毛微蹙，眼睛注视屋内，嘴巴紧闭"
+            }
+        ],
+        "background": "室内门口，木质墙面",
+        "description_narrative": "中近景平拍，严先生站在门口，身体微微前倾，目光锐利地注视着屋内的两人，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.77,
+        "description_visual": "中近景平拍镜头；室内门口，木质墙面；画面中央人物，身穿白色西装，站在门口，身体微倾，表情：眉毛微蹙，眼睛注视屋内，嘴巴紧闭。"
+    }
+]

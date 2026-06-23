@@ -1,0 +1,609 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面左侧",
+                "action": "抬头向上看，眼神惊慌",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头，身体前倾靠近女子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，深绿色墙面，光线柔和",
+        "description_narrative": "特写镜头，女子身穿黑色露肩裙，神情惊慌地抬头看向身前的年轻男子，男子背对镜头，女子急切地告知赌王回来了，催促男子躲藏。",
+        "dialogue": "赌王回来了，来不及捡了，快躲到这个底下去。",
+        "speaker": "女子",
+        "emotion": "惊慌",
+        "duration": 4.43,
+        "description_visual": "特写平拍镜头；室内，深绿色墙面，光线柔和；画面左侧人物，身穿黑色露肩连衣短裙，抬头向上看，眼神惊慌，表情：眉毛微蹙，眼睛睁大，嘴巴微张；画面右侧前景人物，身穿白色衬衫，背对镜头，身体前倾靠近女子，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白色衬衫，米色马甲，米色西裤",
+                "position": "画面中央",
+                "action": "慌乱地蹲下，准备钻入桌底",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面左后景",
+                "action": "坐在椅子上，身体前倾看向男子",
+                "expression": "眉毛上扬，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "室内，深色大理石地面，木质桌椅",
+        "description_narrative": "低角度中景，年轻男子身穿米色西装马甲，神色紧张地迅速蹲下，试图躲到厚重的木桌底下，女子坐在后方椅子上焦急地看着他。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 2.87,
+        "description_visual": "中景低角度镜头；室内，深色大理石地面，木质桌椅；画面中央人物，身穿白色衬衫，米色马甲，米色西裤，慌乱地蹲下，准备钻入桌底，表情：眉毛紧锁，眼睛下视，嘴巴紧闭；画面左后景人物，身穿黑色露肩连衣短裙，坐在椅子上，身体前倾看向男子，表情：眉毛上扬，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面左侧",
+                "action": "坐在茶桌旁，转头看向门口",
+                "expression": "眉毛微挑，眼睛看向门，嘴巴微闭"
+            },
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面右侧门口",
+                "action": "从门缝中探出头",
+                "expression": "眼神审视"
+            }
+        ],
+        "background": "茶室，木质茶桌，茶具，门口有绿植",
+        "description_narrative": "中景镜头，女子坐在茶桌旁，突然转头看向紧闭的房门，门缝中露出赌王的部分身影，赌王推门并抱怨门关得太严。",
+        "dialogue": "大白天的门关这么严。",
+        "speaker": "赌王",
+        "emotion": "疑惑",
+        "duration": 7.13,
+        "description_visual": "中景平拍镜头；茶室，木质茶桌，茶具，门口有绿植；画面左侧人物，身穿黑色露肩连衣短裙，坐在茶桌旁，转头看向门口，表情：眉毛微挑，眼睛看向门，嘴巴微闭；画面右侧门口人物，身穿深蓝色西装，从门缝中探出头，表情：眼神审视。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑衬衫，玉石项链",
+                "position": "画面左侧站立",
+                "action": "站在女子身后，手扶椅背，低头质问",
+                "expression": "眉毛下压，眼睛眯起，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面右侧坐着",
+                "action": "低头坐着，身体微缩",
+                "expression": "眉毛低垂，眼睛躲闪，嘴巴紧闭"
+            }
+        ],
+        "background": "深绿色墙面，木质椅子",
+        "description_narrative": "中近景，赌王站在女子身后，一手扶着椅背，低头质问女子在干什么，女子慌张地回答没干什么，眼神不敢直视。",
+        "dialogue": "你在干什么？没没干什么。",
+        "speaker": "赌王",
+        "emotion": " suspicious",
+        "duration": 4.3,
+        "description_visual": "中近景平拍镜头；深绿色墙面，木质椅子；画面左侧站立人物，身穿深蓝色西装外套，黑衬衫，玉石项链，站在女子身后，手扶椅背，低头质问，表情：眉毛下压，眼睛眯起，嘴巴微张；画面右侧坐着人物，身穿黑色露肩连衣短裙，低头坐着，身体微缩，表情：眉毛低垂，眼睛躲闪，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "深色大理石地面，有一条紫色内裤",
+        "description_narrative": "特写镜头聚焦在光滑的大理石地面上，一条紫色的女士内裤被遗落在地上，暗示了刚才的慌乱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.7,
+        "description_visual": "特写俯拍镜头；深色大理石地面，有一条紫色内裤。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑衬衫，玉石项链",
+                "position": "画面中央",
+                "action": "手里拿着紫色内裤，举到面前展示",
+                "expression": "眉毛舒展，嘴角上扬，眼神戏谑"
+            }
+        ],
+        "background": "深绿色墙面，前景有红色花卉模糊",
+        "description_narrative": "中景镜头，赌王捡起地上的内裤，拿在手里晃了晃，脸上带着玩味的笑容，质问女子这是什么。",
+        "dialogue": "还说没干什么？这是什么？",
+        "speaker": "赌王",
+        "emotion": "戏谑",
+        "duration": 5.3,
+        "description_visual": "中景平拍镜头；深绿色墙面，前景有红色花卉模糊；画面中央人物，身穿深蓝色西装外套，黑衬衫，玉石项链，手里拿着紫色内裤，举到面前展示，表情：眉毛舒展，嘴角上扬，眼神戏谑。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面中央",
+                "action": "坐在椅子上，低头沉默",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微抿"
+            }
+        ],
+        "background": "深绿色墙面，木质椅背",
+        "description_narrative": "中近景，女子坐在椅子上，面对赌王的质问，她低下头，神情羞涩尴尬，支支吾吾说不出话。",
+        "dialogue": "我。",
+        "speaker": "女子",
+        "emotion": "羞涩",
+        "duration": 2.53,
+        "description_visual": "中近景平拍镜头；深绿色墙面，木质椅背；画面中央人物，身穿黑色露肩连衣短裙，坐在椅子上，低头沉默，表情：眉毛微蹙，眼睛下视，嘴巴微抿。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白色衬衫，米色马甲",
+                "position": "桌底",
+                "action": "趴在桌底，透过桌腿缝隙向外看",
+                "expression": "眉毛紧皱，眼睛睁大，神情紧张"
+            }
+        ],
+        "background": "桌底视角，木质桌腿，大理石地面",
+        "description_narrative": "低角度镜头，年轻男子躲在厚重的木桌底下，身体紧贴地面，透过桌腿的缝隙紧张地观察着外面的情况。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恐惧",
+        "duration": 0.87,
+        "description_visual": "中景低角度镜头；桌底视角，木质桌腿，大理石地面；桌底人物，身穿白色衬衫，米色马甲，趴在桌底，透过桌腿缝隙向外看，表情：眉毛紧皱，眼睛睁大，神情紧张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑衬衫",
+                "position": "画面中央坐着",
+                "action": "坐在桌边，身体后仰，面带笑意",
+                "expression": "眉毛舒展，眼睛眯起，嘴角含笑"
+            }
+        ],
+        "background": "深绿色墙面，桌上放着紫色内裤",
+        "description_narrative": "中景镜头，赌王坐在桌边，将内裤扔在桌上，一脸不以为然地表示这只是自慰，没什么好害羞的。",
+        "dialogue": "不就是自慰吗？有什么好害羞的。",
+        "speaker": "赌王",
+        "emotion": "轻浮",
+        "duration": 4.5,
+        "description_visual": "中景平拍镜头；深绿色墙面，桌上放着紫色内裤；画面中央坐着人物，身穿深蓝色西装外套，黑衬衫，坐在桌边，身体后仰，面带笑意，表情：眉毛舒展，眼睛眯起，嘴角含笑。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面右侧",
+                "action": "坐着，下巴被一只手托起",
+                "expression": "眉毛低垂，眼睛半闭，表情顺从"
+            },
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装袖口",
+                "position": "画面左侧",
+                "action": "伸出手托住女子的下巴",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深绿色墙面",
+        "description_narrative": "特写镜头，赌王的手伸入画面，轻轻托起女子的下巴，女子顺从地微微仰头，眼神低垂，气氛暧昧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "暧昧",
+        "duration": 1.03,
+        "description_visual": "特写平拍镜头；深绿色墙面；画面右侧人物，身穿黑色露肩连衣短裙，坐着，下巴被一只手托起，表情：眉毛低垂，眼睛半闭，表情顺从；画面左侧人物，身穿深蓝色西装袖口，伸出手托住女子的下巴，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑衬衫",
+                "position": "画面中央",
+                "action": "坐着说话，身体前倾",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴开合"
+            }
+        ],
+        "background": "深绿色墙面，木质椅子",
+        "description_narrative": "中景镜头，赌王坐在椅子上，身体微微前倾，假装关怀地表示知道亏待了女子，今天要好好补偿她。",
+        "dialogue": "我知道这些年也亏待了你，既然撞上了，今天就好好补偿补偿你。",
+        "speaker": "赌王",
+        "emotion": "虚伪",
+        "duration": 6.33,
+        "description_visual": "中景平拍镜头；深绿色墙面，木质椅子；画面中央人物，身穿深蓝色西装外套，黑衬衫，坐着说话，身体前倾，表情：眉毛微挑，眼睛注视前方，嘴巴开合。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面中央",
+                "action": "双手握住赌王的手，抬头看他",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微扬"
+            },
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装袖口",
+                "position": "画面左侧",
+                "action": "双手被女子握住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深绿色墙面，茶桌",
+        "description_narrative": "中近景，女子反握住赌王的手，脸上露出妩媚的笑容，表示既然赌王有兴致，自己当然愿意。",
+        "dialogue": "既然赌王有兴致，那我当然也愿意了。",
+        "speaker": "女子",
+        "emotion": "妩媚",
+        "duration": 3.4,
+        "description_visual": "中近景平拍镜头；深绿色墙面，茶桌；画面中央人物，身穿黑色露肩连衣短裙，双手握住赌王的手，抬头看他，表情：眉毛舒展，眼睛注视对方，嘴角微扬；画面左侧人物，身穿深蓝色西装袖口，双手被女子握住，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白色衬衫，米色马甲",
+                "position": "桌底",
+                "action": "趴在桌底，侧耳倾听",
+                "expression": "眉毛微松，眼睛注视前方，表情专注"
+            }
+        ],
+        "background": "桌底视角，木质桌腿，地面反光",
+        "description_narrative": "低角度镜头，年轻男子躲在桌底，听到女子的回答后，神情稍微放松，但仍不敢动弹，继续监听上面的对话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.1,
+        "description_visual": "中景低角度镜头；桌底视角，木质桌腿，地面反光；桌底人物，身穿白色衬衫，米色马甲，趴在桌底，侧耳倾听，表情：眉毛微松，眼睛注视前方，表情专注。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面中央",
+                "action": "坐着说话，手指轻轻点着",
+                "expression": "眉毛微挑，眼睛含笑，嘴巴微张"
+            }
+        ],
+        "background": "深绿色墙面",
+        "description_narrative": "中近景，女子继续说道，既然是赌王补偿她，那么怎么玩当然要听她的，语气中带着掌控的意味。",
+        "dialogue": "不过这次是赌王补偿人家，怎么玩当然要听人家的了。",
+        "speaker": "女子",
+        "emotion": "掌控",
+        "duration": 6.67,
+        "description_visual": "中近景平拍镜头；深绿色墙面；画面中央人物，身穿黑色露肩连衣短裙，坐着说话，手指轻轻点着，表情：眉毛微挑，眼睛含笑，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套，黑衬衫",
+                "position": "画面左侧",
+                "action": "坐着，侧身看向女子，面带笑容",
+                "expression": "眉毛上扬，眼睛眯起，嘴角含笑"
+            }
+        ],
+        "background": "深绿色墙面，挂画一角",
+        "description_narrative": "中景镜头，赌王听到女子的要求，不仅没有生气，反而笑着问她想怎么玩，显得十分纵容。",
+        "dialogue": "那你想怎么玩？",
+        "speaker": "赌王",
+        "emotion": "纵容",
+        "duration": 1.9,
+        "description_visual": "中景平拍镜头；深绿色墙面，挂画一角；画面左侧人物，身穿深蓝色西装外套，黑衬衫，坐着，侧身看向女子，面带笑容，表情：眉毛上扬，眼睛眯起，嘴角含笑。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面中央",
+                "action": "低头微笑，手指轻轻抚摸椅背",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "深绿色墙面",
+        "description_narrative": "中近景，女子没有立刻回答，而是低头露出一抹神秘的微笑，手指轻轻摩挲着椅背，似乎在酝酿什么计划。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "神秘",
+        "duration": 3.03,
+        "description_visual": "中近景平拍镜头；深绿色墙面；画面中央人物，身穿黑色露肩连衣短裙，低头微笑，手指轻轻抚摸椅背，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装袖口",
+                "position": "画面左侧",
+                "action": "手伸向女子大腿内侧",
+                "expression": "不可见"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色连衣短裙",
+                "position": "画面右侧",
+                "action": "大腿裸露，任由对方触碰",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗环境，衣物细节",
+        "description_narrative": "特写镜头，赌王的手大胆地伸向女子的大腿内侧，动作暧昧，女子没有反抗，暗示两人关系亲密。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "暧昧",
+        "duration": 4.3,
+        "description_visual": "特写平拍镜头；昏暗环境，衣物细节；画面左侧人物，身穿深蓝色西装袖口，手伸向女子大腿内侧，表情：不可见；画面右侧人物，身穿黑色连衣短裙，大腿裸露，任由对方触碰，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套",
+                "position": "画面左侧",
+                "action": "凑近女子耳边低语",
+                "expression": "眉毛微挑，眼睛眯起，嘴角带笑"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面右侧前景",
+                "action": "侧脸对着赌王",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深绿色墙面",
+        "description_narrative": "过肩特写，赌王凑近女子，言语轻浮地调侃她下面都湿了，看来是憋坏了，女子没有反驳。",
+        "dialogue": "下边都湿了，看来你是憋坏了。",
+        "speaker": "赌王",
+        "emotion": "轻浮",
+        "duration": 3.97,
+        "description_visual": "特写过肩镜头；深绿色墙面；画面左侧人物，身穿深蓝色西装外套，凑近女子耳边低语，表情：眉毛微挑，眼睛眯起，嘴角带笑；画面右侧前景人物，身穿黑色露肩连衣短裙，侧脸对着赌王，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面右侧",
+                "action": "伸手轻推赌王肩膀，娇嗔",
+                "expression": "眉毛微蹙，眼睛看着对方，嘴巴微嘟"
+            },
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套",
+                "position": "画面左侧",
+                "action": "被女子推了一下，身体微晃",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深绿色墙面",
+        "description_narrative": "中近景，女子娇嗔地伸手轻推赌王，撒娇说这都怪他，赌王顺势接受，气氛更加暧昧。",
+        "dialogue": "这还不都怪你。",
+        "speaker": "女子",
+        "emotion": "娇嗔",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；深绿色墙面；画面右侧人物，身穿黑色露肩连衣短裙，伸手轻推赌王肩膀，娇嗔，表情：眉毛微蹙，眼睛看着对方，嘴巴微嘟；画面左侧人物，身穿深蓝色西装外套，被女子推了一下，身体微晃，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套",
+                "position": "画面中央",
+                "action": "笑着点头，伸手搂住女子",
+                "expression": "眉毛舒展，眼睛眯起，嘴角大笑"
+            }
+        ],
+        "background": "深绿色墙面",
+        "description_narrative": "特写镜头，赌王满脸笑容地承认都怪他，伸手将女子搂入怀中，准备进行下一步。",
+        "dialogue": "都怪我。",
+        "speaker": "赌王",
+        "emotion": "得意",
+        "duration": 2.5,
+        "description_visual": "特写平拍镜头；深绿色墙面；画面中央人物，身穿深蓝色西装外套，笑着点头，伸手搂住女子，表情：眉毛舒展，眼睛眯起，嘴角大笑。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白色衬衫，米色马甲",
+                "position": "画面左前景",
+                "action": "从桌底爬出，向卧室方向爬行",
+                "expression": "神情紧张，动作小心翼翼"
+            },
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左后景",
+                "action": "与女子拥抱",
+                "expression": "不可见"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色连衣短裙",
+                "position": "画面左后景",
+                "action": "与赌王拥抱",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室门口，蓝色墙面，圆形窗户，床铺",
+        "description_narrative": "全景镜头，趁着赌王和女子拥抱亲热，年轻男子从桌底爬出，手脚并用地爬向隔壁的卧室，动作迅速而隐蔽。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 7.23,
+        "description_visual": "全景低角度镜头（跟拍）；卧室门口，蓝色墙面，圆形窗户，床铺；画面左前景人物，身穿白色衬衫，米色马甲，从桌底爬出，向卧室方向爬行，表情：神情紧张，动作小心翼翼；画面左后景人物，身穿深蓝色西装，与女子拥抱，表情：不可见；画面左后景人物，身穿黑色连衣短裙，与赌王拥抱，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩连衣短裙",
+                "position": "画面左侧",
+                "action": "站立，整理衣服，表情不满",
+                "expression": "眉毛微蹙，眼睛直视对方，嘴巴微张"
+            },
+            {
+                "name": "赌王",
+                "gender": "男",
+                "clothing": "深蓝色西装外套",
+                "position": "画面右侧",
+                "action": "站立，手搭在女子肩上",
+                "expression": "表情疑惑"
+            }
+        ],
+        "background": "卧室门口，蓝色灯光，窗帘",
+        "description_narrative": "中景镜头，场景切换到卧室门口，女子突然变脸，甩开赌王的手，质问他不是说听自己的吗，怎么又带她来这里。",
+        "dialogue": "不是说好听我的吗？怎么又来这里了？",
+        "speaker": "女子",
+        "emotion": "不满",
+        "duration": 2.97,
+        "description_visual": "中景平拍镜头；卧室门口，蓝色灯光，窗帘；画面左侧人物，身穿黑色露肩连衣短裙，站立，整理衣服，表情不满，表情：眉毛微蹙，眼睛直视对方，嘴巴微张；画面右侧人物，身穿深蓝色西装外套，站立，手搭在女子肩上，表情：表情疑惑。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑背景，白色字幕",
+        "description_narrative": "黑屏画面，屏幕中央显示白色字幕“怎么又来这了”，强调女子的质疑和剧情的转折。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.03,
+        "description_visual": "特写平拍镜头；全黑背景，白色字幕。"
+    }
+]

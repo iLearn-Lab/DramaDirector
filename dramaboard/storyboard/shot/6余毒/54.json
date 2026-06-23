@@ -1,0 +1,786 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面右侧",
+                "action": "端坐在沙发上，双手交叠放在腿上",
+                "expression": "眉毛舒展，眼睛平视前方，嘴角微抿"
+            },
+            {
+                "name": "红衣女记者",
+                "gender": "女",
+                "clothing": "橙色连帽卫衣",
+                "position": "画面中央偏左",
+                "action": "手持麦克风，身体前倾",
+                "expression": "眉毛微挑，眼睛注视顾妍，嘴巴微张"
+            },
+            {
+                "name": "粉帽女记者",
+                "gender": "女",
+                "clothing": "蓝色长袖上衣，粉色棒球帽",
+                "position": "画面左侧",
+                "action": "手持手机拍摄，身体侧向顾妍",
+                "expression": "眉毛平展，眼睛看手机屏幕，嘴巴微张"
+            },
+            {
+                "name": "黑帽女记者",
+                "gender": "女",
+                "clothing": "米色大衣，黑色棒球帽",
+                "position": "画面左前景",
+                "action": "手持麦克风指向顾妍",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴闭合"
+            }
+        ],
+        "background": "豪华客厅，背景有大幅油画和水晶吊灯，光线明亮",
+        "description_narrative": "全景镜头，固定机位。豪华客厅内，顾妍身穿白色格纹西装端坐右侧沙发，对面坐着三位记者和一名摄像。红衣女记者、粉帽女记者和黑帽女记者分别手持设备，准备提问。顾妍神情冷静，双手交叠。",
+        "dialogue": "感谢各位的到来",
+        "speaker": "顾妍",
+        "emotion": "冷静",
+        "duration": 1.24,
+        "description_visual": "全景平拍镜头；豪华客厅，背景有大幅油画和水晶吊灯，光线明亮；画面右侧人物，身穿白色格纹西装，米色高领衫，端坐在沙发上，双手交叠放在腿上，表情：眉毛舒展，眼睛平视前方，嘴角微抿；画面中央偏左人物，身穿橙色连帽卫衣，手持麦克风，身体前倾，表情：眉毛微挑，眼睛注视顾妍，嘴巴微张；画面左侧人物，身穿蓝色长袖上衣，粉色棒球帽，手持手机拍摄，身体侧向顾妍，表情：眉毛平展，眼睛看手机屏幕，嘴巴微张；画面左前景人物，身穿米色大衣，黑色棒球帽，手持麦克风指向顾妍，表情：眉毛微蹙，眼睛直视，嘴巴闭合。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微动，嘴唇开合说话",
+                "expression": "眉毛舒展，眼睛直视镜头，嘴角微扬"
+            }
+        ],
+        "background": "模糊的窗帘背景，光线柔和",
+        "description_narrative": "特写镜头，固定机位。顾妍面部特写，她正对着镜头说话，神情自信，妆容精致，长发披肩。",
+        "dialogue": "感谢各位的到来",
+        "speaker": "顾妍",
+        "emotion": "自信",
+        "duration": 4.98,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景，光线柔和；画面中央人物，身穿白色格纹西装，米色高领衫，头部微动，嘴唇开合说话，表情：眉毛舒展，眼睛直视镜头，嘴角微扬。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女记者",
+                "gender": "女",
+                "clothing": "橙色连帽卫衣",
+                "position": "画面中央",
+                "action": "手持麦克风，身体前倾倾听",
+                "expression": "眉毛微蹙，眼睛专注，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景，有油画和摄像师",
+        "description_narrative": "中景镜头，固定机位。红衣女记者坐在椅子上，手持麦克风，神情专注地听着顾妍的发言，背景中摄像师正在拍摄。",
+        "dialogue": "今天我来到这里，就是为了澄清关于傅家和林家商业机密泄露一事。",
+        "speaker": "顾妍",
+        "emotion": "专注",
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；客厅背景，有油画和摄像师；画面中央人物，身穿橙色连帽卫衣，手持麦克风，身体前倾倾听，表情：眉毛微蹙，眼睛专注，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神坚定",
+                "expression": "眉毛平展，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍面部特写，她眼神坚定，似乎在等待记者的提问，神情严肃。",
+        "dialogue": "顾小姐是否经过此事，",
+        "speaker": "红衣女记者",
+        "emotion": "严肃",
+        "duration": 2.92,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，头部微侧，眼神坚定，表情：眉毛平展，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微动，嘴唇微张",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴角下垂"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍听到问题后，眼神微垂，似乎在思考如何回答，表情略显凝重。",
+        "dialogue": "一跃成为豪门，是否属实？顾小姐。",
+        "speaker": "黑帽女记者",
+        "emotion": "凝重",
+        "duration": 2.58,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，头部微动，嘴唇微张，表情：眉毛微蹙，眼睛视线下移，嘴角下垂。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑帽女记者",
+                "gender": "女",
+                "clothing": "米色大衣，黑色棒球帽",
+                "position": "画面中央",
+                "action": "手持麦克风向前伸出",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，固定机位。黑帽女记者手持麦克风，身体前倾，直接提问，神情犀利。",
+        "dialogue": "听闻您同时跟傅正雄和傅司南关系暧昧。",
+        "speaker": "黑帽女记者",
+        "emotion": "犀利",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色大衣，黑色棒球帽，手持麦克风向前伸出，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍听到尖锐问题后，微微低头，眼神避开镜头，表情显得有些无奈或沉思。",
+        "dialogue": "您作何解释？",
+        "speaker": "黑帽女记者",
+        "emotion": "无奈",
+        "duration": 4.2,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，头部微低，眼神向下，表情：眉毛微蹙，眼睛视线下移，嘴唇紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉帽女记者",
+                "gender": "女",
+                "clothing": "蓝色长袖上衣，粉色棒球帽",
+                "position": "画面中央",
+                "action": "手持手机拍摄，身体前倾",
+                "expression": "眉毛平展，眼睛看手机，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，固定机位。粉帽女记者手持手机，一边拍摄一边提问，语气带着引导性。",
+        "dialogue": "顾小姐本来许多网友都很同情你",
+        "speaker": "粉帽女记者",
+        "emotion": "引导",
+        "duration": 3.02,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿蓝色长袖上衣，粉色棒球帽，手持手机拍摄，身体前倾，表情：眉毛平展，眼睛看手机，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微抬，眼神直视",
+                "expression": "眉毛舒展，眼睛直视前方，嘴角微抿"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍抬起头，眼神坚定地直视前方，似乎在准备反驳或澄清。",
+        "dialogue": "本来许多网友都很同情你，觉得你被傅林两家推出来当牺牲者，",
+        "speaker": "粉帽女记者",
+        "emotion": "坚定",
+        "duration": 2.74,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，头部微抬，眼神直视，表情：眉毛舒展，眼睛直视前方，嘴角微抿。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉帽女记者",
+                "gender": "女",
+                "clothing": "蓝色长袖上衣，粉色棒球帽",
+                "position": "画面中央",
+                "action": "手持手机，语气加重",
+                "expression": "眉毛微挑，眼睛看手机，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，固定机位。粉帽女记者继续追问，语气尖锐，手机镜头对准顾妍。",
+        "dialogue": "但现在你摇身一变成为傅家的代言人，",
+        "speaker": "粉帽女记者",
+        "emotion": "尖锐",
+        "duration": 1.78,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿蓝色长袖上衣，粉色棒球帽，手持手机，语气加重，表情：眉毛微挑，眼睛看手机，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神冷静",
+                "expression": "眉毛平展，眼睛直视，嘴唇微张"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍神情冷静，面对连续的质问，她微微侧头，准备回应。",
+        "dialogue": "这是否表示你的自尊毫不重要呢？",
+        "speaker": "粉帽女记者",
+        "emotion": "冷静",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，头部微侧，眼神冷静，表情：眉毛平展，眼睛直视，嘴唇微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "嘴唇开合，语气平静",
+                "expression": "眉毛舒展，眼睛直视，嘴角微扬"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍平静地开口，要求记者重复问题，神情从容不迫。",
+        "dialogue": "你可以把问题再说一遍吗",
+        "speaker": "顾妍",
+        "emotion": "从容",
+        "duration": 3.14,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，嘴唇开合，语气平静，表情：眉毛舒展，眼睛直视，嘴角微扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微动，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍再次确认问题，眼神中透露出一丝不容置疑的坚定。",
+        "dialogue": "你可以把问题再说一遍吗",
+        "speaker": "顾妍",
+        "emotion": "坚定",
+        "duration": 2.5,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，头部微动，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉帽女记者",
+                "gender": "女",
+                "clothing": "蓝色长袖上衣，粉色棒球帽",
+                "position": "画面中央",
+                "action": "手持手机，准备重复",
+                "expression": "眉毛平展，眼睛看手机，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，固定机位。粉帽女记者准备重复问题，手机镜头依然对准顾妍。",
+        "dialogue": "本来许多网友都很同情你",
+        "speaker": "粉帽女记者",
+        "emotion": "平静",
+        "duration": 4.5,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿蓝色长袖上衣，粉色棒球帽，手持手机，准备重复，表情：眉毛平展，眼睛看手机，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微抬，语气果断",
+                "expression": "眉毛舒展，眼睛直视，嘴角微抿"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍打断记者，直接表示不需要同情，神情果断。",
+        "dialogue": "谢谢，我不需要。",
+        "speaker": "顾妍",
+        "emotion": "果断",
+        "duration": 4.42,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，头部微抬，语气果断，表情：眉毛舒展，眼睛直视，嘴角微抿。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面右侧",
+                "action": "端坐，身体微前倾",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "红衣女记者",
+                "gender": "女",
+                "clothing": "橙色连帽卫衣",
+                "position": "画面中央偏左",
+                "action": "手持麦克风，倾听",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "豪华客厅，光线明亮",
+        "description_narrative": "全景镜头，固定机位。顾妍在沙发上澄清事实，记者们认真倾听，现场气氛紧张。",
+        "dialogue": "我没有泄露",
+        "speaker": "顾妍",
+        "emotion": "严肃",
+        "duration": 3.76,
+        "description_visual": "全景平拍镜头；豪华客厅，光线明亮；画面右侧人物，身穿白色格纹西装，米色高领衫，端坐，身体微前倾，表情：眉毛舒展，眼睛直视，嘴巴微张；画面中央偏左人物，身穿橙色连帽卫衣，手持麦克风，倾听，表情：眉毛微蹙，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微动，语气坚定",
+                "expression": "眉毛舒展，眼睛直视，嘴唇开合"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍继续澄清，强调没有泄露商业机密，神情严肃认真。",
+        "dialogue": "我没有泄露傅家和林家的商业机密。",
+        "speaker": "顾妍",
+        "emotion": "严肃",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，头部微动，语气坚定，表情：眉毛舒展，眼睛直视，嘴唇开合。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴角微抿"
+            }
+        ],
+        "background": "模糊的窗帘背景",
+        "description_narrative": "特写镜头，固定机位。顾妍宣布已起诉诽谤者，眼神中透露出决绝。",
+        "dialogue": "关于林家总裁林娇对我的诽谤，我已将诉讼状提至法院。",
+        "speaker": "顾妍",
+        "emotion": "决绝",
+        "duration": 4.5,
+        "description_visual": "特写平拍镜头；模糊的窗帘背景；画面中央人物，身穿白色格纹西装，米色高领衫，头部微侧，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴角微抿。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "在笔记本电脑屏幕上显示",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "笔记本电脑屏幕，黑色边框",
+        "description_narrative": "近景镜头，固定机位。笔记本电脑屏幕上播放着顾妍的发布会视频，她正在陈述起诉事宜。",
+        "dialogue": "我已将诉讼状提至法院",
+        "speaker": "顾妍",
+        "emotion": "坚定",
+        "duration": 4.42,
+        "description_visual": "近景平拍镜头；笔记本电脑屏幕，黑色边框；画面中央人物，身穿白色格纹西装，米色高领衫，在笔记本电脑屏幕上显示，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾妍",
+                "gender": "女",
+                "clothing": "白色格纹西装，米色高领衫",
+                "position": "画面中央",
+                "action": "在笔记本电脑屏幕上显示",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "笔记本电脑屏幕，黑色边框",
+        "description_narrative": "近景镜头，固定机位。电脑屏幕上顾妍继续发言，强调傅家从未利用机密进行不正当竞争。",
+        "dialogue": "傅家此前从未利用泄露机密来进行不正当竞争。",
+        "speaker": "顾妍",
+        "emotion": "严肃",
+        "duration": 3.76,
+        "description_visual": "近景平拍镜头；笔记本电脑屏幕，黑色边框；画面中央人物，身穿白色格纹西装，米色高领衫，在笔记本电脑屏幕上显示，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装三件套，佩戴金丝眼镜",
+                "position": "画面右侧沙发",
+                "action": "坐在沙发上观看电脑",
+                "expression": "眉毛微蹙，眼睛注视屏幕，嘴巴闭合"
+            },
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面左侧站立",
+                "action": "站立汇报，身体微倾",
+                "expression": "眉毛平展，眼睛看傅司南，嘴巴微张"
+            }
+        ],
+        "background": "豪华办公室，有大幅油画和落地窗",
+        "description_narrative": "全景镜头，固定机位。傅司南坐在沙发上观看电脑中的发布会视频，助理站在一旁汇报工作。",
+        "dialogue": "谢谢大家。傅总，林小姐那边同意解除婚约，",
+        "speaker": "助理",
+        "emotion": "恭敬",
+        "duration": 2.08,
+        "description_visual": "全景平拍镜头；豪华办公室，有大幅油画和落地窗；画面右侧沙发人物，身穿灰色西装三件套，佩戴金丝眼镜，坐在沙发上观看电脑，表情：眉毛微蹙，眼睛注视屏幕，嘴巴闭合；画面左侧站立人物，身穿黑色皮夹克，黑色高领衫，站立汇报，身体微倾，表情：眉毛平展，眼睛看傅司南，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，语气平稳",
+                "expression": "眉毛平展，眼睛看傅司南，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景，模糊",
+        "description_narrative": "近景镜头，固定机位。助理继续汇报，提到林家要求十亿补偿金，神情平静。",
+        "dialogue": "但要求您十亿的补偿金",
+        "speaker": "助理",
+        "emotion": "平静",
+        "duration": 4.5,
+        "description_visual": "近景平拍镜头；办公室背景，模糊；画面中央人物，身穿黑色皮夹克，黑色高领衫，站立，语气平稳，表情：眉毛平展，眼睛看傅司南，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装三件套，佩戴金丝眼镜",
+                "position": "画面中央",
+                "action": "坐在沙发上，眼神冷峻",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴角下垂"
+            }
+        ],
+        "background": "沙发背景，模糊",
+        "description_narrative": "特写镜头，固定机位。傅司南听到补偿金要求后，眼神变得冷峻，表情不悦。",
+        "dialogue": "但要求您十亿的补偿金",
+        "speaker": "助理",
+        "emotion": "不悦",
+        "duration": 2.44,
+        "description_visual": "特写平拍镜头；沙发背景，模糊；画面中央人物，身穿灰色西装三件套，佩戴金丝眼镜，坐在沙发上，眼神冷峻，表情：眉毛微蹙，眼睛注视前方，嘴角下垂。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，继续汇报",
+                "expression": "眉毛平展，眼睛看傅司南，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景，模糊",
+        "description_narrative": "近景镜头，固定机位。助理传达林家的强硬态度，要求十亿接手股权，否则免谈。",
+        "dialogue": "十亿接手林家的所有项目股权，否则免谈。",
+        "speaker": "助理",
+        "emotion": "平静",
+        "duration": 2.48,
+        "description_visual": "近景平拍镜头；办公室背景，模糊；画面中央人物，身穿黑色皮夹克，黑色高领衫，站立，继续汇报，表情：眉毛平展，眼睛看傅司南，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "头部微低，语气恭敬",
+                "expression": "眉毛平展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景，模糊",
+        "description_narrative": "特写镜头，固定机位。助理表示晚点会和林女士沟通，神情恭敬。",
+        "dialogue": "那我晚点会和林女士沟通。",
+        "speaker": "傅司南",
+        "emotion": "恭敬",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；办公室背景，模糊；画面中央人物，身穿黑色皮夹克，黑色高领衫，头部微低，语气恭敬，表情：眉毛平展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装三件套，佩戴金丝眼镜",
+                "position": "画面右侧沙发",
+                "action": "坐在沙发上，手放在膝盖上",
+                "expression": "眉毛微蹙，眼睛注视助理，嘴巴微张"
+            },
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面左侧站立",
+                "action": "站立，身体微倾",
+                "expression": "眉毛平展，眼睛看傅司南，嘴巴闭合"
+            }
+        ],
+        "background": "豪华办公室，光线柔和",
+        "description_narrative": "全景镜头，固定机位。傅司南询问林家现状，助理准备回答，两人对峙。",
+        "dialogue": "林家那边现在情况怎么样？",
+        "speaker": "傅司南",
+        "emotion": "询问",
+        "duration": 3.5,
+        "description_visual": "全景平拍镜头；豪华办公室，光线柔和；画面右侧沙发人物，身穿灰色西装三件套，佩戴金丝眼镜，坐在沙发上，手放在膝盖上，表情：眉毛微蹙，眼睛注视助理，嘴巴微张；画面左侧站立人物，身穿黑色皮夹克，黑色高领衫，站立，身体微倾，表情：眉毛平展，眼睛看傅司南，嘴巴闭合。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装三件套，佩戴金丝眼镜",
+                "position": "画面右侧沙发",
+                "action": "坐在沙发上，手放在膝盖上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴闭合"
+            }
+        ],
+        "background": "豪华办公室，光线柔和",
+        "description_narrative": "全景镜头，固定机位。傅司南坐在沙发上，听着助理的分析，神情若有所思。",
+        "dialogue": "瘦死的骆驼比马大",
+        "speaker": "助理",
+        "emotion": "分析",
+        "duration": 4.14,
+        "description_visual": "全景平拍镜头；豪华办公室，光线柔和；画面右侧沙发人物，身穿灰色西装三件套，佩戴金丝眼镜，坐在沙发上，手放在膝盖上，表情：眉毛微蹙，眼睛注视前方，嘴巴闭合。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，语气平稳",
+                "expression": "眉毛平展，眼睛看傅司南，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景，模糊",
+        "description_narrative": "近景镜头，固定机位。助理分析林家现状，提到林老爷子的恩情，神情平静。",
+        "dialogue": "只要林老爷子活着，总有人惦记他的恩情",
+        "speaker": "助理",
+        "emotion": "平静",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；办公室背景，模糊；画面中央人物，身穿黑色皮夹克，黑色高领衫，站立，语气平稳，表情：眉毛平展，眼睛看傅司南，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装三件套，佩戴金丝眼镜",
+                "position": "画面中央",
+                "action": "坐在沙发上，手托下巴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "沙发背景，模糊",
+        "description_narrative": "特写镜头，固定机位。傅司南手托下巴，沉思片刻，随后吩咐助理盯紧林家。",
+        "dialogue": "盯着林家的情况，有什么情况及时跟我汇报，",
+        "speaker": "傅司南",
+        "emotion": "沉思",
+        "duration": 7.26,
+        "description_visual": "特写平拍镜头；沙发背景，模糊；画面中央人物，身穿灰色西装三件套，佩戴金丝眼镜，坐在沙发上，手托下巴，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，点头示意",
+                "expression": "眉毛平展，眼睛看傅司南，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景，模糊",
+        "description_narrative": "近景镜头，固定机位。助理点头应允，傅司南特别强调要关注顾小姐的情况。",
+        "dialogue": "尤其是，尤其是顾小姐。",
+        "speaker": "傅司南",
+        "emotion": "强调",
+        "duration": 4.98,
+        "description_visual": "近景平拍镜头；办公室背景，模糊；画面中央人物，身穿黑色皮夹克，黑色高领衫，站立，点头示意，表情：眉毛平展，眼睛看傅司南，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，继续汇报",
+                "expression": "眉毛平展，眼睛看傅司南，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景，模糊",
+        "description_narrative": "近景镜头，固定机位。助理揭露傅正雄认顾妍为干女儿的真相，只是为了发布会。",
+        "dialogue": "傅正雄认顾妍当干女儿，只是为了场发布会。",
+        "speaker": "助理",
+        "emotion": "揭露",
+        "duration": 3.56,
+        "description_visual": "近景平拍镜头；办公室背景，模糊；画面中央人物，身穿黑色皮夹克，黑色高领衫，站立，继续汇报，表情：眉毛平展，眼睛看傅司南，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅司南",
+                "gender": "男",
+                "clothing": "灰色西装三件套，佩戴金丝眼镜",
+                "position": "画面中央",
+                "action": "坐在沙发上，眼神震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "白色闪光背景",
+        "description_narrative": "特写镜头，固定机位。画面闪过白光，傅司南意识到自己就是顶峰国际的掌门人，神情震惊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 3.08,
+        "description_visual": "特写平拍镜头；白色闪光背景；画面中央人物，身穿灰色西装三件套，佩戴金丝眼镜，坐在沙发上，眼神震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    }
+]

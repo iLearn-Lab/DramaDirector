@@ -1,0 +1,1313 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍，橙色领巾",
+                "position": "中央高台",
+                "action": "端坐",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴闭合"
+            },
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾",
+                "position": "右侧桌前",
+                "action": "站立",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "左侧桌前",
+                "action": "坐着",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "旁听群众",
+                "gender": "未知",
+                "clothing": "各色便服",
+                "position": "前景观众席",
+                "action": "坐着观看",
+                "expression": "未知"
+            }
+        ],
+        "background": "法庭内部，橙色背景屏幕显示“最高审判”，灯光明亮",
+        "description_narrative": "全景镜头展示法庭全貌，审判长居中，原被告分列两侧，被告律师站立发言，原告坐着倾听，观众席坐满旁听群众。",
+        "dialogue": "所以，审判长。",
+        "speaker": "被告律师",
+        "emotion": "严肃",
+        "duration": 1.76,
+        "description_visual": "全景平拍镜头；法庭内部，橙色背景屏幕显示“最高审判”，灯光明亮；中央高台人物，身穿黑色法官袍，橙色领巾，端坐，表情：眉毛平展，眼睛直视前方，嘴巴闭合；右侧桌前人物，身穿黑色律师袍，红色领巾，站立，表情：眉毛微挑，眼睛看向前方，嘴巴微张；左侧桌前人物，身穿格纹外套，坐着，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合；前景观众席人物，身穿各色便服，坐着观看，表情：未知。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍，橙色领巾",
+                "position": "画面中央",
+                "action": "端坐倾听",
+                "expression": "眉毛平展，眼睛微侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "法官席，深色木质靠背，橙色背景",
+        "description_narrative": "特写镜头聚焦审判长，他神情严肃，目光微侧，正在倾听律师陈述。",
+        "dialogue": "所以审判长",
+        "speaker": "被告律师",
+        "emotion": "专注",
+        "duration": 3.18,
+        "description_visual": "特写平拍镜头；法官席，深色木质靠背，橙色背景；画面中央人物，身穿黑色法官袍，橙色领巾，端坐倾听，表情：眉毛平展，眼睛微侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾，条纹衬衫",
+                "position": "画面中央",
+                "action": "站立发言",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴张开说话"
+            }
+        ],
+        "background": "法庭背景，红色幕布",
+        "description_narrative": "近景镜头拍摄被告律师，他戴着眼镜，表情自信，正在阐述观点。",
+        "dialogue": "为了孩子以后的学业和生活的各个方面。",
+        "speaker": "被告律师",
+        "emotion": "自信",
+        "duration": 4.12,
+        "description_visual": "近景平拍镜头；法庭背景，红色幕布；画面中央人物，身穿黑色律师袍，红色领巾，条纹衬衫，站立发言，表情：眉毛舒展，眼睛直视前方，嘴巴张开说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾",
+                "position": "画面左侧",
+                "action": "站立，右手伸出指向被告",
+                "expression": "眉毛微挑，眼睛看向前方，嘴角微扬"
+            },
+            {
+                "name": "被告",
+                "gender": "男",
+                "clothing": "棕色西装，黑色衬衫，金项链",
+                "position": "画面右侧背景",
+                "action": "坐着，身体后仰",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "被告席，木质桌子，蓝色文件夹",
+        "description_narrative": "中景镜头展示被告律师站立发言，他手势坚定地指向被告方向，被告坐在后方倾听。",
+        "dialogue": "我方认为孩子的抚养权应归被告所有。",
+        "speaker": "被告律师",
+        "emotion": "坚定",
+        "duration": 1.7,
+        "description_visual": "中景平拍镜头；被告席，木质桌子，蓝色文件夹；画面左侧人物，身穿黑色律师袍，红色领巾，站立，右手伸出指向被告，表情：眉毛微挑，眼睛看向前方，嘴角微扬；画面右侧背景人物，身穿棕色西装，黑色衬衫，金项链，坐着，身体后仰，表情：眉毛平展，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍，橙色领巾",
+                "position": "画面中央",
+                "action": "端坐",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "审判员",
+                "gender": "男",
+                "clothing": "黑色西装，红色领带",
+                "position": "画面左侧",
+                "action": "端坐",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴闭合"
+            },
+            {
+                "name": "审判员",
+                "gender": "女",
+                "clothing": "黑色西装，红色领带",
+                "position": "画面右侧",
+                "action": "端坐",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴闭合"
+            }
+        ],
+        "background": "法官席，木质审判台，橙色背景",
+        "description_narrative": "中景镜头拍摄三位法官，审判长位于中央，正在询问原告。",
+        "dialogue": "原告",
+        "speaker": "审判长",
+        "emotion": "严肃",
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；法官席，木质审判台，橙色背景；画面中央人物，身穿黑色法官袍，橙色领巾，端坐，表情：眉毛微蹙，眼睛看向前方，嘴巴微张；画面左侧人物，身穿黑色西装，红色领带，端坐，表情：眉毛平展，眼睛直视前方，嘴巴闭合；画面右侧人物，身穿黑色西装，红色领带，端坐，表情：眉毛平展，眼睛直视前方，嘴巴闭合。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾",
+                "position": "画面左侧",
+                "action": "站立，双手整理衣袍",
+                "expression": "眉毛舒展，眼睛看向前方，嘴角微扬"
+            },
+            {
+                "name": "被告",
+                "gender": "男",
+                "clothing": "棕色西装，黑色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，双手交叉",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "中景镜头展示被告律师整理衣袍，被告坐在旁边，审判长画外音询问被告律师所说情况是否属实。",
+        "dialogue": "被告律师所说情况",
+        "speaker": "审判长",
+        "emotion": "询问",
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头；被告席，木质桌子；画面左侧人物，身穿黑色律师袍，红色领巾，站立，双手整理衣袍，表情：眉毛舒展，眼睛看向前方，嘴角微扬；画面右侧人物，身穿棕色西装，黑色衬衫，坐着，双手交叉，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套，黑色内搭",
+                "position": "画面中央",
+                "action": "坐着，双手交握",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "原告席，木质桌子",
+        "description_narrative": "特写镜头聚焦原告，她神情焦虑，双手交握在桌上，正在回答法官提问。",
+        "dialogue": "是否属实？",
+        "speaker": "审判长",
+        "emotion": "焦虑",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；原告席，木质桌子；画面中央人物，身穿格纹外套，黑色内搭，坐着，双手交握，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面左侧",
+                "action": "坐着，身体前倾",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴张开"
+            },
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍，红色领带",
+                "position": "画面右侧",
+                "action": "坐着，低头看笔记",
+                "expression": "眉毛平展，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "原告席，木质桌子，名牌显示“原告”",
+        "description_narrative": "中景镜头展示原告和原告律师，原告情绪激动地回答“是”，律师在一旁记录。",
+        "dialogue": "是。",
+        "speaker": "原告",
+        "emotion": "急切",
+        "duration": 2.08,
+        "description_visual": "中景平拍镜头；原告席，木质桌子，名牌显示“原告”；画面左侧人物，身穿格纹外套，坐着，身体前倾，表情：眉毛微蹙，眼睛看向前方，嘴巴张开；画面右侧人物，身穿黑色律师袍，红色领带，坐着，低头看笔记，表情：眉毛平展，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面中央",
+                "action": "坐着，身体微动",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴张开"
+            }
+        ],
+        "background": "原告席，模糊背景",
+        "description_narrative": "特写镜头聚焦原告面部，她神情激动，开始解释自己的情况。",
+        "dialogue": "但是",
+        "speaker": "原告",
+        "emotion": "激动",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；原告席，模糊背景；画面中央人物，身穿格纹外套，坐着，身体微动，表情：眉毛微蹙，眼睛直视前方，嘴巴张开。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面中央",
+                "action": "坐着，手抚胸口",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴张开"
+            }
+        ],
+        "background": "原告席，模糊背景",
+        "description_narrative": "特写镜头中，原告手抚胸口，表情诚恳地承诺即使倾尽所有也不会亏待孩子。",
+        "dialogue": "但是我砸锅卖铁",
+        "speaker": "原告",
+        "emotion": "诚恳",
+        "duration": 2.02,
+        "description_visual": "特写平拍镜头；原告席，模糊背景；画面中央人物，身穿格纹外套，坐着，手抚胸口，表情：眉毛微蹙，眼睛直视前方，嘴巴张开。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍，红色领带",
+                "position": "画面中央",
+                "action": "坐着，抬头看",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴闭合"
+            }
+        ],
+        "background": "原告席，木质桌子",
+        "description_narrative": "近景镜头拍摄原告律师，她抬头看向侧方，画外音传来原告关于孩子教育的承诺。",
+        "dialogue": "不会亏待我孩子的教育啊。",
+        "speaker": "原告",
+        "emotion": "关注",
+        "duration": 1.7,
+        "description_visual": "近景平拍镜头；原告席，木质桌子；画面中央人物，身穿黑色律师袍，红色领带，坐着，抬头看，表情：眉毛微蹙，眼睛侧视，嘴巴闭合。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾",
+                "position": "画面左侧",
+                "action": "坐着，翻阅文件",
+                "expression": "眉毛平展，眼睛下视，嘴巴闭合"
+            },
+            {
+                "name": "被告",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "坐着，双手交叉",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "中景镜头展示被告律师低头翻阅文件，被告坐在旁边，两人都在等待。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.58,
+        "description_visual": "中景平拍镜头；被告席，木质桌子；画面左侧人物，身穿黑色律师袍，红色领巾，坐着，翻阅文件，表情：眉毛平展，眼睛下视，嘴巴闭合；画面右侧人物，身穿棕色西装，坐着，双手交叉，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍",
+                "position": "画面中央",
+                "action": "手翻动文件",
+                "expression": "未知"
+            }
+        ],
+        "background": "木质桌面，黑色文件夹",
+        "description_narrative": "特写镜头聚焦被告律师的手，他正在快速翻动桌上的文件。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.36,
+        "description_visual": "特写俯拍镜头；木质桌面，黑色文件夹；画面中央人物，身穿黑色律师袍，手翻动文件，表情：未知。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾",
+                "position": "画面中央",
+                "action": "举起文件",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "被告席，模糊背景",
+        "description_narrative": "近景镜头中，被告律师举起一份文件，画面略有模糊，他发出“你”的声音。",
+        "dialogue": "你。",
+        "speaker": "被告律师",
+        "emotion": "质疑",
+        "duration": 0.34,
+        "description_visual": "近景平拍镜头（推进）；被告席，模糊背景；画面中央人物，身穿黑色律师袍，红色领巾，举起文件，表情：眉毛微挑，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾",
+                "position": "画面中央",
+                "action": "举着文件",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴张开"
+            }
+        ],
+        "background": "被告席，模糊背景",
+        "description_narrative": "近景镜头中，被告律师举着文件，发出“啊”的声音，似乎在展示证据。",
+        "dialogue": "啊。",
+        "speaker": "被告律师",
+        "emotion": "展示",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；被告席，模糊背景；画面中央人物，身穿黑色律师袍，红色领巾，举着文件，表情：眉毛微挑，眼睛看向前方，嘴巴张开。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾",
+                "position": "画面中央",
+                "action": "举着文件展示",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴张开说话"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "近景镜头中，被告律师举着文件，向法庭展示孩子的每月开销清单。",
+        "dialogue": "这是孩子每个月的开销。",
+        "speaker": "被告律师",
+        "emotion": "自信",
+        "duration": 2.64,
+        "description_visual": "近景平拍镜头；被告席，木质桌子；画面中央人物，身穿黑色律师袍，红色领巾，举着文件展示，表情：眉毛舒展，眼睛看向前方，嘴巴张开说话。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告",
+                "gender": "男",
+                "clothing": "棕色西装，金项链",
+                "position": "画面中央",
+                "action": "坐着，双手交叉",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴闭合"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "特写镜头聚焦被告，他表情严肃，画外音传来律师关于补课费的说明。",
+        "dialogue": "还有他的补课费，一个月至少五万起步。",
+        "speaker": "被告律师",
+        "emotion": "严肃",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；被告席，木质桌子；画面中央人物，身穿棕色西装，金项链，坐着，双手交叉，表情：眉毛微蹙，眼睛侧视，嘴巴闭合。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾",
+                "position": "画面中央",
+                "action": "坐着，手持文件",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴张开说话"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "近景镜头拍摄被告律师，他手持文件，质问原告能否支撑得起。",
+        "dialogue": "请问原告。",
+        "speaker": "被告律师",
+        "emotion": "质问",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；被告席，木质桌子；画面中央人物，身穿黑色律师袍，红色领巾，坐着，手持文件，表情：眉毛微挑，眼睛直视前方，嘴巴张开说话。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面中央",
+                "action": "站立，手抚胸口",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "原告席，模糊背景",
+        "description_narrative": "特写镜头聚焦原告，她站立着，手抚胸口，神情震惊，画外音传来法官关于原告无能力的陈述。",
+        "dialogue": "你支撑得起吗？",
+        "speaker": "被告律师",
+        "emotion": "震惊",
+        "duration": 2.88,
+        "description_visual": "特写平拍镜头；原告席，模糊背景；画面中央人物，身穿格纹外套，站立，手抚胸口，表情：眉毛微蹙，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面左侧",
+                "action": "站立，低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            },
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍",
+                "position": "画面右侧",
+                "action": "坐着，低头写字",
+                "expression": "眉毛平展，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "原告席，木质桌子",
+        "description_narrative": "中景镜头展示原告低头站立，原告律师在旁记录，画外音传来法官关于原告无能力抚养的陈述。",
+        "dialogue": "因原告无能力",
+        "speaker": "审判长",
+        "emotion": "陈述",
+        "duration": 1.34,
+        "description_visual": "中景平拍镜头；原告席，木质桌子；画面左侧人物，身穿格纹外套，站立，低头，表情：眉毛微蹙，眼睛下视，嘴巴闭合；画面右侧人物，身穿黑色律师袍，坐着，低头写字，表情：眉毛平展，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍，红色领巾",
+                "position": "画面中央",
+                "action": "坐着，伸手递文件",
+                "expression": "眉毛舒展，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "近景镜头拍摄被告律师，他伸手递出文件，画外音传来法官关于抚养义务的陈述。",
+        "dialogue": "无能力进行抚养。",
+        "speaker": "审判长",
+        "emotion": "陈述",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；被告席，木质桌子；画面中央人物，身穿黑色律师袍，红色领巾，坐着，伸手递文件，表情：眉毛舒展，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍",
+                "position": "画面中央",
+                "action": "端坐，说话",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴张开"
+            },
+            {
+                "name": "审判员",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "端坐",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "审判员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "端坐",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "法官席，橙色背景",
+        "description_narrative": "中景镜头拍摄三位法官，审判长正在宣读判决，关于抚养权归属。",
+        "dialogue": "义务经协商。",
+        "speaker": "审判长",
+        "emotion": "严肃",
+        "duration": 2.42,
+        "description_visual": "中景平拍镜头；法官席，橙色背景；画面中央人物，身穿黑色法官袍，端坐，说话，表情：眉毛平展，眼睛看向前方，嘴巴张开；画面左侧人物，身穿黑色西装，端坐，表情：眉毛平展，眼睛看向前方，嘴巴闭合；画面右侧人物，身穿黑色西装，端坐，表情：眉毛平展，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍",
+                "position": "中央高台",
+                "action": "端坐",
+                "expression": "未知"
+            },
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍",
+                "position": "左侧桌前",
+                "action": "站立",
+                "expression": "未知"
+            }
+        ],
+        "background": "法庭内部，橙色背景",
+        "description_narrative": "全景镜头展示法庭，原告律师突然站起打断，喊“审判长”。",
+        "dialogue": "薛逸抚养权归",
+        "speaker": "审判长",
+        "emotion": "严肃",
+        "duration": 1.26,
+        "description_visual": "全景平拍镜头；法庭内部，橙色背景；中央高台人物，身穿黑色法官袍，端坐，表情：未知；左侧桌前人物，身穿黑色律师袍，站立，表情：未知。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍",
+                "position": "画面中央",
+                "action": "端坐，转头",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴闭合"
+            }
+        ],
+        "background": "法官席，橙色背景",
+        "description_narrative": "特写镜头聚焦审判长，他转头看向侧方，画外音传来原告律师声称有证人证明。",
+        "dialogue": "审判长",
+        "speaker": "原告律师",
+        "emotion": "惊讶",
+        "duration": 1.22,
+        "description_visual": "特写平拍镜头；法官席，橙色背景；画面中央人物，身穿黑色法官袍，端坐，转头，表情：眉毛微挑，眼睛侧视，嘴巴闭合。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍，红色领带",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴闭合"
+            }
+        ],
+        "background": "原告席，模糊背景",
+        "description_narrative": "近景镜头拍摄原告律师，她表情严肃，指控被告私生活混乱。",
+        "dialogue": "我有证人证明。",
+        "speaker": "原告律师",
+        "emotion": "严肃",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；原告席，模糊背景；画面中央人物，身穿黑色律师袍，红色领带，站立，表情严肃，表情：眉毛微蹙，眼睛直视前方，嘴巴闭合。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍",
+                "position": "画面左侧",
+                "action": "坐着，双手交叉",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "被告",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "坐着，身体前倾",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "中景镜头展示被告律师和被告，两人表情凝重，画外音传来原告律师关于被告不配抚养权的指控。",
+        "dialogue": "被告私生活混乱。",
+        "speaker": "原告律师",
+        "emotion": "凝重",
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头；被告席，木质桌子；画面左侧人物，身穿黑色律师袍，坐着，双手交叉，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合；画面右侧人物，身穿棕色西装，坐着，身体前倾，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍，红色领带",
+                "position": "画面中央",
+                "action": "站立，说话",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴张开"
+            }
+        ],
+        "background": "原告席，模糊背景",
+        "description_narrative": "近景镜头拍摄原告律师，她语气坚定地指控被告根本不配得到抚养权。",
+        "dialogue": "根本不。",
+        "speaker": "原告律师",
+        "emotion": "坚定",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；原告席，模糊背景；画面中央人物，身穿黑色律师袍，红色领带，站立，说话，表情：眉毛微蹙，眼睛直视前方，嘴巴张开。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告",
+                "gender": "男",
+                "clothing": "棕色西装，金项链",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴闭合"
+            }
+        ],
+        "background": "被告席，模糊背景",
+        "description_narrative": "特写镜头聚焦被告，他站起身，表情愤怒，画外音传来他威胁要告诽谤。",
+        "dialogue": "配得到抚养权。",
+        "speaker": "原告律师",
+        "emotion": "愤怒",
+        "duration": 3.46,
+        "description_visual": "特写平拍镜头；被告席，模糊背景；画面中央人物，身穿棕色西装，金项链，站立，身体微侧，表情：眉毛微蹙，眼睛侧视，嘴巴闭合。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍",
+                "position": "画面中央",
+                "action": "端坐，低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "法官席，橙色背景",
+        "description_narrative": "特写镜头聚焦审判长，他低头查看文件，画外音传来被告的威胁，法官随后提醒注意纪律。",
+        "dialogue": "你少胡说，小心我告你诽谤。",
+        "speaker": "被告",
+        "emotion": "愤怒",
+        "duration": 1.86,
+        "description_visual": "特写平拍镜头；法官席，橙色背景；画面中央人物，身穿黑色法官袍，端坐，低头，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍",
+                "position": "画面左侧",
+                "action": "坐着，伸手阻拦",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "被告",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "站立，身体后仰",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "中景镜头展示被告律师伸手阻拦激动的被告，画外音传来法官提醒注意纪律，随后原告律师请求证人出庭。",
+        "dialogue": "注意纪律。",
+        "speaker": "审判长",
+        "emotion": "严肃",
+        "duration": 2.44,
+        "description_visual": "中景平拍镜头；被告席，木质桌子；画面左侧人物，身穿黑色律师袍，坐着，伸手阻拦，表情：眉毛微挑，眼睛看向前方，嘴巴闭合；画面右侧人物，身穿棕色西装，站立，身体后仰，表情：眉毛微蹙，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍",
+                "position": "画面中央",
+                "action": "站立，说话",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴张开"
+            },
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面左侧背景",
+                "action": "坐着，抬头看",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "原告席，木质桌子",
+        "description_narrative": "中景镜头拍摄原告律师站立请求，原告在旁抬头看，画外音传来原告律师请求证人陈芳出庭。",
+        "dialogue": "审判长，我方请求",
+        "speaker": "原告律师",
+        "emotion": "请求",
+        "duration": 2.08,
+        "description_visual": "中景平拍镜头；原告席，木质桌子；画面中央人物，身穿黑色律师袍，站立，说话，表情：眉毛微蹙，眼睛看向前方，嘴巴张开；画面左侧背景人物，身穿格纹外套，坐着，抬头看，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍",
+                "position": "画面中央",
+                "action": "端坐，说话",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴张开"
+            },
+            {
+                "name": "审判员",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "端坐",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "审判员",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "端坐",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "法官席，橙色背景",
+        "description_narrative": "中景镜头拍摄三位法官，审判长准许证人出庭。",
+        "dialogue": "证人陈芳出庭作证。",
+        "speaker": "原告律师",
+        "emotion": "严肃",
+        "duration": 1.42,
+        "description_visual": "中景平拍镜头；法官席，橙色背景；画面中央人物，身穿黑色法官袍，端坐，说话，表情：眉毛平展，眼睛看向前方，嘴巴张开；画面左侧人物，身穿黑色西装，端坐，表情：眉毛平展，眼睛看向前方，嘴巴闭合；画面右侧人物，身穿黑色西装，端坐，表情：眉毛平展，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍",
+                "position": "画面中央",
+                "action": "端坐，转头",
+                "expression": "眉毛平展，眼睛侧视，嘴巴张开"
+            }
+        ],
+        "background": "法官席，橙色背景",
+        "description_narrative": "特写镜头聚焦审判长，他转头示意，请证人陈芳入庭。",
+        "dialogue": "准许。",
+        "speaker": "审判长",
+        "emotion": "准许",
+        "duration": 3.1,
+        "description_visual": "特写平拍镜头；法官席，橙色背景；画面中央人物，身穿黑色法官袍，端坐，转头，表情：眉毛平展，眼睛侧视，嘴巴张开。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍",
+                "position": "画面中央",
+                "action": "站立，等待",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面左侧",
+                "action": "坐着，等待",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "原告席，木质桌子",
+        "description_narrative": "中景镜头展示原告律师和原告站立等待，画外音传来法官请证人入庭的声音。",
+        "dialogue": "请证人陈芳入庭。",
+        "speaker": "审判长",
+        "emotion": "等待",
+        "duration": 1.64,
+        "description_visual": "中景平拍镜头；原告席，木质桌子；画面中央人物，身穿黑色律师袍，站立，等待，表情：眉毛平展，眼睛看向前方，嘴巴闭合；画面左侧人物，身穿格纹外套，坐着，等待，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍",
+                "position": "中央高台",
+                "action": "端坐",
+                "expression": "未知"
+            },
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍",
+                "position": "左侧桌前",
+                "action": "站立",
+                "expression": "未知"
+            }
+        ],
+        "background": "法庭内部，橙色背景",
+        "description_narrative": "全景镜头展示法庭，画外音传来法官请证人陈芳入庭的声音。",
+        "dialogue": "请证人陈芳",
+        "speaker": "审判长",
+        "emotion": "严肃",
+        "duration": 1.62,
+        "description_visual": "全景平拍镜头；法庭内部，橙色背景；中央高台人物，身穿黑色法官袍，端坐，表情：未知；左侧桌前人物，身穿黑色律师袍，站立，表情：未知。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍",
+                "position": "画面左侧",
+                "action": "坐着，双手交叉",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "被告",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "坐着，双手交叉",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "中景镜头展示被告律师和被告坐着等待，画外音传来法官请证人入庭的声音。",
+        "dialogue": "入庭",
+        "speaker": "审判长",
+        "emotion": "等待",
+        "duration": 2.44,
+        "description_visual": "中景平拍镜头；被告席，木质桌子；画面左侧人物，身穿黑色律师袍，坐着，双手交叉，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合；画面右侧人物，身穿棕色西装，坐着，双手交叉，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "旁听群众",
+                "gender": "未知",
+                "clothing": "各色便服",
+                "position": "观众席",
+                "action": "坐着，转头看",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "观众席，米色座椅",
+        "description_narrative": "全景镜头拍摄观众席，旁听群众转头看向入口，画外音传来法官请证人入庭的声音，有人小声议论。",
+        "dialogue": "请证人陈芳入庭。",
+        "speaker": "审判长",
+        "emotion": "好奇",
+        "duration": 2.2,
+        "description_visual": "全景平拍镜头；观众席，米色座椅；观众席人物，身穿各色便服，坐着，转头看，表情：眉毛微挑，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍",
+                "position": "画面中央",
+                "action": "站立，等待",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面左侧",
+                "action": "坐着，等待",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "原告席，木质桌子",
+        "description_narrative": "中景镜头展示原告律师和原告站立等待，画外音传来旁听群众的议论声。",
+        "dialogue": "什么情况这是。",
+        "speaker": "旁听群众",
+        "emotion": "疑惑",
+        "duration": 1.1,
+        "description_visual": "中景平拍镜头；原告席，木质桌子；画面中央人物，身穿黑色律师袍，站立，等待，表情：眉毛平展，眼睛看向前方，嘴巴闭合；画面左侧人物，身穿格纹外套，坐着，等待，表情：眉毛微蹙，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面中央",
+                "action": "坐着，转头看",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴张开"
+            }
+        ],
+        "background": "原告席，木质桌子",
+        "description_narrative": "特写镜头聚焦原告，她转头看向入口，惊讶地问“这怎么回事啊陈芳”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 1.38,
+        "description_visual": "特写平拍镜头；原告席，木质桌子；画面中央人物，身穿格纹外套，坐着，转头看，表情：眉毛微蹙，眼睛侧视，嘴巴张开。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍",
+                "position": "画面中央",
+                "action": "站立，侧身",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            }
+        ],
+        "background": "原告席，模糊背景",
+        "description_narrative": "近景镜头拍摄原告律师侧身站立，画外音传来被告律师的质问。",
+        "dialogue": "这怎么回事啊陈芳。",
+        "speaker": "原告",
+        "emotion": "疑惑",
+        "duration": 1.92,
+        "description_visual": "近景侧拍镜头；原告席，模糊背景；画面中央人物，身穿黑色律师袍，站立，侧身，表情：眉毛平展，眼睛看向前方，嘴巴闭合。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍",
+                "position": "画面中央",
+                "action": "坐着，双手交叉",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴张开说话"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "近景镜头拍摄被告律师，他双手交叉，质疑原告律师的证人。",
+        "dialogue": "原告律师",
+        "speaker": "被告律师",
+        "emotion": "质疑",
+        "duration": 1.7,
+        "description_visual": "近景平拍镜头；被告席，木质桌子；画面中央人物，身穿黑色律师袍，坐着，双手交叉，表情：眉毛微挑，眼睛看向前方，嘴巴张开说话。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "审判长",
+                "gender": "男",
+                "clothing": "黑色法官袍",
+                "position": "中央高台",
+                "action": "端坐",
+                "expression": "未知"
+            },
+            {
+                "name": "原告律师",
+                "gender": "女",
+                "clothing": "黑色律师袍",
+                "position": "左侧桌前",
+                "action": "站立",
+                "expression": "未知"
+            }
+        ],
+        "background": "法庭内部，橙色背景",
+        "description_narrative": "全景镜头展示法庭，被告律师画外音继续质问证人身份。",
+        "dialogue": "难道你的证人她？",
+        "speaker": "被告律师",
+        "emotion": "质疑",
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；法庭内部，橙色背景；中央高台人物，身穿黑色法官袍，端坐，表情：未知；左侧桌前人物，身穿黑色律师袍，站立，表情：未知。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "证人",
+                "gender": "女",
+                "clothing": "白色衬衫，牛仔裤",
+                "position": "画面中央",
+                "action": "走进法庭",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "法庭过道，米色座椅",
+        "description_narrative": "近景镜头跟拍证人陈芳走进法庭，她身穿白衬衫，表情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.26,
+        "description_visual": "近景平拍镜头（跟拍）；法庭过道，米色座椅；画面中央人物，身穿白色衬衫，牛仔裤，走进法庭，表情：眉毛平展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "原告",
+                "gender": "女",
+                "clothing": "格纹外套",
+                "position": "画面中央",
+                "action": "坐着，转头看",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴张开"
+            }
+        ],
+        "background": "原告席，木质桌子",
+        "description_narrative": "特写镜头聚焦原告，她转头看向证人，画外音传来证人道歉说来晚了。",
+        "dialogue": "抱歉。",
+        "speaker": "证人",
+        "emotion": "惊讶",
+        "duration": 1.22,
+        "description_visual": "特写平拍镜头；原告席，木质桌子；画面中央人物，身穿格纹外套，坐着，转头看，表情：眉毛微蹙，眼睛侧视，嘴巴张开。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "证人",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "站立，说话",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴张开"
+            }
+        ],
+        "background": "法庭过道，模糊背景",
+        "description_narrative": "近景镜头拍摄证人陈芳，她站立着解释来晚的原因。",
+        "dialogue": "我来晚了。",
+        "speaker": "证人",
+        "emotion": "平静",
+        "duration": 1.42,
+        "description_visual": "近景平拍镜头；法庭过道，模糊背景；画面中央人物，身穿白色衬衫，站立，说话，表情：眉毛平展，眼睛看向前方，嘴巴张开。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面中央",
+                "action": "坐着，转头看",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴闭合"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "特写镜头聚焦被告，他转头看向证人，画外音传来证人指控被告多年来侵犯骚扰女孩。",
+        "dialogue": "这是薛贵这么多年。",
+        "speaker": "证人",
+        "emotion": "震惊",
+        "duration": 2.06,
+        "description_visual": "特写平拍镜头；被告席，木质桌子；画面中央人物，身穿棕色西装，坐着，转头看，表情：眉毛微蹙，眼睛侧视，嘴巴闭合。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "证人",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "站立，举起手",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴张开"
+            }
+        ],
+        "background": "法庭过道，模糊背景",
+        "description_narrative": "近景镜头拍摄证人陈芳，她举起手，声称掌握被告侵犯骚扰所有女孩的证据。",
+        "dialogue": "年来侵犯以及骚扰过所有女孩。",
+        "speaker": "证人",
+        "emotion": "坚定",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；法庭过道，模糊背景；画面中央人物，身穿白色衬衫，站立，举起手，表情：眉毛平展，眼睛看向前方，嘴巴张开。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍",
+                "position": "画面中央",
+                "action": "坐着，身体前倾",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "被告席，木质桌子",
+        "description_narrative": "近景镜头拍摄被告律师，他身体前倾，表情震惊，画外音传来证人展示全部证据的声音。",
+        "dialogue": "全部证据。",
+        "speaker": "证人",
+        "emotion": "震惊",
+        "duration": 0.94,
+        "description_visual": "近景平拍镜头；被告席，木质桌子；画面中央人物，身穿黑色律师袍，坐着，身体前倾，表情：眉毛微挑，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 48,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被告律师",
+                "gender": "男",
+                "clothing": "黑色律师袍",
+                "position": "画面中央",
+                "action": "坐着，震惊",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "被告席，强光背景",
+        "description_narrative": "特写镜头聚焦被告律师，他表情极度震惊，画面被强光照亮，他发出“什么”的声音。",
+        "dialogue": "什么。",
+        "speaker": "被告律师",
+        "emotion": "震惊",
+        "duration": 2.44,
+        "description_visual": "特写平拍镜头；被告席，强光背景；画面中央人物，身穿黑色律师袍，坐着，震惊，表情：眉毛微挑，眼睛睁大，嘴巴张开。"
+    }
+]

@@ -1,0 +1,752 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，中央显示白色标题文字",
+        "description_narrative": "黑色背景中央显示白色大字“第五十四集”，无其他人物或动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；纯黑背景，中央显示白色标题文字。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色蕾丝上衣",
+                "position": "画面中央",
+                "action": "双手拿着小块食物，低头注视",
+                "expression": "眉头微蹙，眼神悲伤，嘴唇微张似乎在倾诉"
+            }
+        ],
+        "background": "夜晚荒野，背景有模糊的树枝和叶子，光线昏暗",
+        "description_narrative": "近景镜头，曼凝身穿黑色蕾丝上衣，在昏暗的荒野夜晚中，双手捧着食物低头注视，神情悲伤，似乎在对周正深情告白。",
+        "dialogue": "周正，我好爱你啊，等我出去了就要嫁给你。",
+        "speaker": "曼凝",
+        "emotion": "悲伤、深情",
+        "duration": 3.9,
+        "description_visual": "近景平拍镜头；夜晚荒野，背景有模糊的树枝和叶子，光线昏暗；画面中央人物，身穿黑色蕾丝上衣，双手拿着小块食物，低头注视，表情：眉头微蹙，眼神悲伤，嘴唇微张似乎在倾诉。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色蕾丝上衣",
+                "position": "画面中央",
+                "action": "手持食物，身体微微前倾，表情痛苦",
+                "expression": "眉头紧锁，眼睛含泪，嘴角下撇"
+            }
+        ],
+        "background": "夜晚荒野，背景有模糊的树枝，光线集中在人物面部",
+        "description_narrative": "近景镜头，曼凝表情痛苦，眉头紧锁，眼中含泪，似乎在回应周正的担忧，手中仍拿着食物。",
+        "dialogue": "你别激动，我们能不能出去？",
+        "speaker": "周正",
+        "emotion": "担忧、理性",
+        "duration": 3.43,
+        "description_visual": "近景平拍镜头；夜晚荒野，背景有模糊的树枝，光线集中在人物面部；画面中央人物，身穿黑色蕾丝上衣，手持食物，身体微微前倾，表情痛苦，表情：眉头紧锁，眼睛含泪，嘴角下撇。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色蕾丝上衣",
+                "position": "画面中央",
+                "action": "低头看着手中的食物，神情沮丧",
+                "expression": "眉毛下垂，眼神躲闪，嘴唇紧闭"
+            }
+        ],
+        "background": "夜晚荒野，背景黑暗，仅有微弱光线照亮人物",
+        "description_narrative": "近景镜头，曼凝神情沮丧，低头看着手中食物，认同了周正关于能否逃生的担忧，气氛压抑。",
+        "dialogue": "还是一回事呢，你说得对，我们不一定能出去呢。",
+        "speaker": "曼凝",
+        "emotion": "沮丧、无奈",
+        "duration": 6.67,
+        "description_visual": "近景平拍镜头；夜晚荒野，背景黑暗，仅有微弱光线照亮人物；画面中央人物，身穿黑色蕾丝上衣，低头看着手中的食物，神情沮丧，表情：眉毛下垂，眼神躲闪，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心，短裤",
+                "position": "画面左侧",
+                "action": "坐着，伸手去拉曼凝的手臂",
+                "expression": "眉头微皱，眼神关切，嘴巴微张"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "坐着，身体倾向周正，低头",
+                "expression": "表情悲伤，眼神向下"
+            }
+        ],
+        "background": "夜晚荒野，地面有草和树叶，旁边有一个椰子",
+        "description_narrative": "中景镜头，周正和曼凝坐在草地上，周正伸手去拉曼凝的手臂想要查看，曼凝低头依靠，旁边地上放着一个椰子。",
+        "dialogue": "让我看看",
+        "speaker": "周正",
+        "emotion": "关切",
+        "duration": 1.67,
+        "description_visual": "中景平拍镜头；夜晚荒野，地面有草和树叶，旁边有一个椰子；画面左侧人物，身穿黑色背心，短裤，坐着，伸手去拉曼凝的手臂，表情：眉头微皱，眼神关切，嘴巴微张；画面右侧人物，身穿黑色上衣，白色长裙，坐着，身体倾向周正，低头，表情：表情悲伤，眼神向下。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心，短裤",
+                "position": "画面左侧",
+                "action": "搂住曼凝的肩膀，安慰她",
+                "expression": "表情严肃，眼神看向远方"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "头靠在周正肩膀上，双手交握",
+                "expression": "表情依赖，眼神低垂"
+            }
+        ],
+        "background": "夜晚荒野，背景是茂密的树枝和叶子",
+        "description_narrative": "中景镜头，周正搂着曼凝的肩膀安慰她，曼凝头靠在他肩上，此时画外传来校服女嫉妒的声音。",
+        "dialogue": "有没有人勾引周正",
+        "speaker": "校服女",
+        "emotion": "嫉妒、挑衅",
+        "duration": 6.3,
+        "description_visual": "中景平拍镜头；夜晚荒野，背景是茂密的树枝和叶子；画面左侧人物，身穿黑色背心，短裤，搂住曼凝的肩膀，安慰她，表情：表情严肃，眼神看向远方；画面右侧人物，身穿黑色上衣，白色长裙，头靠在周正肩膀上，双手交握，表情：表情依赖，眼神低垂。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心，短裤",
+                "position": "画面中央偏左",
+                "action": "坐着，转头看向左侧",
+                "expression": "表情惊讶，眉头皱起"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "靠在周正身上，抬头看左侧",
+                "expression": "表情警惕，眼神看向左侧"
+            }
+        ],
+        "background": "夜晚荒野，左侧有人影进入画面",
+        "description_narrative": "中景镜头，周正和曼凝正依偎时，校服女从左侧进入画面，周正和曼凝同时转头看向她，气氛紧张。",
+        "dialogue": "曼凝你在干什么",
+        "speaker": "校服女",
+        "emotion": "质问、急躁",
+        "duration": 2.03,
+        "description_visual": "中景平拍镜头；夜晚荒野，左侧有人影进入画面；画面中央偏左人物，身穿黑色背心，短裤，坐着，转头看向左侧，表情：表情惊讶，眉头皱起；画面右侧人物，身穿黑色上衣，白色长裙，靠在周正身上，抬头看左侧，表情：表情警惕，眼神看向左侧。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "白衬衫深色背心校服，彩色领巾",
+                "position": "画面左侧前景",
+                "action": "蹲下/坐下，身体前倾",
+                "expression": "表情敌意，嘴巴微张说话"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心，短裤",
+                "position": "画面中央",
+                "action": "坐着，看着校服女",
+                "expression": "表情无奈"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "坐着，看着校服女",
+                "expression": "表情不悦"
+            }
+        ],
+        "background": "夜晚荒野，地面有沙土和草，旁边有椰子",
+        "description_narrative": "中景镜头，校服女蹲坐在左侧，带着敌意说要看看有没有人勾引周正，周正和曼凝坐在右侧看着她。",
+        "dialogue": "让我看看有没有人勾引周正",
+        "speaker": "校服女",
+        "emotion": "嫉妒、攻击性",
+        "duration": 4.6,
+        "description_visual": "中景平拍镜头；夜晚荒野，地面有沙土和草，旁边有椰子；画面左侧前景人物，身穿白衬衫深色背心校服，彩色领巾，蹲下/坐下，身体前倾，表情：表情敌意，嘴巴微张说话；画面中央人物，身穿黑色背心，短裤，坐着，看着校服女，表情：表情无奈；画面右侧人物，身穿黑色上衣，白色长裙，坐着，看着校服女，表情：表情不悦。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "白衬衫深色背心校服，彩色领巾",
+                "position": "画面左侧",
+                "action": "伸手去抓周正的手臂",
+                "expression": "表情急切"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "身体前倾，伸手阻挡",
+                "expression": "表情愤怒，眉头紧锁"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面中央",
+                "action": "被夹在中间，身体后缩",
+                "expression": "表情痛苦"
+            }
+        ],
+        "background": "夜晚荒野，光线昏暗",
+        "description_narrative": "中近景镜头，校服女伸手去抓周正，曼凝愤怒地伸手阻挡，三人发生肢体冲突，周正被夹在中间。",
+        "dialogue": "哎呀",
+        "speaker": "校服女",
+        "emotion": "惊讶、疼痛",
+        "duration": 0.53,
+        "description_visual": "中近景平拍镜头；夜晚荒野，光线昏暗；画面左侧人物，身穿白衬衫深色背心校服，彩色领巾，伸手去抓周正的手臂，表情：表情急切；画面右侧人物，身穿黑色上衣，身体前倾，伸手阻挡，表情：表情愤怒，眉头紧锁；画面中央人物，身穿黑色背心，被夹在中间，身体后缩，表情：表情痛苦。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "伸手推开校服女的手",
+                "expression": "表情愤怒，嘴巴微张"
+            },
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "校服领巾",
+                "position": "画面左侧前景",
+                "action": "手被推开",
+                "expression": "表情不服"
+            }
+        ],
+        "background": "夜晚荒野，背景模糊",
+        "description_narrative": "特写镜头，曼凝愤怒地推开校服女的手，指责她打到了周正，校服女的手被挡开。",
+        "dialogue": "你打到他了",
+        "speaker": "曼凝",
+        "emotion": "愤怒、护夫",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；夜晚荒野，背景模糊；画面右侧人物，身穿黑色上衣，伸手推开校服女的手，表情：表情愤怒，嘴巴微张；画面左侧前景人物，身穿校服领巾，手被推开，表情：表情不服。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "双手抓住校服女的手腕",
+                "expression": "表情痛苦，眉头紧皱"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左后",
+                "action": "捂着手臂",
+                "expression": "表情痛苦"
+            }
+        ],
+        "background": "夜晚荒野，光线集中在人物身上",
+        "description_narrative": "特写镜头，曼凝抓住校服女的手腕，表情痛苦地喊着周正被打到了，周正在后方捂着手臂。",
+        "dialogue": "你打到他了",
+        "speaker": "曼凝",
+        "emotion": "愤怒、焦急",
+        "duration": 0.53,
+        "description_visual": "特写平拍镜头；夜晚荒野，光线集中在人物身上；画面右侧人物，身穿黑色上衣，双手抓住校服女的手腕，表情：表情痛苦，眉头紧皱；画面左后人物，身穿黑色背心，捂着手臂，表情：表情痛苦。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "用力推开校服女",
+                "expression": "表情愤怒，咬牙切齿"
+            },
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "校服",
+                "position": "画面左侧",
+                "action": "被推开",
+                "expression": "表情惊讶"
+            }
+        ],
+        "background": "夜晚荒野，背景黑暗",
+        "description_narrative": "特写镜头，曼凝用力推开校服女，继续指责她打到了周正，动作激烈。",
+        "dialogue": "你打到他了",
+        "speaker": "曼凝",
+        "emotion": "愤怒",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；夜晚荒野，背景黑暗；画面右侧人物，身穿黑色上衣，用力推开校服女，表情：表情愤怒，咬牙切齿；画面左侧人物，身穿校服，被推开，表情：表情惊讶。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "身体前倾，对着校服女争吵",
+                "expression": "表情愤怒，眼睛瞪大"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "看着两人争吵",
+                "expression": "表情痛苦"
+            }
+        ],
+        "background": "夜晚荒野，背景有树叶",
+        "description_narrative": "特写镜头，曼凝身体前倾对着校服女争吵，表情愤怒，周正在一旁看着，场面混乱。",
+        "dialogue": "你打到他了",
+        "speaker": "曼凝",
+        "emotion": "愤怒",
+        "duration": 0.67,
+        "description_visual": "特写平拍镜头；夜晚荒野，背景有树叶；画面右侧人物，身穿黑色上衣，身体前倾，对着校服女争吵，表情：表情愤怒，眼睛瞪大；画面左侧人物，身穿黑色背心，看着两人争吵，表情：表情痛苦。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "继续与校服女争执",
+                "expression": "表情愤怒，嘴巴张开"
+            },
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "校服",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚荒野，光线昏暗",
+        "description_narrative": "特写镜头，曼凝继续与校服女争执，表情愤怒，校服女背对镜头，只能看到背影。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.57,
+        "description_visual": "特写平拍镜头；夜晚荒野，光线昏暗；画面右侧人物，身穿黑色上衣，继续与校服女争执，表情：表情愤怒，嘴巴张开；画面左侧前景人物，身穿校服，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "伸手推校服女",
+                "expression": "表情愤怒，大声质问"
+            },
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "校服",
+                "position": "画面左侧",
+                "action": "被推",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚荒野，背景模糊",
+        "description_narrative": "特写镜头，曼凝伸手推校服女，大声质问她在干什么，情绪激动。",
+        "dialogue": "你打到他了",
+        "speaker": "曼凝",
+        "emotion": "愤怒",
+        "duration": 0.53,
+        "description_visual": "特写平拍镜头；夜晚荒野，背景模糊；画面右侧人物，身穿黑色上衣，伸手推校服女，表情：表情愤怒，大声质问；画面左侧人物，身穿校服，被推，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "表情愤怒，看着校服女",
+                "expression": "眉头紧锁，嘴巴张开"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "捂着肩膀",
+                "expression": "表情痛苦"
+            }
+        ],
+        "background": "夜晚荒野，背景黑暗",
+        "description_narrative": "特写镜头，曼凝表情愤怒地看着校服女，周正在一旁捂着肩膀，显得痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.1,
+        "description_visual": "特写平拍镜头；夜晚荒野，背景黑暗；画面右侧人物，身穿黑色上衣，表情愤怒，看着校服女，表情：眉头紧锁，嘴巴张开；画面左侧人物，身穿黑色背心，捂着肩膀，表情：表情痛苦。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "转头看向周正",
+                "expression": "表情关切又愤怒"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "捂着肩膀",
+                "expression": "表情痛苦"
+            }
+        ],
+        "background": "夜晚荒野，背景有树叶",
+        "description_narrative": "特写镜头，曼凝转头看向周正，表情关切又愤怒，质问校服女在干什么。",
+        "dialogue": "你干什么",
+        "speaker": "曼凝",
+        "emotion": "愤怒、质问",
+        "duration": 1.03,
+        "description_visual": "特写平拍镜头；夜晚荒野，背景有树叶；画面右侧人物，身穿黑色上衣，转头看向周正，表情：表情关切又愤怒；画面左侧人物，身穿黑色背心，捂着肩膀，表情：表情痛苦。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "白衬衫深色背心校服",
+                "position": "画面左侧",
+                "action": "伸手摸周正的手臂",
+                "expression": "表情假装关心"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面中央",
+                "action": "坐着，捂着手臂",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "伸手阻拦校服女",
+                "expression": "表情愤怒"
+            }
+        ],
+        "background": "夜晚荒野，地面有草和椰子",
+        "description_narrative": "中景镜头，三人坐在地上，校服女伸手去摸周正的手臂假装关心，曼凝伸手阻拦，指责她打到了周正。",
+        "dialogue": "你打到他了",
+        "speaker": "曼凝",
+        "emotion": "愤怒、指责",
+        "duration": 5.97,
+        "description_visual": "中景平拍镜头；夜晚荒野，地面有草和椰子；画面左侧人物，身穿白衬衫深色背心校服，伸手摸周正的手臂，表情：表情假装关心；画面中央人物，身穿黑色背心，坐着，捂着手臂，表情：表情痛苦；画面右侧人物，身穿黑色上衣，白色长裙，伸手阻拦校服女，表情：表情愤怒。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "侧身坐着，看着左侧",
+                "expression": "表情愤怒，嘴巴微张"
+            }
+        ],
+        "background": "夜晚荒野，背景黑暗",
+        "description_narrative": "近景镜头，曼凝侧身坐着，看着左侧的校服女，校服女在画外道歉并推卸责任。",
+        "dialogue": "对不起对不起对不起，还不是因为你",
+        "speaker": "校服女",
+        "emotion": "假意道歉、推卸责任",
+        "duration": 1.33,
+        "description_visual": "近景平拍镜头；夜晚荒野，背景黑暗；画面右侧人物，身穿黑色上衣，侧身坐着，看着左侧，表情：表情愤怒，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "对着左侧的校服女骂道",
+                "expression": "表情愤怒，眉毛倒竖，嘴巴张开"
+            }
+        ],
+        "background": "夜晚荒野，背景有树枝",
+        "description_narrative": "近景镜头，曼凝对着左侧的校服女愤怒地骂她是傻女人，表情激动。",
+        "dialogue": "你个傻女人",
+        "speaker": "曼凝",
+        "emotion": "愤怒、辱骂",
+        "duration": 3.7,
+        "description_visual": "近景平拍镜头；夜晚荒野，背景有树枝；画面中央人物，身穿黑色上衣，对着左侧的校服女骂道，表情：表情愤怒，眉毛倒竖，嘴巴张开。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "白衬衫深色背心校服，彩色领巾",
+                "position": "画面左侧",
+                "action": "抬头说话，表情委屈",
+                "expression": "嘴巴微张，眼神向上"
+            }
+        ],
+        "background": "夜晚荒野，背景有垂下的树枝",
+        "description_narrative": "近景镜头，校服女抬头说话，表情委屈，画外传来曼凝指责她下手没轻重的声音。",
+        "dialogue": "你把周正都打疼了，下手没个轻重的。",
+        "speaker": "曼凝",
+        "emotion": "指责、心疼",
+        "duration": 0.97,
+        "description_visual": "近景平拍镜头；夜晚荒野，背景有垂下的树枝；画面左侧人物，身穿白衬衫深色背心校服，彩色领巾，抬头说话，表情委屈，表情：嘴巴微张，眼神向上。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "白衬衫深色背心校服，彩色领巾",
+                "position": "画面左侧",
+                "action": "说话，表情不服",
+                "expression": "嘴巴张开，眼神斜视"
+            }
+        ],
+        "background": "夜晚荒野，背景有树枝",
+        "description_narrative": "近景镜头，校服女表情不服地反驳，说自己下手没轻没重，语气带有讽刺。",
+        "dialogue": "我下手没轻没重",
+        "speaker": "校服女",
+        "emotion": "不服、讽刺",
+        "duration": 3.07,
+        "description_visual": "近景平拍镜头；夜晚荒野，背景有树枝；画面左侧人物，身穿白衬衫深色背心校服，彩色领巾，说话，表情不服，表情：嘴巴张开，眼神斜视。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "白衬衫深色背心校服",
+                "position": "画面左侧",
+                "action": "伸手摸周正的腿",
+                "expression": "表情狡黠"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面中央",
+                "action": "坐着，捂着胸口",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "坐着，看着校服女",
+                "expression": "表情愤怒"
+            }
+        ],
+        "background": "夜晚荒野，地面有草和椰子",
+        "description_narrative": "中景镜头，校服女伸手摸周正的腿，说是因为曼凝这个坏女人才导致这样，周正捂着胸口，曼凝愤怒地看着她。",
+        "dialogue": "还不是因为你这个坏女人哦",
+        "speaker": "校服女",
+        "emotion": "指责、挑衅",
+        "duration": 6.07,
+        "description_visual": "中景平拍镜头；夜晚荒野，地面有草和椰子；画面左侧人物，身穿白衬衫深色背心校服，伸手摸周正的腿，表情：表情狡黠；画面中央人物，身穿黑色背心，坐着，捂着胸口，表情：表情痛苦；画面右侧人物，身穿黑色上衣，白色长裙，坐着，看着校服女，表情：表情愤怒。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "白衬衫深色背心校服",
+                "position": "画面左侧",
+                "action": "坐着，对着曼凝说话",
+                "expression": "表情愤怒"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面中央",
+                "action": "蜷缩着身体",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "坐着，看着周正",
+                "expression": "表情担忧"
+            }
+        ],
+        "background": "夜晚荒野，地面有沙土和椰子",
+        "description_narrative": "中景镜头，校服女坐着对着曼凝说是她这个傻女人的错，周正蜷缩在中间，曼凝担忧地看着周正。",
+        "dialogue": "都是你这个傻女人",
+        "speaker": "校服女",
+        "emotion": "愤怒、指责",
+        "duration": 6.33,
+        "description_visual": "中景平拍镜头；夜晚荒野，地面有沙土和椰子；画面左侧人物，身穿白衬衫深色背心校服，坐着，对着曼凝说话，表情：表情愤怒；画面中央人物，身穿黑色背心，蜷缩着身体，表情：表情痛苦；画面右侧人物，身穿黑色上衣，白色长裙，坐着，看着周正，表情：表情担忧。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "校服女",
+                "gender": "女",
+                "clothing": "白衬衫深色背心校服",
+                "position": "画面左侧",
+                "action": "伸手去揉周正的腿",
+                "expression": "表情假装关心"
+            },
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面中央",
+                "action": "坐着，腿伸直",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "伸手阻拦",
+                "expression": "表情愤怒"
+            }
+        ],
+        "background": "夜晚荒野，地面有草和椰子",
+        "description_narrative": "中景镜头，校服女伸手去揉周正的腿说要给他揉揉，曼凝伸手阻拦说别揉了，三人再次发生争执。",
+        "dialogue": "下手没个轻重的，那我给他揉揉，你别揉了。",
+        "speaker": "曼凝/校服女",
+        "emotion": "愤怒、假装关心",
+        "duration": 6.33,
+        "description_visual": "中景平拍镜头；夜晚荒野，地面有草和椰子；画面左侧人物，身穿白衬衫深色背心校服，伸手去揉周正的腿，表情：表情假装关心；画面中央人物，身穿黑色背心，坐着，腿伸直，表情：表情痛苦；画面右侧人物，身穿黑色上衣，白色长裙，伸手阻拦，表情：表情愤怒。"
+    }
+]

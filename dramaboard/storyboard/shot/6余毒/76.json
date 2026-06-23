@@ -1,0 +1,942 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣，深灰色裤子",
+                "position": "画面左侧床上",
+                "action": "坐在床边，身体微侧，左手撑在身后",
+                "expression": "眉毛微挑，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面左后方门口",
+                "action": "站立，双手自然下垂",
+                "expression": "面具遮挡，眼神透过面具孔洞直视前方"
+            },
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色条纹西装，白色面具",
+                "position": "画面中央后方",
+                "action": "站立，双手插兜",
+                "expression": "面具遮挡，头部微低"
+            },
+            {
+                "name": "风衣女子",
+                "gender": "女",
+                "clothing": "米色风衣，金红色面具",
+                "position": "画面右侧",
+                "action": "站立，双手自然下垂",
+                "expression": "面具遮挡，嘴角微扬"
+            },
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍裙",
+                "position": "画面右前景",
+                "action": "背对镜头，抱着小女孩",
+                "expression": "不可见"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹衫，棕色背带裤",
+                "position": "画面右前景",
+                "action": "被女子抱着，坐在床上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店房间，深色木质墙面，两张床，光线明亮",
+        "description_narrative": "全景镜头，酒店房间内，黑高领男坐在左侧床上，狼面具男、灰西装男、风衣女子等人站在房间中央和右侧，白裙女子抱着小女孩坐在右前景床上，众人对峙，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "全景平拍镜头；酒店房间，深色木质墙面，两张床，光线明亮；画面左侧床上人物，身穿黑色高领毛衣，深灰色裤子，坐在床边，身体微侧，左手撑在身后，表情：眉毛微挑，眼睛看向右侧，嘴巴微张；画面左后方门口人物，身穿黑色西装，黑色衬衫，银色狼头面具，站立，双手自然下垂，表情：面具遮挡，眼神透过面具孔洞直视前方；画面中央后方人物，身穿灰色条纹西装，白色面具，站立，双手插兜，表情：面具遮挡，头部微低；画面右侧人物，身穿米色风衣，金红色面具，站立，双手自然下垂，表情：面具遮挡，嘴角微扬；画面右前景人物，身穿白色蕾丝无袖旗袍裙，背对镜头，抱着小女孩，表情：不可见；画面右前景人物，身穿条纹衫，棕色背带裤，被女子抱着，坐在床上，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍裙",
+                "position": "画面中央",
+                "action": "转头看向左侧，眼神疑惑",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间背景，虚化",
+        "description_narrative": "特写镜头，白裙女子面露疑惑，转头看向左侧，眉头微蹙，嘴唇微张，似乎在询问发生了什么。",
+        "dialogue": "怎么回事",
+        "speaker": "白裙女子",
+        "emotion": "疑惑",
+        "duration": 0.66,
+        "description_visual": "特写平拍镜头；酒店房间背景，虚化；画面中央人物，身穿白色蕾丝无袖旗袍裙，转头看向左侧，眼神疑惑，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣，深灰色裤子",
+                "position": "画面左侧床上",
+                "action": "坐在床边，右手抬起指向右侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面左后方门口",
+                "action": "站立，双手自然下垂",
+                "expression": "面具遮挡，眼神直视"
+            },
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色条纹西装，白色面具",
+                "position": "画面中央后方",
+                "action": "站立，双手插兜",
+                "expression": "面具遮挡"
+            },
+            {
+                "name": "风衣女子",
+                "gender": "女",
+                "clothing": "米色风衣，金红色面具",
+                "position": "画面右侧",
+                "action": "站立，看向左侧",
+                "expression": "面具遮挡"
+            },
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍裙",
+                "position": "画面右前景",
+                "action": "背对镜头，抱着小女孩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店房间，深色木质墙面，两张床",
+        "description_narrative": "全景镜头，黑高领男坐在床上，右手抬起指向右侧，似乎在解释或指责，白裙女子画外音询问“怎么回事”，字幕显示在画面下方。",
+        "dialogue": "怎么回事",
+        "speaker": "白裙女子",
+        "emotion": "疑惑",
+        "duration": 0.6,
+        "description_visual": "全景平拍镜头；酒店房间，深色木质墙面，两张床；画面左侧床上人物，身穿黑色高领毛衣，深灰色裤子，坐在床边，右手抬起指向右侧，表情：眉毛舒展，眼睛看向右侧，嘴巴微张；画面左后方门口人物，身穿黑色西装，黑色衬衫，银色狼头面具，站立，双手自然下垂，表情：面具遮挡，眼神直视；画面中央后方人物，身穿灰色条纹西装，白色面具，站立，双手插兜，表情：面具遮挡；画面右侧人物，身穿米色风衣，金红色面具，站立，看向左侧，表情：面具遮挡；画面右前景人物，身穿白色蕾丝无袖旗袍裙，背对镜头，抱着小女孩，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面中央",
+                "action": "站立，身体正对前方",
+                "expression": "面具遮挡，眼神平静直视"
+            }
+        ],
+        "background": "酒店房间门口，深色门框",
+        "description_narrative": "中景镜头，狼面具男站在门口，身体正对前方，透过银色狼头面具直视对方，语气平静地问道。",
+        "dialogue": "你也是江市世家的吧",
+        "speaker": "狼面具男",
+        "emotion": "平静",
+        "duration": 1.98,
+        "description_visual": "中景平拍镜头；酒店房间门口，深色门框；画面中央人物，身穿黑色西装，黑色衬衫，银色狼头面具，站立，身体正对前方，表情：面具遮挡，眼神平静直视。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "风衣女子",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭，金红色面具",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "面具遮挡，嘴角上扬，眼神轻蔑"
+            }
+        ],
+        "background": "酒店房间，深色背景墙，电视柜",
+        "description_narrative": "中近景镜头，风衣女子戴着金红色面具，嘴角上扬，眼神轻蔑地解释情况。",
+        "dialogue": "白总看上了这个女人",
+        "speaker": "风衣女子",
+        "emotion": "轻蔑",
+        "duration": 2.86,
+        "description_visual": "中近景平拍镜头；酒店房间，深色背景墙，电视柜；画面中央人物，身穿米色风衣，黑色内搭，金红色面具，站立，头部微侧，表情：面具遮挡，嘴角上扬，眼神轻蔑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面中央",
+                "action": "站立，头部微低",
+                "expression": "面具遮挡，眼神下移"
+            }
+        ],
+        "background": "酒店房间门口，浅色墙面",
+        "description_narrative": "中近景镜头，狼面具男低头聆听，风衣女子画外音继续说道“她抵死不从”，字幕显示在画面下方。",
+        "dialogue": "她抵死不从",
+        "speaker": "风衣女子",
+        "emotion": "冷漠",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；酒店房间门口，浅色墙面；画面中央人物，身穿黑色西装，黑色衬衫，银色狼头面具，站立，头部微低，表情：面具遮挡，眼神下移。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "风衣女子",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭，金红色面具",
+                "position": "画面中央",
+                "action": "站立，身体微前倾",
+                "expression": "面具遮挡，嘴巴微张，似在说话"
+            }
+        ],
+        "background": "酒店房间，深色背景墙",
+        "description_narrative": "中近景镜头，风衣女子身体微前倾，语气带着一丝戏谑地说道。",
+        "dialogue": "我们得帮她一把",
+        "speaker": "风衣女子",
+        "emotion": "戏谑",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；酒店房间，深色背景墙；画面中央人物，身穿米色风衣，黑色内搭，金红色面具，站立，身体微前倾，表情：面具遮挡，嘴巴微张，似在说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "面具遮挡，眼神冷峻"
+            }
+        ],
+        "background": "酒店房间门口，浅色墙面",
+        "description_narrative": "中近景镜头，狼面具男双臂交叉抱在胸前，风衣女子画外音继续说道“白总要玩这个女人”，字幕显示在画面下方。",
+        "dialogue": "白总要玩这个女人",
+        "speaker": "风衣女子",
+        "emotion": "冷漠",
+        "duration": 2.38,
+        "description_visual": "中近景平拍镜头；酒店房间门口，浅色墙面；画面中央人物，身穿黑色西装，黑色衬衫，银色狼头面具，双臂交叉抱在胸前，表情：面具遮挡，眼神冷峻。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在床上，身体前倾，头部转向右侧",
+                "expression": "眉毛微蹙，眼睛眯起，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店房间，浅色墙面",
+        "description_narrative": "近景镜头，黑高领男坐在床上，身体前倾，转头看向右侧，语气嚣张地问道。",
+        "dialogue": "你有意见吗",
+        "speaker": "黑高领男",
+        "emotion": "嚣张",
+        "duration": 1.68,
+        "description_visual": "近景侧拍镜头；酒店房间，浅色墙面；画面中央人物，身穿黑色高领毛衣，坐在床上，身体前倾，头部转向右侧，表情：眉毛微蹙，眼睛眯起，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，头部微侧",
+                "expression": "面具遮挡，眼神斜视"
+            }
+        ],
+        "background": "酒店房间门口，浅色墙面",
+        "description_narrative": "中近景镜头，狼面具男双臂交叉，头部微侧，冷冷地看着对方，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷峻",
+        "duration": 3.48,
+        "description_visual": "中近景平拍镜头；酒店房间门口，浅色墙面；画面中央人物，身穿黑色西装，黑色衬衫，银色狼头面具，双臂交叉抱在胸前，头部微侧，表情：面具遮挡，眼神斜视。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣，深灰色裤子",
+                "position": "画面左侧床上",
+                "action": "坐在床边，左手撑在身后",
+                "expression": "眉毛舒展，眼睛看向右侧"
+            },
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面左后方门口",
+                "action": "站立，双臂交叉",
+                "expression": "面具遮挡"
+            },
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色条纹西装，白色面具",
+                "position": "画面中央后方",
+                "action": "站立，双手插兜",
+                "expression": "面具遮挡"
+            },
+            {
+                "name": "风衣女子",
+                "gender": "女",
+                "clothing": "米色风衣，金红色面具",
+                "position": "画面右侧",
+                "action": "站立，双臂交叉",
+                "expression": "面具遮挡"
+            }
+        ],
+        "background": "酒店房间，深色木质墙面，两张床",
+        "description_narrative": "全景镜头，房间内众人保持对峙姿势，黑高领男坐在床上，狼面具男双臂交叉站在门口，气氛凝固。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 3.42,
+        "description_visual": "全景平拍镜头；酒店房间，深色木质墙面，两张床；画面左侧床上人物，身穿黑色高领毛衣，深灰色裤子，坐在床边，左手撑在身后，表情：眉毛舒展，眼睛看向右侧；画面左后方门口人物，身穿黑色西装，黑色衬衫，银色狼头面具，站立，双臂交叉，表情：面具遮挡；画面中央后方人物，身穿灰色条纹西装，白色面具，站立，双手插兜，表情：面具遮挡；画面右侧人物，身穿米色风衣，金红色面具，站立，双臂交叉，表情：面具遮挡。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在床上，身体转向右侧，右手抬起",
+                "expression": "眉毛微挑，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，浅色墙面",
+        "description_narrative": "中近景镜头，黑高领男坐在床上，身体转向右侧，右手抬起比划，语气傲慢地说道。",
+        "dialogue": "总部把所有的业务交给我来做",
+        "speaker": "黑高领男",
+        "emotion": "傲慢",
+        "duration": 3.66,
+        "description_visual": "中近景侧拍镜头；酒店房间，浅色墙面；画面中央人物，身穿黑色高领毛衣，坐在床上，身体转向右侧，右手抬起，表情：眉毛微挑，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "面具遮挡，眼神冷峻"
+            }
+        ],
+        "background": "酒店房间门口，浅色墙面",
+        "description_narrative": "中近景镜头，狼面具男双臂交叉，黑高领男画外音嚣张地说道“我想玩就玩”，字幕显示在画面下方。",
+        "dialogue": "我想玩就玩",
+        "speaker": "黑高领男",
+        "emotion": "嚣张",
+        "duration": 2.9,
+        "description_visual": "中近景平拍镜头；酒店房间门口，浅色墙面；画面中央人物，身穿黑色西装，黑色衬衫，银色狼头面具，双臂交叉抱在胸前，表情：面具遮挡，眼神冷峻。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣，深灰色裤子",
+                "position": "画面左侧",
+                "action": "站立，双手插兜，头部微仰",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴紧闭"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹衫，棕色背带裤",
+                "position": "画面右后方床上",
+                "action": "坐在床上，看着前方",
+                "expression": "嘴巴微张，眼神好奇"
+            }
+        ],
+        "background": "酒店房间，床头柜，花卉画作",
+        "description_narrative": "中景镜头，黑高领男站立，双手插兜，头部微仰，狼面具男画外音质问道“顶峰就是这么教你做事的”，字幕显示在画面下方。",
+        "dialogue": "顶峰就是这么教你做事的",
+        "speaker": "狼面具男",
+        "emotion": "质问",
+        "duration": 0.72,
+        "description_visual": "中景平拍镜头；酒店房间，床头柜，花卉画作；画面左侧人物，身穿黑色高领毛衣，深灰色裤子，站立，双手插兜，头部微仰，表情：眉毛舒展，眼睛微闭，嘴巴紧闭；画面右后方床上人物，身穿条纹衫，棕色背带裤，坐在床上，看着前方，表情：嘴巴微张，眼神好奇。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣，深灰色裤子",
+                "position": "画面左侧",
+                "action": "站立，双手插兜，头部微侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，床头柜，花卉画作",
+        "description_narrative": "中景镜头，黑高领男站立，双手插兜，转头看向右侧，语气不善地问道。",
+        "dialogue": "你是哪家的",
+        "speaker": "黑高领男",
+        "emotion": "不善",
+        "duration": 2.58,
+        "description_visual": "中景平拍镜头；酒店房间，床头柜，花卉画作；画面左侧人物，身穿黑色高领毛衣，深灰色裤子，站立，双手插兜，头部微侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "特写镜头，黑高领男头部微侧，眼神看向右侧，语气强硬地说道。",
+        "dialogue": "我告诉你",
+        "speaker": "黑高领男",
+        "emotion": "强硬",
+        "duration": 2.42,
+        "description_visual": "特写平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿黑色高领毛衣，头部微侧，眼神看向右侧，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部正对前方，眼神直视",
+                "expression": "眉毛舒展，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "特写镜头，黑高领男头部正对前方，眼神直视，继续解释道。",
+        "dialogue": "我们老板就是不想暴露身份",
+        "speaker": "黑高领男",
+        "emotion": "解释",
+        "duration": 2.18,
+        "description_visual": "特写平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿黑色高领毛衣，头部正对前方，眼神直视，表情：眉毛舒展，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "面具遮挡，眼神斜视"
+            }
+        ],
+        "background": "酒店房间门口，深色门框",
+        "description_narrative": "中近景镜头，狼面具男头部微侧，黑高领男画外音继续说道“才让你们这些人戴着面具”，字幕显示在画面下方。",
+        "dialogue": "才让你们这些人戴着面具",
+        "speaker": "黑高领男",
+        "emotion": "不屑",
+        "duration": 4.48,
+        "description_visual": "中近景平拍镜头；酒店房间门口，深色门框；画面中央人物，身穿黑色西装，黑色衬衫，银色狼头面具，头部微侧，眼神看向右侧，表情：面具遮挡，眼神斜视。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣，深灰色裤子",
+                "position": "画面左侧",
+                "action": "站立，双手插兜，头部微侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，床头柜，花卉画作",
+        "description_narrative": "中景镜头，黑高领男站立，双手插兜，狼面具男画外音讽刺道“我不想和你一般见识，白总好大的威风啊”，字幕显示在画面下方。",
+        "dialogue": "我不想和你一般见识，白总好大的威风啊",
+        "speaker": "狼面具男",
+        "emotion": "讽刺",
+        "duration": 2.52,
+        "description_visual": "中景平拍镜头；酒店房间，床头柜，花卉画作；画面左侧人物，身穿黑色高领毛衣，深灰色裤子，站立，双手插兜，头部微侧，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "特写镜头，黑高领男头部微侧，眼神看向右侧，语气傲慢地回应道。",
+        "dialogue": "威风的不是我，是顶峰",
+        "speaker": "黑高领男",
+        "emotion": "傲慢",
+        "duration": 0.82,
+        "description_visual": "特写平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿黑色高领毛衣，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部正对前方，眼神直视",
+                "expression": "眉毛舒展，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "特写镜头，黑高领男头部正对前方，眼神直视，继续轻蔑地说道。",
+        "dialogue": "你们这种土包子是不会了解的",
+        "speaker": "黑高领男",
+        "emotion": "轻蔑",
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿黑色高领毛衣，头部正对前方，眼神直视，表情：眉毛舒展，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "特写镜头，白裙女子头部微侧，眼神看向左侧，语气坚定地说道。",
+        "dialogue": "顶峰高管要都是你这样的人",
+        "speaker": "白裙女子",
+        "emotion": "坚定",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿白色蕾丝无袖旗袍裙，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "面具遮挡，眼神冷峻"
+            }
+        ],
+        "background": "酒店房间门口，深色门框",
+        "description_narrative": "中近景镜头，狼面具男头部微侧，语气冰冷地接话道。",
+        "dialogue": "那才真是快倒闭了",
+        "speaker": "狼面具男",
+        "emotion": "冰冷",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；酒店房间门口，深色门框；画面中央人物，身穿黑色西装，黑色衬衫，银色狼头面具，头部微侧，眼神看向右侧，表情：面具遮挡，眼神冷峻。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍裙",
+                "position": "画面左侧",
+                "action": "坐在床上，左手搂着小女孩",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴紧闭"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹衫，棕色背带裤",
+                "position": "画面右侧",
+                "action": "坐在床上，身体微侧",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，白色床头，浅色墙面",
+        "description_narrative": "中景镜头，白裙女子坐在床上，左手搂着小女孩，小女孩画外音愤怒地说道“顶峰仗势欺人”，字幕显示在画面下方。",
+        "dialogue": "顶峰仗势欺人",
+        "speaker": "小女孩",
+        "emotion": "愤怒",
+        "duration": 1.62,
+        "description_visual": "中景平拍镜头；酒店房间，白色床头，浅色墙面；画面左侧人物，身穿白色蕾丝无袖旗袍裙，坐在床上，左手搂着小女孩，表情：眉毛微蹙，眼睛看向右侧，嘴巴紧闭；画面右侧人物，身穿条纹衫，棕色背带裤，坐在床上，身体微侧，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹衫，棕色背带裤",
+                "position": "画面中央",
+                "action": "坐在床上，身体微前倾",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，白色床头，虚化",
+        "description_narrative": "近景镜头，小女孩坐在床上，身体微前倾，语气坚定地说道。",
+        "dialogue": "我一定要告诉哥哥",
+        "speaker": "小女孩",
+        "emotion": "坚定",
+        "duration": 1.58,
+        "description_visual": "近景平拍镜头；酒店房间，白色床头，虚化；画面中央人物，身穿条纹衫，棕色背带裤，坐在床上，身体微前倾，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "风衣女子",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭，金红色面具",
+                "position": "画面中央",
+                "action": "站立，右手抬起指向左侧",
+                "expression": "面具遮挡，嘴巴微张，眼神凌厉"
+            }
+        ],
+        "background": "酒店房间，深色背景墙",
+        "description_narrative": "中近景镜头，风衣女子站立，右手抬起指向左侧，语气警告地说道。",
+        "dialogue": "你这些人得罪白总，不要牵连我们",
+        "speaker": "风衣女子",
+        "emotion": "警告",
+        "duration": 3.4,
+        "description_visual": "中近景平拍镜头；酒店房间，深色背景墙；画面中央人物，身穿米色风衣，黑色内搭，金红色面具，站立，右手抬起指向左侧，表情：面具遮挡，嘴巴微张，眼神凌厉。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色条纹西装，白色条纹衬衫，蓝色领带，白色面具",
+                "position": "画面中央",
+                "action": "头部微低，眼神看向下方",
+                "expression": "面具遮挡，眉头微蹙"
+            }
+        ],
+        "background": "酒店房间，深色背景墙，虚化",
+        "description_narrative": "特写镜头，灰西装男头部微低，眼神看向下方，语气恭敬地喊道。",
+        "dialogue": "白总",
+        "speaker": "灰西装男",
+        "emotion": "恭敬",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；酒店房间，深色背景墙，虚化；画面中央人物，身穿灰色条纹西装，白色条纹衬衫，蓝色领带，白色面具，头部微低，眼神看向下方，表情：面具遮挡，眉头微蹙。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "特写镜头，黑高领男头部微侧，眼神看向右侧，语气安抚地说道。",
+        "dialogue": "白总你放心",
+        "speaker": "黑高领男",
+        "emotion": "安抚",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿黑色高领毛衣，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色条纹西装，白色条纹衬衫，蓝色领带，白色面具",
+                "position": "画面中央",
+                "action": "头部微侧，右手抬起",
+                "expression": "面具遮挡，眼神看向左侧"
+            }
+        ],
+        "background": "酒店房间，深色背景墙，虚化",
+        "description_narrative": "特写镜头，灰西装男头部微侧，右手抬起，继续说道。",
+        "dialogue": "这件事情",
+        "speaker": "灰西装男",
+        "emotion": "认真",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；酒店房间，深色背景墙，虚化；画面中央人物，身穿灰色条纹西装，白色条纹衬衫，蓝色领带，白色面具，头部微侧，右手抬起，表情：面具遮挡，眼神看向左侧。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "特写镜头，黑高领男头部微侧，眼神看向右侧，语气强硬地说道。",
+        "dialogue": "我告诉你",
+        "speaker": "黑高领男",
+        "emotion": "强硬",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿黑色高领毛衣，头部微侧，眼神看向右侧，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "右手抬起指向右侧",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "近景镜头，黑高领男右手抬起指向右侧，语气嚣张地继续说道。",
+        "dialogue": "我告诉你",
+        "speaker": "黑高领男",
+        "emotion": "嚣张",
+        "duration": 2.68,
+        "description_visual": "近景平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿黑色高领毛衣，右手抬起指向右侧，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑高领男",
+                "gender": "男",
+                "clothing": "黑色高领毛衣",
+                "position": "画面中央",
+                "action": "双手竖起大拇指指向自己",
+                "expression": "眉毛舒展，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "近景镜头，黑高领男双手竖起大拇指指向自己，语气狂妄地说道。",
+        "dialogue": "这个女人我今天玩定了",
+        "speaker": "黑高领男",
+        "emotion": "狂妄",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿黑色高领毛衣，双手竖起大拇指指向自己，表情：眉毛舒展，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "狼面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼头面具",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "面具遮挡，眼神冷峻"
+            }
+        ],
+        "background": "酒店房间门口，深色门框",
+        "description_narrative": "中近景镜头，狼面具男双臂交叉抱在胸前，语气坚定地回应道。",
+        "dialogue": "今天只要我在这",
+        "speaker": "狼面具男",
+        "emotion": "坚定",
+        "duration": 1.54,
+        "description_visual": "中近景平拍镜头；酒店房间门口，深色门框；画面中央人物，身穿黑色西装，黑色衬衫，银色狼头面具，双臂交叉抱在胸前，表情：面具遮挡，眼神冷峻。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，窗帘背景，虚化",
+        "description_narrative": "特写镜头，白裙女子头部微侧，眼神看向左侧，狼面具男画外音霸气地说道“你就别想碰她们”，字幕显示在画面下方。",
+        "dialogue": "你就别想碰她们",
+        "speaker": "狼面具男",
+        "emotion": "霸气",
+        "duration": 1.82,
+        "description_visual": "特写平拍镜头；酒店房间，窗帘背景，虚化；画面中央人物，身穿白色蕾丝无袖旗袍裙，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "酒店房间，强光过曝",
+        "description_narrative": "特写镜头，画面逐渐过曝，白裙女子面部模糊，眼神中带着希望或震惊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 0.52,
+        "description_visual": "特写平拍镜头；酒店房间，强光过曝；画面中央人物，身穿白色蕾丝无袖旗袍裙，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "不可见，强光过曝"
+            }
+        ],
+        "background": "酒店房间，强光过曝",
+        "description_narrative": "特写镜头，画面完全过曝，白裙女子身影消失在白光中，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；酒店房间，强光过曝；画面中央人物，身穿白色蕾丝无袖旗袍裙，头部微侧，眼神看向左侧，表情：不可见，强光过曝。"
+    }
+]

@@ -1,0 +1,859 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "黄色外卖服，头盔",
+                "position": "中央前景",
+                "action": "奔跑姿态，看手表",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "右侧背景",
+                "action": "站立，手插口袋",
+                "expression": "眉毛舒展，眼睛直视，嘴角微扬"
+            },
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "中央背景",
+                "action": "站立",
+                "expression": "眉毛平展，眼睛直视，嘴巴闭合"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "红色礼服",
+                "position": "右侧背景",
+                "action": "站立，微笑",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            },
+            {
+                "name": "年长女性",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "左侧背景",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴闭合"
+            }
+        ],
+        "background": "彩色渐变背景，带有金色硬币和城市剪影，文字“原来是首富”",
+        "description_narrative": "全景固定镜头，海报风格画面。秦总身穿黄色外卖服在前景奔跑看表，泽少、子怡、白衣女子、年长女性等角色分布在背景中，周围有金币飞舞，底部有大字标题“原来是首富”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.43,
+        "description_visual": "全景平拍镜头；彩色渐变背景，带有金色硬币和城市剪影，文字“原来是首富”；中央前景人物，身穿黄色外卖服，头盔，奔跑姿态，看手表，表情：眉毛微挑，眼睛注视前方，嘴巴微张；右侧背景人物，身穿棕色西装，站立，手插口袋，表情：眉毛舒展，眼睛直视，嘴角微扬；中央背景人物，身穿白色上衣，站立，表情：眉毛平展，眼睛直视，嘴巴闭合；右侧背景人物，身穿红色礼服，站立，微笑，表情：眉毛舒展，眼睛含笑，嘴角上扬；左侧背景人物，身穿黑色上衣，站立，表情：眉毛微蹙，眼睛侧视，嘴巴闭合。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "坐在桌前，手放在文件夹上，抬头",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "会议室，白色墙壁，黑色桌子",
+        "description_narrative": "中近景固定镜头，白衣女子坐在会议桌前，身穿白色蝴蝶结衬衫，手按在黑色文件夹上，抬头向上看，表情疑惑，嘴巴微张似乎在询问。",
+        "dialogue": "什么绑架",
+        "speaker": "白衣女子",
+        "emotion": "疑惑",
+        "duration": 1.57,
+        "description_visual": "中近景平拍镜头；会议室，白色墙壁，黑色桌子；中央人物，身穿白色蝴蝶结衬衫，坐在桌前，手放在文件夹上，抬头，表情：眉毛微蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色 T 恤",
+                "position": "中央",
+                "action": "低头，身体微倾",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "特写固定镜头，秦总身穿蓝色牛仔外套内搭白 T 恤，低头看着下方，表情关切，嘴巴微张正在说话。",
+        "dialogue": "谁绑架你，你告诉我。",
+        "speaker": "秦总",
+        "emotion": "关切",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；浅灰色墙壁；中央人物，身穿蓝色牛仔外套，白色 T 恤，低头，身体微倾，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "黑色露肩上衣",
+                "position": "右侧",
+                "action": "被秦总扶着肩膀，侧头",
+                "expression": "眉毛微蹙，眼睛看向秦总，嘴巴微张"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "左侧前景",
+                "action": "手扶着子怡的肩膀",
+                "expression": "不可见"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "近景过肩镜头，子怡身穿黑色露肩上衣，被秦总扶着肩膀，她侧头看向秦总，表情略显 distressed 但安抚地说没事。",
+        "dialogue": "我没事",
+        "speaker": "子怡",
+        "emotion": "安抚",
+        "duration": 0.93,
+        "description_visual": "近景过肩镜头；浅灰色墙壁；右侧人物，身穿黑色露肩上衣，被秦总扶着肩膀，侧头，表情：眉毛微蹙，眼睛看向秦总，嘴巴微张；左侧前景人物，身穿蓝色牛仔外套，手扶着子怡的肩膀，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫，黑色裙子",
+                "position": "中央",
+                "action": "站立，双手下垂",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "中近景固定镜头，白衣女子站立，身穿白色衬衫黑色裙子，表情严肃，眼睛直视前方，嘴巴微张表示不知道。",
+        "dialogue": "我也不知道",
+        "speaker": "白衣女子",
+        "emotion": "严肃",
+        "duration": 1.53,
+        "description_visual": "中近景平拍镜头；浅灰色墙壁；中央人物，身穿白色蝴蝶结衬衫，黑色裙子，站立，双手下垂，表情：眉毛平展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，身体微前倾",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少身穿黑色西装，戴金丝眼镜，表情自信略带傲慢，嘴巴微张正在说话。",
+        "dialogue": "但是我肯定",
+        "speaker": "泽少",
+        "emotion": "自信",
+        "duration": 1.47,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，黑色衬衫，站立，身体微前倾，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "右侧",
+                "action": "手持灰色文件夹举起",
+                "expression": "不可见"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁，挂画",
+        "description_narrative": "特写固定镜头，一只手（子怡）举着一个灰色文件夹，文件夹遮挡了部分画面，背景模糊。",
+        "dialogue": "他是为了这份合同",
+        "speaker": "子怡",
+        "emotion": "肯定",
+        "duration": 1.17,
+        "description_visual": "特写平拍镜头；白色墙壁，挂画；右侧人物，身穿黑色上衣，手持灰色文件夹举起，表情：不可见；左侧人物，身穿蓝色牛仔外套，站立，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年长女性",
+                "gender": "女",
+                "clothing": "黑色西装外套，米色内搭",
+                "position": "中央",
+                "action": "站立，抬头说话",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴张开"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "近景固定镜头，年长女性身穿黑色西装，短发，抬头说话，表情认真。",
+        "dialogue": "合同。",
+        "speaker": "年长女性",
+        "emotion": "认真",
+        "duration": 0.9,
+        "description_visual": "近景平拍镜头；白色墙壁；中央人物，身穿黑色西装外套，米色内搭，站立，抬头说话，表情：眉毛微蹙，眼睛向上看，嘴巴张开。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色 T 恤",
+                "position": "中央",
+                "action": "低头看文件",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "特写固定镜头，秦总低头看着手中的文件，表情专注，嘴巴微张似乎在重复“合同”二字。",
+        "dialogue": "什么合同？我就说过有解决办法。",
+        "speaker": "秦总",
+        "emotion": "专注",
+        "duration": 2.13,
+        "description_visual": "特写平拍镜头；浅灰色墙壁；中央人物，身穿蓝色牛仔外套，白色 T 恤，低头看文件，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，表情得意",
+                "expression": "眉毛舒展，眼睛直视，嘴角微扬"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少身穿黑色西装，表情得意，嘴巴微张说话。",
+        "dialogue": "这份合同就是",
+        "speaker": "泽少",
+        "emotion": "得意",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，黑色衬衫，站立，表情得意，表情：眉毛舒展，眼睛直视，嘴角微扬。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣保镖",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，双手下垂",
+                "expression": "眉毛平展，眼睛侧视，嘴巴闭合"
+            }
+        ],
+        "background": "会议室，白色墙壁",
+        "description_narrative": "中景固定镜头，一名黑衣保镖站立在会议桌旁，表情严肃，看向一侧。",
+        "dialogue": "10 亿订单供货合同",
+        "speaker": "泽少",
+        "emotion": "严肃",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；会议室，白色墙壁；中央人物，身穿黑色西装，黑色衬衫，站立，双手下垂，表情：眉毛平展，眼睛侧视，嘴巴闭合。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "左侧",
+                "action": "手持文件夹",
+                "expression": "不可见"
+            },
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "中央",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "年长女性",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "会议室，长桌，盆栽",
+        "description_narrative": "全景固定镜头，会议室全景，众人围站在长桌旁，秦总手持文件夹，气氛紧张。",
+        "dialogue": "我看你们。",
+        "speaker": "泽少",
+        "emotion": "愤怒",
+        "duration": 2.43,
+        "description_visual": "全景平拍镜头；会议室，长桌，盆栽；左侧人物，身穿白色衬衫，站立，表情：不可见；左侧人物，身穿蓝色牛仔外套，手持文件夹，表情：不可见；中央人物，身穿黑色上衣，站立，表情：不可见；右侧人物，身穿黑色西装，站立，表情：不可见；右侧人物，身穿黑色西装，站立，表情：不可见；右侧人物，身穿灰色西装，站立，表情：不可见；右侧人物，身穿黑色西装，站立，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，表情愤怒",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少表情愤怒，咬牙切齿，似乎在辱骂手下。",
+        "dialogue": "还有什么话可说，真是一群废物，连个女人都看不住。",
+        "speaker": "泽少",
+        "emotion": "愤怒",
+        "duration": 3.63,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，黑色衬衫，站立，表情愤怒，表情：眉毛紧锁，眼睛瞪大，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "中央",
+                "action": "抬头，嘴角微扬",
+                "expression": "眉毛舒展，眼睛直视，嘴角上扬"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "特写固定镜头，秦总抬头，表情轻松带着一丝嘲讽，嘴巴微张。",
+        "dialogue": "泽少。",
+        "speaker": "白衣女子",
+        "emotion": "嘲讽",
+        "duration": 0.67,
+        "description_visual": "特写平拍镜头；浅灰色墙壁；中央人物，身穿蓝色牛仔外套，抬头，嘴角微扬，表情：眉毛舒展，眼睛直视，嘴角上扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "站立，直视前方",
+                "expression": "眉毛平展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "中近景固定镜头，白衣女子站立，表情严肃，直视前方，正在对泽少说话。",
+        "dialogue": "泽少你机关算尽",
+        "speaker": "白衣女子",
+        "emotion": "严肃",
+        "duration": 2.13,
+        "description_visual": "中近景平拍镜头；浅灰色墙壁；中央人物，身穿白色蝴蝶结衬衫，站立，直视前方，表情：眉毛平展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "中央",
+                "action": "双臂交叉，身体微侧",
+                "expression": "眉毛舒展，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "近景固定镜头，秦总双臂交叉抱胸，身体微侧，表情自信，嘴巴微张继续说话。",
+        "dialogue": "最后还是失败了",
+        "speaker": "秦总",
+        "emotion": "自信",
+        "duration": 0.93,
+        "description_visual": "近景平拍镜头；浅灰色墙壁；中央人物，身穿蓝色牛仔外套，双臂交叉，身体微侧，表情：眉毛舒展，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "中央",
+                "action": "直视前方",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "特写固定镜头，秦总直视前方，表情略带戏谑，嘴巴微张。",
+        "dialogue": "你没想到吧。",
+        "speaker": "秦总",
+        "emotion": "戏谑",
+        "duration": 0.93,
+        "description_visual": "特写平拍镜头；浅灰色墙壁；中央人物，身穿蓝色牛仔外套，直视前方，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立，表情不甘",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少表情不甘，嘴巴微张说“好”。",
+        "dialogue": "好",
+        "speaker": "泽少",
+        "emotion": "不甘",
+        "duration": 2.13,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，站立，表情不甘，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立，表情恼怒",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少表情恼怒，承认对方厉害。",
+        "dialogue": "好，算你厉害。",
+        "speaker": "泽少",
+        "emotion": "恼怒",
+        "duration": 2.13,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，站立，表情恼怒，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "中央",
+                "action": "双臂交叉，抬头",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴闭合"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "近景固定镜头，秦总双臂交叉，抬头看向泽少，表情平静。",
+        "dialogue": "这次是我输了，不过。",
+        "speaker": "泽少",
+        "emotion": "平静",
+        "duration": 2.23,
+        "description_visual": "近景平拍镜头；浅灰色墙壁；中央人物，身穿蓝色牛仔外套，双臂交叉，抬头，表情：眉毛舒展，眼睛向上看，嘴巴闭合。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立，表情威胁",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少表情威胁，放狠话。",
+        "dialogue": "不过下次",
+        "speaker": "泽少",
+        "emotion": "威胁",
+        "duration": 3.07,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，站立，表情威胁，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立，表情凶狠",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少表情凶狠，继续放狠话。",
+        "dialogue": "下次你可没这么容易能赢。",
+        "speaker": "泽少",
+        "emotion": "凶狠",
+        "duration": 1.73,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，站立，表情凶狠，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "中央",
+                "action": "双臂交叉，直视",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "近景固定镜头，秦总双臂交叉，表情严肃，警告泽少。",
+        "dialogue": "你以后别在我背后",
+        "speaker": "秦总",
+        "emotion": "严肃",
+        "duration": 1.73,
+        "description_visual": "近景平拍镜头；浅灰色墙壁；中央人物，身穿蓝色牛仔外套，双臂交叉，直视，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立，表情不屑",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少表情不屑，听着秦总的警告。",
+        "dialogue": "搞小花样",
+        "speaker": "秦总",
+        "emotion": "不屑",
+        "duration": 2.47,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，站立，表情不屑，表情：眉毛微挑，眼睛侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "中央",
+                "action": "直视前方",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "特写固定镜头，秦总表情严厉，眼神凶狠，发出死亡威胁。",
+        "dialogue": "你胆敢再欺负小雪和子怡的话。",
+        "speaker": "秦总",
+        "emotion": "严厉",
+        "duration": 2.47,
+        "description_visual": "特写平拍镜头；浅灰色墙壁；中央人物，身穿蓝色牛仔外套，直视前方，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "中央",
+                "action": "直视前方",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "特写固定镜头，秦总继续盯着泽少，表情没有变化。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严厉",
+        "duration": 1.53,
+        "description_visual": "特写平拍镜头；浅灰色墙壁；中央人物，身穿蓝色牛仔外套，直视前方，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立，表情挑衅",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少表情挑衅，回应秦总的威胁。",
+        "dialogue": "咱们走着瞧",
+        "speaker": "泽少",
+        "emotion": "挑衅",
+        "duration": 2.17,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，站立，表情挑衅，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立，转身",
+                "expression": "眉毛平展，眼睛侧视，嘴巴闭合"
+            }
+        ],
+        "background": "白色墙壁，蓝色装饰画",
+        "description_narrative": "近景固定镜头，泽少说完狠话，转身准备离开。",
+        "dialogue": "咱们走着瞧。",
+        "speaker": "泽少",
+        "emotion": "挑衅",
+        "duration": 2.17,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色装饰画；中央人物，身穿黑色西装，站立，转身，表情：眉毛平展，眼睛侧视，嘴巴闭合。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "秦总",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "子怡",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "中央",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "泽少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "右侧",
+                "action": "转身离开",
+                "expression": "不可见"
+            },
+            {
+                "name": "年长女性",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "会议室，长桌",
+        "description_narrative": "全景固定镜头，泽少带着保镖转身离开会议室，其他人留在原地。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "全景平拍镜头；会议室，长桌；左侧人物，身穿白色衬衫，站立，表情：不可见；左侧人物，身穿蓝色牛仔外套，站立，表情：不可见；中央人物，身穿黑色上衣，站立，表情：不可见；右侧人物，身穿黑色西装，转身离开，表情：不可见；右侧人物，身穿黑色西装，站立，表情：不可见；右侧人物，身穿灰色西装，站立，表情：不可见；右侧人物，身穿黑色西装，站立，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫",
+                "position": "中央",
+                "action": "站立，看向子怡",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "中景固定镜头，西装男子站立，面带微笑看向子怡，语气亲切。",
+        "dialogue": "子怡啊。",
+        "speaker": "西装男子",
+        "emotion": "亲切",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；浅灰色墙壁；中央人物，身穿灰色西装，白色衬衫，站立，看向子怡，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "站立，微笑",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            }
+        ],
+        "background": "浅灰色墙壁",
+        "description_narrative": "中近景固定镜头，白衣女子面带微笑，称赞秦总。",
+        "dialogue": "秦总真是年少有为啊",
+        "speaker": "白衣女子",
+        "emotion": "赞赏",
+        "duration": 1.87,
+        "description_visual": "中近景平拍镜头；浅灰色墙壁；中央人物，身穿白色蝴蝶结衬衫，站立，微笑，表情：眉毛舒展，眼睛含笑，嘴角上扬。"
+    }
+]

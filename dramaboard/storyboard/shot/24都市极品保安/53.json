@@ -1,0 +1,976 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体",
+        "description_narrative": "画面全黑，持续3.28秒，无可见人物或动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，灰色长裤，白色运动鞋",
+                "position": "画面左侧",
+                "action": "身体倚靠在栏杆上，左腿交叉在右腿前，左手自然下垂",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微闭"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，黑色长裤，棕色皮鞋",
+                "position": "画面右侧",
+                "action": "双手插兜，身体略微前倾，低头看地面",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外街道，背景有树木和路灯，光线较暗",
+        "description_narrative": "中景镜头，白衣眼镜男倚靠栏杆，西装男站在旁边低头沉思，背景是夜晚的街道。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头；夜晚户外街道，背景有树木和路灯，光线较暗；画面左侧人物，身穿白色开衫，灰色长裤，白色运动鞋，身体倚靠在栏杆上，左腿交叉在右腿前，左手自然下垂，表情：眉毛舒展，眼睛看向右侧，嘴巴微闭；画面右侧人物，身穿黑色西装，墨绿衬衫，黑色长裤，棕色皮鞋，双手插兜，身体略微前倾，低头看地面，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "特写镜头聚焦白衣眼镜男面部，他闭着眼睛，神情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微低，眼神向下，表情：眉毛微蹙，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝底复古花纹衬衫，黑色短裤",
+                "position": "画面中央",
+                "action": "右手捂住腹部，身体微躬，面向左侧",
+                "expression": "眉毛皱起，眼睛眯起，嘴巴微张似在说话"
+            }
+        ],
+        "background": "夜晚街道，背景有模糊的店铺灯光",
+        "description_narrative": "中景镜头，花衬衫男捂着肚子，表情痛苦地看向左侧，似乎在呼喊某人。",
+        "dialogue": "赵总",
+        "speaker": "花衬衫男",
+        "emotion": "痛苦",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；夜晚街道，背景有模糊的店铺灯光；画面中央人物，身穿浅蓝底复古花纹衬衫，黑色短裤，右手捂住腹部，身体微躬，面向左侧，表情：眉毛皱起，眼睛眯起，嘴巴微张似在说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微动"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "中近景镜头，西装男低头，神情有些无奈，正在说话。",
+        "dialogue": "那小子太能打了",
+        "speaker": "西装男",
+        "emotion": "无奈",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微低，眼神向下，表情：眉毛舒展，眼睛下视，嘴巴微动。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝底复古花纹衬衫，黑色短裤",
+                "position": "画面中央",
+                "action": "右手捂住腹部，身体微躬",
+                "expression": "眉毛皱起，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街道，背景有模糊的店铺灯光",
+        "description_narrative": "中景镜头，花衬衫男继续捂着肚子，表情痛苦地再次呼喊。",
+        "dialogue": "赵总",
+        "speaker": "花衬衫男",
+        "emotion": "痛苦",
+        "duration": 1.08,
+        "description_visual": "中景平拍镜头；夜晚街道，背景有模糊的店铺灯光；画面中央人物，身穿浅蓝底复古花纹衬衫，黑色短裤，右手捂住腹部，身体微躬，表情：眉毛皱起，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "右手抬起调整眼镜框",
+                "expression": "眉毛微蹙，眼睛透过镜片向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "特写镜头，白衣眼镜男伸手调整眼镜，神情冷淡，似乎在评价某人。",
+        "dialogue": "两个废物",
+        "speaker": "白衣眼镜男",
+        "emotion": "轻蔑",
+        "duration": 3.24,
+        "description_visual": "特写平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，右手抬起调整眼镜框，表情：眉毛微蹙，眼睛透过镜片向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝底复古花纹衬衫，黑色短裤",
+                "position": "画面右侧",
+                "action": "双手背在身后，身体前倾，表情痛苦",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴张大"
+            },
+            {
+                "name": "黑衣手下",
+                "gender": "男",
+                "clothing": "黑色T恤，卡其色短裤",
+                "position": "画面左侧",
+                "action": "低头站立，双手自然下垂",
+                "expression": "眉毛下垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚街道，背景有模糊的店铺灯光",
+        "description_narrative": "中景镜头，花衬衫男和黑衣手下站在一起，花衬衫男表情痛苦地张大嘴巴，似乎在忍受责骂。",
+        "dialogue": "这点小事都办不好",
+        "speaker": "白衣眼镜男",
+        "emotion": "痛苦",
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头；夜晚街道，背景有模糊的店铺灯光；画面右侧人物，身穿浅蓝底复古花纹衬衫，黑色短裤，双手背在身后，身体前倾，表情痛苦，表情：眉毛紧锁，眼睛紧闭，嘴巴张大；画面左侧人物，身穿黑色T恤，卡其色短裤，低头站立，双手自然下垂，表情：眉毛下垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右下方",
+                "expression": "眉毛微挑，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男面带不屑，继续说着批评的话。",
+        "dialogue": "成事不足",
+        "speaker": "白衣眼镜男",
+        "emotion": "不屑",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右下方，表情：眉毛微挑，眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝底复古花纹衬衫，黑色短裤",
+                "position": "画面右侧",
+                "action": "双手背在身后，身体前倾",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴微张发出声音"
+            },
+            {
+                "name": "黑衣手下",
+                "gender": "男",
+                "clothing": "黑色T恤，卡其色短裤",
+                "position": "画面左侧",
+                "action": "低头站立",
+                "expression": "眉毛下垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚街道，背景有模糊的店铺灯光",
+        "description_narrative": "中景镜头，花衬衫男痛苦地发出声音，黑衣手下在一旁低头不语。",
+        "dialogue": "败事有余",
+        "speaker": "白衣眼镜男",
+        "emotion": "痛苦",
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头；夜晚街道，背景有模糊的店铺灯光；画面右侧人物，身穿浅蓝底复古花纹衬衫，黑色短裤，双手背在身后，身体前倾，表情：眉毛紧锁，眼睛紧闭，嘴巴微张发出声音；画面左侧人物，身穿黑色T恤，卡其色短裤，低头站立，表情：眉毛下垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男表情严肃，听着对方的声音。",
+        "dialogue": "哎哎哎",
+        "speaker": "花衬衫男",
+        "emotion": "严肃",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，灰色长裤",
+                "position": "画面左侧",
+                "action": "站立，身体微侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微闭"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫",
+                "position": "画面中央",
+                "action": "站立，双手插兜",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微闭"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝底复古花纹衬衫",
+                "position": "画面右侧",
+                "action": "背对镜头，右手放在后腰处",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚户外街道，背景有栏杆和灯光",
+        "description_narrative": "中景镜头，三人站在一起，白衣眼镜男和西装男看着花衬衫男的背影。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.16,
+        "description_visual": "中景平拍镜头；夜晚户外街道，背景有栏杆和灯光；画面左侧人物，身穿白色开衫，灰色长裤，站立，身体微侧，表情：眉毛舒展，眼睛看向右侧，嘴巴微闭；画面中央人物，身穿黑色西装，墨绿衬衫，站立，双手插兜，表情：眉毛舒展，眼睛看向右侧，嘴巴微闭；画面右侧人物，身穿浅蓝底复古花纹衬衫，背对镜头，右手放在后腰处，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男表情缓和，似乎在安慰对方。",
+        "dialogue": "唉没事",
+        "speaker": "白衣眼镜男",
+        "emotion": "安抚",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微动"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男低头，神情有些不甘，正在说话。",
+        "dialogue": "你不就想得到苏清菡吗",
+        "speaker": "西装男",
+        "emotion": "不甘",
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微低，眼神向下，表情：眉毛微蹙，眼睛下视，嘴巴微动。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男面带微笑，继续说着安慰的话。",
+        "dialogue": "以后啊有的是机会",
+        "speaker": "白衣眼镜男",
+        "emotion": "自信",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男侧头看着对方，神情专注。",
+        "dialogue": "我一定要让苏清菡",
+        "speaker": "西装男",
+        "emotion": "坚定",
+        "duration": 2.84,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微侧，眼神看向左侧，表情：眉毛微挑，眼睛直视，嘴巴微闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男继续说着话，表情略带得意。",
+        "dialogue": "跪在我面前求饶",
+        "speaker": "白衣眼镜男",
+        "emotion": "得意",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "右手抬起指向前方",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男抬手说话，似乎在表达感谢。",
+        "dialogue": "这次谢了赵兄",
+        "speaker": "西装男",
+        "emotion": "感激",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，右手抬起指向前方，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤",
+                "position": "画面左侧",
+                "action": "右手搭在西装男肩膀上",
+                "expression": "不可见"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微动"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男搭着西装男的肩膀，西装男转头回应。",
+        "dialogue": "咱们两兄弟",
+        "speaker": "白衣眼镜男",
+        "emotion": "亲切",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面左侧人物，身穿白色开衫，白色T恤，右手搭在西装男肩膀上，表情：不可见；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微侧，眼神看向左侧，表情：眉毛舒展，眼睛直视，嘴巴微动。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男低头说话，表情轻松。",
+        "dialogue": "谢什么谢",
+        "speaker": "西装男",
+        "emotion": "轻松",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微低，眼神向下，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面左侧",
+                "action": "右手抬起指向前方",
+                "expression": "不可见"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微动"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男手指前方，西装男看着手指方向说话。",
+        "dialogue": "刚才那个就是你说的",
+        "speaker": "白衣眼镜男",
+        "emotion": "询问",
+        "duration": 2.48,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面左侧人物，身穿白色开衫，白色T恤，木质佛珠项链，右手抬起指向前方，表情：不可见；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微侧，眼神看向左侧，表情：眉毛微挑，眼睛直视，嘴巴微动。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微仰，眼神向上",
+                "expression": "眉毛皱起，眼睛上视，嘴巴微张露齿"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "特写镜头，西装男抬头，表情有些激动，正在说话。",
+        "dialogue": "方不凡",
+        "speaker": "西装男",
+        "emotion": "激动",
+        "duration": 4.04,
+        "description_visual": "特写仰拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微仰，眼神向上，表情：眉毛皱起，眼睛上视，嘴巴微张露齿。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男表情轻松，似乎在回应对方。",
+        "dialogue": "如果不是他，我早就得手了",
+        "speaker": "西装男",
+        "emotion": "轻松",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男侧头，神情平静。",
+        "dialogue": "没关系没关系啊，好事多磨",
+        "speaker": "白衣眼镜男",
+        "emotion": "平静",
+        "duration": 3.32,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛直视，嘴巴微闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男表情认真，正在制定计划。",
+        "dialogue": "这次啊咱摸清他底细",
+        "speaker": "白衣眼镜男",
+        "emotion": "认真",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右侧，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男侧头，神情专注地听着。",
+        "dialogue": "下次可就没这么好运了",
+        "speaker": "西装男",
+        "emotion": "专注",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛直视，嘴巴微闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "右手抬起食指指向前方",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男抬手说话，表情严肃。",
+        "dialogue": "既然两个人不行",
+        "speaker": "白衣眼镜男",
+        "emotion": "严肃",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，右手抬起食指指向前方，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "右手抬起摸下巴",
+                "expression": "眉毛微挑，眼睛上视，嘴巴微闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男摸下巴思考，似乎在接话。",
+        "dialogue": "那咱们就",
+        "speaker": "西装男",
+        "emotion": "思考",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，右手抬起摸下巴，表情：眉毛微挑，眼睛上视，嘴巴微闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "右手握拳抬起",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张露齿"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男握拳，表情自信，继续说着计划。",
+        "dialogue": "多来几个人",
+        "speaker": "白衣眼镜男",
+        "emotion": "自信",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，右手握拳抬起，表情：眉毛舒展，眼睛微眯，嘴巴微张露齿。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男侧头看着对方，等待下文。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "等待",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微侧，眼神看向左侧，表情：眉毛舒展，眼睛直视，嘴巴微闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男低头说话，表情略带遗憾。",
+        "dialogue": "那你说怎么办",
+        "speaker": "西装男",
+        "emotion": "遗憾",
+        "duration": 2.76,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微低，眼神向下，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微仰，眼神向上",
+                "expression": "眉毛皱起，眼睛上视，嘴巴微张露齿"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男抬头，表情愤怒，正在抱怨。",
+        "dialogue": "你说的好机会没有了",
+        "speaker": "白衣眼镜男",
+        "emotion": "愤怒",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微仰，眼神向上，表情：眉毛皱起，眼睛上视，嘴巴微张露齿。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张露齿"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男面带微笑，似乎在安抚对方。",
+        "dialogue": "我现在可是火大的很",
+        "speaker": "西装男",
+        "emotion": "安抚",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛微眯，嘴巴微张露齿。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男侧头，神情平静。",
+        "dialogue": "哎呀",
+        "speaker": "白衣眼镜男",
+        "emotion": "平静",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微侧，眼神看向左侧，表情：眉毛舒展，眼睛直视，嘴巴微闭。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男表情轻松，正在说话。",
+        "dialogue": "这个世界上就这两个女人吗",
+        "speaker": "西装男",
+        "emotion": "轻松",
+        "duration": 3.44,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫，蓝色珠串项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微闭"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，西装男侧头，神情专注地听着。",
+        "dialogue": "走，兄弟我带你去个地方",
+        "speaker": "白衣眼镜男",
+        "emotion": "专注",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿黑色西装，墨绿衬衫，蓝色珠串项链，头部微侧，眼神看向左侧，表情：眉毛舒展，眼睛直视，嘴巴微闭。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，白色T恤，木质佛珠项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴大张露齿笑"
+            }
+        ],
+        "background": "夜晚户外，背景模糊的树木",
+        "description_narrative": "近景镜头，白衣眼镜男大笑，表情得意。",
+        "dialogue": "让你好好泄泄火",
+        "speaker": "白衣眼镜男",
+        "emotion": "得意",
+        "duration": 2.36,
+        "description_visual": "近景平拍镜头；夜晚户外，背景模糊的树木；画面中央人物，身穿白色开衫，白色T恤，木质佛珠项链，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛微眯，嘴巴大张露齿笑。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，灰色长裤",
+                "position": "画面左侧",
+                "action": "右手搭在西装男肩膀上，两人并肩行走",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴大张露齿笑"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫",
+                "position": "画面右侧",
+                "action": "被搭着肩膀，两人并肩行走",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴大张露齿笑"
+            }
+        ],
+        "background": "夜晚户外街道，背景有栏杆和灯光",
+        "description_narrative": "中景跟拍镜头，两人搭着肩膀并肩行走，都在大笑。",
+        "dialogue": "哈哈哈哈~",
+        "speaker": "白衣眼镜男",
+        "emotion": "开心",
+        "duration": 0.64,
+        "description_visual": "中景平拍镜头（跟拍）；夜晚户外街道，背景有栏杆和灯光；画面左侧人物，身穿白色开衫，灰色长裤，右手搭在西装男肩膀上，两人并肩行走，表情：眉毛舒展，眼睛微眯，嘴巴大张露齿笑；画面右侧人物，身穿黑色西装，墨绿衬衫，被搭着肩膀，两人并肩行走，表情：眉毛舒展，眼睛微眯，嘴巴大张露齿笑。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣眼镜男",
+                "gender": "男",
+                "clothing": "白色开衫，灰色长裤",
+                "position": "画面左侧",
+                "action": "右手搭在西装男肩膀上，两人并肩行走",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴大张露齿笑"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，墨绿衬衫",
+                "position": "画面右侧",
+                "action": "被搭着肩膀，两人并肩行走",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴大张露齿笑"
+            }
+        ],
+        "background": "夜晚户外街道，背景有栏杆和灯光",
+        "description_narrative": "中景跟拍镜头，两人搭着肩膀继续行走，笑声不断。",
+        "dialogue": "哈哈哈哈~",
+        "speaker": "白衣眼镜男",
+        "emotion": "开心",
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头（跟拍）；夜晚户外街道，背景有栏杆和灯光；画面左侧人物，身穿白色开衫，灰色长裤，右手搭在西装男肩膀上，两人并肩行走，表情：眉毛舒展，眼睛微眯，嘴巴大张露齿笑；画面右侧人物，身穿黑色西装，墨绿衬衫，被搭着肩膀，两人并肩行走，表情：眉毛舒展，眼睛微眯，嘴巴大张露齿笑。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景，无可见物体",
+        "description_narrative": "画面全白，持续3.16秒，无可见人物或动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.16,
+        "description_visual": "全景平拍镜头；纯白背景，无可见物体。"
+    }
+]

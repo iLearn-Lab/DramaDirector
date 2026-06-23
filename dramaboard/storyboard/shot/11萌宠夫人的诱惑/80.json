@@ -1,0 +1,396 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "夜晚的现代别墅露台，暖色灯光，火坑，灰色沙发",
+        "description_narrative": "全景俯拍夜晚的别墅露台，暖色灯光照亮了户外休息区，火坑中有火焰跳动，周围摆放着灰色沙发和盆栽，氛围宁静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.33,
+        "description_visual": "全景俯拍镜头；夜晚的现代别墅露台，暖色灯光，火坑，灰色沙发。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色低胸连衣裙",
+                "position": "画面左侧",
+                "action": "身体前倾，低头注视男子",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐姿，头部微侧",
+                "expression": "眉毛舒展，眼睛微闭，嘴角放松"
+            }
+        ],
+        "background": "卧室内部，床单为香槟色丝绸材质，背景有镜子",
+        "description_narrative": "中近景平拍，黑衣女子身穿黑色低胸连衣裙，身体前倾低头注视身旁的男子，男子身穿白色衬衫坐在床上，头部微侧，神情放松。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.02,
+        "description_visual": "中近景平拍镜头；卧室内部，床单为香槟色丝绸材质，背景有镜子；画面左侧人物，身穿黑色低胸连衣裙，身体前倾，低头注视男子，表情：眉毛微蹙，眼睛下视，嘴唇紧闭；画面右侧人物，身穿白色衬衫，坐姿，头部微侧，表情：眉毛舒展，眼睛微闭，嘴角放松。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面左侧",
+                "action": "模糊可见，头部微动",
+                "expression": "模糊不可辨"
+            }
+        ],
+        "background": "模糊的室内背景，暖色调",
+        "description_narrative": "特写摇镜，画面模糊，隐约可见黑衣女子的轮廓，镜头快速移动，伴随画外音询问名字。",
+        "dialogue": "苏夏婉是谁啊",
+        "speaker": "黑衣女子",
+        "emotion": "疑惑",
+        "duration": 2.27,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的室内背景，暖色调；画面左侧人物，身穿黑色连衣裙，模糊可见，头部微动，表情：模糊不可辨。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "模糊可见，耳朵部分",
+                "expression": "模糊不可辨"
+            }
+        ],
+        "background": "模糊的肤色和白色衣物",
+        "description_narrative": "大特写固定镜头，画面极度模糊，仅能辨认出男子的耳朵和部分白色衣物，作为转场过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.02,
+        "description_visual": "大特写平拍镜头；模糊的肤色和白色衣物；画面中央人物，身穿白色衬衫，模糊可见，耳朵部分，表情：模糊不可辨。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐姿，身体微侧，转头看向女子",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴微张说话"
+            }
+        ],
+        "background": "卧室，红色百叶窗背景",
+        "description_narrative": "中景斜角固定镜头，男子身穿白色衬衫坐在床上，身体微侧，转头看向身旁的女子，神情认真地解释名字的含义。",
+        "dialogue": "我为咱们未来孩子取的名字",
+        "speaker": "男子",
+        "emotion": "认真",
+        "duration": 1.67,
+        "description_visual": "中景斜角镜头；卧室，红色百叶窗背景；画面中央人物，身穿白色衬衫，黑色长裤，坐姿，身体微侧，转头看向女子，表情：眉毛微扬，眼睛注视对方，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面左侧",
+                "action": "身体前倾，注视男子",
+                "expression": "眉毛微挑，眼睛注视男子，嘴唇微抿"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐姿，抬头看女子",
+                "expression": "眉毛舒展，眼睛上视，嘴角微扬"
+            }
+        ],
+        "background": "卧室，床头背景",
+        "description_narrative": "中近景平拍固定镜头，黑衣女子身体前倾注视男子，男子抬头看向女子，两人眼神交流，字幕延续上一句台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.3,
+        "description_visual": "中近景平拍镜头；卧室，床头背景；画面左侧人物，身穿黑色连衣裙，身体前倾，注视男子，表情：眉毛微挑，眼睛注视男子，嘴唇微抿；画面右侧人物，身穿白色衬衫，坐姿，抬头看女子，表情：眉毛舒展，眼睛上视，嘴角微扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面左侧",
+                "action": "坐在床边，赤脚，手放在腿上",
+                "expression": "眉毛微蹙，眼睛斜视男子，嘴巴微张"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "坐在床边，身体转向女子",
+                "expression": "眉毛舒展，眼睛注视女子，嘴角微笑"
+            }
+        ],
+        "background": "卧室，香槟色床单，红色百叶窗",
+        "description_narrative": "中景平拍固定镜头，黑衣女子赤脚坐在床边，手放在腿上，转头看向男子，表情略带疑惑，男子微笑回应。",
+        "dialogue": "听起来像是个女孩的名字",
+        "speaker": "黑衣女子",
+        "emotion": "疑惑",
+        "duration": 8.43,
+        "description_visual": "中景平拍镜头；卧室，香槟色床单，红色百叶窗；画面左侧人物，身穿黑色连衣裙，坐在床边，赤脚，手放在腿上，表情：眉毛微蹙，眼睛斜视男子，嘴巴微张；画面右侧人物，身穿白色衬衫，黑色长裤，坐在床边，身体转向女子，表情：眉毛舒展，眼睛注视女子，嘴角微笑。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面左侧",
+                "action": "身体前倾，注视男子",
+                "expression": "眉毛微挑，眼睛注视男子，嘴唇涂红唇"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "抬头看女子，身体微侧",
+                "expression": "眉毛舒展，眼睛上视，嘴巴微张说话"
+            }
+        ],
+        "background": "卧室，模糊背景",
+        "description_narrative": "中近景平拍固定镜头，黑衣女子身体前倾注视男子，男子抬头解释名字的含义，包含两人的名字，表达对孩子的期望。",
+        "dialogue": "含有我和小婉的名字。我希望咱们未来的孩子，能像你一样聪慧，像小婉一样善良",
+        "speaker": "男子",
+        "emotion": "深情",
+        "duration": 2.3,
+        "description_visual": "中近景平拍镜头；卧室，模糊背景；画面左侧人物，身穿黑色连衣裙，身体前倾，注视男子，表情：眉毛微挑，眼睛注视男子，嘴唇涂红唇；画面右侧人物，身穿白色衬衫，抬头看女子，身体微侧，表情：眉毛舒展，眼睛上视，嘴巴微张说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面左侧",
+                "action": "坐在床边，赤脚，手放在腿上",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴微张"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "低头，神情略显沉重",
+                "expression": "眉毛下垂，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "卧室，香槟色床单",
+        "description_narrative": "中景平拍固定镜头，黑衣女子坐在床边询问男子为何突然签保险，男子低头神情沉重，气氛略显紧张。",
+        "dialogue": "怎么突然签了这份保险",
+        "speaker": "黑衣女子",
+        "emotion": "疑惑",
+        "duration": 2.03,
+        "description_visual": "中景平拍镜头；卧室，香槟色床单；画面左侧人物，身穿黑色连衣裙，坐在床边，赤脚，手放在腿上，表情：眉毛微蹙，眼睛注视男子，嘴巴微张；画面右侧人物，身穿白色衬衫，黑色长裤，低头，神情略显沉重，表情：眉毛下垂，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "模糊可见，头部微动",
+                "expression": "模糊不可辨"
+            }
+        ],
+        "background": "模糊的垂直线条，暖色调",
+        "description_narrative": "特写摇镜，画面模糊，隐约可见男子的轮廓，伴随画外音感叹人生无常，营造虚幻感。",
+        "dialogue": "人生无常",
+        "speaker": "男子",
+        "emotion": "感慨",
+        "duration": 4.87,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的垂直线条，暖色调；画面中央人物，身穿白色衬衫，模糊可见，头部微动，表情：模糊不可辨。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "坐姿，身体微侧，转头",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "过曝的白色背景，梦幻感",
+        "description_narrative": "中景平拍固定镜头，画面过曝呈白色梦幻感，男子身穿白色衬衫，转头说话，强调有些事情要提前做。",
+        "dialogue": "有些事要提前做好，而不是发生了再去做",
+        "speaker": "男子",
+        "emotion": "严肃",
+        "duration": 0.33,
+        "description_visual": "中景平拍镜头；过曝的白色背景，梦幻感；画面中央人物，身穿白色衬衫，坐姿，身体微侧，转头，表情：眉毛微蹙，眼睛注视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色窗帘或强光，过曝",
+        "description_narrative": "特写固定镜头，画面为白色窗帘或强光过曝，作为现实与回忆的转场，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 27.1,
+        "description_visual": "特写平拍镜头；白色窗帘或强光，过曝。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "米色大衣，白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，神情严肃，注视前方",
+                "expression": "眉毛紧锁，眼睛直视，嘴唇紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧前景",
+                "action": "背对镜头，仅可见头发和肩膀",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑白回忆场景，城市街道背景",
+        "description_narrative": "中景平拍固定镜头，黑白回忆画面，男子身穿米色大衣站立，神情严肃愧疚，向面前的白衣女子忏悔下毒之事，劝其就医。",
+        "dialogue": "你竟然听了盛歆然的话，在我喝的牛奶里下毒。我知道错了苏总，所以你赶快去医院检查吧，不能再拖了。我最近身体已经出现反应，我原以为是因为天气干燥，现在想想应该是毒性发作了。都是我对不起您，所以您赶快去吧，我马上就去自首。",
+        "speaker": "男子",
+        "emotion": "愧疚",
+        "duration": 0.28,
+        "description_visual": "中景平拍镜头；黑白回忆场景，城市街道背景；画面左侧人物，身穿米色大衣，白色衬衫，站立，神情严肃，注视前方，表情：眉毛紧锁，眼睛直视，嘴唇紧闭；画面右侧前景人物，身穿白色上衣，背对镜头，仅可见头发和肩膀，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "抽象绿色模糊光影",
+        "description_narrative": "特写固定镜头，抽象绿色模糊光影，伴随白衣女子的简短回应声，表现情绪波动。",
+        "dialogue": "嗯",
+        "speaker": "白衣女子",
+        "emotion": "悲伤",
+        "duration": 0.25,
+        "description_visual": "特写平拍镜头；抽象绿色模糊光影。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "抽象黑白模糊光影",
+        "description_narrative": "特写固定镜头，抽象黑白模糊光影，伴随白衣女子的再次回应，表现内心的挣扎。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.27,
+        "description_visual": "特写平拍镜头；抽象黑白模糊光影。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "抽象蓝色模糊光影",
+        "description_narrative": "特写固定镜头，抽象蓝色模糊光影，无台词，作为情绪过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.32,
+        "description_visual": "特写平拍镜头；抽象蓝色模糊光影。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "米色大衣，白色衬衫",
+                "position": "画面中央",
+                "action": "站立，神情决绝",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "黑白回忆场景，城市街道",
+        "description_narrative": "中景平拍固定镜头，黑白回忆画面，男子身穿米色大衣站立，神情决绝，准备去自首，画面结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "决绝",
+        "duration": 0.28,
+        "description_visual": "中景平拍镜头；黑白回忆场景，城市街道；画面中央人物，身穿米色大衣，白色衬衫，站立，神情决绝，表情：眉毛微蹙，眼睛直视前方，嘴唇紧闭。"
+    }
+]

@@ -1,0 +1,560 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黑白漫画印花衬衫",
+                "position": "画面左侧",
+                "action": "身体前倾，右手伸向小女孩",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧背景",
+                "action": "站立，身体微侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面右侧背景",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛舒展，眼睛低垂，嘴巴紧闭"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面中央前景",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "老旧房屋门口，白砖墙，红门框，光线明亮",
+        "description_narrative": "中景固定镜头。花衬衫男子身体前倾，右手伸向画面中央背对镜头的小女孩，表情嚣张。白衣男子和黄裙女子站在门口背景处，神情担忧地看着前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "中景平拍镜头；老旧房屋门口，白砖墙，红门框，光线明亮；画面左侧人物，身穿黑白漫画印花衬衫，身体前倾，右手伸向小女孩，表情：眉毛微挑，眼睛斜视，嘴巴微张；画面右侧背景人物，身穿白色背心，站立，身体微侧，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面右侧背景人物，身穿黄色碎花连衣裙，站立，双手自然下垂，表情：眉毛舒展，眼睛低垂，嘴巴紧闭；画面中央前景人物，身穿条纹长袖上衣，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "快速移动导致画面模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景，色调偏暖",
+        "description_narrative": "特写摇镜。画面极度模糊，仅可见肤色和衣物色块快速掠过，表现混乱的肢体动作或镜头快速移动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的室内背景，色调偏暖；画面中央人物，身穿未知，快速移动导致画面模糊，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "背对镜头，站在门口",
+                "expression": "不可见"
+            },
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面右侧",
+                "action": "背对镜头，站在门口",
+                "expression": "不可见"
+            }
+        ],
+        "background": "房屋门口，可见门外瓦片屋顶，光线自然",
+        "description_narrative": "中景固定镜头。白衣男子和黄裙女子背对镜头站在门口，望向门外。门外可见传统瓦片屋顶。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；房屋门口，可见门外瓦片屋顶，光线自然；画面左侧人物，身穿白色背心，黑色长裤，背对镜头，站在门口，表情：不可见；画面右侧人物，身穿黄色碎花连衣裙，背对镜头，站在门口，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "蹲下，右手轻抚小女孩头发",
+                "expression": "眉毛舒展，眼睛注视女孩，嘴巴微张"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "站立，低头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内红门背景，光线柔和",
+        "description_narrative": "近景低角度固定镜头。白衣男子蹲下，温柔地抚摸着小女孩的头发，抬头看着她，眼神关切。小女孩低头站立。",
+        "dialogue": "青青，你没事吧？",
+        "speaker": "白衣男子",
+        "emotion": null,
+        "duration": 2.12,
+        "description_visual": "近景低角度镜头；室内红门背景，光线柔和；画面右侧人物，身穿白色背心，蹲下，右手轻抚小女孩头发，表情：眉毛舒展，眼睛注视女孩，嘴巴微张；画面左侧人物，身穿条纹长袖上衣，站立，低头，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面右侧",
+                "action": "低头，眼神向下",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭嘴角下撇"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面左侧前景",
+                "action": "头部背影可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，有绿色植物",
+        "description_narrative": "特写固定镜头。小女孩低头，眼神悲伤恐惧，嘴角下撇，显得非常委屈。白衣男子的后脑勺在左侧前景。",
+        "dialogue": "爸爸，你把我卖了吗？你不要我了吗？",
+        "speaker": "小女孩",
+        "emotion": null,
+        "duration": 3.36,
+        "description_visual": "特写平拍镜头；室内背景，有绿色植物；画面右侧人物，身穿条纹长袖上衣，低头，眼神向下，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭嘴角下撇；画面左侧前景人物，身穿白色背心，头部背影可见，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "抬头看着女孩，神情坚定",
+                "expression": "眉毛微扬，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内红门背景",
+        "description_narrative": "近景低角度固定镜头。白衣男子抬头看着小女孩，眼神坚定且充满爱意，正在安抚她。",
+        "dialogue": "别听那个混蛋瞎说，爸爸不可能不要你，爸爸最爱你了，永远是爸爸最爱的女儿。",
+        "speaker": "白衣男子",
+        "emotion": null,
+        "duration": 5.92,
+        "description_visual": "近景低角度镜头；室内红门背景；画面右侧人物，身穿白色背心，抬头看着女孩，神情坚定，表情：眉毛微扬，眼睛直视，嘴巴微张；画面左侧人物，身穿条纹长袖上衣，站立，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面右侧",
+                "action": "单膝跪地，紧紧抱住小女孩",
+                "expression": "眼睛紧闭，嘴巴微张"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣，灰色裤子",
+                "position": "画面中央",
+                "action": "被父亲抱住",
+                "expression": "不可见"
+            },
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面背景",
+                "action": "站立，神情担忧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黑白漫画印花衬衫",
+                "position": "画面左侧边缘",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "房屋门口，白砖墙，红门",
+        "description_narrative": "中景固定镜头。白衣男子单膝跪地，紧紧抱住小女孩，表情痛苦。黄裙女子站在身后担忧地看着。花衬衫男子在左侧边缘。",
+        "dialogue": "欠钱不还打老子。",
+        "speaker": "花衬衫男子",
+        "emotion": null,
+        "duration": 3.08,
+        "description_visual": "中景平拍镜头；房屋门口，白砖墙，红门；画面右侧人物，身穿白色背心，黑色长裤，单膝跪地，紧紧抱住小女孩，表情：眼睛紧闭，嘴巴微张；画面中央人物，身穿条纹长袖上衣，灰色裤子，被父亲抱住，表情：不可见；画面背景人物，身穿黄色碎花连衣裙，站立，神情担忧，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面左侧边缘人物，身穿黑白漫画印花衬衫，站立，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "站立，左手拉着小女孩",
+                "expression": "不可见"
+            },
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面右侧",
+                "action": "站立，背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "站在父亲身边",
+                "expression": "不可见"
+            }
+        ],
+        "background": "房屋门口，可见门外瓦片屋顶",
+        "description_narrative": "中景固定镜头。白衣男子和黄裙女子背对镜头站在门口，白衣男子拉着小女孩的手，望向门外。",
+        "dialogue": "樊哥，我求求你了。",
+        "speaker": "黄裙女子",
+        "emotion": null,
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；房屋门口，可见门外瓦片屋顶；画面左侧人物，身穿白色背心，黑色长裤，站立，左手拉着小女孩，表情：不可见；画面右侧人物，身穿黄色碎花连衣裙，站立，背对镜头，表情：不可见；画面左侧人物，身穿条纹长袖上衣，站在父亲身边，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面左侧",
+                "action": "站立，神情焦急",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "站立，小女孩抱着他的腰",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面右侧前景",
+                "action": "抱着父亲",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内红门背景，光线明亮",
+        "description_narrative": "中景固定镜头。黄裙女子和白衣男子站在门口，小女孩抱着父亲的腰。黄裙女子表情焦急地请求。画面下方有字幕“你再给我们几天时间吧”。",
+        "dialogue": "你再给我们几天时间吧。",
+        "speaker": "黄裙女子",
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头；室内红门背景，光线明亮；画面左侧人物，身穿黄色碎花连衣裙，站立，神情焦急，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面右侧人物，身穿白色背心，站立，小女孩抱着他的腰，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面右侧前景人物，身穿条纹长袖上衣，抱着父亲，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黑白漫画印花衬衫",
+                "position": "画面中央",
+                "action": "右手持锤子指向前方",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "室外庭院，瓦片屋顶，光线明亮",
+        "description_narrative": "中景低角度固定镜头。花衬衫男子手持锤子，愤怒地指向前方，表情凶狠。",
+        "dialogue": "他妈，你们两个都卖，几天凑不到一万啊。",
+        "speaker": "花衬衫男子",
+        "emotion": null,
+        "duration": 2.72,
+        "description_visual": "中景低角度镜头；室外庭院，瓦片屋顶，光线明亮；画面中央人物，身穿黑白漫画印花衬衫，右手持锤子指向前方，表情：眉毛上扬，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黑白漫画印花衬衫",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "站立，看着 creditor",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面右侧",
+                "action": "站在父亲身边",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，窗帘，光线柔和",
+        "description_narrative": "中景过肩固定镜头。花衬衫男子背对镜头，白衣男子和小女孩站在对面。白衣男子表情严肃。",
+        "dialogue": "你赶紧给樊哥道歉呀，我给他道歉，我欠下的债都是他妈们设下的圈套。",
+        "speaker": "白衣男子, 黄裙女子",
+        "emotion": null,
+        "duration": 7.12,
+        "description_visual": "中景过肩镜头；室内背景，窗帘，光线柔和；画面左侧前景人物，身穿黑白漫画印花衬衫，背对镜头，表情：不可见；画面中央人物，身穿白色背心，站立，看着 creditor，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面右侧人物，身穿条纹长袖上衣，站在父亲身边，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黑白漫画印花衬衫",
+                "position": "画面左侧前景",
+                "action": "手持锤子",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "站立，护着小女孩",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面右侧",
+                "action": "站在父亲身边",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，窗帘",
+        "description_narrative": "中近景过肩固定镜头。花衬衫男子手持锤子，白衣男子护着小女孩，表情警惕。",
+        "dialogue": "不想还钱，那我就先收点利息。",
+        "speaker": "花衬衫男子",
+        "emotion": null,
+        "duration": 2.84,
+        "description_visual": "中近景过肩镜头；室内背景，窗帘；画面左侧前景人物，身穿黑白漫画印花衬衫，手持锤子，表情：不可见；画面中央人物，身穿白色背心，站立，护着小女孩，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面右侧人物，身穿条纹长袖上衣，站在父亲身边，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面中央",
+                "action": "跪在地上，双手放在大腿上",
+                "expression": "抬头，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黑白漫画印花衬衫",
+                "position": "画面左侧",
+                "action": "站立，腿部可见",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "站立，腿部可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内地面，光线明亮",
+        "description_narrative": "中景固定镜头。黄裙女子跪在地上，双手放在大腿上，抬头 pleadingly。画面下方有字幕“樊哥我求求你了”。",
+        "dialogue": "樊哥，我求求你了，你再给我们几天时间吧。叶柔，你起来给他跪什么？还不都是因为你。青青小的时候，我把亲戚朋友跪了个遍去借奶粉钱。那个时候你在哪儿呢？你赶紧给樊哥道歉。",
+        "speaker": "黄裙女子, 白衣男子",
+        "emotion": null,
+        "duration": 14.88,
+        "description_visual": "中景平拍镜头；室内地面，光线明亮；画面中央人物，身穿黄色碎花连衣裙，跪在地上，双手放在大腿上，表情：抬头，嘴巴微张；画面左侧人物，身穿黑白漫画印花衬衫，站立，腿部可见，表情：不可见；画面右侧人物，身穿白色背心，站立，腿部可见，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黑白漫画印花衬衫",
+                "position": "画面左侧",
+                "action": "侧身站立，手持锤子",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "站立，看着 creditor",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "小女孩",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面右侧",
+                "action": "站在父亲身边",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，窗帘",
+        "description_narrative": "中景固定镜头。花衬衫男子在左侧，白衣男子和小女孩在右侧。白衣男子正在说话，表情坚定。",
+        "dialogue": "不就一万块钱吗？三天之后我连本带利一起还给你。",
+        "speaker": "白衣男子",
+        "emotion": null,
+        "duration": 5.32,
+        "description_visual": "中景平拍镜头；室内背景，窗帘；画面左侧人物，身穿黑白漫画印花衬衫，侧身站立，手持锤子，表情：不可见；画面中央人物，身穿白色背心，站立，看着 creditor，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面右侧人物，身穿条纹长袖上衣，站在父亲身边，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黑白漫画印花衬衫",
+                "position": "画面中央",
+                "action": "看着对方",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "室外庭院，瓦片屋顶",
+        "description_narrative": "近景固定镜头。花衬衫男子表情不屑，看着对方。画面下方有字幕“空手说白话谁不会”。",
+        "dialogue": "空手说白话谁不会",
+        "speaker": "花衬衫男子",
+        "emotion": null,
+        "duration": 4.0,
+        "description_visual": "近景平拍镜头；室外庭院，瓦片屋顶；画面中央人物，身穿黑白漫画印花衬衫，看着对方，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内红门背景",
+        "description_narrative": "中近景固定镜头。黄裙女子低头，表情绝望 resigned。",
+        "dialogue": "早知道你这王八蛋还不上，东西都给你准备好了。不能签。这是赌债，签了就成铁债了，滚他妈一边去。",
+        "speaker": "花衬衫男子, 黄裙女子",
+        "emotion": null,
+        "duration": 9.76,
+        "description_visual": "中近景平拍镜头；室内红门背景；画面中央人物，身穿黄色碎花连衣裙，站立，低头，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "特写固定镜头。画面全白，可能是转场或强光效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；白色屏幕。"
+    }
+]

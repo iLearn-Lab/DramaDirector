@@ -1,0 +1,818 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "黄色外卖服，头盔",
+                "position": "前景中央",
+                "action": "奔跑姿态，看手表",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "小雪",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "背景上方",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛平视，嘴巴微闭"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "背景右侧",
+                "action": "站立，手插口袋",
+                "expression": "眉毛微挑，眼睛斜视，嘴角上扬"
+            },
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "黑色露肩装",
+                "position": "背景左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛看向侧面，嘴巴涂红唇"
+            }
+        ],
+        "background": "电影海报背景，色彩绚丽，有金币和城市剪影",
+        "description_narrative": "全景固定镜头展示电影海报，秦奋身穿黄色外卖服在前景奔跑看表，小雪、白衣男子、白裙女子等角色分布在背景中，周围有金币飞舞特效。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.7,
+        "description_visual": "全景平拍镜头；电影海报背景，色彩绚丽，有金币和城市剪影；前景中央人物，身穿黄色外卖服，头盔，奔跑姿态，看手表，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；背景上方人物，身穿白色上衣，站立，表情：眉毛舒展，眼睛平视，嘴巴微闭；背景右侧人物，身穿棕色西装，站立，手插口袋，表情：眉毛微挑，眼睛斜视，嘴角上扬；背景左侧人物，身穿黑色露肩装，站立，表情：眉毛微蹙，眼睛看向侧面，嘴巴涂红唇。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色西裤",
+                "position": "画面中央",
+                "action": "低头整理裤腰，双手在腰间动作",
+                "expression": "眉毛微挑，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室衣柜前，米色柜门，光线柔和",
+        "description_narrative": "中近景固定镜头，白衣男子站在衣柜前，低头整理裤腰，神情略带轻蔑，正在对床上的人说话。",
+        "dialogue": "小雪，只要你以后乖乖听我的话。",
+        "speaker": "白衣男子",
+        "emotion": "威胁",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；卧室衣柜前，米色柜门，光线柔和；画面中央人物，身穿白色衬衫，黑色西裤，低头整理裤腰，双手在腰间动作，表情：眉毛微挑，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雪",
+                "gender": "女",
+                "clothing": "白色被子包裹",
+                "position": "画面中央",
+                "action": "坐在床上，双手紧抓被角护在胸前",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头，白色床头板，墙上挂画",
+        "description_narrative": "中景固定镜头，小雪裹着白色被子坐在床上，神情惊恐无助，双手紧紧抓着被角，脖颈处可见痕迹。",
+        "dialogue": "乖乖听我的话",
+        "speaker": "白衣男子",
+        "emotion": "恐惧",
+        "duration": 2.63,
+        "description_visual": "中景平拍镜头；卧室床头，白色床头板，墙上挂画；画面中央人物，身穿白色被子包裹，坐在床上，双手紧抓被角护在胸前，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微前倾，眼神逼迫",
+                "expression": "眉毛上扬，眼睛直视对方，嘴巴微张说话"
+            }
+        ],
+        "background": "卧室衣柜前，米色柜门",
+        "description_narrative": "中近景固定镜头，白衣男子站立，身体微前倾，眼神阴险地盯着对方，提出无理要求。",
+        "dialogue": "帮我 对付他",
+        "speaker": "白衣男子",
+        "emotion": "阴险",
+        "duration": 2.37,
+        "description_visual": "中近景平拍镜头；卧室衣柜前，米色柜门；画面中央人物，身穿白色衬衫，站立，身体微前倾，眼神逼迫，表情：眉毛上扬，眼睛直视对方，嘴巴微张说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雪",
+                "gender": "女",
+                "clothing": "白色被子包裹",
+                "position": "画面中央",
+                "action": "抬头怒视，双手抓紧被子",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张斥责"
+            }
+        ],
+        "background": "卧室床头，白色床头板",
+        "description_narrative": "中景固定镜头，小雪抬头愤怒地瞪着对方，双手抓紧被子护住身体，严词拒绝。",
+        "dialogue": "你这个禽兽",
+        "speaker": "小雪",
+        "emotion": "愤怒",
+        "duration": 2.7,
+        "description_visual": "中景平拍镜头；卧室床头，白色床头板；画面中央人物，身穿白色被子包裹，抬头怒视，双手抓紧被子，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张斥责。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "双手叉腰，表情变得凶狠",
+                "expression": "眉毛倒竖，眼睛眯起，嘴角下撇"
+            }
+        ],
+        "background": "卧室衣柜前，米色柜门",
+        "description_narrative": "中近景固定镜头，白衣男子双手叉腰，表情变得凶狠，威胁要展示后果。",
+        "dialogue": "好啊，那我就让你看看和我作对是什么下场。",
+        "speaker": "白衣男子",
+        "emotion": "凶狠",
+        "duration": 4.17,
+        "description_visual": "中近景平拍镜头；卧室衣柜前，米色柜门；画面中央人物，身穿白色衬衫，双手叉腰，表情变得凶狠，表情：眉毛倒竖，眼睛眯起，嘴角下撇。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雪",
+                "gender": "女",
+                "clothing": "白色被子包裹",
+                "position": "画面中央",
+                "action": "死死盯着对方，身体紧绷",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头，白色床头板",
+        "description_narrative": "中景固定镜头，小雪死死盯着对方，身体紧绷，眼神中充满恐惧和 defiance。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恐惧",
+        "duration": 1.23,
+        "description_visual": "中景平拍镜头；卧室床头，白色床头板；画面中央人物，身穿白色被子包裹，死死盯着对方，身体紧绷，表情：眉毛紧锁，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "举起手机展示屏幕",
+                "expression": "眉毛微挑，眼睛看手机，嘴角冷笑"
+            }
+        ],
+        "background": "卧室衣柜前",
+        "description_narrative": "中近景推进镜头，白衣男子举起手机，将屏幕展示给对方看，脸上带着得意的冷笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 0.63,
+        "description_visual": "中近景平拍镜头（推进）；卧室衣柜前；画面中央人物，身穿白色衬衫，举起手机展示屏幕，表情：眉毛微挑，眼睛看手机，嘴角冷笑。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "手持手机",
+                "expression": "未知"
+            }
+        ],
+        "background": "模糊背景，手机屏幕占据画面",
+        "description_narrative": "大特写固定镜头，手机屏幕占据画面，屏幕内容被像素化处理，隐约可见隐私照片。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.67,
+        "description_visual": "大特写平拍镜头；模糊背景，手机屏幕占据画面；画面中央人物，身穿未知，手持手机，表情：未知。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "手持手机",
+                "expression": "未知"
+            }
+        ],
+        "background": "模糊背景，手机屏幕占据画面",
+        "description_narrative": "大特写固定镜头，手机屏幕内容切换，依然被像素化处理，显示另一张照片。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.67,
+        "description_visual": "大特写平拍镜头；模糊背景，手机屏幕占据画面；画面中央人物，身穿未知，手持手机，表情：未知。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雪",
+                "gender": "女",
+                "clothing": "白色被子包裹",
+                "position": "画面中央",
+                "action": "看着前景的手机，眼神惊恐",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "前景右侧",
+                "action": "手持手机",
+                "expression": "未知"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "过肩中景固定镜头，前景是白衣男子拿着手机的手，后景小雪看着手机屏幕，眼神极度惊恐。",
+        "dialogue": "你说秦奋要是",
+        "speaker": "白衣男子",
+        "emotion": "惊恐",
+        "duration": 1.17,
+        "description_visual": "中景过肩镜头；卧室床头；画面中央人物，身穿白色被子包裹，看着前景的手机，眼神惊恐，表情：眉毛紧蹙，眼睛睁大，嘴巴微张；前景右侧人物，身穿白色衬衫，手持手机，表情：未知。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "看着对方，语气嘲讽",
+                "expression": "眉毛微挑，眼睛斜视，嘴角上扬"
+            }
+        ],
+        "background": "卧室衣柜前",
+        "description_narrative": "中近景固定镜头，白衣男子看着对方，语气嘲讽，继续用言语刺激对方。",
+        "dialogue": "你说秦奋要是",
+        "speaker": "白衣男子",
+        "emotion": "嘲讽",
+        "duration": 3.6,
+        "description_visual": "中近景平拍镜头；卧室衣柜前；画面中央人物，身穿白色衬衫，看着对方，语气嘲讽，表情：眉毛微挑，眼睛斜视，嘴角上扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雪",
+                "gender": "女",
+                "clothing": "白色被子包裹",
+                "position": "画面中央",
+                "action": "痛苦地摇头，眼神绝望",
+                "expression": "眉毛紧锁，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "中景固定镜头，小雪痛苦地摇头，眼神绝望，听到对方提及秦奋的名字更加难受。",
+        "dialogue": "看到这些照片，他还会不会像现在这样喜欢你啊？",
+        "speaker": "白衣男子",
+        "emotion": "绝望",
+        "duration": 1.23,
+        "description_visual": "中景平拍镜头；卧室床头；画面中央人物，身穿白色被子包裹，痛苦地摇头，眼神绝望，表情：眉毛紧锁，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "微笑，似乎很享受对方的愤怒",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "卧室衣柜前",
+        "description_narrative": "中近景固定镜头，白衣男子面带微笑，似乎很享受对方的愤怒和无助。",
+        "dialogue": "你无耻",
+        "speaker": "小雪",
+        "emotion": "愤怒",
+        "duration": 1.03,
+        "description_visual": "中近景平拍镜头；卧室衣柜前；画面中央人物，身穿白色衬衫，微笑，似乎很享受对方的愤怒，表情：眉毛舒展，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，手持酒杯",
+                "expression": "眉毛微蹙，眼睛看向门口，嘴巴微张"
+            }
+        ],
+        "background": "客厅，灰色沙发，墙上挂画，茶几上有花",
+        "description_narrative": "全景固定镜头，场景切换至客厅，白裙女子坐在沙发上，手持酒杯，神情慌张地看向门口。",
+        "dialogue": "小雪呢",
+        "speaker": "秦奋",
+        "emotion": "慌张",
+        "duration": 0.97,
+        "description_visual": "全景平拍镜头；客厅，灰色沙发，墙上挂画，茶几上有花；画面中央人物，身穿白色露肩连衣裙，坐在沙发上，手持酒杯，表情：眉毛微蹙，眼睛看向门口，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "牛仔外套，白色 T 恤",
+                "position": "画面中央",
+                "action": "站立，神情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅门口，墙上挂钟",
+        "description_narrative": "中近景固定镜头，秦奋站在客厅门口，身穿牛仔外套，神情严肃焦急。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；客厅门口，墙上挂钟；画面中央人物，身穿牛仔外套，白色 T 恤，站立，神情严肃，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面左侧",
+                "action": "伸手去拿茶几上的酒杯",
+                "expression": "眉毛微蹙，眼睛看手，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区，吊椅，窗帘",
+        "description_narrative": "中景固定镜头，白裙女子坐在沙发边缘，伸手去拿茶几上的酒杯，动作略显慌乱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "慌乱",
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头；客厅沙发区，吊椅，窗帘；画面左侧人物，身穿白色露肩连衣裙，伸手去拿茶几上的酒杯，表情：眉毛微蹙，眼睛看手，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "抬头看人，眼神躲闪",
+                "expression": "眉毛紧蹙，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "客厅墙面，挂画模糊",
+        "description_narrative": "特写固定镜头，白裙女子抬头看人，眼神躲闪，神情紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.17,
+        "description_visual": "特写平拍镜头；客厅墙面，挂画模糊；画面中央人物，身穿白色露肩连衣裙，抬头看人，眼神躲闪，表情：眉毛紧蹙，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "牛仔外套，白色 T 恤",
+                "position": "画面中央",
+                "action": "盯着对方，质问",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "客厅门口",
+        "description_narrative": "中近景固定镜头，秦奋盯着对方，直接质问对方为何在这里。",
+        "dialogue": "你怎么来了",
+        "speaker": "白裙女子",
+        "emotion": "质问",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；客厅门口；画面中央人物，身穿牛仔外套，白色 T 恤，盯着对方，质问，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "低头，不敢对视",
+                "expression": "眉毛下垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅墙面",
+        "description_narrative": "特写固定镜头，白裙女子低下头，不敢与秦奋对视，神情心虚。",
+        "dialogue": "我问你话呢",
+        "speaker": "秦奋",
+        "emotion": "心虚",
+        "duration": 0.97,
+        "description_visual": "特写平拍镜头；客厅墙面；画面中央人物，身穿白色露肩连衣裙，低头，不敢对视，表情：眉毛下垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "牛仔外套，浅色牛仔裤",
+                "position": "画面左侧",
+                "action": "站立，身后跟着两名保镖",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴微张"
+            },
+            {
+                "name": "黑衣保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立，表情严肃",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右后",
+                "action": "站立，表情严肃",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅走廊，木地板，白墙",
+        "description_narrative": "全景固定镜头，秦奋站在客厅，身后跟着两名黑衣保镖，气势逼人，揭穿对方的谎言。",
+        "dialogue": "她走了，她不在这。",
+        "speaker": "白裙女子",
+        "emotion": "严肃",
+        "duration": 2.13,
+        "description_visual": "全景平拍镜头；客厅走廊，木地板，白墙；画面左侧人物，身穿牛仔外套，浅色牛仔裤，站立，身后跟着两名保镖，表情：眉毛紧锁，眼睛直视前方，嘴巴微张；画面右侧人物，身穿黑色西装，站立，表情严肃，表情：眉毛平展，眼睛直视，嘴巴紧闭；画面右后人物，身穿黑色西装，站立，表情严肃，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "站在床边，看着床上的人",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴微张"
+            },
+            {
+                "name": "小雪",
+                "gender": "女",
+                "clothing": "白色被子包裹",
+                "position": "画面左侧",
+                "action": "躺在床上，背对镜头",
+                "expression": "未知"
+            }
+        ],
+        "background": "卧室，床，挂画",
+        "description_narrative": "中近景固定镜头，场景切回卧室，白衣男子站在床边，看着床上背对镜头的小雪，继续威胁。",
+        "dialogue": "你撒谎。",
+        "speaker": "秦奋",
+        "emotion": "威胁",
+        "duration": 0.97,
+        "description_visual": "中近景平拍镜头；卧室，床，挂画；画面右侧人物，身穿白色衬衫，站在床边，看着床上的人，表情：眉毛微挑，眼睛侧视，嘴巴微张；画面左侧人物，身穿白色被子包裹，躺在床上，背对镜头，表情：未知。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "表情凶狠，手指对方",
+                "expression": "眉毛倒竖，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "卧室衣柜前",
+        "description_narrative": "中近景固定镜头，白衣男子表情凶狠，手指对方，发出最后的通牒。",
+        "dialogue": "我告诉你",
+        "speaker": "白衣男子",
+        "emotion": "凶狠",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；卧室衣柜前；画面中央人物，身穿白色衬衫，表情凶狠，手指对方，表情：眉毛倒竖，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，语气恶毒",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴角下撇"
+            }
+        ],
+        "background": "卧室衣柜前",
+        "description_narrative": "中近景固定镜头，白衣男子身体前倾，语气恶毒地威胁要将照片发到网上。",
+        "dialogue": "今天你要是不答应帮我对付秦奋的话，我就把这些照片放到网上去。",
+        "speaker": "白衣男子",
+        "emotion": "恶毒",
+        "duration": 5.03,
+        "description_visual": "中近景平拍镜头；卧室衣柜前；画面中央人物，身穿白色衬衫，身体前倾，语气恶毒，表情：眉毛紧蹙，眼睛眯起，嘴角下撇。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雪",
+                "gender": "女",
+                "clothing": "白色被子包裹",
+                "position": "画面中央",
+                "action": "趴在床上，身体颤抖",
+                "expression": "眉毛紧锁，眼睛闭着，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "中景固定镜头，小雪趴在床上，身体因恐惧而颤抖，不敢面对这一切。",
+        "dialogue": "放到网上去",
+        "speaker": "白衣男子",
+        "emotion": "恐惧",
+        "duration": 2.17,
+        "description_visual": "中景平拍镜头；卧室床头；画面中央人物，身穿白色被子包裹，趴在床上，身体颤抖，表情：眉毛紧锁，眼睛闭着，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "冷笑，眼神轻蔑",
+                "expression": "眉毛微挑，眼睛斜视，嘴角上扬"
+            }
+        ],
+        "background": "卧室衣柜前",
+        "description_narrative": "中近景固定镜头，白衣男子冷笑，眼神轻蔑，让对方好好看看后果。",
+        "dialogue": "好好看看",
+        "speaker": "白衣男子",
+        "emotion": "轻蔑",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；卧室衣柜前；画面中央人物，身穿白色衬衫，冷笑，眼神轻蔑，表情：眉毛微挑，眼睛斜视，嘴角上扬。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "继续嘲讽，身体微晃",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "卧室衣柜前",
+        "description_narrative": "中近景固定镜头，白衣男子继续嘲讽，询问对方亲友会有什么反应。",
+        "dialogue": "你说他们会有什么",
+        "speaker": "白衣男子",
+        "emotion": "嘲讽",
+        "duration": 1.3,
+        "description_visual": "中近景平拍镜头；卧室衣柜前；画面中央人物，身穿白色衬衫，继续嘲讽，身体微晃，表情：眉毛舒展，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "牛仔外套，浅色牛仔裤",
+                "position": "画面左侧",
+                "action": "站立，身后跟着保镖",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "黑衣保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "黑衣保镖",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右后",
+                "action": "站立",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "客厅走廊",
+        "description_narrative": "全景固定镜头，场景切回客厅，秦奋和保镖站立，秦奋似乎听到了什么，反问“反应？”。",
+        "dialogue": "反应？",
+        "speaker": "秦奋",
+        "emotion": "反问",
+        "duration": 1.3,
+        "description_visual": "全景平拍镜头；客厅走廊；画面左侧人物，身穿牛仔外套，浅色牛仔裤，站立，身后跟着保镖，表情：眉毛紧锁，眼睛直视，嘴巴微张；画面右侧人物，身穿黑色西装，站立，表情：表情严肃；画面右后人物，身穿黑色西装，站立，表情：表情严肃。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色露肩连衣裙",
+                "position": "画面中央",
+                "action": "表情惊恐，看着门口",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "客厅墙面",
+        "description_narrative": "特写固定镜头，白裙女子表情惊恐，看着门口方向，似乎意识到了什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 0.73,
+        "description_visual": "特写平拍镜头；客厅墙面；画面中央人物，身穿白色露肩连衣裙，表情惊恐，看着门口，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站在衣柜前，回头",
+                "expression": "眉毛微挑，眼睛看向门口，嘴巴微张"
+            },
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "牛仔外套",
+                "position": "画面右侧门口",
+                "action": "冲进房间",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "卧室，床，衣柜，门",
+        "description_narrative": "全景跟拍镜头，秦奋从门口冲进卧室，白衣男子站在衣柜前回头，一脸错愕。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "错愕",
+        "duration": 0.5,
+        "description_visual": "全景平拍镜头（跟拍）；卧室，床，衣柜，门；画面左侧人物，身穿白色衬衫，站在衣柜前，回头，表情：眉毛微挑，眼睛看向门口，嘴巴微张；画面右侧门口人物，身穿牛仔外套，冲进房间，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "被一脚踹中腹部，身体后仰",
+                "expression": "未知"
+            }
+        ],
+        "background": "卧室衣柜前",
+        "description_narrative": "特写跟拍镜头，秦奋一脚踹中白衣男子的腹部，白衣男子身体剧烈后仰，衬衫皱起。",
+        "dialogue": "啊啊",
+        "speaker": "白衣男子",
+        "emotion": "痛苦",
+        "duration": 2.27,
+        "description_visual": "特写平拍镜头（跟拍）；卧室衣柜前；画面中央人物，身穿白色衬衫，被一脚踹中腹部，身体后仰，表情：未知。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "白色床单剧烈晃动",
+                "expression": "未知"
+            }
+        ],
+        "background": "白色床单",
+        "description_narrative": "大特写固定镜头，白色床单剧烈晃动，显示床上的人受到冲击或挣扎，画面逐渐变白。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.63,
+        "description_visual": "大特写平拍镜头；白色床单；画面中央人物，身穿未知，白色床单剧烈晃动，表情：未知。"
+    }
+]

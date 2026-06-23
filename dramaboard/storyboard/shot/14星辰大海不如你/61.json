@@ -1,0 +1,876 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张叔",
+                "gender": "男",
+                "clothing": "灰色冲锋衣",
+                "position": "画面中央",
+                "action": "站立，头部微抬，目光向前",
+                "expression": "眉毛舒展，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，背景有树木和模糊的水面，光线自然",
+        "description_narrative": "中近景固定镜头，张叔身穿灰色冲锋衣站在户外公园，背景是模糊的树木和水面。他头部微抬，目光向前，嘴巴微张，似乎正在询问。",
+        "dialogue": "这次打算在老家待多久啊",
+        "speaker": "张叔",
+        "emotion": "询问",
+        "duration": 1.83,
+        "description_visual": "中近景平拍镜头；户外公园，背景有树木和模糊的水面，光线自然；画面中央人物，身穿灰色冲锋衣，站立，头部微抬，目光向前，表情：眉毛舒展，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫，灰色裤子",
+                "position": "画面左侧",
+                "action": "站立，侧身面向女子",
+                "expression": "眉毛微蹙，眼睛看向女子，嘴巴闭合"
+            },
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣，深色裙子",
+                "position": "画面右侧",
+                "action": "站立，抬头看向男子",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "户外公园小路，阳光明媚，绿树成荫",
+        "description_narrative": "中景固定镜头，白衬衫男子和条纹衫女子站在公园小路上。男子侧身面向女子，女子抬头看着他，两人似乎正在对话。",
+        "dialogue": "老家",
+        "speaker": "张叔",
+        "emotion": "疑惑",
+        "duration": 1.67,
+        "description_visual": "中景平拍镜头；户外公园小路，阳光明媚，绿树成荫；画面左侧人物，身穿白色衬衫，灰色裤子，站立，侧身面向女子，表情：眉毛微蹙，眼睛看向女子，嘴巴闭合；画面右侧人物，身穿黑白条纹上衣，深色裙子，站立，抬头看向男子，表情：眉毛舒展，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "侧头看向男子",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写固定镜头，条纹衫女子侧头看向男子，眼神中带着询问，嘴巴微张，似乎在回应或打断。",
+        "dialogue": "哎冉冉",
+        "speaker": "白衬衫男子",
+        "emotion": "呼唤",
+        "duration": 1.3,
+        "description_visual": "特写平拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，侧头看向男子，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "低头看向女子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景虚化",
+        "description_narrative": "近景固定镜头，白衬衫男子低头看着女子，神情认真，嘴巴微张，正在解释什么。",
+        "dialogue": "我之前一直都是",
+        "speaker": "白衬衫男子",
+        "emotion": "认真",
+        "duration": 2.63,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景虚化；画面左侧人物，身穿白色衬衫，低头看向女子，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，手自然下垂",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴闭合"
+            }
+        ],
+        "background": "户外公园小路，阳光透过树叶",
+        "description_narrative": "中景固定镜头，两人并肩站立。男子看向前方继续说话，女子表情变得严肃，似乎听到了什么不好的消息。",
+        "dialogue": "都是在隔壁市里的 听说你以前",
+        "speaker": "白衬衫男子",
+        "emotion": "叙述",
+        "duration": 2.97,
+        "description_visual": "中景平拍镜头；户外公园小路，阳光透过树叶；画面左侧人物，身穿白色衬衫，站立，手自然下垂，表情：眉毛舒展，眼睛看向前方，嘴巴微张；画面右侧人物，身穿黑白条纹上衣，站立，表情严肃，表情：眉毛微蹙，眼睛直视前方，嘴巴闭合。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，看向张叔",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面中央",
+                "action": "站立，看向张叔",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴闭合"
+            },
+            {
+                "name": "张叔",
+                "gender": "男",
+                "clothing": "灰色冲锋衣",
+                "position": "画面右侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园小路，远处有城市建筑",
+        "description_narrative": "全景固定镜头，张叔背对镜头站在两人面前。白衬衫男子和条纹衫女子都看着张叔，气氛略显紧张。",
+        "dialogue": "喜欢的那个姑娘 跟她老板",
+        "speaker": "张叔",
+        "emotion": "八卦",
+        "duration": 3.43,
+        "description_visual": "全景平拍镜头；公园小路，远处有城市建筑；画面左侧人物，身穿白色衬衫，站立，看向张叔，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面中央人物，身穿黑白条纹上衣，站立，看向张叔，表情：眉毛微蹙，眼睛注视，嘴巴闭合；画面右侧人物，身穿灰色冲锋衣，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "转头看向张叔方向",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子转头看向张叔的方向，神情有些不满，似乎在制止张叔继续说下去。",
+        "dialogue": "在一起了 哎那张叔不该说的别乱说",
+        "speaker": "白衬衫男子",
+        "emotion": "制止",
+        "duration": 1.93,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，转头看向张叔方向，表情：眉毛微蹙，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "侧头看向男子",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子侧头看着男子，眼神中带着疑惑和询问，嘴巴微张。",
+        "dialogue": "冉冉别听他瞎说",
+        "speaker": "白衬衫男子",
+        "emotion": "安慰",
+        "duration": 3.0,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，侧头看向男子，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "低头看着女子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            },
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "抬头看着男子",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "户外公园，阳光斑驳",
+        "description_narrative": "中近景固定镜头，男子低头看着女子，女子抬头回望，两人眼神交流，气氛微妙。",
+        "dialogue": "是什么女孩子 让你这么上心呢",
+        "speaker": "条纹衫女子",
+        "emotion": "好奇",
+        "duration": 7.03,
+        "description_visual": "中近景平拍镜头；户外公园，阳光斑驳；画面左侧人物，身穿白色衬衫，低头看着女子，表情：眉毛微蹙，眼睛下视，嘴巴闭合；画面右侧人物，身穿黑白条纹上衣，抬头看着男子，表情：眉毛微蹙，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "侧头倾听",
+                "expression": "眉毛舒展，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子侧头倾听，神情专注，似乎在等待男子的回答。",
+        "dialogue": "嗯冉冉 我先给你讲个故事吧 从前呀有个男孩",
+        "speaker": "白衬衫男子",
+        "emotion": "温柔",
+        "duration": 2.53,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，侧头倾听，表情：眉毛舒展，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "看着女子，手部有轻微动作",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子看着女子，开始讲故事，手部有轻微的比划动作。",
+        "dialogue": "喜欢上了个女孩 这个女孩",
+        "speaker": "白衬衫男子",
+        "emotion": "叙述",
+        "duration": 2.17,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，看着女子，手部有轻微动作，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "继续讲述",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子继续讲述故事，神情投入。",
+        "dialogue": "善良聪明",
+        "speaker": "白衬衫男子",
+        "emotion": "赞赏",
+        "duration": 3.53,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，继续讲述，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "倾听，眼神柔和",
+                "expression": "眉毛舒展，眼睛注视，嘴角微扬"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子倾听故事，眼神柔和，嘴角微微上扬，似乎被故事吸引。",
+        "dialogue": "漂亮 但是呢这个 女孩他公司老板呀 是个十恶不赦的",
+        "speaker": "白衬衫男子",
+        "emotion": "转折",
+        "duration": 4.2,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，倾听，眼神柔和，表情：眉毛舒展，眼睛注视，嘴角微扬。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "表情严肃",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子表情变得严肃，描述故事中的反派角色。",
+        "dialogue": "花花公子 不仅自己欠下了 一屁股风流债 还试图对女孩",
+        "speaker": "白衬衫男子",
+        "emotion": "愤慨",
+        "duration": 2.77,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，表情严肃，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "表情惊讶",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子听到故事转折，表情惊讶，眼睛睁大，嘴巴微张。",
+        "dialogue": "下毒手呢 啊那这个老板太",
+        "speaker": "条纹衫女子",
+        "emotion": "惊讶",
+        "duration": 4.8,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，表情惊讶，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "点头回应",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子点头回应女子的反应，继续讲述故事。",
+        "dialogue": "可恶了 对啊 那然后呢 后来啊这个男孩 知道了这件事",
+        "speaker": "白衬衫男子",
+        "emotion": "叙述",
+        "duration": 2.67,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，点头回应，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "专注倾听",
+                "expression": "眉毛舒展，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子专注倾听，眼神中带着期待。",
+        "dialogue": "于是他使尽浑身解数",
+        "speaker": "白衬衫男子",
+        "emotion": "叙述",
+        "duration": 3.37,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，专注倾听，表情：眉毛舒展，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手部握拳动作",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子手部做出握拳动作，强调故事中的努力。",
+        "dialogue": "终于把女孩 救出了老板的魔爪",
+        "speaker": "白衬衫男子",
+        "emotion": "欣慰",
+        "duration": 1.13,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，手部握拳动作，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "露出笑容",
+                "expression": "眉毛舒展，眼睛弯起，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子听到好结局，露出开心的笑容，眼睛弯起。",
+        "dialogue": "哇这个女孩",
+        "speaker": "条纹衫女子",
+        "emotion": "开心",
+        "duration": 1.0,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，露出笑容，表情：眉毛舒展，眼睛弯起，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "笑容灿烂",
+                "expression": "眉毛舒展，眼睛弯起，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子笑容灿烂，表达对故事结局的羡慕。",
+        "dialogue": "好幸福好羡慕她",
+        "speaker": "条纹衫女子",
+        "emotion": "羡慕",
+        "duration": 0.7,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，笑容灿烂，表情：眉毛舒展，眼睛弯起，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "侧头微笑",
+                "expression": "眉毛舒展，眼睛注视，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子侧头微笑，沉浸在故事的美好中。",
+        "dialogue": "好幸福好羡慕她",
+        "speaker": "条纹衫女子",
+        "emotion": "羡慕",
+        "duration": 4.07,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，侧头微笑，表情：眉毛舒展，眼睛注视，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "微笑点头",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子微笑点头，认同女子的感受。",
+        "dialogue": "对啊",
+        "speaker": "白衬衫男子",
+        "emotion": "认同",
+        "duration": 2.43,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，微笑点头，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "微笑倾听",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子微笑倾听，等待故事的后续。",
+        "dialogue": "后来他们 一起回到了家乡 原本开开心心的",
+        "speaker": "白衬衫男子",
+        "emotion": "叙述",
+        "duration": 2.4,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，微笑倾听，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "表情转为严肃",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子表情转为严肃，讲述故事的转折。",
+        "dialogue": "但就是玩的太开心了 女孩一不小心掉进",
+        "speaker": "白衬衫男子",
+        "emotion": "担忧",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，表情转为严肃，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "看着女子",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "低头，表情略显紧张",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "户外公园小路",
+        "description_narrative": "中景固定镜头，男子看着女子讲述危险的情节，女子低头，表情略显紧张。",
+        "dialogue": "水里 差点就淹死了",
+        "speaker": "白衬衫男子",
+        "emotion": "紧张",
+        "duration": 4.13,
+        "description_visual": "中景平拍镜头；户外公园小路；画面左侧人物，身穿白色衬衫，看着女子，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面右侧人物，身穿黑白条纹上衣，低头，表情略显紧张，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "抬头微笑",
+                "expression": "眉毛舒展，眼睛注视，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子抬头微笑，似乎猜到了结局。",
+        "dialogue": "于是呢这个男孩子 就救了这个女孩子",
+        "speaker": "条纹衫女子",
+        "emotion": "开心",
+        "duration": 5.07,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，抬头微笑，表情：眉毛舒展，眼睛注视，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "看着女子",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子看着女子，讲述故事的另一层转折。",
+        "dialogue": "可是呢这个女孩子失忆了 这个男孩子一直",
+        "speaker": "白衬衫男子",
+        "emotion": "深情",
+        "duration": 2.63,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，看着女子，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "抬头说话",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子抬头说话，似乎明白了故事的寓意。",
+        "dialogue": "很细心的照顾着他 对吧 冉冉你听出来了",
+        "speaker": "白衬衫男子",
+        "emotion": "期待",
+        "duration": 3.63,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，抬头说话，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "自信地说话",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，条纹衫女子自信地说话，表示自己虽然失忆但并不傻。",
+        "dialogue": "我虽然失忆了可我不傻",
+        "speaker": "条纹衫女子",
+        "emotion": "自信",
+        "duration": 1.6,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿黑白条纹上衣，自信地说话，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "行走",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴闭合"
+            },
+            {
+                "name": "条纹衫女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧",
+                "action": "行走，侧头看男子",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园小路，阳光斑驳",
+        "description_narrative": "全景跟拍镜头，两人并肩走在公园小路上。女子侧头看着男子，似乎在原谅他。",
+        "dialogue": "哎看在你这么细心的 照顾我的份上",
+        "speaker": "条纹衫女子",
+        "emotion": "宽容",
+        "duration": 0.67,
+        "description_visual": "全景平拍镜头（跟拍）；户外公园小路，阳光斑驳；画面左侧人物，身穿白色衬衫，行走，表情：眉毛舒展，眼睛注视前方，嘴巴闭合；画面右侧人物，身穿黑白条纹上衣，行走，侧头看男子，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "看着女子",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "户外公园，绿色背景",
+        "description_narrative": "近景固定镜头，白衬衫男子看着女子，听到原谅后神情放松。",
+        "dialogue": "我就原谅你吧",
+        "speaker": "条纹衫女子",
+        "emotion": "原谅",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；户外公园，绿色背景；画面左侧人物，身穿白色衬衫，看着女子，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "转头",
+                "expression": "眉毛舒展，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "户外公园，背景虚化",
+        "description_narrative": "特写侧拍镜头，白衬衫男子转头，画面聚焦在他的侧脸和耳朵上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "特写侧拍镜头；户外公园，背景虚化；画面右侧人物，身穿白色衬衫，转头，表情：眉毛舒展，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "升降",
+        "subjects": [],
+        "background": "城市高楼，河流，远处山脉，晴朗天空",
+        "description_narrative": "远景俯拍升降镜头，展示了一座现代化的摩天大楼，周围是河流和城市景观，天空晴朗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.27,
+        "description_visual": "远景俯拍镜头（升降）；城市高楼，河流，远处山脉，晴朗天空。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立，汇报工作",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "坐在办公桌前",
+                "expression": "眉毛微蹙，眼睛注视电脑，嘴巴闭合"
+            }
+        ],
+        "background": "办公室，办公桌，电脑，文件",
+        "description_narrative": "中景固定镜头，办公室内，助理站立向坐在办公桌前的西装男子汇报工作。",
+        "dialogue": "打捞队打捞了 7 天 一无所获",
+        "speaker": "助理",
+        "emotion": "严肃",
+        "duration": 2.9,
+        "description_visual": "中景平拍镜头；办公室，办公桌，电脑，文件；画面右侧人物，身穿黑色西装，站立，汇报工作，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面左侧人物，身穿黑色西装，坐在办公桌前，表情：眉毛微蹙，眼睛注视电脑，嘴巴闭合。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "坐在电脑前",
+                "expression": "眉毛微蹙，眼睛注视屏幕，嘴巴微张"
+            }
+        ],
+        "background": "办公室，电脑屏幕，书架",
+        "description_narrative": "近景固定镜头，西装男子坐在电脑前，听到汇报后神情凝重。",
+        "dialogue": "一无所获",
+        "speaker": "西装男子",
+        "emotion": "失落",
+        "duration": 16.93,
+        "description_visual": "近景平拍镜头；办公室，电脑屏幕，书架；画面中央人物，身穿黑色西装，坐在电脑前，表情：眉毛微蹙，眼睛注视屏幕，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "河流岸边，绿化带，步道，阴天",
+        "description_narrative": "远景俯拍固定镜头，展示河流岸边的绿化带和步道，天气阴沉，暗示寻找的艰难。",
+        "dialogue": "陈思思你到底在哪 思思我知道 你一定在某处等着我 我一定不会放弃寻找你的 你能给我点线索吗",
+        "speaker": "西装男子",
+        "emotion": "深情",
+        "duration": 1.8,
+        "description_visual": "远景俯拍镜头；河流岸边，绿化带，步道，阴天。"
+    }
+]

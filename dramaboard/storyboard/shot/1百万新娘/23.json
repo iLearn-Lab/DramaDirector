@@ -1,0 +1,941 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，卡其色裤子",
+                "position": "画面左侧",
+                "action": "站立，手持奶茶杯，身体微侧向右",
+                "expression": "眉毛微挑，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装套装",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立，双臂交叉抱胸",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室过道，白色隔断，顶部条形灯，光线明亮",
+        "description_narrative": "全景镜头，办公室过道内，白衣女子、黄衣女子和黑衣女子三人站立交谈。白衣女子手持奶茶，身体微侧，似乎正在讲述什么。黄衣女子站在中间倾听，黑衣女子抱臂站在右侧。",
+        "dialogue": "那慕星染就第一天的时候来过食堂。",
+        "speaker": "白衣女子",
+        "emotion": "八卦",
+        "duration": 2.64,
+        "description_visual": "全景平拍镜头；办公室过道，白色隔断，顶部条形灯，光线明亮；画面左侧人物，身穿白色衬衫，卡其色裤子，站立，手持奶茶杯，身体微侧向右，表情：眉毛微挑，眼睛看向右侧，嘴巴微张；画面中央人物，身穿黄色西装套装，站立，双手自然下垂，表情：眉毛平展，眼睛直视前方，嘴巴紧闭；画面右侧人物，身穿黑色西装，站立，双臂交叉抱胸，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，银色项链",
+                "position": "画面中央",
+                "action": "双手捧着奶茶杯，身体微倾",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张说话"
+            }
+        ],
+        "background": "办公室百叶窗背景，光线柔和",
+        "description_narrative": "中近景镜头，白衣女子双手捧着奶茶，神情认真地向对面的人讲述，背景是模糊的百叶窗。",
+        "dialogue": "就第一天的时候来过食堂",
+        "speaker": "白衣女子",
+        "emotion": "陈述",
+        "duration": 1.76,
+        "description_visual": "中近景平拍镜头；办公室百叶窗背景，光线柔和；画面中央人物，身穿白色衬衫，银色项链，双手捧着奶茶杯，身体微倾，表情：眉毛舒展，眼睛注视对方，嘴巴微张说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装，白色内搭",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室工位背景，模糊的绿植",
+        "description_narrative": "中近景镜头，黄衣女子站在工位旁，侧头倾听，表情略显严肃和怀疑。",
+        "dialogue": "后面都没见过她。",
+        "speaker": "白衣女子",
+        "emotion": "怀疑",
+        "duration": 4.26,
+        "description_visual": "中近景平拍镜头；办公室工位背景，模糊的绿植；画面中央人物，身穿黄色西装，白色内搭，站立，头部微侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装，眼镜",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸，头部微转",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "办公室白色墙面，光线冷调",
+        "description_narrative": "中近景镜头，黑衣女子戴着眼镜，双臂抱胸，侧头发表看法，神情带着不屑。",
+        "dialogue": "难不成是因为害怕了？不可能吧，她可不是什么善茬。",
+        "speaker": "黑衣女子",
+        "emotion": "不屑",
+        "duration": 4.28,
+        "description_visual": "中近景平拍镜头；办公室白色墙面，光线冷调；画面中央人物，身穿黑色西装，眼镜，双臂交叉抱胸，头部微转，表情：眉毛微挑，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装，眼镜",
+                "position": "画面中央",
+                "action": "双臂交叉，身体微晃",
+                "expression": "眉毛平展，眼睛看向左侧，嘴巴闭合"
+            }
+        ],
+        "background": "办公室白色墙面",
+        "description_narrative": "中近景镜头，黑衣女子继续保持着抱臂的姿势，眼神坚定，强调自己的观点。",
+        "dialogue": "她可不是什么善茬",
+        "speaker": "黑衣女子",
+        "emotion": "肯定",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；办公室白色墙面；画面中央人物，身穿黑色西装，眼镜，双臂交叉，身体微晃，表情：眉毛平展，眼睛看向左侧，嘴巴闭合。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "手持奶茶，吸管在嘴边",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室百叶窗背景",
+        "description_narrative": "中近景镜头，白衣女子手持奶茶，表情惊讶地看着对面，似乎听到了令人震惊的消息。",
+        "dialogue": "难道你们不知道吗？她的午饭都是总裁吩咐餐厅直接送到办公室的。",
+        "speaker": "黑衣女子",
+        "emotion": "惊讶",
+        "duration": 4.88,
+        "description_visual": "中近景平拍镜头；办公室百叶窗背景；画面中央人物，身穿白色衬衫，手持奶茶，吸管在嘴边，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "手持奶茶，身体前倾",
+                "expression": "眉毛上扬，眼睛直视对方，嘴巴微张提问"
+            }
+        ],
+        "background": "办公室百叶窗背景",
+        "description_narrative": "中近景镜头，白衣女子身体前倾，带着难以置信的表情向对方确认信息的真实性。",
+        "dialogue": "你说的是真的吗",
+        "speaker": "白衣女子",
+        "emotion": "质疑",
+        "duration": 1.74,
+        "description_visual": "中近景平拍镜头；办公室百叶窗背景；画面中央人物，身穿白色衬衫，手持奶茶，身体前倾，表情：眉毛上扬，眼睛直视对方，嘴巴微张提问。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装，眼镜",
+                "position": "画面中央",
+                "action": "双臂交叉，头部微点",
+                "expression": "眉毛平展，眼睛直视，嘴巴微张确认"
+            }
+        ],
+        "background": "办公室白色墙面",
+        "description_narrative": "中近景镜头，黑衣女子肯定地点头，确认刚才所说的消息属实。",
+        "dialogue": "真的",
+        "speaker": "黑衣女子",
+        "emotion": "确认",
+        "duration": 2.3,
+        "description_visual": "中近景平拍镜头；办公室白色墙面；画面中央人物，身穿黑色西装，眼镜，双臂交叉，头部微点，表情：眉毛平展，眼睛直视，嘴巴微张确认。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，卡其色裤子",
+                "position": "画面左侧",
+                "action": "站立，手持奶茶",
+                "expression": "眉毛微蹙，眼睛看向中间，嘴巴微张"
+            },
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "站立，双手下垂",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立，双臂交叉",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室过道，白色隔断",
+        "description_narrative": "全景镜头，三人继续在过道交谈，白衣女子似乎在做最后的总结，气氛显得有些微妙。",
+        "dialogue": "慕星染大学刚毕业，就能当总裁秘书，谁知道他们有什么见不得人的关系。",
+        "speaker": "白衣女子",
+        "emotion": "揣测",
+        "duration": 0.96,
+        "description_visual": "全景平拍镜头；办公室过道，白色隔断；画面左侧人物，身穿白色衬衫，卡其色裤子，站立，手持奶茶，表情：眉毛微蹙，眼睛看向中间，嘴巴微张；画面中央人物，身穿黄色西装，站立，双手下垂，表情：眉毛平展，眼睛直视，嘴巴紧闭；画面右侧人物，身穿黑色西装，站立，双臂交叉，表情：眉毛微挑，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "会议桌主位",
+                "action": "坐着，低头看文件",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            },
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装套装",
+                "position": "会议桌左侧站立",
+                "action": "站立，手持文件夹",
+                "expression": "眉毛平展，眼睛向下，嘴巴紧闭"
+            },
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "会议桌右侧",
+                "action": "坐着，记录",
+                "expression": "眉毛平展，眼睛向下，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "会议桌右侧",
+                "action": "坐着，记录",
+                "expression": "眉毛平展，眼睛向下，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，长桌，多人围坐，光线明亮",
+        "description_narrative": "全景俯拍镜头，会议室内的长桌旁坐满了人，总裁坐在主位，慕星染站在一旁，会议正在进行中。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.9,
+        "description_visual": "全景俯拍镜头；会议室，长桌，多人围坐，光线明亮；会议桌主位人物，身穿黑色西装，坐着，低头看文件，表情：眉毛微蹙，眼睛向下，嘴巴紧闭；会议桌左侧站立人物，身穿白色西装套装，站立，手持文件夹，表情：眉毛平展，眼睛向下，嘴巴紧闭；会议桌右侧人物，身穿黄色西装，坐着，记录，表情：眉毛平展，眼睛向下，嘴巴紧闭；会议桌右侧人物，身穿白色衬衫，坐着，记录，表情：眉毛平展，眼睛向下，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装，白色高领衫",
+                "position": "画面左侧站立",
+                "action": "双手递送黑色文件夹",
+                "expression": "眉毛微垂，眼睛向下，嘴巴微张"
+            },
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧坐着",
+                "action": "伸手接文件夹",
+                "expression": "眉毛平展，眼睛看向文件夹，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，深色会议桌",
+        "description_narrative": "中景镜头，慕星染站在总裁身旁，双手将黑色文件夹递给总裁，总裁伸手接过。",
+        "dialogue": "总裁",
+        "speaker": "慕星染",
+        "emotion": "恭敬",
+        "duration": 1.58,
+        "description_visual": "中景平拍镜头；会议室，深色会议桌；画面左侧站立人物，身穿白色西装，白色高领衫，双手递送黑色文件夹，表情：眉毛微垂，眼睛向下，嘴巴微张；画面右侧坐着人物，身穿黑色西装，伸手接文件夹，表情：眉毛平展，眼睛看向文件夹，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "低头看文件夹",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            },
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面左侧站立",
+                "action": "双手交叠在身前",
+                "expression": "眉毛平展，眼睛向下，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，深色会议桌",
+        "description_narrative": "中近景镜头，总裁低头查看文件夹内容，慕星染恭敬地站在一旁等待指示。",
+        "dialogue": "嗯",
+        "speaker": "总裁",
+        "emotion": "平淡",
+        "duration": 3.7,
+        "description_visual": "中近景平拍镜头；会议室，深色会议桌；画面右侧人物，身穿黑色西装，低头看文件夹，表情：眉毛微蹙，眼睛向下，嘴巴紧闭；画面左侧站立人物，身穿白色西装，双手交叠在身前，表情：眉毛平展，眼睛向下，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "手指翻动文件",
+                "expression": "眉毛微蹙，眼睛专注，嘴巴微张"
+            }
+        ],
+        "background": "会议室，文件特写",
+        "description_narrative": "特写镜头，总裁的手指翻动着文件夹内的纸张，似乎在寻找什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.26,
+        "description_visual": "特写平拍镜头；会议室，文件特写；画面中央人物，身穿黑色西装，手指翻动文件，表情：眉毛微蹙，眼睛专注，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "抬头，眼神疑惑",
+                "expression": "眉毛紧锁，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "会议室，浅色墙面",
+        "description_narrative": "特写镜头，总裁抬起头，眉头紧锁，脸上露出疑惑的神情，似乎发现了问题。",
+        "dialogue": "这项目方案怎么没有了？",
+        "speaker": "总裁",
+        "emotion": "疑惑",
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；会议室，浅色墙面；画面中央人物，身穿黑色西装，抬头，眼神疑惑，表情：眉毛紧锁，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站立，双手下垂",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，浅色墙面",
+        "description_narrative": "中近景镜头，慕星染听到总裁的质问，神情略显紧张，低头不语。",
+        "dialogue": "总裁",
+        "speaker": "黄衣女子",
+        "emotion": "紧张",
+        "duration": 2.58,
+        "description_visual": "中近景平拍镜头；会议室，浅色墙面；画面中央人物，身穿白色西装，站立，双手下垂，表情：眉毛微蹙，眼睛向下，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "坐着，手持笔",
+                "expression": "眉毛微挑，眼睛看向总裁，嘴巴微张说话"
+            }
+        ],
+        "background": "会议室，深色桌子，白色茶杯",
+        "description_narrative": "中近景镜头，黄衣女子坐在桌前，手持笔，转头看向总裁，开始解释情况。",
+        "dialogue": "上午的时候，我就把所有的文件整理好，一并交给了慕秘书。",
+        "speaker": "黄衣女子",
+        "emotion": "解释",
+        "duration": 3.28,
+        "description_visual": "中近景平拍镜头；会议室，深色桌子，白色茶杯；画面中央人物，身穿黄色西装，坐着，手持笔，表情：眉毛微挑，眼睛看向总裁，嘴巴微张说话。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站立，双手交叠",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，浅色墙面",
+        "description_narrative": "中近景镜头，慕星染面无表情地站着，听着黄衣女子的陈述，眼神平静。",
+        "dialogue": "而且我还反复地叮嘱她，让她一定要好好保管。",
+        "speaker": "黄衣女子",
+        "emotion": "严肃",
+        "duration": 4.68,
+        "description_visual": "中近景平拍镜头；会议室，浅色墙面；画面中央人物，身穿白色西装，站立，双手交叠，表情：眉毛平展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "低头看文件",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，文件特写",
+        "description_narrative": "特写镜头，总裁继续低头看着文件，似乎在思考黄衣女子的话。",
+        "dialogue": "千万不要有任何的遗漏。",
+        "speaker": "黄衣女子",
+        "emotion": "强调",
+        "duration": 2.3,
+        "description_visual": "特写平拍镜头；会议室，文件特写；画面中央人物，身穿黑色西装，低头看文件，表情：眉毛微蹙，眼睛向下，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "坐着，手持笔",
+                "expression": "眉毛微蹙，眼睛看向总裁，嘴巴微张"
+            }
+        ],
+        "background": "会议室，深色桌子",
+        "description_narrative": "中近景镜头，黄衣女子继续陈述，表情显得有些无奈和困惑。",
+        "dialogue": "我也不知道",
+        "speaker": "黄衣女子",
+        "emotion": "困惑",
+        "duration": 0.94,
+        "description_visual": "中近景平拍镜头；会议室，深色桌子；画面中央人物，身穿黄色西装，坐着，手持笔，表情：眉毛微蹙，眼睛看向总裁，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站立，双手下垂",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，浅色墙面",
+        "description_narrative": "中近景镜头，慕星染依旧站着，神情略显委屈，听着黄衣女子的推卸责任。",
+        "dialogue": "我也不知道，怎么有些文件就不见了。",
+        "speaker": "黄衣女子",
+        "emotion": "推卸",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；会议室，浅色墙面；画面中央人物，身穿白色西装，站立，双手下垂，表情：眉毛微蹙，眼睛向下，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "坐着，手持笔",
+                "expression": "眉毛微挑，眼睛看向慕星染，嘴巴微张"
+            }
+        ],
+        "background": "会议室，深色桌子",
+        "description_narrative": "中近景镜头，黄衣女子转头看向慕星染，语气中带着指责和怀疑。",
+        "dialogue": "慕秘书，会不会是你不小心给弄丢了？",
+        "speaker": "黄衣女子",
+        "emotion": "指责",
+        "duration": 3.36,
+        "description_visual": "中近景平拍镜头；会议室，深色桌子；画面中央人物，身穿黄色西装，坐着，手持笔，表情：眉毛微挑，眼睛看向慕星染，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站立，身体微前倾",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "会议室，浅色墙面",
+        "description_narrative": "中近景镜头，慕星染听到指责，立刻上前一步，神情急切地想要解释。",
+        "dialogue": "不可能，总裁，我去找找看。",
+        "speaker": "慕星染",
+        "emotion": "急切",
+        "duration": 0.34,
+        "description_visual": "中近景平拍镜头；会议室，浅色墙面；画面中央人物，身穿白色西装，站立，身体微前倾，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "会议桌主位",
+                "action": "坐着，看文件",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            },
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "转身离开",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            },
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "会议桌右侧",
+                "action": "坐着，微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "会议室，长桌，多人围坐",
+        "description_narrative": "全景镜头，慕星染转身离开会议室去寻找文件，黄衣女子坐在桌前露出一丝不易察觉的微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.22,
+        "description_visual": "全景俯拍镜头；会议室，长桌，多人围坐；会议桌主位人物，身穿黑色西装，坐着，看文件，表情：眉毛微蹙，眼睛向下，嘴巴紧闭；画面左侧人物，身穿白色西装，转身离开，表情：眉毛微蹙，眼睛向下，嘴巴紧闭；会议桌右侧人物，身穿黄色西装，坐着，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "坐着，手持笔写字",
+                "expression": "眉毛舒展，眼睛向下，嘴角微扬"
+            }
+        ],
+        "background": "会议室，深色桌子，白色茶杯",
+        "description_narrative": "中近景镜头，黄衣女子低头在纸上写字，脸上带着得意的微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 3.68,
+        "description_visual": "中近景平拍镜头；会议室，深色桌子，白色茶杯；画面中央人物，身穿黄色西装，坐着，手持笔写字，表情：眉毛舒展，眼睛向下，嘴角微扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "黄色袖子",
+                "position": "画面中央",
+                "action": "手伸进文件架拿文件",
+                "expression": null
+            }
+        ],
+        "background": "办公室文件架，蓝色文件夹",
+        "description_narrative": "特写镜头，一只穿着黄色西装袖子的手伸进文件架，似乎在翻找或拿取文件。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.66,
+        "description_visual": "特写平拍镜头；办公室文件架，蓝色文件夹；画面中央人物，身穿黄色袖子，手伸进文件架拿文件。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "坐着，整理文件",
+                "expression": "眉毛平展，眼睛向下，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室工位，模糊背景",
+        "description_narrative": "中近景镜头，黄衣女子坐在工位前整理文件，神情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.86,
+        "description_visual": "中近景平拍镜头；办公室工位，模糊背景；画面中央人物，身穿黄色西装，坐着，整理文件，表情：眉毛平展，眼睛向下，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "无",
+                "expression": null
+            }
+        ],
+        "background": "白色闪光过渡",
+        "description_narrative": "特写镜头，画面出现白色闪光过渡效果，伴随轻微的音频。",
+        "dialogue": "嗯",
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.7,
+        "description_visual": "特写平拍镜头；白色闪光过渡；画面中央人物，身穿未知，无。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "坐着，手持笔",
+                "expression": "眉毛舒展，眼睛向下，嘴角微扬"
+            }
+        ],
+        "background": "会议室，深色桌子",
+        "description_narrative": "中近景镜头，黄衣女子坐在会议桌前，脸上带着微笑，似乎在等待结果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 2.7,
+        "description_visual": "中近景平拍镜头；会议室，深色桌子；画面中央人物，身穿黄色西装，坐着，手持笔，表情：眉毛舒展，眼睛向下，嘴角微扬。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "坐着，看文件",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，深色桌子",
+        "description_narrative": "中景镜头，总裁坐在桌前继续翻阅文件，神情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.9,
+        "description_visual": "中景平拍镜头；会议室，深色桌子；画面中央人物，身穿黑色西装，坐着，看文件，表情：眉毛微蹙，眼睛向下，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "坐着，抬头说话",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "会议室，深色桌子",
+        "description_narrative": "中近景镜头，黄衣女子抬头看向总裁方向，似乎在回应什么。",
+        "dialogue": "总裁，对不起，我没找到。",
+        "speaker": "慕星染",
+        "emotion": "抱歉",
+        "duration": 3.44,
+        "description_visual": "中近景平拍镜头；会议室，深色桌子；画面中央人物，身穿黄色西装，坐着，抬头说话，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，浅色墙面",
+        "description_narrative": "中近景镜头，慕星染低着头，神情愧疚，听着黄衣女子的指责。",
+        "dialogue": "慕秘书，我把这么重要的文件交给你，",
+        "speaker": "黄衣女子",
+        "emotion": "指责",
+        "duration": 4.5,
+        "description_visual": "中近景平拍镜头；会议室，浅色墙面；画面中央人物，身穿白色西装，站立，低头，表情：眉毛微蹙，眼睛向下，嘴巴紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "坐着，手持笔",
+                "expression": "眉毛微挑，眼睛看向慕星染，嘴巴微张"
+            }
+        ],
+        "background": "会议室，深色桌子",
+        "description_narrative": "中近景镜头，黄衣女子语气严厉，继续指责慕星染的失误。",
+        "dialogue": "是让你完完整整的交给总裁，你倒好。",
+        "speaker": "黄衣女子",
+        "emotion": "愤怒",
+        "duration": 0.98,
+        "description_visual": "中近景平拍镜头；会议室，深色桌子；画面中央人物，身穿黄色西装，坐着，手持笔，表情：眉毛微挑，眼睛看向慕星染，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "坐着，抬头",
+                "expression": "眉毛紧锁，眼睛看向黄衣女子，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，浅色墙面",
+        "description_narrative": "特写镜头，总裁抬起头，目光锐利地看向黄衣女子，似乎在审视她的话。",
+        "dialogue": "这么重要的文件被你弄丢了，你知不知道？",
+        "speaker": "黄衣女子",
+        "emotion": "严厉",
+        "duration": 0.42,
+        "description_visual": "特写平拍镜头；会议室，浅色墙面；画面中央人物，身穿黑色西装，坐着，抬头，表情：眉毛紧锁，眼睛看向黄衣女子，嘴巴紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色西装",
+                "position": "画面中央",
+                "action": "坐着，手持笔",
+                "expression": "眉毛微蹙，眼睛看向总裁，嘴巴微张"
+            }
+        ],
+        "background": "会议室，深色桌子",
+        "description_narrative": "中近景镜头，黄衣女子继续强调文件的重要性，试图将责任完全推给慕星染。",
+        "dialogue": "这个文件，是我们这次项目的最新方案。",
+        "speaker": "总裁",
+        "emotion": "严肃",
+        "duration": 1.18,
+        "description_visual": "中近景平拍镜头；会议室，深色桌子；画面中央人物，身穿黄色西装，坐着，手持笔，表情：眉毛微蹙，眼睛看向总裁，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕星染",
+                "gender": "女",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，浅色墙面",
+        "description_narrative": "中近景镜头，慕星染默默承受着指责，神情委屈但坚定。",
+        "dialogue": "我们有可能一举拿下合同。",
+        "speaker": "黄衣女子",
+        "emotion": "夸张",
+        "duration": 0.64,
+        "description_visual": "中近景平拍镜头；会议室，浅色墙面；画面中央人物，身穿白色西装，站立，低头，表情：眉毛微蹙，眼睛向下，嘴巴紧闭。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "坐着，手持笔",
+                "expression": "眉毛微挑，眼睛看向慕星染，嘴巴微张"
+            }
+        ],
+        "background": "会议室，深色桌子",
+        "description_narrative": "中近景镜头，白衣女子也加入进来，在一旁附和着指责慕星染。",
+        "dialogue": "这星染呀，终究是做事不细心。",
+        "speaker": "白衣女子",
+        "emotion": "嘲讽",
+        "duration": 1.18,
+        "description_visual": "中近景平拍镜头；会议室，深色桌子；画面中央人物，身穿白色衬衫，坐着，手持笔，表情：眉毛微挑，眼睛看向慕星染，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "总裁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "坐着，侧头",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "会议室，浅色墙面",
+        "description_narrative": "特写镜头，总裁侧头听着众人的议论，眼神中闪过一丝疑虑，画面出现“未完待续”字样。",
+        "dialogue": "而且还是个刚毕业大学生，也不知道总裁，怎么把这么。",
+        "speaker": "白衣女子",
+        "emotion": "质疑",
+        "duration": 0.64,
+        "description_visual": "特写平拍镜头；会议室，浅色墙面；画面中央人物，身穿黑色西装，坐着，侧头，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    }
+]

@@ -1,0 +1,828 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面左侧",
+                "action": "背对镜头站立，双手插兜",
+                "expression": "不可见"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面右侧",
+                "action": "面对男子站立，身体微侧",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微闭"
+            }
+        ],
+        "background": "卧室衣柜前，白色推拉门，光线柔和",
+        "description_narrative": "全景镜头，西装男子背对镜头站在衣柜前，陈小姐身穿黑色睡裙面对他站立，两人距离较近，氛围暧昧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.33,
+        "description_visual": "全景平拍镜头；卧室衣柜前，白色推拉门，光线柔和；画面左侧人物，身穿米色西装三件套，背对镜头站立，双手插兜，表情：不可见；画面右侧人物，身穿黑色蕾丝吊带睡裙，面对男子站立，身体微侧，表情：眉毛舒展，眼睛注视男子，嘴巴微闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神向下",
+                "expression": "眉毛微挑，眼睛视线下移，嘴角微扬"
+            }
+        ],
+        "background": "白色墙壁背景，光线明亮",
+        "description_narrative": "特写镜头，陈小姐面带微笑，眼神略带挑逗地看向下方，询问男子气味。",
+        "dialogue": "我的内裤好闻吗",
+        "speaker": "陈小姐",
+        "emotion": "挑逗",
+        "duration": 2.57,
+        "description_visual": "特写平拍镜头；白色墙壁背景，光线明亮；画面中央人物，身穿黑色蕾丝吊带睡裙，头部微侧，眼神向下，表情：眉毛微挑，眼睛视线下移，嘴角微扬。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面中央",
+                "action": "手持红色衣物，眼神看向侧方",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "窗户背景，光线充足",
+        "description_narrative": "近景镜头，西装男子手中拿着红色衣物，面带笑意，形容气味像大海。",
+        "dialogue": "好闻有大海的味道",
+        "speaker": "西装男子",
+        "emotion": "愉悦",
+        "duration": 4.13,
+        "description_visual": "近景平拍镜头；窗户背景，光线充足；画面中央人物，身穿米色西装三件套，手持红色衣物，眼神看向侧方，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "手抚胸口，身体微倾",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "特写镜头，陈小姐手抚胸口，眼神迷离，邀请男子尝试另一个。",
+        "dialogue": "那你再试试这个",
+        "speaker": "陈小姐",
+        "emotion": "诱惑",
+        "duration": 3.3,
+        "description_visual": "特写平拍镜头；白色墙壁背景；画面中央人物，身穿黑色蕾丝吊带睡裙，手抚胸口，身体微倾，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面左侧",
+                "action": "双手拿着红色衣物凑近鼻子",
+                "expression": "眉毛舒展，眼睛注视衣物，嘴巴紧闭"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面右侧前景",
+                "action": "手臂伸出，手持衣物",
+                "expression": "不可见"
+            }
+        ],
+        "background": "窗户背景，光线明亮",
+        "description_narrative": "特写镜头，男子手持红色衣物深闻，女子手臂入画，男子形容有奶香味。",
+        "dialogue": "这个更香有奶香的味道",
+        "speaker": "西装男子",
+        "emotion": "享受",
+        "duration": 4.7,
+        "description_visual": "特写平拍镜头；窗户背景，光线明亮；画面左侧人物，身穿米色西装三件套，双手拿着红色衣物凑近鼻子，表情：眉毛舒展，眼睛注视衣物，嘴巴紧闭；画面右侧前景人物，身穿黑色蕾丝吊带睡裙，手臂伸出，手持衣物，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "手部动作，身体微动",
+                "expression": "眉毛舒展，眼睛含笑，嘴巴微张露齿"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "近景镜头，陈小姐笑着询问男子是否想尝尝大海的味道。",
+        "dialogue": "那你想尝尝大海的味道",
+        "speaker": "陈小姐",
+        "emotion": "调情",
+        "duration": 3.53,
+        "description_visual": "近景平拍镜头；白色墙壁背景；画面中央人物，身穿黑色蕾丝吊带睡裙，手部动作，身体微动，表情：眉毛舒展，眼睛含笑，嘴巴微张露齿。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面左侧",
+                "action": "抬头注视前方女子",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微闭"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面右侧前景",
+                "action": "背影，肩膀可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "窗户背景，光线明亮",
+        "description_narrative": "过肩镜头，男子抬头看着面前的女子，等待回应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.03,
+        "description_visual": "近景过肩镜头；窗户背景，光线明亮；画面左侧人物，身穿米色西装三件套，抬头注视前方女子，表情：眉毛微挑，眼睛直视，嘴巴微闭；画面右侧前景人物，身穿黑色蕾丝吊带睡裙，背影，肩膀可见，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面右侧",
+                "action": "手指轻触男子下巴",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面左侧",
+                "action": "头部微侧",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "近景镜头，陈小姐手指轻触男子下巴，继续调情询问是否想尝牛奶味。",
+        "dialogue": "还是想尝尝牛奶的味道呢",
+        "speaker": "陈小姐",
+        "emotion": "诱惑",
+        "duration": 3.23,
+        "description_visual": "近景平拍镜头；白色墙壁背景；画面右侧人物，身穿黑色蕾丝吊带睡裙，手指轻触男子下巴，表情：眉毛微蹙，眼睛注视男子，嘴巴微张；画面左侧人物，身穿米色西装三件套，头部微侧，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面中央",
+                "action": "头部微仰，眼神向上",
+                "expression": "眉毛舒展，眼睛上视，嘴巴微张"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面右侧前景",
+                "action": "手臂入画",
+                "expression": "不可见"
+            }
+        ],
+        "background": "窗户背景，光线明亮",
+        "description_narrative": "近景镜头，男子假装正经，提及自己是来做按摩的。",
+        "dialogue": "陈小姐我以为今天来是来给你做按摩的",
+        "speaker": "西装男子",
+        "emotion": "假装正经",
+        "duration": 5.6,
+        "description_visual": "近景平拍镜头；窗户背景，光线明亮；画面中央人物，身穿米色西装三件套，头部微仰，眼神向上，表情：眉毛舒展，眼睛上视，嘴巴微张；画面右侧前景人物，身穿黑色蕾丝吊带睡裙，手臂入画，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神向下",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "近景镜头，陈小姐表示按摩不着急。",
+        "dialogue": "按摩的事情呀不着急",
+        "speaker": "陈小姐",
+        "emotion": "随意",
+        "duration": 2.23,
+        "description_visual": "近景平拍镜头；白色墙壁背景；画面中央人物，身穿黑色蕾丝吊带睡裙，头部微侧，眼神向下，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面左侧",
+                "action": "抬头注视",
+                "expression": "眉毛舒展，眼睛上视，嘴巴微张"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面右侧前景",
+                "action": "手臂入画",
+                "expression": "不可见"
+            }
+        ],
+        "background": "窗户背景，光线明亮",
+        "description_narrative": "近景镜头，男子看着女子，字幕显示“不着急”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.77,
+        "description_visual": "近景平拍镜头；窗户背景，光线明亮；画面左侧人物，身穿米色西装三件套，抬头注视，表情：眉毛舒展，眼睛上视，嘴巴微张；画面右侧前景人物，身穿黑色蕾丝吊带睡裙，手臂入画，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "双手伸出，身体前倾",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "近景镜头，陈小姐表示今天有的是时间。",
+        "dialogue": "反正今天有的是时间",
+        "speaker": "陈小姐",
+        "emotion": "从容",
+        "duration": 2.93,
+        "description_visual": "近景平拍镜头；白色墙壁背景；画面中央人物，身穿黑色蕾丝吊带睡裙，双手伸出，身体前倾，表情：眉毛舒展，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面中央",
+                "action": "双手被女子握住放在肩上",
+                "expression": "眉毛舒展，眼睛微闭，嘴角上扬"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面前景",
+                "action": "双手搭在男子肩上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "窗户背景，光线明亮",
+        "description_narrative": "近景镜头，女子双手搭在男子肩上，男子闭眼微笑答应。",
+        "dialogue": "那好吧",
+        "speaker": "西装男子",
+        "emotion": "顺从",
+        "duration": 2.37,
+        "description_visual": "近景平拍镜头；窗户背景，光线明亮；画面中央人物，身穿米色西装三件套，双手被女子握住放在肩上，表情：眉毛舒展，眼睛微闭，嘴角上扬；画面前景人物，身穿黑色蕾丝吊带睡裙，双手搭在男子肩上，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "身体微侧，手臂伸出",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面前景",
+                "action": "手扶女子手臂",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "近景镜头，陈小姐说着“那就让我”，准备行动。",
+        "dialogue": "那就让我",
+        "speaker": "陈小姐",
+        "emotion": "主动",
+        "duration": 2.33,
+        "description_visual": "近景平拍镜头；白色墙壁背景；画面中央人物，身穿黑色蕾丝吊带睡裙，身体微侧，手臂伸出，表情：眉毛微蹙，眼睛视线下移，嘴巴微张；画面前景人物，身穿米色西装三件套，手扶女子手臂，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面中央",
+                "action": "头部后仰，闭眼微笑",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴微张露齿"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面前景",
+                "action": "手臂环绕",
+                "expression": "不可见"
+            }
+        ],
+        "background": "窗帘背景，光线柔和",
+        "description_narrative": "特写镜头，男子仰头享受，说着要闻奶香的味道。",
+        "dialogue": "闻闻奶香的味道",
+        "speaker": "西装男子",
+        "emotion": "陶醉",
+        "duration": 3.03,
+        "description_visual": "特写仰拍镜头；窗帘背景，光线柔和；画面中央人物，身穿米色西装三件套，头部后仰，闭眼微笑，表情：眉毛舒展，眼睛紧闭，嘴巴微张露齿；画面前景人物，身穿黑色蕾丝吊带睡裙，手臂环绕，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面右侧",
+                "action": "低头看男子，双手搭肩",
+                "expression": "眉毛舒展，眼睛下视，嘴巴大笑"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面左侧",
+                "action": "抬头看女子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "近景镜头，陈小姐笑着说出露骨的话语，让兄弟在大海畅游。",
+        "dialogue": "让我的兄弟在大海里畅游",
+        "speaker": "陈小姐",
+        "emotion": "放荡",
+        "duration": 0.63,
+        "description_visual": "近景平拍镜头；白色墙壁背景；画面右侧人物，身穿黑色蕾丝吊带睡裙，低头看男子，双手搭肩，表情：眉毛舒展，眼睛下视，嘴巴大笑；画面左侧人物，身穿米色西装三件套，抬头看女子，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面中央",
+                "action": "抬手遮住眼睛",
+                "expression": "眉毛微蹙，眼睛被遮挡，嘴巴紧闭"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面前景",
+                "action": "手臂入画",
+                "expression": "不可见"
+            }
+        ],
+        "background": "窗帘背景，光线柔和",
+        "description_narrative": "特写镜头，男子害羞或享受地抬手遮眼。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；窗帘背景，光线柔和；画面中央人物，身穿米色西装三件套，抬手遮住眼睛，表情：眉毛微蹙，眼睛被遮挡，嘴巴紧闭；画面前景人物，身穿黑色蕾丝吊带睡裙，手臂入画，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "低头看男子，手扶男子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面左侧",
+                "action": "被女子扶着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "近景镜头，陈小姐嗔怪男子是小坏蛋。",
+        "dialogue": "小坏蛋",
+        "speaker": "陈小姐",
+        "emotion": "嗔怪",
+        "duration": 5.77,
+        "description_visual": "近景平拍镜头；白色墙壁背景；画面中央人物，身穿黑色蕾丝吊带睡裙，低头看男子，手扶男子，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面左侧人物，身穿米色西装三件套，被女子扶着，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面中央",
+                "action": "头部微侧，眼神向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面前景",
+                "action": "手搭男子肩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "窗帘背景，光线柔和",
+        "description_narrative": "近景镜头，男子回应说自己平时老实但一肚子坏水。",
+        "dialogue": "没想到你平时看着老实却一肚子坏水",
+        "speaker": "西装男子",
+        "emotion": "自嘲",
+        "duration": 3.07,
+        "description_visual": "近景平拍镜头；窗帘背景，光线柔和；画面中央人物，身穿米色西装三件套，头部微侧，眼神向下，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面前景人物，身穿黑色蕾丝吊带睡裙，手搭男子肩，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "低头看男子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微嘟"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面左侧",
+                "action": "侧脸",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "近景镜头，陈小姐说怕姐姐等得着急。",
+        "dialogue": "我这不是怕姐姐等的着急吗",
+        "speaker": "陈小姐",
+        "emotion": "解释",
+        "duration": 6.47,
+        "description_visual": "近景平拍镜头；白色墙壁背景；画面中央人物，身穿黑色蕾丝吊带睡裙，低头看男子，表情：眉毛微蹙，眼睛下视，嘴巴微嘟；画面左侧人物，身穿米色西装三件套，侧脸，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面左侧",
+                "action": "亲吻女子颈部",
+                "expression": "眼睛紧闭，嘴巴贴合颈部"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面右侧",
+                "action": "头部后仰，手扶男子头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头，男子亲吻女子颈部，女子说既然体谅就不客气了。",
+        "dialogue": "既然你这么体谅姐姐了那姐姐可就不客气了哟",
+        "speaker": "陈小姐",
+        "emotion": "放纵",
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；模糊背景；画面左侧人物，身穿米色西装三件套，亲吻女子颈部，表情：眼睛紧闭，嘴巴贴合颈部；画面右侧人物，身穿黑色蕾丝吊带睡裙，头部后仰，手扶男子头，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "头部后仰，闭眼",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面前景",
+                "action": "头部入画",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁背景",
+        "description_narrative": "特写镜头，女子仰头享受，称呼男子为坏弟弟。",
+        "dialogue": "坏弟弟",
+        "speaker": "陈小姐",
+        "emotion": "享受",
+        "duration": 8.6,
+        "description_visual": "特写仰拍镜头；白色墙壁背景；画面中央人物，身穿黑色蕾丝吊带睡裙，头部后仰，闭眼，表情：眉毛舒展，眼睛紧闭，嘴巴微张；画面前景人物，身穿米色西装三件套，头部入画，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面中央",
+                "action": "跪在床上，背对镜头，抱住女子",
+                "expression": "不可见"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "被男子抱住，头部后仰",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "卧室床铺，白色床单，红色衣物在旁",
+        "description_narrative": "全景镜头，两人在床上亲热，女子感叹好久没这么舒服。",
+        "dialogue": "姐姐姐姐好久没有这么舒服过了",
+        "speaker": "陈小姐",
+        "emotion": "满足",
+        "duration": 3.27,
+        "description_visual": "全景平拍镜头；卧室床铺，白色床单，红色衣物在旁；画面中央人物，身穿米色西装三件套，跪在床上，背对镜头，抱住女子，表情：不可见；画面中央人物，身穿黑色蕾丝吊带睡裙，被男子抱住，头部后仰，表情：眉毛舒展，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面上方",
+                "action": "俯身看女子",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面下方",
+                "action": "仰卧",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "近景镜头，男子俯身看着女子，女子说爱死他了。",
+        "dialogue": "姐姐爱死你了",
+        "speaker": "陈小姐",
+        "emotion": "激情",
+        "duration": 4.33,
+        "description_visual": "近景俯拍镜头；卧室背景；画面上方人物，身穿米色西装三件套，俯身看女子，表情：眉毛舒展，眼睛下视，嘴巴微张；画面下方人物，身穿黑色蕾丝吊带睡裙，仰卧，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "仰卧，抬头看男子",
+                "expression": "眉毛舒展，眼睛上视，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面右侧",
+                "action": "侧脸",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "特写镜头，女子仰卧，男子说愿意每天来服务。",
+        "dialogue": "只要姐姐愿意我每天都能来服务姐姐",
+        "speaker": "西装男子",
+        "emotion": "承诺",
+        "duration": 5.63,
+        "description_visual": "特写仰拍镜头；卧室背景；画面中央人物，身穿黑色蕾丝吊带睡裙，仰卧，抬头看男子，表情：眉毛舒展，眼睛上视，嘴巴微张；画面右侧人物，身穿米色西装三件套，侧脸，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面上方",
+                "action": "俯身看女子",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面下方",
+                "action": "仰卧",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "近景镜头，男子俯身，女子说不求天长地久只求今天快乐。",
+        "dialogue": "姐姐不求天长地久姐姐只求今天快乐到死",
+        "speaker": "陈小姐",
+        "emotion": "决绝",
+        "duration": 3.17,
+        "description_visual": "近景俯拍镜头；卧室背景；画面上方人物，身穿米色西装三件套，俯身看女子，表情：眉毛舒展，眼睛下视，嘴巴微张；画面下方人物，身穿黑色蕾丝吊带睡裙，仰卧，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色蕾丝吊带睡裙",
+                "position": "画面中央",
+                "action": "头部后仰，闭眼",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴微张露齿"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "米色西装三件套",
+                "position": "画面右侧",
+                "action": "头部入画",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "特写镜头，女子仰头享受，男子说让姐姐爽到起飞。",
+        "dialogue": "那我就让姐姐爽到起飞",
+        "speaker": "西装男子",
+        "emotion": "自信",
+        "duration": 2.93,
+        "description_visual": "特写仰拍镜头；卧室背景；画面中央人物，身穿黑色蕾丝吊带睡裙，头部后仰，闭眼，表情：眉毛舒展，眼睛紧闭，嘴巴微张露齿；画面右侧人物，身穿米色西装三件套，头部入画，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "玄关，棕色木门，白色鞋柜，光线较暗",
+        "description_narrative": "全景镜头，画面切换到玄关，棕色木门紧闭。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.6,
+        "description_visual": "全景平拍镜头；玄关，棕色木门，白色鞋柜，光线较暗。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "进门女子",
+                "gender": "女",
+                "clothing": "黑色单肩开叉连衣裙",
+                "position": "画面中央",
+                "action": "推门进入，手持手机",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "玄关，光线昏暗",
+        "description_narrative": "全景镜头，另一名女子推门进入，询问亲爱的在家吗。",
+        "dialogue": "亲爱的你在家吗",
+        "speaker": "进门女子",
+        "emotion": "询问",
+        "duration": 3.1,
+        "description_visual": "全景平拍镜头；玄关，光线昏暗；画面中央人物，身穿黑色单肩开叉连衣裙，推门进入，手持手机，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    }
+]

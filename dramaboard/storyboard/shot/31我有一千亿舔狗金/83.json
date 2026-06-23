@@ -1,0 +1,601 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方太太",
+                "gender": "女",
+                "clothing": "黄色针织开衫",
+                "position": "前景",
+                "action": "手掌用力拍打木质桌面",
+                "expression": "眉毛未可见，眼睛未可见，嘴巴未可见"
+            }
+        ],
+        "background": "木质餐桌表面，有金属钉帽和木纹，暖色调光线",
+        "description_narrative": "特写镜头俯拍木质餐桌，方太太的手掌用力拍在桌面上，发出声响，展示冲突的开始。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "特写俯拍镜头；木质餐桌表面，有金属钉帽和木纹，暖色调光线；前景人物，身穿黄色针织开衫，手掌用力拍打木质桌面，表情：眉毛未可见，眼睛未可见，嘴巴未可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "方太太",
+                "gender": "女",
+                "clothing": "黄色针织开衫，灰色内搭",
+                "position": "画面右侧",
+                "action": "身体前倾，手指指向画面外",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴微张说话"
+            }
+        ],
+        "background": "室内背景模糊，白色门框，暖光",
+        "description_narrative": "镜头快速摇向方太太，她身穿黄色开衫，表情愤怒地指着对面，口中喊出名字。",
+        "dialogue": "张东",
+        "speaker": "方太太",
+        "emotion": "愤怒",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头（摇镜）；室内背景模糊，白色门框，暖光；画面右侧人物，身穿黄色针织开衫，灰色内搭，身体前倾，手指指向画面外，表情：眉毛紧锁，眼睛瞪视，嘴巴微张说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面左侧",
+                "action": "手持叉子，端坐",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "柳家小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣旗袍式上衣",
+                "position": "画面右侧",
+                "action": "双手交握放在桌上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "米色窗帘背景，餐桌前景有绿植装饰",
+        "description_narrative": "中景镜头展示张东和柳家小姐并排坐在桌前，张东手持叉子，两人神情严肃地听着对面的指责。",
+        "dialogue": "我今天就告诉你了",
+        "speaker": "方太太",
+        "emotion": "严肃",
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；米色窗帘背景，餐桌前景有绿植装饰；画面左侧人物，身穿灰色西装，花纹领带，手持叉子，端坐，表情：眉毛舒展，眼睛直视前方，嘴巴紧闭；画面右侧人物，身穿黑色刺绣旗袍式上衣，双手交握放在桌上，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方太太",
+                "gender": "女",
+                "clothing": "黄色针织开衫，木质珠串项链",
+                "position": "画面中央",
+                "action": "伸出食指用力指点，表情狰狞",
+                "expression": "眉毛高挑，眼睛眯起，嘴巴张大露齿"
+            }
+        ],
+        "background": "白色门框背景，室内暖光",
+        "description_narrative": "近景镜头聚焦方太太，她情绪激动，伸出手指着对方，面部表情因愤怒而扭曲。",
+        "dialogue": "就凭你这只小小的蝼蚁",
+        "speaker": "方太太",
+        "emotion": "轻蔑",
+        "duration": 2.52,
+        "description_visual": "近景平拍镜头；白色门框背景，室内暖光；画面中央人物，身穿黄色针织开衫，木质珠串项链，伸出食指用力指点，表情狰狞，表情：眉毛高挑，眼睛眯起，嘴巴张大露齿。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面中央",
+                "action": "微微侧头，眼神轻蔑",
+                "expression": "眉毛微挑，眼睛半眯，嘴角微扬"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "镜头切回张东，他面对侮辱毫不在意，反而露出一丝轻蔑的微笑，听着对方的狂言。",
+        "dialogue": "还想扳倒我们方家",
+        "speaker": "方太太",
+        "emotion": "轻蔑",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；米色窗帘背景；画面中央人物，身穿灰色西装，花纹领带，微微侧头，眼神轻蔑，表情：眉毛微挑，眼睛半眯，嘴角微扬。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方太太",
+                "gender": "女",
+                "clothing": "黄色针织开衫，灰色内搭",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，下巴抬起",
+                "expression": "眉毛舒展，眼睛斜视，嘴巴咧开笑"
+            }
+        ],
+        "background": "白色门框背景",
+        "description_narrative": "方太太双臂抱胸，身体后仰，脸上挂着傲慢嘲讽的笑容，认为对方在做白日梦。",
+        "dialogue": "简直就是白日做梦，不信",
+        "speaker": "方太太",
+        "emotion": "傲慢",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；白色门框背景；画面中央人物，身穿黄色针织开衫，灰色内搭，双臂交叉抱在胸前，下巴抬起，表情：眉毛舒展，眼睛斜视，嘴巴咧开笑。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面左侧",
+                "action": "身体微侧，眼神坚定",
+                "expression": "眉毛平直，眼睛直视，嘴巴微张说话"
+            },
+            {
+                "name": "柳家小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣旗袍式上衣",
+                "position": "画面右侧",
+                "action": "双手交握，安静端坐",
+                "expression": "眉毛微蹙，眼睛低垂，嘴巴紧闭"
+            }
+        ],
+        "background": "米色窗帘背景，餐桌前景有绿植",
+        "description_narrative": "张东冷静地回应，眼神中透着自信，身旁的柳家小姐安静陪伴，桌上绿植清晰可见。",
+        "dialogue": "我们走着瞧",
+        "speaker": "张东",
+        "emotion": "自信",
+        "duration": 2.76,
+        "description_visual": "中景平拍镜头；米色窗帘背景，餐桌前景有绿植；画面左侧人物，身穿灰色西装，花纹领带，身体微侧，眼神坚定，表情：眉毛平直，眼睛直视，嘴巴微张说话；画面右侧人物，身穿黑色刺绣旗袍式上衣，双手交握，安静端坐，表情：眉毛微蹙，眼睛低垂，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面中央",
+                "action": "头部微转，语气平静",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴开合"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "张东近景，他语气平静但有力，直指方太太儿子的恶行，表情严肃认真。",
+        "dialogue": "方太太，要怪就怪你自己的儿子，作恶多端",
+        "speaker": "张东",
+        "emotion": "严肃",
+        "duration": 5.6,
+        "description_visual": "近景平拍镜头；米色窗帘背景；画面中央人物，身穿灰色西装，花纹领带，头部微转，语气平静，表情：眉毛微蹙，眼睛注视对方，嘴巴开合。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面左侧",
+                "action": "身体前倾，眼神犀利",
+                "expression": "眉毛上扬，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "柳家小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣旗袍式上衣",
+                "position": "画面右侧",
+                "action": "双手交握，神情关注",
+                "expression": "眉毛平直，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "米色窗帘背景，餐桌前景",
+        "description_narrative": "张东继续质问，身体微微前倾增加压迫感，柳家小姐在一旁静静观察局势。",
+        "dialogue": "你以为你方家有多大的实力啊，嗯",
+        "speaker": "张东",
+        "emotion": "质问",
+        "duration": 4.44,
+        "description_visual": "中景平拍镜头；米色窗帘背景，餐桌前景；画面左侧人物，身穿灰色西装，花纹领带，身体前倾，眼神犀利，表情：眉毛上扬，眼睛直视，嘴巴微张；画面右侧人物，身穿黑色刺绣旗袍式上衣，双手交握，神情关注，表情：眉毛平直，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方太太",
+                "gender": "女",
+                "clothing": "黄色针织开衫，木质珠串项链",
+                "position": "画面右侧",
+                "action": "侧身站立，双臂抱胸",
+                "expression": "眉毛微挑，眼睛看向侧上方，嘴巴微张"
+            }
+        ],
+        "background": "白色墙面背景",
+        "description_narrative": "镜头给到方太太侧脸，她双臂抱胸，听到“铁证”二字时眼神略显闪躲，但仍强作镇定。",
+        "dialogue": "在铁的证据面前",
+        "speaker": "张东",
+        "emotion": "坚定",
+        "duration": 2.12,
+        "description_visual": "近景侧拍镜头；白色墙面背景；画面右侧人物，身穿黄色针织开衫，木质珠串项链，侧身站立，双臂抱胸，表情：眉毛微挑，眼睛看向侧上方，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面中央",
+                "action": "眉头紧锁，语气加重",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴巴用力开合"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "张东表情严肃，强调法律制裁的不可避免性，眼神中透着不容置疑的坚定。",
+        "dialogue": "谁也不能逃过法律的制裁",
+        "speaker": "张东",
+        "emotion": "严肃",
+        "duration": 3.16,
+        "description_visual": "近景平拍镜头；米色窗帘背景；画面中央人物，身穿灰色西装，花纹领带，眉头紧锁，语气加重，表情：眉毛紧蹙，眼睛眯起，嘴巴用力开合。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面左侧",
+                "action": "手持叉子指向前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "柳家小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣旗袍式上衣",
+                "position": "画面右侧",
+                "action": "双手交握，准备发言",
+                "expression": "眉毛平直，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "米色窗帘背景，餐桌前景",
+        "description_narrative": "张东用手中的叉子指了指前方，示意接下来由柳家小姐表态，柳家小姐随即准备开口。",
+        "dialogue": "下面我来表达一下",
+        "speaker": "张东",
+        "emotion": "平静",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；米色窗帘背景，餐桌前景；画面左侧人物，身穿灰色西装，花纹领带，手持叉子指向前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张；画面右侧人物，身穿黑色刺绣旗袍式上衣，双手交握，准备发言，表情：眉毛平直，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方太太",
+                "gender": "女",
+                "clothing": "黄色针织开衫，木质珠串项链",
+                "position": "画面右侧",
+                "action": "双臂抱胸，侧耳倾听",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙面背景",
+        "description_narrative": "镜头切回方太太，她双臂抱胸，表情略显紧张地听着柳家小姐即将发表的声明。",
+        "dialogue": "我们柳家的态度，一向嫉恶如仇",
+        "speaker": "柳家小姐",
+        "emotion": "紧张",
+        "duration": 3.28,
+        "description_visual": "近景侧拍镜头；白色墙面背景；画面右侧人物，身穿黄色针织开衫，木质珠串项链，双臂抱胸，侧耳倾听，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面左侧",
+                "action": "低头看桌面",
+                "expression": "眉毛平直，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "柳家小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣旗袍式上衣",
+                "position": "画面右侧",
+                "action": "身体微前倾，开始说话",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴开合"
+            }
+        ],
+        "background": "米色窗帘背景，餐桌前景",
+        "description_narrative": "柳家小姐身体微微前倾，语气坚定地假设方龙犯罪的情况，张东在一旁低头倾听。",
+        "dialogue": "如果方龙真的做了那些事情",
+        "speaker": "柳家小姐",
+        "emotion": "坚定",
+        "duration": 2.48,
+        "description_visual": "中景平拍镜头；米色窗帘背景，餐桌前景；画面左侧人物，身穿灰色西装，花纹领带，低头看桌面，表情：眉毛平直，眼睛下视，嘴巴紧闭；画面右侧人物，身穿黑色刺绣旗袍式上衣，身体微前倾，开始说话，表情：眉毛微蹙，眼睛注视前方，嘴巴开合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳家小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣旗袍式上衣",
+                "position": "画面中央",
+                "action": "双手交握，眼神坚定",
+                "expression": "眉毛平直，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "柳家小姐近景，她目光清澈坚定，继续阐述柳家的立场，双手紧紧交握在桌上。",
+        "dialogue": "那我们柳家",
+        "speaker": "柳家小姐",
+        "emotion": "坚定",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；米色窗帘背景；画面中央人物，身穿黑色刺绣旗袍式上衣，双手交握，眼神坚定，表情：眉毛平直，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，白色字幕",
+        "description_narrative": "黑屏画面，显示白色字幕，强调柳家的支持态度，声音继续。",
+        "dialogue": "一定支持",
+        "speaker": "柳家小姐",
+        "emotion": "坚定",
+        "duration": 0.76,
+        "description_visual": "特写平拍镜头；纯黑背景，白色字幕。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳家小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣旗袍式上衣",
+                "position": "画面中央",
+                "action": "说完话后看向一侧",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "米色窗帘背景",
+        "description_narrative": "柳家小姐说完支持张东后，眼神转向张东方向，表情坦然。",
+        "dialogue": "张东",
+        "speaker": "柳家小姐",
+        "emotion": "坦然",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；米色窗帘背景；画面中央人物，身穿黑色刺绣旗袍式上衣，说完话后看向一侧，表情：眉毛舒展，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方太太",
+                "gender": "女",
+                "clothing": "黄色针织开衫，木质珠串项链",
+                "position": "画面中央",
+                "action": "身体前倾，表情震惊",
+                "expression": "眉毛高挑，眼睛瞪大，嘴巴张大"
+            }
+        ],
+        "background": "白色门框背景",
+        "description_narrative": "方太太听到柳家支持张东，震惊得身体前倾，眼睛瞪大，嘴巴微张，完全不敢相信。",
+        "dialogue": "什么，你们柳家竟然支持张东",
+        "speaker": "方太太",
+        "emotion": "震惊",
+        "duration": 4.2,
+        "description_visual": "近景平拍镜头；白色门框背景；画面中央人物，身穿黄色针织开衫，木质珠串项链，身体前倾，表情震惊，表情：眉毛高挑，眼睛瞪大，嘴巴张大。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面左侧",
+                "action": "手指轻轻敲击桌面",
+                "expression": "眉毛平直，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "柳家小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣旗袍式上衣",
+                "position": "画面右侧",
+                "action": "双手交握，神情平静",
+                "expression": "眉毛平直，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "米色窗帘背景，餐桌前景",
+        "description_narrative": "面对方太太的震惊，张东和柳家小姐保持平静，张东手指轻敲桌面，显得胸有成竹。",
+        "dialogue": "你们",
+        "speaker": "方太太",
+        "emotion": "震惊",
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头；米色窗帘背景，餐桌前景；画面左侧人物，身穿灰色西装，花纹领带，手指轻轻敲击桌面，表情：眉毛平直，眼睛下视，嘴巴紧闭；画面右侧人物，身穿黑色刺绣旗袍式上衣，双手交握，神情平静，表情：眉毛平直，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方太太",
+                "gender": "女",
+                "clothing": "黄色针织开衫，木质珠串项链",
+                "position": "画面中央",
+                "action": "咬牙切齿，表情愤怒",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴咧开露齿"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "方太太气急败坏，咬牙切齿地放狠话，表情因愤怒而显得有些扭曲。",
+        "dialogue": "咱们走着瞧",
+        "speaker": "方太太",
+        "emotion": "愤怒",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；室内背景模糊；画面中央人物，身穿黄色针织开衫，木质珠串项链，咬牙切齿，表情愤怒，表情：眉毛紧锁，眼睛瞪视，嘴巴咧开露齿。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面左侧",
+                "action": "手托下巴，若有所思",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            },
+            {
+                "name": "柳家小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣旗袍式上衣",
+                "position": "画面右侧",
+                "action": "双手交握，安静端坐",
+                "expression": "眉毛平直，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "米色窗帘背景，餐桌前景",
+        "description_narrative": "方太太离开后，张东手托下巴若有所思，柳家小姐安静地坐在一旁，气氛暂时平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头；米色窗帘背景，餐桌前景；画面左侧人物，身穿灰色西装，花纹领带，手托下巴，若有所思，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭；画面右侧人物，身穿黑色刺绣旗袍式上衣，双手交握，安静端坐，表情：眉毛平直，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "灰色西装，花纹领带",
+                "position": "画面左侧",
+                "action": "手托下巴，被前景遮挡",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "米色窗帘背景，前景有模糊遮挡物",
+        "description_narrative": "镜头透过前景模糊物体拍摄张东，他保持思考的姿势，画面转场过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 3.72,
+        "description_visual": "中景平拍镜头；米色窗帘背景，前景有模糊遮挡物；画面左侧人物，身穿灰色西装，花纹领带，手托下巴，被前景遮挡，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "浅粉色吊带上衣",
+                "position": "画面中央",
+                "action": "面对镜头陈述",
+                "expression": "眉毛微蹙，眼睛直视镜头，嘴巴开合"
+            }
+        ],
+        "background": "模糊背景，暖色调",
+        "description_narrative": "画面切换至一名白衣女子，她面对镜头控诉方龙的陷害行为，表情严肃恳切。",
+        "dialogue": "当初千方百计想要陷害我的人，就是方龙，而他背后少不了方家的支持。我希望法律能够还我一个公平公正，也希望所有凶手都能得到惩罚",
+        "speaker": "白衣女子",
+        "emotion": "恳切",
+        "duration": 13.44,
+        "description_visual": "近景平拍镜头；模糊背景，暖色调；画面中央人物，身穿浅粉色吊带上衣，面对镜头陈述，表情：眉毛微蹙，眼睛直视镜头，嘴巴开合。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方太太",
+                "gender": "女",
+                "clothing": "黄色针织开衫，灰色内搭",
+                "position": "画面中央",
+                "action": "手持手机通话，表情惊慌",
+                "expression": "眉毛紧锁，眼睛焦急，嘴巴微张求助"
+            }
+        ],
+        "background": "室内环境，有装饰画，暖光",
+        "description_narrative": "场景回到方太太，她惊慌地拿着手机打电话求助，表情焦急，显示出外强中干的本质。",
+        "dialogue": "哎，赵局长，你一定要帮帮我们呐",
+        "speaker": "方太太",
+        "emotion": "惊慌",
+        "duration": 7.6,
+        "description_visual": "中近景平拍镜头；室内环境，有装饰画，暖光；画面中央人物，身穿黄色针织开衫，灰色内搭，手持手机通话，表情惊慌，表情：眉毛紧锁，眼睛焦急，嘴巴微张求助。"
+    }
+]

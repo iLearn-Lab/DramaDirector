@@ -1,0 +1,870 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米白色古装",
+                "position": "画面左侧",
+                "action": "从背后环抱住明王妃",
+                "expression": "眉毛舒展，眼睛微闭，嘴角紧闭"
+            },
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面右侧",
+                "action": "被明王环抱，身体微微前倾",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇微张"
+            }
+        ],
+        "background": "深色雕花屏风背景，光线柔和，色调偏暖",
+        "description_narrative": "全景固定镜头，画面中央显示剧名“替嫁娇妻”及集数。明王身穿米白色古装从背后环抱住身穿白色刺绣古装的明王妃，明王妃神情略显低落，背景为深色雕花屏风。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；深色雕花屏风背景，光线柔和，色调偏暖；画面左侧人物，身穿米白色古装，从背后环抱住明王妃，表情：眉毛舒展，眼睛微闭，嘴角紧闭；画面右侧人物，身穿白色刺绣古装，被明王环抱，身体微微前倾，表情：眉毛微蹙，眼睛下视，嘴唇微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神向左看",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "红墙绿瓦背景，光线明亮",
+        "description_narrative": "特写固定镜头，粉衣女子身穿粉色古装，头戴金色花饰，头部微侧看向左侧，神情略显惊讶，背景为红墙。",
+        "dialogue": "是谁质疑哀家的",
+        "speaker": "太后 (画外音)",
+        "emotion": "惊讶",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景，光线明亮；画面中央人物，身穿粉色古装，头部微侧，眼神向左看，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛平展，眼睛直视，嘴角微抿"
+            }
+        ],
+        "background": "红墙背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃身穿白色刺绣古装，佩戴蓝色耳坠，直视前方，神情平静中带着一丝严肃，背景为虚化的红墙。",
+        "dialogue": "是谁质疑哀家的决定",
+        "speaker": "太后 (画外音)",
+        "emotion": "严肃",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；红墙背景，虚化；画面中央人物，身穿白色刺绣古装，直视前方，表情：眉毛平展，眼睛直视，嘴角微抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛微蹙，眼睛瞪大，嘴唇紧闭"
+            }
+        ],
+        "background": "金色头饰细节可见，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，头戴繁复金色头饰，面容威严，直视前方，神情不悦，背景虚化。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "不悦",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；金色头饰细节可见，背景虚化；画面中央人物，身穿绿色华服，直视前方，表情：眉毛微蹙，眼睛瞪大，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米白色古装",
+                "position": "画面中央",
+                "action": "头部微转，眼神看向前方",
+                "expression": "眉毛微蹙，眼睛平视，嘴唇紧闭"
+            }
+        ],
+        "background": "红墙绿瓦背景，光线自然",
+        "description_narrative": "特写固定镜头，明王身穿米白色古装，头戴银色发冠，头部微转看向前方，神情隐忍，背景为红墙绿瓦。",
+        "dialogue": "太后",
+        "speaker": "明王",
+        "emotion": "隐忍",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景，光线自然；画面中央人物，身穿米白色古装，头部微转，眼神看向前方，表情：眉毛微蹙，眼睛平视，嘴唇紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米白色古装",
+                "position": "画面左侧",
+                "action": "侧身站立",
+                "expression": "侧脸，表情看不清"
+            },
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面右侧",
+                "action": "侧身站立，长发垂背",
+                "expression": "侧脸，表情平静"
+            }
+        ],
+        "background": "红墙绿瓦，地面石板",
+        "description_narrative": "中景固定镜头，从背后拍摄明王和明王妃并排站立，明王在左，明王妃在右，两人均侧身，背景为红墙绿瓦和石板地面。",
+        "dialogue": "我刚才只是和明王",
+        "speaker": "粉衣女子 (画外音)",
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；红墙绿瓦，地面石板；画面左侧人物，身穿米白色古装，侧身站立，表情：侧脸，表情看不清；画面右侧人物，身穿白色古装，侧身站立，长发垂背，表情：侧脸，表情平静。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面左侧",
+                "action": "手扶太后手臂",
+                "expression": "嘴巴微张，正在说话"
+            },
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "站立，被粉衣女子扶着",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "青色古装",
+                "position": "画面右侧",
+                "action": "站立侍奉",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "宫殿门口，红墙金饰",
+        "description_narrative": "全景固定镜头，粉衣女子身穿粉色古装站在左侧，手扶身穿绿色华服的太后手臂，正在说话，太后站在中央神情严肃，右侧有侍女站立，背景为宫殿门口。",
+        "dialogue": "我刚才只是和明王",
+        "speaker": "粉衣女子",
+        "emotion": "谄媚",
+        "duration": 1.16,
+        "description_visual": "全景平拍镜头；宫殿门口，红墙金饰；画面左侧人物，身穿粉色古装，手扶太后手臂，表情：嘴巴微张，正在说话；画面中央人物，身穿绿色华服，站立，被粉衣女子扶着，表情：表情严肃；画面右侧人物，身穿青色古装，站立侍奉，表情：表情平静。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面中央",
+                "action": "头部微动，正在说话",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "红墙背景",
+        "description_narrative": "特写固定镜头，粉衣女子身穿粉色古装，头戴金色花饰，面带笑容正在说话，神情显得轻松讨好，背景为红墙。",
+        "dialogue": "明王妃开玩笑的",
+        "speaker": "粉衣女子",
+        "emotion": "讨好",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；红墙背景；画面中央人物，身穿粉色古装，头部微动，正在说话，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛微蹙，眼睛平视，嘴角微抿"
+            }
+        ],
+        "background": "红墙绿瓦背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃身穿白色刺绣古装，佩戴蓝色耳坠，直视前方，神情清冷，背景为虚化的红墙绿瓦。",
+        "dialogue": "您别当真，我怎么会质疑您呢",
+        "speaker": "粉衣女子 (画外音)",
+        "emotion": "清冷",
+        "duration": 2.36,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景，虚化；画面中央人物，身穿白色刺绣古装，直视前方，表情：眉毛微蹙，眼睛平视，嘴角微抿。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "眼神微动",
+                "expression": "眉毛平展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "红墙背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃身穿白色刺绣古装，眼神微微下移，嘴巴微张似在回应或倾听，背景为虚化的红墙。",
+        "dialogue": "我怎么会质疑您呢",
+        "speaker": "粉衣女子 (画外音)",
+        "emotion": null,
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；红墙背景，虚化；画面中央人物，身穿白色刺绣古装，眼神微动，表情：眉毛平展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "头部微侧，正在说话",
+                "expression": "眉毛微蹙，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，头戴金色头饰，头部微侧正在说话，神情显得宽容，背景虚化。",
+        "dialogue": "明王妃曾经救治过哀家",
+        "speaker": "太后",
+        "emotion": "宽容",
+        "duration": 3.48,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，头部微侧，正在说话，表情：眉毛微蹙，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头微笑",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "红墙背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃身穿白色刺绣古装，低头露出微笑，神情谦逊，背景为虚化的红墙。",
+        "dialogue": "这点恩赐是应该的",
+        "speaker": "太后 (画外音)",
+        "emotion": "谦逊",
+        "duration": 0.92,
+        "description_visual": "特写平拍镜头；红墙背景，虚化；画面中央人物，身穿白色刺绣古装，低头微笑，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "直视前方，正在说话",
+                "expression": "眉毛微蹙，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，头戴金色头饰，直视前方正在说话，神情威严中带着维护，背景虚化。",
+        "dialogue": "谢太后，以后不准以皇宫的规矩",
+        "speaker": "太后",
+        "emotion": "威严",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，直视前方，正在说话，表情：眉毛微蹙，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "继续说话",
+                "expression": "眉毛微蹙，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，继续说话，神情严肃，背景虚化。",
+        "dialogue": "来质疑明王妃",
+        "speaker": "太后",
+        "emotion": "严肃",
+        "duration": 5.44,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，继续说话，表情：眉毛微蹙，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "红墙背景",
+        "description_narrative": "特写固定镜头，粉衣女子身穿粉色古装，低头顺从，神情惶恐，背景为红墙。",
+        "dialogue": "明白吗？知道了",
+        "speaker": "太后/粉衣女子",
+        "emotion": "惶恐",
+        "duration": 2.16,
+        "description_visual": "特写平拍镜头；红墙背景；画面中央人物，身穿粉色古装，低头，表情：眉毛低垂，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米白色古装",
+                "position": "画面左侧",
+                "action": "侧身站立",
+                "expression": "侧脸"
+            },
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面右侧",
+                "action": "侧身站立",
+                "expression": "侧脸"
+            }
+        ],
+        "background": "红墙绿瓦，地面石板",
+        "description_narrative": "中景固定镜头，从背后拍摄明王和明王妃并排站立，背景为红墙绿瓦，此时另一名王爷入场请安。",
+        "dialogue": "臣给太后请安，起身吧，不知明王",
+        "speaker": "另一名王爷/太后",
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头；红墙绿瓦，地面石板；画面左侧人物，身穿米白色古装，侧身站立，表情：侧脸；画面右侧人物，身穿白色古装，侧身站立，表情：侧脸。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "另一名王爷",
+                "gender": "男",
+                "clothing": "米色古装",
+                "position": "画面中央",
+                "action": "头部微侧，正在说话",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "红墙绿瓦背景",
+        "description_narrative": "特写固定镜头，另一名王爷身穿米色古装，头戴金色发冠，头部微侧正在说话，神情看似恭敬实则带有试探，背景为红墙绿瓦。",
+        "dialogue": "对本王送的美姬是否满意呢",
+        "speaker": "另一名王爷",
+        "emotion": "试探",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景；画面中央人物，身穿米色古装，头部微侧，正在说话，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "眼神锐利",
+                "expression": "眉毛微蹙，眼睛斜视，嘴唇紧闭"
+            }
+        ],
+        "background": "红墙背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃身穿白色刺绣古装，眼神锐利地斜视，神情不悦，背景为虚化的红墙。",
+        "dialogue": "是否满意呢",
+        "speaker": "另一名王爷 (画外音)",
+        "emotion": "不悦",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；红墙背景，虚化；画面中央人物，身穿白色刺绣古装，眼神锐利，表情：眉毛微蹙，眼睛斜视，嘴唇紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米白色古装",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "红墙绿瓦背景",
+        "description_narrative": "特写固定镜头，明王身穿米白色古装，低头不语，神情隐忍，背景为红墙绿瓦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "隐忍",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景；画面中央人物，身穿米白色古装，低头，表情：眉毛低垂，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "头部微转，正在说话",
+                "expression": "眉毛微蹙，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，头戴金色头饰，头部微转正在说话，神情疑惑，背景虚化。",
+        "dialogue": "什么美姬",
+        "speaker": "太后",
+        "emotion": "疑惑",
+        "duration": 3.0,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，头部微转，正在说话，表情：眉毛微蹙，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "另一名王爷",
+                "gender": "男",
+                "clothing": "米色古装",
+                "position": "画面中央",
+                "action": "正在说话",
+                "expression": "眉毛平展，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "红墙绿瓦背景",
+        "description_narrative": "特写固定镜头，另一名王爷身穿米色古装，正在说话，神情看似恭敬，背景为红墙绿瓦。",
+        "dialogue": "启禀太后",
+        "speaker": "另一名王爷",
+        "emotion": "恭敬",
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景；画面中央人物，身穿米色古装，正在说话，表情：眉毛平展，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米白色古装",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "红墙绿瓦背景",
+        "description_narrative": "特写固定镜头，明王身穿米白色古装，低头不语，神情隐忍，背景为红墙绿瓦。",
+        "dialogue": "这明王身体羸弱，身边只有王妃一人照顾",
+        "speaker": "另一名王爷 (画外音)",
+        "emotion": "隐忍",
+        "duration": 3.36,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景；画面中央人物，身穿米白色古装，低头，表情：眉毛低垂，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "眼神愤怒",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴唇紧闭"
+            }
+        ],
+        "background": "红墙背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃身穿白色刺绣古装，眼神愤怒地直视前方，神情不悦，背景为虚化的红墙。",
+        "dialogue": "臣恐王妃无法照顾周到",
+        "speaker": "另一名王爷 (画外音)",
+        "emotion": "愤怒",
+        "duration": 2.36,
+        "description_visual": "特写平拍镜头；红墙背景，虚化；画面中央人物，身穿白色刺绣古装，眼神愤怒，表情：眉毛紧蹙，眼睛瞪大，嘴唇紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "另一名王爷",
+                "gender": "男",
+                "clothing": "米色古装",
+                "position": "画面中央",
+                "action": "正在说话",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "红墙绿瓦背景",
+        "description_narrative": "特写固定镜头，另一名王爷身穿米色古装，正在说话，神情带有挑拨意味，背景为红墙绿瓦。",
+        "dialogue": "特寻一会医术的美姬来照顾明王",
+        "speaker": "另一名王爷",
+        "emotion": "挑拨",
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景；画面中央人物，身穿米色古装，正在说话，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "怒视",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴唇紧闭"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，头戴金色头饰，怒视前方，神情愤怒，背景虚化。",
+        "dialogue": "胡闹",
+        "speaker": "太后",
+        "emotion": "愤怒",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，怒视，表情：眉毛紧蹙，眼睛瞪大，嘴唇紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "正在说话",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，正在说话，神情愤怒地斥责，背景虚化。",
+        "dialogue": "明王的身体本来就不好，还娶了个狐媚子",
+        "speaker": "太后",
+        "emotion": "愤怒",
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，正在说话，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "继续说话",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，继续愤怒地说话，神情激动，背景虚化。",
+        "dialogue": "还整了个狐妹子",
+        "speaker": "太后",
+        "emotion": "激动",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，继续说话，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "另一名王爷",
+                "gender": "男",
+                "clothing": "米色古装",
+                "position": "画面中央",
+                "action": "眼神躲闪",
+                "expression": "眉毛低垂，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "红墙绿瓦背景",
+        "description_narrative": "特写固定镜头，另一名王爷身穿米色古装，眼神躲闪正在说话，神情略显心虚，背景为红墙绿瓦。",
+        "dialogue": "给安排在他身边",
+        "speaker": "另一名王爷",
+        "emotion": "心虚",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景；画面中央人物，身穿米色古装，眼神躲闪，表情：眉毛低垂，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "怒视",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴唇紧闭"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，怒视前方，神情愤怒，背景虚化。",
+        "dialogue": "太后息怒",
+        "speaker": "另一名王爷 (画外音)",
+        "emotion": "愤怒",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，怒视，表情：眉毛紧蹙，眼睛瞪大，嘴唇紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "另一名王爷",
+                "gender": "男",
+                "clothing": "米色古装",
+                "position": "画面中央",
+                "action": "正在说话",
+                "expression": "眉毛平展，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "红墙绿瓦背景",
+        "description_narrative": "特写固定镜头，另一名王爷身穿米色古装，正在说话，神情看似解释，背景为红墙绿瓦。",
+        "dialogue": "明王告诉过微臣",
+        "speaker": "另一名王爷",
+        "emotion": "解释",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景；画面中央人物，身穿米色古装，正在说话，表情：眉毛平展，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "另一名王爷",
+                "gender": "男",
+                "clothing": "米色古装",
+                "position": "画面中央",
+                "action": "继续说话",
+                "expression": "眉毛平展，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "红墙绿瓦背景",
+        "description_narrative": "特写固定镜头，另一名王爷身穿米色古装，继续说话，神情认真，背景为红墙绿瓦。",
+        "dialogue": "他只要女医师",
+        "speaker": "另一名王爷",
+        "emotion": "认真",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景；画面中央人物，身穿米色古装，继续说话，表情：眉毛平展，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米白色古装",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛微蹙，眼睛平视，嘴唇紧闭"
+            }
+        ],
+        "background": "红墙绿瓦背景",
+        "description_narrative": "特写固定镜头，明王身穿米白色古装，直视前方，神情隐忍，背景为红墙绿瓦。",
+        "dialogue": "墨儿，太不像话了",
+        "speaker": "太后 (画外音)",
+        "emotion": "隐忍",
+        "duration": 1.08,
+        "description_visual": "特写平拍镜头；红墙绿瓦背景；画面中央人物，身穿米白色古装，直视前方，表情：眉毛微蹙，眼睛平视，嘴唇紧闭。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米白色古装",
+                "position": "画面中央",
+                "action": "低头跪下",
+                "expression": "眉毛低垂，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "红墙背景",
+        "description_narrative": "特写固定镜头，俯拍视角，明王身穿米白色古装，低头跪下，神情顺从，背景为红墙。",
+        "dialogue": "枉我跟你父皇说",
+        "speaker": "太后 (画外音)",
+        "emotion": "顺从",
+        "duration": 2.72,
+        "description_visual": "特写俯拍镜头；红墙背景；画面中央人物，身穿米白色古装，低头跪下，表情：眉毛低垂，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "闭眼叹息",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，闭眼叹息，神情失望，背景虚化。",
+        "dialogue": "没想到你竟然做出这种",
+        "speaker": "太后",
+        "emotion": "失望",
+        "duration": 2.76,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，闭眼叹息，表情：眉毛紧蹙，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "睁眼怒视",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，睁眼怒视，神情严厉，背景虚化。",
+        "dialogue": "中秋之后",
+        "speaker": "太后",
+        "emotion": "严厉",
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，睁眼怒视，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太后",
+                "gender": "女",
+                "clothing": "绿色华服",
+                "position": "画面中央",
+                "action": "继续说话",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "金色头饰细节，背景虚化",
+        "description_narrative": "特写固定镜头，太后身穿绿色华服，继续说话，神情严厉地宣布惩罚，背景虚化。",
+        "dialogue": "面壁三个月",
+        "speaker": "太后",
+        "emotion": "严厉",
+        "duration": 1.16,
+        "description_visual": "特写平拍镜头；金色头饰细节，背景虚化；画面中央人物，身穿绿色华服，继续说话，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张。"
+    }
+]

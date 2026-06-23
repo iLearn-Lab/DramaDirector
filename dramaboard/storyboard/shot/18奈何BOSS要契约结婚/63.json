@@ -1,0 +1,906 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在藤椅上，身体微侧向中间",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌后，双手放在桌上",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张似在说话"
+            },
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面右侧",
+                "action": "坐在藤椅上，身体微侧向中间",
+                "expression": "眉毛自然，眼睛注视左侧，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，有石桌藤椅，背景有绿植和凉亭，光线自然柔和",
+        "description_narrative": "全景镜头，画面中央是老年男子，左侧是青年男子，右侧是青年女子，三人围坐在户外庭院的桌旁。画面上叠加了剧集标题文字。老年男子正在说话，神情严肃。",
+        "dialogue": "所以我早就想把他赶下山了。",
+        "speaker": "老年男子",
+        "emotion": "严肃",
+        "duration": 1.68,
+        "description_visual": "全景平拍镜头；户外庭院，有石桌藤椅，背景有绿植和凉亭，光线自然柔和；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在藤椅上，身体微侧向中间，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌后，双手放在桌上，表情：眉毛舒展，眼睛微眯，嘴巴微张似在说话；画面右侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在藤椅上，身体微侧向中间，表情：眉毛自然，眼睛注视左侧，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，双手交叠放在桌上",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "户外庭院，背景虚化，可见绿植",
+        "description_narrative": "近景镜头聚焦青年男子，他身穿卡其色风衣，坐在桌前，神情严肃，目光专注地看着对面的人。",
+        "dialogue": "不想让他管。",
+        "speaker": "青年男子",
+        "emotion": "严肃",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化，可见绿植；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，双手交叠放在桌上，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，身体微前倾",
+                "expression": "眉毛微挑，眼睛注视对面，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有绿植和建筑",
+        "description_narrative": "过肩镜头拍摄青年女子，她扎着高马尾，身穿卡其色风衣，正看着对面的老人说话，表情略带惊讶。",
+        "dialogue": "外公。",
+        "speaker": "青年女子",
+        "emotion": "惊讶",
+        "duration": 1.12,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植和建筑；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，身体微前倾，表情：眉毛微挑，眼睛注视对面，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，双手放在腿上",
+                "expression": "眉毛舒展，眼睛微眯，嘴角微扬"
+            }
+        ],
+        "background": "户外庭院，背景有石墙和绿植",
+        "description_narrative": "过肩镜头拍摄老年男子，他头发花白，身穿米色开衫，面带微笑地看着对面的女子，神情慈祥。",
+        "dialogue": "您这么潮流。",
+        "speaker": "青年女子",
+        "emotion": "慈祥",
+        "duration": 1.6,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙和绿植；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，双手放在腿上，表情：眉毛舒展，眼睛微眯，嘴角微扬。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神略带疑惑",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她看着老人，表情疑惑，似乎在反问什么。",
+        "dialogue": "怎么会有？",
+        "speaker": "青年女子",
+        "emotion": "疑惑",
+        "duration": 1.52,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神略带疑惑，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，眼神看向下方",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景虚化",
+        "description_narrative": "近景镜头拍摄青年男子，他低着头，神情有些无奈或尴尬，字幕显示他在被评价为落伍。",
+        "dialogue": "怎么会有这么落伍的外孙啊",
+        "speaker": "老年男子",
+        "emotion": "无奈",
+        "duration": 1.92,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向下方，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神看向左侧",
+                "expression": "眉毛微挑，眼睛注视左侧，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她看着旁边的男子，表情略带笑意，似乎在附和老人的话。",
+        "dialogue": "这么落伍的外孙啊。",
+        "speaker": "老年男子",
+        "emotion": "调侃",
+        "duration": 0.96,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向左侧，表情：眉毛微挑，眼睛注视左侧，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，面带微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他面带得意的微笑，似乎对自己的潮流感到满意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 2.44,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，面带微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，露出灿烂笑容",
+                "expression": "眉毛舒展，眼睛弯成月牙，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她听到老人的话后开心地笑了起来，气氛轻松。",
+        "dialogue": "我也感觉到我很潮流。",
+        "speaker": "老年男子",
+        "emotion": "开心",
+        "duration": 1.24,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，露出灿烂笑容，表情：眉毛舒展，眼睛弯成月牙，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "户外庭院，背景虚化",
+        "description_narrative": "近景镜头拍摄青年男子，他看着老人，发出轻微的哼声，表情略带无奈。",
+        "dialogue": "嗯，哼。",
+        "speaker": "青年男子",
+        "emotion": "无奈",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，面带微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她微笑着看着老人，气氛融洽。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "微笑",
+        "duration": 1.44,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，面带微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，眼神看向下方",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景虚化",
+        "description_narrative": "近景镜头拍摄青年男子，他低着头，似乎在回忆或思考，字幕显示老人在谈论他结婚前的事。",
+        "dialogue": "这小子结婚前。",
+        "speaker": "老年男子",
+        "emotion": "回忆",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向下方，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，身体微前倾",
+                "expression": "眉毛微挑，眼睛注视对面，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他看着对面的年轻人，继续讲述过去的故事。",
+        "dialogue": "还跟我说过。",
+        "speaker": "老年男子",
+        "emotion": "讲述",
+        "duration": 2.44,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，身体微前倾，表情：眉毛微挑，眼睛注视对面，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "户外庭院，背景虚化",
+        "description_narrative": "近景镜头拍摄青年男子，他听着老人的话，表情严肃，似乎在回想自己曾说过的话。",
+        "dialogue": "绝不联姻，结果呢？",
+        "speaker": "老年男子",
+        "emotion": "质问",
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛注视左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她看着旁边的男子，表情略带好奇，听着老人的讲述。",
+        "dialogue": "还是跑去结婚现场。",
+        "speaker": "老年男子",
+        "emotion": "调侃",
+        "duration": 1.48,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向左侧，表情：眉毛微蹙，眼睛注视左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，身体微前倾",
+                "expression": "眉毛微蹙，眼睛注视对面，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他看着对面的年轻人，表情好奇，询问对方改变主意的原因。",
+        "dialogue": "我就好奇了。",
+        "speaker": "老年男子",
+        "emotion": "好奇",
+        "duration": 2.16,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，身体微前倾，表情：眉毛微蹙，眼睛注视对面，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛注视对面，嘴巴紧闭"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她看着对面的老人，表情认真，听着老人的问题。",
+        "dialogue": "怎么又会突然改变主意了？",
+        "speaker": "老年男子",
+        "emotion": "疑问",
+        "duration": 3.76,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛注视对面，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景虚化",
+        "description_narrative": "近景镜头拍摄青年男子，他看着对面的女子，解释自己结婚当天迟到的原因。",
+        "dialogue": "怪不得结婚那天迟到那么久，还以为死在路上了。",
+        "speaker": "青年男子",
+        "emotion": "解释",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛注视对面，嘴巴紧闭"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她看着对面的男子，表情略带笑意，似乎知道了原因。",
+        "dialogue": "现在知道原因了吧。",
+        "speaker": "青年男子",
+        "emotion": "了然",
+        "duration": 1.28,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛注视对面，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景虚化",
+        "description_narrative": "近景镜头拍摄青年男子，他看着老人，发出肯定的声音，准备转移话题。",
+        "dialogue": "嗯。",
+        "speaker": "青年男子",
+        "emotion": "肯定",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛舒展，眼睛注视对面，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他看着对面的年轻人，准备听对方说话。",
+        "dialogue": "对了外公。",
+        "speaker": "青年男子",
+        "emotion": "认真",
+        "duration": 2.2,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，眼神看向对面，表情：眉毛舒展，眼睛注视对面，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景虚化",
+        "description_narrative": "近景镜头拍摄青年男子，他看着老人，说明此次来访的目的。",
+        "dialogue": "这次我们除了来看您。",
+        "speaker": "青年男子",
+        "emotion": "认真",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛舒展，眼睛注视对面，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他看着对面的年轻人，示意对方继续说。",
+        "dialogue": "还有一件事想问您。",
+        "speaker": "青年男子",
+        "emotion": "询问",
+        "duration": 2.64,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，眼神看向对面，表情：眉毛舒展，眼睛注视对面，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，手中拿着布包",
+                "expression": "眉毛微蹙，眼睛注视手中物品，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她手中拿着一个布包，准备向老人展示里面的东西。",
+        "dialogue": "你说。外公。",
+        "speaker": "老年男子",
+        "emotion": "允许",
+        "duration": 1.28,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，手中拿着布包，表情：眉毛微蹙，眼睛注视手中物品，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "双手打开布包",
+                "expression": "眉毛微蹙，眼睛注视手中物品，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，桌面可见",
+        "description_narrative": "特写镜头拍摄青年女子的双手，她小心翼翼地打开手中的布包，露出里面的玉手镯。",
+        "dialogue": "我想问问您。",
+        "speaker": "青年女子",
+        "emotion": "认真",
+        "duration": 1.96,
+        "description_visual": "特写俯拍镜头；户外庭院，桌面可见；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，双手打开布包，表情：眉毛微蹙，眼睛注视手中物品，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，伸手去拿手镯",
+                "expression": "眉毛微蹙，眼睛注视手镯，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他看着女子手中的手镯，伸手去接，表情疑惑。",
+        "dialogue": "关于这两只手镯的事情。",
+        "speaker": "青年女子",
+        "emotion": "疑惑",
+        "duration": 1.08,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，伸手去拿手镯，表情：眉毛微蹙，眼睛注视手镯，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面左侧",
+                "action": "双手接过手镯",
+                "expression": "眉毛微蹙，眼睛注视手镯，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，桌面可见",
+        "description_narrative": "特写镜头拍摄老年男子的双手，他接过女子递来的手镯，仔细端详。",
+        "dialogue": "哦。",
+        "speaker": "老年男子",
+        "emotion": "惊讶",
+        "duration": 1.08,
+        "description_visual": "特写俯拍镜头；户外庭院，桌面可见；画面左侧人物，身穿米色针织开衫内搭白色T恤，双手接过手镯，表情：眉毛微蹙，眼睛注视手镯，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面左侧",
+                "action": "双手拿着手镯",
+                "expression": "眉毛微蹙，眼睛注视手镯，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，桌面可见",
+        "description_narrative": "特写镜头拍摄老年男子的双手，他拿着手镯，似乎在回忆什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "回忆",
+        "duration": 1.6,
+        "description_visual": "特写俯拍镜头；户外庭院，桌面可见；画面左侧人物，身穿米色针织开衫内搭白色T恤，双手拿着手镯，表情：眉毛微蹙，眼睛注视手镯，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛注视对面，嘴巴紧闭"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她看着老人，等待老人的回答。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 2.04,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛注视对面，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，手拿手镯",
+                "expression": "眉毛微蹙，眼睛注视手镯，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他看着手中的手镯，发出感叹声。",
+        "dialogue": "哎。",
+        "speaker": "老年男子",
+        "emotion": "感叹",
+        "duration": 2.64,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，手拿手镯，表情：眉毛微蹙，眼睛注视手镯，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，手拿手镯",
+                "expression": "眉毛微蹙，眼睛注视对面，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他看着对面的年轻人，认出了手镯的来历。",
+        "dialogue": "这不是当初我麻烦张勋大师。",
+        "speaker": "老年男子",
+        "emotion": "回忆",
+        "duration": 4.52,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，手拿手镯，表情：眉毛微蹙，眼睛注视对面，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景虚化",
+        "description_narrative": "近景镜头拍摄青年男子，他看着老人，确认手镯是给母亲打造的。",
+        "dialogue": "给你妈打造的手镯吗",
+        "speaker": "老年男子",
+        "emotion": "确认",
+        "duration": 4.72,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，手拿手镯",
+                "expression": "眉毛微蹙，眼睛注视手镯，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他看着手中的手镯，听着年轻人的解释。",
+        "dialogue": "有一只是我妈留给我的，另外一只是小兮的。",
+        "speaker": "青年男子",
+        "emotion": "解释",
+        "duration": 3.56,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，手拿手镯，表情：眉毛微蹙，眼睛注视手镯，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，手拿布包",
+                "expression": "眉毛微蹙，眼睛注视手中物品，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她拿着布包，听着老人的话。",
+        "dialogue": "另外一只在你这。",
+        "speaker": "老年男子",
+        "emotion": "陈述",
+        "duration": 1.2,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，手拿布包，表情：眉毛微蹙，眼睛注视手中物品，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛注视对面，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他看着对面的女子，听她讲述手镯的来历。",
+        "dialogue": "这是梅姨捡到我的时候。",
+        "speaker": "青年女子",
+        "emotion": "讲述",
+        "duration": 0.92,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛注视对面，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面左侧",
+                "action": "坐在桌前，眼神看向对面",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景虚化",
+        "description_narrative": "近景镜头拍摄青年男子，他看着对面的女子，听她讲述身世。",
+        "dialogue": "放在我襁褓中的。",
+        "speaker": "青年女子",
+        "emotion": "讲述",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；户外庭院，背景虚化；画面左侧人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，眼神看向对面，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "米色针织开衫内搭白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，手指指向女子",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有石墙",
+        "description_narrative": "过肩镜头拍摄老年男子，他指着女子，似乎意识到了什么，发出惊讶的声音。",
+        "dialogue": "呃？",
+        "speaker": "老年男子",
+        "emotion": "惊讶",
+        "duration": 1.2,
+        "description_visual": "近景过肩镜头；户外庭院，背景有石墙；画面中央人物，身穿米色针织开衫内搭白色T恤，坐在桌前，手指指向女子，表情：眉毛微蹙，眼睛注视女子，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年女子",
+                "gender": "女",
+                "clothing": "卡其色风衣内搭米色高领毛衣",
+                "position": "画面中央",
+                "action": "坐在桌前，手拿布包",
+                "expression": "眉毛微蹙，眼睛注视对面，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，背景有绿植",
+        "description_narrative": "过肩镜头拍摄青年女子，她看着老人，等待老人的结论。",
+        "dialogue": "所以说。",
+        "speaker": "老年男子",
+        "emotion": "推断",
+        "duration": 1.96,
+        "description_visual": "近景过肩镜头；户外庭院，背景有绿植；画面中央人物，身穿卡其色风衣内搭米色高领毛衣，坐在桌前，手拿布包，表情：眉毛微蹙，眼睛注视对面，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色背景",
+        "description_narrative": "画面变为白色，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；白色背景。"
+    }
+]

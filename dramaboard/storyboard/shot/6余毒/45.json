@@ -1,0 +1,631 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面左侧，站立",
+                "action": "双手持笔记本电脑，低头看屏幕",
+                "expression": "眉毛平展，眼睛注视屏幕，嘴巴微闭"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装三件套，黑色领带",
+                "position": "画面右侧，坐在沙发上",
+                "action": "低头看手中的文件",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华客厅，马赛克墙面，黑色茶几，光线柔和",
+        "description_narrative": "全景镜头，助理站在左侧手持笔记本电脑，傅总坐在右侧沙发上看文件，助理向傅总汇报顾小姐拒绝保释的消息。",
+        "dialogue": "傅总审讯室那边我已经打好招呼了，但是顾小姐说不用您保释。",
+        "speaker": "助理",
+        "emotion": "恭敬",
+        "duration": 5.42,
+        "description_visual": "全景平拍镜头；豪华客厅，马赛克墙面，黑色茶几，光线柔和；画面左侧，站立人物，身穿黑色皮夹克，黑色高领衫，双手持笔记本电脑，低头看屏幕，表情：眉毛平展，眼睛注视屏幕，嘴巴微闭；画面右侧，坐在沙发上人物，身穿灰色西装三件套，黑色领带，低头看手中的文件，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "看着笔记本电脑屏幕",
+                "expression": "眉毛微挑，眼睛注视屏幕，嘴巴微张准备说话"
+            }
+        ],
+        "background": "马赛克墙面背景",
+        "description_narrative": "中近景镜头，助理看着笔记本电脑屏幕，继续补充汇报内容。",
+        "dialogue": "并且还说。",
+        "speaker": "助理",
+        "emotion": "谨慎",
+        "duration": 2.1,
+        "description_visual": "中近景平拍镜头；马赛克墙面背景；画面中央人物，身穿黑色皮夹克，黑色高领衫，看着笔记本电脑屏幕，表情：眉毛微挑，眼睛注视屏幕，嘴巴微张准备说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装三件套，黑色领带",
+                "position": "画面中央",
+                "action": "低头看着手中的文件",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴微张询问"
+            }
+        ],
+        "background": "米色沙发背景",
+        "description_narrative": "特写镜头，傅总低头看着手中的文件，眉头微皱，开口询问顾小姐还说了什么。",
+        "dialogue": "还说什么？",
+        "speaker": "傅总",
+        "emotion": "不悦",
+        "duration": 1.14,
+        "description_visual": "特写俯拍镜头；米色沙发背景；画面中央人物，身穿灰色西装三件套，黑色领带，低头看着手中的文件，表情：眉毛紧锁，眼睛下视，嘴巴微张询问。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "看着电脑屏幕",
+                "expression": "眉毛平展，眼睛注视屏幕，嘴巴微动转述"
+            }
+        ],
+        "background": "马赛克墙面",
+        "description_narrative": "中近景镜头，助理看着电脑，转述顾小姐讽刺傅总假慈悲的话。",
+        "dialogue": "她说您不用跟她猫哭耗子假慈悲。",
+        "speaker": "助理",
+        "emotion": "谨慎",
+        "duration": 3.94,
+        "description_visual": "中近景平拍镜头；马赛克墙面；画面中央人物，身穿黑色皮夹克，黑色高领衫，看着电脑屏幕，表情：眉毛平展，眼睛注视屏幕，嘴巴微动转述。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装三件套，黑色领带",
+                "position": "画面中央",
+                "action": "翻动手中的文件",
+                "expression": "眉毛紧蹙，眼睛下视，嘴角下撇"
+            }
+        ],
+        "background": "米色沙发",
+        "description_narrative": "特写镜头，傅总翻动文件，表情不悦，骂顾小姐不知好歹，并质问助理调查进度。",
+        "dialogue": "这个女人真是不知好歹，让你查的事查的怎么样了？",
+        "speaker": "傅总",
+        "emotion": "恼怒",
+        "duration": 6.82,
+        "description_visual": "特写俯拍镜头；米色沙发；画面中央人物，身穿灰色西装三件套，黑色领带，翻动手中的文件，表情：眉毛紧蹙，眼睛下视，嘴角下撇。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "看着电脑屏幕",
+                "expression": "眉毛微垂，眼睛注视屏幕，嘴巴微张汇报"
+            }
+        ],
+        "background": "马赛克墙面",
+        "description_narrative": "中近景镜头，助理看着电脑屏幕，汇报林家事情难查，但提到陷害顾小姐的事有了进展。",
+        "dialogue": "林家的事情年代久远，目前查不出什么，但是陷害顾小姐的事。",
+        "speaker": "助理",
+        "emotion": "认真",
+        "duration": 5.58,
+        "description_visual": "中近景平拍镜头；马赛克墙面；画面中央人物，身穿黑色皮夹克，黑色高领衫，看着电脑屏幕，表情：眉毛微垂，眼睛注视屏幕，嘴巴微张汇报。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "看着电脑屏幕",
+                "expression": "眉毛舒展，眼睛注视屏幕，嘴巴微张"
+            }
+        ],
+        "background": "马赛克墙面",
+        "description_narrative": "中近景镜头，助理看着电脑，表示已经找到了证据。",
+        "dialogue": "我已经找到证据了。",
+        "speaker": "助理",
+        "emotion": "肯定",
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；马赛克墙面；画面中央人物，身穿黑色皮夹克，黑色高领衫，看着电脑屏幕，表情：眉毛舒展，眼睛注视屏幕，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "弯腰准备将电脑放到茶几上",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "马赛克墙面",
+        "description_narrative": "中景镜头，助理弯腰准备将电脑放到茶几上，傅总在画外音中发出沉吟声表示知晓。",
+        "dialogue": "嗯。",
+        "speaker": "傅总",
+        "emotion": "沉思",
+        "duration": 0.36,
+        "description_visual": "中景平拍镜头（跟拍）；马赛克墙面；画面中央人物，身穿黑色皮夹克，黑色高领衫，弯腰准备将电脑放到茶几上，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "继续弯腰放置电脑",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "马赛克墙面",
+        "description_narrative": "中景镜头，助理继续弯腰放置电脑，傅总再次发出沉吟声。",
+        "dialogue": "嗯。",
+        "speaker": "傅总",
+        "emotion": "沉思",
+        "duration": 0.42,
+        "description_visual": "中景平拍镜头；马赛克墙面；画面中央人物，身穿黑色皮夹克，黑色高领衫，继续弯腰放置电脑，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面中央",
+                "action": "将电脑放好，手势示意",
+                "expression": "眉毛微挑，眼睛注视电脑，嘴巴微张"
+            }
+        ],
+        "background": "马赛克墙面",
+        "description_narrative": "中景镜头，助理将电脑放好，示意傅总查看证据。",
+        "dialogue": "您看。",
+        "speaker": "助理",
+        "emotion": "恭敬",
+        "duration": 1.66,
+        "description_visual": "中景平拍镜头；马赛克墙面；画面中央人物，身穿黑色皮夹克，黑色高领衫，将电脑放好，手势示意，表情：眉毛微挑，眼睛注视电脑，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装三件套，黑色领带",
+                "position": "画面中央",
+                "action": "接过文件夹/看着电脑",
+                "expression": "眉毛紧锁，眼睛注视前方，嘴巴微闭"
+            }
+        ],
+        "background": "米色沙发",
+        "description_narrative": "特写镜头，傅总接过文件夹或看着电脑，发出沉吟声表示在看。",
+        "dialogue": "嗯。",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 0.64,
+        "description_visual": "特写俯拍镜头；米色沙发；画面中央人物，身穿灰色西装三件套，黑色领带，接过文件夹/看着电脑，表情：眉毛紧锁，眼睛注视前方，嘴巴微闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面左侧，俯身",
+                "action": "俯身看茶几上的电脑",
+                "expression": "眉毛微垂，眼睛注视屏幕，嘴巴紧闭"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装三件套，黑色领带",
+                "position": "画面右侧，坐在沙发上",
+                "action": "看着茶几上的电脑",
+                "expression": "眉毛紧锁，眼睛注视屏幕，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅，茶几",
+        "description_narrative": "中景镜头，助理俯身和傅总一起看茶几上的电脑，两人都在专注查看证据。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.66,
+        "description_visual": "中景平拍镜头；客厅，茶几；画面左侧，俯身人物，身穿黑色皮夹克，黑色高领衫，俯身看茶几上的电脑，表情：眉毛微垂，眼睛注视屏幕，嘴巴紧闭；画面右侧，坐在沙发上人物，身穿灰色西装三件套，黑色领带，看着茶几上的电脑，表情：眉毛紧锁，眼睛注视屏幕，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面左侧，俯身",
+                "action": "指着电脑屏幕解释",
+                "expression": "眉毛微垂，眼睛注视屏幕，嘴巴微张"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装三件套，黑色领带",
+                "position": "画面右侧，坐在沙发上",
+                "action": "倾听",
+                "expression": "眉毛紧锁，眼睛注视屏幕，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅",
+        "description_narrative": "过肩镜头，助理指着电脑屏幕解释证据来源是昨天系统中找到的，时间是昨天中午。",
+        "dialogue": "这个是昨天在系统中找到的，时间是昨天中午。",
+        "speaker": "助理",
+        "emotion": "认真",
+        "duration": 5.5,
+        "description_visual": "中近景过肩镜头；客厅；画面左侧，俯身人物，身穿黑色皮夹克，黑色高领衫，指着电脑屏幕解释，表情：眉毛微垂，眼睛注视屏幕，嘴巴微张；画面右侧，坐在沙发上人物，身穿灰色西装三件套，黑色领带，倾听，表情：眉毛紧锁，眼睛注视屏幕，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装三件套，黑色领带",
+                "position": "画面中央",
+                "action": "双臂交叉放在膝盖上，倾听",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "米色沙发",
+        "description_narrative": "特写镜头，傅总双臂交叉放在膝盖上，神情严肃地听着助理解释这是云盘里的私密文件。",
+        "dialogue": "这是云盘里的私密文件，对，因为我们更新了系统。",
+        "speaker": "助理",
+        "emotion": "严肃",
+        "duration": 4.74,
+        "description_visual": "特写俯拍镜头；米色沙发；画面中央人物，身穿灰色西装三件套，黑色领带，双臂交叉放在膝盖上，倾听，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面左侧，站立",
+                "action": "站立看着傅总",
+                "expression": "眉毛微垂，眼睛注视傅总，嘴巴紧闭"
+            }
+        ],
+        "background": "马赛克墙面",
+        "description_narrative": "中近景镜头，助理站立看着傅总，傅总在画外音中下令不要保释顾小姐，说她自有安排。",
+        "dialogue": "别捞她了，她自有安排。",
+        "speaker": "傅总",
+        "emotion": "冷峻",
+        "duration": 6.32,
+        "description_visual": "中近景平拍镜头；马赛克墙面；画面左侧，站立人物，身穿黑色皮夹克，黑色高领衫，站立看着傅总，表情：眉毛微垂，眼睛注视傅总，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面左侧，站立",
+                "action": "低头听着指令",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "马赛克墙面",
+        "description_narrative": "中近景镜头，助理低头听着傅总的指令，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "顺从",
+        "duration": 0.78,
+        "description_visual": "中近景平拍镜头；马赛克墙面；画面左侧，站立人物，身穿黑色皮夹克，黑色高领衫，低头听着指令，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色皮夹克，黑色高领衫",
+                "position": "画面左侧，站立",
+                "action": "开口询问",
+                "expression": "眉毛微挑，眼睛注视傅总，嘴巴微张"
+            }
+        ],
+        "background": "马赛克墙面",
+        "description_narrative": "中近景镜头，助理询问之前安排的用于平息董事会怒火的十亿资金如何处理。",
+        "dialogue": "好，那您之前安排我说平息董事会怒火的十个亿。",
+        "speaker": "助理",
+        "emotion": "请示",
+        "duration": 5.4,
+        "description_visual": "中近景平拍镜头；马赛克墙面；画面左侧，站立人物，身穿黑色皮夹克，黑色高领衫，开口询问，表情：眉毛微挑，眼睛注视傅总，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "灰色西装三件套，黑色领带",
+                "position": "画面中央",
+                "action": "表情冷漠，说话",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "米色沙发",
+        "description_narrative": "特写镜头，傅总表情冷漠，反问钱是否大风刮来的，并下令取消这笔资金。",
+        "dialogue": "我们的钱是大风刮来的吗？取消。",
+        "speaker": "傅总",
+        "emotion": "吝啬/霸道",
+        "duration": 4.14,
+        "description_visual": "特写俯拍镜头；米色沙发；画面中央人物，身穿灰色西装三件套，黑色领带，表情冷漠，说话，表情：眉毛紧蹙，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面左侧，坐在沙发上",
+                "action": "倾听",
+                "expression": "眉毛微垂，眼睛注视女儿，嘴巴紧闭"
+            },
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面右侧，坐在沙发上",
+                "action": "说话，手部动作",
+                "expression": "眉毛微挑，眼睛注视母亲，嘴角上扬"
+            }
+        ],
+        "background": "明亮客厅，白色沙发，落地窗",
+        "description_narrative": "中景镜头，母亲和女儿坐在白色沙发上，女儿幸灾乐祸地说那个女人终于踢到铁板了。",
+        "dialogue": "妈，这次那个贱人终于踢到铁板了。",
+        "speaker": "女儿",
+        "emotion": "恶毒/开心",
+        "duration": 2.76,
+        "description_visual": "中景平拍镜头；明亮客厅，白色沙发，落地窗；画面左侧，坐在沙发上人物，身穿米色风衣，黑色内搭，倾听，表情：眉毛微垂，眼睛注视女儿，嘴巴紧闭；画面右侧，坐在沙发上人物，身穿白色针织连衣裙，说话，手部动作，表情：眉毛微挑，眼睛注视母亲，嘴角上扬。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面左侧，坐在沙发上",
+                "action": "说话，轻蔑地笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            },
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面右侧，坐在沙发上",
+                "action": "倾听，手扶母亲手臂",
+                "expression": "眉毛微挑，眼睛注视母亲，嘴巴微张"
+            }
+        ],
+        "background": "明亮客厅",
+        "description_narrative": "中景镜头，母亲轻蔑地笑着，告诉女儿这不算什么，以后还有刑期和霸凌等着对方。",
+        "dialogue": "这算什么？等之后她面临无休止的刑期和霸凌，她就知道。",
+        "speaker": "母亲",
+        "emotion": "阴险",
+        "duration": 5.58,
+        "description_visual": "中景平拍镜头；明亮客厅；画面左侧，坐在沙发上人物，身穿米色风衣，黑色内搭，说话，轻蔑地笑，表情：眉毛舒展，眼睛微眯，嘴角上扬；画面右侧，坐在沙发上人物，身穿白色针织连衣裙，倾听，手扶母亲手臂，表情：眉毛微挑，眼睛注视母亲，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微垂，眼睛下视，嘴角微扬"
+            }
+        ],
+        "background": "窗户背景",
+        "description_narrative": "特写镜头，母亲表情阴险，提到能移植肝脏给林家是多么大的荣幸。",
+        "dialogue": "能移植肝脏给林家是多么大的荣幸。",
+        "speaker": "母亲",
+        "emotion": "傲慢",
+        "duration": 3.7,
+        "description_visual": "特写平拍镜头；窗户背景；画面中央人物，身穿米色风衣，黑色内搭，说话，表情：眉毛微垂，眼睛下视，嘴角微扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面中央",
+                "action": "说话，表情恶毒",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "白色墙面",
+        "description_narrative": "特写镜头，女儿表情恶毒，发誓要毁掉对方的脸，提到上次划破脸反而让对方变美的失败经历。",
+        "dialogue": "移植肝脏后，我要彻底毁掉她的脸。上次划了刀口，居然被她治好，变得更漂亮了。这次我绝对不会再心慈手软。",
+        "speaker": "女儿",
+        "emotion": "嫉妒/狠毒",
+        "duration": 10.82,
+        "description_visual": "特写平拍镜头；白色墙面；画面中央人物，身穿白色针织连衣裙，说话，表情恶毒，表情：眉毛紧蹙，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微垂，眼睛注视女儿，嘴巴微张"
+            }
+        ],
+        "background": "窗户背景",
+        "description_narrative": "特写镜头，母亲眼神狠厉，提到要让对方知道当年没死在大火里。",
+        "dialogue": "我要让她知道，当年她没死在那场大火里。",
+        "speaker": "母亲",
+        "emotion": "阴毒",
+        "duration": 3.8,
+        "description_visual": "特写平拍镜头；窗户背景；画面中央人物，身穿米色风衣，黑色内搭，说话，表情：眉毛微垂，眼睛注视女儿，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面中央",
+                "action": "倾听，眼神阴冷",
+                "expression": "眉毛微垂，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙面",
+        "description_narrative": "特写镜头，女儿眼神阴冷，听着母亲说完后半句“是她的不幸”。",
+        "dialogue": "是她的不幸。",
+        "speaker": "母亲",
+        "emotion": "阴毒",
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头；白色墙面；画面中央人物，身穿白色针织连衣裙，倾听，眼神阴冷，表情：眉毛微垂，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面中央",
+                "action": "微微点头，画面逐渐变白",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "白色过曝背景",
+        "description_narrative": "特写镜头，女儿微微点头表示同意，画面逐渐变白过渡。",
+        "dialogue": "嗯。",
+        "speaker": "女儿",
+        "emotion": "认同",
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头；白色过曝背景；画面中央人物，身穿白色针织连衣裙，微微点头，画面逐渐变白，表情：眉毛舒展，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景",
+        "description_narrative": "画面完全变白，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.86,
+        "description_visual": "特写平拍镜头；纯白背景。"
+    }
+]

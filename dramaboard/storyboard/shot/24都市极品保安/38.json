@@ -1,0 +1,853 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色屏幕，无可见场景。",
+        "description_narrative": "画面全黑，无可见人物或场景，持续3.28秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；黑色屏幕，无可见场景。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面右侧",
+                "action": "面对镜头左侧的花衬衫男，嘴唇微张说话",
+                "expression": "眉毛微蹙，眼睛直视对方，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫",
+                "position": "画面左侧前景（背影）",
+                "action": "背对镜头，面向西装男",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外，背景为绿色施工围挡，光线自然。",
+        "description_narrative": "过肩镜头，西装男站在绿色围挡前，神情严肃地对面前的花衬衫男说话，嘴唇微张，眼神冷峻。",
+        "dialogue": "我再给你一次机会",
+        "speaker": "西装男",
+        "emotion": "严肃",
+        "duration": 1.64,
+        "description_visual": "中近景过肩镜头；户外，背景为绿色施工围挡，光线自然。；画面右侧人物，身穿黑色西装搭配白色衬衫，面对镜头左侧的花衬衫男，嘴唇微张说话，表情：眉毛微蹙，眼睛直视对方，嘴巴微张；画面左侧前景（背影）人物，身穿浅绿色印花衬衫，背对镜头，面向西装男，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "站立，头部微仰，佩戴墨镜",
+                "expression": "墨镜遮挡眼睛，嘴巴紧闭，表情傲慢"
+            }
+        ],
+        "background": "户外街道，背景虚化，有树木和建筑。",
+        "description_narrative": "镜头切换至花衬衫男正面，他戴着墨镜，头微微仰起，表情不屑，似乎在听对方说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "傲慢",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；户外街道，背景虚化，有树木和建筑。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，站立，头部微仰，佩戴墨镜，表情：墨镜遮挡眼睛，嘴巴紧闭，表情傲慢。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面右侧",
+                "action": "身体微前倾，嘴巴张开说话",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫",
+                "position": "画面左侧前景（背影）",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "西装男表情变得严厉，身体微向前倾，大声质问对方，嘴巴张开，眼神锐利。",
+        "dialogue": "说出幕后主使",
+        "speaker": "西装男",
+        "emotion": "严厉",
+        "duration": 3.08,
+        "description_visual": "中近景过肩镜头；户外，绿色施工围挡背景。；画面右侧人物，身穿黑色西装搭配白色衬衫，身体微前倾，嘴巴张开说话，表情：眉毛上扬，眼睛睁大，嘴巴张开；画面左侧前景（背影）人物，身穿浅绿色印花衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "头部微歪，嘴巴微张",
+                "expression": "墨镜遮挡眼睛，嘴角微撇，表情轻蔑"
+            }
+        ],
+        "background": "户外街道，背景虚化。",
+        "description_narrative": "花衬衫男歪着头，一脸不屑地重复对方的话，嘴角带着嘲弄的笑意。",
+        "dialogue": "还给我个机会",
+        "speaker": "花衬衫男",
+        "emotion": "轻蔑",
+        "duration": 2.6,
+        "description_visual": "中景平拍镜头；户外街道，背景虚化。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，头部微歪，嘴巴微张，表情：墨镜遮挡眼睛，嘴角微撇，表情轻蔑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面右侧",
+                "action": "表情严肃，直视对方",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫",
+                "position": "画面左侧前景（背影）",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "西装男面无表情地看着对方，眼神中透着寒意，似乎在等待对方的反应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷峻",
+        "duration": 1.04,
+        "description_visual": "中近景过肩镜头；户外，绿色施工围挡背景。；画面右侧人物，身穿黑色西装搭配白色衬衫，表情严肃，直视对方，表情：眉毛平展，眼睛直视，嘴巴紧闭；画面左侧前景（背影）人物，身穿浅绿色印花衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "手指指向对方，身体微侧",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，表情嚣张"
+            }
+        ],
+        "background": "户外街道，背景虚化。",
+        "description_narrative": "花衬衫男伸出手指着对方，语气嚣张地继续挑衅，身体微微侧向一边。",
+        "dialogue": "我还给你个机会",
+        "speaker": "花衬衫男",
+        "emotion": "嚣张",
+        "duration": 4.28,
+        "description_visual": "中景平拍镜头；户外街道，背景虚化。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，手指指向对方，身体微侧，表情：墨镜遮挡眼睛，嘴巴微张，表情嚣张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面右侧",
+                "action": "单手插兜，身体微侧，嘴巴微张",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫",
+                "position": "画面左侧前景（背影）",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "西装男单手插在西裤口袋里，身体微微侧转，语气平静但充满压迫感地指出对方没看清局势。",
+        "dialogue": "我看你是没看清局势吧",
+        "speaker": "西装男",
+        "emotion": "冷静",
+        "duration": 3.16,
+        "description_visual": "中近景过肩镜头；户外，绿色施工围挡背景。；画面右侧人物，身穿黑色西装搭配白色衬衫，单手插兜，身体微侧，嘴巴微张，表情：眉毛微挑，眼睛直视，嘴巴微张；画面左侧前景（背影）人物，身穿浅绿色印花衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "头部后仰，看向天空",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，表情狂妄"
+            }
+        ],
+        "background": "绿色围挡上方，天空可见。",
+        "description_narrative": "低角度仰拍花衬衫男，他狂妄地将头向后仰起，看向天空，似乎在享受这种嚣张的时刻。",
+        "dialogue": "让我玩玩",
+        "speaker": "花衬衫男",
+        "emotion": "狂妄",
+        "duration": 0.84,
+        "description_visual": "特写仰拍镜头；绿色围挡上方，天空可见。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，头部后仰，看向天空，表情：墨镜遮挡眼睛，嘴巴微张，表情狂妄。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色裤子",
+                "position": "画面中央，坐在地上",
+                "action": "闭着眼睛，手捂腹部，表情痛苦",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "绿色围挡前，地面有黄黑警示条纹。",
+        "description_narrative": "镜头转向坐在地上的白衬衫男，他闭着眼睛，手捂着肚子，表情痛苦，似乎在呼喊同伴。",
+        "dialogue": "强子强子",
+        "speaker": "白衬衫男",
+        "emotion": "痛苦",
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；绿色围挡前，地面有黄黑警示条纹。；画面中央，坐在地上人物，身穿白色衬衫，黑色裤子，闭着眼睛，手捂腹部，表情痛苦，表情：眉毛紧锁，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面左侧",
+                "action": "侧脸，嘴巴微张",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，表情命令式"
+            }
+        ],
+        "background": "绿色围挡背景。",
+        "description_narrative": "花衬衫男侧过脸，对着手下下达命令，让他去喊人。",
+        "dialogue": "喊人去",
+        "speaker": "花衬衫男",
+        "emotion": "命令",
+        "duration": 1.04,
+        "description_visual": "近景侧拍镜头；绿色围挡背景。；画面左侧人物，身穿浅绿色印花衬衫，佩戴墨镜，侧脸，嘴巴微张，表情：墨镜遮挡眼睛，嘴巴微张，表情命令式。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面中央",
+                "action": "双手整理西装下摆",
+                "expression": "眉毛舒展，眼睛微眯，嘴角微扬"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "西装男不慌不忙地整理了一下西装下摆，脸上露出一丝自信的微笑，似乎对对方的叫人不屑一顾。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "自信",
+        "duration": 1.04,
+        "description_visual": "中近景平拍镜头；户外，绿色施工围挡背景。；画面中央人物，身穿黑色西装搭配白色衬衫，双手整理西装下摆，表情：眉毛舒展，眼睛微眯，嘴角微扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "手指指向对方，表情凶狠",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，露出牙齿"
+            }
+        ],
+        "background": "绿色围挡背景。",
+        "description_narrative": "花衬衫男再次伸手指着对方，放狠话让对方等着，表情凶狠。",
+        "dialogue": "你给我等着",
+        "speaker": "花衬衫男",
+        "emotion": "凶狠",
+        "duration": 2.16,
+        "description_visual": "近景仰拍镜头；绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，手指指向对方，表情凶狠，表情：墨镜遮挡眼睛，嘴巴微张，露出牙齿。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面右侧",
+                "action": "双手交叉抱胸",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫",
+                "position": "画面左侧前景（背影）",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "西装男双手交叉抱在胸前，冷冷地告诉对方这是他的地盘，气场强大。",
+        "dialogue": "这是我的地盘",
+        "speaker": "西装男",
+        "emotion": "冷峻",
+        "duration": 1.48,
+        "description_visual": "中近景过肩镜头；户外，绿色施工围挡背景。；画面右侧人物，身穿黑色西装搭配白色衬衫，双手交叉抱胸，表情：眉毛微蹙，眼睛直视，嘴巴紧闭；画面左侧前景（背影）人物，身穿浅绿色印花衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色裤子",
+                "position": "画面中央，坐在地上",
+                "action": "手捂腹部，抬头看向花衬衫男",
+                "expression": "眉毛紧锁，眼睛微睁，嘴巴微张"
+            }
+        ],
+        "background": "绿色围挡前，地面有黄黑警示条纹。",
+        "description_narrative": "坐在地上的白衬衫男捂着肚子，抬头看向老大，表情为难。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "为难",
+        "duration": 1.72,
+        "description_visual": "中景平拍镜头；绿色围挡前，地面有黄黑警示条纹。；画面中央，坐在地上人物，身穿白色衬衫，黑色裤子，手捂腹部，抬头看向花衬衫男，表情：眉毛紧锁，眼睛微睁，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫男",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "侧脸，嘴巴微张说话",
+                "expression": "眉毛紧锁，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "绿色围挡背景。",
+        "description_narrative": "白衬衫男侧着脸，向老大解释手下们家里都有事，无法赶来。",
+        "dialogue": "老大 他们家里都有事",
+        "speaker": "白衬衫男",
+        "emotion": "无奈",
+        "duration": 1.32,
+        "description_visual": "近景侧拍镜头；绿色围挡背景。；画面中央人物，身穿白色衬衫，侧脸，嘴巴微张说话，表情：眉毛紧锁，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面中央",
+                "action": "低头看着对方，嘴巴微张",
+                "expression": "眉毛微挑，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "西装男低头看着花衬衫男，语气嘲讽地称呼对方“赵老大”，询问情况。",
+        "dialogue": "怎么样赵老大",
+        "speaker": "西装男",
+        "emotion": "嘲讽",
+        "duration": 1.08,
+        "description_visual": "近景俯拍镜头；户外，绿色围挡背景。；画面中央人物，身穿黑色西装搭配白色衬衫，低头看着对方，嘴巴微张，表情：眉毛微挑，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "身体微侧，表情尴尬",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，表情僵硬"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "花衬衫男听到嘲讽，表情变得尴尬，不知如何回应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "尴尬",
+        "duration": 0.88,
+        "description_visual": "中景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，身体微侧，表情尴尬，表情：墨镜遮挡眼睛，嘴巴微张，表情僵硬。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面中央",
+                "action": "表情平静，看着对方",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "西装男平静地看着对方，似乎在等待对方的下一步反应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿黑色西装搭配白色衬衫，表情平静，看着对方，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "身体微前倾，嘴巴微张",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，表情虚张声势"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "花衬衫男试图挽回面子，虚张声势地问对方要不要再试试他的拳头。",
+        "dialogue": "要不要再试试我的拳头啊",
+        "speaker": "花衬衫男",
+        "emotion": "虚张声势",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，身体微前倾，嘴巴微张，表情：墨镜遮挡眼睛，嘴巴微张，表情虚张声势。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面右侧",
+                "action": "抓住对方手腕，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫",
+                "position": "画面左侧前景（背影）",
+                "action": "手腕被抓住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "西装男一把抓住花衬衫男的手腕，冷冷地说不试了，动作果断。",
+        "dialogue": "不试了不试了",
+        "speaker": "西装男",
+        "emotion": "果断",
+        "duration": 1.32,
+        "description_visual": "中近景过肩镜头；户外，绿色施工围挡背景。；画面右侧人物，身穿黑色西装搭配白色衬衫，抓住对方手腕，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴微张；画面左侧前景（背影）人物，身穿浅绿色印花衬衫，手腕被抓住，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "双手摆动，表情慌张",
+                "expression": "墨镜遮挡眼睛，嘴巴张大，露出牙齿，表情惊恐"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "花衬衫男瞬间变脸，双手摆动表示不敢，连声说自己错了。",
+        "dialogue": "我错了我错了~",
+        "speaker": "花衬衫男",
+        "emotion": "惊恐",
+        "duration": 1.64,
+        "description_visual": "中景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，双手摆动，表情慌张，表情：墨镜遮挡眼睛，嘴巴张大，露出牙齿，表情惊恐。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面右侧",
+                "action": "手指指向妻子方向",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫",
+                "position": "画面左侧前景（背影）",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "西装男指着身后的妻子，命令花衬衫男快道歉。",
+        "dialogue": "还不快给我老婆道歉",
+        "speaker": "西装男",
+        "emotion": "命令",
+        "duration": 1.4,
+        "description_visual": "中近景过肩镜头；户外，绿色施工围挡背景。；画面右侧人物，身穿黑色西装搭配白色衬衫，手指指向妻子方向，表情：眉毛微蹙，眼睛直视，嘴巴微张；画面左侧前景（背影）人物，身穿浅绿色印花衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "身体微侧，表情慌张",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，表情慌乱"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "花衬衫男听到命令，更加慌张，不知所措。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "慌乱",
+        "duration": 1.36,
+        "description_visual": "中景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，身体微侧，表情慌张，表情：墨镜遮挡眼睛，嘴巴微张，表情慌乱。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色上衣，粉色裙子",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "镜头给到西装男的妻子，她身穿白衣粉裙，表情严肃地站在那里。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；户外，绿色施工围挡背景。；画面中央人物，身穿白色上衣，粉色裙子，站立，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "双手合十，身体微躬",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，表情谄媚"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "花衬衫男立刻转向白衣女子，双手合十，弯腰道歉。",
+        "dialogue": "对不起对不起~",
+        "speaker": "花衬衫男",
+        "emotion": "谄媚",
+        "duration": 2.48,
+        "description_visual": "中景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，双手合十，身体微躬，表情：墨镜遮挡眼睛，嘴巴微张，表情谄媚。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色上衣，粉色裙子",
+                "position": "画面中央",
+                "action": "手挽西装男手臂，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "白衣女子挽着丈夫的手臂，催促花衬衫男快说幕后主使。",
+        "dialogue": "快说",
+        "speaker": "白衣女子",
+        "emotion": "急切",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；户外，绿色施工围挡背景。；画面中央人物，身穿白色上衣，粉色裙子，手挽西装男手臂，嘴巴微张，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "头部微摇，表情犹豫",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，表情为难"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "花衬衫男犹豫不决，发出“哎哎哎”的声音，似乎不敢说。",
+        "dialogue": "哎哎哎",
+        "speaker": "花衬衫男",
+        "emotion": "犹豫",
+        "duration": 4.12,
+        "description_visual": "中景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，头部微摇，表情犹豫，表情：墨镜遮挡眼睛，嘴巴微张，表情为难。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面中央",
+                "action": "表情玩味，看着对方",
+                "expression": "眉毛微挑，眼睛微眯，嘴角微扬"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "西装男看着花衬衫男的样子，嘲讽地说没想到他还挺讲义气。",
+        "dialogue": "没想到你还挺讲义气",
+        "speaker": "西装男",
+        "emotion": "嘲讽",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿黑色西装搭配白色衬衫，表情玩味，看着对方，表情：眉毛微挑，眼睛微眯，嘴角微扬。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "抬头看天，表情故作坚强",
+                "expression": "墨镜遮挡眼睛，嘴巴微张，表情倔强"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "花衬衫男抬头看天，故作坚强地不松口。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "倔强",
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，抬头看天，表情故作坚强，表情：墨镜遮挡眼睛，嘴巴微张，表情倔强。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面中央",
+                "action": "表情威胁，靠近对方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "西装男再次逼近，威胁地问对方要不要试试他有多硬。",
+        "dialogue": "那要不要试试我有多硬啊",
+        "speaker": "西装男",
+        "emotion": "威胁",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿黑色西装搭配白色衬衫，表情威胁，靠近对方，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "身体后缩，表情恐惧",
+                "expression": "墨镜遮挡眼睛，嘴巴张大，表情惊恐"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "花衬衫男听到威胁，身体本能地后缩，脸上露出恐惧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恐惧",
+        "duration": 1.36,
+        "description_visual": "中景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，身体后缩，表情恐惧，表情：墨镜遮挡眼睛，嘴巴张大，表情惊恐。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装搭配白色衬衫",
+                "position": "画面右侧",
+                "action": "伸手抓住对方衣领",
+                "expression": "眉毛紧锁，眼睛怒视，嘴巴微张"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫",
+                "position": "画面左侧前景（背影）",
+                "action": "衣领被抓住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外，绿色施工围挡背景。",
+        "description_narrative": "西装男伸手抓住花衬衫男的衣领，花衬衫男吓得大喊“别别别”。",
+        "dialogue": "哎别别别",
+        "speaker": "花衬衫男",
+        "emotion": "极度恐惧",
+        "duration": 0.92,
+        "description_visual": "中近景过肩镜头；户外，绿色施工围挡背景。；画面右侧人物，身穿黑色西装搭配白色衬衫，伸手抓住对方衣领，表情：眉毛紧锁，眼睛怒视，嘴巴微张；画面左侧前景（背影）人物，身穿浅绿色印花衬衫，衣领被抓住，表情：不可见。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅绿色印花衬衫，佩戴墨镜",
+                "position": "画面中央",
+                "action": "双手挡在胸前，身体弯曲",
+                "expression": "墨镜遮挡眼睛，嘴巴张大，表情求饶"
+            }
+        ],
+        "background": "户外，绿色围挡背景。",
+        "description_narrative": "花衬衫男彻底崩溃，双手挡在胸前求饶，说自己真不敢说。",
+        "dialogue": "我...我是真不敢说是",
+        "speaker": "花衬衫男",
+        "emotion": "求饶",
+        "duration": 4.32,
+        "description_visual": "中景平拍镜头；户外，绿色围挡背景。；画面中央人物，身穿浅绿色印花衬衫，佩戴墨镜，双手挡在胸前，身体弯曲，表情：墨镜遮挡眼睛，嘴巴张大，表情求饶。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "闪白",
+        "subjects": [],
+        "background": "白色闪光，无可见场景。",
+        "description_narrative": "画面突然闪白，伴随着花衬衫男最终的招供声音。",
+        "dialogue": "赵公子叫我来的啊",
+        "speaker": "花衬衫男",
+        "emotion": "崩溃",
+        "duration": 3.36,
+        "description_visual": "特写平拍镜头（闪白）；白色闪光，无可见场景。。"
+    }
+]

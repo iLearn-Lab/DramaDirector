@@ -1,0 +1,434 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王浩",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "身体前倾，右手抬起指向对面，神情急切",
+                "expression": "眉毛微蹙，眼睛直视对面，嘴巴微张"
+            },
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "棕色夹克，黑色裤子",
+                "position": "画面右侧",
+                "action": "坐在小凳上，身体微侧，双手放在腿上",
+                "expression": "眉毛舒展，眼神平静，嘴角紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫",
+                "position": "画面左前景",
+                "action": "背对镜头坐着，长发披肩",
+                "expression": "不可见"
+            },
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色连衣裙",
+                "position": "画面右后景",
+                "action": "坐在磊哥旁边，双手放在桌上",
+                "expression": "眼神看向王浩"
+            }
+        ],
+        "background": "庭院场景，白墙红门，桌上有酒瓶食物，光线明亮",
+        "description_narrative": "全景镜头，四人围坐在庭院小桌旁。身穿蓝白条纹 T 恤的王浩身体前倾，急切地对着对面的磊哥说话，右手抬起。磊哥身穿棕色夹克，神情淡定地听着。白衣女子背对镜头，黄衣女子坐在一旁观察。",
+        "dialogue": "哎磊哥",
+        "speaker": "王浩",
+        "emotion": "急切",
+        "duration": 2.53,
+        "description_visual": "全景平拍镜头；庭院场景，白墙红门，桌上有酒瓶食物，光线明亮；画面左侧人物，身穿蓝白条纹短袖 T 恤，棕色裤子，身体前倾，右手抬起指向对面，神情急切，表情：眉毛微蹙，眼睛直视对面，嘴巴微张；画面右侧人物，身穿棕色夹克，黑色裤子，坐在小凳上，身体微侧，双手放在腿上，表情：眉毛舒展，眼神平静，嘴角紧闭；画面左前景人物，身穿白色荷叶边衬衫，背对镜头坐着，长发披肩，表情：不可见；画面右后景人物，身穿黄色连衣裙，坐在磊哥旁边，双手放在桌上，表情：眼神看向王浩。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王浩",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖 T 恤",
+                "position": "画面中央",
+                "action": "眉头紧锁，身体略微前倾，双手自然下垂",
+                "expression": "眉毛紧蹙，眼睛睁大带着不解，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左前景",
+                "action": "仅露出部分背影和长发",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白墙背景，桌上有蒲扇和瓜子壳",
+        "description_narrative": "中近景镜头聚焦王浩，他眉头紧锁，表情焦虑不解，身体前倾质问对方，眼神中充满急切。左侧可见白衣女子的长发背影。",
+        "dialogue": "你怎么就不知道着急呢",
+        "speaker": "王浩",
+        "emotion": "焦虑",
+        "duration": 1.7,
+        "description_visual": "中近景平拍镜头；白墙背景，桌上有蒲扇和瓜子壳；画面中央人物，身穿蓝白条纹短袖 T 恤，眉头紧锁，身体略微前倾，双手自然下垂，表情：眉毛紧蹙，眼睛睁大带着不解，嘴巴微张；画面左前景人物，身穿白色衬衫，仅露出部分背影和长发，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面中央",
+                "action": "低头看着手中的食物，手指正在剥东西",
+                "expression": "眉毛平展，眼神下移，嘴角微抿"
+            }
+        ],
+        "background": "白砖墙背景，桌上有酒瓶和食物",
+        "description_narrative": "中近景镜头切换至磊哥，他身穿棕色夹克，低头专注于手中的动作，正在剥食物，神情淡定从容，对王浩的焦急不以为意。",
+        "dialogue": "着啥急？这有什么好着急的",
+        "speaker": "磊哥",
+        "emotion": "淡定",
+        "duration": 3.9,
+        "description_visual": "中近景平拍镜头；白砖墙背景，桌上有酒瓶和食物；画面中央人物，身穿棕色夹克，低头看着手中的食物，手指正在剥东西，表情：眉毛平展，眼神下移，嘴角微抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王浩",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖 T 恤",
+                "position": "画面中央",
+                "action": "身体前倾，眼神发亮，双手放在腿上",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张露出兴奋"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左前景",
+                "action": "静坐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白墙背景，桌上有蒲扇和酒瓶",
+        "description_narrative": "中近景镜头回到王浩，他身体前倾，眼神发亮，表情兴奋地解释着副厂长职位的好处，仿佛看到了美好的前景。",
+        "dialogue": "那可是副厂长哎，你要是当了副厂长，哥们也能跟着沾光当个副主任啥的",
+        "speaker": "王浩",
+        "emotion": "兴奋",
+        "duration": 7.97,
+        "description_visual": "中近景平拍镜头；白墙背景，桌上有蒲扇和酒瓶；画面中央人物，身穿蓝白条纹短袖 T 恤，身体前倾，眼神发亮，双手放在腿上，表情：眉毛上扬，眼睛睁大，嘴巴微张露出兴奋；画面左前景人物，身穿白色衬衫，静坐，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面中央",
+                "action": "抬头看向王浩，眼神略带戏谑",
+                "expression": "眉毛微挑，眼睛直视，嘴角似笑非笑"
+            }
+        ],
+        "background": "白砖墙背景，桌上有食物",
+        "description_narrative": "中近景镜头给到磊哥，他抬头看向王浩，眼神中带着一丝戏谑和不解，嘴角微扬，似乎觉得王浩的想法很可笑。",
+        "dialogue": "王浩，你这想当官想想着迷了是吧",
+        "speaker": "磊哥",
+        "emotion": "戏谑",
+        "duration": 2.8,
+        "description_visual": "中近景平拍镜头；白砖墙背景，桌上有食物；画面中央人物，身穿棕色夹克，抬头看向王浩，眼神略带戏谑，表情：眉毛微挑，眼睛直视，嘴角似笑非笑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王浩",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖 T 恤",
+                "position": "画面左侧",
+                "action": "身体后仰，表情略显尴尬",
+                "expression": "眉毛微蹙，嘴巴紧闭"
+            },
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧",
+                "action": "坐着，手放在桌上",
+                "expression": "神情平静"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左前景",
+                "action": "静坐",
+                "expression": "不可见"
+            },
+            {
+                "name": "黄衣女子",
+                "gender": "女",
+                "clothing": "黄色连衣裙",
+                "position": "画面右后景",
+                "action": "微笑看着两人",
+                "expression": "嘴角上扬"
+            }
+        ],
+        "background": "庭院全景，四人围坐",
+        "description_narrative": "全景镜头展示四人围坐的场景。王浩被戳穿后略显尴尬地后仰，磊哥平静地看着他，黄衣女子在一旁微笑，气氛暂时凝固。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "尴尬",
+        "duration": 3.43,
+        "description_visual": "全景平拍镜头；庭院全景，四人围坐；画面左侧人物，身穿蓝白条纹短袖 T 恤，身体后仰，表情略显尴尬，表情：眉毛微蹙，嘴巴紧闭；画面右侧人物，身穿棕色夹克，坐着，手放在桌上，表情：神情平静；画面左前景人物，身穿白色衬衫，静坐，表情：不可见；画面右后景人物，身穿黄色连衣裙，微笑看着两人，表情：嘴角上扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王浩",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖 T 恤",
+                "position": "画面中央",
+                "action": "低头看着桌面，手指无意识地搓动",
+                "expression": "眉毛下垂，眼神躲闪，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左前景",
+                "action": "静坐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白墙背景，桌上有蒲扇",
+        "description_narrative": "中近景镜头聚焦王浩，他避开视线低头看着桌面，手指无意识地搓动，神情有些失落和心虚。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "失落",
+        "duration": 2.9,
+        "description_visual": "中近景平拍镜头；白墙背景，桌上有蒲扇；画面中央人物，身穿蓝白条纹短袖 T 恤，低头看着桌面，手指无意识地搓动，表情：眉毛下垂，眼神躲闪，嘴巴紧闭；画面左前景人物，身穿白色衬衫，静坐，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面中央",
+                "action": "侧头看向王浩，眼神探究",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "白砖墙背景，桌上有酒瓶",
+        "description_narrative": "中近景镜头给到磊哥，他侧头看向王浩，眼神中带着探究，似乎猜到了什么，开口询问是否因为江玲。",
+        "dialogue": "是不是因为江玲啊？不是",
+        "speaker": "磊哥",
+        "emotion": "探究",
+        "duration": 3.83,
+        "description_visual": "中近景平拍镜头；白砖墙背景，桌上有酒瓶；画面中央人物，身穿棕色夹克，侧头看向王浩，眼神探究，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "身体微侧，眼神温和地看着王浩方向",
+                "expression": "眉毛舒展，眼神柔和，嘴巴微张"
+            }
+        ],
+        "background": "庭院背景，前景有酒瓶虚化",
+        "description_narrative": "中近景镜头切换至白衣女子，她身穿白色荷叶边衬衫，身体微侧，语气温和地劝解王浩不要着急，试图缓和气氛。",
+        "dialogue": "浩哥你先别着急，这磊哥还不说吗？说不定啊，事情还要转机呢",
+        "speaker": "白衣女子",
+        "emotion": "温和",
+        "duration": 5.97,
+        "description_visual": "中近景平拍镜头；庭院背景，前景有酒瓶虚化；画面中央人物，身穿白色荷叶边衬衫，身体微侧，眼神温和地看着王浩方向，表情：眉毛舒展，眼神柔和，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面中央",
+                "action": "身体放松靠在椅背，眼神无所谓",
+                "expression": "眉毛平展，眼神随意，嘴角下垂"
+            }
+        ],
+        "background": "白砖墙背景，桌上有食物",
+        "description_narrative": "中近景镜头回到磊哥，他身体放松，表情无所谓地宣布自己不想当副厂长，彻底打破了王浩的幻想。",
+        "dialogue": "这厂长我是当不了了而且呀，我也不想当这副厂长",
+        "speaker": "磊哥",
+        "emotion": "无所谓",
+        "duration": 11.97,
+        "description_visual": "中近景平拍镜头；白砖墙背景，桌上有食物；画面中央人物，身穿棕色夹克，身体放松靠在椅背，眼神无所谓，表情：眉毛平展，眼神随意，嘴角下垂。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王浩",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖 T 恤",
+                "position": "画面中央",
+                "action": "闭眼摇头，双手放在腿上",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴微张叹气"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左前景",
+                "action": "静坐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白墙背景，桌上有蒲扇",
+        "description_narrative": "中近景镜头聚焦王浩，他听到这话后失望地闭眼摇头，长叹一口气，脸上写满了难以置信和失落。",
+        "dialogue": "啊，我真是太失望了真是",
+        "speaker": "王浩",
+        "emotion": "失望",
+        "duration": 2.8,
+        "description_visual": "中近景平拍镜头；白墙背景，桌上有蒲扇；画面中央人物，身穿蓝白条纹短袖 T 恤，闭眼摇头，双手放在腿上，表情：眉毛紧锁，眼睛紧闭，嘴巴微张叹气；画面左前景人物，身穿白色衬衫，静坐，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面中央",
+                "action": "身体前倾，眼神严肃地看着王浩",
+                "expression": "眉毛微蹙，眼神关切，嘴巴微张"
+            }
+        ],
+        "background": "白砖墙背景，桌上有酒瓶",
+        "description_narrative": "中近景镜头给到磊哥，他身体前倾，神情严肃地劝告王浩少跟江玲接触，指出他被迷了心窍。",
+        "dialogue": "王浩，你以后呀还是少跟江玲接触，看看现在都把自己整魔怔了",
+        "speaker": "磊哥",
+        "emotion": "严肃",
+        "duration": 11.6,
+        "description_visual": "中近景平拍镜头；白砖墙背景，桌上有酒瓶；画面中央人物，身穿棕色夹克，身体前倾，眼神严肃地看着王浩，表情：眉毛微蹙，眼神关切，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王浩",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖 T 恤",
+                "position": "画面中央",
+                "action": "情绪激动，身体前倾，手指比划",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴快速开合"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左前景",
+                "action": "静坐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白墙背景，桌上有蒲扇",
+        "description_narrative": "中近景镜头聚焦王浩，他被戳中痛处后情绪激动，身体前倾辩解，透露江玲的承诺，并威胁磊哥不准说江玲坏话。",
+        "dialogue": "磊哥，江玲跟我说了，只要我当上副主任她就跟我结婚。磊哥，你要再说江玲的不行，咱们这兄弟没得做",
+        "speaker": "王浩",
+        "emotion": "激动",
+        "duration": 11.33,
+        "description_visual": "中近景平拍镜头；白墙背景，桌上有蒲扇；画面中央人物，身穿蓝白条纹短袖 T 恤，情绪激动，身体前倾，手指比划，表情：眉毛上扬，眼睛瞪大，嘴巴快速开合；画面左前景人物，身穿白色衬衫，静坐，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王浩",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖 T 恤",
+                "position": "画面中央",
+                "action": "说完话后盯着对方，表情决绝",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左前景",
+                "action": "静坐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白墙背景，桌上有蒲扇",
+        "description_narrative": "中近景镜头延续，王浩说完狠话后盯着对方，表情决绝，画面下方出现字幕“咱们这兄弟没得做”，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "决绝",
+        "duration": 1.23,
+        "description_visual": "中近景平拍镜头；白墙背景，桌上有蒲扇；画面中央人物，身穿蓝白条纹短袖 T 恤，说完话后盯着对方，表情决绝，表情：眉毛紧锁，眼睛直视，嘴巴紧闭；画面左前景人物，身穿白色衬衫，静坐，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑屏",
+        "description_narrative": "画面渐黑，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.93,
+        "description_visual": "全景平拍镜头；黑屏。"
+    }
+]

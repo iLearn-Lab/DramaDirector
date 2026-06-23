@@ -1,0 +1,891 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "金色光斑背景，带有剧名标题文字",
+        "description_narrative": "全景固定镜头，画面中央显示剧名标题“大佬别跑 闪个婚”，背景为模糊的金色光斑，营造出浪漫氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "全景平拍镜头；金色光斑背景，带有剧名标题文字。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装外套搭配粗花呢短裙",
+                "position": "画面左侧",
+                "action": "坐在沙发上，身体微倾，眉头微蹙，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛疑惑地看向对方，嘴巴微张"
+            },
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面右侧",
+                "action": "坐在沙发上，双手捧着白色茶杯，侧头看向黑衣女子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴闭合"
+            }
+        ],
+        "background": "室内客厅，白色窗帘背景，光线柔和",
+        "description_narrative": "中景固定镜头，黑衣女子坐在左侧沙发上，眉头微蹙，疑惑地问“什么呀？”，白裙女子坐在右侧，手捧茶杯侧头倾听。",
+        "dialogue": "什么呀？要不就是。",
+        "speaker": "黑衣女子",
+        "emotion": "疑惑",
+        "duration": 2.84,
+        "description_visual": "中景平拍镜头；室内客厅，白色窗帘背景，光线柔和；画面左侧人物，身穿黑色西装外套搭配粗花呢短裙，坐在沙发上，身体微倾，眉头微蹙，嘴巴微张，表情：眉毛微蹙，眼睛疑惑地看向对方，嘴巴微张；画面右侧人物，身穿白色无袖纹理连衣裙，坐在沙发上，双手捧着白色茶杯，侧头看向黑衣女子，表情：眉毛舒展，眼睛注视对方，嘴巴闭合。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装外套",
+                "position": "画面中央",
+                "action": "眼神游移，嘴唇微动，似乎在思考或猜测",
+                "expression": "眉毛微皱，眼睛看向侧下方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，黑衣女子面部表情严肃，眼神游移，低声猜测道“他性取向有问题”。",
+        "dialogue": "他性取向有问题。",
+        "speaker": "黑衣女子",
+        "emotion": "猜测",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装外套，眼神游移，嘴唇微动，似乎在思考或猜测，表情：眉毛微皱，眼睛看向侧下方，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面中央",
+                "action": "低头喝茶，眼神向侧面瞥去，嘴角微抿",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴微抿"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，白裙女子低头轻啜茶水，听到荒谬的言论后，眼神侧瞥，反驳道“你扯什么呢？越说越离谱了”。",
+        "dialogue": "你扯什么呢？越说越离谱了。",
+        "speaker": "白裙女子",
+        "emotion": "不以为然",
+        "duration": 4.52,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色无袖纹理连衣裙，低头喝茶，眼神向侧面瞥去，嘴角微抿，表情：眉毛微挑，眼睛侧视，嘴巴微抿。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装外套",
+                "position": "画面左侧",
+                "action": "身体前倾，手势比划，表情认真",
+                "expression": "眉毛微蹙，眼睛直视对方，嘴巴微张"
+            },
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面右侧",
+                "action": "手持茶杯，侧耳倾听",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴闭合"
+            }
+        ],
+        "background": "室内客厅，白色窗帘",
+        "description_narrative": "中近景固定镜头，黑衣女子身体前倾，认真地对白裙女子说“你想想他身边那个小林”。",
+        "dialogue": "你想想他身边那个小林。",
+        "speaker": "黑衣女子",
+        "emotion": "认真",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；室内客厅，白色窗帘；画面左侧人物，身穿黑色西装外套，身体前倾，手势比划，表情认真，表情：眉毛微蹙，眼睛直视对方，嘴巴微张；画面右侧人物，身穿白色无袖纹理连衣裙，手持茶杯，侧耳倾听，表情：眉毛舒展，眼睛注视对方，嘴巴闭合。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装外套",
+                "position": "画面左侧",
+                "action": "继续说话，表情笃定",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面右侧",
+                "action": "手持茶杯，眼神若有所思",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴闭合"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景固定镜头，黑衣女子继续分析道“也那么帅”，白裙女子手持茶杯，眼神若有所思。",
+        "dialogue": "也那么帅。",
+        "speaker": "黑衣女子",
+        "emotion": "笃定",
+        "duration": 2.68,
+        "description_visual": "中近景平拍镜头；室内客厅；画面左侧人物，身穿黑色西装外套，继续说话，表情笃定，表情：眉毛微扬，眼睛注视对方，嘴巴微张；画面右侧人物，身穿白色无袖纹理连衣裙，手持茶杯，眼神若有所思，表情：眉毛微蹙，眼睛看向侧方，嘴巴闭合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装外套",
+                "position": "画面中央",
+                "action": "眼神专注，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，黑衣女子眉头微蹙，进一步说道“而且他俩关系”。",
+        "dialogue": "而且他俩关系",
+        "speaker": "黑衣女子",
+        "emotion": "分析",
+        "duration": 2.92,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装外套，眼神专注，嘴唇微动，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面中央",
+                "action": "眼神略带怀疑，嘴唇微抿",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微抿"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，白裙女子眼神略带怀疑，听着黑衣女子说完“看起来还那么好”。",
+        "dialogue": "而且他俩关系看起来还那么好。",
+        "speaker": "黑衣女子",
+        "emotion": "怀疑",
+        "duration": 3.2,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色无袖纹理连衣裙，眼神略带怀疑，嘴唇微抿，表情：眉毛微挑，眼睛看向侧方，嘴巴微抿。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面中央",
+                "action": "摇头否认，表情自信",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，白裙女子摇头否认，自信地说道“什么呀？都是不可能”。",
+        "dialogue": "什么呀？都是不可能。",
+        "speaker": "白裙女子",
+        "emotion": "自信",
+        "duration": 3.16,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色无袖纹理连衣裙，摇头否认，表情自信，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装外套",
+                "position": "画面中央",
+                "action": "手托下巴，思考状",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，黑衣女子手托下巴，思考片刻后说“我觉得”。",
+        "dialogue": "我觉得",
+        "speaker": "黑衣女子",
+        "emotion": "思考",
+        "duration": 3.44,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装外套，手托下巴，思考状，表情：眉毛微蹙，眼睛向下看，嘴巴微闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装外套",
+                "position": "画面中央",
+                "action": "眼神坚定，提出建议",
+                "expression": "眉毛微扬，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，黑衣女子眼神坚定，提议道“我觉得咱们得想个办法”。",
+        "dialogue": "我觉得咱们得想个办法。",
+        "speaker": "黑衣女子",
+        "emotion": "坚定",
+        "duration": 3.72,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装外套，眼神坚定，提出建议，表情：眉毛微扬，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面中央",
+                "action": "手持茶杯，眼神略带犹豫",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微抿"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，白裙女子手持茶杯，犹豫地说“测试他们下”，随即又警告道“我告诉你，别乱来啊”。",
+        "dialogue": "测试他们下。我告诉你，别乱来啊。",
+        "speaker": "白裙女子",
+        "emotion": "犹豫",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色无袖纹理连衣裙，手持茶杯，眼神略带犹豫，表情：眉毛微蹙，眼睛看向侧方，嘴巴微抿。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色西装外套",
+                "position": "画面中央",
+                "action": "表情好奇，身体前倾",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，黑衣女子好奇地问“我老公没问题的。是吗？这么有信心”，语气中带着试探。",
+        "dialogue": "我老公没问题的。是吗？这么有信心",
+        "speaker": "黑衣女子",
+        "emotion": "好奇",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装外套，表情好奇，身体前倾，表情：眉毛微扬，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面中央",
+                "action": "眼神坚定，嘴角微扬",
+                "expression": "眉毛舒展，眼睛直视前方，嘴角微扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，白裙女子眼神坚定，反问道“这么有信心”。",
+        "dialogue": "这么有信心",
+        "speaker": "黑衣女子",
+        "emotion": "反问",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色无袖纹理连衣裙，眼神坚定，嘴角微扬，表情：眉毛舒展，眼睛直视前方，嘴角微扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面中央",
+                "action": "点头确认，表情自信",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，白裙女子点头确认，自信地回答“那是”。",
+        "dialogue": "那是。",
+        "speaker": "白裙女子",
+        "emotion": "自信",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色无袖纹理连衣裙，点头确认，表情自信，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白裙女子",
+                "gender": "女",
+                "clothing": "白色无袖纹理连衣裙",
+                "position": "画面中央",
+                "action": "微笑，手持茶杯",
+                "expression": "眉毛舒展，眼睛微弯，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，白裙女子微笑，手持茶杯，画面无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "自信",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色无袖纹理连衣裙，微笑，手持茶杯，表情：眉毛舒展，眼睛微弯，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "地下车库，绿色奥迪轿车尾部",
+        "description_narrative": "全景固定镜头，地下车库内，一辆绿色奥迪轿车停放着，尾灯亮起。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.96,
+        "description_visual": "全景平拍镜头；地下车库，绿色奥迪轿车尾部。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "灰色西装袖子",
+                "position": "画面右侧",
+                "action": "手打开后备箱",
+                "expression": "无"
+            }
+        ],
+        "background": "地下车库，打开的后备箱",
+        "description_narrative": "中景固定镜头，一只手打开汽车后备箱，露出里面的鲜花和气球。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.96,
+        "description_visual": "中景平拍镜头；地下车库，打开的后备箱；画面右侧人物，身穿灰色西装袖子，手打开后备箱，表情：无。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装三件套",
+                "position": "画面中央",
+                "action": "低头看着后备箱，嘴角微扬",
+                "expression": "眉毛舒展，眼睛向下看，嘴角微扬"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，小林身穿灰色西装，低头看着后备箱，嘴角微扬。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "微笑",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿灰色条纹西装三件套，低头看着后备箱，嘴角微扬，表情：眉毛舒展，眼睛向下看，嘴角微扬。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "表情严肃，看着前方",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴闭合"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，陆总身穿黑色衬衫，表情严肃，画外音响起“可不可以？”。",
+        "dialogue": "可不可以？",
+        "speaker": "小林",
+        "emotion": "严肃",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿黑色衬衫，表情严肃，看着前方，表情：眉毛微蹙，眼睛直视前方，嘴巴闭合。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "站在车尾，看着后备箱",
+                "expression": "眉毛舒展，眼睛向下看，嘴巴微张"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面右侧",
+                "action": "站在车尾，看着后备箱",
+                "expression": "眉毛舒展，眼睛向下看，嘴角微扬"
+            }
+        ],
+        "background": "地下车库，红色管道",
+        "description_narrative": "全景固定镜头，陆总和小林站在车尾，陆总评价道“还不错”。",
+        "dialogue": "还不错。",
+        "speaker": "陆总",
+        "emotion": "满意",
+        "duration": 2.44,
+        "description_visual": "全景平拍镜头；地下车库，红色管道；画面左侧人物，身穿黑色衬衫，站在车尾，看着后备箱，表情：眉毛舒展，眼睛向下看，嘴巴微张；画面右侧人物，身穿灰色条纹西装，站在车尾，看着后备箱，表情：眉毛舒展，眼睛向下看，嘴角微扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫",
+                "position": "画面右侧前景",
+                "action": "躲在柱子后偷窥，表情惊讶",
+                "expression": "眉毛微扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "地下车库，橙色柱子",
+        "description_narrative": "中景固定镜头，黑衣女子（换装）躲在橙色柱子后偷窥，惊讶地低语“这么多鲜花”。",
+        "dialogue": "这么多鲜花。",
+        "speaker": "黑衣女子",
+        "emotion": "惊讶",
+        "duration": 3.36,
+        "description_visual": "中景平拍镜头；地下车库，橙色柱子；画面右侧前景人物，身穿米白色系带衬衫，躲在柱子后偷窥，表情惊讶，表情：眉毛微扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面中央",
+                "action": "微笑，看着陆总",
+                "expression": "眉毛舒展，眼睛微弯，嘴角上扬"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，小林微笑，画外音响起“不会”。",
+        "dialogue": "不会。",
+        "speaker": "黑衣女子",
+        "emotion": "微笑",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿灰色条纹西装，微笑，看着陆总，表情：眉毛舒展，眼睛微弯，嘴角上扬。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "低头，表情专注",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴闭合"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，陆总低头，画外音响起“不会。他俩真有问题吧”。",
+        "dialogue": "不会。他俩真有问题吧。",
+        "speaker": "黑衣女子",
+        "emotion": "怀疑",
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿黑色衬衫，低头，表情专注，表情：眉毛微蹙，眼睛向下看，嘴巴闭合。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "整理后备箱",
+                "expression": "眉毛舒展，眼睛向下看"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面右侧",
+                "action": "站在旁边",
+                "expression": "眉毛舒展，嘴角上扬"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "全景固定镜头，小林调侃道“这霸道总裁结了婚就是大变样啊”。",
+        "dialogue": "这霸道总裁结了婚就是大变样啊。",
+        "speaker": "小林",
+        "emotion": "调侃",
+        "duration": 1.52,
+        "description_visual": "全景平拍镜头；地下车库；画面左侧人物，身穿黑色衬衫，整理后备箱，表情：眉毛舒展，眼睛向下看；画面右侧人物，身穿灰色条纹西装，站在旁边，表情：眉毛舒展，嘴角上扬。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫",
+                "position": "画面右侧前景",
+                "action": "躲在柱子后，表情疑惑",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "中景固定镜头，黑衣女子躲在柱子后，画外音响起“就是大变样啊”。",
+        "dialogue": "就是大变样啊。",
+        "speaker": "陆总",
+        "emotion": "疑惑",
+        "duration": 2.24,
+        "description_visual": "中景平拍镜头；地下车库；画面右侧前景人物，身穿米白色系带衬衫，躲在柱子后，表情疑惑，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面中央",
+                "action": "看着陆总，表情轻松",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微扬"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，小林看着陆总，画外音响起“你是不是又闲了”。",
+        "dialogue": "你是不是又闲了。",
+        "speaker": "陆总",
+        "emotion": "轻松",
+        "duration": 3.64,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿灰色条纹西装，看着陆总，表情轻松，表情：眉毛舒展，眼睛注视对方，嘴角微扬。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "看着小林，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视对方，嘴巴微张"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，陆总看着小林，严肃地问“你是不是又闲了”。",
+        "dialogue": "你是不是又闲了。",
+        "speaker": "陆总",
+        "emotion": "严肃",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿黑色衬衫，看着小林，表情严肃，表情：眉毛微蹙，眼睛直视对方，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "伸手轻拍小林头部",
+                "expression": "眉毛舒展，眼睛向下看"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面右侧",
+                "action": "低头",
+                "expression": "眉毛舒展，嘴角微扬"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "全景固定镜头，陆总伸手轻拍小林头部，画外音响起“举止还挺亲密”。",
+        "dialogue": "举止还挺亲密。",
+        "speaker": "黑衣女子",
+        "emotion": "惊讶",
+        "duration": 1.36,
+        "description_visual": "全景平拍镜头；地下车库；画面左侧人物，身穿黑色衬衫，伸手轻拍小林头部，表情：眉毛舒展，眼睛向下看；画面右侧人物，身穿灰色条纹西装，低头，表情：眉毛舒展，嘴角微扬。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫",
+                "position": "画面右侧前景",
+                "action": "躲在柱子后，表情震惊",
+                "expression": "眉毛微扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "中景固定镜头，黑衣女子躲在柱子后，画外音响起“您是打算给夫人什么惊喜啊”。",
+        "dialogue": "您是打算给夫人什么惊喜啊。",
+        "speaker": "小林",
+        "emotion": "震惊",
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；地下车库；画面右侧前景人物，身穿米白色系带衬衫，躲在柱子后，表情震惊，表情：眉毛微扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面中央",
+                "action": "看着陆总，表情询问",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，小林看着陆总，问道“需不需要”。",
+        "dialogue": "需不需要",
+        "speaker": "小林",
+        "emotion": "询问",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿灰色条纹西装，看着陆总，表情询问，表情：眉毛微扬，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "低头，表情专注",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴闭合"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，陆总低头，画外音响起“需不需要我帮忙”。",
+        "dialogue": "需不需要我帮忙。",
+        "speaker": "小林",
+        "emotion": "专注",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿黑色衬衫，低头，表情专注，表情：眉毛微蹙，眼睛向下看，嘴巴闭合。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面中央",
+                "action": "抬头看着陆总",
+                "expression": "眉毛微扬，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，小林抬头看着陆总，画外音响起“我帮忙？”。",
+        "dialogue": "我帮忙？",
+        "speaker": "陆总",
+        "emotion": "疑惑",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿灰色条纹西装，抬头看着陆总，表情：眉毛微扬，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "抬头，表情坚定",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，陆总抬头，坚定地说“我自己来就行”。",
+        "dialogue": "我自己来就行。",
+        "speaker": "陆总",
+        "emotion": "坚定",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿黑色衬衫，抬头，表情坚定，表情：眉毛舒展，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面中央",
+                "action": "看着陆总，表情调侃",
+                "expression": "眉毛微扬，眼睛注视对方，嘴角微扬"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "特写固定镜头，小林调侃道“那我这是又下班了呗”。",
+        "dialogue": "那我这是又下班了呗。",
+        "speaker": "小林",
+        "emotion": "调侃",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；地下车库；画面中央人物，身穿灰色条纹西装，看着陆总，表情调侃，表情：眉毛微扬，眼睛注视对方，嘴角微扬。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆总",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "看着小林，表情严肃",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "灰色条纹西装",
+                "position": "画面右侧",
+                "action": "低头",
+                "expression": "眉毛舒展，嘴角微扬"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "全景固定镜头，陆总看着小林，威胁道“那需不需要我再给你找点事情做呀”。",
+        "dialogue": "那需不需要我再给你找点事情做呀。",
+        "speaker": "陆总",
+        "emotion": "严肃",
+        "duration": 1.32,
+        "description_visual": "全景平拍镜头；地下车库；画面左侧人物，身穿黑色衬衫，看着小林，表情严肃，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面右侧人物，身穿灰色条纹西装，低头，表情：眉毛舒展，嘴角微扬。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "米白色系带衬衫",
+                "position": "画面右侧前景",
+                "action": "躲在柱子后，表情紧张",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "地下车库",
+        "description_narrative": "中景固定镜头，黑衣女子躲在柱子后，画外音响起“不用。谢谢陆总”。",
+        "dialogue": "不用。谢谢陆总。",
+        "speaker": "小林",
+        "emotion": "紧张",
+        "duration": 1.32,
+        "description_visual": "中景平拍镜头；地下车库；画面右侧前景人物，身穿米白色系带衬衫，躲在柱子后，表情紧张，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    }
+]

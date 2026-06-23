@@ -1,0 +1,807 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "门后右侧",
+                "action": "从门后探出头，眼神向屋内张望",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "医院病房门口，木质门框，光线明亮",
+        "description_narrative": "中景固定镜头，女子从病房门后探出头，眼神向屋内张望，表情略带好奇。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.32,
+        "description_visual": "中景平拍镜头；医院病房门口，木质门框，光线明亮；门后右侧人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，从门后探出头，眼神向屋内张望，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，左手缠着绷带，右手拿着书",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生躺在病床上，左手缠着绷带，右手拿着书，转头看向门口方向说话。",
+        "dialogue": "你是探病还是做贼？",
+        "speaker": "温先生",
+        "emotion": "调侃",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，左手缠着绷带，右手拿着书，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面左侧",
+                "action": "双手拿着档案袋和保温杯挡在胸前",
+                "expression": "眉毛舒展，眼睛看向对方，嘴角微扬"
+            }
+        ],
+        "background": "病房内木质衣柜前",
+        "description_narrative": "中景固定镜头，女子站在衣柜前，双手拿着档案袋和保温杯挡在胸前，面带微笑看着温先生。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；病房内木质衣柜前；画面左侧人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着档案袋和保温杯挡在胸前，表情：眉毛舒展，眼睛看向对方，嘴角微扬。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面右侧病床上",
+                "action": "半躺看书",
+                "expression": "表情平静"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面左侧门口",
+                "action": "走进房间",
+                "expression": "表情自然"
+            }
+        ],
+        "background": "医院病房全景，病床，窗帘，输液架",
+        "description_narrative": "全景固定镜头，女子走进病房，温先生半躺在床上看书。",
+        "dialogue": "温先生。",
+        "speaker": "女子",
+        "emotion": "礼貌",
+        "duration": 1.52,
+        "description_visual": "全景平拍镜头；医院病房全景，病床，窗帘，输液架；画面右侧病床上人物，身穿白衬衫配深灰色马甲，半躺看书，表情：表情平静；画面左侧门口人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，走进房间，表情：表情自然。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，左手缠着绷带，右手拿着书",
+                "expression": "眼神看向左侧，表情平静"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生躺在病床上，眼神看向左侧，似乎在听女子说话。",
+        "dialogue": "您的文件。",
+        "speaker": "女子",
+        "emotion": null,
+        "duration": 2.84,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，左手缠着绷带，右手拿着书，表情：眼神看向左侧，表情平静。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "双手拿着档案袋和保温杯，身体微侧",
+                "expression": "眉毛微挑，眼睛看向对方，嘴巴微张说话"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子双手拿着档案袋和保温杯，身体微侧，向温先生说明来意并准备离开。",
+        "dialogue": "我给您放在这了。那，温先生我先走了。",
+        "speaker": "女子",
+        "emotion": "客气",
+        "duration": 4.92,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着档案袋和保温杯，身体微侧，表情：眉毛微挑，眼睛看向对方，嘴巴微张说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，左手缠着绷带，右手拿着书",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生躺在病床上，低头看着手中的杂志，开口询问女子手中的物品。",
+        "dialogue": "你手里的是什么？",
+        "speaker": "温先生",
+        "emotion": "好奇",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，左手缠着绷带，右手拿着书，表情：眉毛微蹙，眼睛看向下方，嘴巴微张说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "双手拿着保温杯，身体微侧",
+                "expression": "眉毛舒展，眼睛看向对方，嘴巴微张说话"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子双手拿着保温杯，向温先生解释这是她煲的汤。",
+        "dialogue": "噢，这个，是我给您煲的汤。",
+        "speaker": "女子",
+        "emotion": "解释",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着保温杯，身体微侧，表情：眉毛舒展，眼睛看向对方，嘴巴微张说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，左手缠着绷带，右手拿着书",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生躺在病床上，转头看向女子，开始说话。",
+        "dialogue": "你学会",
+        "speaker": "温先生",
+        "emotion": "惊讶",
+        "duration": 0.68,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，左手缠着绷带，右手拿着书，表情：眉毛微挑，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "双手拿着保温杯，身体微侧",
+                "expression": "眉毛舒展，眼睛看向对方，嘴角微扬"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子双手拿着保温杯，听着温先生说话。",
+        "dialogue": "煲汤了。",
+        "speaker": "温先生",
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着保温杯，身体微侧，表情：眉毛舒展，眼睛看向对方，嘴角微扬。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，左手缠着绷带，右手拿着书",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生躺在病床上，继续追问女子学煲汤的原因。",
+        "dialogue": "为沈济川学的。",
+        "speaker": "温先生",
+        "emotion": "试探",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，左手缠着绷带，右手拿着书，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "双手拿着保温杯，低头看着杯子",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子双手拿着保温杯，低头看着杯子，解释自己刚学会。",
+        "dialogue": "我今天刚学会的。",
+        "speaker": "女子",
+        "emotion": "羞涩",
+        "duration": 3.48,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着保温杯，低头看着杯子，表情：眉毛微垂，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，左手缠着绷带，右手拿着书",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生躺在病床上，看着女子，询问她是否要把汤给自己。",
+        "dialogue": "不是要给我吗？",
+        "speaker": "温先生",
+        "emotion": "期待",
+        "duration": 2.84,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，左手缠着绷带，右手拿着书，表情：眉毛微挑，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "双手拿着保温杯，看着温先生",
+                "expression": "眉毛舒展，眼睛看向对方，嘴巴微闭"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子双手拿着保温杯，看着温先生，似乎在犹豫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着保温杯，看着温先生，表情：眉毛舒展，眼睛看向对方，嘴巴微闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面左侧",
+                "action": "走向病床",
+                "expression": "表情自然"
+            },
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面右侧病床上",
+                "action": "半躺看书",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "医院病房全景，病床，窗帘",
+        "description_narrative": "全景跟拍镜头，女子拿着保温杯走向病床。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头（跟拍）；医院病房全景，病床，窗帘；画面左侧人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，走向病床，表情：表情自然；画面右侧病床上人物，身穿白衬衫配深灰色马甲，半躺看书，表情：表情平静。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "病床边",
+                "action": "准备倒汤",
+                "expression": "表情专注"
+            },
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "病床上",
+                "action": "半躺看书",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "医院病房全景，病床，窗帘",
+        "description_narrative": "全景固定镜头，女子站在病床边，准备给温先生倒汤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.32,
+        "description_visual": "全景平拍镜头；医院病房全景，病床，窗帘；病床边人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，准备倒汤，表情：表情专注；病床上人物，身穿白衬衫配深灰色马甲，半躺看书，表情：表情平静。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，左手缠着绷带，右手拿着书",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生躺在病床上，看着女子，示意自己手受伤无法自己喝。",
+        "dialogue": "你让我自己喝。",
+        "speaker": "温先生",
+        "emotion": "无奈",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，左手缠着绷带，右手拿着书，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "双手拿着杯子，准备喂汤",
+                "expression": "眉毛舒展，眼睛看向对方，嘴巴微闭"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子双手拿着杯子，准备喂温先生喝汤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着杯子，准备喂汤，表情：眉毛舒展，眼睛看向对方，嘴巴微闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面左侧",
+                "action": "双手拿着杯子喂温先生",
+                "expression": "眉毛微挑，眼睛看向对方，嘴巴微张说话"
+            }
+        ],
+        "background": "病房内，温先生背影",
+        "description_narrative": "过肩固定镜头，女子双手拿着杯子喂温先生，询问这样是否可以。",
+        "dialogue": "这样可以吗？",
+        "speaker": "女子",
+        "emotion": "询问",
+        "duration": 1.32,
+        "description_visual": "过肩平拍镜头；病房内，温先生背影；画面左侧人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着杯子喂温先生，表情：眉毛微挑，眼睛看向对方，嘴巴微张说话。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "闭眼喝汤",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴接触杯口"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生闭眼喝着女子喂的汤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，闭眼喝汤，表情：眉毛舒展，眼睛闭合，嘴巴接触杯口。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "双手拿着杯子，看着温先生",
+                "expression": "眉毛舒展，眼睛看向对方，嘴角微扬"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子双手拿着杯子，看着温先生喝汤，面带微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着杯子，看着温先生，表情：眉毛舒展，眼睛看向对方，嘴角微扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，皱眉",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生喝完后皱眉，表情嫌弃，指责女子恩将仇报。",
+        "dialogue": "你恩将仇报。",
+        "speaker": "温先生",
+        "emotion": "嫌弃",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，皱眉，表情：眉毛紧蹙，眼睛眯起，嘴巴微张说话。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "双手拿着杯子，看着温先生",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张说话"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子双手拿着杯子，惊讶地看着温先生。",
+        "dialogue": "啊",
+        "speaker": "女子",
+        "emotion": "惊讶",
+        "duration": 2.68,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着杯子，看着温先生，表情：眉毛微挑，眼睛睁大，嘴巴微张说话。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，皱眉",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生皱着眉，表情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，皱眉，表情：眉毛紧蹙，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "单手拿着杯子，另一只手摆动",
+                "expression": "眉毛微垂，眼睛看向对方，嘴巴微张说话"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子单手拿着杯子，另一只手摆动，向温先生道歉。",
+        "dialogue": "对不起啊温先生。",
+        "speaker": "女子",
+        "emotion": "歉意",
+        "duration": 2.24,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，单手拿着杯子，另一只手摆动，表情：眉毛微垂，眼睛看向对方，嘴巴微张说话。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，看着女子",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生躺在病床上，看着女子，重复她的称呼。",
+        "dialogue": "又是温先生。",
+        "speaker": "温先生",
+        "emotion": "不悦",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，看着女子，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "双手拿着杯子，看着温先生",
+                "expression": "眉毛舒展，眼睛看向对方，嘴巴微闭"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子双手拿着杯子，听着温先生说话。",
+        "dialogue": "你对沈济川",
+        "speaker": "温先生",
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，双手拿着杯子，看着温先生，表情：眉毛舒展，眼睛看向对方，嘴巴微闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，看着女子",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生躺在病床上，质问女子对沈济川是否也这么客气。",
+        "dialogue": "也这么客气吗？",
+        "speaker": "温先生",
+        "emotion": "质问",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，看着女子，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "看着温先生",
+                "expression": "眉毛微垂，眼睛看向对方，嘴巴微张说话"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "中近景固定镜头，女子看着温先生，宣布自己和沈济川要结婚的消息。",
+        "dialogue": "我和济川就要结婚了。",
+        "speaker": "女子",
+        "emotion": "坚定",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，看着温先生，表情：眉毛微垂，眼睛看向对方，嘴巴微张说话。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，看着女子",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生听到消息后，表情震惊地看着女子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，看着女子，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面右侧",
+                "action": "伸手触摸女子的脸",
+                "expression": "眉毛紧蹙，眼睛看向女子，嘴巴微张说话"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面左侧",
+                "action": "被触摸脸颊",
+                "expression": "表情惊讶"
+            }
+        ],
+        "background": "病房内，女子背影",
+        "description_narrative": "过肩固定镜头，温先生伸手触摸女子的脸，指出沈济川连她身上有没有胎记都不知道。",
+        "dialogue": "他连你身上有没有",
+        "speaker": "温先生",
+        "emotion": "激动",
+        "duration": 1.64,
+        "description_visual": "过肩平拍镜头；病房内，女子背影；画面右侧人物，身穿白衬衫配深灰色马甲，伸手触摸女子的脸，表情：眉毛紧蹙，眼睛看向女子，嘴巴微张说话；画面左侧人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，被触摸脸颊，表情：表情惊讶。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "白衬衫配深灰色马甲",
+                "position": "画面中央",
+                "action": "躺在病床上，看着女子",
+                "expression": "眉毛紧蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房内，白色床单，蓝色床头板",
+        "description_narrative": "近景固定镜头，温先生继续质问，说沈济川连胎记都不知道，配不上她。",
+        "dialogue": "胎记都不知道。他配吗？",
+        "speaker": "温先生",
+        "emotion": "愤怒",
+        "duration": 1.92,
+        "description_visual": "近景平拍镜头；医院病房内，白色床单，蓝色床头板；画面中央人物，身穿白衬衫配深灰色马甲，躺在病床上，看着女子，表情：眉毛紧蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色露肩上衣搭配白色荷叶边和白色长裙",
+                "position": "画面中央",
+                "action": "被触摸脸颊，看着温先生",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张说话"
+            }
+        ],
+        "background": "病房内，背景模糊",
+        "description_narrative": "特写固定镜头，女子被温先生触摸脸颊，震惊地发现他知道自己的胎记。",
+        "dialogue": "你知道我有胎记。",
+        "speaker": "女子",
+        "emotion": "震惊",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；病房内，背景模糊；画面中央人物，身穿黑色露肩上衣搭配白色荷叶边和白色长裙，被触摸脸颊，看着温先生，表情：眉毛微挑，眼睛睁大，嘴巴微张说话。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "远景固定镜头，画面渐白，结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "远景平拍镜头；白色屏幕。"
+    }
+]

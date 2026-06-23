@@ -1,0 +1,869 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面左侧",
+                "action": "被王爷拥抱，头靠在王爷胸前",
+                "expression": "眉眼低垂，神情温婉"
+            },
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色古装",
+                "position": "画面右侧",
+                "action": "拥抱王妃，低头注视",
+                "expression": "目光柔和，嘴角微抿"
+            }
+        ],
+        "background": "室内场景，木质家具，光线柔和，色调偏暖",
+        "description_narrative": "全景固定镜头，王妃身穿紫色古装被王爷拥抱，头靠在王爷胸前，神情温婉；王爷身穿蓝紫色古装低头注视，背景为室内木质家具，光线柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "全景平拍镜头；室内场景，木质家具，光线柔和，色调偏暖；画面左侧人物，身穿紫色古装，被王爷拥抱，头靠在王爷胸前，表情：眉眼低垂，神情温婉；画面右侧人物，身穿蓝紫色古装，拥抱王妃，低头注视，表情：目光柔和，嘴角微抿。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "金橙色古装",
+                "position": "画面中央",
+                "action": "头部微转，嘴唇微张",
+                "expression": "眉毛微蹙，眼神震惊，嘴巴微张露齿"
+            }
+        ],
+        "background": "室内暗调背景，木质雕花屏风",
+        "description_narrative": "特写固定镜头，安宁郡主身穿金橙色古装，头部微转，眉毛微蹙，眼神震惊，嘴巴微张露齿，背景为室内暗调木质雕花屏风。",
+        "dialogue": "王爷竟然真的去了王妃那。",
+        "speaker": "安宁郡主",
+        "emotion": "震惊/嫉妒",
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；室内暗调背景，木质雕花屏风；画面中央人物，身穿金橙色古装，头部微转，嘴唇微张，表情：眉毛微蹙，眼神震惊，嘴巴微张露齿。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "欢欢",
+                "gender": "女",
+                "clothing": "蓝色侍女服",
+                "position": "画面中央",
+                "action": "双手交叠在腹前，身体微倾",
+                "expression": "眉毛紧锁，眼神焦急，嘴巴微张"
+            }
+        ],
+        "background": "室内窗边，木质窗格，光线明亮",
+        "description_narrative": "中景固定镜头，欢欢身穿蓝色侍女服，双手交叠在腹前，身体微倾，眉毛紧锁，眼神焦急，嘴巴微张，背景为室内窗边木质窗格。",
+        "dialogue": "欢欢亲眼所见",
+        "speaker": "欢欢",
+        "emotion": "焦急/确认",
+        "duration": 1.16,
+        "description_visual": "中景平拍镜头；室内窗边，木质窗格，光线明亮；画面中央人物，身穿蓝色侍女服，双手交叠在腹前，身体微倾，表情：眉毛紧锁，眼神焦急，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "欢欢",
+                "gender": "女",
+                "clothing": "蓝色侍女服",
+                "position": "画面中央",
+                "action": "头部微侧，嘴唇撅起",
+                "expression": "眉毛上扬，眼神急切，嘴巴撅起"
+            }
+        ],
+        "background": "室内模糊背景，木质结构",
+        "description_narrative": "特写固定镜头，欢欢身穿蓝色侍女服，头部微侧，眉毛上扬，眼神急切，嘴巴撅起，背景为室内模糊木质结构。",
+        "dialogue": "我还听王爷说",
+        "speaker": "欢欢",
+        "emotion": "急切/补充",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；室内模糊背景，木质结构；画面中央人物，身穿蓝色侍女服，头部微侧，嘴唇撅起，表情：眉毛上扬，眼神急切，嘴巴撅起。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "欢欢",
+                "gender": "女",
+                "clothing": "蓝色侍女服",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼神担忧，嘴巴微张"
+            }
+        ],
+        "background": "室内模糊背景，光线柔和",
+        "description_narrative": "特写固定镜头，欢欢身穿蓝色侍女服，头部微低，眉毛微蹙，眼神担忧，嘴巴微张，背景为室内模糊光线柔和。",
+        "dialogue": "明天要进宫见王妃呢",
+        "speaker": "欢欢",
+        "emotion": "担忧/告知",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；室内模糊背景，光线柔和；画面中央人物，身穿蓝色侍女服，头部微低，眼神向下，表情：眉毛微蹙，眼神担忧，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "金橙色古装",
+                "position": "画面中央",
+                "action": "头部低垂，眼神向下",
+                "expression": "眉毛紧锁，眼神阴沉，嘴唇紧闭"
+            }
+        ],
+        "background": "室内暗调背景，木质雕花",
+        "description_narrative": "特写固定镜头，安宁郡主身穿金橙色古装，头部低垂，眉毛紧锁，眼神阴沉，嘴唇紧闭，背景为室内暗调木质雕花。",
+        "dialogue": "明天要进宫见王妃呢",
+        "speaker": "安宁郡主",
+        "emotion": "阴沉/思考",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；室内暗调背景，木质雕花；画面中央人物，身穿金橙色古装，头部低垂，眼神向下，表情：眉毛紧锁，眼神阴沉，嘴唇紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "金橙色古装",
+                "position": "画面中央",
+                "action": "头部微抬，眼神直视前方",
+                "expression": "眉毛微挑，眼神锐利，嘴唇微张"
+            }
+        ],
+        "background": "室内暗调背景，木质结构",
+        "description_narrative": "特写固定镜头，安宁郡主身穿金橙色古装，头部微抬，眉毛微挑，眼神锐利，嘴唇微张，背景为室内暗调木质结构。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "决意/狠厉",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；室内暗调背景，木质结构；画面中央人物，身穿金橙色古装，头部微抬，眼神直视前方，表情：眉毛微挑，眼神锐利，嘴唇微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "蓝色衣袖",
+                "position": "背景",
+                "action": "手部动作模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质桌面，白色茶杯，光线自然",
+        "description_narrative": "特写固定镜头，俯拍木质桌面上白色茶杯，背景可见蓝色衣袖模糊动作，光线自然。",
+        "dialogue": "为什么？",
+        "speaker": "安宁郡主(画外音)",
+        "emotion": "疑惑/不甘",
+        "duration": 1.08,
+        "description_visual": "特写俯拍镜头；木质桌面，白色茶杯，光线自然；背景人物，身穿蓝色衣袖，手部动作模糊，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "欢欢",
+                "gender": "女",
+                "clothing": "蓝色侍女服",
+                "position": "画面中央",
+                "action": "身体晃动，头部快速移动",
+                "expression": "表情模糊，神情惊慌"
+            }
+        ],
+        "background": "室内模糊背景，光线昏暗",
+        "description_narrative": "特写摇镜镜头，欢欢身穿蓝色侍女服，身体晃动，头部快速移动，表情模糊神情惊慌，背景为室内模糊光线昏暗。",
+        "dialogue": "郡主恕罪",
+        "speaker": "欢欢",
+        "emotion": "惊慌/求饶",
+        "duration": 3.64,
+        "description_visual": "特写平拍镜头（摇镜）；室内模糊背景，光线昏暗；画面中央人物，身穿蓝色侍女服，身体晃动，头部快速移动，表情：表情模糊，神情惊慌。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "金橙色古装",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼神阴冷，嘴唇微张"
+            }
+        ],
+        "background": "室内暗调背景，木质结构",
+        "description_narrative": "特写固定镜头，安宁郡主身穿金橙色古装，头部微低，眉毛微蹙，眼神阴冷，嘴唇微张，背景为室内暗调木质结构。",
+        "dialogue": "王爷竟然如此想念王妃",
+        "speaker": "安宁郡主",
+        "emotion": "嫉妒/阴狠",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；室内暗调背景，木质结构；画面中央人物，身穿金橙色古装，头部微低，眼神向下，表情：眉毛微蹙，眼神阴冷，嘴唇微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "金橙色古装",
+                "position": "画面中央",
+                "action": "头部微抬，眼神直视",
+                "expression": "眉毛紧锁，眼神狠厉，嘴唇微张"
+            }
+        ],
+        "background": "室内暗调背景，光线柔和",
+        "description_narrative": "特写固定镜头，安宁郡主身穿金橙色古装，头部微抬，眉毛紧锁，眼神狠厉，嘴唇微张，背景为室内暗调光线柔和。",
+        "dialogue": "既然王爷你如此痴情",
+        "speaker": "安宁郡主",
+        "emotion": "决绝/阴险",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；室内暗调背景，光线柔和；画面中央人物，身穿金橙色古装，头部微抬，眼神直视，表情：眉毛紧锁，眼神狠厉，嘴唇微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "金橙色古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神坚定",
+                "expression": "眉毛微挑，眼神冰冷，嘴唇紧闭"
+            }
+        ],
+        "background": "室内暗调背景，木质结构",
+        "description_narrative": "特写固定镜头，安宁郡主身穿金橙色古装，头部微侧，眉毛微挑，眼神冰冷，嘴唇紧闭，背景为室内暗调木质结构。",
+        "dialogue": "就别怪安宁心狠了",
+        "speaker": "安宁郡主",
+        "emotion": "狠毒/决心",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；室内暗调背景，木质结构；画面中央人物，身穿金橙色古装，头部微侧，眼神坚定，表情：眉毛微挑，眼神冰冷，嘴唇紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉白色侍女服",
+                "position": "画面中央",
+                "action": "头部低垂，眼神向下",
+                "expression": "眉毛微蹙，眼神自责，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，明月身穿粉白色侍女服，头部低垂，眉毛微蹙，眼神自责，嘴唇微张，背景为室内光线柔和。",
+        "dialogue": "都怪明月不识字，不然可以帮帮小姐的",
+        "speaker": "明月",
+        "emotion": "自责/担忧",
+        "duration": 4.24,
+        "description_visual": "特写平拍镜头；室内背景，光线柔和；画面中央人物，身穿粉白色侍女服，头部低垂，眼神向下，表情：眉毛微蹙，眼神自责，嘴唇微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向明月",
+                "expression": "眉毛舒展，眼神温柔，嘴角微扬"
+            }
+        ],
+        "background": "室内背景，书架模糊",
+        "description_narrative": "特写固定镜头，王妃身穿紫色古装，头部微侧，眉毛舒展，眼神温柔，嘴角微扬，看向明月，背景为室内书架模糊。",
+        "dialogue": "你这个小傻子，我们的字迹不一样，你识字也帮不了我呀",
+        "speaker": "王妃",
+        "emotion": "宽慰/宠溺",
+        "duration": 4.04,
+        "description_visual": "特写平拍镜头；室内背景，书架模糊；画面中央人物，身穿紫色古装，头部微侧，眼神看向明月，表情：眉毛舒展，眼神温柔，嘴角微扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉白色侍女服",
+                "position": "画面中央",
+                "action": "头部微抬，眼神看向王妃",
+                "expression": "眉毛微蹙，眼神担忧，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线自然",
+        "description_narrative": "特写固定镜头，明月身穿粉白色侍女服，头部微抬，眉毛微蹙，眼神担忧，嘴巴微张，看向王妃，背景为室内光线自然。",
+        "dialogue": "太后也真是的，都让小姐抄了这么多天了",
+        "speaker": "明月",
+        "emotion": "不满/抱怨",
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；室内背景，光线自然；画面中央人物，身穿粉白色侍女服，头部微抬，眼神看向王妃，表情：眉毛微蹙，眼神担忧，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "手部动作，眼神警惕",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇微张"
+            }
+        ],
+        "background": "室内书房，书架，光线柔和",
+        "description_narrative": "中近景固定镜头，王妃身穿紫色古装，手部动作，眉毛微蹙，眼神锐利，嘴唇微张，背景为室内书房书架光线柔和。",
+        "dialogue": "我看太后是有心偏袒郡主",
+        "speaker": "王妃",
+        "emotion": "警惕/分析",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；室内书房，书架，光线柔和；画面中央人物，身穿紫色古装，手部动作，眼神警惕，表情：眉毛微蹙，眼神锐利，嘴唇微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "手指竖在唇边，眼神警示",
+                "expression": "眉毛紧锁，眼神严肃，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，书架模糊",
+        "description_narrative": "特写固定镜头，王妃身穿紫色古装，手指竖在唇边，眉毛紧锁，眼神严肃，嘴唇微张，背景为室内书架模糊。",
+        "dialogue": "嘘",
+        "speaker": "王妃",
+        "emotion": "警示/小心",
+        "duration": 2.16,
+        "description_visual": "特写平拍镜头；室内背景，书架模糊；画面中央人物，身穿紫色古装，手指竖在唇边，眼神警示，表情：眉毛紧锁，眼神严肃，嘴唇微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "身体前倾，眼神环顾",
+                "expression": "眉毛微蹙，眼神警惕，嘴唇微张"
+            }
+        ],
+        "background": "室内书房，桌子，纸张",
+        "description_narrative": "中近景固定镜头，王妃身穿紫色古装，身体前倾，眉毛微蹙，眼神警惕，嘴唇微张，背景为室内书房桌子纸张。",
+        "dialogue": "这是皇宫，小心隔墙有耳",
+        "speaker": "王妃",
+        "emotion": "谨慎/提醒",
+        "duration": 2.16,
+        "description_visual": "中近景平拍镜头；室内书房，桌子，纸张；画面中央人物，身穿紫色古装，身体前倾，眼神环顾，表情：眉毛微蹙，眼神警惕，嘴唇微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉白色侍女服",
+                "position": "画面中央",
+                "action": "头部微转，眼神惊恐",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线自然",
+        "description_narrative": "特写固定镜头，明月身穿粉白色侍女服，头部微转，眉毛上扬，眼睛睁大，嘴巴微张，背景为室内光线自然。",
+        "dialogue": "不会真有人吧",
+        "speaker": "明月",
+        "emotion": "惊恐/害怕",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；室内背景，光线自然；画面中央人物，身穿粉白色侍女服，头部微转，眼神惊恐，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉白色侍女服",
+                "position": "画面中央",
+                "action": "头部微低，眼神求助",
+                "expression": "眉毛微蹙，眼神焦急，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，明月身穿粉白色侍女服，头部微低，眉毛微蹙，眼神焦急，嘴唇微张，背景为室内光线柔和。",
+        "dialogue": "小姐怎么办？",
+        "speaker": "明月",
+        "emotion": "焦急/无助",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；室内背景，光线柔和；画面中央人物，身穿粉白色侍女服，头部微低，眼神求助，表情：眉毛微蹙，眼神焦急，嘴唇微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "头部微抬，眼神惊讶",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线自然",
+        "description_narrative": "特写固定镜头，王妃身穿紫色古装，头部微抬，眉毛微挑，眼睛睁大，嘴巴微张，背景为室内光线自然。",
+        "dialogue": "王爷你怎么来了",
+        "speaker": "王妃",
+        "emotion": "惊讶/关切",
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；室内背景，光线自然；画面中央人物，身穿紫色古装，头部微抬，眼神惊讶，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神深情",
+                "expression": "眉毛舒展，眼神温柔，嘴唇微抿"
+            }
+        ],
+        "background": "室内窗边，木质窗格",
+        "description_narrative": "中近景固定镜头，王爷身穿蓝紫色古装，头部微侧，眉毛舒展，眼神温柔，嘴唇微抿，背景为室内窗边木质窗格。",
+        "dialogue": "太后不是不让你来见我吗？",
+        "speaker": "王妃(画外音)",
+        "emotion": "关切/疑惑",
+        "duration": 1.04,
+        "description_visual": "中近景平拍镜头；室内窗边，木质窗格；画面中央人物，身穿蓝紫色古装，头部微侧，眼神深情，表情：眉毛舒展，眼神温柔，嘴唇微抿。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色古装",
+                "position": "画面中央",
+                "action": "头部微低，眼神坚定",
+                "expression": "眉毛微蹙，眼神深情，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，王爷身穿蓝紫色古装，头部微低，眉毛微蹙，眼神深情，嘴唇微张，背景为室内光线柔和。",
+        "dialogue": "本王偷偷来的",
+        "speaker": "王爷",
+        "emotion": "坚定/深情",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；室内背景，光线柔和；画面中央人物，身穿蓝紫色古装，头部微低，眼神坚定，表情：眉毛微蹙，眼神深情，嘴唇微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉白色侍女服",
+                "position": "画面中央",
+                "action": "头部微侧，眼神惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线自然",
+        "description_narrative": "特写固定镜头，明月身穿粉白色侍女服，头部微侧，眉毛上扬，眼睛睁大，嘴巴微张，背景为室内光线自然。",
+        "dialogue": "奴婢去门口守着",
+        "speaker": "明月",
+        "emotion": "机灵/懂事",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；室内背景，光线自然；画面中央人物，身穿粉白色侍女服，头部微侧，眼神惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉白色侍女服",
+                "position": "画面左侧",
+                "action": "身体微倾，准备离开",
+                "expression": "眉毛微蹙，眼神关切"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面右侧",
+                "action": "坐姿端正，眼神看向王爷",
+                "expression": "眉毛舒展，眼神温柔"
+            }
+        ],
+        "background": "室内书房，桌子，书架",
+        "description_narrative": "中景固定镜头，明月身穿粉白色侍女服在画面左侧身体微倾准备离开，王妃身穿紫色古装在画面右侧坐姿端正，背景为室内书房桌子书架。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；室内书房，桌子，书架；画面左侧人物，身穿粉白色侍女服，身体微倾，准备离开，表情：眉毛微蹙，眼神关切；画面右侧人物，身穿紫色古装，坐姿端正，眼神看向王爷，表情：眉毛舒展，眼神温柔。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色古装",
+                "position": "画面中央",
+                "action": "侧身站立，眼神注视王妃",
+                "expression": "眉毛微蹙，眼神关切，嘴唇微抿"
+            }
+        ],
+        "background": "室内背景，木质屏风",
+        "description_narrative": "中近景固定镜头，王爷身穿蓝紫色古装，侧身站立，眉毛微蹙，眼神关切，嘴唇微抿，背景为室内木质屏风。",
+        "dialogue": "这几日你吃苦了",
+        "speaker": "王爷",
+        "emotion": "愧疚/关切",
+        "duration": 3.52,
+        "description_visual": "中近景平拍镜头；室内背景，木质屏风；画面中央人物，身穿蓝紫色古装，侧身站立，眼神注视王妃，表情：眉毛微蹙，眼神关切，嘴唇微抿。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "站立，双手交叠",
+                "expression": "眉毛舒展，眼神温柔，嘴角微扬"
+            }
+        ],
+        "background": "室内书房，桌子，笔筒",
+        "description_narrative": "中景固定镜头，王妃身穿紫色古装，站立双手交叠，眉毛舒展，眼神温柔，嘴角微扬，背景为室内书房桌子笔筒。",
+        "dialogue": "太后没有打我也没有骂我，只是让我写几个字罢了",
+        "speaker": "王妃",
+        "emotion": "宽慰/掩饰",
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；室内书房，桌子，笔筒；画面中央人物，身穿紫色古装，站立，双手交叠，表情：眉毛舒展，眼神温柔，嘴角微扬。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色古装",
+                "position": "画面中央",
+                "action": "头部微低，眼神愧疚",
+                "expression": "眉毛紧锁，眼神难过，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，王爷身穿蓝紫色古装，头部微低，眉毛紧锁，眼神难过，嘴唇微张，背景为室内光线柔和。",
+        "dialogue": "本王已经知道罚抄之事了",
+        "speaker": "王爷",
+        "emotion": "愧疚/心疼",
+        "duration": 2.28,
+        "description_visual": "特写平拍镜头；室内背景，光线柔和；画面中央人物，身穿蓝紫色古装，头部微低，眼神愧疚，表情：眉毛紧锁，眼神难过，嘴唇微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神坚定",
+                "expression": "眉毛微蹙，眼神真诚，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，木质结构",
+        "description_narrative": "特写固定镜头，王妃身穿紫色古装，头部微侧，眉毛微蹙，眼神真诚，嘴唇微张，背景为室内木质结构。",
+        "dialogue": "我在这里好吃好喝的，好着呢",
+        "speaker": "王妃",
+        "emotion": "宽慰/乐观",
+        "duration": 2.68,
+        "description_visual": "特写平拍镜头；室内背景，木质结构；画面中央人物，身穿紫色古装，头部微侧，眼神坚定，表情：眉毛微蹙，眼神真诚，嘴唇微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色古装",
+                "position": "画面中央",
+                "action": "头部微抬，眼神注视",
+                "expression": "眉毛微蹙，眼神深情，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，光线自然",
+        "description_narrative": "特写固定镜头，王爷身穿蓝紫色古装，头部微抬，眉毛微蹙，眼神深情，嘴唇微张，背景为室内光线自然。",
+        "dialogue": "我已经知道了，太后责罚你的事了",
+        "speaker": "王爷",
+        "emotion": "心疼/坚定",
+        "duration": 5.28,
+        "description_visual": "特写平拍镜头；室内背景，光线自然；画面中央人物，身穿蓝紫色古装，头部微抬，眼神注视，表情：眉毛微蹙，眼神深情，嘴唇微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛舒展，眼神温柔，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，木质结构",
+        "description_narrative": "特写固定镜头，王妃身穿紫色古装，头部微低，眉毛舒展，眼神温柔，嘴唇微张，背景为室内木质结构。",
+        "dialogue": "太后既没打我也没骂我，只是让我写几个字罢了，王爷莫要担心",
+        "speaker": "王妃",
+        "emotion": "宽慰/体贴",
+        "duration": 2.64,
+        "description_visual": "特写平拍镜头；室内背景，木质结构；画面中央人物，身穿紫色古装，头部微低，眼神向下，表情：眉毛舒展，眼神温柔，嘴唇微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神坚定",
+                "expression": "眉毛微蹙，眼神决心，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，王爷身穿蓝紫色古装，头部微侧，眉毛微蹙，眼神决心，嘴唇微张，背景为室内光线柔和。",
+        "dialogue": "本王现在就去求太后免去你的责罚",
+        "speaker": "王爷",
+        "emotion": "决心/保护",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；室内背景，光线柔和；画面中央人物，身穿蓝紫色古装，头部微侧，眼神坚定，表情：眉毛微蹙，眼神决心，嘴唇微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "头部微抬，眼神感动",
+                "expression": "眉毛舒展，眼神含泪，嘴角微扬"
+            }
+        ],
+        "background": "室内背景，木质结构",
+        "description_narrative": "特写固定镜头，王妃身穿紫色古装，头部微抬，眉毛舒展，眼神含泪，嘴角微扬，背景为室内木质结构。",
+        "dialogue": "你再耐心等几日",
+        "speaker": "王爷(画外音)",
+        "emotion": "安抚/承诺",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；室内背景，木质结构；画面中央人物，身穿紫色古装，头部微抬，眼神感动，表情：眉毛舒展，眼神含泪，嘴角微扬。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色古装",
+                "position": "画面中央",
+                "action": "头部微低，眼神深情",
+                "expression": "眉毛舒展，眼神温柔，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，光线自然",
+        "description_narrative": "特写固定镜头，王爷身穿蓝紫色古装，头部微低，眉毛舒展，眼神温柔，嘴唇微张，背景为室内光线自然。",
+        "dialogue": "本王过几天",
+        "speaker": "王爷",
+        "emotion": "深情/承诺",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；室内背景，光线自然；画面中央人物，身穿蓝紫色古装，头部微低，眼神深情，表情：眉毛舒展，眼神温柔，嘴唇微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "头部微低，眼神感动",
+                "expression": "眉毛舒展，眼神含泪，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，木质结构",
+        "description_narrative": "特写固定镜头，王妃身穿紫色古装，头部微低，眉毛舒展，眼神含泪，嘴唇微张，背景为室内木质结构。",
+        "dialogue": "就接你回家",
+        "speaker": "王爷(画外音)",
+        "emotion": "感动/期待",
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头；室内背景，木质结构；画面中央人物，身穿紫色古装，头部微低，眼神感动，表情：眉毛舒展，眼神含泪，嘴唇微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神注视",
+                "expression": "眉毛舒展，眼神温柔，嘴唇微抿"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，王爷身穿蓝紫色古装，头部微侧，眉毛舒展，眼神温柔，嘴唇微抿，背景为室内光线柔和。",
+        "dialogue": "嗯",
+        "speaker": "王妃(画外音)",
+        "emotion": "答应/安心",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；室内背景，光线柔和；画面中央人物，身穿蓝紫色古装，头部微侧，眼神注视，表情：眉毛舒展，眼神温柔，嘴唇微抿。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面中央",
+                "action": "头部低垂，眼神向下",
+                "expression": "眉毛微蹙，眼神复杂，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景，光线自然",
+        "description_narrative": "特写固定镜头，王妃身穿紫色古装，头部低垂，眉毛微蹙，眼神复杂，嘴唇紧闭，背景为室内光线自然。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂/思考",
+        "duration": 2.88,
+        "description_visual": "特写平拍镜头；室内背景，光线自然；画面中央人物，身穿紫色古装，头部低垂，眼神向下，表情：眉毛微蹙，眼神复杂，嘴唇紧闭。"
+    }
+]

@@ -1,0 +1,1235 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍，头戴金冠",
+                "position": "画面中央",
+                "action": "站立，双手交叠于身前，神情严肃",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面左后景",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微闭"
+            },
+            {
+                "name": "将军",
+                "gender": "男",
+                "clothing": "金色铠甲，红缨头盔",
+                "position": "画面右后景",
+                "action": "站立",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "古代庭院，灰色砖瓦建筑，光线自然",
+        "description_narrative": "中景固定镜头，太子身穿白色金纹长袍站在庭院中央，神情严肃，身后站着白衣女子和将军，画面上有标题文字覆盖。",
+        "dialogue": "投降？本宫要投降，不是中了你这个卖国求荣的老狐狸的奸计。",
+        "speaker": "太子",
+        "emotion": "严肃",
+        "duration": 6.76,
+        "description_visual": "中景平拍镜头；古代庭院，灰色砖瓦建筑，光线自然；画面中央人物，身穿白色金纹长袍，头戴金冠，站立，双手交叠于身前，神情严肃，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；画面左后景人物，身穿白色长裙，站立，表情：眉毛舒展，眼睛视线下移，嘴巴微闭；画面右后景人物，身穿金色铠甲，红缨头盔，站立，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍，头戴乌纱帽",
+                "position": "画面中央",
+                "action": "站立，手抚胸口，抬头向上看",
+                "expression": "眉毛上扬，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "古代建筑门前，光线柔和",
+        "description_narrative": "中近景固定镜头，老官员身穿紫色官袍，手抚胸口，抬头向上看，脸上带着不屑的神情。",
+        "dialogue": "哼。",
+        "speaker": "老官员",
+        "emotion": "不屑",
+        "duration": 0.84,
+        "description_visual": "中近景平拍镜头；古代建筑门前，光线柔和；画面中央人物，身穿紫色官袍，头戴乌纱帽，站立，手抚胸口，抬头向上看，表情：眉毛上扬，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍，头戴金冠",
+                "position": "画面中央",
+                "action": "站立，双手交叠，目光坚定",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "古代庭院，背景虚化",
+        "description_narrative": "中近景固定镜头，太子站在庭院中，目光坚定，下令准备绳索木棍。",
+        "dialogue": "来人，给本宫准备绳索木棍，我要做杠杆。",
+        "speaker": "太子",
+        "emotion": "自信",
+        "duration": 5.64,
+        "description_visual": "中近景平拍镜头；古代庭院，背景虚化；画面中央人物，身穿白色金纹长袍，头戴金冠，站立，双手交叠，目光坚定，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央偏右",
+                "action": "站立，看向面前的木制杠杆装置",
+                "expression": "眉毛舒展，眼睛注视装置，嘴巴微张"
+            },
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面左侧",
+                "action": "站立，看着杠杆",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            },
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛平展，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "庭院中摆放着木制杠杆和千斤鼎，背景是养心殿",
+        "description_narrative": "全景固定镜头，庭院中摆放着简易的木制杠杆装置和千斤鼎，众人围观，太子站在装置旁。",
+        "dialogue": "我要做杠杆",
+        "speaker": "太子",
+        "emotion": "自信",
+        "duration": 2.48,
+        "description_visual": "全景平拍镜头；庭院中摆放着木制杠杆和千斤鼎，背景是养心殿；画面中央偏右人物，身穿白色金纹长袍，站立，看向面前的木制杠杆装置，表情：眉毛舒展，眼睛注视装置，嘴巴微张；画面左侧人物，身穿紫色官袍，站立，看着杠杆，表情：眉毛微蹙，眼睛注视，嘴巴紧闭；画面左侧人物，身穿红褐色花纹长袍，站立，表情：眉毛平展，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍，头戴乌纱帽",
+                "position": "画面中央",
+                "action": "大笑，手抚胡须",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴张开大笑"
+            }
+        ],
+        "background": "古代建筑门前",
+        "description_narrative": "中近景固定镜头，老官员抚须大笑，显得十分轻蔑。",
+        "dialogue": "哈哈哈。",
+        "speaker": "老官员",
+        "emotion": "嘲笑",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；古代建筑门前；画面中央人物，身穿紫色官袍，头戴乌纱帽，大笑，手抚胡须，表情：眉毛舒展，眼睛眯起，嘴巴张开大笑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍，头戴乌纱帽",
+                "position": "画面中央",
+                "action": "伸手指向前方，表情质疑",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴张开说话"
+            }
+        ],
+        "background": "古代建筑门前",
+        "description_narrative": "中近景固定镜头，老官员伸手指着前方，质疑地询问是否凭这几个破木头。",
+        "dialogue": "就是凭这几个？",
+        "speaker": "老官员",
+        "emotion": "质疑",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；古代建筑门前；画面中央人物，身穿紫色官袍，头戴乌纱帽，伸手指向前方，表情质疑，表情：眉毛微蹙，眼睛直视，嘴巴张开说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍，头戴乌纱帽",
+                "position": "画面中央",
+                "action": "手指前方，语气加重",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "古代建筑门前",
+        "description_narrative": "中近景固定镜头，老官员继续指着前方，强调那是几个破木头。",
+        "dialogue": "就是凭这几个破木头",
+        "speaker": "老官员",
+        "emotion": "轻蔑",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；古代建筑门前；画面中央人物，身穿紫色官袍，头戴乌纱帽，手指前方，语气加重，表情：眉毛上扬，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍，头戴乌纱帽",
+                "position": "画面中央",
+                "action": "手指前方，说完话",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "古代建筑门前",
+        "description_narrative": "中近景固定镜头，老官员说完“破木头”后，手依然指着前方。",
+        "dialogue": "破木头。",
+        "speaker": "老官员",
+        "emotion": "轻蔑",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；古代建筑门前；画面中央人物，身穿紫色官袍，头戴乌纱帽，手指前方，说完话，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍，头戴乌纱帽",
+                "position": "画面中央",
+                "action": "抬手向上指，挑战太子",
+                "expression": "眉毛上扬，眼睛向上看，嘴巴张开"
+            }
+        ],
+        "background": "古代建筑屋檐下",
+        "description_narrative": "中近景仰拍镜头，老官员抬手向上指着千斤鼎，挑战太子能否举起。",
+        "dialogue": "你能举起这千斤鼎",
+        "speaker": "老官员",
+        "emotion": "挑战",
+        "duration": 1.12,
+        "description_visual": "中近景仰拍镜头；古代建筑屋檐下；画面中央人物，身穿紫色官袍，头戴乌纱帽，抬手向上指，挑战太子，表情：眉毛上扬，眼睛向上看，嘴巴张开。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍，头戴金冠",
+                "position": "画面中央",
+                "action": "侧头看向一旁，神情自信",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "古代庭院，背景虚化",
+        "description_narrative": "中近景固定镜头，太子侧头看向一旁，自信地表示要让对方见识一下。",
+        "dialogue": "今天就让你见识下",
+        "speaker": "太子",
+        "emotion": "自信",
+        "duration": 5.4,
+        "description_visual": "中近景平拍镜头；古代庭院，背景虚化；画面中央人物，身穿白色金纹长袍，头戴金冠，侧头看向一旁，神情自信，表情：眉毛微挑，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍，头戴金冠",
+                "position": "画面中央",
+                "action": "转头看向镜头，嘴巴张大说话",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张大"
+            }
+        ],
+        "background": "古代庭院，背景虚化",
+        "description_narrative": "特写推进镜头，太子转头面向前方，张大嘴巴解释阿基米德杠杆原理。",
+        "dialogue": "什么叫做阿基米德杠杆原理",
+        "speaker": "太子",
+        "emotion": "激昂",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头（推进）；古代庭院，背景虚化；画面中央人物，身穿白色金纹长袍，头戴金冠，转头看向镜头，嘴巴张大说话，表情：眉毛上扬，眼睛睁大，嘴巴张大。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "大步走向杠杆装置",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面左侧",
+                "action": "站立观看",
+                "expression": "眉毛平展，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "庭院石阶前，众人围观",
+        "description_narrative": "中景跟拍镜头，太子大步走向杠杆装置，让众人睁大眼睛看着。",
+        "dialogue": "睁大你的狗眼，给本宫看着点。",
+        "speaker": "太子",
+        "emotion": "霸气",
+        "duration": 4.24,
+        "description_visual": "中景平拍镜头（跟拍）；庭院石阶前，众人围观；画面中央人物，身穿白色金纹长袍，大步走向杠杆装置，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面左侧人物，身穿红褐色花纹长袍，站立观看，表情：眉毛平展，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面外",
+                "action": "无",
+                "expression": "无"
+            }
+        ],
+        "background": "千斤鼎被绳索捆绑在杠杆上",
+        "description_narrative": "特写固定镜头，聚焦于被绳索紧紧捆绑在木制杠杆上的千斤鼎，细节清晰。",
+        "dialogue": "都给本宫看好了。",
+        "speaker": "太子",
+        "emotion": "自信",
+        "duration": 4.68,
+        "description_visual": "特写平拍镜头；千斤鼎被绳索捆绑在杠杆上；画面外人物，身穿未知，无，表情：无。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "双手高举握住杠杆横木",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张用力"
+            }
+        ],
+        "background": "绿色植物背景，杠杆横木在头顶",
+        "description_narrative": "中近景仰拍镜头，太子双手高举握住杠杆横木，准备发力。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "用力",
+        "duration": 3.48,
+        "description_visual": "中近景仰拍镜头；绿色植物背景，杠杆横木在头顶；画面中央人物，身穿白色金纹长袍，双手高举握住杠杆横木，表情：眉毛微蹙，眼睛注视前方，嘴巴微张用力。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "将军",
+                "gender": "男",
+                "clothing": "金色铠甲",
+                "position": "画面背景",
+                "action": "站立观看",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "养心殿前，杠杆正在抬起千斤鼎",
+        "description_narrative": "中景固定镜头，杠杆装置正在缓缓抬起千斤鼎，将军在背景中观看。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头；养心殿前，杠杆正在抬起千斤鼎；画面背景人物，身穿金色铠甲，站立观看，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面左侧",
+                "action": "站立观看",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "千斤鼎被完全吊起，离开地面",
+        "description_narrative": "中景固定镜头，千斤鼎被杠杆完全吊起，悬在半空，老官员在旁震惊观看。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；千斤鼎被完全吊起，离开地面；画面左侧人物，身穿紫色官袍，站立观看，表情：眉毛上扬，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面左侧",
+                "action": "站立观看",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            },
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面中央",
+                "action": "站立观看",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "千斤鼎悬在空中，众人围观",
+        "description_narrative": "中景固定镜头，千斤鼎悬在空中，上柱国和老官员等人震惊地看着这一幕。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；千斤鼎悬在空中，众人围观；画面左侧人物，身穿红褐色花纹长袍，站立观看，表情：眉毛微蹙，眼睛注视，嘴巴紧闭；画面中央人物，身穿紫色官袍，站立观看，表情：眉毛上扬，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面中央",
+                "action": "侧身站立，表情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "庭院石狮子背景",
+        "description_narrative": "中近景固定镜头，上柱国侧身站立，脸上露出难以置信的惊讶表情。",
+        "dialogue": "我的天呐。",
+        "speaker": "上柱国",
+        "emotion": "震惊",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；庭院石狮子背景；画面中央人物，身穿红褐色花纹长袍，侧身站立，表情惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍，头戴乌纱帽",
+                "position": "画面中央",
+                "action": "抬头向上看，表情震惊",
+                "expression": "眉毛紧蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "古代建筑屋檐下",
+        "description_narrative": "中近景仰拍镜头，老官员抬头看着被举起的巨鼎，惊叹竟然真的顶起来了。",
+        "dialogue": "我的天呐。",
+        "speaker": "上柱国",
+        "emotion": "震惊",
+        "duration": 2.04,
+        "description_visual": "中近景仰拍镜头；古代建筑屋檐下；画面中央人物，身穿紫色官袍，头戴乌纱帽，抬头向上看，表情震惊，表情：眉毛紧蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面右侧",
+                "action": "单手按压杠杆末端",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面左侧",
+                "action": "站立观看",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "庭院中，杠杆吊起千斤鼎",
+        "description_narrative": "全景固定镜头，太子单手按压杠杆末端，轻松将千斤巨鼎顶起，老官员在一旁震惊。",
+        "dialogue": "竟然真把千斤巨鼎，给顶起来了。",
+        "speaker": "老官员",
+        "emotion": "震惊",
+        "duration": 2.72,
+        "description_visual": "全景平拍镜头；庭院中，杠杆吊起千斤鼎；画面右侧人物，身穿白色金纹长袍，单手按压杠杆末端，表情：眉毛舒展，眼睛注视，嘴巴微张；画面左侧人物，身穿紫色官袍，站立观看，表情：眉毛上扬，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "手扶杠杆，面带微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "绿色植物背景",
+        "description_narrative": "中近景固定镜头，太子手扶杠杆，脸上露出得意的微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 4.0,
+        "description_visual": "中近景平拍镜头；绿色植物背景；画面中央人物，身穿白色金纹长袍，手扶杠杆，面带微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面左侧",
+                "action": "站立观看",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            },
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面中央",
+                "action": "站立观看",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "养心殿前，千斤鼎悬空",
+        "description_narrative": "中景固定镜头，上柱国和老官员等人站在悬空的千斤鼎旁，表情复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 2.4,
+        "description_visual": "中景平拍镜头；养心殿前，千斤鼎悬空；画面左侧人物，身穿红褐色花纹长袍，站立观看，表情：眉毛微蹙，眼睛注视，嘴巴紧闭；画面中央人物，身穿紫色官袍，站立观看，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面左侧",
+                "action": "站立，侧头看向老官员",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴紧闭"
+            },
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面中央",
+                "action": "站立，看着千斤鼎",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，上柱国侧头看向老官员，老官员看着千斤鼎，质疑这算什么。",
+        "dialogue": "这算什么呀？",
+        "speaker": "老官员",
+        "emotion": "质疑",
+        "duration": 0.88,
+        "description_visual": "中景平拍镜头；养心殿前；画面左侧人物，身穿红褐色花纹长袍，站立，侧头看向老官员，表情：眉毛微蹙，眼睛侧视，嘴巴紧闭；画面中央人物，身穿紫色官袍，站立，看着千斤鼎，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面右侧",
+                "action": "走向众人，伸手比划",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面中央",
+                "action": "站立微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，太子走向众人，伸手比划，说出“给我个支点”。",
+        "dialogue": "给我个支点",
+        "speaker": "太子",
+        "emotion": "自信",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；养心殿前；画面右侧人物，身穿白色金纹长袍，走向众人，伸手比划，表情：眉毛微挑，眼睛注视，嘴巴微张；画面中央人物，身穿白色长裙，站立微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面右侧",
+                "action": "继续说话，手势有力",
+                "expression": "眉毛微挑，眼睛注视，嘴巴张开"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面中央",
+                "action": "站立微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，太子继续说道“我能撬动”，神情自信满满。",
+        "dialogue": "我能撬动",
+        "speaker": "太子",
+        "emotion": "自信",
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；养心殿前；画面右侧人物，身穿白色金纹长袍，继续说话，手势有力，表情：眉毛微挑，眼睛注视，嘴巴张开；画面中央人物，身穿白色长裙，站立微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面中央",
+                "action": "双手交叠，面带微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "庭院中，背景虚化",
+        "description_narrative": "中近景固定镜头，白衣女子面带微笑，听着太子说“整个地球”。",
+        "dialogue": "整个地球",
+        "speaker": "太子",
+        "emotion": "自豪",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；庭院中，背景虚化；画面中央人物，身穿白色长裙，双手交叠，面带微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "站立，神情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "庭院石狮子背景",
+        "description_narrative": "中近景固定镜头，太子站立，神情严肃，重复“地球”一词。",
+        "dialogue": "地球。",
+        "speaker": "太子",
+        "emotion": "严肃",
+        "duration": 3.92,
+        "description_visual": "中近景平拍镜头；庭院石狮子背景；画面中央人物，身穿白色金纹长袍，站立，神情严肃，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "看向一侧，询问",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "庭院中",
+        "description_narrative": "中近景固定镜头，太子看向一侧，询问上柱国这一局谁赢。",
+        "dialogue": "上柱国，这一局谁赢啊？",
+        "speaker": "太子",
+        "emotion": "挑衅",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；庭院中；画面中央人物，身穿白色金纹长袍，看向一侧，询问，表情：眉毛微挑，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面中央",
+                "action": "摇头，表情不服",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "庭院石狮子背景",
+        "description_narrative": "中近景固定镜头，上柱国摇头，表情不服地说“不行”。",
+        "dialogue": "不行。",
+        "speaker": "上柱国",
+        "emotion": "不服",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；庭院石狮子背景；画面中央人物，身穿红褐色花纹长袍，摇头，表情不服，表情：眉毛微蹙，眼睛侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "庭院石狮子背景",
+        "description_narrative": "中近景固定镜头，上柱国站立，表情严肃，准备继续辩解。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；庭院石狮子背景；画面中央人物，身穿红褐色花纹长袍，站立，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面中央",
+                "action": "伸手指着太子，指责",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "庭院中",
+        "description_narrative": "中近景固定镜头，上柱国伸手指着太子，指责这是偷奸耍滑。",
+        "dialogue": "他这是偷奸耍滑，用奇技淫巧。",
+        "speaker": "上柱国",
+        "emotion": "愤怒",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；庭院中；画面中央人物，身穿红褐色花纹长袍，伸手指着太子，指责，表情：眉毛上扬，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍，头戴乌纱帽",
+                "position": "画面中央",
+                "action": "点头附和",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "古代建筑门前",
+        "description_narrative": "中近景固定镜头，老官员点头附和，表示赞同上柱国的说法。",
+        "dialogue": "嗯。",
+        "speaker": "老官员",
+        "emotion": "赞同",
+        "duration": 0.84,
+        "description_visual": "中近景平拍镜头；古代建筑门前；画面中央人物，身穿紫色官袍，头戴乌纱帽，点头附和，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍，头戴乌纱帽",
+                "position": "画面中央",
+                "action": "摆手，表示不算数",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴张开"
+            }
+        ],
+        "background": "古代建筑门前",
+        "description_narrative": "中近景固定镜头，老官员摆手，表示这不能算数。",
+        "dialogue": "不能算数。",
+        "speaker": "老官员",
+        "emotion": "否定",
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；古代建筑门前；画面中央人物，身穿紫色官袍，头戴乌纱帽，摆手，表示不算数，表情：眉毛微蹙，眼睛注视，嘴巴张开。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "站立，表情不屑",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "庭院中",
+        "description_narrative": "中近景固定镜头，太子站立，表情不屑地看着对方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "不屑",
+        "duration": 4.48,
+        "description_visual": "中近景平拍镜头；庭院中；画面中央人物，身穿白色金纹长袍，站立，表情不屑，表情：眉毛微挑，眼睛侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "嘲讽对方",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴张开"
+            }
+        ],
+        "background": "庭院中",
+        "description_narrative": "中近景固定镜头，太子嘲讽对方行也用啊，骂其头脑简单四肢发达。",
+        "dialogue": "你行你也用啊，头脑简单，四肢发达的东西。",
+        "speaker": "太子",
+        "emotion": "嘲讽",
+        "duration": 1.36,
+        "description_visual": "中近景平拍镜头；庭院中；画面中央人物，身穿白色金纹长袍，嘲讽对方，表情：眉毛微挑，眼睛侧视，嘴巴张开。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面中央",
+                "action": "表情愤怒",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴紧闭"
+            }
+        ],
+        "background": "庭院石狮子背景",
+        "description_narrative": "中近景固定镜头，上柱国听到辱骂，表情愤怒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；庭院石狮子背景；画面中央人物，身穿红褐色花纹长袍，表情愤怒，表情：眉毛紧蹙，眼睛瞪大，嘴巴紧闭。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "将军",
+                "gender": "男",
+                "clothing": "金色铠甲",
+                "position": "画面中央",
+                "action": "拔剑护在太子身前",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，将军拔剑护在太子身前，大喝“放肆”。",
+        "dialogue": "放肆。",
+        "speaker": "将军",
+        "emotion": "威严",
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；养心殿前；画面中央人物，身穿金色铠甲，拔剑护在太子身前，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开；画面右侧人物，身穿白色金纹长袍，站立，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "将军",
+                "gender": "男",
+                "clothing": "金色铠甲，红缨头盔",
+                "position": "画面中央",
+                "action": "手持剑柄，怒视对方",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "庭院中",
+        "description_narrative": "特写固定镜头，将军手持剑柄，怒视对方，警告想动大夏太子。",
+        "dialogue": "想动我大夏太子。",
+        "speaker": "将军",
+        "emotion": "愤怒",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；庭院中；画面中央人物，身穿金色铠甲，红缨头盔，手持剑柄，怒视对方，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "将军",
+                "gender": "男",
+                "clothing": "金色铠甲，红缨头盔",
+                "position": "画面中央",
+                "action": "继续警告",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "庭院中",
+        "description_narrative": "特写固定镜头，将军继续警告，要先过他这关。",
+        "dialogue": "先过我这关。",
+        "speaker": "将军",
+        "emotion": "威严",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；庭院中；画面中央人物，身穿金色铠甲，红缨头盔，继续警告，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面中央",
+                "action": "伸手拦住将军",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "庭院中",
+        "description_narrative": "中近景固定镜头，老官员伸手拦住将军，试图缓和局势。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；庭院中；画面中央人物，身穿紫色官袍，伸手拦住将军，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面左侧人物，身穿红褐色花纹长袍，站立，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "上柱国",
+                "gender": "男",
+                "clothing": "红褐色花纹长袍",
+                "position": "画面中央",
+                "action": "指着众人，愤怒",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "庭院石狮子背景",
+        "description_narrative": "中近景固定镜头，上柱国指着众人，愤怒地喊“你们”。",
+        "dialogue": "你们。",
+        "speaker": "上柱国",
+        "emotion": "愤怒",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；庭院石狮子背景；画面中央人物，身穿红褐色花纹长袍，指着众人，愤怒，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面左侧",
+                "action": "转身欲走",
+                "expression": "眉毛紧蹙，眼睛侧视，嘴巴微张"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，老官员转身欲走，上柱国威胁说大夏的细盐别想要了。",
+        "dialogue": "大夏的细盐，别想要了。",
+        "speaker": "上柱国",
+        "emotion": "威胁",
+        "duration": 0.68,
+        "description_visual": "中景平拍镜头；养心殿前；画面左侧人物，身穿紫色官袍，转身欲走，表情：眉毛紧蹙，眼睛侧视，嘴巴微张；画面右侧人物，身穿白色金纹长袍，站立，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老官员",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面左侧",
+                "action": "转身离开",
+                "expression": "眉毛紧蹙，眼睛侧视，嘴巴紧闭"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，老官员转身离开，太子等人站在原地。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；养心殿前；画面左侧人物，身穿紫色官袍，转身离开，表情：眉毛紧蹙，眼睛侧视，嘴巴紧闭；画面右侧人物，身穿白色金纹长袍，站立，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "转身看向老官员",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微闭"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，太子转身看向老官员，有人喊“大人”。",
+        "dialogue": "大人。",
+        "speaker": "未知",
+        "emotion": "恭敬",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；养心殿前；画面中央人物，身穿白色金纹长袍，转身看向老官员，表情：眉毛微挑，眼睛注视，嘴巴微张；画面左侧人物，身穿白色长裙，站立，表情：眉毛舒展，眼睛注视，嘴巴微闭。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "与白衣女子并肩站立",
+                "expression": "眉毛舒展，眼睛侧视，嘴巴微闭"
+            },
+            {
+                "name": "将军",
+                "gender": "男",
+                "clothing": "金色铠甲",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛平展，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，太子与白衣女子并肩站立，将军在旁守护。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；养心殿前；画面中央人物，身穿白色金纹长袍，与白衣女子并肩站立，表情：眉毛舒展，眼睛侧视，嘴巴微闭；画面右侧人物，身穿金色铠甲，站立，表情：眉毛平展，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "与白衣女子对视",
+                "expression": "眉毛舒展，眼睛注视，嘴角微扬"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面左侧",
+                "action": "与太子对视",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，太子与白衣女子对视，两人相视一笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "温馨",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；养心殿前；画面中央人物，身穿白色金纹长袍，与白衣女子对视，表情：眉毛舒展，眼睛注视，嘴角微扬；画面左侧人物，身穿白色长裙，与太子对视，表情：眉毛舒展，眼睛注视，嘴角上扬。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白色金纹长袍",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微闭"
+            }
+        ],
+        "background": "养心殿前",
+        "description_narrative": "中景固定镜头，太子和白衣女子等人站在养心殿前，场面平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；养心殿前；画面中央人物，身穿白色金纹长袍，站立，表情：眉毛舒展，眼睛注视，嘴巴微闭；画面左侧人物，身穿白色长裙，站立，表情：眉毛舒展，眼睛注视，嘴巴微闭。"
+    }
+]

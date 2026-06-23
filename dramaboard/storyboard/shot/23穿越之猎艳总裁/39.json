@@ -1,0 +1,798 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "中央",
+                "action": "躺在床上睡觉",
+                "expression": "双眼紧闭，表情平静"
+            },
+            {
+                "name": "床左侧女子",
+                "gender": "女",
+                "clothing": "黑色睡衣",
+                "position": "左侧",
+                "action": "躺在床上睡觉",
+                "expression": "双眼紧闭，表情安详"
+            },
+            {
+                "name": "床右侧女子",
+                "gender": "女",
+                "clothing": "浅蓝色睡衣",
+                "position": "右侧",
+                "action": "躺在床上睡觉",
+                "expression": "双眼紧闭，表情安详"
+            }
+        ],
+        "background": "卧室床上，光线昏暗，上方有黄色大字标题",
+        "description_narrative": "全景固定镜头，画面中央是身穿白色浴袍的男子躺在床上睡觉，左右两侧各有一名女子陪伴，画面上方覆盖黄色大字标题“穿越之猎艳总裁”。",
+        "dialogue": "你",
+        "speaker": "醉酒女子",
+        "emotion": "疑惑",
+        "duration": 0.25,
+        "description_visual": "全景平拍镜头；卧室床上，光线昏暗，上方有黄色大字标题；中央人物，身穿白色浴袍，躺在床上睡觉，表情：双眼紧闭，表情平静；左侧人物，身穿黑色睡衣，躺在床上睡觉，表情：双眼紧闭，表情安详；右侧人物，身穿浅蓝色睡衣，躺在床上睡觉，表情：双眼紧闭，表情安详。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克内搭白色T恤",
+                "position": "画面右侧",
+                "action": "侧身站立，手捂嘴部",
+                "expression": "眉毛微蹙，眼神向下，嘴巴微张似在咳嗽或惊讶"
+            }
+        ],
+        "background": "夜晚街头，背景虚化有灯光，右上角有“未成年人不得饮酒”字样",
+        "description_narrative": "中近景固定镜头，男子身穿绿色夹克侧身站立，手捂嘴部，神情略显不适，背景是夜晚模糊的街灯。",
+        "dialogue": "是坏人。",
+        "speaker": "醉酒女子",
+        "emotion": "警惕",
+        "duration": 1.15,
+        "description_visual": "中近景平拍镜头；夜晚街头，背景虚化有灯光，右上角有“未成年人不得饮酒”字样；画面右侧人物，身穿绿色夹克内搭白色T恤，侧身站立，手捂嘴部，表情：眉毛微蹙，眼神向下，嘴巴微张似在咳嗽或惊讶。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色花纹旗袍式连衣裙，披红色纱巾",
+                "position": "画面中央",
+                "action": "手持绿色酒瓶，身体微晃",
+                "expression": "眼神迷离，嘴巴微张，面露醉意"
+            }
+        ],
+        "background": "夜晚户外，光线较暗，右上角有警示文字",
+        "description_narrative": "中景固定镜头，醉酒女子身穿红色花纹连衣裙，手持酒瓶，神情迷离地看向一侧，似乎在对某人说话。",
+        "dialogue": "快走开。",
+        "speaker": "醉酒女子",
+        "emotion": "排斥",
+        "duration": 1.57,
+        "description_visual": "中景平拍镜头；夜晚户外，光线较暗，右上角有警示文字；画面中央人物，身穿红色花纹旗袍式连衣裙，披红色纱巾，手持绿色酒瓶，身体微晃，表情：眼神迷离，嘴巴微张，面露醉意。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克内搭白色T恤",
+                "position": "画面中央",
+                "action": "正面站立，手部有解释性动作",
+                "expression": "眉毛上扬，眼神急切，嘴巴微张正在说话"
+            }
+        ],
+        "background": "夜晚街头，背景有模糊的霓虹灯光",
+        "description_narrative": "中近景固定镜头，男子正面站立，神情急切地摆手解释，试图证明自己不是坏人。",
+        "dialogue": "我不是坏人，我是好人。坏人被我赶走了，已经。",
+        "speaker": "男子",
+        "emotion": "焦急",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；夜晚街头，背景有模糊的霓虹灯光；画面中央人物，身穿绿色夹克内搭白色T恤，正面站立，手部有解释性动作，表情：眉毛上扬，眼神急切，嘴巴微张正在说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色花纹旗袍式连衣裙",
+                "position": "画面中央",
+                "action": "双手握着酒瓶，身体摇晃",
+                "expression": "眼神涣散，嘴唇微动，似在重复话语"
+            }
+        ],
+        "background": "夜晚户外，光线昏暗",
+        "description_narrative": "中景固定镜头，醉酒女子双手紧握酒瓶，醉意朦胧地重复着话语，神情恍惚。",
+        "dialogue": "你是好人。我真的是好人。",
+        "speaker": "醉酒女子",
+        "emotion": "迷糊",
+        "duration": 3.98,
+        "description_visual": "中景平拍镜头；夜晚户外，光线昏暗；画面中央人物，身穿红色花纹旗袍式连衣裙，双手握着酒瓶，身体摇晃，表情：眼神涣散，嘴唇微动，似在重复话语。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克内搭白色T恤",
+                "position": "画面中央",
+                "action": "身体微前倾，眼神真诚",
+                "expression": "眉毛舒展，眼神注视对方，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，背景虚化",
+        "description_narrative": "中近景固定镜头，男子身体微前倾，眼神真诚地看着对方，试图提出送她回家的建议。",
+        "dialogue": "要不我送你回家先？你家住哪？我真的是好人。",
+        "speaker": "男子",
+        "emotion": "诚恳",
+        "duration": 3.22,
+        "description_visual": "中近景平拍镜头；夜晚街头，背景虚化；画面中央人物，身穿绿色夹克内搭白色T恤，身体微前倾，眼神真诚，表情：眉毛舒展，眼神注视对方，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色花纹旗袍式连衣裙",
+                "position": "画面左侧",
+                "action": "手持酒瓶，看向男子",
+                "expression": "眼神迷离，嘴巴微张，似在思考"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "侧身面对女子",
+                "expression": "注视女子"
+            }
+        ],
+        "background": "夜晚户外，两人对视",
+        "description_narrative": "中景固定镜头，醉酒女子手持酒瓶看向男子，嘴里念叨着“我家”，男子在一旁侧身倾听。",
+        "dialogue": "我家，我家。",
+        "speaker": "醉酒女子",
+        "emotion": "困惑",
+        "duration": 6.33,
+        "description_visual": "中景平拍镜头；夜晚户外，两人对视；画面左侧人物，身穿红色花纹旗袍式连衣裙，手持酒瓶，看向男子，表情：眼神迷离，嘴巴微张，似在思考；画面右侧人物，身穿绿色夹克，侧身面对女子，表情：注视女子。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "伸手扶住女子肩膀",
+                "expression": "眉头微皱，嘴巴微张"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色花纹连衣裙",
+                "position": "画面左侧",
+                "action": "身体倚靠男子",
+                "expression": "闭眼，头靠在男子肩上"
+            }
+        ],
+        "background": "夜晚街头，两人靠近",
+        "description_narrative": "中近景跟拍镜头，男子伸手扶住摇摇欲坠的醉酒女子，女子顺势靠在他肩上，男子发出轻轻的应答声。",
+        "dialogue": "嗯。",
+        "speaker": "男子",
+        "emotion": "无奈",
+        "duration": 0.32,
+        "description_visual": "中近景平拍镜头（跟拍）；夜晚街头，两人靠近；画面右侧人物，身穿绿色夹克，伸手扶住女子肩膀，表情：眉头微皱，嘴巴微张；画面左侧人物，身穿红色花纹连衣裙，身体倚靠男子，表情：闭眼，头靠在男子肩上。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "搂着女子，手持酒瓶",
+                "expression": "眼神看向远方，嘴巴微张说话"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色连衣裙",
+                "position": "画面左侧",
+                "action": "头靠在男子胸前",
+                "expression": "闭眼，表情放松"
+            }
+        ],
+        "background": "夜晚街头，光线昏暗",
+        "description_narrative": "特写固定镜头，男子搂着醉酒女子，手里拿着她的酒瓶，告诉她没有家就先找个地方休息。",
+        "dialogue": "我没有家。那这样我先给你找个地方休息啊，你跟我走。",
+        "speaker": "男子",
+        "emotion": "安抚",
+        "duration": 7.15,
+        "description_visual": "特写平拍镜头；夜晚街头，光线昏暗；画面右侧人物，身穿绿色夹克，搂着女子，手持酒瓶，表情：眼神看向远方，嘴巴微张说话；画面左侧人物，身穿红色连衣裙，头靠在男子胸前，表情：闭眼，表情放松。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面",
+        "description_narrative": "全黑画面，转场效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "全景平拍镜头；全黑画面。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "搀扶着女子",
+                "expression": "眉头紧锁，表情吃力"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色连衣裙",
+                "position": "画面左侧",
+                "action": "全身无力靠在男子身上",
+                "expression": "闭眼，意识不清"
+            }
+        ],
+        "background": "室内环境，光线较暗",
+        "description_narrative": "中近景固定镜头，男子在室内搀扶着几乎昏迷的醉酒女子，女子头靠在他肩上，男子轻声呼唤她的名字。",
+        "dialogue": "媚儿",
+        "speaker": "男子",
+        "emotion": "关切",
+        "duration": 0.3,
+        "description_visual": "中近景平拍镜头；室内环境，光线较暗；画面右侧人物，身穿绿色夹克，搀扶着女子，表情：眉头紧锁，表情吃力；画面左侧人物，身穿红色连衣裙，全身无力靠在男子身上，表情：闭眼，意识不清。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "双手扶着女子手臂",
+                "expression": "低头看着女子，表情担忧"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色连衣裙",
+                "position": "画面左侧",
+                "action": "倚靠在男子怀中",
+                "expression": "闭眼，面色潮红"
+            }
+        ],
+        "background": "室内沙发旁",
+        "description_narrative": "中近景固定镜头，男子双手扶着女子的手臂，试图让她站稳或坐下，女子依旧昏迷不醒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.67,
+        "description_visual": "中近景平拍镜头；室内沙发旁；画面右侧人物，身穿绿色夹克，双手扶着女子手臂，表情：低头看着女子，表情担忧；画面左侧人物，身穿红色连衣裙，倚靠在男子怀中，表情：闭眼，面色潮红。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "坐在沙发上，俯身看女子",
+                "expression": "嘴巴微张，似在呼唤"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色连衣裙",
+                "position": "画面左侧",
+                "action": "躺在沙发上",
+                "expression": "闭眼沉睡"
+            }
+        ],
+        "background": "室内沙发区域",
+        "description_narrative": "中景固定镜头，男子坐在沙发上，俯身看着躺在旁边的醉酒女子，试图唤醒她。",
+        "dialogue": "醒醒",
+        "speaker": "男子",
+        "emotion": "急切",
+        "duration": 7.27,
+        "description_visual": "中景平拍镜头；室内沙发区域；画面右侧人物，身穿绿色夹克，坐在沙发上，俯身看女子，表情：嘴巴微张，似在呼唤；画面左侧人物，身穿红色连衣裙，躺在沙发上，表情：闭眼沉睡。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "坐在沙发上，身体后仰",
+                "expression": "眼神惊讶，看着女子"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色连衣裙",
+                "position": "画面左侧",
+                "action": "伸手抓住男子衣服",
+                "expression": "闭眼，梦呓般动作"
+            }
+        ],
+        "background": "室内沙发",
+        "description_narrative": "中景固定镜头，醉酒女子突然伸手抓住男子的衣服，男子被吓了一跳，再次呼唤她的名字。",
+        "dialogue": "媚儿",
+        "speaker": "男子",
+        "emotion": "惊讶",
+        "duration": 0.28,
+        "description_visual": "中景平拍镜头；室内沙发；画面右侧人物，身穿绿色夹克，坐在沙发上，身体后仰，表情：眼神惊讶，看着女子；画面左侧人物，身穿红色连衣裙，伸手抓住男子衣服，表情：闭眼，梦呓般动作。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "坐在沙发上，双手不知所措",
+                "expression": "眉头紧锁，表情为难"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色连衣裙",
+                "position": "画面左侧",
+                "action": "抱住男子腰部",
+                "expression": "脸埋在男子怀里"
+            }
+        ],
+        "background": "室内沙发",
+        "description_narrative": "中近景固定镜头，醉酒女子突然抱住男子的腰，嘴里说着“你别走”，男子一脸为难地僵在原地。",
+        "dialogue": "你别走",
+        "speaker": "醉酒女子",
+        "emotion": "依赖",
+        "duration": 5.45,
+        "description_visual": "中近景平拍镜头；室内沙发；画面右侧人物，身穿绿色夹克，坐在沙发上，双手不知所措，表情：眉头紧锁，表情为难；画面左侧人物，身穿红色连衣裙，抱住男子腰部，表情：脸埋在男子怀里。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "坐在沙发上，手悬在半空",
+                "expression": "低头看着女子，表情复杂"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色连衣裙",
+                "position": "画面左侧",
+                "action": "趴在男子腿上",
+                "expression": "闭眼，头发散乱"
+            }
+        ],
+        "background": "室内沙发",
+        "description_narrative": "中景固定镜头，女子趴在男子腿上沉睡，男子手悬在半空不敢触碰，神情复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；室内沙发；画面右侧人物，身穿绿色夹克，坐在沙发上，手悬在半空，表情：低头看着女子，表情复杂；画面左侧人物，身穿红色连衣裙，趴在男子腿上，表情：闭眼，头发散乱。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "坐在沙发上，低头",
+                "expression": "嘴巴微张，似在叹气"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色连衣裙",
+                "position": "画面左侧",
+                "action": "躺在男子腿上，手抓着男子裤子",
+                "expression": "闭眼，表情痛苦"
+            }
+        ],
+        "background": "室内沙发",
+        "description_narrative": "中近景固定镜头，女子躺在男子腿上，嘴里说着“求求你”，男子低头看着她，显得无可奈何。",
+        "dialogue": "求求你",
+        "speaker": "醉酒女子",
+        "emotion": "哀求",
+        "duration": 0.27,
+        "description_visual": "中近景平拍镜头；室内沙发；画面右侧人物，身穿绿色夹克，坐在沙发上，低头，表情：嘴巴微张，似在叹气；画面左侧人物，身穿红色连衣裙，躺在男子腿上，手抓着男子裤子，表情：闭眼，表情痛苦。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面下方",
+                "action": "手放在女子头上",
+                "expression": "不可见"
+            },
+            {
+                "name": "醉酒女子",
+                "gender": "女",
+                "clothing": "红色连衣裙",
+                "position": "画面上方",
+                "action": "躺着，手搭在男子腿上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙发局部，光线昏暗",
+        "description_narrative": "特写俯拍镜头，聚焦在两人的肢体接触上，男子的手放在女子头上，女子梦呓般说好像认识他。",
+        "dialogue": "我们两个好像认识",
+        "speaker": "醉酒女子",
+        "emotion": "迷糊",
+        "duration": 12.63,
+        "description_visual": "特写俯拍镜头；沙发局部，光线昏暗；画面下方人物，身穿绿色夹克，手放在女子头上，表情：不可见；画面上方人物，身穿红色连衣裙，躺着，手搭在男子腿上，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面中央",
+                "action": "低头沉思",
+                "expression": "眉毛微蹙，眼神向下"
+            }
+        ],
+        "background": "室内，光线昏暗",
+        "description_narrative": "近景俯拍镜头，男子低头沉思，似乎在回忆或确认女子的话，轻声回应“是”。",
+        "dialogue": "是",
+        "speaker": "男子",
+        "emotion": "疑惑",
+        "duration": 7.55,
+        "description_visual": "近景俯拍镜头；室内，光线昏暗；画面中央人物，身穿绿色夹克，低头沉思，表情：眉毛微蹙，眼神向下。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "绿色夹克",
+                "position": "画面右侧",
+                "action": "身体晃动",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写摇镜镜头，画面模糊晃动，模拟男子眩晕或女子视角，女子声音传来“咱俩见过”。",
+        "dialogue": "咱俩见过",
+        "speaker": "醉酒女子",
+        "emotion": "确定",
+        "duration": 5.9,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的室内背景；画面右侧人物，身穿绿色夹克，身体晃动，表情：模糊不清。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "床右侧女子",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面中央",
+                "action": "侧卧睡觉",
+                "expression": "双眼紧闭，嘴角微扬"
+            }
+        ],
+        "background": "卧室床上，白色枕头",
+        "description_narrative": "特写固定镜头，一名女子侧卧在白色枕头上熟睡，面容姣好，发出轻轻的嗯声。",
+        "dialogue": "嗯",
+        "speaker": "床右侧女子",
+        "emotion": "安逸",
+        "duration": 3.55,
+        "description_visual": "特写平拍镜头；卧室床上，白色枕头；画面中央人物，身穿白色睡衣，侧卧睡觉，表情：双眼紧闭，嘴角微扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面中央",
+                "action": "躺在床上，突然睁眼",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            },
+            {
+                "name": "床左侧女子",
+                "gender": "女",
+                "clothing": "黑色睡衣",
+                "position": "画面左侧",
+                "action": "手搭在男子身上",
+                "expression": "睡觉中"
+            },
+            {
+                "name": "床右侧女子",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面右侧",
+                "action": "手搭在男子身上",
+                "expression": "睡觉中"
+            }
+        ],
+        "background": "卧室床上，深色床头",
+        "description_narrative": "中景固定镜头，男子身穿白色浴袍躺在床上，左右各有一名女子，他突然惊醒，表情震惊。",
+        "dialogue": "啊",
+        "speaker": "男子",
+        "emotion": "惊恐",
+        "duration": 1.37,
+        "description_visual": "中景平拍镜头；卧室床上，深色床头；画面中央人物，身穿白色浴袍，躺在床上，突然睁眼，表情：眉毛紧锁，眼睛瞪大，嘴巴微张；画面左侧人物，身穿黑色睡衣，手搭在男子身上，表情：睡觉中；画面右侧人物，身穿白色睡衣，手搭在男子身上，表情：睡觉中。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "床左侧女子",
+                "gender": "女",
+                "clothing": "黑色睡衣",
+                "position": "画面中央",
+                "action": "侧卧睡觉",
+                "expression": "双眼紧闭，红唇微启"
+            }
+        ],
+        "background": "卧室床上，白色枕头",
+        "description_narrative": "特写固定镜头，另一名女子侧卧熟睡，面容精致，发出轻微的睡眠声。",
+        "dialogue": "嗯",
+        "speaker": "床左侧女子",
+        "emotion": "安逸",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；卧室床上，白色枕头；画面中央人物，身穿黑色睡衣，侧卧睡觉，表情：双眼紧闭，红唇微启。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面中央",
+                "action": "躺在床上，眼睛睁开",
+                "expression": "眼神呆滞，看向上方"
+            },
+            {
+                "name": "床左侧女子",
+                "gender": "女",
+                "clothing": "黑色睡衣",
+                "position": "画面左侧",
+                "action": "熟睡",
+                "expression": "表情平静"
+            },
+            {
+                "name": "床右侧女子",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面右侧",
+                "action": "熟睡",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "卧室大床，深色床头，白色被褥",
+        "description_narrative": "全景固定镜头，展示男子夹在两名女子中间躺在床上的全景，男子睁着眼一脸茫然。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.03,
+        "description_visual": "全景平拍镜头；卧室大床，深色床头，白色被褥；画面中央人物，身穿白色浴袍，躺在床上，眼睛睁开，表情：眼神呆滞，看向上方；画面左侧人物，身穿黑色睡衣，熟睡，表情：表情平静；画面右侧人物，身穿白色睡衣，熟睡，表情：表情平静。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面中央",
+                "action": "突然坐起，双手抓被",
+                "expression": "眉毛高挑，眼睛瞪圆，嘴巴大张尖叫"
+            },
+            {
+                "name": "床左侧女子",
+                "gender": "女",
+                "clothing": "黑色睡衣",
+                "position": "画面左侧",
+                "action": "被惊醒",
+                "expression": "嘴巴微张"
+            },
+            {
+                "name": "床右侧女子",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面右侧",
+                "action": "被惊醒",
+                "expression": "嘴巴微张"
+            }
+        ],
+        "background": "卧室床上",
+        "description_narrative": "中景固定镜头，男子突然从床上坐起，双手抓着被子，表情极度惊恐地尖叫，两侧女子也被惊醒。",
+        "dialogue": "Wow",
+        "speaker": "男子",
+        "emotion": "崩溃",
+        "duration": 1.45,
+        "description_visual": "中景平拍镜头；卧室床上；画面中央人物，身穿白色浴袍，突然坐起，双手抓被，表情：眉毛高挑，眼睛瞪圆，嘴巴大张尖叫；画面左侧人物，身穿黑色睡衣，被惊醒，表情：嘴巴微张；画面右侧人物，身穿白色睡衣，被惊醒，表情：嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面中央",
+                "action": "坐在床上，双手握拳",
+                "expression": "表情扭曲，大声喊叫"
+            },
+            {
+                "name": "床左侧女子",
+                "gender": "女",
+                "clothing": "黑色睡衣",
+                "position": "画面左侧",
+                "action": "坐起，一脸震惊",
+                "expression": "嘴巴张开"
+            },
+            {
+                "name": "床右侧女子",
+                "gender": "女",
+                "clothing": "浅蓝色睡衣",
+                "position": "画面右侧",
+                "action": "坐起，一脸震惊",
+                "expression": "嘴巴张开"
+            }
+        ],
+        "background": "卧室，墙上有装饰画",
+        "description_narrative": "全景固定镜头，男子坐在床中央大声尖叫，两侧女子坐起，同样露出震惊的表情，场面混乱。",
+        "dialogue": "啊",
+        "speaker": "男子",
+        "emotion": "惊恐",
+        "duration": 1.32,
+        "description_visual": "全景平拍镜头；卧室，墙上有装饰画；画面中央人物，身穿白色浴袍，坐在床上，双手握拳，表情：表情扭曲，大声喊叫；画面左侧人物，身穿黑色睡衣，坐起，一脸震惊，表情：嘴巴张开；画面右侧人物，身穿浅蓝色睡衣，坐起，一脸震惊，表情：嘴巴张开。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色浴袍",
+                "position": "画面中央",
+                "action": "坐在床上，身体颤抖",
+                "expression": "表情依旧惊恐，嘴巴张开"
+            },
+            {
+                "name": "床左侧女子",
+                "gender": "女",
+                "clothing": "黑色睡衣",
+                "position": "画面左侧",
+                "action": "看着男子",
+                "expression": "震惊"
+            },
+            {
+                "name": "床右侧女子",
+                "gender": "女",
+                "clothing": "浅蓝色睡衣",
+                "position": "画面右侧",
+                "action": "看着男子",
+                "expression": "震惊"
+            }
+        ],
+        "background": "卧室，光线明亮",
+        "description_narrative": "全景固定镜头，男子持续坐在床上处于震惊状态，两侧女子看着他，画面定格在这一混乱场景。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.85,
+        "description_visual": "全景平拍镜头；卧室，光线明亮；画面中央人物，身穿白色浴袍，坐在床上，身体颤抖，表情：表情依旧惊恐，嘴巴张开；画面左侧人物，身穿黑色睡衣，看着男子，表情：震惊；画面右侧人物，身穿浅蓝色睡衣，看着男子，表情：震惊。"
+    }
+]

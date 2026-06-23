@@ -1,0 +1,832 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿黄色外套男子",
+                "gender": "男",
+                "clothing": "黄色反光外套，黄色头盔",
+                "position": "中央前景",
+                "action": "身体前倾，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "左后景",
+                "action": "侧身站立",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套",
+                "position": "右后景",
+                "action": "手扶头部",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            },
+            {
+                "name": "穿黑色西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "左前景",
+                "action": "戴眼镜，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "穿红色礼服女子",
+                "gender": "女",
+                "clothing": "红色露肩礼服",
+                "position": "右后景",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微笑，嘴角上扬"
+            },
+            {
+                "name": "穿白色连衣裙女子",
+                "gender": "女",
+                "clothing": "白色方领连衣裙",
+                "position": "中央后景",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "海报背景，色彩斑斓，有金币和城市剪影",
+        "description_narrative": "全景固定镜头，海报画面。穿黄色外套男子位于中央前景，表情严肃。周围环绕着穿白色衬衫女子、穿牛仔外套男子、穿黑色西装男子、穿红色礼服女子和穿白色连衣裙女子。背景色彩斑斓，有金币和城市剪影，标题“原来是首富”醒目。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.67,
+        "description_visual": "全景平拍镜头；海报背景，色彩斑斓，有金币和城市剪影；中央前景人物，身穿黄色反光外套，黄色头盔，身体前倾，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴紧闭；左后景人物，身穿白色蝴蝶结衬衫，侧身站立，表情：眉毛舒展，眼睛看向右侧，嘴巴微张；右后景人物，身穿蓝色牛仔外套，手扶头部，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张；左前景人物，身穿黑色西装，戴眼镜，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴紧闭；右后景人物，身穿红色露肩礼服，微笑，表情：眉毛舒展，眼睛微笑，嘴角上扬；中央后景人物，身穿白色方领连衣裙，站立，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "头部微侧，眼神愤怒",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，头部微侧，眼神愤怒，眉毛微蹙，眼睛睁大，嘴巴微张，似乎在斥责对方。背景模糊，可见红色窗帘。",
+        "dialogue": "你这个渣男",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "愤怒",
+        "duration": 0.77,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神愤怒，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色T恤",
+                "position": "中央",
+                "action": "头部微侧，眼神愧疚",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有窗户",
+        "description_narrative": "近景固定镜头，穿牛仔外套男子位于画面中央，头部微侧，眼神愧疚，眉毛微蹙，眼睛视线下移，嘴巴微张，似乎在解释什么。背景模糊，可见窗户。",
+        "dialogue": "我们俩经历了",
+        "speaker": "穿牛仔外套男子",
+        "emotion": "愧疚",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；室内，背景模糊，有窗户；中央人物，身穿蓝色牛仔外套，白色T恤，头部微侧，眼神愧疚，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "头部微侧，眼神悲伤",
+                "expression": "眉毛微蹙，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，头部微侧，眼神悲伤，眉毛微蹙，眼睛含泪，嘴巴微张，接话诉说往事。背景模糊，可见红色窗帘。",
+        "dialogue": "那么多的事情",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "悲伤",
+        "duration": 1.5,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神悲伤，表情：眉毛微蹙，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色T恤",
+                "position": "中央",
+                "action": "头部转向一侧，眼神躲闪",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，背景模糊，有窗户",
+        "description_narrative": "近景固定镜头，穿牛仔外套男子位于画面中央，头部转向一侧，眼神躲闪，眉毛微蹙，眼睛看向左侧，嘴巴紧闭，似乎在回避女方的指责。背景模糊，可见窗户。",
+        "dialogue": "就把我抛弃在一边",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "回避",
+        "duration": 1.5,
+        "description_visual": "近景平拍镜头；室内，背景模糊，有窗户；中央人物，身穿蓝色牛仔外套，白色T恤，头部转向一侧，眼神躲闪，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "头部微侧，眼神悲伤",
+                "expression": "眉毛微蹙，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，头部微侧，眼神悲伤，眉毛微蹙，眼睛含泪，嘴巴微张，继续诉说被抛弃的痛苦。背景模糊，可见红色窗帘。",
+        "dialogue": "就把我抛弃在一边",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "悲伤",
+        "duration": 1.47,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神悲伤，表情：眉毛微蹙，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色T恤",
+                "position": "中央",
+                "action": "头部微低，眼神愧疚",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有窗户",
+        "description_narrative": "近景固定镜头，穿牛仔外套男子位于画面中央，头部微低，眼神愧疚，眉毛微蹙，眼睛视线下移，嘴巴微张，向女方道歉。背景模糊，可见窗户。",
+        "dialogue": "子怡，我知道我对不起你",
+        "speaker": "穿牛仔外套男子",
+        "emotion": "愧疚",
+        "duration": 0.9,
+        "description_visual": "近景平拍镜头；室内，背景模糊，有窗户；中央人物，身穿蓝色牛仔外套，白色T恤，头部微低，眼神愧疚，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "头部微侧，眼神悲伤",
+                "expression": "眉毛微蹙，眼睛含泪，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，头部微侧，眼神悲伤，眉毛微蹙，眼睛含泪，嘴巴紧闭，听着男方的道歉。背景模糊，可见红色窗帘。",
+        "dialogue": "我知道我对不起你",
+        "speaker": "穿牛仔外套男子",
+        "emotion": "悲伤",
+        "duration": 1.1,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神悲伤，表情：眉毛微蹙，眼睛含泪，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色T恤",
+                "position": "中央",
+                "action": "头部微低，眼神愧疚",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有窗户",
+        "description_narrative": "近景固定镜头，穿牛仔外套男子位于画面中央，头部微低，眼神愧疚，眉毛微蹙，眼睛视线下移，嘴巴微张，继续解释。背景模糊，可见窗户。",
+        "dialogue": "我从头到尾",
+        "speaker": "穿牛仔外套男子",
+        "emotion": "愧疚",
+        "duration": 1.43,
+        "description_visual": "近景平拍镜头；室内，背景模糊，有窗户；中央人物，身穿蓝色牛仔外套，白色T恤，头部微低，眼神愧疚，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "头部微侧，眼神悲伤",
+                "expression": "眉毛微蹙，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，头部微侧，眼神悲伤，眉毛微蹙，眼睛含泪，嘴巴微张，接话表达不满。背景模糊，可见红色窗帘。",
+        "dialogue": "只是把我当朋友",
+        "speaker": "穿牛仔外套男子",
+        "emotion": "悲伤",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神悲伤，表情：眉毛微蹙，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色T恤",
+                "position": "中央",
+                "action": "头部微侧，眼神愧疚",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有窗户",
+        "description_narrative": "近景固定镜头，穿牛仔外套男子位于画面中央，头部微侧，眼神愧疚，眉毛微蹙，眼睛视线下移，嘴巴微张，确认自己的说法。背景模糊，可见窗户。",
+        "dialogue": "只是把我当朋友",
+        "speaker": "穿牛仔外套男子",
+        "emotion": "愧疚",
+        "duration": 1.43,
+        "description_visual": "近景平拍镜头；室内，背景模糊，有窗户；中央人物，身穿蓝色牛仔外套，白色T恤，头部微侧，眼神愧疚，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "头部微侧，眼神愤怒",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，头部微侧，眼神愤怒，眉毛微蹙，眼睛睁大，嘴巴微张，质问男方。背景模糊，可见红色窗帘。",
+        "dialogue": "你把我睡了",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "愤怒",
+        "duration": 2.53,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神愤怒，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色T恤",
+                "position": "中央",
+                "action": "头部转向一侧，眼神躲闪",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，背景模糊，有窗户",
+        "description_narrative": "近景固定镜头，穿牛仔外套男子位于画面中央，头部转向一侧，眼神躲闪，眉毛微蹙，眼睛看向左侧，嘴巴紧闭，听着女方的质问。背景模糊，可见窗户。",
+        "dialogue": "只是把我当朋友",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "躲闪",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；室内，背景模糊，有窗户；中央人物，身穿蓝色牛仔外套，白色T恤，头部转向一侧，眼神躲闪，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "头部微侧，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，头部微侧，眼神坚定，眉毛微蹙，眼睛直视，嘴巴微张，表示记住了男方的话。背景模糊，可见红色窗帘。",
+        "dialogue": "我记住你说的话",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "坚定",
+        "duration": 1.23,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "举起右手，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，举起右手，眼神坚定，眉毛微蹙，眼睛直视，嘴巴微张，发誓。背景模糊，可见红色窗帘。",
+        "dialogue": "我记住你说的话了",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "坚定",
+        "duration": 1.57,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，举起右手，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "举起右手，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，举起右手，眼神坚定，眉毛微蹙，眼睛直视，嘴巴微张，继续发誓。背景模糊，可见红色窗帘。",
+        "dialogue": "我发誓",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "坚定",
+        "duration": 0.97,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，举起右手，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "举起右手，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，举起右手，眼神坚定，眉毛微蹙，眼睛直视，嘴巴微张，说出誓言内容。背景模糊，可见红色窗帘。",
+        "dialogue": "我从今以后",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "坚定",
+        "duration": 0.53,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，举起右手，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色T恤",
+                "position": "中央",
+                "action": "头部微低，眼神愧疚",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，背景模糊，有窗户",
+        "description_narrative": "近景固定镜头，穿牛仔外套男子位于画面中央，头部微低，眼神愧疚，眉毛微蹙，眼睛视线下移，嘴巴紧闭，听着女方的誓言。背景模糊，可见窗户。",
+        "dialogue": "和你一刀两断",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "愧疚",
+        "duration": 0.97,
+        "description_visual": "近景平拍镜头；室内，背景模糊，有窗户；中央人物，身穿蓝色牛仔外套，白色T恤，头部微低，眼神愧疚，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "举起右手，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，举起右手，眼神坚定，眉毛微蹙，眼睛直视，嘴巴微张，继续发誓。背景模糊，可见红色窗帘。",
+        "dialogue": "再也没有",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "坚定",
+        "duration": 1.23,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，举起右手，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色T恤",
+                "position": "中央",
+                "action": "头部微低，眼神愧疚",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，背景模糊，有窗户",
+        "description_narrative": "近景固定镜头，穿牛仔外套男子位于画面中央，头部微低，眼神愧疚，眉毛微蹙，眼睛视线下移，嘴巴紧闭，听着女方的誓言。背景模糊，可见窗户。",
+        "dialogue": "任何关系",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "愧疚",
+        "duration": 1.3,
+        "description_visual": "近景平拍镜头；室内，背景模糊，有窗户；中央人物，身穿蓝色牛仔外套，白色T恤，头部微低，眼神愧疚，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "头部微侧，眼神悲伤",
+                "expression": "眉毛微蹙，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有红色窗帘",
+        "description_narrative": "特写固定镜头，穿白色衬衫女子位于画面中央，头部微侧，眼神悲伤，眉毛微蹙，眼睛含泪，嘴巴微张，说出对不起。背景模糊，可见红色窗帘。",
+        "dialogue": "对不起",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "悲伤",
+        "duration": 0.93,
+        "description_visual": "特写平拍镜头；室内，背景模糊，有红色窗帘；中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神悲伤，表情：眉毛微蹙，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿牛仔外套男子",
+                "gender": "男",
+                "clothing": "蓝色牛仔外套，白色T恤",
+                "position": "中央",
+                "action": "头部微低，眼神愧疚",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊，有窗户",
+        "description_narrative": "近景固定镜头，穿牛仔外套男子位于画面中央，头部微低，眼神愧疚，眉毛微蹙，眼睛视线下移，嘴巴微张，表示委屈女方。背景模糊，可见窗户。",
+        "dialogue": "只能先委屈你了",
+        "speaker": "穿牛仔外套男子",
+        "emotion": "愧疚",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；室内，背景模糊，有窗户；中央人物，身穿蓝色牛仔外套，白色T恤，头部微低，眼神愧疚，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "坐着喝酒",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有酒瓶",
+        "description_narrative": "中景固定镜头，穿白色衬衫女子位于画面中央，坐着喝酒，眉毛微蹙，眼睛看向一侧，嘴巴微张。背景是酒吧，光线昏暗，有酒瓶。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 0.87,
+        "description_visual": "中景平拍镜头；酒吧，光线昏暗，有酒瓶；中央人物，身穿白色蝴蝶结衬衫，坐着喝酒，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿黑色西装男子",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，戴眼镜",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有植物",
+        "description_narrative": "近景固定镜头，穿黑色西装男子位于画面中央，站立，戴眼镜，眉毛微蹙，眼睛直视，嘴巴微张，呼唤女方名字。背景是酒吧，光线昏暗，有植物。",
+        "dialogue": "子怡",
+        "speaker": "穿黑色西装男子",
+        "emotion": "关切",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；酒吧，光线昏暗，有植物；中央人物，身穿黑色西装，黑色衬衫，站立，戴眼镜，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿黑色西装男子",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，戴眼镜",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有植物",
+        "description_narrative": "近景固定镜头，穿黑色西装男子位于画面中央，站立，戴眼镜，眉毛微蹙，眼睛直视，嘴巴微张，询问女方为何在此。背景是酒吧，光线昏暗，有植物。",
+        "dialogue": "你怎么在这",
+        "speaker": "穿黑色西装男子",
+        "emotion": "关切",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；酒吧，光线昏暗，有植物；中央人物，身穿黑色西装，黑色衬衫，站立，戴眼镜，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "坐着喝酒",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有酒瓶",
+        "description_narrative": "中景固定镜头，穿白色衬衫女子位于画面中央，坐着喝酒，眉毛微蹙，眼睛看向一侧，嘴巴微张，让男方少喝点。背景是酒吧，光线昏暗，有酒瓶。",
+        "dialogue": "你少喝一点",
+        "speaker": "穿黑色西装男子",
+        "emotion": "悲伤",
+        "duration": 0.53,
+        "description_visual": "中景平拍镜头；酒吧，光线昏暗，有酒瓶；中央人物，身穿白色蝴蝶结衬衫，坐着喝酒，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿黑色西装男子",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，戴眼镜",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有植物",
+        "description_narrative": "近景固定镜头，穿黑色西装男子位于画面中央，站立，戴眼镜，眉毛微蹙，眼睛直视，嘴巴微张，让女方别碰酒。背景是酒吧，光线昏暗，有植物。",
+        "dialogue": "别碰我的酒",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "关切",
+        "duration": 0.77,
+        "description_visual": "近景平拍镜头；酒吧，光线昏暗，有植物；中央人物，身穿黑色西装，黑色衬衫，站立，戴眼镜，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "坐着喝酒",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有酒瓶",
+        "description_narrative": "中景固定镜头，穿白色衬衫女子位于画面中央，坐着喝酒，眉毛微蹙，眼睛看向一侧，嘴巴微张，表示不用男方管。背景是酒吧，光线昏暗，有酒瓶。",
+        "dialogue": "我的事不用你管",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "悲伤",
+        "duration": 0.77,
+        "description_visual": "中景平拍镜头；酒吧，光线昏暗，有酒瓶；中央人物，身穿白色蝴蝶结衬衫，坐着喝酒，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿黑色西装男子",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，戴眼镜",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有植物",
+        "description_narrative": "近景固定镜头，穿黑色西装男子位于画面中央，站立，戴眼镜，眉毛微蹙，眼睛直视，嘴巴微张，听着女方说不用管。背景是酒吧，光线昏暗，有植物。",
+        "dialogue": "我的事不用你管",
+        "speaker": "穿白色衬衫女子",
+        "emotion": "关切",
+        "duration": 1.97,
+        "description_visual": "近景平拍镜头；酒吧，光线昏暗，有植物；中央人物，身穿黑色西装，黑色衬衫，站立，戴眼镜，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿黑色西装男子",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，戴眼镜",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有植物",
+        "description_narrative": "近景固定镜头，穿黑色西装男子位于画面中央，站立，戴眼镜，眉毛微蹙，眼睛直视，嘴巴微张，表示女方的事就是他的事。背景是酒吧，光线昏暗，有植物。",
+        "dialogue": "你的事就是我的事，我能不管吗",
+        "speaker": "穿黑色西装男子",
+        "emotion": "关切",
+        "duration": 2.1,
+        "description_visual": "近景平拍镜头；酒吧，光线昏暗，有植物；中央人物，身穿黑色西装，黑色衬衫，站立，戴眼镜，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "坐着喝酒",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有酒瓶",
+        "description_narrative": "中景固定镜头，穿白色衬衫女子位于画面中央，坐着喝酒，眉毛微蹙，眼睛看向一侧，嘴巴微张，听着男方表白。背景是酒吧，光线昏暗，有酒瓶。",
+        "dialogue": "我喜欢你这么多年",
+        "speaker": "穿黑色西装男子",
+        "emotion": "悲伤",
+        "duration": 3.17,
+        "description_visual": "中景平拍镜头；酒吧，光线昏暗，有酒瓶；中央人物，身穿白色蝴蝶结衬衫，坐着喝酒，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿黑色西装男子",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "中央",
+                "action": "站立，戴眼镜",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有植物",
+        "description_narrative": "近景固定镜头，穿黑色西装男子位于画面中央，站立，戴眼镜，眉毛微蹙，眼睛直视，嘴巴微张，表示不明白。背景是酒吧，光线昏暗，有植物。",
+        "dialogue": "我真的不明白了",
+        "speaker": "穿黑色西装男子",
+        "emotion": "困惑",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；酒吧，光线昏暗，有植物；中央人物，身穿黑色西装，黑色衬衫，站立，戴眼镜，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "中央",
+                "action": "坐着，手托腮",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有酒瓶",
+        "description_narrative": "中景固定镜头，穿白色衬衫女子位于画面中央，坐着，手托腮，眉毛微蹙，眼睛看向一侧，嘴巴微张，听着男方说话。背景是酒吧，光线昏暗，有酒瓶。",
+        "dialogue": "他能给你的",
+        "speaker": "穿黑色西装男子",
+        "emotion": "悲伤",
+        "duration": 1.73,
+        "description_visual": "中景平拍镜头；酒吧，光线昏暗，有酒瓶；中央人物，身穿白色蝴蝶结衬衫，坐着，手托腮，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "穿黑色西装男子",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "右侧",
+                "action": "站立，背对镜头",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "穿白色衬衫女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "左侧",
+                "action": "坐着",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "酒吧，光线昏暗，有酒柜",
+        "description_narrative": "全景固定镜头，穿黑色西装男子位于画面右侧，站立，背对镜头，眉毛微蹙，眼睛直视，嘴巴微张，向女方表白。穿白色衬衫女子位于画面左侧，坐着，眉毛微蹙，眼睛看向一侧，嘴巴微张。背景是酒吧，光线昏暗，有酒柜。",
+        "dialogue": "子怡你跟我在一起吧",
+        "speaker": "穿黑色西装男子",
+        "emotion": "期待",
+        "duration": 6.47,
+        "description_visual": "全景平拍镜头；酒吧，光线昏暗，有酒柜；右侧人物，身穿黑色西装，黑色衬衫，站立，背对镜头，表情：眉毛微蹙，眼睛直视，嘴巴微张；左侧人物，身穿白色蝴蝶结衬衫，坐着，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    }
+]

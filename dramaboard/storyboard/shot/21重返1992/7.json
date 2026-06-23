@@ -1,0 +1,971 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣，深色裤子",
+                "position": "画面左侧",
+                "action": "坐在小凳子上，双手放在腿上",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面右侧",
+                "action": "坐在小凳子上，身体微微前倾",
+                "expression": "眉毛微蹙，眼睛看向左侧门口，嘴巴微张"
+            }
+        ],
+        "background": "复古风格房间，绿色墙壁，窗户挂着蕾丝窗帘，光线明亮",
+        "description_narrative": "全景固定镜头，复古房间内，女儿坐在左侧，妻子坐在右侧，两人中间隔着一张矮桌，妻子看向门口方向，似乎在等待。",
+        "dialogue": "我回来了。",
+        "speaker": "丈夫",
+        "emotion": "期待",
+        "duration": 1.44,
+        "description_visual": "全景平拍镜头；复古风格房间，绿色墙壁，窗户挂着蕾丝窗帘，光线明亮；画面左侧人物，身穿条纹长袖上衣，深色裤子，坐在小凳子上，双手放在腿上，表情：眉毛平展，眼睛看向前方，嘴巴闭合；画面右侧人物，身穿黄色波点连衣裙，坐在小凳子上，身体微微前倾，表情：眉毛微蹙，眼睛看向左侧门口，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面中央偏右",
+                "action": "双手手指交叉紧扣，身体前倾",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "绿色冰箱，上面放着收音机和暖水瓶，光线柔和",
+        "description_narrative": "中景固定镜头，妻子坐在桌边，双手紧握，神情担忧地看向进屋的人。",
+        "dialogue": "你去哪儿了？",
+        "speaker": "妻子",
+        "emotion": "担忧",
+        "duration": 1.32,
+        "description_visual": "中景平拍镜头；绿色冰箱，上面放着收音机和暖水瓶，光线柔和；画面中央偏右人物，身穿黄色波点连衣裙，双手手指交叉紧扣，身体前倾，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心，黑色裤子",
+                "position": "画面前景",
+                "action": "背对镜头走进房间",
+                "expression": "不可见"
+            },
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面背景",
+                "action": "坐着看向丈夫",
+                "expression": "眉毛微蹙，眼睛注视"
+            }
+        ],
+        "background": "房间入口，绿色墙壁，模糊的背景",
+        "description_narrative": "近景跟拍镜头，丈夫穿着白色背心背对镜头走进房间，画面略有晃动，妻子在背景中注视。",
+        "dialogue": "我去赚钱了。",
+        "speaker": "丈夫",
+        "emotion": "轻松",
+        "duration": 2.6,
+        "description_visual": "近景平拍镜头（跟拍）；房间入口，绿色墙壁，模糊的背景；画面前景人物，身穿白色背心，黑色裤子，背对镜头走进房间，表情：不可见；画面背景人物，身穿黄色波点连衣裙，坐着看向丈夫，表情：眉毛微蹙，眼睛注视。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面前景",
+                "action": "手部动作模糊，似乎在放置物品",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色桌布，模糊的碗碟",
+        "description_narrative": "特写推进镜头，焦点在红色桌布上，丈夫的手部动作模糊，正在桌边忙碌。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写俯拍镜头（推进）；红色桌布，模糊的碗碟；画面前景人物，身穿白色背心，手部动作模糊，似乎在放置物品，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面前景",
+                "action": "手将一叠红色卡片放在桌上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色桌布，白色碗",
+        "description_narrative": "特写固定镜头，丈夫的手将一叠红色的刮刮乐彩票放在红色桌布上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "特写俯拍镜头；红色桌布，白色碗；画面前景人物，身穿白色背心，手将一叠红色卡片放在桌上，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "坐在凳子上看着桌子",
+                "expression": "眉毛平展，眼睛好奇"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "坐在桌后，手放在桌上",
+                "expression": "眉毛舒展，嘴角微扬"
+            },
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面右侧",
+                "action": "坐在凳子上，看着桌子",
+                "expression": "眉毛微蹙，嘴巴紧闭"
+            }
+        ],
+        "background": "房间全景，窗户，绿色墙壁",
+        "description_narrative": "全景固定镜头，三人围坐在矮桌旁，丈夫坐在中间，桌上放着彩票和食物，气氛略显紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "全景平拍镜头；房间全景，窗户，绿色墙壁；画面左侧人物，身穿条纹长袖上衣，坐在凳子上看着桌子，表情：眉毛平展，眼睛好奇；画面中央人物，身穿白色背心，坐在桌后，手放在桌上，表情：眉毛舒展，嘴角微扬；画面右侧人物，身穿黄色波点连衣裙，坐在凳子上，看着桌子，表情：眉毛微蹙，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "身体侧向右边，看着妻子",
+                "expression": "眉毛微挑，眼睛看向妻子，嘴巴微张"
+            }
+        ],
+        "background": "窗户，窗帘，光线明亮",
+        "description_narrative": "中近景固定镜头，丈夫侧身看着妻子，似乎在等待回应或解释。",
+        "dialogue": "这就是你说的赚钱",
+        "speaker": "妻子",
+        "emotion": "讽刺",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；窗户，窗帘，光线明亮；画面中央人物，身穿白色背心，身体侧向右边，看着妻子，表情：眉毛微挑，眼睛看向妻子，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "身体转向妈妈",
+                "expression": "眉毛微蹙，眼睛看向妈妈"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "手放在桌上",
+                "expression": "眉毛平展"
+            },
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面右侧",
+                "action": "坐着",
+                "expression": "眉毛紧蹙"
+            }
+        ],
+        "background": "房间全景",
+        "description_narrative": "全景固定镜头，女儿转头看向妈妈，询问桌上的物品。",
+        "dialogue": "妈妈这是什么呀",
+        "speaker": "女儿",
+        "emotion": "好奇",
+        "duration": 4.56,
+        "description_visual": "全景平拍镜头；房间全景；画面左侧人物，身穿条纹长袖上衣，身体转向妈妈，表情：眉毛微蹙，眼睛看向妈妈；画面中央人物，身穿白色背心，手放在桌上，表情：眉毛平展；画面右侧人物，身穿黄色波点连衣裙，坐着，表情：眉毛紧蹙。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "身体前倾，双手交握",
+                "expression": "眉毛紧蹙，眼睛急切，嘴巴微张"
+            }
+        ],
+        "background": "暖气片，窗户",
+        "description_narrative": "中近景固定镜头，丈夫神情急切，双手交握，试图向妻子解释。",
+        "dialogue": "就是赌博。叶柔你听我解释。这里面肯定有大奖。",
+        "speaker": "丈夫",
+        "emotion": "急切",
+        "duration": 4.24,
+        "description_visual": "中近景平拍镜头；暖气片，窗户；画面中央人物，身穿白色背心，身体前倾，双手交握，表情：眉毛紧蹙，眼睛急切，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "坐着",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "看着妻子",
+                "expression": "表情无奈"
+            },
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面右侧",
+                "action": "身体转向丈夫",
+                "expression": "眉毛紧蹙，嘴巴张开说话"
+            }
+        ],
+        "background": "房间全景",
+        "description_narrative": "全景固定镜头，妻子愤怒地转向丈夫，说出严厉的话，丈夫无奈地看着她。",
+        "dialogue": "狗改不了吃屎",
+        "speaker": "妻子",
+        "emotion": "愤怒",
+        "duration": 2.76,
+        "description_visual": "全景平拍镜头；房间全景；画面左侧人物，身穿条纹长袖上衣，坐着，表情：表情严肃；画面中央人物，身穿白色背心，看着妻子，表情：表情无奈；画面右侧人物，身穿黄色波点连衣裙，身体转向丈夫，表情：眉毛紧蹙，嘴巴张开说话。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "手放在桌上，看着女儿",
+                "expression": "眉毛微挑，眼睛看女儿"
+            },
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "看着爸爸",
+                "expression": "好奇"
+            }
+        ],
+        "background": "桌子，食物",
+        "description_narrative": "中近景固定镜头，丈夫看着女儿，试图辩解买彩票的行为。",
+        "dialogue": "买彩票就是赚钱啊",
+        "speaker": "丈夫",
+        "emotion": "辩解",
+        "duration": 2.44,
+        "description_visual": "中近景平拍镜头；桌子，食物；画面中央人物，身穿白色背心，手放在桌上，看着女儿，表情：眉毛微挑，眼睛看女儿；画面左侧人物，身穿条纹长袖上衣，看着爸爸，表情：好奇。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "身体前倾，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "暖气片，窗户",
+        "description_narrative": "中近景固定镜头，丈夫眼神坚定，坚信彩票里有大奖。",
+        "dialogue": "这里面肯定有大奖",
+        "speaker": "丈夫",
+        "emotion": "坚信",
+        "duration": 1.76,
+        "description_visual": "中近景平拍镜头；暖气片，窗户；画面中央人物，身穿白色背心，身体前倾，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "坐着",
+                "expression": "看着父母"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "表情沮丧"
+            },
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面右侧",
+                "action": "看着丈夫",
+                "expression": "失望"
+            }
+        ],
+        "background": "房间全景",
+        "description_narrative": "全景固定镜头，妻子指责丈夫每次都这么说，丈夫低头不语。",
+        "dialogue": "你每次都说你会赢",
+        "speaker": "妻子",
+        "emotion": "失望",
+        "duration": 1.84,
+        "description_visual": "全景平拍镜头；房间全景；画面左侧人物，身穿条纹长袖上衣，坐着，表情：看着父母；画面中央人物，身穿白色背心，低头，表情：表情沮丧；画面右侧人物，身穿黄色波点连衣裙，看着丈夫，表情：失望。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面右侧",
+                "action": "身体前倾，情绪激动",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "绿色冰箱，收音机",
+        "description_narrative": "中景固定镜头，妻子情绪激动地质问丈夫，指责赌博是无底洞。",
+        "dialogue": "你赢过一次吗？博彩就是个无底洞。你怎么就不懂呢？",
+        "speaker": "妻子",
+        "emotion": "愤怒",
+        "duration": 3.68,
+        "description_visual": "中景平拍镜头；绿色冰箱，收音机；画面右侧人物，身穿黄色波点连衣裙，身体前倾，情绪激动，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "低头，双手交握",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "暖气片，窗户",
+        "description_narrative": "中近景固定镜头，丈夫低头，试图辩解这次不一样。",
+        "dialogue": "这次真的不一样",
+        "speaker": "丈夫",
+        "emotion": "无奈",
+        "duration": 2.56,
+        "description_visual": "中近景平拍镜头；暖气片，窗户；画面中央人物，身穿白色背心，低头，双手交握，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面左侧",
+                "action": "看着妻子",
+                "expression": "无奈"
+            },
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面右侧",
+                "action": "看着丈夫",
+                "expression": "失望"
+            }
+        ],
+        "background": "绿色冰箱",
+        "description_narrative": "中景固定镜头，妻子反驳丈夫每次都说不一样，气氛紧张。",
+        "dialogue": "你每次都说不一样",
+        "speaker": "妻子",
+        "emotion": "失望",
+        "duration": 3.24,
+        "description_visual": "中景平拍镜头；绿色冰箱；画面左侧人物，身穿白色背心，看着妻子，表情：无奈；画面右侧人物，身穿黄色波点连衣裙，看着丈夫，表情：失望。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "坐着",
+                "expression": "看着妈妈"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面中央",
+                "action": "坐着",
+                "expression": "惊讶"
+            },
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面右侧",
+                "action": "站起身来",
+                "expression": "愤怒"
+            }
+        ],
+        "background": "房间全景",
+        "description_narrative": "全景固定镜头，妻子愤怒地站起身，表示今晚就要走。",
+        "dialogue": "我今晚就走",
+        "speaker": "妻子",
+        "emotion": "决绝",
+        "duration": 1.96,
+        "description_visual": "全景平拍镜头；房间全景；画面左侧人物，身穿条纹长袖上衣，坐着，表情：看着妈妈；画面中央人物，身穿白色背心，坐着，表情：惊讶；画面右侧人物，身穿黄色波点连衣裙，站起身来，表情：愤怒。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "低头刮彩票",
+                "expression": "专注"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "低头刮彩票",
+                "expression": "专注"
+            }
+        ],
+        "background": "桌子，彩票，红薯",
+        "description_narrative": "中近景俯拍镜头，丈夫和女儿低头专注地刮着桌上的彩票。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "中近景俯拍镜头；桌子，彩票，红薯；画面左侧人物，身穿条纹长袖上衣，低头刮彩票，表情：专注；画面右侧人物，身穿白色背心，低头刮彩票，表情：专注。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "刮彩票",
+                "expression": "专注"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "刮彩票",
+                "expression": "专注"
+            }
+        ],
+        "background": "桌子，彩票",
+        "description_narrative": "中近景俯拍镜头，两人继续刮彩票，动作细致。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "中近景俯拍镜头；桌子，彩票；画面左侧人物，身穿条纹长袖上衣，刮彩票，表情：专注；画面右侧人物，身穿白色背心，刮彩票，表情：专注。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面前景",
+                "action": "手刮彩票",
+                "expression": "不可见"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面背景",
+                "action": "手刮彩票",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色桌布，彩票",
+        "description_narrative": "特写俯拍镜头，聚焦在两人刮彩票的手部动作上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.84,
+        "description_visual": "特写俯拍镜头；红色桌布，彩票；画面前景人物，身穿条纹长袖上衣，手刮彩票，表情：不可见；画面背景人物，身穿白色背心，手刮彩票，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "刮彩票",
+                "expression": "专注"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "刮彩票",
+                "expression": "专注"
+            }
+        ],
+        "background": "桌子，彩票",
+        "description_narrative": "中近景俯拍镜头，两人继续刮彩票。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "中近景俯拍镜头；桌子，彩票；画面左侧人物，身穿条纹长袖上衣，刮彩票，表情：专注；画面右侧人物，身穿白色背心，刮彩票，表情：专注。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面前景",
+                "action": "手刮彩票",
+                "expression": "不可见"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面背景",
+                "action": "手拿着彩票",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色桌布，彩票",
+        "description_narrative": "特写俯拍镜头，手部特写，刮开彩票的涂层。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.12,
+        "description_visual": "特写俯拍镜头；红色桌布，彩票；画面前景人物，身穿条纹长袖上衣，手刮彩票，表情：不可见；画面背景人物，身穿白色背心，手拿着彩票，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "刮彩票",
+                "expression": "专注"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "刮彩票",
+                "expression": "专注"
+            }
+        ],
+        "background": "桌子，彩票",
+        "description_narrative": "中近景俯拍镜头，两人继续刮彩票。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.08,
+        "description_visual": "中近景俯拍镜头；桌子，彩票；画面左侧人物，身穿条纹长袖上衣，刮彩票，表情：专注；画面右侧人物，身穿白色背心，刮彩票，表情：专注。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "刮彩票",
+                "expression": "专注"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "刮彩票",
+                "expression": "专注"
+            }
+        ],
+        "background": "桌子，彩票",
+        "description_narrative": "中近景俯拍镜头，两人继续刮彩票。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.44,
+        "description_visual": "中近景俯拍镜头；桌子，彩票；画面左侧人物，身穿条纹长袖上衣，刮彩票，表情：专注；画面右侧人物，身穿白色背心，刮彩票，表情：专注。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面前景",
+                "action": "手刮彩票",
+                "expression": "不可见"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面背景",
+                "action": "手刮彩票",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色桌布，彩票",
+        "description_narrative": "特写俯拍镜头，手部特写，刮开彩票。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "特写俯拍镜头；红色桌布，彩票；画面前景人物，身穿条纹长袖上衣，手刮彩票，表情：不可见；画面背景人物，身穿白色背心，手刮彩票，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "抬头看",
+                "expression": "惊讶"
+            },
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面左侧",
+                "action": "坐着",
+                "expression": "看妈妈"
+            }
+        ],
+        "background": "房间，窗户",
+        "description_narrative": "中近景固定镜头，丈夫抬头看向站起的妻子，妻子准备带女儿离开。",
+        "dialogue": "青青走和妈妈去外婆家",
+        "speaker": "妻子",
+        "emotion": "决绝",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；房间，窗户；画面右侧人物，身穿白色背心，抬头看，表情：惊讶；画面左侧人物，身穿条纹长袖上衣，坐着，表情：看妈妈。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "拉着女儿的手",
+                "expression": "严肃"
+            },
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面中央",
+                "action": "被妈妈拉着，看向爸爸",
+                "expression": "犹豫"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "坐着",
+                "expression": "看着女儿"
+            }
+        ],
+        "background": "房间全景",
+        "description_narrative": "全景固定镜头，妻子拉着女儿要走，女儿请求再等一会。",
+        "dialogue": "妈妈等我帮爸爸刮完了再走吧",
+        "speaker": "女儿",
+        "emotion": "请求",
+        "duration": 3.64,
+        "description_visual": "全景平拍镜头；房间全景；画面左侧人物，身穿黄色波点连衣裙，拉着女儿的手，表情：严肃；画面中央人物，身穿条纹长袖上衣，被妈妈拉着，看向爸爸，表情：犹豫；画面右侧人物，身穿白色背心，坐着，表情：看着女儿。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面前景",
+                "action": "手拿彩票",
+                "expression": "不可见"
+            },
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面背景",
+                "action": "手伸向女儿",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色桌布，彩票",
+        "description_narrative": "特写过肩镜头，妻子教育女儿不要学爸爸，彩票只是纸。",
+        "dialogue": "青青你千万不要学你爸爸。这些东西都是纸。就是拿钱换的纸。什么都没有。里面什么都没有。",
+        "speaker": "妻子",
+        "emotion": "教育",
+        "duration": 8.68,
+        "description_visual": "特写过肩镜头；红色桌布，彩票；画面前景人物，身穿条纹长袖上衣，手拿彩票，表情：不可见；画面背景人物，身穿黄色波点连衣裙，手伸向女儿，表情：不可见。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "弯腰看彩票",
+                "expression": "惊讶"
+            },
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面中央",
+                "action": "拿着彩票",
+                "expression": "兴奋"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "拿着彩票",
+                "expression": "狂喜"
+            }
+        ],
+        "background": "房间全景，篮子",
+        "description_narrative": "全景固定镜头，女儿刮开彩票，三人发现中奖，表情从紧张转为惊喜。",
+        "dialogue": "中了，真的中了",
+        "speaker": "丈夫",
+        "emotion": "狂喜",
+        "duration": 5.52,
+        "description_visual": "全景平拍镜头；房间全景，篮子；画面左侧人物，身穿黄色波点连衣裙，弯腰看彩票，表情：惊讶；画面中央人物，身穿条纹长袖上衣，拿着彩票，表情：兴奋；画面右侧人物，身穿白色背心，拿着彩票，表情：狂喜。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "弯腰看",
+                "expression": "惊喜"
+            },
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面中央",
+                "action": "拿着彩票",
+                "expression": "兴奋"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "拿着彩票",
+                "expression": "狂喜"
+            }
+        ],
+        "background": "房间全景，光线变亮",
+        "description_narrative": "全景固定镜头，画面出现闪光效果，三人确认中奖，女儿问妈妈是否中奖。",
+        "dialogue": "真的中了。妈妈中奖了吗？",
+        "speaker": "女儿",
+        "emotion": "兴奋",
+        "duration": 3.68,
+        "description_visual": "全景平拍镜头；房间全景，光线变亮；画面左侧人物，身穿黄色波点连衣裙，弯腰看，表情：惊喜；画面中央人物，身穿条纹长袖上衣，拿着彩票，表情：兴奋；画面右侧人物，身穿白色背心，拿着彩票，表情：狂喜。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妻子",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "弯腰",
+                "expression": "惊喜"
+            },
+            {
+                "name": "女儿",
+                "gender": "女",
+                "clothing": "条纹长袖上衣",
+                "position": "画面中央",
+                "action": "拿着彩票",
+                "expression": "兴奋"
+            },
+            {
+                "name": "丈夫",
+                "gender": "男",
+                "clothing": "白色背心",
+                "position": "画面右侧",
+                "action": "拿着彩票",
+                "expression": "狂喜"
+            }
+        ],
+        "background": "房间全景，强光",
+        "description_narrative": "全景固定镜头，画面强光闪烁，三人沉浸在中奖的喜悦中。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "全景平拍镜头；房间全景，强光；画面左侧人物，身穿黄色波点连衣裙，弯腰，表情：惊喜；画面中央人物，身穿条纹长袖上衣，拿着彩票，表情：兴奋；画面右侧人物，身穿白色背心，拿着彩票，表情：狂喜。"
+    }
+]

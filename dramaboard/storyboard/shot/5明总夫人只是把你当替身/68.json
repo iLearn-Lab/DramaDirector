@@ -1,0 +1,431 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "深色古装/湿衣",
+                "position": "画面左侧",
+                "action": "低头凝视女子，雨水顺着脸颊滑落",
+                "expression": "眉毛微蹙，眼神深情专注，嘴唇微张"
+            },
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "浅色古装/湿衣",
+                "position": "画面右侧",
+                "action": "仰头回望男子，头发湿漉漉贴在脸上",
+                "expression": "眉毛舒展，眼睛湿润注视男子，嘴唇微启"
+            }
+        ],
+        "background": "雨夜，光线昏暗，雨丝清晰可见",
+        "description_narrative": "特写镜头，雨夜中男人和女人近距离对视，雨水打湿了两人的头发和脸庞，气氛暧昧而紧张，男人低头凝视，女人仰头回望。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "深情/紧张",
+        "duration": 4.04,
+        "description_visual": "特写平拍镜头；雨夜，光线昏暗，雨丝清晰可见；画面左侧人物，身穿深色古装/湿衣，低头凝视女子，雨水顺着脸颊滑落，表情：眉毛微蹙，眼神深情专注，嘴唇微张；画面右侧人物，身穿浅色古装/湿衣，仰头回望男子，头发湿漉漉贴在脸上，表情：眉毛舒展，眼睛湿润注视男子，嘴唇微启。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景，白色文字",
+        "description_narrative": "黑色背景屏幕中央显示白色文字“第六十八集”，周围有微弱的光点漂浮。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "全景平拍镜头；黑色背景，白色文字。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "红色紧身长袖上衣，白色挎包",
+                "position": "画面左侧",
+                "action": "正在进入副驾驶座，手扶着座椅边缘",
+                "expression": "面部未完全显示，动作利落"
+            }
+        ],
+        "background": "车内，夜晚，车外有模糊的蓝色灯光",
+        "description_narrative": "中景镜头，身穿红色上衣的女人正在进入车内副驾驶座，手扶着黑色皮质座椅，车外是夜晚的蓝色调灯光。",
+        "dialogue": "你连自己的女人都管不好，傅芯都跑到明皓床上去了，真够骚的。",
+        "speaker": "女人",
+        "emotion": "挑衅/轻蔑",
+        "duration": 6.36,
+        "description_visual": "中景平拍镜头（跟拍）；车内，夜晚，车外有模糊的蓝色灯光；画面左侧人物，身穿红色紧身长袖上衣，白色挎包，正在进入副驾驶座，手扶着座椅边缘，表情：面部未完全显示，动作利落。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "坐在驾驶座，面部表情厌恶，嘴角下撇",
+                "expression": "眉毛紧锁，眼睛斜视，嘴巴紧闭呈厌恶状"
+            }
+        ],
+        "background": "车内驾驶座，夜晚，窗外蓝色夜景",
+        "description_narrative": "中近景镜头，身穿棕色衬衫的男人坐在驾驶座上，听到话后面露厌恶和愤怒，嘴角下撇，眼神看向一侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "厌恶/愤怒",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；车内驾驶座，夜晚，窗外蓝色夜景；画面中央人物，身穿棕色衬衫，坐在驾驶座，面部表情厌恶，嘴角下撇，表情：眉毛紧锁，眼睛斜视，嘴巴紧闭呈厌恶状。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "转头看向副驾驶，神情冷峻警告",
+                "expression": "眉毛压低，眼神锐利，嘴巴微张说话"
+            }
+        ],
+        "background": "车内，夜晚，光线较暗",
+        "description_narrative": "近景镜头，男人转头看向副驾驶方向，神情冷峻地发出警告，侧脸轮廓在昏暗光线下显得严肃。",
+        "dialogue": "你把嘴巴给我放干净点，我不打女人，不代表我手下不会。",
+        "speaker": "男人",
+        "emotion": "愤怒/警告",
+        "duration": 5.68,
+        "description_visual": "近景侧拍镜头；车内，夜晚，光线较暗；画面中央人物，身穿棕色衬衫，转头看向副驾驶，神情冷峻警告，表情：眉毛压低，眼神锐利，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "红色紧身长袖上衣，白色挎包",
+                "position": "画面中央",
+                "action": "坐在副驾驶，身体微侧，眼神看向男人",
+                "expression": "眉毛微挑，眼神带着一丝不屑，嘴唇涂着红唇"
+            }
+        ],
+        "background": "车内副驾驶座，夜晚，蓝色背景光",
+        "description_narrative": "中近景镜头，红衣女人坐在副驾驶座上，身体微侧面向男人，眼神中带着不屑和挑衅，继续言语刺激。",
+        "dialogue": "你们这些男人也都不是什么好东西，想把自己撇的干干净净的。",
+        "speaker": "女人",
+        "emotion": "嘲讽/不屑",
+        "duration": 5.84,
+        "description_visual": "中近景平拍镜头；车内副驾驶座，夜晚，蓝色背景光；画面中央人物，身穿红色紧身长袖上衣，白色挎包，坐在副驾驶，身体微侧，眼神看向男人，表情：眉毛微挑，眼神带着一丝不屑，嘴唇涂着红唇。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "转头盯着女人，眼神疑惑后转为冷硬",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张询问"
+            }
+        ],
+        "background": "车内，夜晚，窗外模糊",
+        "description_narrative": "近景镜头，男人转头盯着女人，眼神中带着疑惑和警告，质问对方的意思，随后表情变得冷硬。",
+        "dialogue": "你什么意思？没什么意思。",
+        "speaker": "男人",
+        "emotion": "疑惑/冷硬",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；车内，夜晚，窗外模糊；画面中央人物，身穿棕色衬衫，转头盯着女人，眼神疑惑后转为冷硬，表情：眉毛微蹙，眼睛直视，嘴巴微张询问。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "红色紧身长袖上衣",
+                "position": "画面中央",
+                "action": "闭着眼睛，头部微仰，语气平淡",
+                "expression": "眉毛舒展，眼睛闭合，嘴唇微动"
+            }
+        ],
+        "background": "车内，暗调，聚焦人物面部",
+        "description_narrative": "特写镜头，女人闭着眼睛，头部微仰，语气平淡地解释自己的话，似乎在揭露男人的心思。",
+        "dialogue": "就是说你压根对傅芯没感觉，我不喜欢傅芯。",
+        "speaker": "女人",
+        "emotion": "平淡/笃定",
+        "duration": 5.52,
+        "description_visual": "特写平拍镜头；车内，暗调，聚焦人物面部；画面中央人物，身穿红色紧身长袖上衣，闭着眼睛，头部微仰，语气平淡，表情：眉毛舒展，眼睛闭合，嘴唇微动。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "看着女人，眼神复杂，似乎在思考",
+                "expression": "眉毛微动，眼神游移，嘴巴紧闭"
+            }
+        ],
+        "background": "车内，夜晚，蓝色背景",
+        "description_narrative": "近景镜头，男人看着女人，眼神复杂，似乎在思考女人的话，表情有些凝重。",
+        "dialogue": "你不喜欢明皓，你都跟我一样。",
+        "speaker": "女人",
+        "emotion": "分析/试探",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；车内，夜晚，蓝色背景；画面中央人物，身穿棕色衬衫，看着女人，眼神复杂，似乎在思考，表情：眉毛微动，眼神游移，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，动作突然，似乎要动手",
+                "expression": "表情模糊，动作迅速"
+            }
+        ],
+        "background": "车内，动态模糊",
+        "description_narrative": "中近景镜头，画面出现动态模糊，男人身体突然前倾，动作迅猛，似乎被激怒准备动手。",
+        "dialogue": "你就是一个",
+        "speaker": "女人",
+        "emotion": "挑衅/紧张",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头（摇镜）；车内，动态模糊；画面中央人物，身穿棕色衬衫，身体前倾，动作突然，似乎要动手，表情：表情模糊，动作迅速。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面右侧",
+                "action": "伸手掐住女人的脖子，眼神凶狠",
+                "expression": "眉毛紧锁，眼神凶狠，嘴巴微张命令"
+            },
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "红色上衣",
+                "position": "画面左侧",
+                "action": "被掐住脖子，头部后仰",
+                "expression": "眼睛睁大，嘴巴微张，表情惊恐"
+            }
+        ],
+        "background": "车内，近距离特写",
+        "description_narrative": "特写镜头，男人伸手狠狠掐住女人的脖子，眼神凶狠地命令她闭嘴，女人头部被迫后仰，表情惊恐。",
+        "dialogue": "闭嘴",
+        "speaker": "男人",
+        "emotion": "暴怒/凶狠",
+        "duration": 1.52,
+        "description_visual": "特写侧拍镜头；车内，近距离特写；画面右侧人物，身穿棕色衬衫，伸手掐住女人的脖子，眼神凶狠，表情：眉毛紧锁，眼神凶狠，嘴巴微张命令；画面左侧人物，身穿红色上衣，被掐住脖子，头部后仰，表情：眼睛睁大，嘴巴微张，表情惊恐。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面右侧",
+                "action": "手依然掐着女人脖子，身体前倾压迫",
+                "expression": "侧脸冷峻，眼神盯着女人"
+            },
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "红色上衣",
+                "position": "画面左侧",
+                "action": "被按在座椅上，手抓着男人的手腕",
+                "expression": "表情痛苦，呼吸困难"
+            }
+        ],
+        "background": "车内，夜晚，光线压抑",
+        "description_narrative": "中景镜头，男人手依然掐着女人的脖子，身体前倾形成压迫感，强调自己的事情不需要别人教，女人痛苦地抓着男人的手腕。",
+        "dialogue": "我自己的事情我自己清楚，不需要任何人来教我做事。听明白了吗？",
+        "speaker": "男人",
+        "emotion": "强势/愤怒",
+        "duration": 7.12,
+        "description_visual": "中景侧拍镜头；车内，夜晚，光线压抑；画面右侧人物，身穿棕色衬衫，手依然掐着女人脖子，身体前倾压迫，表情：侧脸冷峻，眼神盯着女人；画面左侧人物，身穿红色上衣，被按在座椅上，手抓着男人的手腕，表情：表情痛苦，呼吸困难。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "红色上衣，白色挎包",
+                "position": "画面中央",
+                "action": "男人松手后，头部后仰靠在座椅上，闭眼喘息",
+                "expression": "眼睛紧闭，嘴巴微张，表情痛苦"
+            }
+        ],
+        "background": "车内副驾驶座，夜晚",
+        "description_narrative": "中近景镜头，男人松手后，女人头部无力地后仰靠在座椅上，闭着眼睛喘息，脖颈处留有红痕，表情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦/窒息",
+        "duration": 1.36,
+        "description_visual": "中近景侧拍镜头；车内副驾驶座，夜晚；画面中央人物，身穿红色上衣，白色挎包，男人松手后，头部后仰靠在座椅上，闭眼喘息，表情：眼睛紧闭，嘴巴微张，表情痛苦。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "红色上衣",
+                "position": "画面中央",
+                "action": "剧烈咳嗽，手捂着胸口或脖子",
+                "expression": "眉头紧皱，眼睛紧闭，嘴巴张开咳嗽"
+            }
+        ],
+        "background": "车内，夜晚",
+        "description_narrative": "中近景镜头，女人剧烈地咳嗽着，身体因咳嗽而颤抖，手捂着胸口或脖子，显得非常难受。",
+        "dialogue": "咳。",
+        "speaker": "女人",
+        "emotion": "痛苦/咳嗽",
+        "duration": 1.0,
+        "description_visual": "中近景侧拍镜头；车内，夜晚；画面中央人物，身穿红色上衣，剧烈咳嗽，手捂着胸口或脖子，表情：眉头紧皱，眼睛紧闭，嘴巴张开咳嗽。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "坐回驾驶位，目视前方，语气冷淡",
+                "expression": "表情冷漠，眼神直视前方"
+            }
+        ],
+        "background": "车内驾驶座，夜晚",
+        "description_narrative": "中景镜头，男人坐回驾驶位，双手握着方向盘，目视前方，语气冷淡地说听明白了就好，恢复了开车的姿态。",
+        "dialogue": "听明白了就好",
+        "speaker": "男人",
+        "emotion": "冷淡/警告",
+        "duration": 3.16,
+        "description_visual": "中景侧拍镜头；车内驾驶座，夜晚；画面中央人物，身穿棕色衬衫，坐回驾驶位，目视前方，语气冷淡，表情：表情冷漠，眼神直视前方。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "侧脸对着镜头，继续说话",
+                "expression": "神情严肃，嘴巴微张"
+            }
+        ],
+        "background": "车内，夜晚，窗外蓝色",
+        "description_narrative": "近景镜头，男人侧脸对着镜头，神情严肃地表示还有一件事要说，气氛依然压抑。",
+        "dialogue": "我再跟你说件事。",
+        "speaker": "男人",
+        "emotion": "严肃",
+        "duration": 2.76,
+        "description_visual": "近景侧拍镜头；车内，夜晚，窗外蓝色；画面中央人物，身穿棕色衬衫，侧脸对着镜头，继续说话，表情：神情严肃，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "红色上衣，白色挎包",
+                "position": "画面中央",
+                "action": "手摸着刚才被掐的脖子，眼神惊恐地看向男人",
+                "expression": "眉毛微蹙，眼睛睁大，眼神充满恐惧"
+            }
+        ],
+        "background": "车内副驾驶座，夜晚",
+        "description_narrative": "中近景镜头，女人手摸着刚才被掐的脖子，眼神惊恐地看向男人方向，听到男人说傅芯开始调查了，显得非常害怕。",
+        "dialogue": "傅芯已经开始查了。",
+        "speaker": "男人",
+        "emotion": "恐惧/震惊",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；车内副驾驶座，夜晚；画面中央人物，身穿红色上衣，白色挎包，手摸着刚才被掐的脖子，眼神惊恐地看向男人，表情：眉毛微蹙，眼睛睁大，眼神充满恐惧。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "红色上衣",
+                "position": "画面中央",
+                "action": "依然摸着脖子，身体僵硬，不敢动弹",
+                "expression": "眼神呆滞，嘴巴微张，表情恐惧"
+            }
+        ],
+        "background": "车内，夜晚",
+        "description_narrative": "中近景镜头，女人依然摸着脖子，身体僵硬地靠在座椅上，眼神呆滞充满恐惧，不敢动弹，画面在压抑的气氛中结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恐惧/僵住",
+        "duration": 6.44,
+        "description_visual": "中近景平拍镜头；车内，夜晚；画面中央人物，身穿红色上衣，依然摸着脖子，身体僵硬，不敢动弹，表情：眼神呆滞，嘴巴微张，表情恐惧。"
+    }
+]

@@ -1,0 +1,491 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体，光线全黑。",
+        "description_narrative": "画面全黑，持续3.28秒，无可见人物或物体，作为片头或转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体，光线全黑。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "侧身站立，头部微转，手部抬起靠近面部",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "夜晚商场外，背景有绿色霓虹灯牌，光线较暗但有局部照明。",
+        "description_narrative": "镜头侧拍蕾蕾姐特写，她身穿白色衬衫，侧身站立，手部动作模糊，似乎正在转身或抬手，背景是夜晚的绿色霓虹灯。",
+        "dialogue": "臭流氓，蕾蕾姐，蕾蕾姐还真是你啊。我以为认错人了呢？蕾蕾，你怎么在这啊？找你借老公啊？怎么舍不得把你的宝贝老公借给我啊？你又嘲笑我。哎呀，真是两个闷葫芦。前面钻石店有个新品，我呀过来看看。",
+        "speaker": "茜茜",
+        "emotion": "惊讶、调侃",
+        "duration": 26.04,
+        "description_visual": "特写侧拍镜头（跟拍）；夜晚商场外，背景有绿色霓虹灯牌，光线较暗但有局部照明。；画面中央人物，身穿白色衬衫，侧身站立，头部微转，手部抬起靠近面部，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫配粉色长裙",
+                "position": "画面右侧",
+                "action": "站立，身体微侧向左侧女子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "茜茜",
+                "gender": "女",
+                "clothing": "粉色粗花呢外套",
+                "position": "画面左侧",
+                "action": "背对镜头，面向蕾蕾姐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚街道，背景有模糊的行人和灯光，色调偏冷。",
+        "description_narrative": "过肩镜头，茜茜在左前景背对镜头，蕾蕾姐在右侧面对镜头，身穿白色衬衫和粉色长裙，表情略带惊讶地看着茜茜。",
+        "dialogue": "哎 蕾蕾姐",
+        "speaker": "茜茜",
+        "emotion": "惊喜",
+        "duration": 0.96,
+        "description_visual": "中景过肩镜头；夜晚街道，背景有模糊的行人和灯光，色调偏冷。；画面右侧人物，身穿白色衬衫配粉色长裙，站立，身体微侧向左侧女子，表情：眉毛舒展，眼睛注视对方，嘴巴微张；画面左侧人物，身穿粉色粗花呢外套，背对镜头，面向蕾蕾姐，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "茜茜",
+                "gender": "女",
+                "clothing": "粉色粗花呢外套",
+                "position": "画面中央",
+                "action": "正面站立，头部微侧",
+                "expression": "眉毛微扬，眼睛直视对方，嘴巴微张说话"
+            }
+        ],
+        "background": "夜晚商场外，背景有蓝色和白色霓虹灯牌，光线明亮。",
+        "description_narrative": "近景拍摄茜茜，她身穿粉色粗花呢外套，盘发，表情生动，正看着对面的蕾蕾姐说话。",
+        "dialogue": "要不要一起去逛逛",
+        "speaker": "茜茜",
+        "emotion": "邀请、期待",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；夜晚商场外，背景有蓝色和白色霓虹灯牌，光线明亮。；画面中央人物，身穿粉色粗花呢外套，正面站立，头部微侧，表情：眉毛微扬，眼睛直视对方，嘴巴微张说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫配粉色长裙",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张表示拒绝"
+            }
+        ],
+        "background": "夜晚街道，背景有紫色广告牌和路灯，光线柔和。",
+        "description_narrative": "中近景拍摄蕾蕾姐，她表情略显为难，眉头微蹙，嘴巴微张，似乎在委婉拒绝茜茜的邀请。",
+        "dialogue": "哦 我们就不去了 一会还有事呢",
+        "speaker": "蕾蕾姐",
+        "emotion": "为难、推脱",
+        "duration": 2.72,
+        "description_visual": "中近景平拍镜头；夜晚街道，背景有紫色广告牌和路灯，光线柔和。；画面中央人物，身穿白色衬衫配粉色长裙，站立，双手自然下垂，表情：眉毛微蹙，眼睛睁大，嘴巴微张表示拒绝。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "茜茜",
+                "gender": "女",
+                "clothing": "粉色粗花呢外套",
+                "position": "画面中央",
+                "action": "身体前倾，表情恳切",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张撒娇"
+            }
+        ],
+        "background": "夜晚商场外，背景有蓝色霓虹灯牌，光线较亮。",
+        "description_narrative": "近景拍摄茜茜，她身体微微前倾，表情带着撒娇和坚持，试图说服蕾蕾姐。",
+        "dialogue": "哎呀 就一起去嘛 难道你要看我一个人 孤苦伶仃的去吗？",
+        "speaker": "茜茜",
+        "emotion": "撒娇、坚持",
+        "duration": 5.08,
+        "description_visual": "近景平拍镜头；夜晚商场外，背景有蓝色霓虹灯牌，光线较亮。；画面中央人物，身穿粉色粗花呢外套，身体前倾，表情恳切，表情：眉毛微挑，眼睛注视对方，嘴巴微张撒娇。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫配粉色长裙",
+                "position": "画面中央",
+                "action": "低头，双手交握在身前",
+                "expression": "眉毛下垂，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚街道，背景有紫色广告牌，光线柔和。",
+        "description_narrative": "中近景拍摄蕾蕾姐，她低下头，双手交握，表情显得犹豫和无奈，似乎在思考如何回应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "犹豫、无奈",
+        "duration": 0.88,
+        "description_visual": "中近景平拍镜头；夜晚街道，背景有紫色广告牌，光线柔和。；画面中央人物，身穿白色衬衫配粉色长裙，低头，双手交握在身前，表情：眉毛下垂，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "茜茜",
+                "gender": "女",
+                "clothing": "粉色粗花呢外套",
+                "position": "画面中央",
+                "action": "手持手机，眼神狡黠",
+                "expression": "眉毛微扬，眼睛直视对方，嘴巴微张提议"
+            }
+        ],
+        "background": "夜晚商场外，背景有红色和白色霓虹灯牌，光线明亮。",
+        "description_narrative": "近景拍摄茜茜，她手持手机，眼神带着一丝狡黠，提出了一个新的建议。",
+        "dialogue": "要嘛你去忙你的 让他陪",
+        "speaker": "茜茜",
+        "emotion": "试探、提议",
+        "duration": 2.96,
+        "description_visual": "近景平拍镜头；夜晚商场外，背景有红色和白色霓虹灯牌，光线明亮。；画面中央人物，身穿粉色粗花呢外套，手持手机，眼神狡黠，表情：眉毛微扬，眼睛直视对方，嘴巴微张提议。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "低头，表情尴尬",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景有树木，光线较暗。",
+        "description_narrative": "特写拍摄黑衣男子，他身穿黑色衬衫，低着头，表情显得尴尬和局促，似乎对茜茜的提议感到意外。",
+        "dialogue": "让他陪我去好了",
+        "speaker": "茜茜",
+        "emotion": "尴尬、被动",
+        "duration": 0.76,
+        "description_visual": "特写平拍镜头；夜晚户外，背景有树木，光线较暗。；画面中央人物，身穿黑色衬衫，低头，表情尴尬，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫配粉色长裙",
+                "position": "画面中央",
+                "action": "身体微侧，表情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街道，背景有紫色广告牌，光线柔和。",
+        "description_narrative": "过肩镜头，蕾蕾姐站在中间，表情惊讶地看着茜茜和黑衣男子，似乎对茜茜的直接要求感到意外。",
+        "dialogue": "啊",
+        "speaker": "蕾蕾姐",
+        "emotion": "惊讶、错愕",
+        "duration": 1.16,
+        "description_visual": "中近景过肩镜头；夜晚街道，背景有紫色广告牌，光线柔和。；画面中央人物，身穿白色衬衫配粉色长裙，身体微侧，表情惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫配粉色长裙",
+                "position": "画面中央",
+                "action": "双手交握，表情缓和",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张妥协"
+            }
+        ],
+        "background": "夜晚街道，背景有紫色广告牌，光线柔和。",
+        "description_narrative": "中近景拍摄蕾蕾姐，她双手交握在身前，表情从惊讶转为缓和，似乎做出了妥协的决定。",
+        "dialogue": "呃我觉得还是我们一起去吧",
+        "speaker": "蕾蕾姐",
+        "emotion": "妥协、无奈",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；夜晚街道，背景有紫色广告牌，光线柔和。；画面中央人物，身穿白色衬衫配粉色长裙，双手交握，表情缓和，表情：眉毛舒展，眼睛微眯，嘴巴微张妥协。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "抬头，表情复杂",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景有树木，光线较暗。",
+        "description_narrative": "特写拍摄黑衣男子，他抬起头，表情复杂，眼神中透露出一丝无奈和尴尬。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无奈、尴尬",
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头；夜晚户外，背景有树木，光线较暗。；画面中央人物，身穿黑色衬衫，抬头，表情复杂，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "茜茜",
+                "gender": "女",
+                "clothing": "粉色粗花呢外套",
+                "position": "画面中央",
+                "action": "侧身，眼神挑衅",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张调侃"
+            }
+        ],
+        "background": "夜晚商场外，背景有绿色霓虹灯牌，光线明亮。",
+        "description_narrative": "近景拍摄茜茜，她侧身站立，眼神带着一丝挑衅和得意，继续用言语刺激蕾蕾姐。",
+        "dialogue": "看来蕾蕾姐 还是怕我抢你老公啊",
+        "speaker": "茜茜",
+        "emotion": "挑衅、得意",
+        "duration": 2.52,
+        "description_visual": "近景平拍镜头；夜晚商场外，背景有绿色霓虹灯牌，光线明亮。；画面中央人物，身穿粉色粗花呢外套，侧身，眼神挑衅，表情：眉毛微挑，眼睛斜视，嘴巴微张调侃。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫配粉色长裙",
+                "position": "画面中央",
+                "action": "站立，表情不悦",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚街道，背景有紫色广告牌，光线柔和。",
+        "description_narrative": "中近景拍摄蕾蕾姐，她表情不悦，眉头微蹙，侧眼看着茜茜，对茜茜的挑衅表示不满。",
+        "dialogue": "谁稀罕谁啊",
+        "speaker": "蕾蕾姐",
+        "emotion": "不悦、反驳",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；夜晚街道，背景有紫色广告牌，光线柔和。；画面中央人物，身穿白色衬衫配粉色长裙，站立，表情不悦，表情：眉毛微蹙，眼睛侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "茜茜",
+                "gender": "女",
+                "clothing": "粉色粗花呢外套",
+                "position": "画面中央",
+                "action": "正面，表情夸张",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张假装开心"
+            }
+        ],
+        "background": "夜晚商场外，背景有蓝色霓虹灯牌，光线明亮。",
+        "description_narrative": "近景拍摄茜茜，她表情夸张，眼睛睁大，假装开心地回应蕾蕾姐，继续维持表面的友好。",
+        "dialogue": "我就知道你最好了",
+        "speaker": "茜茜",
+        "emotion": "假装开心、讽刺",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；夜晚商场外，背景有蓝色霓虹灯牌，光线明亮。；画面中央人物，身穿粉色粗花呢外套，正面，表情夸张，表情：眉毛上扬，眼睛睁大，嘴巴微张假装开心。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫配粉色长裙",
+                "position": "画面左侧",
+                "action": "伸手拉住茜茜的手臂",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "茜茜",
+                "gender": "女",
+                "clothing": "粉色粗花呢外套",
+                "position": "画面右侧",
+                "action": "被拉住手臂，身体微侧",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央后景",
+                "action": "站立，手持文件夹",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚户外，背景有树木，光线较暗。",
+        "description_narrative": "中景拍摄三人，蕾蕾姐在左侧伸手拉住茜茜的手臂，茜茜在右侧，黑衣男子站在两人身后，表情尴尬。",
+        "dialogue": "那我可就收下了啊",
+        "speaker": "茜茜",
+        "emotion": "得意、接受",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；夜晚户外，背景有树木，光线较暗。；画面左侧人物，身穿白色衬衫配粉色长裙，伸手拉住茜茜的手臂，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面右侧人物，身穿粉色粗花呢外套，被拉住手臂，身体微侧，表情：眉毛微扬，眼睛注视对方，嘴巴微张；画面中央后景人物，身穿黑色衬衫，站立，手持文件夹，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "侧头，表情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "夜晚户外，背景有树木，光线较暗。",
+        "description_narrative": "特写拍摄黑衣男子，他侧过头，表情惊讶，嘴巴微张，似乎对茜茜的“收下”感到意外。",
+        "dialogue": "哎~",
+        "speaker": "黑衣男子",
+        "emotion": "惊讶、抗议",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；夜晚户外，背景有树木，光线较暗。；画面中央人物，身穿黑色衬衫，侧头，表情惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫配粉色长裙",
+                "position": "画面中央",
+                "action": "站立，双手交握",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚街道，背景有紫色广告牌，光线柔和。",
+        "description_narrative": "中近景拍摄蕾蕾姐，她双手交握在身前，表情尴尬，视线下移，似乎对当前的局面感到无语。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "尴尬、无语",
+        "duration": 1.36,
+        "description_visual": "中近景平拍镜头；夜晚街道，背景有紫色广告牌，光线柔和。；画面中央人物，身穿白色衬衫配粉色长裙，站立，双手交握，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "茜茜",
+                "gender": "女",
+                "clothing": "粉色粗花呢外套",
+                "position": "画面中央",
+                "action": "低头，表情收敛",
+                "expression": "眉毛下垂，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚商场外，背景有绿色霓虹灯牌，光线明亮。",
+        "description_narrative": "近景拍摄茜茜，她低下头，表情收敛，似乎在观察蕾蕾姐的反应，气氛略显紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "观察、收敛",
+        "duration": 3.24,
+        "description_visual": "近景平拍镜头；夜晚商场外，背景有绿色霓虹灯牌，光线明亮。；画面中央人物，身穿粉色粗花呢外套，低头，表情收敛，表情：眉毛下垂，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蕾蕾姐",
+                "gender": "女",
+                "clothing": "白色衬衫配粉色长裙",
+                "position": "画面中央",
+                "action": "微笑，身体放松",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张微笑"
+            }
+        ],
+        "background": "夜晚街道，背景有紫色广告牌，光线柔和。",
+        "description_narrative": "中近景拍摄蕾蕾姐，她露出微笑，身体放松，似乎用玩笑化解了刚才的尴尬气氛。",
+        "dialogue": "瞧把你们俩给吓的",
+        "speaker": "蕾蕾姐",
+        "emotion": "轻松、调侃",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；夜晚街道，背景有紫色广告牌，光线柔和。；画面中央人物，身穿白色衬衫配粉色长裙，微笑，身体放松，表情：眉毛舒展，眼睛微眯，嘴巴微张微笑。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "淡出",
+        "subjects": [],
+        "background": "纯白背景，无可见物体，光线全白。",
+        "description_narrative": "画面渐变为全白，持续3.0秒，作为片尾或转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.0,
+        "description_visual": "全景平拍镜头（淡出）；纯白背景，无可见物体，光线全白。。"
+    }
+]

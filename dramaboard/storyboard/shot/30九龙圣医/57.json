@@ -1,0 +1,873 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "米色家居服",
+                "position": "画面中央",
+                "action": "躺在沙发上睡觉",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "卧室场景，沙发，米色墙壁，光线柔和",
+        "description_narrative": "全景固定镜头，男主角身穿米色家居服躺在沙发上熟睡，画面上方有剧集标题。",
+        "dialogue": "起来",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 3.48,
+        "description_visual": "全景平拍镜头；卧室场景，沙发，米色墙壁，光线柔和；画面中央人物，身穿米色家居服，躺在沙发上睡觉，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "站立，低头看",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室，米色墙壁，室内灯光",
+        "description_narrative": "仰拍中景，杨千雪身穿香槟色丝绸睡裙站立，低头看着沙发上的人，表情严肃。",
+        "dialogue": "起来起来起来起来",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 4.28,
+        "description_visual": "中景仰拍镜头；卧室，米色墙壁，室内灯光；画面中央人物，身穿香槟色丝绸睡裙，站立，低头看，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "手部动作，整理裙摆",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室，模糊背景",
+        "description_narrative": "特写跟拍，杨千雪的手部动作，整理丝绸睡裙的裙摆。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.4,
+        "description_visual": "特写平拍镜头（跟拍）；卧室，模糊背景；画面中央人物，身穿香槟色丝绸睡裙，手部动作，整理裙摆，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面左侧",
+                "action": "俯身靠近男主角",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "米色家居服",
+                "position": "画面右侧",
+                "action": "躺着",
+                "expression": "眼睛闭合"
+            }
+        ],
+        "background": "卧室，沙发，枕头",
+        "description_narrative": "俯拍中近景，杨千雪俯身靠近躺在沙发上的男主角，两人距离很近。",
+        "dialogue": "起来",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 3.88,
+        "description_visual": "中近景俯拍镜头；卧室，沙发，枕头；画面左侧人物，身穿香槟色丝绸睡裙，俯身靠近男主角，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面右侧人物，身穿米色家居服，躺着，表情：眼睛闭合。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室，模糊背景",
+        "description_narrative": "特写固定镜头，杨千雪低头，头发垂下，表情专注。",
+        "dialogue": "你做什么啊",
+        "speaker": "男主角",
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "特写平拍镜头；卧室，模糊背景；画面中央人物，身穿香槟色丝绸睡裙，低头，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室，模糊背景",
+        "description_narrative": "特写固定镜头，杨千雪保持低头姿势，头发细节清晰。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；卧室，模糊背景；画面中央人物，身穿香槟色丝绸睡裙，低头，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "侧脸，低头",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，模糊背景",
+        "description_narrative": "侧拍特写，杨千雪侧脸低头，项链可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.36,
+        "description_visual": "特写侧拍镜头；卧室，模糊背景；画面中央人物，身穿香槟色丝绸睡裙，侧脸，低头，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "侧脸，低头",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，模糊背景",
+        "description_narrative": "侧拍特写，杨千雪侧脸，表情柔和。",
+        "dialogue": "嗯",
+        "speaker": "男主角",
+        "emotion": null,
+        "duration": 0.32,
+        "description_visual": "特写侧拍镜头；卧室，模糊背景；画面中央人物，身穿香槟色丝绸睡裙，侧脸，低头，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "侧脸，低头",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，模糊背景",
+        "description_narrative": "侧拍特写，杨千雪侧脸，项链细节清晰。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "特写侧拍镜头；卧室，模糊背景；画面中央人物，身穿香槟色丝绸睡裙，侧脸，低头，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "侧脸，低头",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，模糊背景",
+        "description_narrative": "侧拍特写，杨千雪侧脸，表情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.8,
+        "description_visual": "特写侧拍镜头；卧室，模糊背景；画面中央人物，身穿香槟色丝绸睡裙，侧脸，低头，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面左侧",
+                "action": "俯身，脸靠近男主角",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "米色家居服",
+                "position": "画面右侧",
+                "action": "躺着",
+                "expression": "眼睛闭合"
+            }
+        ],
+        "background": "卧室，沙发，蓝色枕头",
+        "description_narrative": "平拍中近景，杨千雪俯身脸靠近男主角，两人面对面。",
+        "dialogue": "起来",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 4.84,
+        "description_visual": "中近景平拍镜头；卧室，沙发，蓝色枕头；画面左侧人物，身穿香槟色丝绸睡裙，俯身，脸靠近男主角，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面右侧人物，身穿米色家居服，躺着，表情：眼睛闭合。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "站立，双臂交叉",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，米色墙壁",
+        "description_narrative": "仰拍中景，杨千雪站立，双臂交叉抱胸，表情严肃。",
+        "dialogue": "你压着我怎么起来",
+        "speaker": "男主角",
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "中景仰拍镜头；卧室，米色墙壁；画面中央人物，身穿香槟色丝绸睡裙，站立，双臂交叉，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "站立，双臂交叉",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，米色墙壁",
+        "description_narrative": "仰拍中景，杨千雪保持站立姿势，说话。",
+        "dialogue": "今天下午 城南有个拍卖会 我想去",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 3.36,
+        "description_visual": "中景仰拍镜头；卧室，米色墙壁；画面中央人物，身穿香槟色丝绸睡裙，站立，双臂交叉，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "米色家居服",
+                "position": "画面右侧",
+                "action": "躺在沙发上",
+                "expression": "眼睛闭合"
+            }
+        ],
+        "background": "卧室，沙发，茶几",
+        "description_narrative": "平拍全景，杨千雪站立在沙发旁，男主角躺在沙发上。",
+        "dialogue": "灵儿 这丫头闹了好久了 你跟着去",
+        "speaker": "男主角",
+        "emotion": null,
+        "duration": 5.2,
+        "description_visual": "全景平拍镜头；卧室，沙发，茶几；画面左侧人物，身穿香槟色丝绸睡裙，站立，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面右侧人物，身穿米色家居服，躺在沙发上，表情：眼睛闭合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "米色家居服",
+                "position": "画面中央",
+                "action": "躺着，手摸额头",
+                "expression": "眉毛微蹙，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室，沙发，蓝色枕头",
+        "description_narrative": "平拍中近景，男主角躺在沙发上，手摸额头，表情疲惫。",
+        "dialogue": "拍卖会 灵儿",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 4.76,
+        "description_visual": "中近景平拍镜头；卧室，沙发，蓝色枕头；画面中央人物，身穿米色家居服，躺着，手摸额头，表情：眉毛微蹙，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "站立，双臂交叉",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，米色墙壁",
+        "description_narrative": "仰拍中景，杨千雪站立，双臂交叉，表情严肃。",
+        "dialogue": "这不是你该考虑的",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 3.32,
+        "description_visual": "中景仰拍镜头；卧室，米色墙壁；画面中央人物，身穿香槟色丝绸睡裙，站立，双臂交叉，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "香槟色丝绸睡裙",
+                "position": "画面中央",
+                "action": "站立，双臂交叉",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，米色墙壁",
+        "description_narrative": "仰拍中景，杨千雪保持站立姿势，继续说话。",
+        "dialogue": "这不是你该考虑的 你该好好考虑考虑 怎么打扮打扮自己",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 5.28,
+        "description_visual": "中景仰拍镜头；卧室，米色墙壁；画面中央人物，身穿香槟色丝绸睡裙，站立，双臂交叉，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "灵儿",
+                "gender": "女",
+                "clothing": "绿色吊带长裙",
+                "position": "画面左侧",
+                "action": "行走",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面中央",
+                "action": "行走",
+                "expression": "眉毛舒展，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面右侧",
+                "action": "行走，挽着男主角手臂",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁，红色管道",
+        "description_narrative": "平拍全景跟拍，三人并排行走在走廊，灵儿在左，男主角在中，杨千雪在右挽着男主角。",
+        "dialogue": "听说最近有一条拍卖的项链 特别的好看",
+        "speaker": "灵儿",
+        "emotion": null,
+        "duration": 1.72,
+        "description_visual": "全景平拍镜头（跟拍）；走廊，白色墙壁，红色管道；画面左侧人物，身穿绿色吊带长裙，行走，表情：眉毛舒展，眼睛直视，嘴巴微张；画面中央人物，身穿深灰色双排扣西装，行走，表情：眉毛舒展，眼睛直视，嘴巴紧闭；画面右侧人物，身穿黑色露肩晚礼服，行走，挽着男主角手臂，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面左侧",
+                "action": "行走",
+                "expression": "眉毛舒展，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面右侧",
+                "action": "行走，挽着男主角手臂",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中景跟拍，男主角和杨千雪并排行走，杨千雪说话。",
+        "dialogue": "好像就是 拍卖的第一条吧 嗯 那到时候 我给你买一条",
+        "speaker": "男主角",
+        "emotion": null,
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头（跟拍）；走廊，白色墙壁；画面左侧人物，身穿深灰色双排扣西装，行走，表情：眉毛舒展，眼睛下视，嘴巴紧闭；画面右侧人物，身穿黑色露肩晚礼服，行走，挽着男主角手臂，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "灵儿",
+                "gender": "女",
+                "clothing": "绿色吊带长裙",
+                "position": "画面左侧",
+                "action": "行走",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面中央",
+                "action": "行走",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面右侧",
+                "action": "行走",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中景跟拍，三人继续行走，灵儿说话。",
+        "dialogue": "哪有那么多钱",
+        "speaker": "灵儿",
+        "emotion": null,
+        "duration": 0.32,
+        "description_visual": "中景平拍镜头（跟拍）；走廊，白色墙壁；画面左侧人物，身穿绿色吊带长裙，行走，表情：眉毛微蹙，眼睛直视，嘴巴微张；画面中央人物，身穿深灰色双排扣西装，行走，表情：眉毛舒展，眼睛直视，嘴巴微张；画面右侧人物，身穿黑色露肩晚礼服，行走，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面中央",
+                "action": "行走",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面右侧",
+                "action": "行走",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中景跟拍，男主角和杨千雪行走，男主角说话。",
+        "dialogue": "吹",
+        "speaker": "男主角",
+        "emotion": null,
+        "duration": 0.36,
+        "description_visual": "中景平拍镜头（跟拍）；走廊，白色墙壁；画面中央人物，身穿深灰色双排扣西装，行走，表情：眉毛微蹙，眼睛直视，嘴巴微张；画面右侧人物，身穿黑色露肩晚礼服，行走，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面中央",
+                "action": "行走，转头",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴紧闭"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面右侧",
+                "action": "行走",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中景跟拍，男主角转头，杨千雪说话。",
+        "dialogue": "千雪",
+        "speaker": "唐家人",
+        "emotion": null,
+        "duration": 0.32,
+        "description_visual": "中景平拍镜头（跟拍）；走廊，白色墙壁；画面中央人物，身穿深灰色双排扣西装，行走，转头，表情：眉毛微蹙，眼睛侧视，嘴巴紧闭；画面右侧人物，身穿黑色露肩晚礼服，行走，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面中央",
+                "action": "站立，转头",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中近景，杨千雪转头，表情惊讶。",
+        "dialogue": "千雪",
+        "speaker": "唐家人",
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；走廊，白色墙壁；画面中央人物，身穿黑色露肩晚礼服，站立，转头，表情：眉毛微蹙，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面中央",
+                "action": "转头",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍特写，杨千雪侧脸，表情疑惑。",
+        "dialogue": "嗯",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 3.36,
+        "description_visual": "特写平拍镜头；走廊，白色墙壁；画面中央人物，身穿黑色露肩晚礼服，转头，表情：眉毛微蹙，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐家人",
+                "gender": "男",
+                "clothing": "黑色长风衣，眼镜",
+                "position": "画面右侧",
+                "action": "站立，说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中景，唐家人身穿黑色长风衣，戴眼镜，说话。",
+        "dialogue": "嗯哼",
+        "speaker": "唐家人",
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；走廊，白色墙壁；画面右侧人物，身穿黑色长风衣，眼镜，站立，说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，抬头",
+                "expression": "眉毛微蹙，眼睛上视，嘴巴紧闭"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "走廊，白色墙壁，门",
+        "description_narrative": "平拍中景，男主角抬头，杨千雪站在旁边，表情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 11.12,
+        "description_visual": "中景平拍镜头；走廊，白色墙壁，门；画面中央人物，身穿深灰色双排扣西装，站立，抬头，表情：眉毛微蹙，眼睛上视，嘴巴紧闭；画面右侧人物，身穿黑色露肩晚礼服，站立，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐家人",
+                "gender": "男",
+                "clothing": "黑色长风衣，眼镜",
+                "position": "画面中央",
+                "action": "站立，说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中景，唐家人说话，表情傲慢。",
+        "dialogue": "今天 有这么重要场合",
+        "speaker": "唐家人",
+        "emotion": null,
+        "duration": 4.56,
+        "description_visual": "中景平拍镜头；走廊，白色墙壁；画面中央人物，身穿黑色长风衣，眼镜，站立，说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐家人",
+                "gender": "男",
+                "clothing": "黑色长风衣，眼镜",
+                "position": "画面中央",
+                "action": "站立，说话，手势",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中景，唐家人说话，带有手势。",
+        "dialogue": "你们娘家怎么会 让这个上门女婿来",
+        "speaker": "唐家人",
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头；走廊，白色墙壁；画面中央人物，身穿黑色长风衣，眼镜，站立，说话，手势，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中景，男主角和杨千雪站立，表情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.56,
+        "description_visual": "中景平拍镜头；走廊，白色墙壁；画面左侧人物，身穿深灰色双排扣西装，站立，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面右侧人物，身穿黑色露肩晚礼服，站立，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍特写，杨千雪说话，表情坚定。",
+        "dialogue": "不管他是谁既然做了 我杨千雪的丈夫 就不允许有人侮辱他 不好意思 我们赶时间先走 走灵儿",
+        "speaker": "杨千雪",
+        "emotion": null,
+        "duration": 2.16,
+        "description_visual": "特写平拍镜头；走廊，白色墙壁；画面中央人物，身穿黑色露肩晚礼服，说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐家人",
+                "gender": "男",
+                "clothing": "黑色长风衣，眼镜",
+                "position": "画面中央",
+                "action": "站立，说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "平拍中景，唐家人说话，表情愤怒。",
+        "dialogue": "敢扫我唐家脸面",
+        "speaker": "唐家人",
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头；走廊，白色墙壁；画面中央人物，身穿黑色长风衣，眼镜，站立，说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐家人",
+                "gender": "男",
+                "clothing": "黑色长风衣，眼镜",
+                "position": "画面左侧",
+                "action": "站立，说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "走廊，白色墙壁",
+        "description_narrative": "侧拍中景，唐家人侧身说话，表情威胁。",
+        "dialogue": "今天 我就让你下不来台",
+        "speaker": "唐家人",
+        "emotion": null,
+        "duration": 3.56,
+        "description_visual": "中景侧拍镜头；走廊，白色墙壁；画面左侧人物，身穿黑色长风衣，眼镜，站立，说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灵儿",
+                "gender": "女",
+                "clothing": "绿色吊带长裙",
+                "position": "画面背景",
+                "action": "行走",
+                "expression": "不可见"
+            },
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面背景",
+                "action": "行走",
+                "expression": "不可见"
+            },
+            {
+                "name": "杨千雪",
+                "gender": "女",
+                "clothing": "黑色露肩晚礼服",
+                "position": "画面背景",
+                "action": "行走",
+                "expression": "不可见"
+            }
+        ],
+        "background": "走廊，白色墙壁，远处",
+        "description_narrative": "平拍远景，三人走在走廊远处，唐家人在前景说话。",
+        "dialogue": "是",
+        "speaker": "唐家手下",
+        "emotion": null,
+        "duration": 2.16,
+        "description_visual": "远景平拍镜头；走廊，白色墙壁，远处；画面背景人物，身穿绿色吊带长裙，行走，表情：不可见；画面背景人物，身穿深灰色双排扣西装，行走，表情：不可见；画面背景人物，身穿黑色露肩晚礼服，行走，表情：不可见。"
+    }
+]

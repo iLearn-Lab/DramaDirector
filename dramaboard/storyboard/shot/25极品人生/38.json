@@ -1,0 +1,2096 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "背对镜头向前行走",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣，黑色短裙",
+                "position": "画面左侧",
+                "action": "奔跑追赶，手臂摆动",
+                "expression": "眉毛微扬，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "现代建筑外墙，灰色地砖，阴天光线",
+        "description_narrative": "低角度远景镜头，西装男身穿黑色西装背对镜头向前行走，黑衣女孩身穿黑色抹胸上衣和短裙在后方奔跑追赶，背景为现代建筑外墙。",
+        "dialogue": "哥哥等等我",
+        "speaker": "黑衣女孩",
+        "emotion": "急切",
+        "duration": 1.67,
+        "description_visual": "远景低角度镜头；现代建筑外墙，灰色地砖，阴天光线；画面右侧人物，身穿黑色西装，背对镜头向前行走，表情：眉毛平展，眼睛看向前方，嘴巴闭合；画面左侧人物，身穿黑色抹胸上衣，黑色短裙，奔跑追赶，手臂摆动，表情：眉毛微扬，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣，黑色短裙",
+                "position": "画面中央",
+                "action": "奔跑中伸手向前，头发飞扬",
+                "expression": "眉毛舒展，眼睛笑成弯月，嘴巴张开露齿笑"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧边缘",
+                "action": "部分身体可见，向前行走",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的城市街道背景，灰色调",
+        "description_narrative": "中景跟拍镜头，黑衣女孩奔跑中伸手向前，长发随风飞扬，脸上带着灿烂笑容，西装男部分身体在右侧边缘可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头（跟拍）；模糊的城市街道背景，灰色调；画面中央人物，身穿黑色抹胸上衣，黑色短裙，奔跑中伸手向前，头发飞扬，表情：眉毛舒展，眼睛笑成弯月，嘴巴张开露齿笑；画面右侧边缘人物，身穿黑色西装，部分身体可见，向前行走，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "停下脚步，低头看向女孩",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧前景",
+                "action": "背对镜头，面对男子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "中近景固定镜头，西装男停下脚步低头看向面前的黑衣女孩，表情略带疑惑，女孩背对镜头站在左侧。",
+        "dialogue": "你还真去啊",
+        "speaker": "黑衣女孩",
+        "emotion": "惊讶",
+        "duration": 1.43,
+        "description_visual": "中近景平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿黑色西装，白衬衫，黑领带，停下脚步，低头看向女孩，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面左侧前景人物，身穿黑色抹胸上衣，背对镜头，面对男子，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧",
+                "action": "抬头看着男子，嘴唇微嘟",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微嘟"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "过肩特写镜头，黑衣女孩抬头看着男子，嘴唇微嘟，表情略带质疑，男子背影在右侧前景。",
+        "dialogue": "我倒要看看",
+        "speaker": "西装男",
+        "emotion": "挑衅",
+        "duration": 0.97,
+        "description_visual": "特写过肩镜头；模糊的街道背景；画面左侧人物，身穿黑色抹胸上衣，抬头看着男子，嘴唇微嘟，表情：眉毛微挑，眼睛注视对方，嘴巴微嘟；画面右侧前景人物，身穿黑色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "低头看着女孩，身体微倾",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "中近景固定镜头，西装男低头看着女孩，身体微倾，表情认真，女孩背影在左侧。",
+        "dialogue": "那个店里有没有小姑娘",
+        "speaker": "黑衣女孩",
+        "emotion": "试探",
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿黑色西装，白衬衫，黑领带，低头看着女孩，身体微倾，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面左侧人物，身穿黑色抹胸上衣，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧",
+                "action": "低头微笑，眼神狡黠",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "过肩特写镜头，黑衣女孩低头微笑，眼神狡黠，似乎在开玩笑，男子背影在右侧。",
+        "dialogue": "勾搭你",
+        "speaker": "西装男",
+        "emotion": "调侃",
+        "duration": 1.87,
+        "description_visual": "特写过肩镜头；模糊的街道背景；画面左侧人物，身穿黑色抹胸上衣，低头微笑，眼神狡黠，表情：眉毛舒展，眼睛下视，嘴角上扬；画面右侧前景人物，身穿黑色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，黑领带",
+                "position": "画面右侧",
+                "action": "低头靠近女孩，手放在女孩肩膀",
+                "expression": "眉毛微蹙，眼睛注视女孩，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧",
+                "action": "抬头看着男子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "中近景固定镜头，西装男低头靠近女孩，手放在女孩肩膀上，表情认真，女孩抬头看着他。",
+        "dialogue": "你穿成",
+        "speaker": "西装男",
+        "emotion": "不满",
+        "duration": 1.07,
+        "description_visual": "中近景平拍镜头；白色瓷砖建筑墙面；画面右侧人物，身穿黑色西装，白衬衫，黑领带，低头靠近女孩，手放在女孩肩膀，表情：眉毛微蹙，眼睛注视女孩，嘴巴微张；画面左侧人物，身穿黑色抹胸上衣，抬头看着男子，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，黑领带",
+                "position": "画面右侧",
+                "action": "双手扶着女孩肩膀",
+                "expression": "眉毛微蹙，眼睛注视女孩，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣，黑色短裙",
+                "position": "画面左侧",
+                "action": "侧身站立，看着男子",
+                "expression": "眉毛平展，眼睛注视对方，嘴巴闭合"
+            }
+        ],
+        "background": "模糊的建筑背景",
+        "description_narrative": "中景固定镜头，西装男双手扶着女孩肩膀，低头看着她，女孩侧身站立，表情平静。",
+        "dialogue": "这样",
+        "speaker": "西装男",
+        "emotion": "严肃",
+        "duration": 1.3,
+        "description_visual": "中景平拍镜头；模糊的建筑背景；画面右侧人物，身穿黑色西装，白衬衫，黑领带，双手扶着女孩肩膀，表情：眉毛微蹙，眼睛注视女孩，嘴巴微张；画面左侧人物，身穿黑色抹胸上衣，黑色短裙，侧身站立，看着男子，表情：眉毛平展，眼睛注视对方，嘴巴闭合。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "低头看着下方",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男低头看着下方，表情严肃，女孩部分身体在左侧边缘。",
+        "dialogue": "你就不怕",
+        "speaker": "黑衣女孩",
+        "emotion": "调侃",
+        "duration": 1.17,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿黑色西装，白衬衫，黑领带，低头看着下方，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面左侧边缘人物，身穿黑色抹胸上衣，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧",
+                "action": "微笑看着男子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "过肩特写镜头，黑衣女孩微笑看着男子，眼神带着笑意，男子背影在右侧。",
+        "dialogue": "被我们店里的色狼",
+        "speaker": "黑衣女孩",
+        "emotion": "戏谑",
+        "duration": 0.83,
+        "description_visual": "特写过肩镜头；模糊的街道背景；画面左侧人物，身穿黑色抹胸上衣，微笑看着男子，表情：眉毛舒展，眼睛注视对方，嘴角上扬；画面右侧前景人物，身穿黑色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着女孩",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着女孩，表情略显无奈，女孩部分身体在左侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿黑色西装，白衬衫，黑领带，看着女孩，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面左侧边缘人物，身穿黑色抹胸上衣，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧",
+                "action": "开心大笑",
+                "expression": "眉毛舒展，眼睛笑成弯月，嘴巴张开露齿"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "过肩特写镜头，黑衣女孩开心大笑，表情生动，男子背影在右侧。",
+        "dialogue": "给盯上了",
+        "speaker": "黑衣女孩",
+        "emotion": "开心",
+        "duration": 1.03,
+        "description_visual": "特写过肩镜头；模糊的街道背景；画面左侧人物，身穿黑色抹胸上衣，开心大笑，表情：眉毛舒展，眼睛笑成弯月，嘴巴张开露齿；画面右侧前景人物，身穿黑色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "低头脱西装外套",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "中近景固定镜头，西装男低头脱西装外套，动作自然，女孩背影在左侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.83,
+        "description_visual": "中近景平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿黑色西装，白衬衫，黑领带，低头脱西装外套，表情：眉毛微蹙，眼睛下视，嘴巴闭合；画面左侧人物，身穿黑色抹胸上衣，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面中央",
+                "action": "看着男子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微扬"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着男子，表情温柔，男子部分身体在右侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.97,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色抹胸上衣，看着男子，表情：眉毛舒展，眼睛注视对方，嘴角微扬；画面右侧边缘人物，身穿黑色西装，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面右侧",
+                "action": "将西装外套披在女孩身上",
+                "expression": "眉毛微蹙，眼睛注视女孩，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面左侧",
+                "action": "接受外套",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的建筑背景",
+        "description_narrative": "中近景固定镜头，西装男将外套披在女孩身上，动作轻柔，女孩接受外套。",
+        "dialogue": "以后出门啊多穿点",
+        "speaker": "西装男",
+        "emotion": "关心",
+        "duration": 1.33,
+        "description_visual": "中近景平拍镜头；模糊的建筑背景；画面右侧人物，身穿白衬衫，黑领带，将西装外套披在女孩身上，表情：眉毛微蹙，眼睛注视女孩，嘴巴微张；画面左侧人物，身穿黑色抹胸上衣，接受外套，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面右侧",
+                "action": "整理女孩身上的外套",
+                "expression": "眉毛微蹙，眼睛注视女孩，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣，黑色外套",
+                "position": "画面左侧",
+                "action": "嘟嘴",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴嘟起"
+            }
+        ],
+        "background": "模糊的建筑背景",
+        "description_narrative": "中景固定镜头，西装男整理女孩身上的外套，女孩嘟嘴，表情可爱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；模糊的建筑背景；画面右侧人物，身穿白衬衫，黑领带，整理女孩身上的外套，表情：眉毛微蹙，眼睛注视女孩，嘴巴微张；画面左侧人物，身穿黑色抹胸上衣，黑色外套，嘟嘴，表情：眉毛微挑，眼睛注视对方，嘴巴嘟起。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣，黑色外套",
+                "position": "画面左侧",
+                "action": "开心笑着",
+                "expression": "眉毛舒展，眼睛笑成弯月，嘴巴张开露齿"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "过肩特写镜头，黑衣女孩开心笑着，表情灿烂，男子背影在右侧。",
+        "dialogue": "多穿点",
+        "speaker": "西装男",
+        "emotion": "叮嘱",
+        "duration": 1.47,
+        "description_visual": "特写过肩镜头；模糊的街道背景；画面左侧人物，身穿黑色抹胸上衣，黑色外套，开心笑着，表情：眉毛舒展，眼睛笑成弯月，嘴巴张开露齿；画面右侧前景人物，身穿白衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着女孩",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着女孩，表情认真，女孩部分身体在左侧。",
+        "dialogue": "你的身体",
+        "speaker": "西装男",
+        "emotion": "占有欲",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着女孩，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面左侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着女孩",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着女孩，眼神坚定，女孩部分身体在左侧。",
+        "dialogue": "只能我看",
+        "speaker": "西装男",
+        "emotion": "霸道",
+        "duration": 1.77,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着女孩，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面左侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "过肩特写镜头，黑衣女孩微笑，眼神温柔，男子背影在右侧。",
+        "dialogue": "哥哥吃醋了",
+        "speaker": "黑衣女孩",
+        "emotion": "调侃",
+        "duration": 1.8,
+        "description_visual": "特写过肩镜头；模糊的街道背景；画面左侧人物，身穿黑色外套，微笑，表情：眉毛舒展，眼睛注视对方，嘴角上扬；画面右侧前景人物，身穿白衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着女孩",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着女孩，表情认真，女孩部分身体在左侧。",
+        "dialogue": "我不爱吃酸的",
+        "speaker": "西装男",
+        "emotion": "否认",
+        "duration": 1.27,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着女孩，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面左侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着女孩",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着女孩，表情认真，女孩部分身体在左侧。",
+        "dialogue": "我只爱吃咸的",
+        "speaker": "西装男",
+        "emotion": "调侃",
+        "duration": 0.97,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着女孩，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面左侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "过肩特写镜头，黑衣女孩微笑，眼神温柔，男子背影在右侧。",
+        "dialogue": "咸的",
+        "speaker": "西装男",
+        "emotion": "调侃",
+        "duration": 1.17,
+        "description_visual": "特写过肩镜头；模糊的街道背景；画面左侧人物，身穿黑色外套，微笑，表情：眉毛舒展，眼睛注视对方，嘴角上扬；画面右侧前景人物，身穿白衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套，黑色短裙",
+                "position": "画面左侧",
+                "action": "伸手戳男子鼻子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面右侧",
+                "action": "微笑看着女孩",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            }
+        ],
+        "background": "模糊的建筑背景",
+        "description_narrative": "中景固定镜头，黑衣女孩伸手戳男子鼻子，动作亲昵，男子微笑看着女孩。",
+        "dialogue": "嘴硬",
+        "speaker": "黑衣女孩",
+        "emotion": "调侃",
+        "duration": 0.87,
+        "description_visual": "中景平拍镜头；模糊的建筑背景；画面左侧人物，身穿黑色外套，黑色短裙，伸手戳男子鼻子，表情：眉毛舒展，眼睛注视对方，嘴角上扬；画面右侧人物，身穿白衬衫，黑领带，微笑看着女孩，表情：眉毛舒展，眼睛注视对方，嘴角上扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男低头，表情略显无奈，女孩部分身体在左侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.57,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，低头，表情：眉毛微蹙，眼睛下视，嘴巴闭合；画面左侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "看着男子",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "过肩特写镜头，黑衣女孩看着男子，表情认真，男子背影在右侧。",
+        "dialogue": "那你是真不了解我",
+        "speaker": "黑衣女孩",
+        "emotion": "认真",
+        "duration": 1.2,
+        "description_visual": "特写过肩镜头；模糊的街道背景；画面左侧人物，身穿黑色外套，看着男子，表情：眉毛微挑，眼睛注视对方，嘴巴微张；画面右侧前景人物，身穿白衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着女孩",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着女孩，表情认真，女孩部分身体在左侧。",
+        "dialogue": "我呀除了",
+        "speaker": "西装男",
+        "emotion": "解释",
+        "duration": 1.5,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着女孩，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面左侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着女孩",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着女孩，表情认真，女孩部分身体在左侧。",
+        "dialogue": "那个地方硬",
+        "speaker": "西装男",
+        "emotion": "暗示",
+        "duration": 1.83,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着女孩，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面左侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "看着男子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "过肩特写镜头，黑衣女孩看着男子，表情认真，男子背影在右侧。",
+        "dialogue": "其他地方",
+        "speaker": "西装男",
+        "emotion": "暗示",
+        "duration": 1.27,
+        "description_visual": "特写过肩镜头；模糊的街道背景；画面左侧人物，身穿黑色外套，看着男子，表情：眉毛舒展，眼睛注视对方，嘴巴微张；画面右侧前景人物，身穿白衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男微笑，表情温柔，女孩部分身体在左侧。",
+        "dialogue": "都是软的",
+        "speaker": "西装男",
+        "emotion": "调情",
+        "duration": 1.9,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，微笑，表情：眉毛舒展，眼睛注视对方，嘴角上扬；画面左侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套，黑色短裙",
+                "position": "画面左侧",
+                "action": "拉着男子领带",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面右侧",
+                "action": "微笑看着女孩",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            }
+        ],
+        "background": "模糊的建筑背景",
+        "description_narrative": "中景固定镜头，黑衣女孩拉着男子领带，动作亲昵，男子微笑看着女孩。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；模糊的建筑背景；画面左侧人物，身穿黑色外套，黑色短裙，拉着男子领带，表情：眉毛舒展，眼睛注视对方，嘴角上扬；画面右侧人物，身穿白衬衫，黑领带，微笑看着女孩，表情：眉毛舒展，眼睛注视对方，嘴角上扬。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "远景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套，黑色短裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代建筑外墙，灰色地砖",
+        "description_narrative": "低角度远景镜头，两人站在建筑前，身形修长。",
+        "dialogue": "夏至",
+        "speaker": "西装男",
+        "emotion": "呼唤",
+        "duration": 1.5,
+        "description_visual": "远景低角度镜头；现代建筑外墙，灰色地砖；画面左侧人物，身穿黑色外套，黑色短裙，站立，表情：不可见；画面右侧人物，身穿白衬衫，黑领带，站立，表情：不可见。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子看着前方，表情略带挑衅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.63,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，看着前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "皱眉",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴闭合"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩皱眉，表情不悦。",
+        "dialogue": "这小妹妹是谁啊",
+        "speaker": "红衣女子",
+        "emotion": "挑衅",
+        "duration": 1.5,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，皱眉，表情：眉毛微蹙，眼睛注视前方，嘴巴闭合。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着前方，表情疑惑。",
+        "dialogue": "你说谁是",
+        "speaker": "黑衣女孩",
+        "emotion": "愤怒",
+        "duration": 0.83,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微闭，嘴角上扬"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子微笑，表情得意。",
+        "dialogue": "小妹妹呢",
+        "speaker": "西装男",
+        "emotion": "疑惑",
+        "duration": 1.47,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，微笑，表情：眉毛舒展，眼睛微闭，嘴角上扬。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩低头，表情失落。",
+        "dialogue": "谁小说谁",
+        "speaker": "红衣女子",
+        "emotion": "挑衅",
+        "duration": 1.07,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，低头，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "介绍",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代建筑外墙",
+        "description_narrative": "中景固定镜头，西装男站在中间介绍，两边各站一位女子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.83,
+        "description_visual": "中景平拍镜头；现代建筑外墙；画面中央人物，身穿白衬衫，黑领带，介绍，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面左侧人物，身穿黑色外套，站立，表情：不可见；画面右侧人物，身穿酒红色吊带裙，站立，表情：不可见。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子看着前方，表情平静。",
+        "dialogue": "这是我同事阿梦",
+        "speaker": "西装男",
+        "emotion": "介绍",
+        "duration": 1.47,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，看着前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "伸手",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面右侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子伸手，似乎要握手，女孩部分身体在右侧。",
+        "dialogue": "这是我妹妹瑶瑶",
+        "speaker": "西装男",
+        "emotion": "介绍",
+        "duration": 1.3,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，伸手，表情：眉毛舒展，眼睛注视前方，嘴巴微张；画面右侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩低头，表情失落。",
+        "dialogue": "原来是真是妹妹呀",
+        "speaker": "红衣女子",
+        "emotion": "嘲讽",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，低头，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩低头，表情失落。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，低头，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面右侧",
+                "action": "手搭在女孩手臂上",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "手臂被搭",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子手搭在女孩手臂上，动作亲昵。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.53,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面右侧人物，身穿酒红色吊带裙，手搭在女孩手臂上，表情：不可见；画面左侧人物，身穿黑色外套，手臂被搭，表情：不可见。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧边缘",
+                "action": "部分身体可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着前方，表情疑惑，女孩部分身体在左侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面左侧边缘人物，身穿黑色外套，部分身体可见，表情：不可见。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着前方，表情不悦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.1,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着前方，表情疑惑。",
+        "dialogue": "一口一个瑶瑶",
+        "speaker": "黑衣女孩",
+        "emotion": "吃醋",
+        "duration": 1.3,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着前方，表情不悦。",
+        "dialogue": "在床上",
+        "speaker": "黑衣女孩",
+        "emotion": "暗示",
+        "duration": 1.5,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着前方，表情惊讶。",
+        "dialogue": "叫的这么欢",
+        "speaker": "黑衣女孩",
+        "emotion": "讽刺",
+        "duration": 1.27,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 48,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着前方，表情愤怒。",
+        "dialogue": "现在又叫",
+        "speaker": "黑衣女孩",
+        "emotion": "愤怒",
+        "duration": 2.13,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 49,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代建筑外墙",
+        "description_narrative": "中景固定镜头，三人站立，气氛紧张。",
+        "dialogue": "人家石瑶瑶你什么意思呀",
+        "speaker": "黑衣女孩",
+        "emotion": "质问",
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；现代建筑外墙；画面中央人物，身穿白衬衫，黑领带，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面左侧人物，身穿黑色外套，站立，表情：不可见；画面右侧人物，身穿酒红色吊带裙，站立，表情：不可见。"
+    },
+    {
+        "index": 50,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子看着前方，表情挑衅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.67,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，看着前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 51,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代建筑外墙",
+        "description_narrative": "中景固定镜头，三人站立，气氛紧张。",
+        "dialogue": "我就是",
+        "speaker": "红衣女子",
+        "emotion": "承认",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；现代建筑外墙；画面中央人物，身穿白衬衫，黑领带，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面左侧人物，身穿黑色外套，站立，表情：不可见；画面右侧人物，身穿酒红色吊带裙，站立，表情：不可见。"
+    },
+    {
+        "index": 52,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着前方，表情不悦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 53,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子看着前方，表情挑衅。",
+        "dialogue": "介绍一下嘛",
+        "speaker": "黑衣女孩",
+        "emotion": "讽刺",
+        "duration": 2.23,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，看着前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 54,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩低头，表情失落。",
+        "dialogue": "胸都没发育完呢",
+        "speaker": "红衣女子",
+        "emotion": "嘲讽",
+        "duration": 0.87,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，低头，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 55,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩低头，表情失落。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，低头，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 56,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子看着前方，表情挑衅。",
+        "dialogue": "还学会勾引",
+        "speaker": "红衣女子",
+        "emotion": "嘲讽",
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，看着前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 57,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子看着前方，表情挑衅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.9,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，看着前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 58,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子看着前方，表情挑衅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.63,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，看着前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 59,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着前方，表情愤怒。",
+        "dialogue": "哼",
+        "speaker": "黑衣女孩",
+        "emotion": "不屑",
+        "duration": 0.83,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 60,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子看着前方，表情挑衅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.57,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，看着前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 61,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着前方，表情愤怒。",
+        "dialogue": "你个胸大无脑的臭公交车",
+        "speaker": "黑衣女孩",
+        "emotion": "辱骂",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 62,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着前方，表情惊讶。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 63,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代建筑外墙",
+        "description_narrative": "中景固定镜头，三人站立，气氛紧张。",
+        "dialogue": "你说谁呢敢勾引我家哥哥",
+        "speaker": "黑衣女孩",
+        "emotion": "愤怒",
+        "duration": 1.93,
+        "description_visual": "中景平拍镜头；现代建筑外墙；画面中央人物，身穿白衬衫，黑领带，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面左侧人物，身穿黑色外套，站立，表情：不可见；画面右侧人物，身穿酒红色吊带裙，站立，表情：不可见。"
+    },
+    {
+        "index": 64,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "拉扯红衣女子头发",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面右侧",
+                "action": "被拉扯",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩拉扯红衣女子头发，动作激烈。",
+        "dialogue": "说你呢",
+        "speaker": "黑衣女孩",
+        "emotion": "愤怒",
+        "duration": 0.77,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面左侧人物，身穿黑色外套，拉扯红衣女子头发，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面右侧人物，身穿酒红色吊带裙，被拉扯，表情：不可见。"
+    },
+    {
+        "index": 65,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面左侧",
+                "action": "拉扯黑衣女孩头发",
+                "expression": "眉毛舒展，眼睛微闭，嘴角上扬"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面右侧",
+                "action": "被拉扯",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子拉扯黑衣女孩头发，动作激烈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.53,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面左侧人物，身穿酒红色吊带裙，拉扯黑衣女孩头发，表情：眉毛舒展，眼睛微闭，嘴角上扬；画面右侧人物，身穿黑色外套，被拉扯，表情：不可见。"
+    },
+    {
+        "index": 66,
+        "shot_scale": "远景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套，黑色短裙",
+                "position": "画面左侧",
+                "action": "与红衣女子扭打",
+                "expression": "不可见"
+            },
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面右侧",
+                "action": "与黑衣女孩扭打",
+                "expression": "不可见"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "试图分开两人",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代建筑外墙",
+        "description_narrative": "低角度远景镜头，两女扭打，男子在中间试图分开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.27,
+        "description_visual": "远景低角度镜头；现代建筑外墙；画面左侧人物，身穿黑色外套，黑色短裙，与红衣女子扭打，表情：不可见；画面右侧人物，身穿酒红色吊带裙，与黑衣女孩扭打，表情：不可见；画面中央人物，身穿白衬衫，黑领带，试图分开两人，表情：不可见。"
+    },
+    {
+        "index": 67,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "伸手阻拦",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面左侧",
+                "action": "被阻拦",
+                "expression": "不可见"
+            },
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面右侧",
+                "action": "被阻拦",
+                "expression": "不可见"
+            }
+        ],
+        "background": "现代建筑外墙",
+        "description_narrative": "中景固定镜头，西装男伸手阻拦两人，表情焦急。",
+        "dialogue": "好了别闹了",
+        "speaker": "西装男",
+        "emotion": "制止",
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头；现代建筑外墙；画面中央人物，身穿白衬衫，黑领带，伸手阻拦，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面左侧人物，身穿黑色外套，被阻拦，表情：不可见；画面右侧人物，身穿酒红色吊带裙，被阻拦，表情：不可见。"
+    },
+    {
+        "index": 68,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "白衬衫，黑领带",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色瓷砖建筑墙面",
+        "description_narrative": "特写固定镜头，西装男看着前方，表情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.73,
+        "description_visual": "特写平拍镜头；白色瓷砖建筑墙面；画面中央人物，身穿白衬衫，黑领带，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 69,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着前方，表情不悦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.13,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 70,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着前方，表情不悦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.93,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 71,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "酒红色吊带裙",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，红衣女子看着前方，表情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.83,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿酒红色吊带裙，看着前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 72,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩看着前方，表情不悦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.97,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 73,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "转身",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的街道背景",
+        "description_narrative": "特写固定镜头，黑衣女孩转身，背影落寞。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.87,
+        "description_visual": "特写平拍镜头；模糊的街道背景；画面中央人物，身穿黑色外套，转身，表情：不可见。"
+    }
+]

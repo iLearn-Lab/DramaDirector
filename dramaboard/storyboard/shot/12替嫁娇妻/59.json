@@ -1,0 +1,756 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面左侧",
+                "action": "从身后环抱白衣女子",
+                "expression": "眉毛舒展，眼睛微闭，嘴角含笑"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面右侧",
+                "action": "被环抱，身体微僵",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "深色屏风背景，带有金色花纹装饰，光线柔和",
+        "description_narrative": "中景固定镜头，明王身穿金纹古装从身后环抱白衣女子，女子身穿白色刺绣古装神情略显纠结，背景为深色描金屏风，画面上方显示剧名标题。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色屏风背景，带有金色花纹装饰，光线柔和；画面左侧人物，身穿金纹古装，从身后环抱白衣女子，表情：眉毛舒展，眼睛微闭，嘴角含笑；画面右侧人物，身穿白色刺绣古装，被环抱，身体微僵，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣侍女",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神打量",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "绿色竹林背景，虚化处理",
+        "description_narrative": "特写镜头，粉衣侍女身穿粉色古装，发髻简单，表情略带惊讶地看向对方，背景为虚化的绿色竹林。",
+        "dialogue": "是啊，你是明王妃吧？",
+        "speaker": "粉衣侍女",
+        "emotion": "惊讶",
+        "duration": 3.2,
+        "description_visual": "特写平拍镜头；绿色竹林背景，虚化处理；画面中央人物，身穿粉色古装，头部微侧，眼神打量，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头沉思",
+                "expression": "眉毛紧蹙，眼睛下视，嘴唇微抿"
+            }
+        ],
+        "background": "灰色岩石背景，虚化处理",
+        "description_narrative": "特写镜头，白衣女子身穿白色刺绣古装，头戴白色花饰，神情严肃地低头思考，背景为模糊的灰色岩石。",
+        "dialogue": "那这太后。",
+        "speaker": "白衣女子",
+        "emotion": "疑惑",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；灰色岩石背景，虚化处理；画面中央人物，身穿白色刺绣古装，低头沉思，表情：眉毛紧蹙，眼睛下视，嘴唇微抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣侍女",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面中央",
+                "action": "眼神游移，继续说话",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴开合"
+            }
+        ],
+        "background": "绿色竹林背景，虚化处理",
+        "description_narrative": "特写镜头，粉衣侍女继续说话，眼神向旁边看去，似乎在推脱责任，背景为绿色竹林。",
+        "dialogue": "那这太后赐给明王的药",
+        "speaker": "粉衣侍女",
+        "emotion": "推脱",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；绿色竹林背景，虚化处理；画面中央人物，身穿粉色古装，眼神游移，继续说话，表情：眉毛舒展，眼睛看向侧方，嘴巴开合。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣侍女",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面左侧（手部）",
+                "action": "手托木盘",
+                "expression": null
+            }
+        ],
+        "background": "木质托盘，上面放着一碗药汤",
+        "description_narrative": "大特写俯拍镜头，聚焦在木质托盘上，盘中放着一碗深色药汤，粉衣侍女的手托着盘边。",
+        "dialogue": "就拜托你送过去了",
+        "speaker": "粉衣侍女",
+        "emotion": "客气",
+        "duration": 1.32,
+        "description_visual": "大特写俯拍镜头；木质托盘，上面放着一碗药汤；画面左侧（手部）人物，身穿粉色古装，手托木盘。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣侍女",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面左侧",
+                "action": "双手递出托盘",
+                "expression": "表情恭敬"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面右侧",
+                "action": "双手接过托盘",
+                "expression": "表情冷淡"
+            }
+        ],
+        "background": "茂密的竹林背景，光线自然",
+        "description_narrative": "中景镜头，粉衣侍女将托盘递给白衣女子，白衣女子伸手接过，两人站在竹林中，动作完成交接。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.96,
+        "description_visual": "中景平拍镜头；茂密的竹林背景，光线自然；画面左侧人物，身穿粉色古装，双手递出托盘，表情：表情恭敬；画面右侧人物，身穿白色刺绣古装，双手接过托盘，表情：表情冷淡。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面右侧（手部/衣袖）",
+                "action": "手持托盘",
+                "expression": null
+            }
+        ],
+        "background": "绿色背景，托盘上的药碗清晰可见",
+        "description_narrative": "大特写镜头，聚焦在托盘上的药碗，碗中插着勺子，白衣女子的手在旁扶持，伴随内心独白。",
+        "dialogue": "我现在要是回去，岂不是很有面子？",
+        "speaker": "白衣女子(画外音)",
+        "emotion": "自嘲",
+        "duration": 5.08,
+        "description_visual": "大特写平拍镜头；绿色背景，托盘上的药碗清晰可见；画面右侧（手部/衣袖）人物，身穿白色刺绣古装，手持托盘。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面右侧",
+                "action": "端坐，侧脸示人",
+                "expression": "表情平静，目视前方"
+            }
+        ],
+        "background": "室内暗调背景，后方有金色仙鹤摆件",
+        "description_narrative": "中景侧拍镜头，明王身穿金纹古装端坐在室内，侧脸轮廓清晰，背景昏暗，身后立着一只金色仙鹤摆件。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.04,
+        "description_visual": "中景侧拍镜头；室内暗调背景，后方有金色仙鹤摆件；画面右侧人物，身穿金纹古装，端坐，侧脸示人，表情：表情平静，目视前方。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面中央",
+                "action": "转头看向一侧",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，金色装饰模糊可见",
+        "description_narrative": "特写镜头，明王转头看向声音来源，眼神中带着询问，背景为室内金色装饰。",
+        "dialogue": "太后给你的药",
+        "speaker": "白衣女子(画外音)",
+        "emotion": "告知",
+        "duration": 2.16,
+        "description_visual": "特写平拍镜头；室内背景，金色装饰模糊可见；画面中央人物，身穿金纹古装，转头看向一侧，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头，眼神下垂",
+                "expression": "眉毛舒展，眼睛下视，嘴唇涂红"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写镜头，白衣女子低头站立，神情略显不耐烦，耳边垂着长珠串耳饰。",
+        "dialogue": "太后给的",
+        "speaker": "明王(画外音)",
+        "emotion": "确认",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；室内暗调背景；画面中央人物，身穿白色刺绣古装，低头，眼神下垂，表情：眉毛舒展，眼睛下视，嘴唇涂红。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "站立，身体微向前倾",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            },
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面左后景",
+                "action": "坐着，看向女子",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内背景，有金色仙鹤摆件",
+        "description_narrative": "中景镜头，白衣女子站在明王面前说话，明王坐在后方看着她，女子神情冷硬。",
+        "dialogue": "要不是给你送药",
+        "speaker": "白衣女子",
+        "emotion": "抱怨",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；室内背景，有金色仙鹤摆件；画面中央人物，身穿白色刺绣古装，站立，身体微向前倾，表情：眉毛微蹙，眼睛直视前方，嘴巴微张；画面左后景人物，身穿金纹古装，坐着，看向女子，表情：表情平静。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面中央",
+                "action": "低头，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色屏风背景，金色花纹",
+        "description_narrative": "近景侧拍镜头，明王低着头，似乎在听女子说话，神情略显无奈。",
+        "dialogue": "我才不回来，别来烦我。",
+        "speaker": "白衣女子",
+        "emotion": "冷漠",
+        "duration": 2.48,
+        "description_visual": "近景侧拍镜头；深色屏风背景，金色花纹；画面中央人物，身穿金纹古装，低头，视线向下，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面中央",
+                "action": "低头，准备喝药",
+                "expression": "表情专注"
+            }
+        ],
+        "background": "深色屏风背景",
+        "description_narrative": "近景镜头，明王低着头，视线落在面前的药碗上，准备饮用。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "近景侧拍镜头；深色屏风背景；画面中央人物，身穿金纹古装，低头，准备喝药，表情：表情专注。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面上方",
+                "action": "凑近药碗闻气味",
+                "expression": "眉毛紧锁，眼睛盯着碗内"
+            }
+        ],
+        "background": "药碗特写，背景模糊",
+        "description_narrative": "大特写镜头，明王凑近药碗闻气味，表情突然变得凝重，似乎发现了什么。",
+        "dialogue": "媚药。",
+        "speaker": "明王",
+        "emotion": "震惊",
+        "duration": 3.32,
+        "description_visual": "大特写俯拍镜头；药碗特写，背景模糊；画面上方人物，身穿金纹古装，凑近药碗闻气味，表情：眉毛紧锁，眼睛盯着碗内。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面上方（手部）",
+                "action": "将药液倒在花上",
+                "expression": null
+            }
+        ],
+        "background": "红色花朵，药液滴落",
+        "description_narrative": "大特写镜头，明王将碗中的药液倒在旁边的红色花朵上，液体浸湿花瓣。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "大特写俯拍镜头；红色花朵，药液滴落；画面上方（手部）人物，身穿金纹古装，将药液倒在花上。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面右侧（手部）",
+                "action": "手松开，药碗掉落",
+                "expression": null
+            }
+        ],
+        "background": "木质桌面，有水渍",
+        "description_narrative": "特写镜头，明王的手无力松开，药碗掉落在桌面上，发出声响。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "特写俯拍镜头；木质桌面，有水渍；画面右侧（手部）人物，身穿金纹古装，手松开，药碗掉落。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面中央",
+                "action": "身体前倾，趴在桌上",
+                "expression": "眼睛紧闭，表情痛苦"
+            }
+        ],
+        "background": "室内背景，红色花朵在旁",
+        "description_narrative": "近景镜头，明王身体前倾，无力地趴在桌面上，头靠在红色花朵旁，似乎失去了力气。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "近景侧拍镜头；室内背景，红色花朵在旁；画面中央人物，身穿金纹古装，身体前倾，趴在桌上，表情：眼睛紧闭，表情痛苦。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左侧",
+                "action": "转身走向明王",
+                "expression": null
+            }
+        ],
+        "background": "室内暗调，家具模糊",
+        "description_narrative": "中景跟拍镜头，白衣女子转身快步走向趴在桌上的明王，背影匆忙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头（跟拍）；室内暗调，家具模糊；画面左侧人物，身穿白色刺绣古装，转身走向明王。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面中央",
+                "action": "侧脸趴在桌上",
+                "expression": "眼睛微睁，眼神迷离，嘴巴微张"
+            }
+        ],
+        "background": "木质桌面，药碗在旁",
+        "description_narrative": "大特写俯拍镜头，明王侧脸趴在桌上，面色潮红，眼神涣散，女子声音传来询问。",
+        "dialogue": "王爷，你没事吧？",
+        "speaker": "白衣女子",
+        "emotion": "焦急",
+        "duration": 1.16,
+        "description_visual": "大特写俯拍镜头；木质桌面，药碗在旁；画面中央人物，身穿金纹古装，侧脸趴在桌上，表情：眼睛微睁，眼神迷离，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头查看明王",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "特写俯拍镜头，白衣女子低头看着明王，脸上露出担忧和疑惑的神情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.92,
+        "description_visual": "特写俯拍镜头；室内暗调背景；画面中央人物，身穿白色刺绣古装，低头查看明王，表情：眉毛紧蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央（手部）",
+                "action": "手按在桌面上",
+                "expression": null
+            }
+        ],
+        "background": "白色衣袖，红色背景模糊",
+        "description_narrative": "大特写镜头，白衣女子的手按在桌沿，手指用力，意识到药的性质。",
+        "dialogue": "媚药。",
+        "speaker": "白衣女子",
+        "emotion": "震惊",
+        "duration": 3.32,
+        "description_visual": "大特写平拍镜头；白色衣袖，红色背景模糊；画面中央（手部）人物，身穿白色刺绣古装，手按在桌面上。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面右后景",
+                "action": "闭眼躺着",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左前景",
+                "action": "身体前倾",
+                "expression": null
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头，前景是白衣女子的白色衣袖，后景明王闭眼躺在桌上，画面虚焦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面右后景人物，身穿金纹古装，闭眼躺着，表情：表情痛苦；画面左前景人物，身穿白色刺绣古装，身体前倾。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "大特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面中央",
+                "action": "仰头，满头大汗",
+                "expression": "眉毛紧锁，眼睛半睁，嘴巴微张喘气"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "大特写仰拍镜头，明王仰面躺着，脸上布满汗珠，呼吸急促，神情难受。",
+        "dialogue": "王爷。",
+        "speaker": "白衣女子",
+        "emotion": "呼唤",
+        "duration": 3.72,
+        "description_visual": "大特写仰拍镜头；暗调背景；画面中央人物，身穿金纹古装，仰头，满头大汗，表情：眉毛紧锁，眼睛半睁，嘴巴微张喘气。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头看着明王",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "特写镜头，白衣女子看着明王，听到明王虚弱的声音，表情震惊。",
+        "dialogue": "本王，本王好像吃错东西了。",
+        "speaker": "明王",
+        "emotion": "虚弱",
+        "duration": 3.36,
+        "description_visual": "特写平拍镜头；暗调背景；画面中央人物，身穿白色刺绣古装，低头看着明王，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左侧",
+                "action": "俯身靠近明王",
+                "expression": "表情焦急，眼神坚定"
+            },
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面右侧",
+                "action": "躺着，看向女子",
+                "expression": "眼神迷离"
+            }
+        ],
+        "background": "室内暗调背景",
+        "description_narrative": "近景镜头，白衣女子俯身靠近明王，伸手扶住他，口中说着要为他解毒。",
+        "dialogue": "该死，谁给他下的这东西啊？我该怎么办啊？王爷，你坚持住，我给你解毒。",
+        "speaker": "白衣女子",
+        "emotion": "焦急",
+        "duration": 6.56,
+        "description_visual": "近景侧拍镜头；室内暗调背景；画面左侧人物，身穿白色刺绣古装，俯身靠近明王，表情：表情焦急，眼神坚定；画面右侧人物，身穿金纹古装，躺着，看向女子，表情：眼神迷离。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左侧",
+                "action": "伸手扶住明王肩膀",
+                "expression": "神情专注"
+            },
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面右侧",
+                "action": "闭眼，身体无力",
+                "expression": "表情痛苦"
+            }
+        ],
+        "background": "深色屏风背景，金色花纹",
+        "description_narrative": "中近景镜头，白衣女子伸手扶住明王的肩膀，试图让他坐起或舒适一些。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.76,
+        "description_visual": "中近景侧拍镜头；深色屏风背景，金色花纹；画面左侧人物，身穿白色刺绣古装，伸手扶住明王肩膀，表情：神情专注；画面右侧人物，身穿金纹古装，闭眼，身体无力，表情：表情痛苦。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左侧",
+                "action": "伸手解开明王衣襟",
+                "expression": "动作迅速"
+            },
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面右侧",
+                "action": "配合女子动作",
+                "expression": "闭眼忍受"
+            }
+        ],
+        "background": "深色屏风背景",
+        "description_narrative": "中近景镜头，白衣女子伸手去解明王的衣襟，准备为他解毒，明王闭眼配合。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.8,
+        "description_visual": "中近景侧拍镜头；深色屏风背景；画面左侧人物，身穿白色刺绣古装，伸手解开明王衣襟，表情：动作迅速；画面右侧人物，身穿金纹古装，配合女子动作，表情：闭眼忍受。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左侧",
+                "action": "低头靠近明王",
+                "expression": "头发垂落，神情专注"
+            },
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面右侧",
+                "action": "仰面躺着",
+                "expression": "下巴微抬"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "大特写俯拍镜头，白衣女子低头靠近明王，发丝垂落，两人距离极近。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.32,
+        "description_visual": "大特写俯拍镜头；模糊背景；画面左侧人物，身穿白色刺绣古装，低头靠近明王，表情：头发垂落，神情专注；画面右侧人物，身穿金纹古装，仰面躺着，表情：下巴微抬。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "大特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面中央",
+                "action": "仰头，眼神涣散",
+                "expression": "眉毛舒展，眼睛半睁，嘴巴微张"
+            }
+        ],
+        "background": "暗调背景，金色装饰模糊",
+        "description_narrative": "大特写仰拍镜头，明王仰面躺着，眼神有些涣散，脸上带着汗珠，看着上方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "大特写仰拍镜头；暗调背景，金色装饰模糊；画面中央人物，身穿金纹古装，仰头，眼神涣散，表情：眉毛舒展，眼睛半睁，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "大特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "金纹古装",
+                "position": "画面中央",
+                "action": "眼神微动",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴唇微启"
+            }
+        ],
+        "background": "暗调背景，花纹靠垫",
+        "description_narrative": "大特写仰拍镜头，明王躺在花纹靠垫上，眼神微微转动，似乎在感受身体的变化。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "大特写仰拍镜头；暗调背景，花纹靠垫；画面中央人物，身穿金纹古装，眼神微动，表情：眉毛微蹙，眼睛看向侧方，嘴唇微启。"
+    }
+]

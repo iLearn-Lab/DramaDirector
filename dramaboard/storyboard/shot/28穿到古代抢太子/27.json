@@ -1,0 +1,695 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "浅蓝色长袍",
+                "position": "画面中央",
+                "action": "身体微侧，头部转向左侧，嘴巴张开正在说话",
+                "expression": "眉毛微挑，眼睛斜视，嘴角下撇露出不屑"
+            }
+        ],
+        "background": "室内场景，背景模糊，光线明亮",
+        "description_narrative": "中景镜头，蓝衣男子身穿浅蓝色长袍站在画面中央，身体微侧，转头向左，表情傲慢讥讽，嘴巴张开正在大声说话。",
+        "dialogue": "你疯了吧？这可是镇国将军的女儿，你个穷酸癞蛤蟆想吃天鹅肉了吧？",
+        "speaker": "蓝衣男子",
+        "emotion": "嘲讽",
+        "duration": 6.84,
+        "description_visual": "中景平拍镜头；室内场景，背景模糊，光线明亮；画面中央人物，身穿浅蓝色长袍，身体微侧，头部转向左侧，嘴巴张开正在说话，表情：眉毛微挑，眼睛斜视，嘴角下撇露出不屑。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "灰白色长袍，头戴发冠",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，头部微低",
+                "expression": "眉毛微蹙，眼神向下，嘴巴微张"
+            }
+        ],
+        "background": "室内走廊，背景虚化",
+        "description_narrative": "近景镜头，齐公子身穿灰白色长袍，头戴发冠，双臂交叉抱胸，神情冷峻，微微低头说话。",
+        "dialogue": "这人明显就是来捣乱的疯子。我这就叫人给他乱棍打死。",
+        "speaker": "齐公子",
+        "emotion": "威严",
+        "duration": 6.96,
+        "description_visual": "近景平拍镜头；室内走廊，背景虚化；画面中央人物，身穿灰白色长袍，头戴发冠，双臂交叉抱在胸前，头部微低，表情：眉毛微蹙，眼神向下，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸，身体挺直",
+                "expression": "眉毛舒展，眼神自信，嘴角紧闭"
+            }
+        ],
+        "background": "室内场景，光线柔和",
+        "description_narrative": "中近景镜头，绿衣男子身穿绿金色纹样长袍，双臂交叉抱胸，神情自信不羁，直视前方。",
+        "dialogue": "好啊，你找人去啊，我看谁会来。",
+        "speaker": "绿衣男子",
+        "emotion": "挑衅",
+        "duration": 4.64,
+        "description_visual": "中近景平拍镜头；室内场景，光线柔和；画面中央人物，身穿绿金色纹样长袍，双臂交叉抱胸，身体挺直，表情：眉毛舒展，眼神自信，嘴角紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "灰白色长袍，头戴发冠",
+                "position": "画面右侧",
+                "action": "侧身站立，头部转向左侧",
+                "expression": "眉毛紧锁，眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "室内走廊，背景模糊",
+        "description_narrative": "近景侧拍镜头，齐公子侧身站立，转头向左，表情严肃，大声下令。",
+        "dialogue": "来人呐，给疯子乱棍打死。",
+        "speaker": "齐公子",
+        "emotion": "愤怒",
+        "duration": 4.48,
+        "description_visual": "近景侧拍镜头；室内走廊，背景模糊；画面右侧人物，身穿灰白色长袍，头戴发冠，侧身站立，头部转向左侧，表情：眉毛紧锁，眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "灰白色长袍",
+                "position": "画面右侧",
+                "action": "站立，面向左侧",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "浅灰色长袍",
+                "position": "画面中央偏右",
+                "action": "站立，面向左侧",
+                "expression": "表情平静"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "浅蓝色长袍",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内亭台，有纱帘和栏杆",
+        "description_narrative": "全景镜头，齐公子与绿衣男子在亭台对峙，蓝衣男子在前景背对镜头，齐公子再次下令。",
+        "dialogue": "来人呐，抄家伙。",
+        "speaker": "齐公子",
+        "emotion": "急躁",
+        "duration": 4.2,
+        "description_visual": "全景平拍镜头；室内亭台，有纱帘和栏杆；画面右侧人物，身穿灰白色长袍，站立，面向左侧，表情：表情严肃；画面中央偏右人物，身穿浅灰色长袍，站立，面向左侧，表情：表情平静；画面左侧前景人物，身穿浅蓝色长袍，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "侧后方",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "灰白色长袍，头戴发冠",
+                "position": "画面中央",
+                "action": "背对镜头，头部微侧",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内场景，背景虚化",
+        "description_narrative": "近景镜头，齐公子背对镜头，似乎发现无人响应，语气带有疑问。",
+        "dialogue": "来人呐？",
+        "speaker": "绿衣男子",
+        "emotion": " mocking",
+        "duration": 1.32,
+        "description_visual": "近景侧后方镜头；室内场景，背景虚化；画面中央人物，身穿灰白色长袍，头戴发冠，背对镜头，头部微侧，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面中央",
+                "action": "手持绿色物件，眼神看向一侧",
+                "expression": "眉毛微挑，嘴角带笑"
+            }
+        ],
+        "background": "室内场景，光线明亮",
+        "description_narrative": "近景镜头，绿衣男子手持绿色物件，表情轻松，揭示手下人的去向。",
+        "dialogue": "好了，去茅厕找吧，他们在那儿。",
+        "speaker": "绿衣男子",
+        "emotion": "得意",
+        "duration": 4.28,
+        "description_visual": "近景侧拍镜头；室内场景，光线明亮；画面中央人物，身穿绿金色纹样长袍，手持绿色物件，眼神看向一侧，表情：眉毛微挑，嘴角带笑。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "米黄色长袍",
+                "position": "画面左侧",
+                "action": "背对镜头，转身面向绿衣男子",
+                "expression": "不可见"
+            },
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "浅灰色长袍",
+                "position": "画面右侧",
+                "action": "站立，面对齐公子",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内亭台，纱帘飘动",
+        "description_narrative": "全景镜头，齐公子转身面对绿衣男子，语气愤怒地质问。",
+        "dialogue": "你小子故意来砸场子是不是？我说了。",
+        "speaker": "齐公子",
+        "emotion": "愤怒",
+        "duration": 5.04,
+        "description_visual": "全景平拍镜头；室内亭台，纱帘飘动；画面左侧人物，身穿米黄色长袍，背对镜头，转身面向绿衣男子，表情：不可见；画面右侧人物，身穿浅灰色长袍，站立，面对齐公子，表情：表情平静。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "浅灰色长袍",
+                "position": "画面右侧",
+                "action": "向前行走，手臂微抬",
+                "expression": "表情坚定"
+            },
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "背景中央",
+                "action": "端坐",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内亭台，背景有女子端坐",
+        "description_narrative": "中景镜头，绿衣男子走向背景中的雨琪小姐，开始解释来意。",
+        "dialogue": "我是来",
+        "speaker": "绿衣男子",
+        "emotion": "认真",
+        "duration": 1.28,
+        "description_visual": "中景平拍镜头（跟拍）；室内亭台，背景有女子端坐；画面右侧人物，身穿浅灰色长袍，向前行走，手臂微抬，表情：表情坚定；背景中央人物，身穿白色长裙，端坐，表情：表情平静。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面中央",
+                "action": "端坐，双手交叠",
+                "expression": "眉毛微蹙，眼神直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内场景，光线柔和",
+        "description_narrative": "中近景镜头，雨琪小姐身穿白色绣花长裙端坐，表情高雅端庄，听着绿衣男子说完后半句。",
+        "dialogue": "找她的。",
+        "speaker": "绿衣男子",
+        "emotion": "null",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头；室内场景，光线柔和；画面中央人物，身穿白色绣花长裙，端坐，双手交叠，表情：眉毛微蹙，眼神直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面中央",
+                "action": "起身站立，双手交叠在身前",
+                "expression": "眉毛舒展，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "室内场景，背景虚化",
+        "description_narrative": "中景镜头，雨琪小姐起身站立，表情疑惑，质问绿衣男子为何自称来找她却从未见过。",
+        "dialogue": "这位公子既是为了我而来，那为何雨琪从未见过？",
+        "speaker": "雨琪小姐",
+        "emotion": "疑惑",
+        "duration": 4.56,
+        "description_visual": "中景平拍镜头；室内场景，背景虚化；画面中央人物，身穿白色绣花长裙，起身站立，双手交叠在身前，表情：眉毛舒展，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面中央",
+                "action": "站立，手持绿色物件",
+                "expression": "眉毛微挑，眼神深邃，嘴角微扬"
+            }
+        ],
+        "background": "室内场景，光线明亮",
+        "description_narrative": "近景镜头，绿衣男子表情自信，反问距离太远如何能看清。",
+        "dialogue": "离的这么远，又如何能看清？",
+        "speaker": "绿衣男子",
+        "emotion": "自信",
+        "duration": 3.16,
+        "description_visual": "近景平拍镜头；室内场景，光线明亮；画面中央人物，身穿绿金色纹样长袍，站立，手持绿色物件，表情：眉毛微挑，眼神深邃，嘴角微扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面中央",
+                "action": "面部特写，眼神专注",
+                "expression": "眉毛舒展，眼神凝视，嘴巴紧闭"
+            }
+        ],
+        "background": "背景虚化",
+        "description_narrative": "特写镜头推进，绿衣男子面部表情专注，似乎在回忆或审视。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头（推进）；背景虚化；画面中央人物，身穿绿金色纹样长袍，面部特写，眼神专注，表情：眉毛舒展，眼神凝视，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面中央",
+                "action": "侧身站立，低头",
+                "expression": "眉毛低垂，眼神下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内场景，光线柔和",
+        "description_narrative": "中近景侧拍镜头，雨琪小姐侧身低头，神情略显羞涩或思考。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "羞涩",
+        "duration": 0.88,
+        "description_visual": "中近景侧拍镜头；室内场景，光线柔和；画面中央人物，身穿白色绣花长裙，侧身站立，低头，表情：眉毛低垂，眼神下移，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面中央",
+                "action": "侧身站立，抬头看向前方",
+                "expression": "眉毛微蹙，眼神直视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内场景，光线柔和",
+        "description_narrative": "中近景侧拍镜头，雨琪小姐抬头看向前方，神情复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 1.12,
+        "description_visual": "中近景侧拍镜头；室内场景，光线柔和；画面中央人物，身穿白色绣花长裙，侧身站立，抬头看向前方，表情：眉毛微蹙，眼神直视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面左侧",
+                "action": "站立，面向右侧",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "室内亭台，背景有人物",
+        "description_narrative": "全景镜头，绿衣男子站在亭台中，准备走向雨琪小姐。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "null",
+        "duration": 0.92,
+        "description_visual": "全景平拍镜头；室内亭台，背景有人物；画面左侧人物，身穿绿金色纹样长袍，站立，面向右侧，表情：表情严肃。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面左侧",
+                "action": "伸手抱住雨琪小姐",
+                "expression": "表情专注"
+            },
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面右侧",
+                "action": "被抱住，身体微倾",
+                "expression": "表情惊讶"
+            }
+        ],
+        "background": "室内亭台，纱帘飘动",
+        "description_narrative": "中景侧拍镜头，绿衣男子突然伸手抱住雨琪小姐，动作大胆。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "大胆",
+        "duration": 0.88,
+        "description_visual": "中景侧拍镜头；室内亭台，纱帘飘动；画面左侧人物，身穿绿金色纹样长袍，伸手抱住雨琪小姐，表情：表情专注；画面右侧人物，身穿白色绣花长裙，被抱住，身体微倾，表情：表情惊讶。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面中央",
+                "action": "低头，面部特写",
+                "expression": "眉毛微蹙，眼神下移，嘴巴微张"
+            }
+        ],
+        "background": "背景虚化",
+        "description_narrative": "特写俯拍镜头，雨琪小姐低头，表情惊讶且略带羞涩。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 2.2,
+        "description_visual": "特写俯拍镜头；背景虚化；画面中央人物，身穿白色绣花长裙，低头，面部特写，表情：眉毛微蹙，眼神下移，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面中央",
+                "action": "面部特写，眼神直视",
+                "expression": "眉毛舒展，眼神深邃，嘴巴紧闭"
+            }
+        ],
+        "background": "背景虚化",
+        "description_narrative": "特写镜头，绿衣男子面部表情专注，此时画外音响起，表达熟悉感。",
+        "dialogue": "看他好眼熟，到底在哪见过呢？",
+        "speaker": "雨琪小姐",
+        "emotion": "疑惑",
+        "duration": 3.56,
+        "description_visual": "特写平拍镜头；背景虚化；画面中央人物，身穿绿金色纹样长袍，面部特写，眼神直视，表情：眉毛舒展，眼神深邃，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面左侧",
+                "action": "扶着雨琪小姐",
+                "expression": "表情专注"
+            },
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面中央",
+                "action": "被扶着",
+                "expression": "表情惊讶"
+            },
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色长袍",
+                "position": "画面右侧",
+                "action": "站立，面向左侧",
+                "expression": "表情愤怒"
+            }
+        ],
+        "background": "室内亭台，纱帘飘动",
+        "description_narrative": "全景镜头，绿衣男子扶着雨琪小姐，齐公子在右侧愤怒地喝止。",
+        "dialogue": "大胆。",
+        "speaker": "齐公子",
+        "emotion": "愤怒",
+        "duration": 0.76,
+        "description_visual": "全景平拍镜头；室内亭台，纱帘飘动；画面左侧人物，身穿绿金色纹样长袍，扶着雨琪小姐，表情：表情专注；画面中央人物，身穿白色绣花长裙，被扶着，表情：表情惊讶；画面右侧人物，身穿白色长袍，站立，面向左侧，表情：表情愤怒。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面左侧",
+                "action": "侧身，看向右侧",
+                "expression": "眉毛微蹙，眼神直视，嘴巴紧闭"
+            },
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内场景，背景虚化",
+        "description_narrative": "近景侧拍镜头，雨琪小姐看着绿衣男子，齐公子画外音响起维护小姐。",
+        "dialogue": "雨琪小姐何其高洁。",
+        "speaker": "齐公子",
+        "emotion": "维护",
+        "duration": 1.84,
+        "description_visual": "近景侧拍镜头；室内场景，背景虚化；画面左侧人物，身穿白色绣花长裙，侧身，看向右侧，表情：眉毛微蹙，眼神直视，嘴巴紧闭；画面右侧前景人物，身穿绿金色纹样长袍，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面中央",
+                "action": "低头，手持绿色物件",
+                "expression": "眉毛低垂，眼神下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内场景，光线明亮",
+        "description_narrative": "近景镜头，绿衣男子低头，齐公子继续斥责其亵渎小姐。",
+        "dialogue": "岂是你能亵渎的？一边去。",
+        "speaker": "齐公子",
+        "emotion": "斥责",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；室内场景，光线明亮；画面中央人物，身穿绿金色纹样长袍，低头，手持绿色物件，表情：眉毛低垂，眼神下移，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣男子",
+                "gender": "男",
+                "clothing": "绿金色纹样长袍",
+                "position": "画面右侧",
+                "action": "转身，手指指向左侧",
+                "expression": "眉毛微挑，眼神不屑，嘴巴微张"
+            },
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色长袍",
+                "position": "画面左侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内亭台，背景有人物",
+        "description_narrative": "中景镜头，绿衣男子转身指向齐公子，斥责其多管闲事。",
+        "dialogue": "我跟雨琪小姐说话，有这舔狗什么事？",
+        "speaker": "绿衣男子",
+        "emotion": "不屑",
+        "duration": 4.12,
+        "description_visual": "中景平拍镜头；室内亭台，背景有人物；画面右侧人物，身穿绿金色纹样长袍，转身，手指指向左侧，表情：眉毛微挑，眼神不屑，嘴巴微张；画面左侧人物，身穿白色长袍，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "帮腔男子",
+                "gender": "男",
+                "clothing": "浅青色长袍",
+                "position": "画面中央",
+                "action": "面部特写，嘴巴张开",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "室内场景，背景虚化",
+        "description_narrative": "近景镜头，帮腔男子表情急切，准备上前帮忙。",
+        "dialogue": "雨琪小姐，我这就。",
+        "speaker": "帮腔男子",
+        "emotion": "急切",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；室内场景，背景虚化；画面中央人物，身穿浅青色长袍，面部特写，嘴巴张开，表情：眉毛上扬，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "帮腔男子",
+                "gender": "男",
+                "clothing": "浅青色长袍",
+                "position": "画面中央",
+                "action": "双手握拳抬起，做出攻击姿势",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴张大"
+            }
+        ],
+        "background": "室内场景，背景虚化",
+        "description_narrative": "近景镜头，帮腔男子双手握拳，气势汹汹地表示要打绿衣男子。",
+        "dialogue": "帮你打这个登徒浪子，臭流氓。",
+        "speaker": "帮腔男子",
+        "emotion": "愤怒",
+        "duration": 2.52,
+        "description_visual": "近景平拍镜头；室内场景，背景虚化；画面中央人物，身穿浅青色长袍，双手握拳抬起，做出攻击姿势，表情：眉毛紧锁，眼神愤怒，嘴巴张大。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，眼神直视，嘴巴微张"
+            }
+        ],
+        "background": "室内场景，背景虚化",
+        "description_narrative": "近景镜头，雨琪小姐表情严肃，出声喝止帮腔男子。",
+        "dialogue": "慢着。",
+        "speaker": "雨琪小姐",
+        "emotion": "严肃",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；室内场景，背景虚化；画面中央人物，身穿白色绣花长裙，站立，表情严肃，表情：眉毛微蹙，眼神直视，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "雨琪小姐",
+                "gender": "女",
+                "clothing": "白色绣花长裙",
+                "position": "画面中央",
+                "action": "站立，表情缓和",
+                "expression": "眉毛舒展，眼神柔和，嘴巴微张"
+            }
+        ],
+        "background": "室内场景，背景虚化",
+        "description_narrative": "近景镜头，雨琪小姐表情缓和，表示虽未谋面但觉得绿衣男子言语有趣。",
+        "dialogue": "公子与雨琪素未谋面，但公子的话却着实有趣。",
+        "speaker": "雨琪小姐",
+        "emotion": "好奇",
+        "duration": 7.32,
+        "description_visual": "近景平拍镜头；室内场景，背景虚化；画面中央人物，身穿白色绣花长裙，站立，表情缓和，表情：眉毛舒展，眼神柔和，嘴巴微张。"
+    }
+]

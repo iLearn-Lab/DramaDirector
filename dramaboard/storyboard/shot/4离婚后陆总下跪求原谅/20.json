@@ -1,0 +1,892 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "医院走廊，米色墙壁，浅蓝色扶手，光线明亮柔和",
+        "description_narrative": "全景固定镜头展示空无一人的医院走廊，米色墙壁和浅蓝色扶手延伸向远方，光线明亮但气氛寂静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.64,
+        "description_visual": "全景平拍镜头；医院走廊，米色墙壁，浅蓝色扶手，光线明亮柔和。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂，身体微微前倾",
+                "expression": "眉毛微蹙，眼睛睁大显惊讶，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，墙上有宣传海报，光线明亮",
+        "description_narrative": "中景平拍镜头，宋伯母身穿花色旗袍站在走廊中央，神情震惊地看着前方，嘴巴微张似乎刚喊出名字。",
+        "dialogue": "顾晚",
+        "speaker": "宋伯母",
+        "emotion": "惊讶",
+        "duration": 0.72,
+        "description_visual": "中景平拍镜头；医院走廊，墙上有宣传海报，光线明亮；画面中央人物，身穿花色旗袍，站立，双手自然下垂，身体微微前倾，表情：眉毛微蹙，眼睛睁大显惊讶，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "头部向左侧剧烈偏转，头发飞舞，身体因受力而后仰",
+                "expression": "眼睛紧闭，嘴巴张开，面部肌肉因疼痛而扭曲"
+            }
+        ],
+        "background": "医院走廊墙壁，模糊背景",
+        "description_narrative": "中近景跟拍镜头捕捉顾晚被掌掴的瞬间，她身穿粉色连衣裙，头部猛地向左偏转，长发随之甩动，表情痛苦。",
+        "dialogue": "宋伯母",
+        "speaker": "顾晚",
+        "emotion": "痛苦",
+        "duration": 2.12,
+        "description_visual": "中近景平拍镜头（跟拍）；医院走廊墙壁，模糊背景；画面右侧人物，身穿粉色无袖连衣裙，头部向左侧剧烈偏转，头发飞舞，身体因受力而后仰，表情：眼睛紧闭，嘴巴张开，面部肌肉因疼痛而扭曲。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面左侧",
+                "action": "背对镜头站立，面对顾晚",
+                "expression": "不可见"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "右手捂住左脸颊，身体微侧，震惊地看着对方",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "医院长廊，透视感强，尽头有窗户",
+        "description_narrative": "全景固定镜头展示两人在走廊对峙，宋伯母背对镜头，顾晚身穿粉色裙子捂着脸颊，一脸震惊和委屈。",
+        "dialogue": "别喊我伯母，你这个扫把星",
+        "speaker": "宋伯母",
+        "emotion": "愤怒",
+        "duration": 2.28,
+        "description_visual": "全景平拍镜头；医院长廊，透视感强，尽头有窗户；画面左侧人物，身穿花色旗袍，背对镜头站立，面对顾晚，表情：不可见；画面右侧人物，身穿粉色无袖连衣裙，右手捂住左脸颊，身体微侧，震惊地看着对方，表情：眉毛紧锁，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面左侧",
+                "action": "身体正对前方，双手下垂",
+                "expression": "眉毛倒竖，眼神凶狠，嘴角下撇"
+            }
+        ],
+        "background": "医院走廊墙壁，浅色调",
+        "description_narrative": "中近景镜头聚焦宋伯母，她身穿花色旗袍，表情愤怒凶狠，眼神死死盯着对面的人，言语充满指责。",
+        "dialogue": "把我儿子害的好惨",
+        "speaker": "宋伯母",
+        "emotion": "愤怒",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；医院走廊墙壁，浅色调；画面左侧人物，身穿花色旗袍，身体正对前方，双手下垂，表情：眉毛倒竖，眼神凶狠，嘴角下撇。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面中央",
+                "action": "右手轻触下巴，眼神游离",
+                "expression": "眉毛微蹙，眼神困惑，嘴巴微张"
+            }
+        ],
+        "background": "模糊的走廊背景",
+        "description_narrative": "特写镜头展示顾晚的面部反应，她身穿粉色裙子，手抚下巴，眼神中充满困惑和难以置信，听着对方的指责。",
+        "dialogue": "把我儿子害的好惨",
+        "speaker": "宋伯母",
+        "emotion": "困惑",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；模糊的走廊背景；画面中央人物，身穿粉色无袖连衣裙，右手轻触下巴，眼神游离，表情：眉毛微蹙，眼神困惑，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面中央",
+                "action": "身体前倾，情绪激动",
+                "expression": "眉毛高挑，眼睛瞪大，牙齿微露"
+            }
+        ],
+        "background": "医院走廊，墙面干净",
+        "description_narrative": "中近景镜头中，宋伯母情绪激动地身体前倾，瞪大眼睛质问，表情夸张，强调时间跨度。",
+        "dialogue": "之清怎么了 四年前",
+        "speaker": "宋伯母",
+        "emotion": "激动",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；医院走廊，墙面干净；画面中央人物，身穿花色旗袍，身体前倾，情绪激动，表情：眉毛高挑，眼睛瞪大，牙齿微露。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "站立，双手自然下垂，眼神直视对方",
+                "expression": "眉毛紧锁，眼神严肃，嘴唇紧闭"
+            }
+        ],
+        "background": "走廊背景，虚化",
+        "description_narrative": "过肩镜头拍摄顾晚，她身穿粉色裙子，表情严肃地听着对方的控诉，眼神中带着探究。",
+        "dialogue": "他被你害的流放国外",
+        "speaker": "宋伯母",
+        "emotion": "严肃",
+        "duration": 1.68,
+        "description_visual": "中近景过肩镜头；走廊背景，虚化；画面右侧人物，身穿粉色无袖连衣裙，站立，双手自然下垂，眼神直视对方，表情：眉毛紧锁，眼神严肃，嘴唇紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面中央",
+                "action": "双手交握在身前，身体微晃",
+                "expression": "眉毛紧皱，眼神焦急，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，浅色调",
+        "description_narrative": "中近景镜头中，宋伯母双手交握，表情焦急且愤怒，讲述儿子刚回国的不易。",
+        "dialogue": "现在好不容易回来了",
+        "speaker": "宋伯母",
+        "emotion": "焦急",
+        "duration": 1.76,
+        "description_visual": "中近景平拍镜头；医院走廊，浅色调；画面中央人物，身穿花色旗袍，双手交握在身前，身体微晃，表情：眉毛紧皱，眼神焦急，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头捕捉顾晚震惊的表情，她听到儿子入狱的消息，眉毛上扬，嘴巴微张，显得难以置信。",
+        "dialogue": "又被陆时庭送进了监狱",
+        "speaker": "宋伯母",
+        "emotion": "震惊",
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿粉色无袖连衣裙，头部微侧，眼神震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面中央",
+                "action": "身体前倾，表情夸张",
+                "expression": "眉毛高挑，眼睛瞪圆，嘴巴张大"
+            }
+        ],
+        "background": "医院走廊，墙面",
+        "description_narrative": "中近景镜头中，宋伯母表情夸张地质问，眼睛瞪圆，嘴巴张大，情绪达到高点。",
+        "dialogue": "怎么会",
+        "speaker": "宋伯母",
+        "emotion": "质问",
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；医院走廊，墙面；画面中央人物，身穿花色旗袍，身体前倾，表情夸张，表情：眉毛高挑，眼睛瞪圆，嘴巴张大。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面左侧",
+                "action": "双手交握，身体微侧",
+                "expression": "眉毛紧锁，眼神犀利，牙齿紧咬"
+            }
+        ],
+        "background": "医院走廊，浅色调",
+        "description_narrative": "中近景镜头展示宋伯母愤怒地质问陆时庭的身份，双手交握，眼神犀利，充满敌意。",
+        "dialogue": "陆时庭是什么人啊",
+        "speaker": "宋伯母",
+        "emotion": "愤怒",
+        "duration": 2.52,
+        "description_visual": "中近景平拍镜头；医院走廊，浅色调；画面左侧人物，身穿花色旗袍，双手交握，身体微侧，表情：眉毛紧锁，眼神犀利，牙齿紧咬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "低头，眼神向下，神情愧疚",
+                "expression": "眉毛下垂，眼神躲闪，嘴唇紧闭"
+            }
+        ],
+        "background": "走廊背景，虚化",
+        "description_narrative": "过肩镜头拍摄顾晚低头站立，神情愧疚，听着宋伯母指责她撺掇儿子出头。",
+        "dialogue": "你撺掇我儿子替你出头",
+        "speaker": "宋伯母",
+        "emotion": "愧疚",
+        "duration": 3.4,
+        "description_visual": "中近景过肩镜头；走廊背景，虚化；画面右侧人物，身穿粉色无袖连衣裙，低头，眼神向下，神情愧疚，表情：眉毛下垂，眼神躲闪，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面中央",
+                "action": "手指指向前方，情绪激动",
+                "expression": "眉毛倒竖，眼睛瞪大，嘴巴张大露齿"
+            }
+        ],
+        "background": "医院走廊，墙面",
+        "description_narrative": "特写镜头中，宋伯母情绪激动地指着对方，提到孩子时表情更加凶狠，咬牙切齿。",
+        "dialogue": "能不被他针对 还有你生的那个孩子",
+        "speaker": "宋伯母",
+        "emotion": "凶狠",
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；医院走廊，墙面；画面中央人物，身穿花色旗袍，手指指向前方，情绪激动，表情：眉毛倒竖，眼睛瞪大，嘴巴张大露齿。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "站立，双手握拳垂在身侧",
+                "expression": "眉毛紧锁，眼神坚定又痛苦，嘴唇微张"
+            }
+        ],
+        "background": "走廊背景，虚化",
+        "description_narrative": "过肩镜头拍摄顾晚，她双手握拳，表情痛苦而坚定，听着对方否认孩子的血缘。",
+        "dialogue": "就不是我们宋家的种",
+        "speaker": "宋伯母",
+        "emotion": "痛苦",
+        "duration": 2.72,
+        "description_visual": "中近景过肩镜头；走廊背景，虚化；画面右侧人物，身穿粉色无袖连衣裙，站立，双手握拳垂在身侧，表情：眉毛紧锁，眼神坚定又痛苦，嘴唇微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼神悲伤，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "侧拍特写镜头展示顾晚悲伤的侧脸，她低着头，听着对方指责她诬赖宋之清。",
+        "dialogue": "你却要诬赖给我们家之清",
+        "speaker": "宋伯母",
+        "emotion": "悲伤",
+        "duration": 1.84,
+        "description_visual": "特写侧拍镜头；模糊背景；画面右侧人物，身穿粉色无袖连衣裙，头部微低，眼神向下，表情：眉毛微蹙，眼神悲伤，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面左侧",
+                "action": "手臂伸出，指向对方",
+                "expression": "眉毛紧锁，眼神强硬，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，墙面",
+        "description_narrative": "中近景镜头中，宋伯母强硬地伸出手臂指着顾晚，表示不管对方用什么办法。",
+        "dialogue": "我不管",
+        "speaker": "宋伯母",
+        "emotion": "强硬",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；医院走廊，墙面；画面左侧人物，身穿花色旗袍，手臂伸出，指向对方，表情：眉毛紧锁，眼神强硬，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面左侧",
+                "action": "手指指向顾晚，身体前倾",
+                "expression": "眉毛倒竖，眼神凶狠，嘴巴张大"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "手捂脸颊，身体后仰",
+                "expression": "眉毛紧锁，眼神惊恐，嘴巴微张"
+            }
+        ],
+        "background": "医院长廊，透视感强",
+        "description_narrative": "全景镜头展示宋伯母指着顾晚下达最后通牒，顾晚捂着脸颊惊恐地后退，气氛紧张。",
+        "dialogue": "你要用什么办法",
+        "speaker": "宋伯母",
+        "emotion": "威胁",
+        "duration": 3.08,
+        "description_visual": "全景平拍镜头；医院长廊，透视感强；画面左侧人物，身穿花色旗袍，手指指向顾晚，身体前倾，表情：眉毛倒竖，眼神凶狠，嘴巴张大；画面右侧人物，身穿粉色无袖连衣裙，手捂脸颊，身体后仰，表情：眉毛紧锁，眼神惊恐，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面中央",
+                "action": "手指用力指向前方",
+                "expression": "眉毛高挑，眼睛瞪大，嘴巴呈O型"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头聚焦宋伯母的手指和面部，她瞪大眼睛发出威胁，要求顾晚让陆时庭放人。",
+        "dialogue": "你让陆时庭放过我的儿子 不然",
+        "speaker": "宋伯母",
+        "emotion": "威胁",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿花色旗袍，手指用力指向前方，表情：眉毛高挑，眼睛瞪大，嘴巴呈O型。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "局部特写",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "腿部行走，高跟鞋踏地",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊地面和扶手",
+        "description_narrative": "低角度跟拍镜头展示顾晚的腿部和高跟鞋，她似乎转身离开或后退，背景是走廊扶手。",
+        "dialogue": "我也不会放过你的儿子",
+        "speaker": "宋伯母",
+        "emotion": null,
+        "duration": 1.32,
+        "description_visual": "局部特写低角度镜头（跟拍）；医院走廊地面和扶手；画面右侧人物，身穿粉色无袖连衣裙，腿部行走，高跟鞋踏地，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋伯母",
+                "gender": "女",
+                "clothing": "花色旗袍",
+                "position": "画面左侧",
+                "action": "站立，低头看地面",
+                "expression": "不可见"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧地面",
+                "action": "跪趴在地上，双手撑地",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院长廊，地面洁白",
+        "description_narrative": "高角度全景镜头展示顾晚跪趴在地上，宋伯母站在一旁低头看着她，画面充满压迫感。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "全景高角度镜头；医院长廊，地面洁白；画面左侧人物，身穿花色旗袍，站立，低头看地面，表情：不可见；画面右侧地面人物，身穿粉色无袖连衣裙，跪趴在地上，双手撑地，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面中央",
+                "action": "抬头，眼神坚定",
+                "expression": "眉毛微蹙，眼神坚毅，嘴唇微张"
+            }
+        ],
+        "background": "地面，模糊",
+        "description_narrative": "俯拍特写镜头展示顾晚在地上的面部，她抬起头，眼神从痛苦转为坚定，内心独白响起。",
+        "dialogue": "宋伯母说的没错 之清是无辜的 我不能让他受我牵连",
+        "speaker": "顾晚",
+        "emotion": "坚定",
+        "duration": 5.0,
+        "description_visual": "特写俯拍镜头；地面，模糊；画面中央人物，身穿粉色无袖连衣裙，抬头，眼神坚定，表情：眉毛微蹙，眼神坚毅，嘴唇微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面中央",
+                "action": "眼神微动，光线变暗",
+                "expression": "眉毛舒展，眼神深邃，嘴唇闭合"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写镜头中光线逐渐变暗，顾晚的眼神在黑暗中闪烁，画面过渡到下一个场景。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "深沉",
+        "duration": 0.6,
+        "description_visual": "特写俯拍镜头；黑暗背景；画面中央人物，身穿粉色无袖连衣裙，眼神微动，光线变暗，表情：眉毛舒展，眼神深邃，嘴唇闭合。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色西装，紫色领带",
+                "position": "画面中央",
+                "action": "坐在办公桌后，身体后仰，手扶桌面",
+                "expression": "眉毛微挑，眼神冷漠，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室，书架，奖杯，光线柔和",
+        "description_narrative": "中景固定镜头展示陆时庭坐在办公桌后，身穿黑色西装，神情冷漠地看着前方，桌上有日历。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷漠",
+        "duration": 2.04,
+        "description_visual": "中景平拍镜头；办公室，书架，奖杯，光线柔和；画面中央人物，身穿黑色西装，紫色领带，坐在办公桌后，身体后仰，手扶桌面，表情：眉毛微挑，眼神冷漠，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面中央",
+                "action": "低头站立，双手交握",
+                "expression": "眉毛下垂，眼神向下，嘴唇微张"
+            }
+        ],
+        "background": "办公室背景，虚化",
+        "description_narrative": "中近景镜头拍摄顾晚低头站立，神情卑微，听着陆时庭冷漠的质问。",
+        "dialogue": "你来做什么",
+        "speaker": "陆时庭",
+        "emotion": "卑微",
+        "duration": 2.56,
+        "description_visual": "中近景平拍镜头；办公室背景，虚化；画面中央人物，身穿粉色无袖连衣裙，低头站立，双手交握，表情：眉毛下垂，眼神向下，嘴唇微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色西装，紫色领带",
+                "position": "画面中央",
+                "action": "头部微侧，眼神斜视",
+                "expression": "眉毛微蹙，眼神不屑，嘴唇紧闭"
+            }
+        ],
+        "background": "办公室背景，虚化",
+        "description_narrative": "特写镜头聚焦陆时庭的侧脸，他眼神不屑地斜视，听着顾晚的请求。",
+        "dialogue": "时庭 我跟你之间的事情",
+        "speaker": "顾晚",
+        "emotion": "不屑",
+        "duration": 2.72,
+        "description_visual": "特写平拍镜头；办公室背景，虚化；画面中央人物，身穿黑色西装，紫色领带，头部微侧，眼神斜视，表情：眉毛微蹙，眼神不屑，嘴唇紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面中央",
+                "action": "抬头，眼神恳求",
+                "expression": "眉毛紧锁，眼神含泪，嘴唇颤抖"
+            }
+        ],
+        "background": "办公室背景，虚化",
+        "description_narrative": "中近景镜头展示顾晚抬头恳求，眉头紧锁，眼中含泪，请求不要波及无辜。",
+        "dialogue": "能不能不要波及无辜",
+        "speaker": "顾晚",
+        "emotion": "恳求",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；办公室背景，虚化；画面中央人物，身穿粉色无袖连衣裙，抬头，眼神恳求，表情：眉毛紧锁，眼神含泪，嘴唇颤抖。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色西装，紫色领带",
+                "position": "画面中央",
+                "action": "双手张开，身体后仰",
+                "expression": "眉毛倒竖，眼神愤怒，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室，书架，奖杯",
+        "description_narrative": "中景镜头中，陆时庭愤怒地张开双手，身体后仰，对顾晚的请求表示极度不满。",
+        "dialogue": "不要伤害宋之清",
+        "speaker": "顾晚",
+        "emotion": "愤怒",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；办公室，书架，奖杯；画面中央人物，身穿黑色西装，紫色领带，双手张开，身体后仰，表情：眉毛倒竖，眼神愤怒，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色西装，紫色领带",
+                "position": "画面中央",
+                "action": "猛地站起，身体前倾",
+                "expression": "眉毛紧锁，眼神凶狠，嘴巴微张"
+            }
+        ],
+        "background": "办公室，办公桌",
+        "description_narrative": "跟拍镜头捕捉陆时庭猛地从椅子上站起的动作，他身体前倾，表情凶狠，充满攻击性。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凶狠",
+        "duration": 0.68,
+        "description_visual": "中景平拍镜头（跟拍）；办公室，办公桌；画面中央人物，身穿黑色西装，紫色领带，猛地站起，身体前倾，表情：眉毛紧锁，眼神凶狠，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "双手抓住对方的手腕，头部后仰",
+                "expression": "眉毛高挑，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "仰拍特写镜头展示顾晚被掐住脖子，她双手抓住对方的手腕，头部后仰，表情惊恐痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 0.72,
+        "description_visual": "特写仰拍镜头；模糊背景；画面右侧人物，身穿粉色无袖连衣裙，双手抓住对方的手腕，头部后仰，表情：眉毛高挑，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "侧身，手抓对方脖子",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景，虚化",
+        "description_narrative": "侧拍近景镜头展示陆时庭的侧脸，他愤怒地质问顾晚来找他的目的。",
+        "dialogue": "你来找我",
+        "speaker": "陆时庭",
+        "emotion": "愤怒",
+        "duration": 1.4,
+        "description_visual": "近景侧拍镜头；办公室背景，虚化；画面左侧人物，身穿黑色西装，侧身，手抓对方脖子，表情：眉毛紧锁，眼神愤怒，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面中央",
+                "action": "被掐住脖子，双手无力下垂",
+                "expression": "眉毛紧蹙，眼神痛苦，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头聚焦顾晚痛苦的表情，她被掐住脖子，眼神痛苦，听着对方指责她为旧情人求情。",
+        "dialogue": "就是为了给你的旧情人求情",
+        "speaker": "陆时庭",
+        "emotion": "痛苦",
+        "duration": 2.16,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿粉色无袖连衣裙，被掐住脖子，双手无力下垂，表情：眉毛紧蹙，眼神痛苦，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "单手掐住对方脖子，身体前倾",
+                "expression": "眉毛倒竖，眼神凶狠，牙齿紧咬"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面右侧",
+                "action": "双手抓住对方手腕，身体后仰",
+                "expression": "眉毛紧锁，眼神惊恐，嘴巴张大"
+            }
+        ],
+        "background": "办公室，办公桌，日历",
+        "description_narrative": "中景镜头展示陆时庭掐着顾晚的脖子，顾晚挣扎着解释自己和他什么都没有。",
+        "dialogue": "不是的我跟他 我跟他什么都没有",
+        "speaker": "顾晚",
+        "emotion": "惊恐",
+        "duration": 3.2,
+        "description_visual": "中景平拍镜头；办公室，办公桌，日历；画面左侧人物，身穿黑色西装，单手掐住对方脖子，身体前倾，表情：眉毛倒竖，眼神凶狠，牙齿紧咬；画面右侧人物，身穿粉色无袖连衣裙，双手抓住对方手腕，身体后仰，表情：眉毛紧锁，眼神惊恐，嘴巴张大。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "将对方推倒在桌上",
+                "expression": "表情模糊"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面左侧",
+                "action": "身体后仰倒在桌上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室，办公桌",
+        "description_narrative": "跟拍镜头展示陆时庭将顾晚推倒在办公桌上，动作粗暴，画面动态感强。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.76,
+        "description_visual": "中景平拍镜头（跟拍）；办公室，办公桌；画面右侧人物，身穿黑色西装，将对方推倒在桌上，表情：表情模糊；画面左侧人物，身穿粉色无袖连衣裙，身体后仰倒在桌上，表情：不可见。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体前倾，眼神直视",
+                "expression": "眉毛微挑，眼神玩味，嘴角微扬"
+            }
+        ],
+        "background": "办公室背景，虚化",
+        "description_narrative": "特写镜头聚焦陆时庭的面部，他身体前倾，眼神玩味地看着对方，提出交换条件。",
+        "dialogue": "放了他也不是不行",
+        "speaker": "陆时庭",
+        "emotion": "玩味",
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头；办公室背景，虚化；画面中央人物，身穿黑色西装，身体前倾，眼神直视，表情：眉毛微挑，眼神玩味，嘴角微扬。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陆时庭",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "双手抓住对方肩膀",
+                "expression": "眉毛紧锁，眼神欲望，嘴巴微张"
+            },
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面左侧",
+                "action": "身体后仰，双手被抓住",
+                "expression": "眉毛紧蹙，眼神惊恐，嘴巴微张"
+            }
+        ],
+        "background": "办公室，书架",
+        "description_narrative": "中近景镜头展示陆时庭抓住顾晚的肩膀，提出用身体取悦他的无理要求，顾晚表情惊恐。",
+        "dialogue": "那你就用这副身子 取悦我怎么样",
+        "speaker": "陆时庭",
+        "emotion": "欲望",
+        "duration": 3.52,
+        "description_visual": "中近景平拍镜头；办公室，书架；画面右侧人物，身穿黑色西装，双手抓住对方肩膀，表情：眉毛紧锁，眼神欲望，嘴巴微张；画面左侧人物，身穿粉色无袖连衣裙，身体后仰，双手被抓住，表情：眉毛紧蹙，眼神惊恐，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晚",
+                "gender": "女",
+                "clothing": "粉色无袖连衣裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神无助",
+                "expression": "眉毛下垂，眼神绝望，嘴唇微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头展示顾晚无助绝望的表情，她轻声呼唤陆时庭的名字，画面结束。",
+        "dialogue": "时庭",
+        "speaker": "顾晚",
+        "emotion": "绝望",
+        "duration": 2.44,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿粉色无袖连衣裙，头部微侧，眼神无助，表情：眉毛下垂，眼神绝望，嘴唇微张。"
+    }
+]

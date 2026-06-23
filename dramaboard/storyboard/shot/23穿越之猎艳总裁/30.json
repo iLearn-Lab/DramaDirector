@@ -1,0 +1,593 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "white shirt",
+                "position": "top left/bottom center",
+                "action": "sleeping",
+                "expression": "eyes closed"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "white dress",
+                "position": "top right",
+                "action": "sitting",
+                "expression": "looking down"
+            }
+        ],
+        "background": "Movie poster with title text '穿越之猎艳总裁' and '第 30 集', dark tone.",
+        "description_narrative": "A static shot of the movie poster featuring the title '穿越之猎艳总裁' in large yellow characters and '第 30 集' in red. The background image shows a collage of scenes with the Black Shirt Man and a woman in intimate poses.",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.25,
+        "description_visual": "全景平拍镜头；Movie poster with title text '穿越之猎艳总裁' and '第 30 集', dark tone.；top left/bottom center人物，身穿white shirt，sleeping，表情：eyes closed；top right人物，身穿white dress，sitting，表情：looking down。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt, grey pants",
+                "position": "left",
+                "action": "back against wall, hands holding woman's arms",
+                "expression": "eyebrows furrowed, mouth open speaking, eyes looking side"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top, black shorts",
+                "position": "right",
+                "action": "hugging man, face buried in his neck",
+                "expression": "eyes closed, face hidden"
+            }
+        ],
+        "background": "Indoor room with light patterned wallpaper, messy bed in background.",
+        "description_narrative": "Mid shot. The Grey Dress Woman hugs the Black Shirt Man against the wall. He looks hesitant and worried, trying to push the moment back while speaking.",
+        "dialogue": "别别别，等会等会，项真龙还在外面",
+        "speaker": "Black Shirt Man",
+        "emotion": "hesitant",
+        "duration": 2.68,
+        "description_visual": "中景平拍镜头；Indoor room with light patterned wallpaper, messy bed in background.；left人物，身穿black shirt, grey pants，back against wall, hands holding woman's arms，表情：eyebrows furrowed, mouth open speaking, eyes looking side；right人物，身穿grey top, black shorts，hugging man, face buried in his neck，表情：eyes closed, face hidden。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt",
+                "position": "center",
+                "action": "looking down/side",
+                "expression": "eyebrows knitted, mouth slightly open, eyes shifting"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top",
+                "position": "right foreground",
+                "action": "back to camera",
+                "expression": "hidden"
+            }
+        ],
+        "background": "Light patterned wallpaper.",
+        "description_narrative": "Close up on the Black Shirt Man's face. He looks anxious and glances towards the door, emphasizing his concern about the person outside.",
+        "dialogue": "项真龙还在外面",
+        "speaker": "Black Shirt Man",
+        "emotion": "worried",
+        "duration": 4.67,
+        "description_visual": "特写平拍镜头；Light patterned wallpaper.；center人物，身穿black shirt，looking down/side，表情：eyebrows knitted, mouth slightly open, eyes shifting；right foreground人物，身穿grey top，back to camera，表情：hidden。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt",
+                "position": "center",
+                "action": "standing still",
+                "expression": "hidden"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top",
+                "position": "foreground",
+                "action": "hands unbuttoning man's shirt",
+                "expression": "hidden"
+            }
+        ],
+        "background": "Close up on black shirt fabric.",
+        "description_narrative": "Extreme close up on the Black Shirt Man's chest. The Grey Dress Woman's hands are actively unbuttoning his shirt, showing her persistence.",
+        "dialogue": "这样不太好，毕竟是发小，我还是很讲义气的啊",
+        "speaker": "Black Shirt Man",
+        "emotion": "reluctant",
+        "duration": 3.73,
+        "description_visual": "特写平拍镜头；Close up on black shirt fabric.；center人物，身穿black shirt，standing still，表情：hidden；foreground人物，身穿grey top，hands unbuttoning man's shirt，表情：hidden。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt, grey pants",
+                "position": "left",
+                "action": "leaning against wall, looking at woman",
+                "expression": "eyebrows raised, mouth slightly open"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top, black shorts",
+                "position": "right",
+                "action": "hands on man's shoulders, leaning in",
+                "expression": "smiling, eyes looking at him"
+            }
+        ],
+        "background": "Room corner with patterned wallpaper and bed.",
+        "description_narrative": "Mid shot. The Grey Dress Woman leans in close, challenging his hesitation with a teasing smile. The man looks at her, his resolve weakening.",
+        "dialogue": "有什么不好的呀，你讲义气",
+        "speaker": "Grey Dress Woman",
+        "emotion": "teasing",
+        "duration": 3.07,
+        "description_visual": "中景平拍镜头；Room corner with patterned wallpaper and bed.；left人物，身穿black shirt, grey pants，leaning against wall, looking at woman，表情：eyebrows raised, mouth slightly open；right人物，身穿grey top, black shorts，hands on man's shoulders, leaning in，表情：smiling, eyes looking at him。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt",
+                "position": "left",
+                "action": "looking at woman",
+                "expression": "eyes half closed,嘴角上扬 (smirking)"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top",
+                "position": "right foreground",
+                "action": "hugging man",
+                "expression": "hidden"
+            }
+        ],
+        "background": "Patterned wallpaper.",
+        "description_narrative": "Close up on the man. He smiles slightly, seduced by her words, his expression shifting from worry to amusement.",
+        "dialogue": "那就是不讲情义喽",
+        "speaker": "Grey Dress Woman",
+        "emotion": "flirtatious",
+        "duration": 2.7,
+        "description_visual": "近景平拍镜头；Patterned wallpaper.；left人物，身穿black shirt，looking at woman，表情：eyes half closed,嘴角上扬 (smirking)；right foreground人物，身穿grey top，hugging man，表情：hidden。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt, grey pants",
+                "position": "left",
+                "action": "hugging woman back",
+                "expression": "smiling, eyes closed"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top, black shorts",
+                "position": "right",
+                "action": "arms around man's neck",
+                "expression": "smiling"
+            }
+        ],
+        "background": "Room corner.",
+        "description_narrative": "Mid shot. The man gives in, hugging the woman back tightly. He smiles, indicating he has chosen 'affection' over 'loyalty'.",
+        "dialogue": "那还是情义比较重要",
+        "speaker": "Black Shirt Man",
+        "emotion": "seduced",
+        "duration": 2.55,
+        "description_visual": "中景平拍镜头；Room corner.；left人物，身穿black shirt, grey pants，hugging woman back，表情：smiling, eyes closed；right人物，身穿grey top, black shorts，arms around man's neck，表情：smiling。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt",
+                "position": "left",
+                "action": "nuzzling woman's neck",
+                "expression": "eyes closed, mouth near neck"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top",
+                "position": "right",
+                "action": "being hugged",
+                "expression": "hidden"
+            }
+        ],
+        "background": "Patterned wallpaper.",
+        "description_narrative": "Close up. The man buries his face in the woman's neck, whispering that she is making him hot, fully engaged in the moment.",
+        "dialogue": "宝贝，你现在让我好上火啊",
+        "speaker": "Black Shirt Man",
+        "emotion": "aroused",
+        "duration": 2.92,
+        "description_visual": "近景平拍镜头；Patterned wallpaper.；left人物，身穿black shirt，nuzzling woman's neck，表情：eyes closed, mouth near neck；right人物，身穿grey top，being hugged，表情：hidden。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt",
+                "position": "center",
+                "action": "moving quickly, turning",
+                "expression": "mouth open speaking, blurry"
+            }
+        ],
+        "background": "Blurred room background.",
+        "description_narrative": "Dynamic shot with motion blur. The man moves quickly, picking up the woman or moving towards the bed, saying he can't leave now.",
+        "dialogue": "我现在想走也走不了了",
+        "speaker": "Black Shirt Man",
+        "emotion": "passionate",
+        "duration": 0.52,
+        "description_visual": "近景平拍镜头（跟拍）；Blurred room background.；center人物，身穿black shirt，moving quickly, turning，表情：mouth open speaking, blurry。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "Light blue bed sheet, pillow with cartoon patterns.",
+        "description_narrative": "Close up on the bed sheet. There is a sudden movement and sound as they fall onto the bed, indicated by the rustling sheet.",
+        "dialogue": "啊",
+        "speaker": "Grey Dress Woman",
+        "emotion": "surprised",
+        "duration": 1.75,
+        "description_visual": "特写俯拍镜头；Light blue bed sheet, pillow with cartoon patterns.。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt",
+                "position": "top/center",
+                "action": "on top of woman",
+                "expression": "looking down at woman"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top",
+                "position": "bottom",
+                "action": "lying on bed",
+                "expression": "looking up, smiling"
+            }
+        ],
+        "background": "Bed with cartoon pillow.",
+        "description_narrative": "High angle shot. The man is on top of the woman on the bed. He apologizes for the bed breaking and suggests moving.",
+        "dialogue": "对不起啊宝贝，这破床怎么一点都不结实，要不",
+        "speaker": "Black Shirt Man",
+        "emotion": "apologetic",
+        "duration": 5.95,
+        "description_visual": "中近景俯拍镜头；Bed with cartoon pillow.；top/center人物，身穿black shirt，on top of woman，表情：looking down at woman；bottom人物，身穿grey top，lying on bed，表情：looking up, smiling。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top",
+                "position": "center",
+                "action": "lying down, looking up",
+                "expression": "smiling, eyes looking at man"
+            }
+        ],
+        "background": "Bed sheet, pillow.",
+        "description_narrative": "Close up on the woman's face. She looks up at him and suggests changing places, but her tone implies she wants to stay.",
+        "dialogue": "要不咱们换个地儿",
+        "speaker": "Grey Dress Woman",
+        "emotion": "playful",
+        "duration": 4.0,
+        "description_visual": "特写平拍镜头；Bed sheet, pillow.；center人物，身穿grey top，lying down, looking up，表情：smiling, eyes looking at man。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt",
+                "position": "top",
+                "action": "kissing woman",
+                "expression": "eyes closed"
+            },
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top",
+                "position": "bottom",
+                "action": "being kissed",
+                "expression": "eyes closed"
+            }
+        ],
+        "background": "Bed.",
+        "description_narrative": "Close up. The man kisses her and insists on staying right there, rejecting her suggestion to move.",
+        "dialogue": "不去，就在这",
+        "speaker": "Black Shirt Man",
+        "emotion": "determined",
+        "duration": 1.55,
+        "description_visual": "近景平拍镜头；Bed.；top人物，身穿black shirt，kissing woman，表情：eyes closed；bottom人物，身穿grey top，being kissed，表情：eyes closed。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Xiang Zhenlong",
+                "gender": "男",
+                "clothing": "green jacket, white t-shirt, black shorts",
+                "position": "center",
+                "action": "sitting on sofa, hands clasped",
+                "expression": "looking down, serious"
+            }
+        ],
+        "background": "Living room, white sofa, white table.",
+        "description_narrative": "Cut to Xiang Zhenlong sitting alone on the sofa in the living room. He looks down with a clenched jaw, listening to the sounds from the bedroom. The woman's voice calls 'Baby' from off-screen.",
+        "dialogue": "宝贝",
+        "speaker": "Grey Dress Woman (画外音)",
+        "emotion": "listening",
+        "duration": 3.13,
+        "description_visual": "中景平拍镜头；Living room, white sofa, white table.；center人物，身穿green jacket, white t-shirt, black shorts，sitting on sofa, hands clasped，表情：looking down, serious。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Xiang Zhenlong",
+                "gender": "男",
+                "clothing": "green jacket, white t-shirt",
+                "position": "center",
+                "action": "sitting, looking forward",
+                "expression": "chewing motion, eyes staring blankly"
+            }
+        ],
+        "background": "Living room sofa.",
+        "description_narrative": "Xiang Zhenlong continues to sit, looking stunned. He makes a chewing motion. The woman's voice is heard asking about gum and sweetness, taunting him.",
+        "dialogue": "你吃口香糖了吗？吃了啊，嘴巴怎么这么甜？怎么，真龙平时不吃吗",
+        "speaker": "Grey Dress Woman (画外音)",
+        "emotion": "shocked/angry",
+        "duration": 9.58,
+        "description_visual": "中景平拍镜头；Living room sofa.；center人物，身穿green jacket, white t-shirt，sitting, looking forward，表情：chewing motion, eyes staring blankly。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Xiang Zhenlong",
+                "gender": "男",
+                "clothing": "green jacket",
+                "position": "center",
+                "action": "sitting",
+                "expression": "mouth pursed, looking away"
+            }
+        ],
+        "background": "Living room.",
+        "description_narrative": "Xiang Zhenlong looks away, lips pursed in anger/disgust. The woman's voice continues to mock him, saying he only eats garlic.",
+        "dialogue": "他啊，就吃大蒜",
+        "speaker": "Grey Dress Woman (画外音)",
+        "emotion": "humiliated",
+        "duration": 2.83,
+        "description_visual": "中景平拍镜头；Living room.；center人物，身穿green jacket，sitting，表情：mouth pursed, looking away。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Black Shirt Man",
+                "gender": "男",
+                "clothing": "black shirt",
+                "position": "center",
+                "action": "lying down, chest visible",
+                "expression": "mouth smiling/speaking"
+            }
+        ],
+        "background": "Bed sheet.",
+        "description_narrative": "Close up on the Black Shirt Man lying on the bed. He agrees that Xiang stinks and compliments the woman, then warns her to be quiet because Xiang is listening.",
+        "dialogue": "臭死了，还是你最甜，小点声啊，真龙可在外面听着呢",
+        "speaker": "Black Shirt Man",
+        "emotion": "mocking/cautious",
+        "duration": 8.05,
+        "description_visual": "特写仰拍镜头；Bed sheet.；center人物，身穿black shirt，lying down, chest visible，表情：mouth smiling/speaking。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Xiang Zhenlong",
+                "gender": "男",
+                "clothing": "green jacket",
+                "position": "center",
+                "action": "sitting, hands gesturing",
+                "expression": "looking down, angry"
+            }
+        ],
+        "background": "Living room.",
+        "description_narrative": "Cut back to Xiang Zhenlong. He looks furious. The woman's voice boldly states she wants him to hear.",
+        "dialogue": "我就是要让他听到啊",
+        "speaker": "Grey Dress Woman (画外音)",
+        "emotion": "furious",
+        "duration": 1.27,
+        "description_visual": "中景平拍镜头；Living room.；center人物，身穿green jacket，sitting, hands gesturing，表情：looking down, angry。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top",
+                "position": "center",
+                "action": "on bed, looking down",
+                "expression": "smiling mischievously"
+            }
+        ],
+        "background": "Bed.",
+        "description_narrative": "Close up on the woman on the bed. She smiles wickedly. The man's voice is heard saying 'Is that so'.",
+        "dialogue": "这样啊",
+        "speaker": "Black Shirt Man (画外音)",
+        "emotion": "mischievous",
+        "duration": 3.13,
+        "description_visual": "近景平拍镜头；Bed.；center人物，身穿grey top，on bed, looking down，表情：smiling mischievously。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Grey Dress Woman",
+                "gender": "女",
+                "clothing": "grey top",
+                "position": "center",
+                "action": "leaning over man",
+                "expression": "smiling, eyes closed"
+            }
+        ],
+        "background": "Bed.",
+        "description_narrative": "The woman leans down to kiss the man, saying it's exciting. She is fully embracing the provocation.",
+        "dialogue": "才刺激嘛",
+        "speaker": "Grey Dress Woman",
+        "emotion": "excited",
+        "duration": 2.32,
+        "description_visual": "近景平拍镜头；Bed.；center人物，身穿grey top，leaning over man，表情：smiling, eyes closed。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "Xiang Zhenlong",
+                "gender": "男",
+                "clothing": "green jacket",
+                "position": "center",
+                "action": "walking away, back to camera",
+                "expression": "hidden"
+            }
+        ],
+        "background": "Living room wall.",
+        "description_narrative": "Xiang Zhenlong stands up and walks away from the sofa, his back to the camera. Text '影视效果 请勿模仿' appears.",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "angry",
+        "duration": 2.85,
+        "description_visual": "中景平拍镜头（跟拍）；Living room wall.；center人物，身穿green jacket，walking away, back to camera，表情：hidden。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "Xiang Zhenlong",
+                "gender": "男",
+                "clothing": "green jacket",
+                "position": "left",
+                "action": "walking side profile",
+                "expression": "grimacing"
+            }
+        ],
+        "background": "Living room.",
+        "description_narrative": "Side profile of Xiang Zhenlong walking purposefully. He looks determined and angry. Text '影视效果 请勿模仿' is visible.",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "determined",
+        "duration": 2.93,
+        "description_visual": "中景平拍镜头（跟拍）；Living room.；left人物，身穿green jacket，walking side profile，表情：grimacing。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "Living room with sofa, coffee table, window. A black cat is on the sofa.",
+        "description_narrative": "Wide shot of the empty living room. The sofa is empty except for a black cat. The scene is quiet after Xiang has left. Text '影视效果 请勿模仿' is visible.",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.53,
+        "description_visual": "全景平拍镜头；Living room with sofa, coffee table, window. A black cat is on the sofa.。"
+    }
+]

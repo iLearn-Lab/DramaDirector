@@ -1,0 +1,559 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明总",
+                "gender": "男",
+                "clothing": "黑色西装，头发湿漉",
+                "position": "画面左上方",
+                "action": "低头俯视，面部靠近女主角",
+                "expression": "眉毛微蹙，眼神冷峻，嘴唇紧闭"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅色衬衫，头发湿透",
+                "position": "画面右下方",
+                "action": "仰头看向明总，雨水顺着脸颊流下",
+                "expression": "眉毛紧锁，眼睛含泪，嘴唇微张"
+            }
+        ],
+        "background": "雨夜户外，光线昏暗，雨丝清晰可见",
+        "description_narrative": "特写镜头，明总与女主角在雨中近距离对视。明总低头俯视，神情冷峻；女主角仰头，浑身湿透，眼神中充满痛苦与无助。雨水打在两人脸上，氛围压抑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.32,
+        "description_visual": "特写平拍镜头；雨夜户外，光线昏暗，雨丝清晰可见；画面左上方人物，身穿黑色西装，头发湿漉，低头俯视，面部靠近女主角，表情：眉毛微蹙，眼神冷峻，嘴唇紧闭；画面右下方人物，身穿浅色衬衫，头发湿透，仰头看向明总，雨水顺着脸颊流下，表情：眉毛紧锁，眼睛含泪，嘴唇微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，中央显示白色文字",
+        "description_narrative": "黑色背景上显示白色大字“第十集”，作为集数标题卡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.64,
+        "description_visual": "全景平拍镜头；纯黑背景，中央显示白色文字。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明总",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "坐在高处，身体微微后仰，抬头望向远方",
+                "expression": "眉毛舒展，眼神冷漠，嘴唇微闭"
+            }
+        ],
+        "background": "昏暗室内，蓝色冷光笼罩，前景有模糊遮挡物",
+        "description_narrative": "仰拍中景，明总坐在昏暗的蓝色光影中，神情冷漠地抬头，仿佛在等待什么。前景有模糊的物体遮挡，增加窥视感。",
+        "dialogue": "我等着看现场直播",
+        "speaker": "明总",
+        "emotion": "冷漠",
+        "duration": 2.76,
+        "description_visual": "中景仰拍镜头；昏暗室内，蓝色冷光笼罩，前景有模糊遮挡物；画面中央人物，身穿黑色西装，白色衬衫，坐在高处，身体微微后仰，抬头望向远方，表情：眉毛舒展，眼神冷漠，嘴唇微闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色短袖T恤",
+                "position": "画面左侧",
+                "action": "身体前倾，伸手向车内探去，脸上带着猥琐的笑容",
+                "expression": "眉毛上扬，眼睛眯起，嘴角咧开露齿笑"
+            }
+        ],
+        "background": "车内或狭窄空间，蓝色背景光，前景模糊",
+        "description_narrative": "中近景，黑衣男子在蓝色光线下身体前倾，伸手向车内探去，脸上挂着嚣张猥琐的笑容，嘴里说着“来来来”。",
+        "dialogue": "来来来",
+        "speaker": "黑衣男子",
+        "emotion": "猥琐",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；车内或狭窄空间，蓝色背景光，前景模糊；画面左侧人物，身穿黑色短袖T恤，身体前倾，伸手向车内探去，脸上带着猥琐的笑容，表情：眉毛上扬，眼睛眯起，嘴角咧开露齿笑。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色短袖T恤",
+                "position": "画面左上方",
+                "action": "俯身压在女主角身上，手部动作具有侵略性",
+                "expression": "眉毛挑动，眼睛盯着下方，嘴巴张开大笑"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅色衬衫",
+                "position": "画面右下方",
+                "action": "躺在座位上挣扎，身体被压制",
+                "expression": "眼睛紧闭，眉头紧皱，嘴巴张开呼救"
+            }
+        ],
+        "background": "车内后座，光线昏暗，前景有模糊遮挡",
+        "description_narrative": "俯拍中景，黑衣男子俯身压在女主角身上，动作具有侵略性。女主角躺在下方挣扎，画面透过模糊的前景拍摄，营造压抑感。",
+        "dialogue": "你放开我",
+        "speaker": "女主角",
+        "emotion": "恐惧",
+        "duration": 3.76,
+        "description_visual": "中景俯拍镜头；车内后座，光线昏暗，前景有模糊遮挡；画面左上方人物，身穿黑色短袖T恤，俯身压在女主角身上，手部动作具有侵略性，表情：眉毛挑动，眼睛盯着下方，嘴巴张开大笑；画面右下方人物，身穿浅色衬衫，躺在座位上挣扎，身体被压制，表情：眼睛紧闭，眉头紧皱，嘴巴张开呼救。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅色衬衫",
+                "position": "画面中央",
+                "action": "头部后仰，身体扭动试图挣脱",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴张开呼喊"
+            }
+        ],
+        "background": "车内黑暗环境，光线集中在面部",
+        "description_narrative": "侧面特写，女主角头部后仰，表情痛苦，紧闭双眼大声呼喊“放开我”，试图挣脱束缚。",
+        "dialogue": "放开我",
+        "speaker": "女主角",
+        "emotion": "痛苦",
+        "duration": 1.76,
+        "description_visual": "特写侧拍镜头；车内黑暗环境，光线集中在面部；画面中央人物，身穿浅色衬衫，头部后仰，身体扭动试图挣脱，表情：眉毛紧锁，眼睛紧闭，嘴巴张开呼喊。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅色衬衫",
+                "position": "画面中央",
+                "action": "面部肌肉紧绷，眼角有泪光",
+                "expression": "眉毛扭曲，眼睛紧闭，嘴角下撇"
+            }
+        ],
+        "background": "车内黑暗环境",
+        "description_narrative": "特写镜头，女主角面部因痛苦而扭曲，眼角含泪。此时画外传来黑衣男子“哼哼”的嘲笑声。",
+        "dialogue": "哼哼",
+        "speaker": "黑衣男子",
+        "emotion": "嘲讽",
+        "duration": 3.12,
+        "description_visual": "特写侧拍镜头；车内黑暗环境；画面中央人物，身穿浅色衬衫，面部肌肉紧绷，眼角有泪光，表情：眉毛扭曲，眼睛紧闭，嘴角下撇。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "明总",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "面部被蓝光照亮，眼神锐利地直视前方",
+                "expression": "眉毛平直，眼神冰冷，嘴唇紧闭"
+            }
+        ],
+        "background": "蓝色冷光背景，光影对比强烈",
+        "description_narrative": "特写镜头推进，明总的面部被冷冽的蓝光照亮，他眼神锐利，冷冷地吐出“跟我走”三个字，气场强大。",
+        "dialogue": "跟我走",
+        "speaker": "明总",
+        "emotion": "命令",
+        "duration": 4.12,
+        "description_visual": "特写平拍镜头（推进）；蓝色冷光背景，光影对比强烈；画面中央人物，身穿黑色西装，白色衬衫，面部被蓝光照亮，眼神锐利地直视前方，表情：眉毛平直，眼神冰冷，嘴唇紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色短袖T恤",
+                "position": "画面中央",
+                "action": "抬头向上看，表情从嚣张转为惊讶",
+                "expression": "眉毛抬起，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "车内黑暗环境，顶部有微弱光源",
+        "description_narrative": "仰拍中近景，黑衣男子抬头向上看去，原本嚣张的表情瞬间凝固，转为惊讶和畏惧，喊了一声“明总”。",
+        "dialogue": "明总",
+        "speaker": "黑衣男子",
+        "emotion": "惊讶",
+        "duration": 0.92,
+        "description_visual": "中近景仰拍镜头；车内黑暗环境，顶部有微弱光源；画面中央人物，身穿黑色短袖T恤，抬头向上看，表情从嚣张转为惊讶，表情：眉毛抬起，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明总",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "闭眼片刻后睁开，神情极度不耐烦",
+                "expression": "眉毛微蹙，眼睛微闭后睁开，嘴唇紧抿"
+            }
+        ],
+        "background": "蓝色冷光背景",
+        "description_narrative": "特写镜头，明总闭眼片刻后猛地睁开，脸上写满厌恶，冷冷地呵斥“给老子滚”。",
+        "dialogue": "给老子滚",
+        "speaker": "明总",
+        "emotion": "愤怒",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；蓝色冷光背景；画面中央人物，身穿黑色西装，白色衬衫，闭眼片刻后睁开，神情极度不耐烦，表情：眉毛微蹙，眼睛微闭后睁开，嘴唇紧抿。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色短袖T恤",
+                "position": "画面左上方",
+                "action": "身体僵硬，眼神惊恐地看向镜头方向",
+                "expression": "眉毛高挑，眼睛瞪大，嘴巴微张"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅色衬衫",
+                "position": "画面右下方",
+                "action": "躺在座位上，处于模糊前景后",
+                "expression": "眼睛微睁，神情恍惚"
+            }
+        ],
+        "background": "车内，前景有大面积模糊遮挡",
+        "description_narrative": "俯拍中景，透过模糊的前景，看到黑衣男子身体僵硬，眼神惊恐地看向明总的方向，不敢再动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.88,
+        "description_visual": "中景俯拍镜头；车内，前景有大面积模糊遮挡；画面左上方人物，身穿黑色短袖T恤，身体僵硬，眼神惊恐地看向镜头方向，表情：眉毛高挑，眼睛瞪大，嘴巴微张；画面右下方人物，身穿浅色衬衫，躺在座位上，处于模糊前景后，表情：眼睛微睁，神情恍惚。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "明总",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "身体前倾，低头看向下方",
+                "expression": "眉毛低垂，眼神向下，表情严肃"
+            }
+        ],
+        "background": "黑暗环境，光线集中在人物身上",
+        "description_narrative": "中近景跟拍，明总此时已脱下西装外套，身穿白衬衫，身体前倾低头，似乎在审视着什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "中近景平拍镜头（跟拍）；黑暗环境，光线集中在人物身上；画面右侧人物，身穿白色衬衫，身体前倾，低头看向下方，表情：眉毛低垂，眼神向下，表情严肃。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "明总",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "身体快速移动，画面产生动态模糊",
+                "expression": "面部模糊，依稀可见神情冷峻"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "近景摇镜，明总身体快速移动，画面产生动态模糊，显示他正在逼近或进行某种激烈的动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头（摇镜）；黑暗背景；画面中央人物，身穿白色衬衫，身体快速移动，画面产生动态模糊，表情：面部模糊，依稀可见神情冷峻。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅色衬衫",
+                "position": "画面右侧",
+                "action": "抬头惊恐地看着前方的人",
+                "expression": "眉毛紧锁，眼睛睁大充满恐惧，嘴巴微张"
+            }
+        ],
+        "background": "黑暗环境，前景有模糊的人影（明总）",
+        "description_narrative": "过肩特写，透过明总模糊的肩膀，看到女主角抬头惊恐地看着他，眼神中充满了无助和质问。",
+        "dialogue": "到底怎么样... 你才肯放过我",
+        "speaker": "女主角",
+        "emotion": "绝望",
+        "duration": 3.0,
+        "description_visual": "特写过肩镜头；黑暗环境，前景有模糊的人影（明总）；画面右侧人物，身穿浅色衬衫，抬头惊恐地看着前方的人，表情：眉毛紧锁，眼睛睁大充满恐惧，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "大特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "明总",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "面部极度靠近镜头，眼神逼视",
+                "expression": "眉毛压低，眼神充满恨意，嘴角微动"
+            }
+        ],
+        "background": "黑暗背景，光线集中在面部",
+        "description_narrative": "大特写推进，明总的面部占据画面，他眼神充满恨意地逼视着对方，重复着“放过你...”",
+        "dialogue": "放过你...",
+        "speaker": "明总",
+        "emotion": "恨意",
+        "duration": 2.88,
+        "description_visual": "大特写侧拍镜头（推进）；黑暗背景，光线集中在面部；画面左侧人物，身穿白色衬衫，面部极度靠近镜头，眼神逼视，表情：眉毛压低，眼神充满恨意，嘴角微动。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "大特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明总",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左上方",
+                "action": "脸贴近女主角，鼻尖几乎相触",
+                "expression": "眉毛紧蹙，眼神锐利，嘴唇靠近对方耳朵"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅色衬衫",
+                "position": "画面右下方",
+                "action": "仰头承受着对方的逼近",
+                "expression": "眼睛微睁，眼神惊恐，嘴唇颤抖"
+            }
+        ],
+        "background": "黑暗环境，两人面部占据大部分画面",
+        "description_narrative": "大特写双人镜头，明总脸贴近女主角，鼻尖几乎相触，他冷冷地质问：“当初你放过顾桐了吗”。",
+        "dialogue": "当初你放过顾桐了吗",
+        "speaker": "明总",
+        "emotion": "质问",
+        "duration": 1.28,
+        "description_visual": "大特写侧拍镜头；黑暗环境，两人面部占据大部分画面；画面左上方人物，身穿白色衬衫，脸贴近女主角，鼻尖几乎相触，表情：眉毛紧蹙，眼神锐利，嘴唇靠近对方耳朵；画面右下方人物，身穿浅色衬衫，仰头承受着对方的逼近，表情：眼睛微睁，眼神惊恐，嘴唇颤抖。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼泪滑落",
+                "expression": "眉毛扭曲，眼睛含泪，嘴巴张开辩解"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "仰拍特写，女主角眼泪滑落，表情痛苦地辩解道：“我都说了不是我... 你要怎么样才能相信我”。",
+        "dialogue": "我都说了不是我... 你要怎么样才能相信我",
+        "speaker": "女主角",
+        "emotion": "委屈",
+        "duration": 3.88,
+        "description_visual": "特写仰拍镜头；黑暗背景；画面中央人物，身穿浅色衬衫，头部微侧，眼泪滑落，表情：眉毛扭曲，眼睛含泪，嘴巴张开辩解。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅色衬衫",
+                "position": "画面中央",
+                "action": "闭眼哭泣，面部肌肉因悲伤而抽搐",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴角下撇"
+            }
+        ],
+        "background": "黑暗环境",
+        "description_narrative": "侧面特写，女主角闭眼哭泣，面部因极度的悲伤和绝望而抽搐，无声地承受着痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "特写侧拍镜头；黑暗环境；画面中央人物，身穿浅色衬衫，闭眼哭泣，面部肌肉因悲伤而抽搐，表情：眉毛紧锁，眼睛紧闭，嘴角下撇。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "现代化的金属门，带有蓝色灯光装饰，地面反光",
+        "description_narrative": "中景镜头，一扇带有蓝色灯光装饰的现代化金属门，门上映出模糊的人影，暗示场景的转换或人物的离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.28,
+        "description_visual": "中景平拍镜头；现代化的金属门，带有蓝色灯光装饰，地面反光。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "虚焦",
+        "subjects": [],
+        "background": "雨夜街道，灯光在水面反射出模糊的光斑",
+        "description_narrative": "远景虚焦镜头，雨夜街道上的灯光在积水的路面上反射出模糊的光斑，营造出凄凉孤独的氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "远景平拍镜头（虚焦）；雨夜街道，灯光在水面反射出模糊的光斑。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "湿透的浅色衬衫和裙子",
+                "position": "画面左侧",
+                "action": "独自站在雨中，双眼紧闭，雨水打在脸上",
+                "expression": "眉毛微蹙，眼睛紧闭，嘴唇苍白"
+            }
+        ],
+        "background": "雨夜户外，背景有模糊的栏杆和灯光",
+        "description_narrative": "中景镜头，女主角独自站在雨中，浑身湿透，双眼紧闭，任由雨水冲刷，神情麻木而绝望。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 6.8,
+        "description_visual": "中景平拍镜头；雨夜户外，背景有模糊的栏杆和灯光；画面左侧人物，身穿湿透的浅色衬衫和裙子，独自站在雨中，双眼紧闭，雨水打在脸上，表情：眉毛微蹙，眼睛紧闭，嘴唇苍白。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "湿透的浅色衬衫",
+                "position": "画面中央",
+                "action": "低头，湿漉漉的长发遮住部分脸庞",
+                "expression": "眉毛低垂，眼睛向下，嘴角微颤"
+            }
+        ],
+        "background": "雨夜，背景模糊",
+        "description_narrative": "俯拍特写，女主角低着头，湿漉漉的长发贴在脸上，遮住了部分表情，只能看到她微微颤抖的嘴角。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.8,
+        "description_visual": "特写俯拍镜头；雨夜，背景模糊；画面中央人物，身穿湿透的浅色衬衫，低头，湿漉漉的长发遮住部分脸庞，表情：眉毛低垂，眼睛向下，嘴角微颤。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明总",
+                "gender": "男",
+                "clothing": "黑色皮鞋，黑色西裤",
+                "position": "画面上方",
+                "action": "双脚站在湿滑的地面上，皮鞋反光",
+                "expression": "不可见"
+            }
+        ],
+        "background": "湿滑的砖石地面，雨水积聚",
+        "description_narrative": "低角度特写，一双黑色皮鞋站在湿滑的砖石地面上，皮鞋表面反射着冷光，暗示明总已经逼近。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.16,
+        "description_visual": "特写低角度镜头；湿滑的砖石地面，雨水积聚；画面上方人物，身穿黑色皮鞋，黑色西裤，双脚站在湿滑的地面上，皮鞋反光，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "湿透的浅色衬衫",
+                "position": "画面中央",
+                "action": "坐在地上或低处，双手交叠放在腿上，眼神空洞",
+                "expression": "眉毛紧锁，眼神看向侧下方，嘴唇紧闭"
+            }
+        ],
+        "background": "雨夜户外，背景有模糊的白色栏杆",
+        "description_narrative": "中近景，女主角坐在雨中，双手交叠放在腿上，浑身湿透，眼神空洞地看向侧下方，仿佛失去了所有力气。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 6.0,
+        "description_visual": "中近景平拍镜头；雨夜户外，背景有模糊的白色栏杆；画面中央人物，身穿湿透的浅色衬衫，坐在地上或低处，双手交叠放在腿上，眼神空洞，表情：眉毛紧锁，眼神看向侧下方，嘴唇紧闭。"
+    }
+]

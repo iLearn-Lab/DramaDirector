@@ -1,0 +1,930 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "蓝天白云下的白色建筑群，光线明亮，色调清新。",
+        "description_narrative": "远景镜头仰拍蓝天白云，下方可见白色房屋的屋顶和绿树，画面明亮，作为场景建立的开场。",
+        "dialogue": "嗯。",
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "远景仰拍镜头；蓝天白云下的白色建筑群，光线明亮，色调清新。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙，领口珠饰",
+                "position": "画面右侧，坐在红色皮沙发上",
+                "action": "双手交叠放在腿上，身体微微前倾",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍，珍珠项链",
+                "position": "画面左下前景，背对镜头",
+                "action": "坐着，头部朝向孙女",
+                "expression": "不可见"
+            }
+        ],
+        "background": "奢华客厅，红色真皮沙发，金色雕花茶几，光线温暖。",
+        "description_narrative": "俯拍全景镜头，孙女身穿米色连衣裙坐在红色皮沙发上，双手交叠，神情略显拘谨；奶奶身穿蓝色旗袍背对镜头坐在对面，两人隔着茶几对视。",
+        "dialogue": "奶奶。",
+        "speaker": "孙女",
+        "emotion": "顺从",
+        "duration": 1.6,
+        "description_visual": "全景俯拍镜头；奢华客厅，红色真皮沙发，金色雕花茶几，光线温暖。；画面右侧，坐在红色皮沙发上人物，身穿米色长袖连衣裙，领口珠饰，双手交叠放在腿上，身体微微前倾，表情：眉毛微蹙，眼睛视线下移，嘴巴微张；画面左下前景，背对镜头人物，身穿蓝色丝绒旗袍，珍珠项链，坐着，头部朝向孙女，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面中央",
+                "action": "身体轻微晃动，处于运动模糊中",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "红色与棕色交织的模糊背景，动态模糊强烈。",
+        "description_narrative": "镜头快速摇动产生动态模糊，红棕色调背景中隐约可见孙女的身影，表现对话中的情绪流动或转场。",
+        "dialogue": "奶奶您这次找我回来是有什么事吗",
+        "speaker": "孙女",
+        "emotion": "疑惑",
+        "duration": 3.18,
+        "description_visual": "特写平拍镜头（摇镜）；红色与棕色交织的模糊背景，动态模糊强烈。；画面中央人物，身穿米色长袖连衣裙，身体轻微晃动，处于运动模糊中，表情：模糊不清。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块明显",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色交织的模糊背景，动态模糊强烈。",
+        "description_narrative": "镜头继续快速移动，画面呈现蓝白肉色的动态模糊，暗示奶奶正在说话，视觉重心在声音而非画面。",
+        "dialogue": "我之前呢有想过让你姐姐到盛世集团",
+        "speaker": "奶奶",
+        "emotion": "严肃",
+        "duration": 3.28,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色交织的模糊背景，动态模糊强烈。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块明显，表情：模糊不清。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙，领口珠饰",
+                "position": "画面右侧",
+                "action": "侧身坐着，双手放在膝盖上",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "红色皮沙发背景，金色装饰隐约可见，光线柔和。",
+        "description_narrative": "中近景侧拍孙女，她身穿米色裙装侧身坐在沙发上，神情专注地倾听，双手规矩地放在膝头，背景是红色的沙发靠背。",
+        "dialogue": "盛世集团，来管理一下。",
+        "speaker": "奶奶",
+        "emotion": "平静",
+        "duration": 2.27,
+        "description_visual": "中近景侧拍镜头；红色皮沙发背景，金色装饰隐约可见，光线柔和。；画面右侧人物，身穿米色长袖连衣裙，领口珠饰，侧身坐着，双手放在膝盖上，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "红蓝白交织的模糊背景，动态模糊。",
+        "description_narrative": "镜头再次快速移动产生模糊，红蓝白三色条纹状模糊，配合奶奶的画外音，强调话语的连续性。",
+        "dialogue": "但是她的文化水平不高，",
+        "speaker": "奶奶",
+        "emotion": "遗憾",
+        "duration": 2.7,
+        "description_visual": "特写平拍镜头（摇镜）；红蓝白交织的模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，表情：模糊不清。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面右侧，坐在红色皮沙发上",
+                "action": "双手交叠，身体端正",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微抿"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左下前景，背对镜头",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "奢华客厅，红色沙发，金色茶几，白色花束。",
+        "description_narrative": "俯拍全景回到两人对坐场景，孙女低头倾听，神情略显凝重，奶奶背影在前景，茶几上的白花清晰可见。",
+        "dialogue": "而且啊，她现在怀孕了，不适合操劳。",
+        "speaker": "奶奶",
+        "emotion": "关切",
+        "duration": 2.9,
+        "description_visual": "全景俯拍镜头；奢华客厅，红色沙发，金色茶几，白色花束。；画面右侧，坐在红色皮沙发上人物，身穿米色长袖连衣裙，双手交叠，身体端正，表情：眉毛微蹙，眼睛视线下移，嘴巴微抿；画面左下前景，背对镜头人物，身穿蓝色丝绒旗袍，坐着，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙，领口珠饰",
+                "position": "画面中央",
+                "action": "正身坐着，双手交叠",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "红色皮沙发背景，金色雕花装饰，光线明亮。",
+        "description_narrative": "中近景正面拍摄孙女，她正身端坐，双手交叠在腿上，眼神中流露出惊讶与思考，似乎在消化奶奶的话。",
+        "dialogue": "所以就把你找回来。",
+        "speaker": "奶奶",
+        "emotion": "坚定",
+        "duration": 1.7,
+        "description_visual": "中近景平拍镜头；红色皮沙发背景，金色雕花装饰，光线明亮。；画面中央人物，身穿米色长袖连衣裙，领口珠饰，正身坐着，双手交叠，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面中央",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "红蓝白交织的模糊背景，动态模糊。",
+        "description_narrative": "镜头快速移动产生模糊，配合孙女的疑问台词，表现她内心的波动和确认。",
+        "dialogue": "您是说，",
+        "speaker": "孙女",
+        "emotion": "确认",
+        "duration": 2.3,
+        "description_visual": "特写平拍镜头（摇镜）；红蓝白交织的模糊背景，动态模糊。；画面中央人物，身穿米色长袖连衣裙，处于运动模糊中，表情：模糊不清。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面中央",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "红棕色调模糊背景，动态模糊。",
+        "description_narrative": "镜头继续模糊移动，红棕色调为主，孙女的声音在画外清晰传来，询问是否要代替姐姐。",
+        "dialogue": "您想让我暂时代替姐姐打理公司吗？",
+        "speaker": "孙女",
+        "emotion": "试探",
+        "duration": 3.57,
+        "description_visual": "特写平拍镜头（摇镜）；红棕色调模糊背景，动态模糊。；画面中央人物，身穿米色长袖连衣裙，处于运动模糊中，表情：模糊不清。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝白肉色交织的模糊背景，动态模糊。",
+        "description_narrative": "镜头模糊移动，蓝色块暗示奶奶的身影，画外音肯定孙女的猜测，提到她之前的业务经验。",
+        "dialogue": "你之前也在公司里，",
+        "speaker": "奶奶",
+        "emotion": "肯定",
+        "duration": 1.85,
+        "description_visual": "特写平拍镜头（摇镜）；蓝白肉色交织的模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色模糊背景，动态模糊。",
+        "description_narrative": "镜头持续模糊，蓝色块占据画面，奶奶的声音继续，表示知道孙女的愿望。",
+        "dialogue": "管理过相关的业务，我也知道。",
+        "speaker": "奶奶",
+        "emotion": "了解",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色模糊背景，动态模糊。",
+        "description_narrative": "镜头模糊中蓝色块明显，奶奶画外音指出孙女想进入集团的愿望，语调平稳。",
+        "dialogue": "你的愿望就是进入盛氏集团，虽然你的。",
+        "speaker": "奶奶",
+        "emotion": "洞察",
+        "duration": 3.67,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面右侧，坐在红色皮沙发上",
+                "action": "双手交叠，身体微侧",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左下前景，背对镜头",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "奢华客厅，红色沙发，金色茶几，白色花束。",
+        "description_narrative": "俯拍全景，孙女低头沉默，奶奶背影在前景，画外音评价孙女性格不够强硬。",
+        "dialogue": "性子不是那么太硬。",
+        "speaker": "奶奶",
+        "emotion": "评价",
+        "duration": 2.5,
+        "description_visual": "全景俯拍镜头；奢华客厅，红色沙发，金色茶几，白色花束。；画面右侧，坐在红色皮沙发上人物，身穿米色长袖连衣裙，双手交叠，身体微侧，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭；画面左下前景，背对镜头人物，身穿蓝色丝绒旗袍，坐着，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "肉色与深色交织的模糊背景，动态模糊。",
+        "description_narrative": "镜头快速移动产生模糊，奶奶画外音转折，表示经过磨练可以胜任。",
+        "dialogue": "但是经过磨练，你一定会。",
+        "speaker": "奶奶",
+        "emotion": "鼓励",
+        "duration": 1.37,
+        "description_visual": "特写平拍镜头（摇镜）；肉色与深色交织的模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，表情：模糊不清。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色模糊背景，动态模糊。",
+        "description_narrative": "镜头模糊中蓝色块明显，奶奶画外音肯定孙女能成为合格总裁。",
+        "dialogue": "成为合格的总裁的。",
+        "speaker": "奶奶",
+        "emotion": "确信",
+        "duration": 2.43,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面右侧，坐在红色皮沙发上",
+                "action": "双手交叠，身体端正",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左下前景，背对镜头",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "奢华客厅，红色沙发，金色茶几，白色花束。",
+        "description_narrative": "俯拍全景，孙女抬头看向奶奶，眼神中带着认同，画外音（孙女）表示奶奶说得对。",
+        "dialogue": "奶奶说的没错。",
+        "speaker": "孙女",
+        "emotion": "认同",
+        "duration": 1.63,
+        "description_visual": "全景俯拍镜头；奢华客厅，红色沙发，金色茶几，白色花束。；画面右侧，坐在红色皮沙发上人物，身穿米色长袖连衣裙，双手交叠，身体端正，表情：眉毛舒展，眼睛注视前方，嘴巴微张；画面左下前景，背对镜头人物，身穿蓝色丝绒旗袍，坐着，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面右侧",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左下",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "红色与金色交织的模糊背景，动态模糊强烈。",
+        "description_narrative": "镜头快速摇动产生强烈动态模糊，红金色调为主，孙女画外音表达想进入集团的意愿。",
+        "dialogue": "我是想进入盛氏集团。",
+        "speaker": "孙女",
+        "emotion": "渴望",
+        "duration": 2.3,
+        "description_visual": "全景俯拍镜头（摇镜）；红色与金色交织的模糊背景，动态模糊强烈。；画面右侧人物，身穿米色长袖连衣裙，处于运动模糊中，表情：模糊不清；画面左下人物，身穿蓝色丝绒旗袍，处于运动模糊中，表情：模糊不清。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "正身坐着，双手放在腿上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色木质背景，光线柔和，前景有模糊烛台。",
+        "description_narrative": "中近景正面拍摄奶奶，她身穿蓝色旗袍，神情严肃地看着孙女，画外音先是孙女说害怕，随即奶奶安慰说没什么可怕的。",
+        "dialogue": "可是我害怕。你不用害怕，没什么可怕的。",
+        "speaker": "奶奶",
+        "emotion": "安慰",
+        "duration": 4.9,
+        "description_visual": "中近景平拍镜头；深色木质背景，光线柔和，前景有模糊烛台。；画面中央人物，身穿蓝色丝绒旗袍，珍珠项链，正身坐着，双手放在腿上，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "红色与蓝色交织的模糊背景，动态模糊。",
+        "description_narrative": "镜头轻微摇动产生模糊，奶奶画外音提到孙女即将和亦白定亲。",
+        "dialogue": "而且你马上就要和亦白定亲了。",
+        "speaker": "奶奶",
+        "emotion": "提醒",
+        "duration": 4.23,
+        "description_visual": "中近景平拍镜头（摇镜）；红色与蓝色交织的模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，表情：模糊不清。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面右侧，坐在红色皮沙发上",
+                "action": "双手交叠，身体微侧",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微抿"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左下前景，背对镜头",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "奢华客厅，红色沙发，金色茶几，白色花束。",
+        "description_narrative": "俯拍全景，孙女低头倾听，奶奶画外音透露计划在订婚宴上宣布人事任命。",
+        "dialogue": "我呀准备在你们订婚宴上",
+        "speaker": "奶奶",
+        "emotion": "计划",
+        "duration": 2.43,
+        "description_visual": "全景俯拍镜头；奢华客厅，红色沙发，金色茶几，白色花束。；画面右侧，坐在红色皮沙发上人物，身穿米色长袖连衣裙，双手交叠，身体微侧，表情：眉毛微蹙，眼睛视线下移，嘴巴微抿；画面左下前景，背对镜头人物，身穿蓝色丝绒旗袍，坐着，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面右侧",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左下",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "红色与金色交织的模糊背景，动态模糊强烈。",
+        "description_narrative": "镜头快速摇动产生强烈动态模糊，红金色调为主，奶奶画外音宣布孙女将成为总裁。",
+        "dialogue": "就宣布你成为了咱们盛世集团的总裁",
+        "speaker": "奶奶",
+        "emotion": "宣布",
+        "duration": 2.7,
+        "description_visual": "全景俯拍镜头（摇镜）；红色与金色交织的模糊背景，动态模糊强烈。；画面右侧人物，身穿米色长袖连衣裙，处于运动模糊中，表情：模糊不清；画面左下人物，身穿蓝色丝绒旗袍，处于运动模糊中，表情：模糊不清。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "正身坐着，双手放在腿上",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色木质背景，光线柔和，前景有模糊烛台。",
+        "description_narrative": "中近景正面拍摄奶奶，她面带微笑看着孙女，画外音补充说明总裁的任命。",
+        "dialogue": "集团的总裁。",
+        "speaker": "奶奶",
+        "emotion": "满意",
+        "duration": 1.57,
+        "description_visual": "中近景平拍镜头；深色木质背景，光线柔和，前景有模糊烛台。；画面中央人物，身穿蓝色丝绒旗袍，珍珠项链，正身坐着，双手放在腿上，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色模糊背景，动态模糊。",
+        "description_narrative": "镜头模糊中蓝色块明显，奶奶画外音表示这样盛家就双喜临门。",
+        "dialogue": "这样咱们盛家就双喜临门了。",
+        "speaker": "奶奶",
+        "emotion": "喜悦",
+        "duration": 2.83,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面右侧，坐在红色皮沙发上",
+                "action": "双手交叠，身体微侧，嘴角上扬",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微笑"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左下前景，背对镜头",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "奢华客厅，红色沙发，金色茶几，白色花束。",
+        "description_narrative": "俯拍全景，孙女露出微笑，身体微微前倾，画外音表示恭敬不如从命并感谢奶奶。",
+        "dialogue": "那就恭敬不如从命了，谢谢奶奶。",
+        "speaker": "孙女",
+        "emotion": "喜悦",
+        "duration": 4.7,
+        "description_visual": "全景俯拍镜头；奢华客厅，红色沙发，金色茶几，白色花束。；画面右侧，坐在红色皮沙发上人物，身穿米色长袖连衣裙，双手交叠，身体微侧，嘴角上扬，表情：眉毛舒展，眼睛注视前方，嘴巴微笑；画面左下前景，背对镜头人物，身穿蓝色丝绒旗袍，坐着，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "红蓝白交织的模糊背景，动态模糊。",
+        "description_narrative": "镜头快速移动产生模糊，奶奶画外音阻止孙女道谢，要求她答应一件事。",
+        "dialogue": "你先别谢我你得答应我件事",
+        "speaker": "奶奶",
+        "emotion": "严肃",
+        "duration": 3.62,
+        "description_visual": "特写平拍镜头（摇镜）；红蓝白交织的模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，表情：模糊不清。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色模糊背景，动态模糊。",
+        "description_narrative": "镜头模糊中蓝色块明显，奶奶画外音表示知道孙女和亦白真心相爱。",
+        "dialogue": "我知道你和亦白是真心相爱的",
+        "speaker": "奶奶",
+        "emotion": "理解",
+        "duration": 3.1,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色模糊背景，动态模糊。",
+        "description_narrative": "镜头持续模糊，蓝色块占据画面，奶奶画外音提到亦白不过问集团事务。",
+        "dialogue": "而且他从来不过问咱们盛世集团的事",
+        "speaker": "奶奶",
+        "emotion": "陈述",
+        "duration": 2.82,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙，领口珠饰",
+                "position": "画面右侧",
+                "action": "侧身坐着，双手放在膝盖上",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "红色皮沙发背景，金色装饰隐约可见，光线柔和。",
+        "description_narrative": "中近景侧拍孙女，她侧身坐在沙发上，神情专注地倾听，画外音（奶奶）提到亦白开了很多咖啡连锁店。",
+        "dialogue": "他呢，在全国也开了很多的咖啡连锁店。",
+        "speaker": "奶奶",
+        "emotion": "陈述",
+        "duration": 4.87,
+        "description_visual": "中近景侧拍镜头；红色皮沙发背景，金色装饰隐约可见，光线柔和。；画面右侧人物，身穿米色长袖连衣裙，领口珠饰，侧身坐着，双手放在膝盖上，表情：眉毛平展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "正身坐着，双手放在腿上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色木质背景，光线柔和，前景有模糊烛台。",
+        "description_narrative": "中近景正面拍摄奶奶，她看着孙女，画外音（孙女）简短回答“是的”。",
+        "dialogue": "是的",
+        "speaker": "孙女",
+        "emotion": "确认",
+        "duration": 0.87,
+        "description_visual": "中近景平拍镜头；深色木质背景，光线柔和，前景有模糊烛台。；画面中央人物，身穿蓝色丝绒旗袍，珍珠项链，正身坐着，双手放在腿上，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙女",
+                "gender": "女",
+                "clothing": "米色长袖连衣裙",
+                "position": "画面右侧，坐在红色皮沙发上",
+                "action": "双手交叠，身体端正",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微抿"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左下前景，背对镜头",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "奢华客厅，红色沙发，金色茶几，白色花束。",
+        "description_narrative": "俯拍全景，孙女低头倾听，奶奶画外音表示既然孙女是自家人，要为她以后着想。",
+        "dialogue": "既然你是我孙女，",
+        "speaker": "奶奶",
+        "emotion": "慈爱",
+        "duration": 2.77,
+        "description_visual": "全景俯拍镜头；奢华客厅，红色沙发，金色茶几，白色花束。；画面右侧，坐在红色皮沙发上人物，身穿米色长袖连衣裙，双手交叠，身体端正，表情：眉毛微蹙，眼睛视线下移，嘴巴微抿；画面左下前景，背对镜头人物，身穿蓝色丝绒旗袍，坐着，表情：不可见。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "正身坐着，双手放在腿上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色木质背景，光线柔和，前景有模糊烛台。",
+        "description_narrative": "中近景正面拍摄奶奶，她神情认真地看着孙女，画外音继续说要替她以后着想。",
+        "dialogue": "我得替你以后着想。",
+        "speaker": "奶奶",
+        "emotion": "关切",
+        "duration": 1.27,
+        "description_visual": "中近景平拍镜头；深色木质背景，光线柔和，前景有模糊烛台。；画面中央人物，身穿蓝色丝绒旗袍，珍珠项链，正身坐着，双手放在腿上，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色模糊背景，动态模糊。",
+        "description_narrative": "镜头模糊中蓝色块明显，奶奶画外音提到亦白想娶孙女。",
+        "dialogue": "亦白想娶你，",
+        "speaker": "奶奶",
+        "emotion": "陈述",
+        "duration": 1.22,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色模糊背景，动态模糊。",
+        "description_narrative": "镜头持续模糊，蓝色块占据画面，奶奶画外音提出条件，要求在咖啡店加上孙女名字。",
+        "dialogue": "必须在连锁咖啡店，",
+        "speaker": "奶奶",
+        "emotion": "要求",
+        "duration": 1.57,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "处于运动模糊中，蓝色色块",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "蓝色与肉色模糊背景，动态模糊。",
+        "description_narrative": "镜头模糊中蓝色块明显，奶奶画外音完成句子，要求加上孙女的名字。",
+        "dialogue": "加上你的名字。",
+        "speaker": "奶奶",
+        "emotion": "坚定",
+        "duration": 2.27,
+        "description_visual": "特写平拍镜头（摇镜）；蓝色与肉色模糊背景，动态模糊。；画面中央人物，身穿蓝色丝绒旗袍，处于运动模糊中，蓝色色块，表情：模糊不清。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑白垂直条纹抽象画面，光线对比强烈。",
+        "description_narrative": "黑白抽象条纹画面，作为转场或情绪强调，画外音（孙女）简短回答“对”。",
+        "dialogue": "对。",
+        "speaker": "孙女",
+        "emotion": "顺从",
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头；黑白垂直条纹抽象画面，光线对比强烈。。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "正身坐着，双手放在腿上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色木质背景，光线柔和，前景有模糊烛台。",
+        "description_narrative": "中近景正面拍摄奶奶，她看着孙女，画外音（奶奶）发出“啊”的声音，表示回应或思考。",
+        "dialogue": "啊。",
+        "speaker": "奶奶",
+        "emotion": "回应",
+        "duration": 0.25,
+        "description_visual": "中近景平拍镜头；深色木质背景，光线柔和，前景有模糊烛台。；画面中央人物，身穿蓝色丝绒旗袍，珍珠项链，正身坐着，双手放在腿上，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "正身坐着，双手放在腿上",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色木质背景，光线柔和，前景有模糊烛台。",
+        "description_narrative": "中近景正面拍摄奶奶，她面带微笑看着孙女，画外音（奶奶）确认“对”。",
+        "dialogue": "对。",
+        "speaker": "奶奶",
+        "emotion": "确认",
+        "duration": 0.25,
+        "description_visual": "中近景平拍镜头；深色木质背景，光线柔和，前景有模糊烛台。；画面中央人物，身穿蓝色丝绒旗袍，珍珠项链，正身坐着，双手放在腿上，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    }
+]

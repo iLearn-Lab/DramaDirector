@@ -1,0 +1,877 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装，黑色衬衫，灰色领带",
+                "position": "画面右侧",
+                "action": "身体向右前方移动，即将走出画面",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴紧闭"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "西装男身后右侧",
+                "action": "右手抓住西装男左臂，身体跟随移动",
+                "expression": "眼睛看着西装男，嘴巴微张"
+            }
+        ],
+        "background": "办公室角落，有黑色金属书架，木质地板，光线明亮",
+        "description_narrative": "全景镜头，办公室角落。身穿黑色条纹西装的西装男向右侧移动，苏浅浅紧随其后抓住他的左臂。",
+        "dialogue": "苏浅浅",
+        "speaker": "西装男",
+        "emotion": "不耐烦",
+        "duration": 1.92,
+        "description_visual": "全景平拍镜头；办公室角落，有黑色金属书架，木质地板，光线明亮；画面右侧人物，身穿黑色条纹西装，黑色衬衫，灰色领带，身体向右前方移动，即将走出画面，表情：眉毛微蹙，眼睛看向前方，嘴巴紧闭；西装男身后右侧人物，身穿米色针织开衫，黑色皮短裙，右手抓住西装男左臂，身体跟随移动，表情：眼睛看着西装男，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面左侧/中央",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面右侧",
+                "action": "右手抓住西装男左臂",
+                "expression": "不可见"
+            }
+        ],
+        "background": "明亮的窗户背景，光线过曝",
+        "description_narrative": "中景镜头，跟随人物移动。西装男背对镜头，苏浅浅的手抓着他的手臂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "中景平拍镜头（跟拍）；明亮的窗户背景，光线过曝；画面左侧/中央人物，身穿黑色条纹西装，背对镜头站立，表情：不可见；画面右侧人物，身穿米色针织开衫，右手抓住西装男左臂，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面左侧",
+                "action": "转身，左手抬起推开苏浅浅的手",
+                "expression": "眉毛微蹙，眼睛看向苏浅浅，嘴巴微张说话"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面右侧",
+                "action": "双手抬起试图抓住西装男",
+                "expression": "不可见"
+            }
+        ],
+        "background": "明亮的窗户背景，模糊的木质雕塑",
+        "description_narrative": "中近景镜头。西装男转身，抬手推开苏浅浅的手，表情冷漠地说话。",
+        "dialogue": "这里不欢迎你",
+        "speaker": "西装男",
+        "emotion": "冷漠",
+        "duration": 0.68,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景，模糊的木质雕塑；画面左侧人物，身穿黑色条纹西装，转身，左手抬起推开苏浅浅的手，表情：眉毛微蹙，眼睛看向苏浅浅，嘴巴微张说话；画面右侧人物，身穿米色针织开衫，双手抬起试图抓住西装男，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "明亮的窗户背景，模糊的木质雕塑",
+        "description_narrative": "中景镜头。西装男站立，侧脸看向右方，神情冷淡。",
+        "dialogue": "请你立刻离开",
+        "speaker": "西装男",
+        "emotion": "严肃",
+        "duration": 2.32,
+        "description_visual": "中景平拍镜头；明亮的窗户背景，模糊的木质雕塑；画面中央人物，身穿黑色条纹西装，黑色衬衫，灰色领带，站立，双手自然下垂，表情：眉毛舒展，眼睛看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "身体后仰靠在木质柜子上，左手扶柜",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴微嘟"
+            }
+        ],
+        "background": "室内墙壁，挂画一角，木质柜子",
+        "description_narrative": "中景镜头，斜角拍摄。苏浅浅靠在柜子上，抬头看向西装男，表情略带撒娇。",
+        "dialogue": "不可以的",
+        "speaker": "苏浅浅",
+        "emotion": "撒娇",
+        "duration": 2.76,
+        "description_visual": "中景斜角镜头；室内墙壁，挂画一角，木质柜子；画面中央人物，身穿米色针织开衫，黑色皮短裙，身体后仰靠在木质柜子上，左手扶柜，表情：眉毛微挑，眼睛向上看，嘴巴微嘟。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向苏浅浅，嘴巴微张"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男看着苏浅浅，听她说话。",
+        "dialogue": "人家现在也是",
+        "speaker": "苏浅浅",
+        "emotion": "得意",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，站立，身体微侧，表情：眉毛微蹙，眼睛看向苏浅浅，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "右手举起工牌展示，左手扶柜",
+                "expression": "眉毛舒展，眼睛看镜头方向，嘴角上扬"
+            }
+        ],
+        "background": "室内墙壁，挂画，木质柜子",
+        "description_narrative": "中景镜头。苏浅浅笑着举起工牌，展示给西装男看。",
+        "dialogue": "也是秘书处的一员哦",
+        "speaker": "苏浅浅",
+        "emotion": "得意",
+        "duration": 1.56,
+        "description_visual": "中景斜角镜头；室内墙壁，挂画，木质柜子；画面中央人物，身穿米色针织开衫，黑色皮短裙，右手举起工牌展示，左手扶柜，表情：眉毛舒展，眼睛看镜头方向，嘴角上扬。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "站立，双手下垂",
+                "expression": "眉毛微蹙，眼睛看向苏浅浅，嘴巴紧闭"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男面无表情地看着苏浅浅。",
+        "dialogue": "也是秘书处的一员哦",
+        "speaker": "苏浅浅",
+        "emotion": "轻蔑",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，站立，双手下垂，表情：眉毛微蹙，眼睛看向苏浅浅，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "手持工牌，身体微倾",
+                "expression": "眉毛微挑，眼睛看西装男，嘴巴微张"
+            }
+        ],
+        "background": "室内墙壁，挂画，木质柜子",
+        "description_narrative": "中景镜头。苏浅浅拿着工牌，表情俏皮地对西装男说话。",
+        "dialogue": "那你被开除了哦",
+        "speaker": "苏浅浅",
+        "emotion": "挑衅",
+        "duration": 2.28,
+        "description_visual": "中景斜角镜头；室内墙壁，挂画，木质柜子；画面中央人物，身穿米色针织开衫，黑色皮短裙，手持工牌，身体微倾，表情：眉毛微挑，眼睛看西装男，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向苏浅浅，嘴巴紧闭"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男面无表情地听着。",
+        "dialogue": "我是潘宰俊直聘的",
+        "speaker": "苏浅浅",
+        "emotion": "自信",
+        "duration": 2.32,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，站立，身体微侧，表情：眉毛微蹙，眼睛看向苏浅浅，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "双手手指交叉握在胸前",
+                "expression": "眉毛舒展，眼睛看西装男，嘴巴微张说话"
+            }
+        ],
+        "background": "室内墙壁，挂画，木质柜子",
+        "description_narrative": "中景镜头。苏浅浅双手交握，解释着什么。",
+        "dialogue": "要董事会投票表决",
+        "speaker": "苏浅浅",
+        "emotion": "认真",
+        "duration": 1.64,
+        "description_visual": "中景斜角镜头；室内墙壁，挂画，木质柜子；画面中央人物，身穿米色针织开衫，黑色皮短裙，双手手指交叉握在胸前，表情：眉毛舒展，眼睛看西装男，嘴巴微张说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "站立，头转向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男转头看向一边，不想听。",
+        "dialogue": "才可以开除哦",
+        "speaker": "苏浅浅",
+        "emotion": "得意",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，站立，头转向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "站立，看着前方",
+                "expression": "眉毛微蹙，眼睛看苏浅浅，嘴巴微张说话"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男质疑地看着苏浅浅。",
+        "dialogue": "潘宰俊怎么会招你哦",
+        "speaker": "西装男",
+        "emotion": "质疑",
+        "duration": 5.4,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，站立，看着前方，表情：眉毛微蹙，眼睛看苏浅浅，嘴巴微张说话。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面左侧",
+                "action": "低头看",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面右侧前景",
+                "action": "手放在西装男胸口",
+                "expression": "不可见"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "特写镜头。西装男低头看着放在自己胸口的苏浅浅的手。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；明亮的窗户背景；画面左侧人物，身穿黑色条纹西装，低头看，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面右侧前景人物，身穿不可见，手放在西装男胸口，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "低头，表情严肃",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男低头，神情冷峻。",
+        "dialogue": "苏浅浅",
+        "speaker": "西装男",
+        "emotion": "警告",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，低头，表情严肃，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面左侧",
+                "action": "抬手做出制止手势",
+                "expression": "眉毛微蹙，眼睛看苏浅浅，嘴巴微张说话"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面右侧",
+                "action": "身体后仰",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内墙壁，挂画",
+        "description_narrative": "中近景镜头。西装男抬手制止苏浅浅，叫她的名字。",
+        "dialogue": "我跟你说过一百次了",
+        "speaker": "西装男",
+        "emotion": "不耐烦",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；室内墙壁，挂画；画面左侧人物，身穿黑色条纹西装，抬手做出制止手势，表情：眉毛微蹙，眼睛看苏浅浅，嘴巴微张说话；画面右侧人物，身穿米色针织开衫，身体后仰，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "低头看",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张说话"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男低头看着苏浅浅，语气坚决。",
+        "dialogue": "我们之间没有可能哦",
+        "speaker": "西装男",
+        "emotion": "冷漠",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，低头看，表情：眉毛微蹙，眼睛下视，嘴巴微张说话。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "低头，双手交握",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微嘟"
+            }
+        ],
+        "background": "室内墙壁，挂画，木质柜子",
+        "description_narrative": "中景镜头。苏浅浅低下头，表情略显失落但仍在坚持。",
+        "dialogue": "可是你跟温晚 都已经离婚了哦",
+        "speaker": "苏浅浅",
+        "emotion": "试探",
+        "duration": 3.28,
+        "description_visual": "中景斜角镜头；室内墙壁，挂画，木质柜子；画面中央人物，身穿米色针织开衫，黑色皮短裙，低头，双手交握，表情：眉毛微垂，眼睛下视，嘴巴微嘟。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "站立，头微侧",
+                "expression": "眉毛微蹙，眼睛看苏浅浅，嘴巴微张"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男看着苏浅浅，反问。",
+        "dialogue": "那又怎么样哦",
+        "speaker": "苏浅浅",
+        "emotion": "无所谓",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，站立，头微侧，表情：眉毛微蹙，眼睛看苏浅浅，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "双手交握在身前",
+                "expression": "眉毛舒展，眼睛看西装男，嘴巴微张说话"
+            }
+        ],
+        "background": "室内墙壁，挂画",
+        "description_narrative": "中景镜头。苏浅浅看着西装男，继续劝说。",
+        "dialogue": "哥哥 你就是太善良了哦",
+        "speaker": "苏浅浅",
+        "emotion": "讨好",
+        "duration": 2.92,
+        "description_visual": "中景斜角镜头；室内墙壁，挂画；画面中央人物，身穿米色针织开衫，黑色皮短裙，双手交握在身前，表情：眉毛舒展，眼睛看西装男，嘴巴微张说话。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面左侧",
+                "action": "站立，看着苏浅浅",
+                "expression": "眉毛微蹙，眼睛看苏浅浅，嘴巴紧闭"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面右侧前景",
+                "action": "不可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男听着苏浅浅的话，表情 unchanged。",
+        "dialogue": "你知不知道 她赖在金镰集团不走",
+        "speaker": "苏浅浅",
+        "emotion": "挑拨",
+        "duration": 2.8,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面左侧人物，身穿黑色条纹西装，站立，看着苏浅浅，表情：眉毛微蹙，眼睛看苏浅浅，嘴巴紧闭；画面右侧前景人物，身穿不可见，不可见，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "身体微倾，说话",
+                "expression": "眉毛微挑，眼睛看西装男，嘴巴微张"
+            }
+        ],
+        "background": "室内墙壁，挂画",
+        "description_narrative": "中景镜头。苏浅浅继续说着关于温晚的事。",
+        "dialogue": "就是为了 割你韭菜哦",
+        "speaker": "苏浅浅",
+        "emotion": "笃定",
+        "duration": 2.76,
+        "description_visual": "中景斜角镜头；室内墙壁，挂画；画面中央人物，身穿米色针织开衫，黑色皮短裙，身体微倾，说话，表情：眉毛微挑，眼睛看西装男，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "侧脸，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛看前方，嘴巴微张说话"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "特写镜头。西装男侧脸，似乎被激怒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写侧拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，侧脸，嘴巴微张，表情：眉毛微蹙，眼睛看前方，嘴巴微张说话。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "站立，双手交握",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内墙壁，挂画",
+        "description_narrative": "中近景镜头。苏浅浅低着头，似乎在听训斥。",
+        "dialogue": "苏浅浅你别哦哦哦的",
+        "speaker": "西装男",
+        "emotion": "愤怒",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；室内墙壁，挂画；画面中央人物，身穿米色针织开衫，黑色皮短裙，站立，双手交握，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张说话"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男表达厌恶，苏浅浅在画外音中反驳。",
+        "dialogue": "简直恶心 (西装男) / 没有哦 (苏浅浅)",
+        "speaker": "西装男 / 苏浅浅",
+        "emotion": "厌恶/委屈",
+        "duration": 2.24,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，站立，低头，表情：眉毛微蹙，眼睛下视，嘴巴微张说话。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "身体微侧，看着西装男",
+                "expression": "眉毛微挑，眼睛看西装男，嘴巴微张说话"
+            }
+        ],
+        "background": "室内墙壁，挂画",
+        "description_narrative": "中景镜头。苏浅浅看着西装男，继续辩解。",
+        "dialogue": "人家说的都是",
+        "speaker": "苏浅浅",
+        "emotion": "委屈",
+        "duration": 1.04,
+        "description_visual": "中景斜角镜头；室内墙壁，挂画；画面中央人物，身穿米色针织开衫，黑色皮短裙，身体微侧，看着西装男，表情：眉毛微挑，眼睛看西装男，嘴巴微张说话。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "站立，低头看",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男低头，苏浅浅在画外音中说完句子。",
+        "dialogue": "真心话哦",
+        "speaker": "苏浅浅",
+        "emotion": "真诚",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，站立，低头看，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫，黑色皮短裙",
+                "position": "画面中央",
+                "action": "低头，双手交握",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内墙壁，挂画",
+        "description_narrative": "中景镜头。苏浅浅低着头，听西装男下逐客令。",
+        "dialogue": "那你说完了吗 说完就滚哦",
+        "speaker": "西装男",
+        "emotion": "愤怒",
+        "duration": 2.16,
+        "description_visual": "中景斜角镜头；室内墙壁，挂画；画面中央人物，身穿米色针织开衫，黑色皮短裙，低头，双手交握，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "站立，低头看",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张说话"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "中近景镜头。西装男确认苏浅浅是否离开。",
+        "dialogue": "不滚是吧",
+        "speaker": "西装男",
+        "emotion": "威胁",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景；画面中央人物，身穿黑色条纹西装，站立，低头看，表情：眉毛微蹙，眼睛下视，嘴巴微张说话。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央/前景",
+                "action": "转身背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面左后景",
+                "action": "模糊可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内环境，模糊",
+        "description_narrative": "过肩镜头。西装男转身准备离开，嘴里说着狠话。",
+        "dialogue": "你不滚我滚 自己慢慢学驴叫吧哦",
+        "speaker": "西装男",
+        "emotion": "嘲讽",
+        "duration": 2.88,
+        "description_visual": "中景过肩镜头（跟拍）；室内环境，模糊；画面中央/前景人物，身穿黑色条纹西装，转身背对镜头，表情：不可见；画面左后景人物，身穿米色针织开衫，模糊可见，表情：不可见。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面左侧/前景",
+                "action": "背对镜头，回头",
+                "expression": "不可见"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面右侧",
+                "action": "抬头看西装男",
+                "expression": "眼睛睁大，看着西装男"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "过肩镜头。西装男回头，苏浅浅抬头看着他。",
+        "dialogue": "苏浅浅你要",
+        "speaker": "西装男",
+        "emotion": "质问",
+        "duration": 2.16,
+        "description_visual": "中景过肩镜头；明亮的窗户背景；画面左侧/前景人物，身穿黑色条纹西装，背对镜头，回头，表情：不可见；画面右侧人物，身穿米色针织开衫，抬头看西装男，表情：眼睛睁大，看着西装男。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面右侧",
+                "action": "双手抓住苏浅浅的手臂",
+                "expression": "眉毛微蹙，眼睛看苏浅浅，嘴巴微张说话"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面左侧",
+                "action": "双手握拳抬起，被抓住",
+                "expression": "眼睛看西装男，嘴巴微张"
+            }
+        ],
+        "background": "室内墙壁，挂画",
+        "description_narrative": "中近景镜头。西装男抓住苏浅浅的手臂，两人肢体纠缠。",
+        "dialogue": "干什么哦",
+        "speaker": "西装男",
+        "emotion": "愤怒",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；室内墙壁，挂画；画面右侧人物，身穿黑色条纹西装，双手抓住苏浅浅的手臂，表情：眉毛微蹙，眼睛看苏浅浅，嘴巴微张说话；画面左侧人物，身穿米色针织开衫，双手握拳抬起，被抓住，表情：眼睛看西装男，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面右侧前景",
+                "action": "模糊，抓着苏浅浅",
+                "expression": "不可见"
+            },
+            {
+                "name": "苏浅浅",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面左侧前景",
+                "action": "模糊，被抓住",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色大衣，珍珠项链",
+                "position": "画面中央背景",
+                "action": "站在门口，看着两人",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室门口",
+        "description_narrative": "过肩镜头。前景是纠缠的两人，背景门口站着一位黑衣女子，惊讶地看着他们。",
+        "dialogue": "你们 在干什么",
+        "speaker": "黑衣女子",
+        "emotion": "惊讶",
+        "duration": 6.0,
+        "description_visual": "中景过肩镜头；办公室门口；画面右侧前景人物，身穿黑色条纹西装，模糊，抓着苏浅浅，表情：不可见；画面左侧前景人物，身穿米色针织开衫，模糊，被抓住，表情：不可见；画面中央背景人物，身穿黑色大衣，珍珠项链，站在门口，看着两人，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "画面转为白色，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.76,
+        "description_visual": "全景平拍镜头；白色屏幕。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "画面保持白色，淡出。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；白色屏幕。"
+    }
+]

@@ -1,0 +1,1226 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面中央",
+                "action": "站立，手持文件夹，面向左侧护士",
+                "expression": "眉毛微挑，眼睛注视护士，嘴巴微张说话"
+            },
+            {
+                "name": "护士",
+                "gender": "女",
+                "clothing": "白色护士服",
+                "position": "画面左侧",
+                "action": "背对镜头，手持文件夹，身体微侧",
+                "expression": "不可见"
+            },
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面右后景",
+                "action": "坐在病床上，双手交叠放在腿上",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角微扬"
+            }
+        ],
+        "background": "医院病房，大窗户，光线明亮，色调冷白",
+        "description_narrative": "全景镜头，医院病房内光线明亮。男医生身穿白大褂站在中央，正与左侧背对镜头的护士交谈，手中拿着文件夹。周舒念身穿黑色连衣裙坐在右后方的病床上，安静地看着他们。",
+        "dialogue": "好的，那我们下次见，拜拜。",
+        "speaker": "护士",
+        "emotion": "轻松",
+        "duration": 2.24,
+        "description_visual": "全景平拍镜头；医院病房，大窗户，光线明亮，色调冷白；画面中央人物，身穿白大褂内搭黑色衬衫，站立，手持文件夹，面向左侧护士，表情：眉毛微挑，眼睛注视护士，嘴巴微张说话；画面左侧人物，身穿白色护士服，背对镜头，手持文件夹，身体微侧，表情：不可见；画面右后景人物，身穿黑色连衣裙，坐在病床上，双手交叠放在腿上，表情：眉毛舒展，眼睛注视前方，嘴角微扬。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "头部微抬，视线向上",
+                "expression": "眉毛舒展，眼睛向上看，嘴角带笑"
+            }
+        ],
+        "background": "医院病房背景虚化，色调柔和",
+        "description_narrative": "特写镜头聚焦周舒念，她身穿黑色连衣裙，长卷发披肩。她微微抬头，眼神向上，嘴角露出一丝浅笑，似乎在回应某人的呼唤。",
+        "dialogue": "哎。",
+        "speaker": "周舒念",
+        "emotion": "温和",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；医院病房背景虚化，色调柔和；画面中央人物，身穿黑色连衣裙，头部微抬，视线向上，表情：眉毛舒展，眼睛向上看，嘴角带笑。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "身体微前倾，视线平视前方",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房背景，光线自然",
+        "description_narrative": "近景镜头，周舒念身体微微前倾，眼神专注地看着前方的人，嘴巴微张，轻声称呼对方。",
+        "dialogue": "学长。",
+        "speaker": "周舒念",
+        "emotion": "亲切",
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；医院病房背景，光线自然；画面中央人物，身穿黑色连衣裙，身体微前倾，视线平视前方，表情：眉毛微扬，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面左侧",
+                "action": "低头看向对方手部，一只手插在口袋",
+                "expression": "眉毛微蹙，眼睛向下看，嘴角紧闭"
+            },
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面右前景",
+                "action": "抬起包扎的手展示",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "过肩镜头，男医生低头看着周舒念抬起的手，神情专注。周舒念展示着自己包扎好的手，向医生说明情况。",
+        "dialogue": "学长 我这手都包扎",
+        "speaker": "周舒念",
+        "emotion": "解释",
+        "duration": 1.2,
+        "description_visual": "中近景过肩镜头；医院病房，白色墙壁；画面左侧人物，身穿白大褂内搭黑色衬衫，低头看向对方手部，一只手插在口袋，表情：眉毛微蹙，眼睛向下看，嘴角紧闭；画面右前景人物，身穿黑色连衣裙，抬起包扎的手展示，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "视线平视，头部微动",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房背景虚化",
+        "description_narrative": "近景镜头，周舒念继续说着，眼神中带着询问，强调手已经处理好了。",
+        "dialogue": "扎好了。",
+        "speaker": "周舒念",
+        "emotion": "期待",
+        "duration": 0.76,
+        "description_visual": "近景平拍镜头；医院病房背景虚化；画面中央人物，身穿黑色连衣裙，视线平视，头部微动，表情：眉毛微挑，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "双手交握，身体微侧",
+                "expression": "眉毛微垂，眼睛看向下方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，光线柔和",
+        "description_narrative": "近景镜头，周舒念双手交握，眼神略微下垂，试探性地提出不想住院的想法。",
+        "dialogue": "就没必要再住院了吧",
+        "speaker": "周舒念",
+        "emotion": "试探",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；医院病房，光线柔和；画面中央人物，身穿黑色连衣裙，双手交握，身体微侧，表情：眉毛微垂，眼睛看向下方，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面中央",
+                "action": "低头，眼神向下",
+                "expression": "眉毛微蹙，眼睛向下看，嘴角微撇"
+            }
+        ],
+        "background": "医院病房，白色背景",
+        "description_narrative": "中近景镜头，男医生低下头，推了推眼镜，脸上露出不以为然的神情，准备反驳。",
+        "dialogue": "你懂什么呀 万一要是破伤风了呢？",
+        "speaker": "男医生",
+        "emotion": "强势",
+        "duration": 2.52,
+        "description_visual": "中近景平拍镜头；医院病房，白色背景；画面中央人物，身穿白大褂内搭黑色衬衫，低头，眼神向下，表情：眉毛微蹙，眼睛向下看，嘴角微撇。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神犹豫",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房背景",
+        "description_narrative": "近景镜头，周舒念眉头微蹙，眼神有些犹豫，想要继续争辩。",
+        "dialogue": "可是。",
+        "speaker": "周舒念",
+        "emotion": "犹豫",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；医院病房背景；画面中央人物，身穿黑色连衣裙，头部微侧，眼神犹豫，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面中央",
+                "action": "抬头直视对方，手势微动",
+                "expression": "眉毛上扬，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "中近景镜头，男医生打断周舒念的话，抬头直视她，语气不容置疑。",
+        "dialogue": "可是什么呀可是",
+        "speaker": "男医生",
+        "emotion": "不耐烦",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；医院病房，白色墙壁；画面中央人物，身穿白大褂内搭黑色衬衫，抬头直视对方，手势微动，表情：眉毛上扬，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面左侧",
+                "action": "双手插兜，身体微前倾",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面右前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房，背景简洁",
+        "description_narrative": "过肩镜头，男医生双手插在白大褂口袋里，身体微微前倾，强调自己的医生身份。",
+        "dialogue": "现在我是医生",
+        "speaker": "男医生",
+        "emotion": "严肃",
+        "duration": 2.0,
+        "description_visual": "中近景过肩镜头；医院病房，背景简洁；画面左侧人物，身穿白大褂内搭黑色衬衫，双手插兜，身体微前倾，表情：眉毛微挑，眼睛注视对方，嘴巴微张；画面右前景人物，身穿黑色连衣裙，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "视线平视，表情无奈",
+                "expression": "眉毛平展，眼睛注视前方，嘴角紧闭"
+            }
+        ],
+        "background": "医院病房背景",
+        "description_narrative": "近景镜头，周舒念无奈地看着医生，听着医生提出的选择题。",
+        "dialogue": "你说是医生听病人的呢",
+        "speaker": "男医生",
+        "emotion": "质问",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；医院病房背景；画面中央人物，身穿黑色连衣裙，视线平视，表情无奈，表情：眉毛平展，眼睛注视前方，嘴角紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面中央",
+                "action": "眼神坚定，头部微侧",
+                "expression": "眉毛微挑，眼睛注视对方，嘴角微扬"
+            }
+        ],
+        "background": "医院病房，白色背景",
+        "description_narrative": "中近景镜头，男医生眼神坚定，继续追问，脸上带着一丝不容拒绝的笑意。",
+        "dialogue": "还是病人听医生的呢",
+        "speaker": "男医生",
+        "emotion": "强势",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；医院病房，白色背景；画面中央人物，身穿白大褂内搭黑色衬衫，眼神坚定，头部微侧，表情：眉毛微挑，眼睛注视对方，嘴角微扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "眼神躲闪，微微低头",
+                "expression": "眉毛微垂，眼睛向下看，嘴角紧闭"
+            }
+        ],
+        "background": "医院病房背景",
+        "description_narrative": "近景镜头，周舒念被医生的气势压住，眼神微微躲闪，不再争辩。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无奈",
+        "duration": 0.76,
+        "description_visual": "近景平拍镜头；医院病房背景；画面中央人物，身穿黑色连衣裙，眼神躲闪，微微低头，表情：眉毛微垂，眼睛向下看，嘴角紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面左侧",
+                "action": "转身准备离开",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面右侧",
+                "action": "站立，目送医生",
+                "expression": "眉毛平展，眼睛注视医生，嘴角微抿"
+            }
+        ],
+        "background": "医院病房，病床，窗户",
+        "description_narrative": "中景镜头，男医生转身准备离开，告知还有手术要做。周舒念站在床边目送他。",
+        "dialogue": "好了 我还有台手术要做",
+        "speaker": "男医生",
+        "emotion": "忙碌",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头（跟拍）；医院病房，病床，窗户；画面左侧人物，身穿白大褂内搭黑色衬衫，转身准备离开，表情：眉毛舒展，眼睛看向前方，嘴巴微张；画面右侧人物，身穿黑色连衣裙，站立，目送医生，表情：眉毛平展，眼睛注视医生，嘴角微抿。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面左侧",
+                "action": "回头叮嘱",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面右前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房",
+        "description_narrative": "过肩镜头，男医生回头叮嘱周舒念先休息，语气中带着关怀。",
+        "dialogue": "你就先休息一下",
+        "speaker": "男医生",
+        "emotion": "关怀",
+        "duration": 2.44,
+        "description_visual": "中近景过肩镜头；医院病房；画面左侧人物，身穿白大褂内搭黑色衬衫，回头叮嘱，表情：眉毛微扬，眼睛注视对方，嘴巴微张；画面右前景人物，身穿黑色连衣裙，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "微微点头",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微扬"
+            }
+        ],
+        "background": "医院病房背景",
+        "description_narrative": "近景镜头，周舒念乖巧地点头，轻声感谢学长。",
+        "dialogue": "好吧 谢谢学长",
+        "speaker": "周舒念",
+        "emotion": "感激",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；医院病房背景；画面中央人物，身穿黑色连衣裙，微微点头，表情：眉毛舒展，眼睛注视对方，嘴角微扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面中央",
+                "action": "微笑点头",
+                "expression": "眉毛舒展，眼睛微弯，嘴角上扬"
+            }
+        ],
+        "background": "医院病房，白色背景",
+        "description_narrative": "中近景镜头，男医生听到感谢后露出温和的微笑，转身离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "温和",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；医院病房，白色背景；画面中央人物，身穿白大褂内搭黑色衬衫，微笑点头，表情：眉毛舒展，眼睛微弯，嘴角上扬。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "站立，目送",
+                "expression": "眉毛平展，眼睛注视前方，嘴角微抿"
+            }
+        ],
+        "background": "医院病房，病床",
+        "description_narrative": "中景镜头，周舒念站在病床边，目送医生离开，神情略显复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；医院病房，病床；画面中央人物，身穿黑色连衣裙，站立，目送，表情：眉毛平展，眼睛注视前方，嘴角微抿。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "拉远",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂内搭黑色衬衫",
+                "position": "画面左前景",
+                "action": "走出画面",
+                "expression": "不可见"
+            },
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面右后景",
+                "action": "站立",
+                "expression": "眉毛微垂，眼睛注视医生背影"
+            }
+        ],
+        "background": "医院病房，大窗户",
+        "description_narrative": "全景镜头拉远，男医生走出画面，周舒念独自站在病房内，看着他的背影消失。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "落寞",
+        "duration": 0.92,
+        "description_visual": "全景平拍镜头（拉远）；医院病房，大窗户；画面左前景人物，身穿白大褂内搭黑色衬衫，走出画面，表情：不可见；画面右后景人物，身穿黑色连衣裙，站立，表情：眉毛微垂，眼睛注视医生背影。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "转身走向病床",
+                "expression": "眉毛微蹙，眼睛看向前方"
+            }
+        ],
+        "background": "医院病房，病床，窗户",
+        "description_narrative": "中景镜头，周舒念转身走回病床边，神情变得凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 2.52,
+        "description_visual": "中景平拍镜头；医院病房，病床，窗户；画面中央人物，身穿黑色连衣裙，转身走向病床，表情：眉毛微蹙，眼睛看向前方。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "坐在床沿，低头看手",
+                "expression": "眉毛紧蹙，眼睛向下看，嘴角下撇"
+            }
+        ],
+        "background": "医院病床，白色床单",
+        "description_narrative": "中近景侧拍，周舒念坐在床沿，低头看着自己包扎的手，神情悲伤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 1.72,
+        "description_visual": "中近景侧拍镜头；医院病床，白色床单；画面中央人物，身穿黑色连衣裙，坐在床沿，低头看手，表情：眉毛紧蹙，眼睛向下看，嘴角下撇。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "低头，长发垂落",
+                "expression": "眉毛紧锁，眼睛低垂，表情痛苦"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写俯拍，周舒念低下头，长发垂落遮住部分脸庞，显得十分无助。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 2.64,
+        "description_visual": "特写俯拍镜头；模糊背景；画面中央人物，身穿黑色连衣裙，低头，长发垂落，表情：眉毛紧锁，眼睛低垂，表情痛苦。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "双手捧着破碎的玉佩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头，周舒念的双手捧着一块用格子布包着的破碎玉佩，动作轻柔。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "珍视",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黑色连衣裙，双手捧着破碎的玉佩，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "看着手中物品，嘴唇微动",
+                "expression": "眉毛紧蹙，眼睛注视手中物，嘴巴微张"
+            }
+        ],
+        "background": "医院病房背景",
+        "description_narrative": "近景镜头，周舒念看着手中的碎玉，眼中含泪，低声咒骂着弄坏它的人。",
+        "dialogue": "都怪傅明然 那个大混蛋",
+        "speaker": "周舒念",
+        "emotion": "愤怒",
+        "duration": 2.64,
+        "description_visual": "近景平拍镜头；医院病房背景；画面中央人物，身穿黑色连衣裙，看着手中物品，嘴唇微动，表情：眉毛紧蹙，眼睛注视手中物，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "坐在床上，手捧玉佩",
+                "expression": "眉毛紧锁，眼睛向下看，表情悲伤"
+            }
+        ],
+        "background": "医院病床，白色床单",
+        "description_narrative": "中景镜头，周舒念坐在病床上，手捧爷爷留下的遗物，伤心欲绝。",
+        "dialogue": "把爷爷留给我的 唯一念想都弄碎了",
+        "speaker": "周舒念",
+        "emotion": "悲痛",
+        "duration": 2.68,
+        "description_visual": "中景平拍镜头；医院病床，白色床单；画面中央人物，身穿黑色连衣裙，坐在床上，手捧玉佩，表情：眉毛紧锁，眼睛向下看，表情悲伤。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周舒念",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面中央",
+                "action": "手指抚摸玉佩碎片",
+                "expression": "眉毛微垂，眼睛注视碎片，嘴角下撇"
+            }
+        ],
+        "background": "医院病房背景",
+        "description_narrative": "近景镜头，周舒念手指轻轻抚摸着玉佩碎片，担心无法修复，神情忧虑。",
+        "dialogue": "也不知道能不能修好",
+        "speaker": "周舒念",
+        "emotion": "忧虑",
+        "duration": 3.32,
+        "description_visual": "近景平拍镜头；医院病房背景；画面中央人物，身穿黑色连衣裙，手指抚摸玉佩碎片，表情：眉毛微垂，眼睛注视碎片，嘴角下撇。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面左侧",
+                "action": "站立，面向母亲",
+                "expression": "眉毛紧蹙，眼睛注视母亲，嘴巴微张"
+            },
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面右侧",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛平展，眼睛注视儿子，嘴角紧闭"
+            }
+        ],
+        "background": "户外阳台，绿植背景，光线明亮",
+        "description_narrative": "全景镜头，场景切换至户外阳台。周家儿子身穿黑色紧身衣，焦急地呼唤母亲。周家母亲身穿旗袍，神情严肃地看着他。",
+        "dialogue": "妈",
+        "speaker": "周家儿子",
+        "emotion": "焦急",
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头；户外阳台，绿植背景，光线明亮；画面左侧人物，身穿黑色紧身短袖，站立，面向母亲，表情：眉毛紧蹙，眼睛注视母亲，嘴巴微张；画面右侧人物，身穿深色印花旗袍，站立，双手自然下垂，表情：眉毛平展，眼睛注视儿子，嘴角紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴角紧闭"
+            }
+        ],
+        "background": "户外阳台，背景虚化",
+        "description_narrative": "近景镜头，周家母亲面无表情地看着儿子，似乎在等待他的下文。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；户外阳台，背景虚化；画面中央人物，身穿深色印花旗袍，头部微侧，表情：眉毛微蹙，眼睛看向侧方，嘴角紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面中央",
+                "action": "双手摊开，身体前倾",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "户外阳台，绿植",
+        "description_narrative": "中近景镜头，周家儿子情绪激动，双手摊开，抱怨事情到了关键时刻。",
+        "dialogue": "这都到什么节骨眼上了",
+        "speaker": "周家儿子",
+        "emotion": "愤怒",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；户外阳台，绿植；画面中央人物，身穿黑色紧身短袖，双手摊开，身体前倾，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面中央",
+                "action": "手指指向前方",
+                "expression": "眉毛倒竖，眼睛怒视，嘴巴张开"
+            }
+        ],
+        "background": "户外阳台，背景虚化",
+        "description_narrative": "近景镜头，周家儿子愤怒地指着前方，咒骂家里的老人。",
+        "dialogue": "这个老不死的 居然",
+        "speaker": "周家儿子",
+        "emotion": "暴怒",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；户外阳台，背景虚化；画面中央人物，身穿黑色紧身短袖，手指指向前方，表情：眉毛倒竖，眼睛怒视，嘴巴张开。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面中央",
+                "action": "站立，听儿子抱怨",
+                "expression": "眉毛微蹙，眼睛注视儿子，嘴角紧闭"
+            },
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面左前景",
+                "action": "背对镜头，手指指向前方",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外阳台，栏杆",
+        "description_narrative": "过肩镜头，周家母亲听着儿子的抱怨，得知老人还在维护周舒念。",
+        "dialogue": "还在维护着周舒念",
+        "speaker": "周家儿子",
+        "emotion": "不满",
+        "duration": 1.4,
+        "description_visual": "中景过肩镜头；户外阳台，栏杆；画面中央人物，身穿深色印花旗袍，站立，听儿子抱怨，表情：眉毛微蹙，眼睛注视儿子，嘴角紧闭；画面左前景人物，身穿黑色紧身短袖，背对镜头，手指指向前方，表情：不可见。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面中央",
+                "action": "头部微仰",
+                "expression": "眉毛上扬，眼睛看向上方，嘴巴微张"
+            }
+        ],
+        "background": "户外阳台，绿植",
+        "description_narrative": "近景镜头，周家儿子抬头望天，觉得老人的行为太过分。",
+        "dialogue": "这太过分了吧",
+        "speaker": "周家儿子",
+        "emotion": "愤慨",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；户外阳台，绿植；画面中央人物，身穿黑色紧身短袖，头部微仰，表情：眉毛上扬，眼睛看向上方，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面中央",
+                "action": "头部微侧，眼神阴沉",
+                "expression": "眉毛微垂，眼睛看向侧方，嘴角紧闭"
+            }
+        ],
+        "background": "户外阳台，背景虚化",
+        "description_narrative": "近景镜头，周家母亲眼神阴沉，开始分析老人的心理。",
+        "dialogue": "对他而言",
+        "speaker": "周家母亲",
+        "emotion": "算计",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；户外阳台，背景虚化；画面中央人物，身穿深色印花旗袍，头部微侧，眼神阴沉，表情：眉毛微垂，眼睛看向侧方，嘴角紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面中央",
+                "action": "双手自然下垂",
+                "expression": "眉毛平展，眼睛注视儿子，嘴巴微张"
+            },
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面左侧",
+                "action": "侧身听母亲说话",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外阳台，栏杆",
+        "description_narrative": "中景镜头，周家母亲告诉儿子，在老人眼里他们只是外人。",
+        "dialogue": "你我只不过是外人",
+        "speaker": "周家母亲",
+        "emotion": "冷漠",
+        "duration": 1.76,
+        "description_visual": "中景平拍镜头；户外阳台，栏杆；画面中央人物，身穿深色印花旗袍，双手自然下垂，表情：眉毛平展，眼睛注视儿子，嘴巴微张；画面左侧人物，身穿黑色紧身短袖，侧身听母亲说话，表情：不可见。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面左侧",
+                "action": "站立，听母亲说话",
+                "expression": "眉毛紧蹙，眼睛注视母亲"
+            },
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面右侧",
+                "action": "站立，手势微动",
+                "expression": "眉毛微挑，眼睛注视儿子"
+            }
+        ],
+        "background": "户外阳台，绿植",
+        "description_narrative": "全景镜头，母子二人站在阳台上，母亲继续指出只有周舒念才是老人看重的人。",
+        "dialogue": "只有周舒念那个小可爱",
+        "speaker": "周家母亲",
+        "emotion": "讽刺",
+        "duration": 2.2,
+        "description_visual": "全景平拍镜头；户外阳台，绿植；画面左侧人物，身穿黑色紧身短袖，站立，听母亲说话，表情：眉毛紧蹙，眼睛注视母亲；画面右侧人物，身穿深色印花旗袍，站立，手势微动，表情：眉毛微挑，眼睛注视儿子。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面中央",
+                "action": "眼神阴鸷",
+                "expression": "眉毛紧锁，眼睛注视前方，嘴角紧闭"
+            }
+        ],
+        "background": "户外阳台，背景虚化",
+        "description_narrative": "近景镜头，周家儿子听着母亲的话，眼神变得更加阴鸷。",
+        "dialogue": "才是他在这个世界上",
+        "speaker": "周家母亲",
+        "emotion": "阴险",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；户外阳台，背景虚化；画面中央人物，身穿黑色紧身短袖，眼神阴鸷，表情：眉毛紧锁，眼睛注视前方，嘴角紧闭。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面中央",
+                "action": "抬头，语气加重",
+                "expression": "眉毛上扬，眼睛向上看，嘴巴张开"
+            }
+        ],
+        "background": "户外阳台，背景虚化",
+        "description_narrative": "近景镜头，周家母亲抬头强调，周舒念是唯一的血亲。",
+        "dialogue": "唯一的血亲",
+        "speaker": "周家母亲",
+        "emotion": "强调",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；户外阳台，背景虚化；画面中央人物，身穿深色印花旗袍，抬头，语气加重，表情：眉毛上扬，眼睛向上看，嘴巴张开。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面中央",
+                "action": "双手下垂，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向母亲，嘴巴微张"
+            }
+        ],
+        "background": "户外阳台，栏杆",
+        "description_narrative": "中近景镜头，周家儿子焦急地询问难道就这样算了。",
+        "dialogue": "那怎么着",
+        "speaker": "周家儿子",
+        "emotion": "急躁",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；户外阳台，栏杆；画面中央人物，身穿黑色紧身短袖，双手下垂，身体微侧，表情：眉毛微蹙，眼睛看向母亲，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面中央",
+                "action": "头部微侧，表情夸张",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "户外阳台，绿植",
+        "description_narrative": "近景镜头，周家儿子情绪激动，反问难道要眼睁睁看着周家倒闭。",
+        "dialogue": "我们眼睁睁的 看着周家倒闭吗？",
+        "speaker": "周家儿子",
+        "emotion": "激动",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；户外阳台，绿植；画面中央人物，身穿黑色紧身短袖，头部微侧，表情夸张，表情：眉毛上扬，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面中央",
+                "action": "双手交叉抱胸",
+                "expression": "眉毛微蹙，眼睛注视儿子，嘴巴微张"
+            },
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面左前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外阳台，栏杆",
+        "description_narrative": "过肩镜头，周家母亲双手抱胸，否定儿子的消极想法。",
+        "dialogue": "那怎么可能",
+        "speaker": "周家母亲",
+        "emotion": "否定",
+        "duration": 1.32,
+        "description_visual": "中景过肩镜头；户外阳台，栏杆；画面中央人物，身穿深色印花旗袍，双手交叉抱胸，表情：眉毛微蹙，眼睛注视儿子，嘴巴微张；画面左前景人物，身穿黑色紧身短袖，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面中央",
+                "action": "双手抱胸，眼神坚定",
+                "expression": "眉毛微垂，眼睛注视前方，嘴角紧闭"
+            }
+        ],
+        "background": "户外阳台，背景虚化",
+        "description_narrative": "近景镜头，周家母亲提到自己多年的辛苦，不愿白费。",
+        "dialogue": "你妈我辛苦了那么多年",
+        "speaker": "周家母亲",
+        "emotion": "不甘",
+        "duration": 2.24,
+        "description_visual": "近景平拍镜头；户外阳台，背景虚化；画面中央人物，身穿深色印花旗袍，双手抱胸，眼神坚定，表情：眉毛微垂，眼睛注视前方，嘴角紧闭。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "眉毛紧锁，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "户外阳台，绿植",
+        "description_narrative": "近景镜头，周家儿子附和母亲，担心一切白费。",
+        "dialogue": "岂不是白费了",
+        "speaker": "周家儿子",
+        "emotion": "担忧",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；户外阳台，绿植；画面中央人物，身穿黑色紧身短袖，头部微侧，表情：眉毛紧锁，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面中央",
+                "action": "眼神闪烁，嘴角微动",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴角微扬"
+            }
+        ],
+        "background": "户外阳台，背景虚化",
+        "description_narrative": "近景镜头，周家母亲眼神闪烁，似乎想到了什么计策。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "算计",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；户外阳台，背景虚化；画面中央人物，身穿深色印花旗袍，眼神闪烁，嘴角微动，表情：眉毛微挑，眼睛看向侧方，嘴角微扬。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面右侧",
+                "action": "凑近儿子耳边低语",
+                "expression": "眉毛微蹙，眼睛注视儿子耳朵，嘴巴微张"
+            },
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面左侧",
+                "action": "侧耳倾听",
+                "expression": "眉毛紧锁，眼睛注视前方"
+            }
+        ],
+        "background": "户外阳台，栏杆",
+        "description_narrative": "中近景侧拍，周家母亲凑到儿子耳边低声传授计策，儿子认真倾听。",
+        "dialogue": "还是你够狠",
+        "speaker": "周家儿子",
+        "emotion": "惊叹",
+        "duration": 1.8,
+        "description_visual": "中近景侧拍镜头；户外阳台，栏杆；画面右侧人物，身穿深色印花旗袍，凑近儿子耳边低语，表情：眉毛微蹙，眼睛注视儿子耳朵，嘴巴微张；画面左侧人物，身穿黑色紧身短袖，侧耳倾听，表情：眉毛紧锁，眼睛注视前方。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面左侧",
+                "action": "听母亲耳语",
+                "expression": "眉毛微蹙，眼睛注视前方，表情凝重"
+            },
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面右侧",
+                "action": "手挡嘴边低语",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外阳台，背景虚化",
+        "description_narrative": "特写侧拍，周家儿子听着母亲的毒计，表情凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 1.16,
+        "description_visual": "特写侧拍镜头；户外阳台，背景虚化；画面左侧人物，身穿黑色紧身短袖，听母亲耳语，表情：眉毛微蹙，眼睛注视前方，表情凝重；画面右侧人物，身穿深色印花旗袍，手挡嘴边低语，表情：不可见。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面右侧",
+                "action": "说完话后退",
+                "expression": "眉毛舒展，眼睛注视儿子，嘴角微扬"
+            },
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面左侧",
+                "action": "身体微侧",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外阳台，栏杆",
+        "description_narrative": "中近景侧拍，周家母亲说完计策后后退，脸上露出得意的神情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 1.28,
+        "description_visual": "中近景侧拍镜头；户外阳台，栏杆；画面右侧人物，身穿深色印花旗袍，说完话后退，表情：眉毛舒展，眼睛注视儿子，嘴角微扬；画面左侧人物，身穿黑色紧身短袖，身体微侧，表情：不可见。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家儿子",
+                "gender": "男",
+                "clothing": "黑色紧身短袖",
+                "position": "画面中央",
+                "action": "眼神震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "户外阳台，绿植",
+        "description_narrative": "近景镜头，周家儿子听完计策后，露出震惊又佩服的表情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 4.44,
+        "description_visual": "近景平拍镜头；户外阳台，绿植；画面中央人物，身穿黑色紧身短袖，眼神震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周家母亲",
+                "gender": "女",
+                "clothing": "深色印花旗袍",
+                "position": "画面中央",
+                "action": "双手抱胸，眼神阴狠",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴角上扬"
+            }
+        ],
+        "background": "户外阳台，背景虚化",
+        "description_narrative": "近景镜头，周家母亲双手抱胸，发出阴险的笑声，对计策充满信心。",
+        "dialogue": "哼哼哼",
+        "speaker": "周家母亲",
+        "emotion": "阴险",
+        "duration": 2.36,
+        "description_visual": "近景平拍镜头；户外阳台，背景虚化；画面中央人物，身穿深色印花旗袍，双手抱胸，眼神阴狠，表情：眉毛微挑，眼睛看向侧方，嘴角上扬。"
+    }
+]

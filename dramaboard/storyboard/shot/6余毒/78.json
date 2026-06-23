@@ -1,0 +1,634 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面左侧",
+                "action": "站立，双手自然下垂",
+                "expression": "面具遮挡，眼神透过面具直视前方"
+            },
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面右侧后方",
+                "action": "站立，手扶小女孩肩膀",
+                "expression": "眉毛微蹙，目光看向面具男"
+            },
+            {
+                "name": "菁菁",
+                "gender": "女",
+                "clothing": "条纹长袖，棕色背带裤",
+                "position": "画面右侧前方",
+                "action": "站立，双手交握在身前",
+                "expression": "嘴巴微张，正在说话"
+            }
+        ],
+        "background": "豪华酒店大堂，圆形吊顶，水晶吊灯，大理石地面反光",
+        "description_narrative": "全景镜头，豪华大堂内，左侧站着戴银色面具的面具男，右侧站着顾小姐和小女孩菁菁。菁菁正抬头对面具男说话，顾小姐手扶菁菁肩膀，三人呈对峙站位。",
+        "dialogue": "谢谢您救了我们。",
+        "speaker": "菁菁",
+        "emotion": "感激",
+        "duration": 1.72,
+        "description_visual": "全景平拍镜头；豪华酒店大堂，圆形吊顶，水晶吊灯，大理石地面反光；画面左侧人物，身穿黑色西装，黑色衬衫，银色狼形面具，站立，双手自然下垂，表情：面具遮挡，眼神透过面具直视前方；画面右侧后方人物，身穿白色蕾丝无袖旗袍，站立，手扶小女孩肩膀，表情：眉毛微蹙，目光看向面具男；画面右侧前方人物，身穿条纹长袖，棕色背带裤，站立，双手交握在身前，表情：嘴巴微张，正在说话。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "菁菁",
+                "gender": "女",
+                "clothing": "条纹长袖，棕色背带裤",
+                "position": "画面中央",
+                "action": "抬头说话，眼神真诚",
+                "expression": "眉毛舒展，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面左侧边缘",
+                "action": "手臂可见，站在女孩身旁",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "特写镜头聚焦菁菁，她穿着条纹衫和背带裤，额头有伤痕，正认真地看着对面的人表达感谢，神情乖巧。",
+        "dialogue": "谢谢您救了我们",
+        "speaker": "菁菁",
+        "emotion": "真诚",
+        "duration": 2.92,
+        "description_visual": "特写平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿条纹长袖，棕色背带裤，抬头说话，眼神真诚，表情：眉毛舒展，眼睛睁大，嘴巴微张；画面左侧边缘人物，身穿白色蕾丝无袖旗袍，手臂可见，站在女孩身旁，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面中央",
+                "action": "低头，随后抬眼",
+                "expression": "眉毛微垂，眼神温和，嘴唇轻启"
+            }
+        ],
+        "background": "模糊的室内装饰，暖色调",
+        "description_narrative": "近景镜头给到顾小姐，她身穿白色蕾丝旗袍，佩戴珍珠耳环，低头后抬眼看向对方，语气礼貌地补充感谢的话。",
+        "dialogue": "以后会让哥哥上门答谢的",
+        "speaker": "顾小姐",
+        "emotion": "礼貌",
+        "duration": 3.72,
+        "description_visual": "近景平拍镜头；模糊的室内装饰，暖色调；画面中央人物，身穿白色蕾丝无袖旗袍，低头，随后抬眼，表情：眉毛微垂，眼神温和，嘴唇轻启。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "菁菁",
+                "gender": "女",
+                "clothing": "条纹长袖，棕色背带裤",
+                "position": "画面中央",
+                "action": "张嘴惊讶，眼神灵动",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "模糊的大堂背景",
+        "description_narrative": "镜头切回菁菁近景，她听到顾小姐的话后露出惊讶的表情，嘴巴微张，似乎对自己能流利说话感到意外。",
+        "dialogue": "菁菁，这是你第一次和外人说这么长的话，不结巴？",
+        "speaker": "顾小姐",
+        "emotion": "惊讶",
+        "duration": 3.02,
+        "description_visual": "近景平拍镜头；模糊的大堂背景；画面中央人物，身穿条纹长袖，棕色背带裤，张嘴惊讶，眼神灵动，表情：眉毛上扬，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面中央",
+                "action": "低头微笑，眼神下移",
+                "expression": "眉毛舒展，嘴角微扬，眼神柔和"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，顾小姐低头看着孩子，脸上带着温柔的微笑，轻声解释孩子不结巴可能是因为这位先生救了她们。",
+        "dialogue": "是啊，可能是这位先生救了我们吧",
+        "speaker": "顾小姐",
+        "emotion": "温柔",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色蕾丝无袖旗袍，低头微笑，眼神下移，表情：眉毛舒展，嘴角微扬，眼神柔和。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "面具遮挡，眼神平静"
+            }
+        ],
+        "background": "大堂栏杆，模糊的窗户",
+        "description_narrative": "中景镜头，面具男身穿黑色西装，戴着银色面具，静静站立，头部微侧，似乎在聆听顾小姐的话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；大堂栏杆，模糊的窗户；画面中央人物，身穿黑色西装，黑色衬衫，银色狼形面具，站立，头部微侧，表情：面具遮挡，眼神平静。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面左侧",
+                "action": "站立不动",
+                "expression": "面具遮挡"
+            },
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面右侧",
+                "action": "抚摸菁菁头部",
+                "expression": "低头看孩子"
+            },
+            {
+                "name": "菁菁",
+                "gender": "女",
+                "clothing": "条纹长袖，棕色背带裤",
+                "position": "画面右侧前方",
+                "action": "站立，被抚摸头部",
+                "expression": "低头"
+            }
+        ],
+        "background": "豪华大堂，水晶吊灯，大理石地面",
+        "description_narrative": "全景镜头，女佣在画外呼唤“小姐”，顾小姐正低头抚摸菁菁的头发，面具男站在一旁等待。",
+        "dialogue": "小姐 小姐",
+        "speaker": "女佣",
+        "emotion": null,
+        "duration": 5.94,
+        "description_visual": "全景平拍镜头；豪华大堂，水晶吊灯，大理石地面；画面左侧人物，身穿黑色西装，黑色衬衫，银色狼形面具，站立不动，表情：面具遮挡；画面右侧人物，身穿白色蕾丝无袖旗袍，抚摸菁菁头部，表情：低头看孩子；画面右侧前方人物，身穿条纹长袖，棕色背带裤，站立，被抚摸头部，表情：低头。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面中央",
+                "action": "侧身，手抚腹部",
+                "expression": "眼神看向侧方，嘴唇微张"
+            }
+        ],
+        "background": "模糊的桌椅背景",
+        "description_narrative": "中近景镜头，顾小姐侧身站立，手抚腹部，听到画外女佣的询问声，转头回应表示没事。",
+        "dialogue": "小姐，小姐，没事吧？",
+        "speaker": "女佣",
+        "emotion": "关切",
+        "duration": 2.24,
+        "description_visual": "中近景平拍镜头；模糊的桌椅背景；画面中央人物，身穿白色蕾丝无袖旗袍，侧身，手抚腹部，表情：眼神看向侧方，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面中央",
+                "action": "站立，头部微仰",
+                "expression": "面具遮挡，眼神透过孔洞看人"
+            }
+        ],
+        "background": "大堂栏杆，模糊背景",
+        "description_narrative": "中景镜头，面具男站在大堂中，头部微仰，语气轻佻地询问顾小姐想要什么样的感谢。",
+        "dialogue": "您想要什么样的感谢呢？",
+        "speaker": "面具男",
+        "emotion": "玩味",
+        "duration": 4.4,
+        "description_visual": "中景平拍镜头；大堂栏杆，模糊背景；画面中央人物，身穿黑色西装，黑色衬衫，银色狼形面具，站立，头部微仰，表情：面具遮挡，眼神透过孔洞看人。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面中央",
+                "action": "双手交叠在身前",
+                "expression": "眉毛微蹙，眼神直视，表情严肃"
+            },
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧前景",
+                "action": "背影模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "过肩镜头，顾小姐面对面具男，双手交叠，听到对方暗示“以身相许”的轻佻话语，表情变得严肃。",
+        "dialogue": "不是说救命之恩要以身相许吗？",
+        "speaker": "面具男",
+        "emotion": "轻佻",
+        "duration": 2.92,
+        "description_visual": "中近景过肩镜头；模糊的室内背景；画面中央人物，身穿白色蕾丝无袖旗袍，双手交叠在身前，表情：眉毛微蹙，眼神直视，表情严肃；画面左侧前景人物，身穿黑色西装，背影模糊，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "面具遮挡，眼神专注"
+            },
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面右侧前景",
+                "action": "肩膀可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头给到面具男，他听着顾小姐的反击，顾小姐在画外或前景表示他想必不缺女人。",
+        "dialogue": "您想必也不缺女人",
+        "speaker": "顾小姐",
+        "emotion": "冷静",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装，黑色衬衫，银色狼形面具，头部微侧，表情：面具遮挡，眼神专注；画面右侧前景人物，身穿白色蕾丝无袖旗袍，肩膀可见，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面中央",
+                "action": "双手交握，身体挺直",
+                "expression": "眉毛微扬，眼神坚定，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中近景镜头，顾小姐双手交握，语气坚决地告诉面具男不要打她的主意，并提及刚才白总的下场。",
+        "dialogue": "就不必打我的主意了，刚才",
+        "speaker": "顾小姐",
+        "emotion": "警告",
+        "duration": 3.24,
+        "description_visual": "中近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色蕾丝无袖旗袍，双手交握，身体挺直，表情：眉毛微扬，眼神坚定，嘴唇紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面中央",
+                "action": "低头，随后抬头",
+                "expression": "面具遮挡，眼神透过面具"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中景镜头，面具男低头听顾小姐说完白总的下场，随后抬头，顾小姐在画外继续说自己不是他想要的那种女人。",
+        "dialogue": "白总的下场您也看到了，我不是您想要的那种女人",
+        "speaker": "顾小姐",
+        "emotion": "决绝",
+        "duration": 5.22,
+        "description_visual": "中景平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装，黑色衬衫，银色狼形面具，低头，随后抬头，表情：面具遮挡，眼神透过面具。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面中央",
+                "action": "眼神直视前方",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中近景镜头，顾小姐听到面具男说代价不值一提，眼神锐利地回应，讽刺他是顶峰国际掌门人有特殊癖好。",
+        "dialogue": "能拥有像你这样的女人，那些代价不值一提",
+        "speaker": "面具男",
+        "emotion": "自信",
+        "duration": 5.22,
+        "description_visual": "中近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色蕾丝无袖旗袍，眼神直视前方，表情：眉毛微蹙，眼神锐利，嘴唇微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "面具遮挡，眼神玩味"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中景镜头，面具男听到顾小姐讽刺他有特殊癖好，并未生气，反而语气玩味地说没想到顾小姐是贞洁烈女。",
+        "dialogue": "没想到顶峰国际的掌门人竟然有如此特殊的癖好",
+        "speaker": "顾小姐",
+        "emotion": "讽刺",
+        "duration": 4.62,
+        "description_visual": "中景平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装，黑色衬衫，银色狼形面具，头部微侧，表情：面具遮挡，眼神玩味。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸",
+                "expression": "眉毛微挑，眼神冷淡，嘴角紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中近景镜头，顾小姐双臂交叉抱胸，姿态防御，听到面具男称她为贞洁烈女，她冷淡回应。",
+        "dialogue": "我也没想到，顾小姐，竟然是这样的贞洁烈女",
+        "speaker": "面具男",
+        "emotion": "调侃",
+        "duration": 3.24,
+        "description_visual": "中近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色蕾丝无袖旗袍，双臂交叉抱胸，表情：眉毛微挑，眼神冷淡，嘴角紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "面具遮挡，眼神直视"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中景镜头，面具男站立，顾小姐在画外或直接回应说他高看自己了，他只是不是她的菜。",
+        "dialogue": "您高看我了，只不过您不是我的菜",
+        "speaker": "顾小姐",
+        "emotion": "不屑",
+        "duration": 2.7,
+        "description_visual": "中景平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装，黑色衬衫，银色狼形面具，站立，头部微侧，表情：面具遮挡，眼神直视。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面中央",
+                "action": "手抚胸口，眼神侧视",
+                "expression": "眉毛微蹙，眼神躲闪，嘴唇微张"
+            },
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧前景",
+                "action": "手伸向顾小姐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中近景镜头，面具男的手伸向顾小姐，顾小姐手抚胸口，眼神侧视，面具男在画外问“是不是”。",
+        "dialogue": "是不是？",
+        "speaker": "面具男",
+        "emotion": "挑衅",
+        "duration": 2.98,
+        "description_visual": "中近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色蕾丝无袖旗袍，手抚胸口，眼神侧视，表情：眉毛微蹙，眼神躲闪，嘴唇微张；画面左侧前景人物，身穿黑色西装，手伸向顾小姐，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西裤，黑色皮鞋",
+                "position": "画面左侧",
+                "action": "脚部特写，向前迈步",
+                "expression": "不可见"
+            }
+        ],
+        "background": "光亮的大理石地面",
+        "description_narrative": "特写镜头聚焦面具男的黑色皮鞋，他向前迈了一步，踩在光亮的大理石地面上，画外音说“试试才知道”。",
+        "dialogue": "试试才知道",
+        "speaker": "面具男",
+        "emotion": "压迫",
+        "duration": 0.52,
+        "description_visual": "特写低角度镜头；光亮的大理石地面；画面左侧人物，身穿黑色西裤，黑色皮鞋，脚部特写，向前迈步，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面中央",
+                "action": "侧脸，头部微仰",
+                "expression": "面具遮挡，下颌线清晰"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "侧拍近景，面具男侧脸对着镜头，头部微仰，姿态傲慢，顾小姐在画外称呼“这位先生”。",
+        "dialogue": "这位先生",
+        "speaker": "顾小姐",
+        "emotion": "严肃",
+        "duration": 1.72,
+        "description_visual": "近景侧拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装，黑色衬衫，银色狼形面具，侧脸，头部微仰，表情：面具遮挡，下颌线清晰。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面中央",
+                "action": "眼神坚定看向对方",
+                "expression": "眉毛微扬，眼神锐利，嘴唇微张"
+            },
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧前景",
+                "action": "肩膀可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，顾小姐眼神坚定地看着面具男，严词拒绝，表明当她说不要的时候就是不要。",
+        "dialogue": "当我说不要的时候，我的意思就是不要",
+        "speaker": "顾小姐",
+        "emotion": "坚决",
+        "duration": 3.04,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色蕾丝无袖旗袍，眼神坚定看向对方，表情：眉毛微扬，眼神锐利，嘴唇微张；画面左侧前景人物，身穿黑色西装，肩膀可见，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面左侧",
+                "action": "站立不动",
+                "expression": "面具遮挡"
+            },
+            {
+                "name": "顾小姐",
+                "gender": "女",
+                "clothing": "白色蕾丝无袖旗袍",
+                "position": "画面右侧",
+                "action": "双臂交叉，转身欲走",
+                "expression": "侧脸，表情冷峻"
+            }
+        ],
+        "background": "豪华大堂，水晶吊灯，大理石地面",
+        "description_narrative": "全景镜头，顾小姐双臂交叉，说完“我的意思就是不要”后转身，面具男站在原地未动。",
+        "dialogue": "我的意思就是不要",
+        "speaker": "顾小姐",
+        "emotion": "决绝",
+        "duration": 2.92,
+        "description_visual": "全景平拍镜头；豪华大堂，水晶吊灯，大理石地面；画面左侧人物，身穿黑色西装，黑色衬衫，银色狼形面具，站立不动，表情：面具遮挡；画面右侧人物，身穿白色蕾丝无袖旗袍，双臂交叉，转身欲走，表情：侧脸，表情冷峻。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "面具遮挡，眼神透过孔洞"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，面具男直视前方，看着顾小姐离去的背影，嘴角似乎上扬，评价她脾气挺大。",
+        "dialogue": "脾气还挺大",
+        "speaker": "面具男",
+        "emotion": "玩味",
+        "duration": 3.68,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装，黑色衬衫，银色狼形面具，直视前方，表情：面具遮挡，眼神透过孔洞。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "面具男",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫，银色狼形面具",
+                "position": "画面中央",
+                "action": "身影逐渐被白光吞没",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色强光，模糊轮廓",
+        "description_narrative": "特写镜头，画面逐渐被强烈的白光吞没，面具男的身影变得模糊，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；白色强光，模糊轮廓；画面中央人物，身穿黑色西装，黑色衬衫，银色狼形面具，身影逐渐被白光吞没，表情：不可见。"
+    }
+]

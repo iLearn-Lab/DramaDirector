@@ -1,0 +1,531 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景，金色花纹装饰，显示剧集标题文字。",
+        "description_narrative": "静态画面展示剧集标题“替嫁娇妻”及“四十六集”字样，背景为深色带有金色纹饰的屏风或墙面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；黑色背景，金色花纹装饰，显示剧集标题文字。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装，银色发冠",
+                "position": "画面右侧，身体前倾",
+                "action": "身体前倾靠近王妃，低头注视",
+                "expression": "眉毛微蹙，眼神关切，嘴唇紧闭"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装，白色花饰发簪",
+                "position": "画面左侧，坐姿",
+                "action": "低头垂目，双手放在膝上",
+                "expression": "眉毛下垂，视线向下，神情委屈"
+            }
+        ],
+        "background": "室内暗调背景，模糊的深色家具轮廓。",
+        "description_narrative": "王爷身穿浅色金纹古装，身体前倾靠近坐着的王妃，低头注视着她。王妃身穿白色刺绣古装，低头垂目，神情显得委屈不安。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "关切/委屈",
+        "duration": 3.64,
+        "description_visual": "中近景平拍镜头；室内暗调背景，模糊的深色家具轮廓。；画面右侧，身体前倾人物，身穿浅色金纹古装，银色发冠，身体前倾靠近王妃，低头注视，表情：眉毛微蹙，眼神关切，嘴唇紧闭；画面左侧，坐姿人物，身穿白色刺绣古装，白色花饰发簪，低头垂目，双手放在膝上，表情：眉毛下垂，视线向下，神情委屈。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装，银色发冠",
+                "position": "画面右侧",
+                "action": "侧脸面向左下方，目光专注",
+                "expression": "眉毛微挑，眼神严肃中带温柔，嘴唇微动"
+            }
+        ],
+        "background": "模糊的深色背景，光线柔和。",
+        "description_narrative": "镜头特写王爷的侧脸，他头戴银色发冠，目光向下注视，神情严肃却又流露关切，正在开口说话。",
+        "dialogue": "你个小傻子，现在知道害怕了。",
+        "speaker": "王爷",
+        "emotion": "责备/心疼",
+        "duration": 3.84,
+        "description_visual": "特写侧拍镜头；模糊的深色背景，光线柔和。；画面右侧人物，身穿浅色金纹古装，银色发冠，侧脸面向左下方，目光专注，表情：眉毛微挑，眼神严肃中带温柔，嘴唇微动。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装，白色花饰发簪",
+                "position": "画面中央",
+                "action": "低头，视线向下",
+                "expression": "眉头紧锁，睫毛低垂，嘴唇紧闭"
+            }
+        ],
+        "background": "深色背景，光线集中在人物面部。",
+        "description_narrative": "镜头俯拍王妃的面部特写，她眉头紧锁，眼神低垂，神情显得害怕且顺从，正在聆听王爷的训诫。",
+        "dialogue": "以后不准做这种危险的事，知道吗？",
+        "speaker": "王爷",
+        "emotion": "害怕/顺从",
+        "duration": 5.8,
+        "description_visual": "特写俯拍镜头；深色背景，光线集中在人物面部。；画面中央人物，身穿白色刺绣古装，白色花饰发簪，低头，视线向下，表情：眉头紧锁，睫毛低垂，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左侧",
+                "action": "身体前倾，靠在王爷肩头",
+                "expression": "眼睛微闭，神情依赖"
+            },
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装",
+                "position": "画面右侧，背对镜头",
+                "action": "背部挺立，接受王妃的依靠",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深色背景，衣物纹理清晰。",
+        "description_narrative": "过肩镜头，王妃轻轻靠在王爷的肩头，眼神低垂，轻声回应。王爷背对镜头，身穿金纹古装。",
+        "dialogue": "嗯。",
+        "speaker": "王妃",
+        "emotion": "顺从/依赖",
+        "duration": 3.64,
+        "description_visual": "近景过肩镜头；深色背景，衣物纹理清晰。；画面左侧人物，身穿白色刺绣古装，身体前倾，靠在王爷肩头，表情：眼睛微闭，神情依赖；画面右侧，背对镜头人物，身穿浅色金纹古装，背部挺立，接受王妃的依靠，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装，银色发冠",
+                "position": "画面右侧",
+                "action": "转头看向王妃，眼神询问",
+                "expression": "眉毛舒展，眼神探究，嘴唇微张"
+            }
+        ],
+        "background": "模糊的深色背景。",
+        "description_narrative": "王爷侧脸特写，他转头看向王妃，眼神中带着询问，似乎好奇她之前的举动。",
+        "dialogue": "你是怎么把王管家骗出来的？",
+        "speaker": "王爷",
+        "emotion": "好奇/询问",
+        "duration": 1.96,
+        "description_visual": "特写侧拍镜头；模糊的深色背景。；画面右侧人物，身穿浅色金纹古装，银色发冠，转头看向王妃，眼神询问，表情：眉毛舒展，眼神探究，嘴唇微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装，长耳坠",
+                "position": "画面中央",
+                "action": "抬头看向王爷，眼神认真",
+                "expression": "眉毛微蹙，眼神坚定，嘴唇微动"
+            }
+        ],
+        "background": "深色背景，光线柔和。",
+        "description_narrative": "王妃面部特写，她抬头看向王爷，神情认真地解释之前的计策，长耳坠随着动作微微晃动。",
+        "dialogue": "我骗他说，王爷要给我一个重要的东西。",
+        "speaker": "王妃",
+        "emotion": "认真/解释",
+        "duration": 3.48,
+        "description_visual": "特写平拍镜头；深色背景，光线柔和。；画面中央人物，身穿白色刺绣古装，长耳坠，抬头看向王爷，眼神认真，表情：眉毛微蹙，眼神坚定，嘴唇微动。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装，银色发冠",
+                "position": "画面右侧",
+                "action": "注视王妃，神情柔和",
+                "expression": "眼神温柔，嘴角微扬"
+            }
+        ],
+        "background": "模糊的深色背景。",
+        "description_narrative": "王爷侧脸特写，他静静听着王妃的解释，眼神变得柔和，似乎对她的机智感到欣慰。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "欣慰/温柔",
+        "duration": 1.36,
+        "description_visual": "特写侧拍镜头；模糊的深色背景。；画面右侧人物，身穿浅色金纹古装，银色发冠，注视王妃，神情柔和，表情：眼神温柔，嘴角微扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装，长耳坠",
+                "position": "画面中央",
+                "action": "手抬起靠近鼻子/嘴巴",
+                "expression": "眼神躲闪，略显羞涩"
+            }
+        ],
+        "background": "深色背景。",
+        "description_narrative": "王妃特写，她抬手轻轻触碰鼻尖或嘴唇，眼神略显躲闪，似乎对王爷的夸奖感到不好意思。",
+        "dialogue": "你还真是个机灵鬼。",
+        "speaker": "王爷",
+        "emotion": "羞涩/被夸奖",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；深色背景。；画面中央人物，身穿白色刺绣古装，长耳坠，手抬起靠近鼻子/嘴巴，表情：眼神躲闪，略显羞涩。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装，银色发冠",
+                "position": "画面右侧",
+                "action": "注视王妃，神情郑重",
+                "expression": "眉毛微蹙，眼神深情，嘴唇微动"
+            }
+        ],
+        "background": "模糊的深色背景。",
+        "description_narrative": "王爷侧脸特写，他神情变得郑重，目光深邃地注视着王妃，准备拿出某样东西。",
+        "dialogue": "本王确实有东西要给你。",
+        "speaker": "王爷",
+        "emotion": "郑重/深情",
+        "duration": 2.68,
+        "description_visual": "特写侧拍镜头；模糊的深色背景。；画面右侧人物，身穿浅色金纹古装，银色发冠，注视王妃，神情郑重，表情：眉毛微蹙，眼神深情，嘴唇微动。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "眼神惊讶，微微张嘴",
+                "expression": "眉毛上扬，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "深色背景。",
+        "description_narrative": "王妃面部特写，她听到王爷的话后露出惊讶的神情，眼睛睁大，嘴唇微张发出惊叹。",
+        "dialogue": "啊",
+        "speaker": "王妃",
+        "emotion": "惊讶",
+        "duration": 2.72,
+        "description_visual": "特写平拍镜头；深色背景。；画面中央人物，身穿白色刺绣古装，眼神惊讶，微微张嘴，表情：眉毛上扬，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装",
+                "position": "画面中央",
+                "action": "手部动作，从袖中取出物品",
+                "expression": "不可见"
+            }
+        ],
+        "background": "衣物纹理，模糊背景。",
+        "description_narrative": "镜头聚焦于王爷的手部动作，他身穿金纹古装，手从袖中缓缓取出某样物品。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "特写俯拍镜头；衣物纹理，模糊背景。；画面中央人物，身穿浅色金纹古装，手部动作，从袖中取出物品，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装",
+                "position": "画面中央",
+                "action": "手掌摊开，展示玉镯",
+                "expression": "不可见"
+            }
+        ],
+        "background": "衣物纹理，模糊背景。",
+        "description_narrative": "特写王爷的手掌，掌心托着一只绿色的玉镯，玉镯通透圆润，在光线下泛着光泽。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；衣物纹理，模糊背景。；画面中央人物，身穿浅色金纹古装，手掌摊开，展示玉镯，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装",
+                "position": "画面右侧",
+                "action": "手持玉镯递给王妃",
+                "expression": "神情庄重"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左侧",
+                "action": "低头看着玉镯",
+                "expression": "神情复杂，略带疑惑"
+            }
+        ],
+        "background": "室内暗调背景。",
+        "description_narrative": "中景镜头，王爷坐在王妃身旁，手中托着玉镯递向她，神情庄重地解释玉镯的来历。王妃低头看着玉镯，神情复杂。",
+        "dialogue": "这个玉镯是我母妃留给她未来儿媳妇的。",
+        "speaker": "王爷",
+        "emotion": "庄重/深情",
+        "duration": 3.96,
+        "description_visual": "中景平拍镜头；室内暗调背景。；画面右侧人物，身穿浅色金纹古装，手持玉镯递给王妃，表情：神情庄重；画面左侧人物，身穿白色刺绣古装，低头看着玉镯，表情：神情复杂，略带疑惑。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装，银色发冠",
+                "position": "画面右侧",
+                "action": "注视王妃，眼神坚定",
+                "expression": "眉毛微蹙，眼神专注，嘴唇微动"
+            }
+        ],
+        "background": "模糊的深色背景。",
+        "description_narrative": "王爷侧脸特写，他目光坚定地看着王妃，语气郑重地表示要将玉镯交给她。",
+        "dialogue": "现在我把它交给你。",
+        "speaker": "王爷",
+        "emotion": "坚定/承诺",
+        "duration": 4.12,
+        "description_visual": "特写侧拍镜头；模糊的深色背景。；画面右侧人物，身穿浅色金纹古装，银色发冠，注视王妃，眼神坚定，表情：眉毛微蹙，眼神专注，嘴唇微动。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装",
+                "position": "画面中央",
+                "action": "手持玉镯",
+                "expression": "不可见"
+            }
+        ],
+        "background": "衣物纹理，模糊背景。",
+        "description_narrative": "特写镜头再次聚焦于王爷手中的绿色玉镯，玉镯质地温润，细节清晰可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "特写俯拍镜头；衣物纹理，模糊背景。；画面中央人物，身穿浅色金纹古装，手持玉镯，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装",
+                "position": "画面上方",
+                "action": "手握住王妃的手，准备戴镯",
+                "expression": "不可见"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面下方",
+                "action": "手被握住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "衣物纹理，模糊背景。",
+        "description_narrative": "特写镜头展示王爷的手握住王妃的手，动作轻柔，准备将玉镯戴在她的手腕上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.76,
+        "description_visual": "特写俯拍镜头；衣物纹理，模糊背景。；画面上方人物，身穿浅色金纹古装，手握住王妃的手，准备戴镯，表情：不可见；画面下方人物，身穿白色刺绣古装，手被握住，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装，长耳坠",
+                "position": "画面中央",
+                "action": "低头，神情悲伤",
+                "expression": "眉毛下垂，眼神哀伤，嘴唇紧闭"
+            }
+        ],
+        "background": "深色背景。",
+        "description_narrative": "王妃面部特写，她低着头，神情变得悲伤，似乎在回忆或确认关于王爷母妃的往事。",
+        "dialogue": "我记得你母妃已经过世了，对吧？",
+        "speaker": "王妃",
+        "emotion": "悲伤/确认",
+        "duration": 5.2,
+        "description_visual": "特写俯拍镜头；深色背景。；画面中央人物，身穿白色刺绣古装，长耳坠，低头，神情悲伤，表情：眉毛下垂，眼神哀伤，嘴唇紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装，银色发冠",
+                "position": "画面右侧",
+                "action": "侧脸，神情 grim",
+                "expression": "眼神冰冷，嘴角紧绷"
+            }
+        ],
+        "background": "模糊的深色背景。",
+        "description_narrative": "王爷侧脸特写，他神情变得冰冷严肃，眼神中透着恨意，揭露了母妃去世的真相。",
+        "dialogue": "她是被睿王爷害的。",
+        "speaker": "王爷",
+        "emotion": "愤怒/悲伤",
+        "duration": 5.04,
+        "description_visual": "特写侧拍镜头；模糊的深色背景。；画面右侧人物，身穿浅色金纹古装，银色发冠，侧脸，神情 grim，表情：眼神冰冷，嘴角紧绷。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "抬头，神情震惊",
+                "expression": "眼睛睁大，眉毛上扬，嘴唇微张"
+            }
+        ],
+        "background": "深色背景。",
+        "description_narrative": "王妃面部特写，她听到真相后露出震惊的神情，眼睛睁大，似乎难以置信。",
+        "dialogue": "啊",
+        "speaker": "王妃",
+        "emotion": "震惊",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；深色背景。；画面中央人物，身穿白色刺绣古装，抬头，神情震惊，表情：眼睛睁大，眉毛上扬，嘴唇微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色金纹古装，银色发冠",
+                "position": "画面右侧",
+                "action": "注视王妃，语气严厉",
+                "expression": "眉毛紧锁，眼神坚定，嘴唇微动"
+            }
+        ],
+        "background": "模糊的深色背景。",
+        "description_narrative": "王爷侧脸特写，他神情严肃地看着王妃，语气严厉地禁止她与仇敌见面。",
+        "dialogue": "所以我不准你和睿王爷见面。",
+        "speaker": "王爷",
+        "emotion": "严厉/保护",
+        "duration": 4.12,
+        "description_visual": "特写侧拍镜头；模糊的深色背景。；画面右侧人物，身穿浅色金纹古装，银色发冠，注视王妃，语气严厉，表情：眉毛紧锁，眼神坚定，嘴唇微动。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "点头，眼神顺从",
+                "expression": "眉毛舒展，眼神坚定，嘴唇微动"
+            }
+        ],
+        "background": "深色背景。",
+        "description_narrative": "王妃面部特写，她看着王爷，神情顺从且坚定，点头答应了他的要求。",
+        "dialogue": "好，我答应你。",
+        "speaker": "王妃",
+        "emotion": "顺从/坚定",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；深色背景。；画面中央人物，身穿白色刺绣古装，点头，眼神顺从，表情：眉毛舒展，眼神坚定，嘴唇微动。"
+    }
+]

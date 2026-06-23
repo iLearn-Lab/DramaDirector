@@ -1,0 +1,640 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面右侧",
+                "action": "双手持蓝色册子立于胸前，身体微向前倾",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面左侧前景",
+                "action": "背对镜头端坐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内书房，背景有烛台和屏风，光线柔和偏暗",
+        "description_narrative": "中景固定镜头，下属官员身穿紫色官服，手持蓝色册子站在桌前，神情恭敬地向左侧前景背对镜头的太子行礼问候。",
+        "dialogue": "殿下",
+        "speaker": "下属官员",
+        "emotion": "恭敬",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；室内书房，背景有烛台和屏风，光线柔和偏暗；画面右侧人物，身穿紫色官服，黑色官帽，双手持蓝色册子立于胸前，身体微向前倾，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面左侧前景人物，身穿浅黄色龙纹长袍，背对镜头端坐，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面右侧",
+                "action": "双手抱册，身体挺直，目光专注",
+                "expression": "眉毛舒展，眼睛直视，嘴巴开合说话"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面左侧前景",
+                "action": "端坐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内书房，烛火摇曳，背景虚化",
+        "description_narrative": "中景固定镜头，下属官员向太子汇报杨可为供词属实，并询问是否通知锦衣卫行动，神情严肃认真。",
+        "dialogue": "杨可为供词属实，是不是通知锦衣卫攻击羽林卫兵营？",
+        "speaker": "下属官员",
+        "emotion": "严肃",
+        "duration": 7.88,
+        "description_visual": "中景平拍镜头；室内书房，烛火摇曳，背景虚化；画面右侧人物，身穿紫色官服，黑色官帽，双手抱册，身体挺直，目光专注，表情：眉毛舒展，眼睛直视，嘴巴开合说话；画面左侧前景人物，身穿浅黄色龙纹长袍，端坐，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍，金色发冠",
+                "position": "画面中央",
+                "action": "端坐桌前，右手握拳轻抵桌面",
+                "expression": "眉毛微扬，眼睛睁大，嘴巴微张说出否定词"
+            }
+        ],
+        "background": "室内书房，背景有挂画，光线明亮",
+        "description_narrative": "近景固定镜头，太子身穿浅黄色龙纹长袍，头戴金色发冠，听到建议后立刻出言拒绝，神情果断。",
+        "dialogue": "不可",
+        "speaker": "太子",
+        "emotion": "果断",
+        "duration": 4.36,
+        "description_visual": "近景平拍镜头；室内书房，背景有挂画，光线明亮；画面中央人物，身穿浅黄色龙纹长袍，金色发冠，端坐桌前，右手握拳轻抵桌面，表情：眉毛微扬，眼睛睁大，嘴巴微张说出否定词。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面左侧",
+                "action": "坐在桌后，双手放在桌上",
+                "expression": "神情严肃，目光直视前方"
+            },
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面右侧",
+                "action": "站立，手持拂尘",
+                "expression": "侧脸倾听，神情专注"
+            }
+        ],
+        "background": "宽敞的书房，桌上有书卷香炉，背景墙有水墨画",
+        "description_narrative": "全景固定镜头，太子坐在桌后解释拒绝原因，指出若锦衣卫倾巢而出会导致朝廷防备空虚，下属官员在一旁恭敬聆听。",
+        "dialogue": "不可。锦衣卫倾巢而出，朝廷内防备空虚。",
+        "speaker": "太子",
+        "emotion": "冷静",
+        "duration": 5.8,
+        "description_visual": "全景平拍镜头；宽敞的书房，桌上有书卷香炉，背景墙有水墨画；画面左侧人物，身穿浅黄色龙纹长袍，坐在桌后，双手放在桌上，表情：神情严肃，目光直视前方；画面右侧人物，身穿紫色官服，站立，手持拂尘，表情：侧脸倾听，神情专注。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服，黑色官帽",
+                "position": "画面中央",
+                "action": "低头看着手中的册子",
+                "expression": "眉毛紧锁，眼神向下，嘴巴微动"
+            }
+        ],
+        "background": "背景虚化，可见烛光点点",
+        "description_narrative": "特写固定镜头，下属官员低头看着册子，意识到这是齐泰的奸计，神情变得凝重。",
+        "dialogue": "这才是齐泰这个老东西的奸计。殿下。",
+        "speaker": "下属官员",
+        "emotion": "凝重",
+        "duration": 5.56,
+        "description_visual": "特写平拍镜头；背景虚化，可见烛光点点；画面中央人物，身穿紫色官服，黑色官帽，低头看着手中的册子，表情：眉毛紧锁，眼神向下，嘴巴微动。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "双手抱册，身体微倾",
+                "expression": "眉头紧皱，眼神急切，嘴巴开合"
+            }
+        ],
+        "background": "室内，背景有模糊的烛光",
+        "description_narrative": "近景固定镜头，下属官员进一步分析若不及时出手，脏银会被转移，得不偿失，语气中带着焦急。",
+        "dialogue": "若不及时出手，脏银被他们转移，可就得不偿失了。",
+        "speaker": "下属官员",
+        "emotion": "焦急",
+        "duration": 8.12,
+        "description_visual": "近景平拍镜头；室内，背景有模糊的烛光；画面中央人物，身穿紫色官服，双手抱册，身体微倾，表情：眉头紧皱，眼神急切，嘴巴开合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面中央",
+                "action": "端坐，目光深沉",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景简洁",
+        "description_narrative": "近景固定镜头，太子沉思片刻后下达指令，要求散布消息说真凶已抓到，以观察各方反应。",
+        "dialogue": "这样你把消息散布出去，就说幕后真凶被抓到了，看看各方反应。",
+        "speaker": "太子",
+        "emotion": "深沉",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；室内，背景简洁；画面中央人物，身穿浅黄色龙纹长袍，端坐，目光深沉，表情：眉毛微蹙，眼神锐利，嘴唇紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "低头拱手",
+                "expression": "眉毛下垂，眼睛向下看，嘴巴微动"
+            }
+        ],
+        "background": "背景虚化，烛光温暖",
+        "description_narrative": "特写固定镜头，下属官员领命，低头表示遵命，神情恭顺。",
+        "dialogue": "遵命。",
+        "speaker": "下属官员",
+        "emotion": "恭顺",
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；背景虚化，烛光温暖；画面中央人物，身穿紫色官服，低头拱手，表情：眉毛下垂，眼睛向下看，嘴巴微动。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "低头翻阅手中的蓝色册子",
+                "expression": "专注，眉毛微蹙"
+            }
+        ],
+        "background": "背景虚化，烛光点点",
+        "description_narrative": "特写固定镜头，下属官员低头翻阅手中的蓝色册子，动作轻柔。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；背景虚化，烛光点点；画面中央人物，身穿紫色官服，低头翻阅手中的蓝色册子，表情：专注，眉毛微蹙。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "双手拿着册子，准备递出",
+                "expression": "神情认真"
+            }
+        ],
+        "background": "背景虚化",
+        "description_narrative": "特写固定镜头，下属官员拿着册子，似乎发现了什么，准备呈给太子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "认真",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；背景虚化；画面中央人物，身穿紫色官服，双手拿着册子，准备递出，表情：神情认真。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面上方",
+                "action": "双手将蓝色册子递向前方",
+                "expression": "不可见"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面下方",
+                "action": "伸手准备接册子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑色雕花桌面",
+        "description_narrative": "特写俯拍镜头，下属官员双手将一本蓝色封面的册子递到桌前，太子伸手准备接过。",
+        "dialogue": "殿下",
+        "speaker": "下属官员",
+        "emotion": "恭敬",
+        "duration": 0.72,
+        "description_visual": "特写俯拍镜头；黑色雕花桌面；画面上方人物，身穿紫色官服，双手将蓝色册子递向前方，表情：不可见；画面下方人物，身穿浅黄色龙纹长袍，伸手准备接册子，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面右侧",
+                "action": "双手递送册子",
+                "expression": "神情郑重"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面左侧前景",
+                "action": "背对镜头，伸手接册子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "书房内，烛台在背景中",
+        "description_narrative": "过肩中景固定镜头，下属官员将册子递给太子，并介绍这是镇国将军的起居录。",
+        "dialogue": "这是镇国将军",
+        "speaker": "下属官员",
+        "emotion": "郑重",
+        "duration": 1.28,
+        "description_visual": "中景过肩镜头；书房内，烛台在背景中；画面右侧人物，身穿紫色官服，双手递送册子，表情：神情郑重；画面左侧前景人物，身穿浅黄色龙纹长袍，背对镜头，伸手接册子，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面中央",
+                "action": "双手接过册子，低头查看",
+                "expression": "眉毛微蹙，眼神专注"
+            }
+        ],
+        "background": "室内，背景简洁",
+        "description_narrative": "特写固定镜头，太子接过册子，低头查看封面上的字迹，神情专注。",
+        "dialogue": "这是镇国将军苏振天的起居录",
+        "speaker": "下属官员",
+        "emotion": "专注",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；室内，背景简洁；画面中央人物，身穿浅黄色龙纹长袍，双手接过册子，低头查看，表情：眉毛微蹙，眼神专注。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面右侧",
+                "action": "站立，双手交叠",
+                "expression": "等待指示"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面左侧前景",
+                "action": "手持册子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "书房，烛火摇曳",
+        "description_narrative": "过肩中景固定镜头，太子拿着起居录询问有什么新发现，下属官员站立等待回答。",
+        "dialogue": "说说看，有什么新发现？",
+        "speaker": "太子",
+        "emotion": "好奇",
+        "duration": 5.48,
+        "description_visual": "中景过肩镜头；书房，烛火摇曳；画面右侧人物，身穿紫色官服，站立，双手交叠，表情：等待指示；画面左侧前景人物，身穿浅黄色龙纹长袍，手持册子，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "低头陈述",
+                "expression": "眉毛微蹙，眼神认真"
+            }
+        ],
+        "background": "背景虚化，烛光温暖",
+        "description_narrative": "特写固定镜头，下属官员开始汇报，提到苏将军是开国军神之后，与皇帝有莫逆之交。",
+        "dialogue": "苏将军乃是开国军神之后，又与当今圣上是莫逆之交。",
+        "speaker": "下属官员",
+        "emotion": "认真",
+        "duration": 6.84,
+        "description_visual": "特写平拍镜头；背景虚化，烛光温暖；画面中央人物，身穿紫色官服，低头陈述，表情：眉毛微蹙，眼神认真。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面左侧",
+                "action": "坐在桌后，手持玉扳指",
+                "expression": "倾听"
+            },
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面右侧",
+                "action": "站立汇报",
+                "expression": "恭敬"
+            }
+        ],
+        "background": "书房全景，桌上有书卷",
+        "description_narrative": "全景固定镜头，下属官员继续汇报苏将军五年前被贬后不再过问朝政，太子坐在桌后静静聆听。",
+        "dialogue": "只是五年前，不知为何被陛下一撸到底，从此再也不问朝政。",
+        "speaker": "下属官员",
+        "emotion": "陈述",
+        "duration": 7.64,
+        "description_visual": "全景平拍镜头；书房全景，桌上有书卷；画面左侧人物，身穿浅黄色龙纹长袍，坐在桌后，手持玉扳指，表情：倾听；画面右侧人物，身穿紫色官服，站立汇报，表情：恭敬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面中央",
+                "action": "手指转动玉扳指",
+                "expression": "眼神微动，若有所思"
+            }
+        ],
+        "background": "室内，背景简洁",
+        "description_narrative": "近景固定镜头，太子手指转动玉扳指，听到下属汇报上柱国曾想联姻被拒，神情变得深沉。",
+        "dialogue": "另外，上柱国曾想与苏将军联姻，被严辞拒绝。",
+        "speaker": "下属官员",
+        "emotion": "深沉",
+        "duration": 7.76,
+        "description_visual": "近景平拍镜头；室内，背景简洁；画面中央人物，身穿浅黄色龙纹长袍，手指转动玉扳指，表情：眼神微动，若有所思。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属官员",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "神情谨慎"
+            }
+        ],
+        "background": "背景虚化",
+        "description_narrative": "特写固定镜头，太子画外音响起，推断齐泰想拉拢苏将军谋反，并怒斥齐泰活腻了，下属官员低头聆听。",
+        "dialogue": "他是想拉拢苏将军一块谋反吧？齐泰这个老东西，我看他是活腻了。",
+        "speaker": "太子",
+        "emotion": "愤怒",
+        "duration": 9.96,
+        "description_visual": "特写平拍镜头；背景虚化；画面中央人物，身穿紫色官服，低头，表情：神情谨慎。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面中央",
+                "action": "端坐，目光冷峻",
+                "expression": "眉毛微挑，眼神锐利"
+            }
+        ],
+        "background": "室内，光线柔和",
+        "description_narrative": "近景固定镜头，下属官员画外音继续汇报齐泰儿子讨好苏将军之女，太子目光冷峻地听着。",
+        "dialogue": "齐泰儿子齐东强，虽被拒婚，却一直想方设法地讨好苏雨琪。",
+        "speaker": "下属官员",
+        "emotion": "冷峻",
+        "duration": 6.04,
+        "description_visual": "近景平拍镜头；室内，光线柔和；画面中央人物，身穿浅黄色龙纹长袍，端坐，目光冷峻，表情：眉毛微挑，眼神锐利。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面",
+        "description_narrative": "黑屏过渡，太子的声音传来，斥责齐泰儿子自不量力。",
+        "dialogue": "自不量力的东西。",
+        "speaker": "太子",
+        "emotion": "轻蔑",
+        "duration": 3.16,
+        "description_visual": "特写平拍镜头；全黑画面。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐爱嫔",
+                "gender": "女",
+                "clothing": "粉色纱衣",
+                "position": "画面右侧",
+                "action": "坐在床上，手扶额头",
+                "expression": "眉头紧锁，神情忧虑"
+            }
+        ],
+        "background": "寝宫，床幔垂下，烛光昏暗",
+        "description_narrative": "中景固定镜头，场景切换至寝宫，齐爱嫔身穿粉色纱衣坐在床上，手扶额头，显得心神不宁。",
+        "dialogue": "齐爱嫔如此心神不宁",
+        "speaker": "太子",
+        "emotion": "忧虑",
+        "duration": 5.32,
+        "description_visual": "中景平拍镜头；寝宫，床幔垂下，烛光昏暗；画面右侧人物，身穿粉色纱衣，坐在床上，手扶额头，表情：眉头紧锁，神情忧虑。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐爱嫔",
+                "gender": "女",
+                "clothing": "粉色纱衣",
+                "position": "画面右侧",
+                "action": "侧身坐着，目光游离",
+                "expression": "眼神躲闪，嘴唇微张"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面左侧",
+                "action": "坐在床边",
+                "expression": "不可见"
+            }
+        ],
+        "background": "寝宫，床幔花纹清晰",
+        "description_narrative": "中近景固定镜头，齐爱嫔侧身坐着，神情不安，太子画外音询问她是否因为杨可为的事。",
+        "dialogue": "心神不宁",
+        "speaker": "太子",
+        "emotion": "不安",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；寝宫，床幔花纹清晰；画面右侧人物，身穿粉色纱衣，侧身坐着，目光游离，表情：眼神躲闪，嘴唇微张；画面左侧人物，身穿浅黄色龙纹长袍，坐在床边，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐爱嫔",
+                "gender": "女",
+                "clothing": "粉色纱衣",
+                "position": "画面右侧",
+                "action": "转头看向太子",
+                "expression": "眉毛微蹙，眼神复杂"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面左侧",
+                "action": "侧脸",
+                "expression": "不可见"
+            }
+        ],
+        "background": "寝宫，背景虚化",
+        "description_narrative": "近景固定镜头，齐爱嫔转头看向太子，太子询问她是否因为杨可为的事而心神不宁。",
+        "dialogue": "该不会是因为杨可为的事吧",
+        "speaker": "太子",
+        "emotion": "试探",
+        "duration": 3.16,
+        "description_visual": "近景平拍镜头；寝宫，背景虚化；画面右侧人物，身穿粉色纱衣，转头看向太子，表情：眉毛微蹙，眼神复杂；画面左侧人物，身穿浅黄色龙纹长袍，侧脸，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面中央",
+                "action": "低头沉思，随后抬头",
+                "expression": "眼神冷冽，嘴角微动"
+            }
+        ],
+        "background": "室内，烛光温暖",
+        "description_narrative": "近景固定镜头，齐爱嫔画外音说杨可为死有余辜，太子随即反问为何要让他生不如死，神情冷酷。",
+        "dialogue": "他贪赃枉法，杀死他是应该的。不过……不过什么？杀人的方法有一千种，为何又让他生不如死呢？",
+        "speaker": "太子",
+        "emotion": "冷酷",
+        "duration": 11.44,
+        "description_visual": "近景平拍镜头；室内，烛光温暖；画面中央人物，身穿浅黄色龙纹长袍，低头沉思，随后抬头，表情：眼神冷冽，嘴角微动。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "浅黄色龙纹长袍",
+                "position": "画面中央",
+                "action": "目光坚定，语气严厉",
+                "expression": "眉毛紧锁，眼神锐利，嘴巴开合"
+            }
+        ],
+        "background": "室内，背景简洁",
+        "description_narrative": "近景固定镜头，太子冷酷地表示对大奸大恶之人直接杀死太便宜，唯有严惩才能警醒天下人。",
+        "dialogue": "像这种大奸大恶之人，直接要了他狗命都算便宜了他。只有这样才能警醒这天下人。",
+        "speaker": "太子",
+        "emotion": "严厉",
+        "duration": 11.24,
+        "description_visual": "近景平拍镜头；室内，背景简洁；画面中央人物，身穿浅黄色龙纹长袍，目光坚定，语气严厉，表情：眉毛紧锁，眼神锐利，嘴巴开合。"
+    }
+]

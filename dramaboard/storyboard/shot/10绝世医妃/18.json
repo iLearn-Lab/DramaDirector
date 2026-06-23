@@ -1,0 +1,555 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面右侧",
+                "action": "拥抱女子",
+                "expression": "神情温柔"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面左侧",
+                "action": "被明王拥抱，头靠在明王胸前",
+                "expression": "闭眼，神情安宁"
+            }
+        ],
+        "background": "剧集封面，包含标题文字“绝世医妃”及“第十八集”，背景为室内窗景",
+        "description_narrative": "全景固定镜头，展示剧集封面。明王身穿紫色长袍在右侧拥抱身穿粉紫色古装的女子，女子头靠在他胸前闭眼，背景有窗户和盆栽，画面叠加金色大字标题。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "全景平拍镜头；剧集封面，包含标题文字“绝世医妃”及“第十八集”，背景为室内窗景；画面右侧人物，身穿紫色长袍，拥抱女子，表情：神情温柔；画面左侧人物，身穿粉紫色古装，被明王拥抱，头靠在明王胸前，表情：闭眼，神情安宁。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神凌厉",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "室内场景，背景有蓝色窗帘和深色木质家具，光线柔和",
+        "description_narrative": "中近景固定镜头，明王身穿紫色长袍头戴银色发冠站在室内，神情威严，头部微侧，眼神凌厉地看向前方，嘴巴微张正在说话。",
+        "dialogue": "我看谁敢动本王的王妃。",
+        "speaker": "明王",
+        "emotion": "愤怒/威严",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；室内场景，背景有蓝色窗帘和深色木质家具，光线柔和；画面中央人物，身穿紫色长袍，银色发冠，站立，头部微侧，眼神凌厉，表情：眉毛微蹙，眼睛直视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装，金色滚边",
+                "position": "画面中央",
+                "action": "站立，双手交叠在身前拿着白色手帕",
+                "expression": "眉毛低垂，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "室内窗边，光线明亮，背景有白色窗格",
+        "description_narrative": "中景固定镜头，女子身穿粉紫色古装站在窗边，双手在身前拿着白色手帕，头微微低下，眼神向下，表情显得委屈不安。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "委屈/不安",
+        "duration": 1.32,
+        "description_visual": "中景平拍镜头；室内窗边，光线明亮，背景有白色窗格；画面中央人物，身穿粉紫色古装，金色滚边，站立，双手交叠在身前拿着白色手帕，表情：眉毛低垂，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "面部特写，眼神严肃",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微动"
+            }
+        ],
+        "background": "室内背景模糊，可见深色木质屏风",
+        "description_narrative": "特写固定镜头，明王面部表情严肃，眉毛紧锁，眼神直视前方，正在训斥，背景为模糊的深色木质屏风。",
+        "dialogue": "没有经过本王的同意就私自出府，你知道。",
+        "speaker": "明王",
+        "emotion": "严厉",
+        "duration": 3.36,
+        "description_visual": "特写平拍镜头；室内背景模糊，可见深色木质屏风；画面中央人物，身穿紫色长袍，银色发冠，面部特写，眼神严肃，表情：眉毛紧锁，眼睛直视，嘴巴微动。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面中央",
+                "action": "低头，眼神躲闪",
+                "expression": "眉毛微蹙，眼睛向下看，嘴唇微抿"
+            }
+        ],
+        "background": "暗色背景，光线集中在人物面部",
+        "description_narrative": "特写固定镜头，女子低着头，眼神向下躲闪，神情惶恐，正在聆听明王的训斥，背景较暗。",
+        "dialogue": "如果本王没有及时赶到。",
+        "speaker": "明王",
+        "emotion": "恐惧",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；暗色背景，光线集中在人物面部；画面中央人物，身穿粉紫色古装，低头，眼神躲闪，表情：眉毛微蹙，眼睛向下看，嘴唇微抿。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面中央",
+                "action": "说话，表情严肃",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，可见窗户格栅",
+        "description_narrative": "特写固定镜头，明王表情严肃，眉毛上扬，眼睛睁大，嘴巴张开正在质问，背景可见窗户格栅。",
+        "dialogue": "后果有多严重吗？",
+        "speaker": "明王",
+        "emotion": "质问",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；室内背景，可见窗户格栅；画面中央人物，身穿紫色长袍，说话，表情严肃，表情：眉毛上扬，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面中央",
+                "action": "抬头，眼神略带惊慌",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "暗色背景",
+        "description_narrative": "特写固定镜头，女子抬头，眉毛紧蹙，眼睛睁大带着惊慌，嘴巴微张似乎想要辩解。",
+        "dialogue": "我知道错了。",
+        "speaker": "女子",
+        "emotion": "惊慌/认错",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；暗色背景；画面中央人物，身穿粉紫色古装，抬头，眼神略带惊慌，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面右侧",
+                "action": "侧脸，眼神深沉",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木质家具背景",
+        "description_narrative": "特写固定镜头，明王侧脸对着镜头，眼神深沉，眉毛微挑，嘴巴紧闭，似乎在等待对方的回答。",
+        "dialogue": "你就这么讨厌本王？",
+        "speaker": "明王",
+        "emotion": "失望/探究",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；深色木质家具背景；画面右侧人物，身穿紫色长袍，侧脸，眼神深沉，表情：眉毛微挑，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面中央",
+                "action": "眼神坚定又带怯意",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微动说话"
+            }
+        ],
+        "background": "暗色背景",
+        "description_narrative": "特写固定镜头，女子眼神坚定又带怯意，眉毛微蹙，直视前方，嘴巴微动正在解释自己的心意。",
+        "dialogue": "不想嫁给本王吗？我没有讨厌王爷，我只是觉得我配不上你。",
+        "speaker": "女子",
+        "emotion": "诚恳/自卑",
+        "duration": 4.48,
+        "description_visual": "特写平拍镜头；暗色背景；画面中央人物，身穿粉紫色古装，眼神坚定又带怯意，表情：眉毛微蹙，眼睛直视，嘴巴微动说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面右侧",
+                "action": "双手抓住女子肩膀",
+                "expression": "侧脸，神情霸道"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面左侧",
+                "action": "被抓住肩膀，身体微僵",
+                "expression": "抬头看着明王，神情复杂"
+            }
+        ],
+        "background": "室内，深色雕花木屏风背景",
+        "description_narrative": "中景固定镜头，明王站在右侧双手抓住左侧女子的肩膀，神情霸道，女子抬头看着他，身体微僵，背景是雕花木屏风。",
+        "dialogue": "配不配得上本王？本王说了算。",
+        "speaker": "明王",
+        "emotion": "霸道/占有欲",
+        "duration": 2.8,
+        "description_visual": "中景平拍镜头；室内，深色雕花木屏风背景；画面右侧人物，身穿紫色长袍，双手抓住女子肩膀，表情：侧脸，神情霸道；画面左侧人物，身穿粉紫色古装，被抓住肩膀，身体微僵，表情：抬头看着明王，神情复杂。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面中央",
+                "action": "低头，眉头紧锁",
+                "expression": "眉毛紧蹙，眼睛向下，嘴唇紧闭"
+            }
+        ],
+        "background": "暗色背景",
+        "description_narrative": "特写固定镜头，女子低着头，眉头紧锁，眼神向下，似乎在犹豫是否要问出那个问题。",
+        "dialogue": "那我问你，之前九任妻子",
+        "speaker": "女子",
+        "emotion": "犹豫/恐惧",
+        "duration": 2.76,
+        "description_visual": "特写平拍镜头；暗色背景；画面中央人物，身穿粉紫色古装，低头，眉头紧锁，表情：眉毛紧蹙，眼睛向下，嘴唇紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面中央",
+                "action": "抬头，眼神锐利",
+                "expression": "眉毛上扬，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "暗色背景",
+        "description_narrative": "特写固定镜头，女子突然抬头，眉毛上扬，眼神锐利地直视前方，嘴巴微张问出关键问题。",
+        "dialogue": "是怎么死的？",
+        "speaker": "女子",
+        "emotion": "紧张/探究",
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头；暗色背景；画面中央人物，身穿粉紫色古装，抬头，眼神锐利，表情：眉毛上扬，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面中央",
+                "action": "闭眼，神情冷漠",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微动"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，明王闭着眼睛，神情冷漠，眉毛舒展，缓缓说出惊人的事实。",
+        "dialogue": "本王杀的。",
+        "speaker": "明王",
+        "emotion": "冷漠/坦然",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；室内背景，光线柔和；画面中央人物，身穿紫色长袍，闭眼，神情冷漠，表情：眉毛舒展，眼睛闭合，嘴巴微动。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面中央",
+                "action": "眼神惊恐",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "暗色背景",
+        "description_narrative": "特写固定镜头，女子听到回答后眼神惊恐，眉毛紧蹙，眼睛睁大，嘴巴微张，充满了恐惧。",
+        "dialogue": "那你也会杀我吗？",
+        "speaker": "女子",
+        "emotion": "极度恐惧",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；暗色背景；画面中央人物，身穿粉紫色古装，眼神惊恐，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面中央",
+                "action": "眼神平静",
+                "expression": "眉毛平展，眼睛直视，嘴巴微动"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写固定镜头，明王眼神平静，眉毛平展，直视前方，给出条件式的承诺。",
+        "dialogue": "如果你听话，本王不杀你。",
+        "speaker": "明王",
+        "emotion": "冷静/威胁",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿紫色长袍，眼神平静，表情：眉毛平展，眼睛直视，嘴巴微动。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面中央",
+                "action": "眼神哀求",
+                "expression": "眉毛微蹙，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "暗色背景",
+        "description_narrative": "特写固定镜头，女子眼神哀求，眉毛微蹙，眼睛里含着泪水，嘴巴微张乞求明王不要杀她。",
+        "dialogue": "王爷，我很乖的，不要杀我好不好？",
+        "speaker": "女子",
+        "emotion": "哀求/恐惧",
+        "duration": 3.48,
+        "description_visual": "特写平拍镜头；暗色背景；画面中央人物，身穿粉紫色古装，眼神哀求，表情：眉毛微蹙，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面中央",
+                "action": "闭眼后睁开，神情笃定",
+                "expression": "眉毛微挑，眼睛睁开，嘴巴微动"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写固定镜头，明王闭眼后睁开，神情笃定，眉毛微挑，宣布已经定下的婚期。",
+        "dialogue": "我已经禀奏太后，三日后成婚。",
+        "speaker": "明王",
+        "emotion": "笃定",
+        "duration": 3.56,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿紫色长袍，闭眼后睁开，神情笃定，表情：眉毛微挑，眼睛睁开，嘴巴微动。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面左侧",
+                "action": "站立，双手垂下",
+                "expression": "低头，神情落寞"
+            },
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面右侧",
+                "action": "站立，侧身看着女子",
+                "expression": "神情严肃"
+            }
+        ],
+        "background": "室内，雕花木屏风背景",
+        "description_narrative": "中景固定镜头，女子站在左侧低头神情落寞，明王站在右侧侧身看着她，两人之间保持一定距离，背景是雕花木屏风。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "压抑",
+        "duration": 3.12,
+        "description_visual": "中景平拍镜头；室内，雕花木屏风背景；画面左侧人物，身穿粉紫色古装，站立，双手垂下，表情：低头，神情落寞；画面右侧人物，身穿紫色长袍，站立，侧身看着女子，表情：神情严肃。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "粉紫色古装",
+                "position": "画面中央",
+                "action": "眼神空洞",
+                "expression": "眉毛舒展，眼睛向下，嘴巴微张"
+            }
+        ],
+        "background": "暗色背景",
+        "description_narrative": "特写固定镜头，女子眼神空洞，眉毛舒展，眼睛向下看，嘴巴微张，似乎在自言自语确认这个事实。",
+        "dialogue": "我真的要嫁给明王了。",
+        "speaker": "女子",
+        "emotion": "无奈/认命",
+        "duration": 3.28,
+        "description_visual": "特写平拍镜头；暗色背景；画面中央人物，身穿粉紫色古装，眼神空洞，表情：眉毛舒展，眼睛向下，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面中央",
+                "action": "站立，转头看向一侧",
+                "expression": "神情恢复平静"
+            }
+        ],
+        "background": "室内，木质镂空隔断背景",
+        "description_narrative": "中景固定镜头，明王身穿紫色长袍站立，转头看向一侧，神情恢复平静，似乎在听下属汇报。",
+        "dialogue": "王爷，你要的东西找到了。",
+        "speaker": "下属",
+        "emotion": "恭敬",
+        "duration": 2.44,
+        "description_visual": "中景平拍镜头；室内，木质镂空隔断背景；画面中央人物，身穿紫色长袍，站立，转头看向一侧，表情：神情恢复平静。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面中央",
+                "action": "转身，手部动作",
+                "expression": "神情专注"
+            }
+        ],
+        "background": "室内，木质镂空隔断背景",
+        "description_narrative": "中景固定镜头，明王转身，手部有细微动作，神情专注，似乎在接过下属递来的东西。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；室内，木质镂空隔断背景；画面中央人物，身穿紫色长袍，转身，手部动作，表情：神情专注。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "下属",
+                "gender": "男",
+                "clothing": "蓝色布衣",
+                "position": "画面中央",
+                "action": "低头，眼神疑惑",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，下属身穿蓝色布衣，低着头，眉毛微蹙，眼神带着疑惑，嘴巴微张询问明王。",
+        "dialogue": "这个东西对你很重要吗？",
+        "speaker": "下属",
+        "emotion": "疑惑",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿蓝色布衣，低头，眼神疑惑，表情：眉毛微蹙，眼睛向下，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面中央",
+                "action": "眼神温柔又复杂",
+                "expression": "眉毛舒展，眼睛微垂，嘴巴微动"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写固定镜头，明王眼神温柔又复杂，眉毛舒展，眼睛微垂，嘴巴微动，吐露内心对女子的真实情感。",
+        "dialogue": "本王也不知道什么时候她在我心里已经无法替代了。本王的心意你能明白吗？",
+        "speaker": "明王",
+        "emotion": "深情/矛盾",
+        "duration": 8.8,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿紫色长袍，眼神温柔又复杂，表情：眉毛舒展，眼睛微垂，嘴巴微动。"
+    }
+]

@@ -1,0 +1,541 @@
+[
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "头部微低，视线向下，神情略显沉重",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内卧室，暖黄色墙壁，光线柔和",
+        "description_narrative": "近景固定镜头，睿宸身穿白色衬衫站在画面中央，头部微低，视线向下，神情略显沉重，背景是暖黄色的卧室墙壁。",
+        "dialogue": "睿宸哥哥",
+        "speaker": "小婉",
+        "emotion": "沉重",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；室内卧室，暖黄色墙壁，光线柔和；画面中央人物，身穿白色衬衫，头部微低，视线向下，神情略显沉重，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面右侧",
+                "action": "抬头仰望，眼神充满期待",
+                "expression": "眉毛舒展，眼睛向上凝视，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景虚化，可见金色装饰和暖光",
+        "description_narrative": "特写仰拍镜头，小婉身穿米色珠领连衣裙位于画面右侧，抬头仰望，眼神充满期待，背景是虚化的卧室金色装饰和暖光。",
+        "dialogue": "你今晚要不要留下来",
+        "speaker": "小婉",
+        "emotion": "期待",
+        "duration": 1.76,
+        "description_visual": "特写仰拍镜头；卧室背景虚化，可见金色装饰和暖光；画面右侧人物，身穿米色珠领连衣裙，抬头仰望，眼神充满期待，表情：眉毛舒展，眼睛向上凝视，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "站立，低头看着对方",
+                "expression": "眉毛平展，眼睛向下看，嘴巴紧闭"
+            },
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面右侧",
+                "action": "跪坐在床边，抬头看着对方",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "卧室，可见床铺和木质百叶窗门",
+        "description_narrative": "中景固定镜头，睿宸身穿白衬衫黑长裤站在左侧，低头看着右侧跪坐在床边的小婉，小婉身穿米色连衣裙抬头看着他，背景是卧室床铺和木门。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "对峙",
+        "duration": 1.92,
+        "description_visual": "中景平拍镜头；卧室，可见床铺和木质百叶窗门；画面左侧人物，身穿白色衬衫，黑色长裤，站立，低头看着对方，表情：眉毛平展，眼睛向下看，嘴巴紧闭；画面右侧人物，身穿米色珠领连衣裙，跪坐在床边，抬头看着对方，表情：眉毛微挑，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面右侧",
+                "action": "侧脸抬头，眼神略带试探",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，木质百叶窗模糊可见",
+        "description_narrative": "特写仰拍镜头，小婉位于画面右侧，侧脸抬头，眼神略带试探，背景是模糊的木质百叶窗。",
+        "dialogue": "我心里已经有数了",
+        "speaker": "睿宸",
+        "emotion": "试探",
+        "duration": 3.16,
+        "description_visual": "特写仰拍镜头；卧室背景，木质百叶窗模糊可见；画面右侧人物，身穿米色珠领连衣裙，侧脸抬头，眼神略带试探，表情：眉毛微蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧前景",
+                "action": "身体前倾，低头",
+                "expression": "眉毛低垂，眼睛向下，嘴巴紧闭"
+            },
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面右侧后景",
+                "action": "坐在床上，抬头仰望",
+                "expression": "眉毛微蹙，眼睛向上凝视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，金色床头和木门",
+        "description_narrative": "中近景斜角镜头，睿宸在左侧前景身体前倾低头，小婉在右侧后景坐在床上抬头仰望，背景可见金色床头和木门。",
+        "dialogue": "你还是喜欢姐姐的对吗",
+        "speaker": "小婉",
+        "emotion": "委屈",
+        "duration": 3.6,
+        "description_visual": "中近景斜角镜头；卧室，金色床头和木门；画面左侧前景人物，身穿白色衬衫，身体前倾，低头，表情：眉毛低垂，眼睛向下，嘴巴紧闭；画面右侧后景人物，身穿米色珠领连衣裙，坐在床上，抬头仰望，表情：眉毛微蹙，眼睛向上凝视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "侧身站立，目光低垂",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张似在说话"
+            }
+        ],
+        "background": "室内暖色墙壁",
+        "description_narrative": "近景固定镜头，睿宸身穿白色衬衫侧身站在画面中央，目光低垂，表情愧疚，背景是暖色墙壁。",
+        "dialogue": "小婉 对不起",
+        "speaker": "睿宸",
+        "emotion": "愧疚",
+        "duration": 3.48,
+        "description_visual": "近景平拍镜头；室内暖色墙壁；画面中央人物，身穿白色衬衫，侧身站立，目光低垂，表情：眉毛微蹙，眼睛视线下移，嘴巴微张似在说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面中央",
+                "action": "抬头看着对方，眼神哀伤",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，金色装饰虚化",
+        "description_narrative": "特写仰拍镜头，小婉位于画面中央，抬头看着对方，眼神哀伤，背景是虚化的金色装饰。",
+        "dialogue": "这三年来 我无时无刻不在想你 但是",
+        "speaker": "睿宸",
+        "emotion": "哀伤",
+        "duration": 4.68,
+        "description_visual": "特写仰拍镜头；卧室背景，金色装饰虚化；画面中央人物，身穿米色珠领连衣裙，抬头看着对方，眼神哀伤，表情：眉毛微蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "站立，低头",
+                "expression": "眉毛低垂，眼睛向下，嘴巴紧闭"
+            },
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面右侧",
+                "action": "坐在床边，抬头制止",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "卧室，床铺和木门",
+        "description_narrative": "中景固定镜头，睿宸站在左侧低头，小婉坐在右侧床边抬头制止，背景是卧室床铺和木门。",
+        "dialogue": "睿宸哥哥不要再说了",
+        "speaker": "小婉",
+        "emotion": "制止",
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头；卧室，床铺和木门；画面左侧人物，身穿白色衬衫，黑色长裤，站立，低头，表情：眉毛低垂，眼睛向下，嘴巴紧闭；画面右侧人物，身穿米色珠领连衣裙，坐在床边，抬头制止，表情：眉毛微蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面中央",
+                "action": "抬头，表情痛苦",
+                "expression": "眉毛紧蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，金色装饰",
+        "description_narrative": "特写仰拍镜头，小婉位于画面中央，抬头，表情痛苦，背景是金色装饰。",
+        "dialogue": "早知道我就不该回来 或许",
+        "speaker": "小婉",
+        "emotion": "痛苦",
+        "duration": 2.56,
+        "description_visual": "特写仰拍镜头；卧室背景，金色装饰；画面中央人物，身穿米色珠领连衣裙，抬头，表情痛苦，表情：眉毛紧蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "侧身站立，神情凝重",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内暖色墙壁",
+        "description_narrative": "近景固定镜头，睿宸身穿白色衬衫侧身站在画面中央，神情凝重，背景是暖色墙壁。",
+        "dialogue": "我早该死在三年前 那个强暴的夜晚 这样",
+        "speaker": "小婉",
+        "emotion": "凝重",
+        "duration": 3.92,
+        "description_visual": "近景平拍镜头；室内暖色墙壁；画面中央人物，身穿白色衬衫，侧身站立，神情凝重，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "站立，低头",
+                "expression": "眉毛低垂，眼睛向下，嘴巴紧闭"
+            },
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面右侧",
+                "action": "坐在床边，抬头",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "卧室，床铺和木门",
+        "description_narrative": "中景固定镜头，睿宸站在左侧低头，小婉坐在右侧床边抬头，背景是卧室床铺和木门。",
+        "dialogue": "睿宸哥哥也不会为难",
+        "speaker": "小婉",
+        "emotion": "无奈",
+        "duration": 1.44,
+        "description_visual": "中景平拍镜头；卧室，床铺和木门；画面左侧人物，身穿白色衬衫，黑色长裤，站立，低头，表情：眉毛低垂，眼睛向下，嘴巴紧闭；画面右侧人物，身穿米色珠领连衣裙，坐在床边，抬头，表情：眉毛微蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面中央",
+                "action": "闭眼，表情悲伤",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，金色装饰",
+        "description_narrative": "特写仰拍镜头，小婉位于画面中央，闭眼，表情悲伤，背景是金色装饰。",
+        "dialogue": "还可以好好爱姐姐",
+        "speaker": "小婉",
+        "emotion": "悲伤",
+        "duration": 2.64,
+        "description_visual": "特写仰拍镜头；卧室背景，金色装饰；画面中央人物，身穿米色珠领连衣裙，闭眼，表情悲伤，表情：眉毛紧蹙，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "站立，眼神复杂",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内暖色墙壁",
+        "description_narrative": "近景固定镜头，睿宸身穿白色衬衫站在画面中央，眼神复杂，背景是暖色墙壁。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；室内暖色墙壁；画面中央人物，身穿白色衬衫，站立，眼神复杂，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面中央",
+                "action": "背对镜头，身体前倾",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室，金色床头",
+        "description_narrative": "中近景俯拍镜头，小婉身穿米色连衣裙背对镜头，身体前倾，背景是金色床头。",
+        "dialogue": "小婉 你不用着急离开",
+        "speaker": "睿宸",
+        "emotion": "安抚",
+        "duration": 2.0,
+        "description_visual": "中近景俯拍镜头；卧室，金色床头；画面中央人物，身穿米色珠领连衣裙，背对镜头，身体前倾，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "站立，目光低垂",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内暖色墙壁",
+        "description_narrative": "近景固定镜头，睿宸身穿白色衬衫站在画面中央，目光低垂，背景是暖色墙壁。",
+        "dialogue": "你就住在苏家",
+        "speaker": "睿宸",
+        "emotion": "平静",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；室内暖色墙壁；画面中央人物，身穿白色衬衫，站立，目光低垂，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面中央",
+                "action": "抬头看镜头方向，眼神闪烁",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，模糊",
+        "description_narrative": "特写俯拍镜头，小婉位于画面中央，抬头看镜头方向，眼神闪烁，背景模糊。",
+        "dialogue": "跟你姐姐有个照应",
+        "speaker": "睿宸",
+        "emotion": "算计",
+        "duration": 4.68,
+        "description_visual": "特写俯拍镜头；卧室背景，模糊；画面中央人物，身穿米色珠领连衣裙，抬头看镜头方向，眼神闪烁，表情：眉毛微挑，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面左侧",
+                "action": "侧身，手扶桌子，眼神游离",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室，花卉壁纸",
+        "description_narrative": "中近景固定镜头，小婉位于画面左侧，侧身手扶桌子，眼神游离，背景是花卉壁纸。",
+        "dialogue": "现在的男人可真善变 才多久就把旧爱给忘了 你要真让我走 盛小姐肯定是不会给我钱的 怎么办",
+        "speaker": "小婉 (画外音)",
+        "emotion": "焦虑",
+        "duration": 7.8,
+        "description_visual": "中近景平拍镜头；卧室，花卉壁纸；画面左侧人物，身穿米色珠领连衣裙，侧身，手扶桌子，眼神游离，表情：眉毛微蹙，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "站立，拥抱对方",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            },
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面右侧",
+                "action": "拥抱对方，头靠在对方胸前",
+                "expression": "眉毛低垂，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室，床铺和木门",
+        "description_narrative": "中景固定镜头，睿宸站在左侧拥抱右侧的小婉，小婉头靠在睿宸胸前，背景是卧室床铺和木门。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "拥抱",
+        "duration": 1.42,
+        "description_visual": "中景平拍镜头；卧室，床铺和木门；画面左侧人物，身穿白色衬衫，黑色长裤，站立，拥抱对方，表情：眉毛舒展，眼睛闭合，嘴巴紧闭；画面右侧人物，身穿米色珠领连衣裙，拥抱对方，头靠在对方胸前，表情：眉毛低垂，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面中央",
+                "action": "头靠在对方胸前，眼神向上看",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            },
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "下巴部分可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室背景，暖光",
+        "description_narrative": "特写固定镜头，小婉位于画面中央，头靠在左侧睿宸的胸前，眼神向上看，背景是暖光。",
+        "dialogue": "我知道睿宸哥哥心里 已经没有我了 但可不可以不要赶我走",
+        "speaker": "小婉",
+        "emotion": "乞求",
+        "duration": 5.34,
+        "description_visual": "特写平拍镜头；卧室背景，暖光；画面中央人物，身穿米色珠领连衣裙，头靠在对方胸前，眼神向上看，表情：眉毛微蹙，眼睛向上看，嘴巴微张；画面左侧人物，身穿白色衬衫，下巴部分可见，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面中央",
+                "action": "被强光笼罩，轮廓模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "强光/回忆效果，黄绿色调",
+        "description_narrative": "特写固定镜头，画面被黄绿色强光笼罩，小婉的轮廓模糊，营造回忆或情感高潮效果。",
+        "dialogue": "我每天只要看到睿宸哥哥 就已经心满意足了",
+        "speaker": "小婉",
+        "emotion": "满足",
+        "duration": 5.0,
+        "description_visual": "特写平拍镜头；强光/回忆效果，黄绿色调；画面中央人物，身穿米色珠领连衣裙，被强光笼罩，轮廓模糊，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "拉远",
+        "subjects": [
+            {
+                "name": "睿宸",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "拥抱动作持续",
+                "expression": "不可见"
+            },
+            {
+                "name": "小婉",
+                "gender": "女",
+                "clothing": "米色珠领连衣裙",
+                "position": "画面右侧",
+                "action": "拥抱动作持续",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室，光线恢复正常",
+        "description_narrative": "中景拉远镜头，光线恢复正常，睿宸和小婉保持拥抱姿势，场景逐渐淡出。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 2.26,
+        "description_visual": "中景平拍镜头（拉远）；卧室，光线恢复正常；画面左侧人物，身穿白色衬衫，拥抱动作持续，表情：不可见；画面右侧人物，身穿米色珠领连衣裙，拥抱动作持续，表情：不可见。"
+    }
+]

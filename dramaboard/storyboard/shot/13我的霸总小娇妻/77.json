@@ -1,0 +1,550 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣老爷子",
+                "gender": "男",
+                "clothing": "深绿色中式唐装",
+                "position": "画面左侧",
+                "action": "趴在餐桌上，头部枕在手臂上，呈昏迷状",
+                "expression": "眼睛紧闭，面部放松，无明显表情"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "深色上衣",
+                "position": "画面右侧",
+                "action": "趴在餐桌上，头部枕在手臂上，呈昏迷状",
+                "expression": "眼睛紧闭，面部放松，无明显表情"
+            }
+        ],
+        "background": "现代风格餐厅，大理石餐桌，木质背景墙，顶部有造型独特的吊灯，光线明亮",
+        "description_narrative": "全景镜头固定，展示餐厅场景。绿衣老爷子和黑衣女子趴在大理石餐桌上，看似已经昏迷，桌上摆放着未吃完的菜肴和碗筷。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；现代风格餐厅，大理石餐桌，木质背景墙，顶部有造型独特的吊灯，光线明亮；画面左侧人物，身穿深绿色中式唐装，趴在餐桌上，头部枕在手臂上，呈昏迷状，表情：眼睛紧闭，面部放松，无明显表情；画面右侧人物，身穿深色上衣，趴在餐桌上，头部枕在手臂上，呈昏迷状，表情：眼睛紧闭，面部放松，无明显表情。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫，黑色西裤",
+                "position": "画面左侧",
+                "action": "身体微侧，面带微笑，嘴角上扬",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬露出牙齿，神情得意"
+            }
+        ],
+        "background": "大理石纹理墙面，光线柔和",
+        "description_narrative": "近景镜头对准条纹衫中年男人，他面带得意的微笑，眼神中透露出一丝狡黠，似乎刚刚完成了一件大事。",
+        "dialogue": "嗯，我先走了。",
+        "speaker": "条纹衫中年男人",
+        "emotion": "得意",
+        "duration": 3.52,
+        "description_visual": "近景平拍镜头；大理石纹理墙面，光线柔和；画面左侧人物，身穿蓝白细条纹衬衫，黑色西裤，身体微侧，面带微笑，嘴角上扬，表情：眉毛舒展，眼睛微眯，嘴角上扬露出牙齿，神情得意。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣青年男人",
+                "gender": "男",
+                "clothing": "浅蓝色长袖衬衫",
+                "position": "画面中央",
+                "action": "站立，头部微抬，视线看向右上方",
+                "expression": "眉毛微蹙，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "室内书架背景，虚化处理",
+        "description_narrative": "中近景镜头展示蓝衣青年男人，他抬头看向一侧，神情中带着疑惑和审视，似乎在倾听对方的宣言。",
+        "dialogue": "啊，成功了，林家终于是我说了算了。",
+        "speaker": "条纹衫中年男人(画外音)",
+        "emotion": "疑惑",
+        "duration": 6.28,
+        "description_visual": "中近景平拍镜头；室内书架背景，虚化处理；画面中央人物，身穿浅蓝色长袖衬衫，站立，头部微抬，视线看向右上方，表情：眉毛微蹙，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，面带笑容",
+                "expression": "眉毛上扬，眼睛注视前方，嘴角咧开，露出牙齿"
+            }
+        ],
+        "background": "大理石墙面，木质门框",
+        "description_narrative": "特写镜头聚焦条纹衫中年男人的面部，他笑容满面，眼神中充满了对权力的渴望和自信，对青年的质疑不以为然。",
+        "dialogue": "一个家主之位，你就这么在乎？",
+        "speaker": "蓝衣青年男人(画外音)",
+        "emotion": "不屑",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；大理石墙面，木质门框；画面中央人物，身穿蓝白细条纹衬衫，头部微侧，面带笑容，表情：眉毛上扬，眼睛注视前方，嘴角咧开，露出牙齿。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫，黑色西裤",
+                "position": "画面左侧",
+                "action": "张开双臂，做出手势，身体朝向右侧",
+                "expression": "眉毛舒展，眼睛看向对面，嘴巴微张正在说话"
+            },
+            {
+                "name": "蓝衣青年男人",
+                "gender": "男",
+                "clothing": "浅蓝色长袖衬衫",
+                "position": "画面右侧",
+                "action": "双手抱胸，站立倾听",
+                "expression": "表情严肃，视线直视对方"
+            },
+            {
+                "name": "绿衣老爷子",
+                "gender": "男",
+                "clothing": "深绿色中式唐装",
+                "position": "背景餐桌左侧",
+                "action": "趴在桌上昏迷",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "深色上衣",
+                "position": "背景餐桌右侧",
+                "action": "趴在桌上昏迷",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅全景，吊灯明亮，桌面凌乱",
+        "description_narrative": "全景镜头展示两人对峙，条纹衫中年男人张开双臂慷慨陈词，蓝衣青年男人双手抱胸冷眼旁观，背景中两人仍趴在桌上。",
+        "dialogue": "人这辈子，为了名，为了利，忙忙碌碌。",
+        "speaker": "条纹衫中年男人",
+        "emotion": "感慨",
+        "duration": 2.56,
+        "description_visual": "全景平拍镜头；餐厅全景，吊灯明亮，桌面凌乱；画面左侧人物，身穿蓝白细条纹衬衫，黑色西裤，张开双臂，做出手势，身体朝向右侧，表情：眉毛舒展，眼睛看向对面，嘴巴微张正在说话；画面右侧人物，身穿浅蓝色长袖衬衫，双手抱胸，站立倾听，表情：表情严肃，视线直视对方；背景餐桌左侧人物，身穿深绿色中式唐装，趴在桌上昏迷，表情：不可见；背景餐桌右侧人物，身穿深色上衣，趴在桌上昏迷，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面中央",
+                "action": "头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼神坚定，嘴巴用力闭合后张开"
+            }
+        ],
+        "background": "大理石墙面",
+        "description_narrative": "特写镜头捕捉条纹衫中年男人的表情，他神情激昂，似乎在引用名言来为自己的行为辩护，眼神中透着野心。",
+        "dialogue": "大丈夫生居天地间。",
+        "speaker": "条纹衫中年男人",
+        "emotion": "激昂",
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；大理石墙面；画面中央人物，身穿蓝白细条纹衬衫，头部微低，眼神向下，表情：眉毛微蹙，眼神坚定，嘴巴用力闭合后张开。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣青年男人",
+                "gender": "男",
+                "clothing": "浅蓝色长袖衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，嘴巴张开",
+                "expression": "眉毛微挑，眼神锐利，嘴巴张开正在说话"
+            }
+        ],
+        "background": "室内书架背景",
+        "description_narrative": "中近景镜头切换至蓝衣青年男人，他接过了对方的话茬，语气中带着反问和嘲讽，眼神紧紧盯着对方。",
+        "dialogue": "岂能郁郁久居人下！",
+        "speaker": "条纹衫中年男人(画外音)",
+        "emotion": "嘲讽",
+        "duration": 1.76,
+        "description_visual": "中近景平拍镜头；室内书架背景；画面中央人物，身穿浅蓝色长袖衬衫，头部微侧，嘴巴张开，表情：眉毛微挑，眼神锐利，嘴巴张开正在说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面右侧",
+                "action": "侧身站立，面带笑容",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴角上扬"
+            }
+        ],
+        "background": "大理石墙面",
+        "description_narrative": "近景镜头展示条纹衫中年男人侧身微笑，他对青年的反问毫不在意，反而显得更加自信满满。",
+        "dialogue": "老爷子都已经隐居幕后了，你还不放心？",
+        "speaker": "蓝衣青年男人(画外音)",
+        "emotion": "轻松",
+        "duration": 3.56,
+        "description_visual": "近景平拍镜头；大理石墙面；画面右侧人物，身穿蓝白细条纹衬衫，侧身站立，面带笑容，表情：眉毛舒展，眼睛看向左侧，嘴角上扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣青年男人",
+                "gender": "男",
+                "clothing": "浅蓝色长袖衬衫",
+                "position": "画面中央",
+                "action": "站立，视线看向右侧",
+                "expression": "眉毛微蹙，眼神深沉，嘴巴微张"
+            }
+        ],
+        "background": "室内书架背景",
+        "description_narrative": "中近景镜头对准蓝衣青年男人，他神情严肃，开始揭露父亲的强势性格，语气中带着无奈。",
+        "dialogue": "我爸强势一辈子的人。",
+        "speaker": "蓝衣青年男人",
+        "emotion": "无奈",
+        "duration": 2.16,
+        "description_visual": "中近景平拍镜头；室内书架背景；画面中央人物，身穿浅蓝色长袖衬衫，站立，视线看向右侧，表情：眉毛微蹙，眼神深沉，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面左侧",
+                "action": "双手摊开，身体前倾",
+                "expression": "表情无奈，看向对面"
+            },
+            {
+                "name": "蓝衣青年男人",
+                "gender": "男",
+                "clothing": "浅蓝色长袖衬衫",
+                "position": "画面右侧",
+                "action": "站立，双手自然下垂",
+                "expression": "表情平静"
+            },
+            {
+                "name": "绿衣老爷子",
+                "gender": "男",
+                "clothing": "深绿色中式唐装",
+                "position": "背景餐桌左侧",
+                "action": "趴在桌上",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "深色上衣",
+                "position": "背景餐桌右侧",
+                "action": "趴在桌上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅全景",
+        "description_narrative": "全景镜头中，蓝衣青年男人的声音传来，抱怨自己只是傀儡，条纹衫中年男人摊手表示不解，两人继续对峙。",
+        "dialogue": "退隐幕后，我也只是一个傀儡罢了。",
+        "speaker": "蓝衣青年男人(画外音)",
+        "emotion": "抱怨",
+        "duration": 2.52,
+        "description_visual": "全景平拍镜头；餐厅全景；画面左侧人物，身穿蓝白细条纹衬衫，双手摊开，身体前倾，表情：表情无奈，看向对面；画面右侧人物，身穿浅蓝色长袖衬衫，站立，双手自然下垂，表情：表情平静；背景餐桌左侧人物，身穿深绿色中式唐装，趴在桌上，表情：不可见；背景餐桌右侧人物，身穿深色上衣，趴在桌上，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面中央",
+                "action": "头部微仰，大笑",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张露齿大笑"
+            }
+        ],
+        "background": "大理石墙面",
+        "description_narrative": "近景镜头捕捉条纹衫中年男人开怀大笑，他似乎听到了什么笑话，对青年的指责完全不认同。",
+        "dialogue": "你是被欲望冲昏了双眼。",
+        "speaker": "蓝衣青年男人(画外音)",
+        "emotion": "嘲笑",
+        "duration": 2.84,
+        "description_visual": "近景平拍镜头；大理石墙面；画面中央人物，身穿蓝白细条纹衬衫，头部微仰，大笑，表情：眉毛上扬，眼睛眯起，嘴巴大张露齿大笑。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面左侧",
+                "action": "伸出右手食指指向对方，身体前倾",
+                "expression": "眉毛紧锁，眼神凶狠，嘴巴张开大声说话"
+            },
+            {
+                "name": "蓝衣青年男人",
+                "gender": "男",
+                "clothing": "浅蓝色长袖衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头，仅露出肩膀和手臂",
+                "expression": "不可见"
+            },
+            {
+                "name": "绿衣老爷子",
+                "gender": "男",
+                "clothing": "深绿色中式唐装",
+                "position": "背景餐桌",
+                "action": "趴在桌上，手部可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅一角，玻璃门",
+        "description_narrative": "中景镜头中，条纹衫中年男人情绪激动，伸出手指严厉地命令青年离开，语气强硬，试图确立自己的权威。",
+        "dialogue": "你懂什么？你什么都不懂。我现在以林家主人的身份，命令你离开林家。",
+        "speaker": "条纹衫中年男人",
+        "emotion": "愤怒",
+        "duration": 6.68,
+        "description_visual": "中景平拍镜头；餐厅一角，玻璃门；画面左侧人物，身穿蓝白细条纹衬衫，伸出右手食指指向对方，身体前倾，表情：眉毛紧锁，眼神凶狠，嘴巴张开大声说话；画面右侧前景人物，身穿浅蓝色长袖衬衫，背对镜头，仅露出肩膀和手臂，表情：不可见；背景餐桌人物，身穿深绿色中式唐装，趴在桌上，手部可见，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣老爷子",
+                "gender": "男",
+                "clothing": "深绿色中式唐装",
+                "position": "画面中央",
+                "action": "趴在桌上，头部枕在手臂上",
+                "expression": "眼睛紧闭，看似昏迷"
+            }
+        ],
+        "background": "木质墙面，餐桌局部",
+        "description_narrative": "特写镜头给到趴在桌上的绿衣老爷子，背景音中条纹衫中年男人继续威胁要让保安赶人，画面静止在老爷子身上。",
+        "dialogue": "要不然我就让保安把你赶出去。",
+        "speaker": "条纹衫中年男人(画外音)",
+        "emotion": "威胁",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；木质墙面，餐桌局部；画面中央人物，身穿深绿色中式唐装，趴在桌上，头部枕在手臂上，表情：眼睛紧闭，看似昏迷。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面中央",
+                "action": "头部微低，眉头紧皱",
+                "expression": "眉毛紧锁，眼神震惊，嘴巴微张"
+            }
+        ],
+        "background": "大理石墙面",
+        "description_narrative": "特写镜头捕捉条纹衫中年男人震惊的表情，他突然听到老爷子的声音，脸上的得意瞬间转为惊愕。",
+        "dialogue": "爷爷，我还没死呢。林家家主还是我。",
+        "speaker": "绿衣老爷子(画外音)",
+        "emotion": "震惊",
+        "duration": 5.72,
+        "description_visual": "特写平拍镜头；大理石墙面；画面中央人物，身穿蓝白细条纹衬衫，头部微低，眉头紧皱，表情：眉毛紧锁，眼神震惊，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣老爷子",
+                "gender": "男",
+                "clothing": "深绿色中式唐装",
+                "position": "画面中央",
+                "action": "抬起头，双手交叠放在桌上",
+                "expression": "眉毛微挑，眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面，餐桌",
+        "description_narrative": "近景镜头展示绿衣老爷子突然抬起头，神志清醒，他看着对面的人，语气平静却充满威严。",
+        "dialogue": "你不吃了菜吗？怎么没事。",
+        "speaker": "条纹衫中年男人(画外音)",
+        "emotion": "惊恐",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；木质墙面，餐桌；画面中央人物，身穿深绿色中式唐装，抬起头，双手交叠放在桌上，表情：眉毛微挑，眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面左侧",
+                "action": "身体僵硬，双手下垂",
+                "expression": "眼神呆滞，嘴巴微张，满脸不可置信"
+            },
+            {
+                "name": "蓝衣青年男人",
+                "gender": "男",
+                "clothing": "浅蓝色长袖衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅，吊灯",
+        "description_narrative": "中景镜头中，条纹衫中年男人僵在原地，背景音里老爷子解释自己早已识破阴谋并将计就计，男人显得手足无措。",
+        "dialogue": "妙妙找到我的时候，我还是不信，干脆跟妙妙将计就计。",
+        "speaker": "绿衣老爷子(画外音)",
+        "emotion": "错愕",
+        "duration": 7.52,
+        "description_visual": "中景平拍镜头；餐厅，吊灯；画面左侧人物，身穿蓝白细条纹衬衫，身体僵硬，双手下垂，表情：眼神呆滞，嘴巴微张，满脸不可置信；画面右侧前景人物，身穿浅蓝色长袖衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面中央",
+                "action": "头部低垂，面部肌肉扭曲",
+                "expression": "眉毛紧蹙，眼神愤怒，嘴巴张大怒吼"
+            }
+        ],
+        "background": "大理石墙面",
+        "description_narrative": "特写镜头聚焦条纹衫中年男人愤怒的脸庞，老爷子继续指责他为了权位对亲人下手，男人情绪彻底爆发。",
+        "dialogue": "没想到啊，你为了这个家主之位，竟然刀刃对亲。",
+        "speaker": "绿衣老爷子(画外音)",
+        "emotion": "愤怒",
+        "duration": 6.6,
+        "description_visual": "特写平拍镜头；大理石墙面；画面中央人物，身穿蓝白细条纹衬衫，头部低垂，面部肌肉扭曲，表情：眉毛紧蹙，眼神愤怒，嘴巴张大怒吼。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣老爷子",
+                "gender": "男",
+                "clothing": "深绿色中式唐装",
+                "position": "画面左侧",
+                "action": "伸出右手食指指向对面，身体前倾",
+                "expression": "眉毛紧锁，眼神严厉，嘴巴张开说话"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "深色上衣",
+                "position": "画面右侧",
+                "action": "手臂搭在桌上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质墙面，餐桌",
+        "description_narrative": "近景镜头中，绿衣老爷子手指前方，背景音里条纹衫中年男人开始反咬一口，指责老爷子逼他退休才导致这一切。",
+        "dialogue": "还不都是你，一定要让我跟你一起退休，把林家大业交给这丫头片子。",
+        "speaker": "条纹衫中年男人",
+        "emotion": "辩解",
+        "duration": 5.56,
+        "description_visual": "近景平拍镜头；木质墙面，餐桌；画面左侧人物，身穿深绿色中式唐装，伸出右手食指指向对面，身体前倾，表情：眉毛紧锁，眼神严厉，嘴巴张开说话；画面右侧人物，身穿深色上衣，手臂搭在桌上，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，咧嘴大笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴大张露齿，神情疯狂"
+            }
+        ],
+        "background": "大理石墙面",
+        "description_narrative": "近景镜头展示条纹衫中年男人突然大笑，似乎已经破罐子破摔，脸上带着一种扭曲的快感。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疯狂",
+        "duration": 3.16,
+        "description_visual": "近景平拍镜头；大理石墙面；画面中央人物，身穿蓝白细条纹衬衫，头部微侧，咧嘴大笑，表情：眉毛舒展，眼睛眯起，嘴巴大张露齿，神情疯狂。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫中年男人",
+                "gender": "男",
+                "clothing": "蓝白细条纹衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，持续大笑",
+                "expression": "眉毛上扬，眼睛注视前方，嘴角咧开，笑声未停"
+            }
+        ],
+        "background": "大理石墙面，木质门框",
+        "description_narrative": "近景镜头持续对准条纹衫中年男人，他依旧在大笑，眼神中透着绝望和疯狂，画面在此定格。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疯狂",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；大理石墙面，木质门框；画面中央人物，身穿蓝白细条纹衬衫，头部微侧，持续大笑，表情：眉毛上扬，眼睛注视前方，嘴角咧开，笑声未停。"
+    }
+]

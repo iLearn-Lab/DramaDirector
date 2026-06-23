@@ -1,0 +1,582 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色屏幕，无可见内容",
+        "description_narrative": "画面全黑，无可见人物或场景，持续3.28秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；黑色屏幕，无可见内容。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "低头看着手中的物品，神情专注",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "近景镜头，男主角身穿深灰色细条纹西装和黑色衬衫，低头看着手中的物品，神情专注，眉毛微蹙，嘴巴微张，似乎在询问什么。",
+        "dialogue": "你说这是",
+        "speaker": "男主角",
+        "emotion": "疑惑",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；室内环境，背景模糊，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，低头看着手中的物品，神情专注，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，动作模糊，似乎在展示物品",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "近景镜头，男主角身体前倾，动作模糊，似乎在展示手中的物品，神情专注，眉毛微蹙，嘴巴微张。",
+        "dialogue": "你说这是",
+        "speaker": "男主角",
+        "emotion": "疑惑",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头（摇镜）；室内环境，背景模糊，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，身体前倾，动作模糊，似乎在展示物品，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面中央",
+                "action": "看着前方的黑色衣物，神情疑惑",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "特写镜头，女主角身穿浅蓝色丝绸衬衫，看着前方的黑色衣物，神情疑惑，眉毛微蹙，嘴巴紧闭。",
+        "dialogue": "睡衣？",
+        "speaker": "女主角",
+        "emotion": "疑惑",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；室内环境，背景模糊，光线柔和；画面中央人物，身穿浅蓝色丝绸衬衫，白色半身裙，看着前方的黑色衣物，神情疑惑，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "手持黑色衣物，嘴角上扬，似在调侃",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "中近景镜头，男主角手持黑色衣物，嘴角上扬，似在调侃，眉毛舒展，眼睛微眯。",
+        "dialogue": "你们有钱人的癖好",
+        "speaker": "男主角",
+        "emotion": "玩味",
+        "duration": 3.56,
+        "description_visual": "中近景平拍镜头；室内环境，背景模糊，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，手持黑色衣物，嘴角上扬，似在调侃，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面左侧",
+                "action": "站立，表情愤怒，看着男主角",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，门框可见，光线柔和",
+        "description_narrative": "中近景镜头，女主角站立在画面左侧，表情愤怒，看着男主角，眉毛紧蹙，眼睛瞪大，嘴巴微张。",
+        "dialogue": "可真奇怪啊，这能遮住什么？",
+        "speaker": "男主角",
+        "emotion": "愤怒",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内环境，门框可见，光线柔和；画面左侧人物，身穿浅蓝色丝绸衬衫，白色半身裙，站立，表情愤怒，看着男主角，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面右侧",
+                "action": "手持黑色衣物，身体微侧",
+                "expression": "眉毛微挑，眼睛看向女主角，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "中近景镜头，男主角手持黑色衣物，身体微侧，眉毛微挑，眼睛看向女主角，嘴巴微张。",
+        "dialogue": "你",
+        "speaker": "女主角",
+        "emotion": "愤怒",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；室内环境，背景模糊，光线柔和；画面右侧人物，身穿深灰色细条纹西装，黑色衬衫，手持黑色衣物，身体微侧，表情：眉毛微挑，眼睛看向女主角，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面左侧",
+                "action": "伸手指着男主角，表情愤怒",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "室内环境，门框可见，光线柔和",
+        "description_narrative": "中景镜头，女主角伸手指着男主角，表情愤怒，眉毛紧蹙，眼睛瞪大，嘴巴张开。",
+        "dialogue": "你...",
+        "speaker": "女主角",
+        "emotion": "愤怒",
+        "duration": 3.12,
+        "description_visual": "中景平拍镜头；室内环境，门框可见，光线柔和；画面左侧人物，身穿浅蓝色丝绸衬衫，白色半身裙，伸手指着男主角，表情愤怒，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "手持黑色衣物，神情无奈",
+                "expression": "眉毛微蹙，眼睛看向女主角，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "中近景镜头，男主角手持黑色衣物，神情无奈，眉毛微蹙，眼睛看向女主角，嘴巴微张。",
+        "dialogue": "你给我滚",
+        "speaker": "女主角",
+        "emotion": "无奈",
+        "duration": 3.6,
+        "description_visual": "中近景平拍镜头；室内环境，背景模糊，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，手持黑色衣物，神情无奈，表情：眉毛微蹙，眼睛看向女主角，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面中央",
+                "action": "站立，表情愤怒，手臂抬起",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴紧闭"
+            }
+        ],
+        "background": "室内环境，门框可见，光线柔和",
+        "description_narrative": "中景镜头，女主角站立，表情愤怒，手臂抬起，眉毛紧蹙，眼睛瞪大，嘴巴紧闭。",
+        "dialogue": "哎不是 是你让我来你家的",
+        "speaker": "男主角",
+        "emotion": "愤怒",
+        "duration": 5.0,
+        "description_visual": "中景平拍镜头；室内环境，门框可见，光线柔和；画面中央人物，身穿浅蓝色丝绸衬衫，白色半身裙，站立，表情愤怒，手臂抬起，表情：眉毛紧蹙，眼睛瞪大，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "低头，神情无奈",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "近景镜头，男主角低头，神情无奈，眉毛微蹙，眼睛视线下移，嘴巴微张。",
+        "dialogue": "我... 那谁知道你是个臭流氓",
+        "speaker": "女主角",
+        "emotion": "无奈",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；室内环境，背景模糊，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，低头，神情无奈，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面中央",
+                "action": "抬头，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "特写镜头，女主角抬头，表情严肃，眉毛微蹙，眼睛直视前方，嘴巴紧闭。",
+        "dialogue": "别说是我看你衣服了",
+        "speaker": "男主角",
+        "emotion": "严肃",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；室内环境，背景模糊，光线柔和；画面中央人物，身穿浅蓝色丝绸衬衫，白色半身裙，抬头，表情严肃，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面左侧",
+                "action": "站立，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内环境，门框可见，光线柔和",
+        "description_narrative": "中景镜头，女主角站立，身体微侧，眉毛微蹙，眼睛看向右侧，嘴巴紧闭。",
+        "dialogue": "我们现在可是",
+        "speaker": "男主角",
+        "emotion": "认真",
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；室内环境，门框可见，光线柔和；画面左侧人物，身穿浅蓝色丝绸衬衫，白色半身裙，站立，身体微侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "靠近女主角，神情认真",
+                "expression": "眉毛微蹙，眼睛直视女主角，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "特写镜头，男主角靠近女主角，神情认真，眉毛微蹙，眼睛直视女主角，嘴巴微张。",
+        "dialogue": "合法夫妻",
+        "speaker": "男主角",
+        "emotion": "认真",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头（推进）；室内环境，背景模糊，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，靠近女主角，神情认真，表情：眉毛微蹙，眼睛直视女主角，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面左侧",
+                "action": "侧脸，表情紧张",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "特写镜头，女主角侧脸，表情紧张，眉毛微蹙，眼睛看向右侧，嘴巴紧闭。",
+        "dialogue": "就算我对你干什么",
+        "speaker": "男主角",
+        "emotion": "紧张",
+        "duration": 3.24,
+        "description_visual": "特写平拍镜头；室内环境，背景模糊，光线柔和；画面左侧人物，身穿浅蓝色丝绸衬衫，白色半身裙，侧脸，表情紧张，表情：眉毛微蹙，眼睛看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "低头，神情暧昧",
+                "expression": "眉毛微挑，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "特写镜头，男主角低头，神情暧昧，眉毛微挑，眼睛视线下移，嘴巴微张。",
+        "dialogue": "那也是合理的吧 你想干什么",
+        "speaker": "男主角",
+        "emotion": "暧昧",
+        "duration": 3.4,
+        "description_visual": "特写平拍镜头；室内环境，背景模糊，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，低头，神情暧昧，表情：眉毛微挑，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "向后倒去，动作夸张",
+                "expression": "眼睛紧闭，嘴巴张开"
+            }
+        ],
+        "background": "室内环境，背景模糊，光线柔和",
+        "description_narrative": "中景镜头，男主角向后倒去，动作夸张，眼睛紧闭，嘴巴张开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "夸张",
+        "duration": 1.72,
+        "description_visual": "中景平拍镜头（跟拍）；室内环境，背景模糊，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，向后倒去，动作夸张，表情：眼睛紧闭，嘴巴张开。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "躺在沙发上，表情轻松",
+                "expression": "眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，沙发可见，光线柔和",
+        "description_narrative": "中景镜头，男主角躺在沙发上，表情轻松，眼睛微眯，嘴巴微张。",
+        "dialogue": "睡觉了",
+        "speaker": "男主角",
+        "emotion": "轻松",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；室内环境，沙发可见，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，躺在沙发上，表情轻松，表情：眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面中央",
+                "action": "尖叫，双手握拳",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴张大"
+            }
+        ],
+        "background": "室内环境，门框可见，光线柔和",
+        "description_narrative": "中景镜头，女主角尖叫，双手握拳，眉毛紧蹙，眼睛紧闭，嘴巴张大。",
+        "dialogue": "啊啊啊啊",
+        "speaker": "女主角",
+        "emotion": "惊恐",
+        "duration": 3.04,
+        "description_visual": "中景平拍镜头；室内环境，门框可见，光线柔和；画面中央人物，身穿浅蓝色丝绸衬衫，白色半身裙，尖叫，双手握拳，表情：眉毛紧蹙，眼睛紧闭，嘴巴张大。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在沙发上，举手示意",
+                "expression": "眉毛微蹙，眼睛看向女主角，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，沙发可见，光线柔和",
+        "description_narrative": "中近景镜头，男主角坐在沙发上，举手示意，眉毛微蹙，眼睛看向女主角，嘴巴微张。",
+        "dialogue": "哎好了好了 我睡沙发还不行吗",
+        "speaker": "男主角",
+        "emotion": "无奈",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；室内环境，沙发可见，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，坐在沙发上，举手示意，表情：眉毛微蹙，眼睛看向女主角，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面中央",
+                "action": "站立，表情愤怒",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，门框可见，光线柔和",
+        "description_narrative": "中景镜头，女主角站立，表情愤怒，眉毛紧蹙，眼睛瞪大，嘴巴微张。",
+        "dialogue": "睡沙发？",
+        "speaker": "女主角",
+        "emotion": "愤怒",
+        "duration": 3.6,
+        "description_visual": "中景平拍镜头；室内环境，门框可见，光线柔和；画面中央人物，身穿浅蓝色丝绸衬衫，白色半身裙，站立，表情愤怒，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "靠在沙发上，神情自信",
+                "expression": "眉毛微挑，眼睛看向女主角，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，沙发可见，光线柔和",
+        "description_narrative": "近景镜头，男主角靠在沙发上，神情自信，眉毛微挑，眼睛看向女主角，嘴巴微张。",
+        "dialogue": "哼 我知道",
+        "speaker": "男主角",
+        "emotion": "自信",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；室内环境，沙发可见，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，靠在沙发上，神情自信，表情：眉毛微挑，眼睛看向女主角，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色丝绸衬衫，白色半身裙",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内环境，门框可见，光线柔和",
+        "description_narrative": "中景镜头，女主角站立，表情严肃，眉毛微蹙，眼睛直视前方，嘴巴紧闭。",
+        "dialogue": "你假结婚不就是为了你妈吗",
+        "speaker": "女主角",
+        "emotion": "严肃",
+        "duration": 4.2,
+        "description_visual": "中景平拍镜头；室内环境，门框可见，光线柔和；画面中央人物，身穿浅蓝色丝绸衬衫，白色半身裙，站立，表情严肃，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "靠在沙发上，神情认真",
+                "expression": "眉毛微蹙，眼睛看向女主角，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，沙发可见，光线柔和",
+        "description_narrative": "近景镜头，男主角靠在沙发上，神情认真，眉毛微蹙，眼睛看向女主角，嘴巴微张。",
+        "dialogue": "不就是为了你妈吗",
+        "speaker": "男主角",
+        "emotion": "认真",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；室内环境，沙发可见，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，靠在沙发上，神情认真，表情：眉毛微蹙，眼睛看向女主角，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深灰色细条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "手指指向女主角，神情自信",
+                "expression": "眉毛微挑，眼睛直视女主角，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，沙发可见，光线柔和",
+        "description_narrative": "近景镜头，男主角手指指向女主角，神情自信，眉毛微挑，眼睛直视女主角，嘴巴微张。",
+        "dialogue": "我知道你担心的就是这个",
+        "speaker": "男主角",
+        "emotion": "自信",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；室内环境，沙发可见，光线柔和；画面中央人物，身穿深灰色细条纹西装，黑色衬衫，手指指向女主角，神情自信，表情：眉毛微挑，眼睛直视女主角，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕，无可见内容",
+        "description_narrative": "画面全白，无可见人物或场景，持续3.04秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.04,
+        "description_visual": "全景平拍镜头；白色屏幕，无可见内容。"
+    }
+]

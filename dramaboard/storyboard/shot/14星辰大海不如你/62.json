@@ -1,0 +1,540 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣，深色裙子",
+                "position": "画面中央",
+                "action": "低头用粉色梳子梳理麻花辫",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微闭"
+            }
+        ],
+        "background": "室内客厅，光线柔和，背景有沙发和玩偶",
+        "description_narrative": "中近景固定镜头，女子身穿黑白条纹上衣坐在沙发上，低头专注地用粉色梳子梳理侧边的麻花辫，神情平静。",
+        "dialogue": "然然。",
+        "speaker": "男子",
+        "emotion": "平静",
+        "duration": 0.77,
+        "description_visual": "中近景平拍镜头；室内客厅，光线柔和，背景有沙发和玩偶；画面中央人物，身穿黑白横条纹短袖上衣，深色裙子，低头用粉色梳子梳理麻花辫，表情：眉毛舒展，眼睛视线下移，嘴巴微闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫，浅色长裤",
+                "position": "背景门口",
+                "action": "推门进入，手提黑色塑料袋",
+                "expression": "眉毛微挑，眼睛看向屋内，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "前景右侧（模糊）",
+                "action": "背对镜头坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "玄关门口，深色木门，白色墙壁，墙上有对讲机",
+        "description_narrative": "全景固定镜头，男子身穿竖条纹衬衫推门进入玄关，手提黑色塑料袋，面带微笑看向屋内，前景女子背影模糊。",
+        "dialogue": "看我带什么？",
+        "speaker": "男子",
+        "emotion": "开心",
+        "duration": 2.0,
+        "description_visual": "全景平拍镜头；玄关门口，深色木门，白色墙壁，墙上有对讲机；背景门口人物，身穿黑白竖条纹衬衫，浅色长裤，推门进入，手提黑色塑料袋，表情：眉毛微挑，眼睛看向屋内，嘴巴微张；前景右侧（模糊）人物，身穿黑白横条纹短袖上衣，背对镜头坐着，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣，深色裙子",
+                "position": "画面中央",
+                "action": "转身抬头，双手微张",
+                "expression": "眉毛上扬，眼睛睁大注视前方，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "客厅沙发区域，光线明亮",
+        "description_narrative": "中景固定镜头，女子听到声音后转身抬头，脸上露出惊喜的笑容，双手微张似乎准备迎接。",
+        "dialogue": "回来了。哇，是虾哎。",
+        "speaker": "女子",
+        "emotion": "惊喜",
+        "duration": 3.47,
+        "description_visual": "中景平拍镜头；客厅沙发区域，光线明亮；画面中央人物，身穿黑白横条纹短袖上衣，深色裙子，转身抬头，双手微张，表情：眉毛上扬，眼睛睁大注视前方，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面左侧",
+                "action": "双手打开黑色塑料袋展示",
+                "expression": "眉毛舒展，眼睛笑意盈盈，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "客厅背景，模糊的红色装饰物",
+        "description_narrative": "近景固定镜头，男子坐在沙发上，双手撑开黑色塑料袋向女子展示里面的虾，表情得意且开心。",
+        "dialogue": "一会我给你做，大虾吃好不好？",
+        "speaker": "男子",
+        "emotion": "宠溺",
+        "duration": 2.73,
+        "description_visual": "近景平拍镜头；客厅背景，模糊的红色装饰物；画面左侧人物，身穿黑白竖条纹衬衫，双手打开黑色塑料袋展示，表情：眉毛舒展，眼睛笑意盈盈，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面左侧",
+                "action": "手持塑料袋",
+                "expression": "侧脸微笑"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面右侧",
+                "action": "伸手触碰塑料袋",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴微张说话"
+            }
+        ],
+        "background": "客厅沙发，光线自然",
+        "description_narrative": "过肩镜头，女子伸手触碰男子手中的塑料袋，身体前倾，似乎想要接过袋子自己做饭。",
+        "dialogue": "哎，要不今天我来做？",
+        "speaker": "女子",
+        "emotion": "期待",
+        "duration": 2.93,
+        "description_visual": "中近景过肩镜头；客厅沙发，光线自然；画面左侧人物，身穿黑白竖条纹衬衫，手持塑料袋，表情：侧脸微笑；画面右侧人物，身穿黑白横条纹短袖上衣，伸手触碰塑料袋，表情：眉毛微蹙，眼睛注视男子，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面右侧",
+                "action": "摆手拒绝，身体后仰",
+                "expression": "眉毛微挑，眼睛看向男子，嘴角带笑"
+            }
+        ],
+        "background": "客厅沙发，背景有玩偶",
+        "description_narrative": "中近景固定镜头，女子听到男子要休息后，笑着摆手表示不用，神情轻松。",
+        "dialogue": "我做就行了，你好好休息啊。哎呀不用。",
+        "speaker": "男子，女子",
+        "emotion": "推辞",
+        "duration": 2.73,
+        "description_visual": "中近景平拍镜头；客厅沙发，背景有玩偶；画面右侧人物，身穿黑白横条纹短袖上衣，摆手拒绝，身体后仰，表情：眉毛微挑，眼睛看向男子，嘴角带笑。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "抬头向上看，大笑",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张露齿笑"
+            }
+        ],
+        "background": "白色墙壁，红色装饰物模糊",
+        "description_narrative": "近景仰拍镜头，男子抬头向上看，开怀大笑，似乎被女子的话逗乐了。",
+        "dialogue": "我都好了，你看。",
+        "speaker": "女子",
+        "emotion": "开心",
+        "duration": 2.5,
+        "description_visual": "近景仰拍镜头；白色墙壁，红色装饰物模糊；画面中央人物，身穿黑白竖条纹衬衫，抬头向上看，大笑，表情：眉毛上扬，眼睛眯起，嘴巴大张露齿笑。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面左侧",
+                "action": "手持塑料袋，侧身看女子",
+                "expression": "眉毛舒展，眼睛注视女子，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面右侧",
+                "action": "坐着看男子",
+                "expression": "微笑"
+            }
+        ],
+        "background": "客厅沙发",
+        "description_narrative": "中近景固定镜头，男子侧身看着女子，手里拿着虾，两人对视交流。",
+        "dialogue": "好了，好了，知道你好了。",
+        "speaker": "男子",
+        "emotion": "安抚",
+        "duration": 2.8,
+        "description_visual": "中近景平拍镜头；客厅沙发；画面左侧人物，身穿黑白竖条纹衬衫，手持塑料袋，侧身看女子，表情：眉毛舒展，眼睛注视女子，嘴巴微张；画面右侧人物，身穿黑白横条纹短袖上衣，坐着看男子，表情：微笑。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "手持塑料袋，微笑",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴角上扬"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "近景固定镜头，男子面带微笑，眼神看向一侧，坚持要自己做饭。",
+        "dialogue": "那也我来就好了。",
+        "speaker": "男子",
+        "emotion": "坚持",
+        "duration": 1.93,
+        "description_visual": "近景平拍镜头；室内墙壁；画面中央人物，身穿黑白竖条纹衬衫，手持塑料袋，微笑，表情：眉毛舒展，眼睛看向侧方，嘴角上扬。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面右侧",
+                "action": "点头，双手放在腿上",
+                "expression": "眉毛微垂，眼睛注视男子，嘴巴微抿"
+            }
+        ],
+        "background": "客厅沙发，背景有玩偶",
+        "description_narrative": "过肩镜头，女子无奈地点头同意，双手交叠放在腿上，神情顺从。",
+        "dialogue": "好吧。",
+        "speaker": "女子",
+        "emotion": "无奈",
+        "duration": 2.27,
+        "description_visual": "中近景过肩镜头；客厅沙发，背景有玩偶；画面右侧人物，身穿黑白横条纹短袖上衣，点头，双手放在腿上，表情：眉毛微垂，眼睛注视男子，嘴巴微抿。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面右侧",
+                "action": "抬手比划，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发",
+        "description_narrative": "过肩镜头，女子突然抬手似乎想说什么，身体微微前倾，神情变得认真。",
+        "dialogue": "那个嗯我跟你",
+        "speaker": "女子",
+        "emotion": "犹豫",
+        "duration": 2.03,
+        "description_visual": "中近景过肩镜头；客厅沙发；画面右侧人物，身穿黑白横条纹短袖上衣，抬手比划，身体前倾，表情：眉毛微蹙，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "手持塑料袋，注视女子",
+                "expression": "眉毛平展，眼睛注视对方，嘴巴闭合"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "近景固定镜头，男子手持塑料袋，安静地注视着女子，等待她说话。",
+        "dialogue": "商量个事好不好",
+        "speaker": "女子",
+        "emotion": "期待",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；室内墙壁；画面中央人物，身穿黑白竖条纹衬衫，手持塑料袋，注视女子，表情：眉毛平展，眼睛注视对方，嘴巴闭合。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面右侧",
+                "action": "双手放在腿上，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发",
+        "description_narrative": "过肩镜头，女子身体前倾，双手放在腿上，眼神诚恳地看着男子。",
+        "dialogue": "你看我现在",
+        "speaker": "女子",
+        "emotion": "认真",
+        "duration": 3.3,
+        "description_visual": "中近景过肩镜头；客厅沙发；画面右侧人物，身穿黑白横条纹短袖上衣，双手放在腿上，身体前倾，表情：眉毛微蹙，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "手持塑料袋，眼神微垂",
+                "expression": "眉毛平展，眼睛视线向下，嘴巴闭合"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "近景固定镜头，男子听着女子的话，眼神微微下垂，表情略显沉重。",
+        "dialogue": "我每天在这屋子",
+        "speaker": "女子",
+        "emotion": "压抑",
+        "duration": 2.47,
+        "description_visual": "近景平拍镜头；室内墙壁；画面中央人物，身穿黑白竖条纹衬衫，手持塑料袋，眼神微垂，表情：眉毛平展，眼睛视线向下，嘴巴闭合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面右侧",
+                "action": "双手放在腿上",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发",
+        "description_narrative": "过肩镜头，女子继续诉说，表情带着一丝委屈和期盼。",
+        "dialogue": "你每天又工作那么忙",
+        "speaker": "女子",
+        "emotion": "委屈",
+        "duration": 3.0,
+        "description_visual": "中近景过肩镜头；客厅沙发；画面右侧人物，身穿黑白横条纹短袖上衣，双手放在腿上，表情：眉毛微蹙，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "手持塑料袋，视线低垂",
+                "expression": "眉毛微蹙，眼睛视线向下，嘴巴微张"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "近景固定镜头，男子听着女子的诉求，视线低垂，似乎在思考。",
+        "dialogue": "我想出去走走",
+        "speaker": "女子",
+        "emotion": "渴望",
+        "duration": 3.17,
+        "description_visual": "近景平拍镜头；室内墙壁；画面中央人物，身穿黑白竖条纹衬衫，手持塑料袋，视线低垂，表情：眉毛微蹙，眼睛视线向下，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面左侧",
+                "action": "握住女子的手",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面右侧",
+                "action": "手被男子握住",
+                "expression": "惊讶"
+            }
+        ],
+        "background": "客厅沙发",
+        "description_narrative": "中近景固定镜头，男子突然握住女子的手，表情变得严肃，打断了女子的话。",
+        "dialogue": "顺便找找工作。嗯，不行，你不能。",
+        "speaker": "女子，男子",
+        "emotion": "紧张",
+        "duration": 2.63,
+        "description_visual": "中近景平拍镜头；客厅沙发；画面左侧人物，身穿黑白竖条纹衬衫，握住女子的手，表情：眉毛微蹙，眼睛注视女子，嘴巴微张；画面右侧人物，身穿黑白横条纹短袖上衣，手被男子握住，表情：惊讶。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "低头，神情严肃",
+                "expression": "眉毛紧锁，眼睛视线向下，嘴巴紧闭"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "近景固定镜头，男子低下头，神情变得复杂且严肃，似乎在掩饰什么。",
+        "dialogue": "可是我是自私的，希望你不要相信",
+        "speaker": "男子",
+        "emotion": "复杂",
+        "duration": 4.93,
+        "description_visual": "近景平拍镜头；室内墙壁；画面中央人物，身穿黑白竖条纹衬衫，低头，神情严肃，表情：眉毛紧锁，眼睛视线向下，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面右侧",
+                "action": "注视男子，神情担忧",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴微抿"
+            }
+        ],
+        "background": "客厅沙发",
+        "description_narrative": "过肩镜头，女子看着男子，眼神中流露出担忧和不解。",
+        "dialogue": "嗯，没有我的意思是你先好好休息",
+        "speaker": "男子",
+        "emotion": "安抚",
+        "duration": 2.33,
+        "description_visual": "中近景过肩镜头；客厅沙发；画面右侧人物，身穿黑白横条纹短袖上衣，注视男子，神情担忧，表情：眉毛微蹙，眼睛注视男子，嘴巴微抿。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "抬头，眼神夸张",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "近景固定镜头，男子突然抬头，眼神夸张地表示担心，试图转移话题。",
+        "dialogue": "万一还有什么后遗症呢？",
+        "speaker": "男子",
+        "emotion": "担忧",
+        "duration": 1.33,
+        "description_visual": "近景平拍镜头；室内墙壁；画面中央人物，身穿黑白竖条纹衬衫，抬头，眼神夸张，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "起身，准备离开",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "室内墙壁",
+        "description_narrative": "近景固定镜头，男子说完后迅速起身，拿着塑料袋准备去做饭，逃避刚才的话题。",
+        "dialogue": "嗯我先去做饭去了啊",
+        "speaker": "男子",
+        "emotion": "急切",
+        "duration": 4.53,
+        "description_visual": "近景平拍镜头；室内墙壁；画面中央人物，身穿黑白竖条纹衬衫，起身，准备离开，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白横条纹短袖上衣",
+                "position": "画面中央",
+                "action": "独自坐着，抬头叹气",
+                "expression": "眉毛微垂，眼睛视线向上，嘴巴微张叹气"
+            }
+        ],
+        "background": "客厅沙发，画面逐渐变为粉色调",
+        "description_narrative": "中近景固定镜头，男子离开后，女子独自坐在沙发上，抬头长叹一口气，画面逐渐笼罩在粉色光晕中，神情失落。",
+        "dialogue": "哎",
+        "speaker": "女子",
+        "emotion": "失落",
+        "duration": 1.87,
+        "description_visual": "中近景平拍镜头；客厅沙发，画面逐渐变为粉色调；画面中央人物，身穿黑白横条纹短袖上衣，独自坐着，抬头叹气，表情：眉毛微垂，眼睛视线向上，嘴巴微张叹气。"
+    }
+]

@@ -1,0 +1,965 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "海报中多人物",
+                "position": "中央",
+                "action": "静态海报展示",
+                "expression": "无"
+            }
+        ],
+        "background": "电影海报背景，包含多位角色头像及标题文字",
+        "description_narrative": "静态海报展示，画面中央为多位角色拼贴，底部有金色大字标题，背景为绚丽的光效和城市夜景。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.37,
+        "description_visual": "全景平拍镜头；电影海报背景，包含多位角色头像及标题文字；中央人物，身穿海报中多人物，静态海报展示，表情：无。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面右侧",
+                "action": "侧身看向左侧男子，眼神关切",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，条纹衬衫",
+                "position": "画面左侧前景（模糊）",
+                "action": "站立，身体微倾",
+                "expression": "面部模糊"
+            }
+        ],
+        "background": "室内宴会厅，暖黄色灯光，背景有门框和壁灯",
+        "description_narrative": "近景镜头，女子身穿白色衬衫，佩戴珍珠耳坠，侧身看向左侧模糊的男子，神情关切地询问。",
+        "dialogue": "秦奋，你没事吧？",
+        "speaker": "女子",
+        "emotion": "关切",
+        "duration": 2.33,
+        "description_visual": "近景平拍镜头；室内宴会厅，暖黄色灯光，背景有门框和壁灯；画面右侧人物，身穿白色蝴蝶结系带衬衫，侧身看向左侧男子，眼神关切，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面左侧前景（模糊）人物，身穿米色西装外套，条纹衬衫，站立，身体微倾，表情：面部模糊。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "低头，单手扶着另一只手臂，身体微晃",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴微抿"
+            }
+        ],
+        "background": "室内宴会厅，背景模糊，暖色调",
+        "description_narrative": "中近景镜头，秦奋身穿米色西装和条纹衬衫，低头扶着手臂，表现出头晕不适的状态。",
+        "dialogue": "没事，我怎么感觉。",
+        "speaker": "秦奋",
+        "emotion": "不适",
+        "duration": 2.03,
+        "description_visual": "中近景平拍镜头；室内宴会厅，背景模糊，暖色调；画面中央人物，身穿米色西装外套，黑白条纹衬衫，低头，单手扶着另一只手臂，身体微晃，表情：眉毛紧锁，眼睛下视，嘴巴微抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "注视着男子，嘴角微扬",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬"
+            }
+        ],
+        "background": "室内环境，背景虚化",
+        "description_narrative": "特写镜头，女子面带微笑看着男子，似乎在调侃他刚才的表现，同时男子画外音响起说头晕。",
+        "dialogue": "头有点晕啊，刚才那么厉害。",
+        "speaker": "秦奋",
+        "emotion": "调侃/关切",
+        "duration": 2.03,
+        "description_visual": "特写平拍镜头；室内环境，背景虚化；画面中央人物，身穿白色蝴蝶结系带衬衫，注视着男子，嘴角微扬，表情：眉毛舒展，眼睛注视，嘴角上扬。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "侧头，眼神迷离，手扶胸口",
+                "expression": "眉毛微皱，眼睛半闭，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，暖黄色墙壁",
+        "description_narrative": "中近景镜头，秦奋侧头看向一旁，手扶胸口，表情迷离，感叹只喝了一杯酒。",
+        "dialogue": "没想到才一杯酒。",
+        "speaker": "秦奋",
+        "emotion": "困惑",
+        "duration": 1.47,
+        "description_visual": "中近景平拍镜头；室内宴会厅，暖黄色墙壁；画面中央人物，身穿米色西装外套，黑白条纹衬衫，侧头，眼神迷离，手扶胸口，表情：眉毛微皱，眼睛半闭，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "说话，表情略带笑意",
+                "expression": "眉毛舒展，眼睛注视，嘴巴开合"
+            }
+        ],
+        "background": "室内环境，背景有灯光",
+        "description_narrative": "特写镜头，女子接话调侃，说这就把他放倒了，表情轻松。",
+        "dialogue": "就把你给放倒了。",
+        "speaker": "女子",
+        "emotion": "调侃",
+        "duration": 1.07,
+        "description_visual": "特写平拍镜头；室内环境，背景有灯光；画面中央人物，身穿白色蝴蝶结系带衬衫，说话，表情略带笑意，表情：眉毛舒展，眼睛注视，嘴巴开合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "抬头，手扶胸口，表情委屈",
+                "expression": "眉毛上扬，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，暖色调",
+        "description_narrative": "中近景镜头，秦奋抬头手扶胸口，委屈地质问女子有没有良心。",
+        "dialogue": "你有没有良心啊",
+        "speaker": "秦奋",
+        "emotion": "委屈",
+        "duration": 0.73,
+        "description_visual": "中近景平拍镜头；室内宴会厅，暖色调；画面中央人物，身穿米色西装外套，黑白条纹衬衫，抬头，手扶胸口，表情委屈，表情：眉毛上扬，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "微笑，侧头倾听",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            }
+        ],
+        "background": "室内环境，背景虚化",
+        "description_narrative": "特写镜头，女子面带微笑听着秦奋的嘟囔，秦奋画外音响起说自己刚才。",
+        "dialogue": "我刚才",
+        "speaker": "秦奋",
+        "emotion": "愉悦",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；室内环境，背景虚化；画面中央人物，身穿白色蝴蝶结系带衬衫，微笑，侧头倾听，表情：眉毛舒展，眼睛含笑，嘴角上扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "说话，表情温和",
+                "expression": "眉毛舒展，眼睛注视，嘴巴开合"
+            }
+        ],
+        "background": "室内环境，背景虚化",
+        "description_narrative": "特写镜头，女子继续听着，秦奋画外音困惑地问刚才给谁挡的酒。",
+        "dialogue": "给谁挡的酒啊",
+        "speaker": "秦奋",
+        "emotion": "困惑",
+        "duration": 1.07,
+        "description_visual": "特写平拍镜头；室内环境，背景虚化；画面中央人物，身穿白色蝴蝶结系带衬衫，说话，表情温和，表情：眉毛舒展，眼睛注视，嘴巴开合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "说话，决定送他回家",
+                "expression": "眉毛微扬，眼睛注视，嘴巴开合"
+            }
+        ],
+        "background": "室内环境，背景虚化",
+        "description_narrative": "特写镜头，女子决定先送秦奋回家，语气温和。",
+        "dialogue": "好了，我先送你回家吧。",
+        "speaker": "女子",
+        "emotion": "关切",
+        "duration": 2.6,
+        "description_visual": "特写平拍镜头；室内环境，背景虚化；画面中央人物，身穿白色蝴蝶结系带衬衫，说话，决定送他回家，表情：眉毛微扬，眼睛注视，嘴巴开合。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面左侧",
+                "action": "被搀扶着行走，低头",
+                "expression": "眼睛下视，表情疲惫"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面右侧",
+                "action": "搀扶男子手臂",
+                "expression": "侧脸，关切"
+            }
+        ],
+        "background": "室内走廊，暖黄色墙壁",
+        "description_narrative": "中近景跟拍，女子搀扶着秦奋行走，提醒他小心点。",
+        "dialogue": "你小心点",
+        "speaker": "女子",
+        "emotion": "关切",
+        "duration": 1.07,
+        "description_visual": "中近景平拍镜头（跟拍）；室内走廊，暖黄色墙壁；画面左侧人物，身穿米色西装外套，黑白条纹衬衫，被搀扶着行走，低头，表情：眼睛下视，表情疲惫；画面右侧人物，身穿白色蝴蝶结系带衬衫，黑色裙子，搀扶男子手臂，表情：侧脸，关切。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面左侧",
+                "action": "被搀扶着行走，身体前倾",
+                "expression": "低头，看不清表情"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面右侧",
+                "action": "搀扶男子，身体微倾",
+                "expression": "侧脸，关注男子"
+            }
+        ],
+        "background": "宴会厅出口，绿色桌布，地毯",
+        "description_narrative": "全景跟拍，女子搀扶秦奋走过宴会厅，再次提醒小心。",
+        "dialogue": "小心",
+        "speaker": "女子",
+        "emotion": "关切",
+        "duration": 0.9,
+        "description_visual": "全景平拍镜头（跟拍）；宴会厅出口，绿色桌布，地毯；画面左侧人物，身穿米色西装外套，黑白条纹衬衫，被搀扶着行走，身体前倾，表情：低头，看不清表情；画面右侧人物，身穿白色蝴蝶结系带衬衫，黑色裙子，搀扶男子，身体微倾，表情：侧脸，关注男子。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "模糊人影",
+                "position": "门口",
+                "action": "站立",
+                "expression": "看不清"
+            }
+        ],
+        "background": "门口，光线较暗",
+        "description_narrative": "远景镜头，画面模糊，隐约可见门口有人影，伴随男子应答声。",
+        "dialogue": "嗯。",
+        "speaker": "秦奋",
+        "emotion": null,
+        "duration": 1.17,
+        "description_visual": "远景平拍镜头；门口，光线较暗；门口人物，身穿模糊人影，站立，表情：看不清。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面左侧",
+                "action": "被搀扶进入房间，脚步踉跄",
+                "expression": "低头，疲惫"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面右侧",
+                "action": "搀扶男子，引导方向",
+                "expression": "侧脸，专注"
+            }
+        ],
+        "background": "卧室门口，白色门框",
+        "description_narrative": "中景跟拍，女子搀扶秦奋进入卧室，提醒他小心。",
+        "dialogue": "小心。",
+        "speaker": "女子",
+        "emotion": "关切",
+        "duration": 0.83,
+        "description_visual": "中景平拍镜头（跟拍）；卧室门口，白色门框；画面左侧人物，身穿米色西装外套，黑白条纹衬衫，被搀扶进入房间，脚步踉跄，表情：低头，疲惫；画面右侧人物，身穿白色蝴蝶结系带衬衫，黑色裙子，搀扶男子，引导方向，表情：侧脸，专注。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面左侧",
+                "action": "站立，手扶女子手臂",
+                "expression": "闭眼，点头"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面右侧",
+                "action": "扶着男子，准备让他坐下",
+                "expression": "低头，温和"
+            }
+        ],
+        "background": "卧室，白色衣柜",
+        "description_narrative": "中景镜头，两人站在床边，秦奋闭眼点头应答，女子准备扶他坐下。",
+        "dialogue": "嗯嗯。",
+        "speaker": "秦奋",
+        "emotion": "顺从",
+        "duration": 1.3,
+        "description_visual": "中景平拍镜头；卧室，白色衣柜；画面左侧人物，身穿米色西装外套，黑白条纹衬衫，站立，手扶女子手臂，表情：闭眼，点头；画面右侧人物，身穿白色蝴蝶结系带衬衫，黑色裙子，扶着男子，准备让他坐下，表情：低头，温和。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面左侧",
+                "action": "被引导坐下",
+                "expression": "低头"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面右侧",
+                "action": "伸手引导男子坐向床铺",
+                "expression": "专注"
+            }
+        ],
+        "background": "卧室，白色衣柜，床铺",
+        "description_narrative": "中景镜头，女子伸手引导秦奋坐向床铺，动作轻柔。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.1,
+        "description_visual": "中景平拍镜头；卧室，白色衣柜，床铺；画面左侧人物，身穿米色西装外套，黑白条纹衬衫，被引导坐下，表情：低头；画面右侧人物，身穿白色蝴蝶结系带衬衫，黑色裙子，伸手引导男子坐向床铺，表情：专注。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "白色床品",
+                "position": "画面中央",
+                "action": "静止",
+                "expression": "无"
+            }
+        ],
+        "background": "白色床铺，软包床头",
+        "description_narrative": "特写俯拍镜头，聚焦在白色的床铺和枕头上，画面柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "特写俯拍镜头；白色床铺，软包床头；画面中央人物，身穿白色床品，静止，表情：无。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "低头查看",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，背景虚化",
+        "description_narrative": "特写镜头，女子低头查看，画面略微模糊，神情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；卧室，背景虚化；画面中央人物，身穿白色蝴蝶结系带衬衫，低头查看，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "躺在床上，闭眼",
+                "expression": "眼睛紧闭，嘴巴微张，呼吸沉重"
+            }
+        ],
+        "background": "白色床铺，软包床头",
+        "description_narrative": "特写仰拍镜头，秦奋躺在床上，双眼紧闭，看起来非常疲惫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疲惫",
+        "duration": 1.53,
+        "description_visual": "特写仰拍镜头；白色床铺，软包床头；画面中央人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，闭眼，表情：眼睛紧闭，嘴巴微张，呼吸沉重。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "低头看着男子，轻声呼唤",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，背景虚化",
+        "description_narrative": "特写镜头，女子低头看着床上的秦奋，轻声呼唤他的名字。",
+        "dialogue": "秦奋。",
+        "speaker": "女子",
+        "emotion": "关切",
+        "duration": 0.63,
+        "description_visual": "特写平拍镜头；卧室，背景虚化；画面中央人物，身穿白色蝴蝶结系带衬衫，低头看着男子，轻声呼唤，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "观察男子脸色，疑惑",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，背景虚化",
+        "description_narrative": "特写镜头，女子发现秦奋脸色异常，疑惑地询问为什么这么红。",
+        "dialogue": "你的脸怎么这么红？",
+        "speaker": "女子",
+        "emotion": "疑惑",
+        "duration": 1.07,
+        "description_visual": "特写平拍镜头；卧室，背景虚化；画面中央人物，身穿白色蝴蝶结系带衬衫，观察男子脸色，疑惑，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面左侧",
+                "action": "俯身靠近床铺，伸手触摸",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面右下角（局部）",
+                "action": "躺在床上",
+                "expression": "闭眼"
+            }
+        ],
+        "background": "卧室，床头灯",
+        "description_narrative": "中近景镜头，女子俯身靠近床边，自言自语说只喝了一杯酒不至于这样。",
+        "dialogue": "才一杯酒，不至于吧。",
+        "speaker": "女子",
+        "emotion": "疑惑",
+        "duration": 2.27,
+        "description_visual": "中近景平拍镜头；卧室，床头灯；画面左侧人物，身穿白色蝴蝶结系带衬衫，黑色裙子，俯身靠近床铺，伸手触摸，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面右下角（局部）人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，表情：闭眼。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "躺在床上，女子手摸额头",
+                "expression": "眼睛紧闭，眉头微皱"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面左侧（手部）",
+                "action": "手抚摸男子额头",
+                "expression": "无"
+            }
+        ],
+        "background": "白色床铺，软包床头",
+        "description_narrative": "特写俯拍镜头，女子的手抚摸秦奋的额头，秦奋发出轻微的应答声。",
+        "dialogue": "嗯。",
+        "speaker": "秦奋",
+        "emotion": "不适",
+        "duration": 1.6,
+        "description_visual": "特写俯拍镜头；白色床铺，软包床头；画面中央人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，女子手摸额头，表情：眼睛紧闭，眉头微皱；画面左侧（手部）人物，身穿白色蝴蝶结系带衬衫，手抚摸男子额头，表情：无。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面左侧",
+                "action": "俯身触摸男子额头，惊讶",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面右下角",
+                "action": "躺在床上",
+                "expression": "闭眼"
+            }
+        ],
+        "background": "卧室，床头灯",
+        "description_narrative": "中近景镜头，女子触摸秦奋额头后惊讶地发现很烫。",
+        "dialogue": "好烫",
+        "speaker": "女子",
+        "emotion": "惊讶",
+        "duration": 0.9,
+        "description_visual": "中近景平拍镜头；卧室，床头灯；画面左侧人物，身穿白色蝴蝶结系带衬衫，黑色裙子，俯身触摸男子额头，惊讶，表情：眉毛微蹙，眼睛下视，嘴巴微张；画面右下角人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，表情：闭眼。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "躺在床上，双手拉扯衣领",
+                "expression": "眼睛紧闭，嘴巴微张，表情痛苦"
+            }
+        ],
+        "background": "白色床铺，软包床头",
+        "description_narrative": "特写仰拍镜头，秦奋躺在床上，双手拉扯衣领，抱怨浑身发热。",
+        "dialogue": "浑身发热",
+        "speaker": "秦奋",
+        "emotion": "痛苦",
+        "duration": 1.93,
+        "description_visual": "特写仰拍镜头；白色床铺，软包床头；画面中央人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，双手拉扯衣领，表情：眼睛紧闭，嘴巴微张，表情痛苦。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面中央",
+                "action": "站立，低头思考，神情凝重",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，白色衣柜",
+        "description_narrative": "中近景镜头，女子站立在床边，低头思考，怀疑那杯酒有问题。",
+        "dialogue": "难道那杯酒有问题",
+        "speaker": "女子",
+        "emotion": "怀疑",
+        "duration": 1.27,
+        "description_visual": "中近景平拍镜头；卧室，白色衣柜；画面中央人物，身穿白色蝴蝶结系带衬衫，黑色裙子，站立，低头思考，神情凝重，表情：眉毛紧锁，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "躺在床上，手按胸口",
+                "expression": "眼睛紧闭，眉头紧锁"
+            }
+        ],
+        "background": "白色床铺，软包床头",
+        "description_narrative": "特写仰拍镜头，秦奋手按胸口，女子画外音确认他是被人下了药。",
+        "dialogue": "被人下了药。",
+        "speaker": "女子",
+        "emotion": "震惊",
+        "duration": 1.0,
+        "description_visual": "特写仰拍镜头；白色床铺，软包床头；画面中央人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，手按胸口，表情：眼睛紧闭，眉头紧锁。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面中央",
+                "action": "站立，准备转身去倒水",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴开合"
+            }
+        ],
+        "background": "卧室，白色衣柜",
+        "description_narrative": "中近景镜头，女子决定先去倒杯水，让秦奋等一下。",
+        "dialogue": "你先等一下，我去给你倒杯水。",
+        "speaker": "女子",
+        "emotion": "急切",
+        "duration": 2.03,
+        "description_visual": "中近景平拍镜头；卧室，白色衣柜；画面中央人物，身穿白色蝴蝶结系带衬衫，黑色裙子，站立，准备转身去倒水，表情：眉毛微蹙，眼睛注视，嘴巴开合。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫，黑色裙子",
+                "position": "画面上方",
+                "action": "转身被拉住",
+                "expression": "无"
+            },
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面下方",
+                "action": "伸手拉住女子手臂",
+                "expression": "无"
+            }
+        ],
+        "background": "卧室，白色衣柜",
+        "description_narrative": "特写镜头，女子转身时，秦奋伸手拉住她的手臂，发出声音阻止。",
+        "dialogue": "哎。",
+        "speaker": "秦奋",
+        "emotion": "急切",
+        "duration": 0.53,
+        "description_visual": "特写平拍镜头；卧室，白色衣柜；画面上方人物，身穿白色蝴蝶结系带衬衫，黑色裙子，转身被拉住，表情：无；画面下方人物，身穿米色西装外套，黑白条纹衬衫，伸手拉住女子手臂，表情：无。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面左侧",
+                "action": "俯身，被男子拉住手臂",
+                "expression": "低头，惊讶"
+            },
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面右侧（床上）",
+                "action": "躺在床上，手拉女子",
+                "expression": "抬头，眼神迷离"
+            }
+        ],
+        "background": "卧室，床头灯",
+        "description_narrative": "中近景镜头，女子俯身被秦奋拉住手臂，两人对视，气氛暧昧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "暧昧",
+        "duration": 2.47,
+        "description_visual": "中近景平拍镜头；卧室，床头灯；画面左侧人物，身穿白色蝴蝶结系带衬衫，俯身，被男子拉住手臂，表情：低头，惊讶；画面右侧（床上）人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，手拉女子，表情：抬头，眼神迷离。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面左侧",
+                "action": "俯身靠近男子",
+                "expression": "低头，神情复杂"
+            },
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面右侧（床上）",
+                "action": "躺在床上，看着女子",
+                "expression": "眼神迷离，嘴巴微张"
+            }
+        ],
+        "background": "卧室，床头灯",
+        "description_narrative": "中近景镜头，女子俯身靠近床上的秦奋，两人距离极近。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 2.1,
+        "description_visual": "中近景平拍镜头；卧室，床头灯；画面左侧人物，身穿白色蝴蝶结系带衬衫，俯身靠近男子，表情：低头，神情复杂；画面右侧（床上）人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，看着女子，表情：眼神迷离，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "躺在床上，深情看着上方女子",
+                "expression": "眼睛注视，嘴巴微张，深情"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面左侧（局部）",
+                "action": "俯身",
+                "expression": "无"
+            }
+        ],
+        "background": "白色床铺，软包床头",
+        "description_narrative": "特写仰拍镜头，秦奋躺在床上，深情地对女子表白说真的很喜欢她。",
+        "dialogue": "我真的很喜欢你",
+        "speaker": "秦奋",
+        "emotion": "深情",
+        "duration": 2.1,
+        "description_visual": "特写仰拍镜头；白色床铺，软包床头；画面中央人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，深情看着上方女子，表情：眼睛注视，嘴巴微张，深情；画面左侧（局部）人物，身穿白色蝴蝶结系带衬衫，俯身，表情：无。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "低头看着男子，惊讶",
+                "expression": "眉毛微扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "卧室，背景虚化",
+        "description_narrative": "特写镜头，女子听到表白后惊讶地看着秦奋，欲言又止。",
+        "dialogue": "秦奋，你",
+        "speaker": "女子",
+        "emotion": "惊讶",
+        "duration": 1.07,
+        "description_visual": "特写平拍镜头；卧室，背景虚化；画面中央人物，身穿白色蝴蝶结系带衬衫，低头看着男子，惊讶，表情：眉毛微扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装外套，黑白条纹衬衫",
+                "position": "画面下方",
+                "action": "躺在床上，试图靠近",
+                "expression": "眼神迷离"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面上方",
+                "action": "按住男子肩膀，试图阻止",
+                "expression": "眉头微蹙"
+            }
+        ],
+        "background": "白色床铺，软包床头",
+        "description_narrative": "特写仰拍镜头，女子按住秦奋的肩膀，让他冷静一下，不要这样。",
+        "dialogue": "冷静一下，不要这样。",
+        "speaker": "女子",
+        "emotion": "克制",
+        "duration": 1.9,
+        "description_visual": "特写仰拍镜头；白色床铺，软包床头；画面下方人物，身穿米色西装外套，黑白条纹衬衫，躺在床上，试图靠近，表情：眼神迷离；画面上方人物，身穿白色蝴蝶结系带衬衫，按住男子肩膀，试图阻止，表情：眉头微蹙。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色蝴蝶结系带衬衫",
+                "position": "画面中央",
+                "action": "低头看着男子，神情复杂",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，背景虚化",
+        "description_narrative": "特写镜头，女子低头看着秦奋，画面模糊，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 0.73,
+        "description_visual": "特写平拍镜头；卧室，背景虚化；画面中央人物，身穿白色蝴蝶结系带衬衫，低头看着男子，神情复杂，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "模糊",
+                "position": "画面中央",
+                "action": "快速移动",
+                "expression": "无"
+            }
+        ],
+        "background": "卧室，衣柜",
+        "description_narrative": "特写摇镜，画面快速移动变得模糊，伴随暧昧的声音。",
+        "dialogue": "嗯嗯嗯嗯嗯。",
+        "speaker": "秦奋",
+        "emotion": "冲动",
+        "duration": 1.3,
+        "description_visual": "特写平拍镜头（摇镜）；卧室，衣柜；画面中央人物，身穿模糊，快速移动，表情：无。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "模糊",
+                "position": "画面中央",
+                "action": "静止",
+                "expression": "无"
+            }
+        ],
+        "background": "卧室，衣柜门",
+        "description_narrative": "近景镜头，画面昏暗，聚焦在衣柜门上，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.9,
+        "description_visual": "近景平拍镜头；卧室，衣柜门；画面中央人物，身穿模糊，静止，表情：无。"
+    }
+]

@@ -1,0 +1,660 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色 Polo 衫",
+                "position": "画面中央",
+                "action": "身体前倾，双手支撑在桌面上，头部微抬",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张正在说话"
+            }
+        ],
+        "background": "医院诊室，背景有白色墙壁和挂着的衣物，光线明亮",
+        "description_narrative": "近景固定镜头，严总身穿黑色 Polo 衫坐在诊室桌前，身体前倾，神情焦虑地询问医生结果。",
+        "dialogue": "医生，结果怎么样？",
+        "speaker": "严总",
+        "emotion": "焦虑",
+        "duration": 1.93,
+        "description_visual": "近景平拍镜头；医院诊室，背景有白色墙壁和挂着的衣物，光线明亮；画面中央人物，身穿黑色 Polo 衫，身体前倾，双手支撑在桌面上，头部微抬，表情：眉毛微蹙，眼睛直视前方，嘴巴微张正在说话。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白大褂，戴口罩眼镜",
+                "position": "画面左侧",
+                "action": "坐在桌后，双手按在文件上，抬头看向对面",
+                "expression": "眼神平静透过镜片，嘴巴被口罩遮挡，头部微点"
+            },
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色 Polo 衫",
+                "position": "画面右前景（背影）",
+                "action": "背对镜头坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "诊室办公桌，桌上有文件和键盘，背景简洁",
+        "description_narrative": "过肩中景镜头，医生身穿白大褂坐在桌后，看着文件告知严总配型不成功。",
+        "dialogue": "您的不成功",
+        "speaker": "医生",
+        "emotion": "冷静",
+        "duration": 1.57,
+        "description_visual": "中景过肩镜头；诊室办公桌，桌上有文件和键盘，背景简洁；画面左侧人物，身穿白大褂，戴口罩眼镜，坐在桌后，双手按在文件上，抬头看向对面，表情：眼神平静透过镜片，嘴巴被口罩遮挡，头部微点；画面右前景（背影）人物，身穿黑色 Polo 衫，背对镜头坐着，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色 Polo 衫",
+                "position": "画面中央",
+                "action": "眼神下移，嘴唇微动",
+                "expression": "眉毛舒展但眼神失落，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "诊室背景，可见部分锦旗边缘",
+        "description_narrative": "近景固定镜头，严总听到结果后眼神失落，医生建议继续寻找配型。",
+        "dialogue": "再继续找找吧",
+        "speaker": "医生",
+        "emotion": "失落",
+        "duration": 2.43,
+        "description_visual": "近景平拍镜头；诊室背景，可见部分锦旗边缘；画面中央人物，身穿黑色 Polo 衫，眼神下移，嘴唇微动，表情：眉毛舒展但眼神失落，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "升降",
+        "subjects": [],
+        "background": "城市高楼全景，蓝天大海，阳光明媚",
+        "description_narrative": "远景升降镜头，展示现代化的摩天大楼和城市景观，作为场景转换。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.7,
+        "description_visual": "远景俯拍镜头（升降）；城市高楼全景，蓝天大海，阳光明媚。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市高楼全景，蓝天大海",
+        "description_narrative": "远景固定镜头，持续展示城市高楼外观。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.63,
+        "description_visual": "远景俯拍镜头；城市高楼全景，蓝天大海。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市高楼全景，蓝天大海",
+        "description_narrative": "远景固定镜头，持续展示城市高楼外观。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.67,
+        "description_visual": "远景俯拍镜头；城市高楼全景，蓝天大海。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "同事 B",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧",
+                "action": "坐在工位上操作电脑",
+                "expression": "专注看着屏幕"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "蓝色牛仔衣",
+                "position": "画面左侧",
+                "action": "坐在工位上",
+                "expression": "不可见"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "棕色外套",
+                "position": "画面中左",
+                "action": "坐在工位上",
+                "expression": "不可见"
+            },
+            {
+                "name": "同事 A",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面后方",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右后",
+                "action": "走进办公室",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室内部，有隔断、电脑、绿植，光线均匀",
+        "description_narrative": "全景固定镜头，办公室内同事们正在工作，严总身穿西装从右侧走入画面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.97,
+        "description_visual": "全景平拍镜头；办公室内部，有隔断、电脑、绿植，光线均匀；画面右侧人物，身穿白衬衫，坐在工位上操作电脑，表情：专注看着屏幕；画面左侧人物，身穿蓝色牛仔衣，坐在工位上，表情：不可见；画面中左人物，身穿棕色外套，坐在工位上，表情：不可见；画面后方人物，身穿黑色西装，站立，表情：不可见；画面右后人物，身穿黑色西装，走进办公室，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，领带",
+                "position": "画面右侧",
+                "action": "行走中转头看向办公室内",
+                "expression": "眉毛微挑，眼睛环视，嘴巴微张惊讶"
+            }
+        ],
+        "background": "办公室过道，前景有模糊的花瓶",
+        "description_narrative": "中景跟拍镜头，严总走进办公室，惊讶地发现大家都在。",
+        "dialogue": "天哪，大家都在这儿。",
+        "speaker": "严总",
+        "emotion": "惊讶",
+        "duration": 2.23,
+        "description_visual": "中景平拍镜头（跟拍）；办公室过道，前景有模糊的花瓶；画面右侧人物，身穿黑色西装，白衬衫，领带，行走中转头看向办公室内，表情：眉毛微挑，眼睛环视，嘴巴微张惊讶。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右后",
+                "action": "站立在工位旁",
+                "expression": "表情诚恳"
+            },
+            {
+                "name": "同事 A",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中后",
+                "action": "站立在严总身旁",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "同事 B",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧",
+                "action": "坐在工位转身",
+                "expression": "抬头看"
+            }
+        ],
+        "background": "办公室工位区，有电脑、文件、水瓶",
+        "description_narrative": "全景固定镜头，严总和同事 A 站在办公区，严总向同事们致歉打扰。",
+        "dialogue": "不好意思，打扰大家。",
+        "speaker": "严总",
+        "emotion": "诚恳",
+        "duration": 2.53,
+        "description_visual": "全景平拍镜头；办公室工位区，有电脑、文件、水瓶；画面右后人物，身穿黑色西装，站立在工位旁，表情：表情诚恳；画面中后人物，身穿黑色西装，站立在严总身旁，表情：表情严肃；画面右侧人物，身穿白衬衫，坐在工位转身，表情：抬头看。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，条纹领带",
+                "position": "画面中央",
+                "action": "站立说话，头部微动",
+                "expression": "眉毛微蹙，眼神真诚，嘴巴开合"
+            }
+        ],
+        "background": "办公室百叶窗背景",
+        "description_narrative": "特写固定镜头，严总表情严肃地解释有一个很重要的朋友生病了。",
+        "dialogue": "我一个很重要的朋友",
+        "speaker": "严总",
+        "emotion": "严肃",
+        "duration": 4.9,
+        "description_visual": "特写平拍镜头；办公室百叶窗背景；画面中央人物，身穿黑色西装，条纹领带，站立说话，头部微动，表情：眉毛微蹙，眼神真诚，嘴巴开合。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "同事 A",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "站立倾听",
+                "expression": "表情关注"
+            },
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立说话，手部微动作",
+                "expression": "眼神恳切"
+            }
+        ],
+        "background": "办公室百叶窗背景，前景有模糊的工位隔断",
+        "description_narrative": "中景固定镜头，严总和同事 A 站在一起，严总请求大家帮忙。",
+        "dialogue": "所以想请大家帮忙",
+        "speaker": "严总",
+        "emotion": "恳切",
+        "duration": 2.5,
+        "description_visual": "中景平拍镜头；办公室百叶窗背景，前景有模糊的工位隔断；画面左侧人物，身穿黑色西装，站立倾听，表情：表情关注；画面右侧人物，身穿黑色西装，站立说话，手部微动作，表情：眼神恳切。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右后",
+                "action": "站立说明情况",
+                "expression": "认真"
+            },
+            {
+                "name": "同事 A",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中后",
+                "action": "站立",
+                "expression": "认真"
+            }
+        ],
+        "background": "办公室全景，同事们坐在工位上",
+        "description_narrative": "全景固定镜头，严总向全体同事说明如果需要帮忙的情况。",
+        "dialogue": "如果大家愿意帮忙的话",
+        "speaker": "严总",
+        "emotion": "期待",
+        "duration": 1.7,
+        "description_visual": "全景平拍镜头；办公室全景，同事们坐在工位上；画面右后人物，身穿黑色西装，站立说明情况，表情：认真；画面中后人物，身穿黑色西装，站立，表情：认真。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "同事 A",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "平静"
+            },
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "双手在身前比划",
+                "expression": "眼神期待"
+            }
+        ],
+        "background": "办公室百叶窗背景",
+        "description_narrative": "中景固定镜头，严总表示愿意帮忙的可以告诉他，会衷心感谢。",
+        "dialogue": "可以跟我说一声",
+        "speaker": "严总",
+        "emotion": "感激",
+        "duration": 3.87,
+        "description_visual": "中景平拍镜头；办公室百叶窗背景；画面左侧人物，身穿黑色西装，站立，表情：平静；画面右侧人物，身穿黑色西装，双手在身前比划，表情：眼神期待。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "头部转向左侧，眼神惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室百叶窗背景",
+        "description_narrative": "特写固定镜头，严总听到有人响应，惊讶地转头看去。",
+        "dialogue": "严总算我一个",
+        "speaker": "同事 A",
+        "emotion": "惊讶",
+        "duration": 1.43,
+        "description_visual": "特写平拍镜头；办公室百叶窗背景；画面中央人物，身穿黑色西装，头部转向左侧，眼神惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "同事 B",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧",
+                "action": "高举右手",
+                "expression": "积极"
+            },
+            {
+                "name": "同事 A",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中后",
+                "action": "举手敬礼姿势",
+                "expression": "认真"
+            }
+        ],
+        "background": "办公室工位区",
+        "description_narrative": "全景固定镜头，同事们纷纷举手响应，表示愿意帮忙。",
+        "dialogue": "还有我，还有我",
+        "speaker": "同事 B",
+        "emotion": "积极",
+        "duration": 1.37,
+        "description_visual": "全景平拍镜头；办公室工位区；画面右侧人物，身穿白衬衫，高举右手，表情：积极；画面中后人物，身穿黑色西装，举手敬礼姿势，表情：认真。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "同事 A",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "手举在耳边",
+                "expression": "坚定"
+            },
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立看着同事",
+                "expression": "感动"
+            }
+        ],
+        "background": "办公室百叶窗背景",
+        "description_narrative": "中景固定镜头，严总看着响应的同事，神情感动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "感动",
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头；办公室百叶窗背景；画面左侧人物，身穿黑色西装，手举在耳边，表情：坚定；画面右侧人物，身穿黑色西装，站立看着同事，表情：感动。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "眼神微动，嘴唇紧闭",
+                "expression": "眉毛微蹙，眼神复杂，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室背景虚化",
+        "description_narrative": "特写固定镜头，严总面部特写，展现出内心的波动和感激。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；办公室背景虚化；画面中央人物，身穿黑色西装，眼神微动，嘴唇紧闭，表情：眉毛微蹙，眼神复杂，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "高楼大厦外观，蓝天白云",
+        "description_narrative": "远景固定镜头，展示公司大楼外观，时间过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.53,
+        "description_visual": "远景仰拍镜头；高楼大厦外观，蓝天白云。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色 T 恤",
+                "position": "画面中央",
+                "action": "坐在办公桌前低头写字",
+                "expression": "专注，眉毛微垂"
+            }
+        ],
+        "background": "办公室，书架上有招财猫摆件",
+        "description_narrative": "中近景固定镜头，严总在办公室低头写字，此时电话响起。",
+        "dialogue": "小严",
+        "speaker": "神秘女子",
+        "emotion": "专注",
+        "duration": 11.13,
+        "description_visual": "中近景平拍镜头；办公室，书架上有招财猫摆件；画面中央人物，身穿黑色西装外套，白色 T 恤，坐在办公桌前低头写字，表情：专注，眉毛微垂。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色 T 恤",
+                "position": "画面中央",
+                "action": "手持手机贴在耳边，皱眉",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室书架背景",
+        "description_narrative": "特写固定镜头，严总接起电话，表情不耐烦地让对方不要总打电话。",
+        "dialogue": "你别总是给我打电话了，好不好？",
+        "speaker": "严总",
+        "emotion": "不耐烦",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；办公室书架背景；画面中央人物，身穿黑色西装外套，白色 T 恤，手持手机贴在耳边，皱眉，表情：眉毛紧锁，眼睛眯起，嘴巴张开说话。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "神秘女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰外套",
+                "position": "画面中央",
+                "action": "手持绿色手机贴在耳边",
+                "expression": "眼神平静，嘴唇微闭"
+            }
+        ],
+        "background": "室内暖光背景，有置物架",
+        "description_narrative": "特写固定镜头，神秘女子在电话另一端，语气平静地提议聊聊。",
+        "dialogue": "我们聊聊吧。",
+        "speaker": "神秘女子",
+        "emotion": "平静",
+        "duration": 1.73,
+        "description_visual": "特写平拍镜头；室内暖光背景，有置物架；画面中央人物，身穿黑色珍珠装饰外套，手持绿色手机贴在耳边，表情：眼神平静，嘴唇微闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色 T 恤",
+                "position": "画面中央",
+                "action": "闭眼靠在手机上",
+                "expression": "眼睛紧闭，眉头紧锁，嘴巴微张"
+            }
+        ],
+        "background": "办公室书架背景",
+        "description_narrative": "特写固定镜头，严总闭眼表示没什么可谈的，询问对方是否有别的事。",
+        "dialogue": "我们没什么可谈的，你还有别的事吗",
+        "speaker": "严总",
+        "emotion": "抗拒",
+        "duration": 1.97,
+        "description_visual": "特写平拍镜头；办公室书架背景；画面中央人物，身穿黑色西装外套，白色 T 恤，闭眼靠在手机上，表情：眼睛紧闭，眉头紧锁，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "神秘女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰外套",
+                "position": "画面中央",
+                "action": "闭眼听电话，随后睁眼",
+                "expression": "眼睛闭合后睁开，神情急切"
+            }
+        ],
+        "background": "室内暖光背景",
+        "description_narrative": "特写固定镜头，神秘女子听到严总要挂电话，急忙喊住他。",
+        "dialogue": "没有，我挂了。哎等等",
+        "speaker": "神秘女子",
+        "emotion": "急切",
+        "duration": 2.33,
+        "description_visual": "特写平拍镜头；室内暖光背景；画面中央人物，身穿黑色珍珠装饰外套，闭眼听电话，随后睁眼，表情：眼睛闭合后睁开，神情急切。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色 T 恤",
+                "position": "画面中央",
+                "action": "手持手机，眼神停顿",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "办公室书架背景",
+        "description_narrative": "特写固定镜头，严总听到对方有话要说，动作停顿。",
+        "dialogue": "如果",
+        "speaker": "神秘女子",
+        "emotion": "迟疑",
+        "duration": 1.37,
+        "description_visual": "特写平拍镜头；办公室书架背景；画面中央人物，身穿黑色西装外套，白色 T 恤，手持手机，眼神停顿，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "神秘女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰外套",
+                "position": "画面中央",
+                "action": "手持手机，眼神坚定",
+                "expression": "眉毛舒展，眼睛直视，嘴唇微启"
+            }
+        ],
+        "background": "室内暖光背景",
+        "description_narrative": "特写固定镜头，神秘女子抛出重磅炸弹，说如果能救陈思思。",
+        "dialogue": "如果我能救陈思思呢",
+        "speaker": "神秘女子",
+        "emotion": "坚定",
+        "duration": 1.13,
+        "description_visual": "特写平拍镜头；室内暖光背景；画面中央人物，身穿黑色珍珠装饰外套，手持手机，眼神坚定，表情：眉毛舒展，眼睛直视，嘴唇微启。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "神秘女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰外套",
+                "position": "画面中央",
+                "action": "手持手机，面部被光晕笼罩",
+                "expression": "眼神深邃，嘴巴闭合"
+            }
+        ],
+        "background": "室内背景，有强烈的光晕效果",
+        "description_narrative": "特写固定镜头，神秘女子在光晕中等待回应，画面结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "神秘",
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；室内背景，有强烈的光晕效果；画面中央人物，身穿黑色珍珠装饰外套，手持手机，面部被光晕笼罩，表情：眼神深邃，嘴巴闭合。"
+    }
+]

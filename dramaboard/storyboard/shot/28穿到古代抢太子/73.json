@@ -1,0 +1,762 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左前方",
+                "expression": "眉毛微挑，眼睛注视，嘴唇微张"
+            }
+        ],
+        "background": "室内宫殿场景，背景模糊，暖色调灯光",
+        "description_narrative": "中近景固定镜头，黑衣女子身穿黑色礼服头戴大檐帽，头部微侧看向左前方，眉毛微挑，嘴唇微张，似乎正在称呼某人。",
+        "dialogue": "皇帝陛下",
+        "speaker": "黑衣女子",
+        "emotion": "挑衅",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内宫殿场景，背景模糊，暖色调灯光；画面中央人物，身穿黑色礼服，大檐帽，头部微侧，眼神看向左前方，表情：眉毛微挑，眼睛注视，嘴唇微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面中央",
+                "action": "手持白色羽毛扇，身体微倾",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内宫殿场景，背景有人物模糊身影",
+        "description_narrative": "中近景固定镜头，黑衣女子手持白色羽毛扇，身体微倾，眉毛舒展，嘴角上扬，带着玩味的表情说话。",
+        "dialogue": "这局你们是认输了呢，还是认输了呢？",
+        "speaker": "黑衣女子",
+        "emotion": "嘲讽",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；室内宫殿场景，背景有人物模糊身影；画面中央人物，身穿黑色礼服，大檐帽，手持白色羽毛扇，身体微倾，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍，金冠",
+                "position": "画面中央",
+                "action": "端坐，头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "宫殿龙椅，金色雕花背景",
+        "description_narrative": "中景固定镜头，皇帝身穿黄色龙袍端坐龙椅，头部微低，眉毛微蹙，眼睛下视，神情略显无奈。",
+        "dialogue": "还是认输了呢",
+        "speaker": "黑衣女子",
+        "emotion": "无奈",
+        "duration": 2.12,
+        "description_visual": "中景平拍镜头；宫殿龙椅，金色雕花背景；画面中央人物，身穿黄色龙袍，金冠，端坐，头部微低，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金纹长袍，金冠",
+                "position": "画面右侧",
+                "action": "站立，双手置于腰间",
+                "expression": "眉毛平展，眼睛直视前方，嘴唇微抿"
+            },
+            {
+                "name": "李大白",
+                "gender": "男",
+                "clothing": "米色长袍",
+                "position": "画面左侧背景",
+                "action": "站立",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "宫殿大厅，立柱，暖光",
+        "description_narrative": "中景固定镜头，太子身穿白底金纹长袍站立于画面右侧，双手置于腰间，眼神坚定直视前方，李大白立于左后背景。",
+        "dialogue": "行了",
+        "speaker": "太子",
+        "emotion": "不耐烦",
+        "duration": 5.4,
+        "description_visual": "中景平拍镜头；宫殿大厅，立柱，暖光；画面右侧人物，身穿白底金纹长袍，金冠，站立，双手置于腰间，表情：眉毛平展，眼睛直视前方，嘴唇微抿；画面左侧背景人物，身穿米色长袍，站立，表情：表情平静。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金纹长袍，金冠",
+                "position": "画面中央",
+                "action": "头部微抬，眼神锐利",
+                "expression": "眉毛微扬，眼睛睁大，嘴唇紧闭"
+            }
+        ],
+        "background": "宫殿背景，模糊的烛光",
+        "description_narrative": "特写固定镜头，太子头部微抬，眼神锐利，眉毛微扬，表情严肃坚定。",
+        "dialogue": "李大白，也让你装够了",
+        "speaker": "太子",
+        "emotion": "自信",
+        "duration": 4.36,
+        "description_visual": "特写平拍镜头；宫殿背景，模糊的烛光；画面中央人物，身穿白底金纹长袍，金冠，头部微抬，眼神锐利，表情：眉毛微扬，眼睛睁大，嘴唇紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "站立，单手抚胸",
+                "expression": "眉毛舒展，眼睛看向前方，嘴唇微张"
+            }
+        ],
+        "background": "宫殿内部，烛光摇曳",
+        "description_narrative": "中近景固定镜头，老臣身穿紫色官服站立，单手抚胸，眉毛舒展，嘴唇微张，似乎在倾听或准备说话。",
+        "dialogue": "父皇，儿臣愿意为大夏出战",
+        "speaker": "太子",
+        "emotion": "忠诚",
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光摇曳；画面中央人物，身穿紫色官服，高冠，站立，单手抚胸，表情：眉毛舒展，眼睛看向前方，嘴唇微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "双手抱拳行礼",
+                "expression": "眉毛微蹙，眼睛注视上方，嘴唇微动"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣双手抱拳行礼，眉毛微蹙，眼睛注视上方，神情恭敬。",
+        "dialogue": "启禀",
+        "speaker": "老臣",
+        "emotion": "恭敬",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，双手抱拳行礼，表情：眉毛微蹙，眼睛注视上方，嘴唇微动。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "双手抱拳，身体微前倾",
+                "expression": "眉毛平展，眼睛注视，嘴唇微张"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣双手抱拳，身体微前倾，眉毛平展，正在向皇帝进言。",
+        "dialogue": "陛下",
+        "speaker": "老臣",
+        "emotion": "诚恳",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，双手抱拳，身体微前倾，表情：眉毛平展，眼睛注视，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "手部动作，似乎在比划",
+                "expression": "眉毛微扬，眼睛注视，嘴唇开合"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣手部有轻微动作，眉毛微扬，正在陈述理由。",
+        "dialogue": "既然",
+        "speaker": "老臣",
+        "emotion": "建议",
+        "duration": 8.2,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，手部动作，似乎在比划，表情：眉毛微扬，眼睛注视，嘴唇开合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍，金冠",
+                "position": "画面中央",
+                "action": "坐在桌前，手扶桌面",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴唇微张"
+            }
+        ],
+        "background": "宫殿书桌，烛台，文房四宝",
+        "description_narrative": "中景固定镜头，皇帝坐在桌前，手扶桌面，眉毛微挑，眼睛看向一侧，似乎在考虑老臣的建议。",
+        "dialogue": "太子殿下有如此的自信，不如就准了太子吧",
+        "speaker": "老臣",
+        "emotion": "劝说",
+        "duration": 3.04,
+        "description_visual": "中景平拍镜头；宫殿书桌，烛台，文房四宝；画面中央人物，身穿黄色龙袍，金冠，坐在桌前，手扶桌面，表情：眉毛微挑，眼睛看向一侧，嘴唇微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "单手抚胸，面带微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣单手抚胸，面带微笑，眉毛舒展，似乎对太子的请缨感到欣慰或无奈。",
+        "dialogue": "好吧，死马当活马医",
+        "speaker": "皇帝",
+        "emotion": "无奈",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，单手抚胸，面带微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍，金冠",
+                "position": "画面中央",
+                "action": "坐在桌前，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴唇微动"
+            }
+        ],
+        "background": "宫殿书桌，烛台",
+        "description_narrative": "中景固定镜头，皇帝坐在桌前身体前倾，眉毛微蹙，眼睛注视前方，正在对太子说话。",
+        "dialogue": "标儿",
+        "speaker": "皇帝",
+        "emotion": "威严",
+        "duration": 3.08,
+        "description_visual": "中景平拍镜头；宫殿书桌，烛台；画面中央人物，身穿黄色龙袍，金冠，坐在桌前，身体前倾，表情：眉毛微蹙，眼睛注视前方，嘴唇微动。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金纹长袍，金冠",
+                "position": "画面中央",
+                "action": "头部微动，眼神坚定",
+                "expression": "眉毛平展，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "宫殿背景，模糊",
+        "description_narrative": "特写固定镜头，太子头部微动，眼神坚定，眉毛平展，听到皇帝的准许后神情专注。",
+        "dialogue": "朕，准你出战",
+        "speaker": "皇帝",
+        "emotion": "决断",
+        "duration": 5.16,
+        "description_visual": "特写平拍镜头；宫殿背景，模糊；画面中央人物，身穿白底金纹长袍，金冠，头部微动，眼神坚定，表情：眉毛平展，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李大白",
+                "gender": "男",
+                "clothing": "米色长袍",
+                "position": "画面中央",
+                "action": "站立，神情淡然",
+                "expression": "眉毛平展，眼睛微垂，嘴唇紧闭"
+            }
+        ],
+        "background": "宫殿大厅，背景有人物",
+        "description_narrative": "中景固定镜头，李大白身穿米色长袍站立，神情淡然，眉毛平展，眼睛微垂，等待挑战开始。",
+        "dialogue": "李大白，远来的是客，就请先出上联吧",
+        "speaker": "太子",
+        "emotion": "礼貌",
+        "duration": 7.68,
+        "description_visual": "中景平拍镜头；宫殿大厅，背景有人物；画面中央人物，身穿米色长袍，站立，神情淡然，表情：眉毛平展，眼睛微垂，嘴唇紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面左侧",
+                "action": "站立，手持扇子",
+                "expression": "表情关注"
+            },
+            {
+                "name": "李大白",
+                "gender": "男",
+                "clothing": "米色长袍",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "神情自信"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金纹长袍",
+                "position": "画面右侧",
+                "action": "站立，侧身",
+                "expression": "神情专注"
+            }
+        ],
+        "background": "宫殿大厅，多人站立",
+        "description_narrative": "全景固定镜头，黑衣女子、李大白、太子等人站立于大殿，李大白位于中央，准备出对联。",
+        "dialogue": "听好了，我的上联是莺莺燕燕，翠翠红红，处处融融恰恰",
+        "speaker": "李大白",
+        "emotion": "自信",
+        "duration": 5.6,
+        "description_visual": "全景平拍镜头；宫殿大厅，多人站立；画面左侧人物，身穿黑色礼服，大檐帽，站立，手持扇子，表情：表情关注；画面中央人物，身穿米色长袍，站立，表情：神情自信；画面右侧人物，身穿白底金纹长袍，站立，侧身，表情：神情专注。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫衣官员",
+                "gender": "男",
+                "clothing": "紫色官服，条纹黑帽",
+                "position": "画面中央",
+                "action": "低头，神情凝重",
+                "expression": "眉毛紧锁，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，紫衣官员身穿紫色官服，低头神情凝重，眉毛紧锁，似乎在思考对联的难度。",
+        "dialogue": "我给你一柱香的时间，对不出就自行投降吧",
+        "speaker": "李大白",
+        "emotion": "挑战",
+        "duration": 6.84,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，条纹黑帽，低头，神情凝重，表情：眉毛紧锁，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍，金冠",
+                "position": "画面中央",
+                "action": "坐在桌前，侧头",
+                "expression": "眉毛微蹙，眼睛看向一侧，若有所思"
+            }
+        ],
+        "background": "宫殿书桌，烛台",
+        "description_narrative": "中景固定镜头，皇帝坐在桌前侧头，眉毛微蹙，眼睛看向一侧，若有所思地听着臣子的评价。",
+        "dialogue": "陛下，这上联虽是叠词，但自成文章，实在是绝对",
+        "speaker": "老臣",
+        "emotion": "赞叹",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；宫殿书桌，烛台；画面中央人物，身穿黄色龙袍，金冠，坐在桌前，侧头，表情：眉毛微蹙，眼睛看向一侧，若有所思。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "闭眼，单手抚胸",
+                "expression": "眉毛舒展，眼睛闭合，神情陶醉"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣闭眼，单手抚胸，眉毛舒展，神情陶醉地品味对联。",
+        "dialogue": "诗情画意",
+        "speaker": "老臣",
+        "emotion": "欣赏",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，闭眼，单手抚胸，表情：眉毛舒展，眼睛闭合，神情陶醉。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍，金冠",
+                "position": "画面中央",
+                "action": "坐在桌前，点头",
+                "expression": "眉毛微扬，眼睛注视，嘴唇微动"
+            }
+        ],
+        "background": "宫殿书桌，烛台",
+        "description_narrative": "中景固定镜头，皇帝坐在桌前点头，眉毛微扬，表示赞同臣子的评价。",
+        "dialogue": "文采飞扬",
+        "speaker": "老臣",
+        "emotion": "赞赏",
+        "duration": 3.48,
+        "description_visual": "中景平拍镜头；宫殿书桌，烛台；画面中央人物，身穿黄色龙袍，金冠，坐在桌前，点头，表情：眉毛微扬，眼睛注视，嘴唇微动。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "允文",
+                "gender": "男",
+                "clothing": "橙黄色长袍，金饰",
+                "position": "画面中央",
+                "action": "侧身，嘴角微扬",
+                "expression": "眉毛微挑，眼睛斜视，嘴角上扬"
+            }
+        ],
+        "background": "宫殿内部，暖光",
+        "description_narrative": "中近景固定镜头，允文身穿橙黄色长袍，侧身嘴角微扬，眉毛微挑，带着嘲讽的笑意说话。",
+        "dialogue": "果然不愧是出自诗仙之口啊",
+        "speaker": "允文",
+        "emotion": "嘲讽",
+        "duration": 4.88,
+        "description_visual": "中近景平拍镜头；宫殿内部，暖光；画面中央人物，身穿橙黄色长袍，金饰，侧身，嘴角微扬，表情：眉毛微挑，眼睛斜视，嘴角上扬。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "叹气，摇头",
+                "expression": "眉毛紧锁，眼睛微闭，嘴角下撇"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣叹气摇头，眉毛紧锁，眼睛微闭，对联语的难度感到担忧。",
+        "dialogue": "唉",
+        "speaker": "老臣",
+        "emotion": "担忧",
+        "duration": 2.44,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，叹气，摇头，表情：眉毛紧锁，眼睛微闭，嘴角下撇。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "手部比划，摇头",
+                "expression": "眉毛紧锁，眼睛注视，嘴唇开合"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣手部比划，摇头，眉毛紧锁，强调对联的难度。",
+        "dialogue": "这种绝对",
+        "speaker": "老臣",
+        "emotion": "惊叹",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，手部比划，摇头，表情：眉毛紧锁，眼睛注视，嘴唇开合。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "手部动作，身体微倾",
+                "expression": "眉毛紧锁，眼睛注视，嘴唇开合"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣手部动作，身体微倾，眉毛紧锁，继续解释对联之难。",
+        "dialogue": "凡俗书中",
+        "speaker": "老臣",
+        "emotion": "无奈",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，手部动作，身体微倾，表情：眉毛紧锁，眼睛注视，嘴唇开合。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "单手抚胸，摇头",
+                "expression": "眉毛紧锁，眼睛微闭，嘴唇开合"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣单手抚胸，摇头，眉毛紧锁，断言书中难寻下联。",
+        "dialogue": "岂能找得到",
+        "speaker": "老臣",
+        "emotion": "断言",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，单手抚胸，摇头，表情：眉毛紧锁，眼睛微闭，嘴唇开合。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "站立，神情凝重",
+                "expression": "眉毛平展，眼睛注视，嘴唇紧闭"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣站立，神情凝重，眉毛平展，沉默片刻。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，站立，神情凝重，表情：眉毛平展，眼睛注视，嘴唇紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "头部微动，说话",
+                "expression": "眉毛微蹙，眼睛注视，嘴唇开合"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣头部微动，眉毛微蹙，开始发表新的看法。",
+        "dialogue": "看来",
+        "speaker": "老臣",
+        "emotion": "推测",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，头部微动，说话，表情：眉毛微蹙，眼睛注视，嘴唇开合。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服，高冠",
+                "position": "画面中央",
+                "action": "双手张开，说话",
+                "expression": "眉毛微扬，眼睛注视，嘴唇开合"
+            }
+        ],
+        "background": "宫殿内部，烛光",
+        "description_narrative": "中近景固定镜头，老臣双手张开，眉毛微扬，强调时间的紧迫性。",
+        "dialogue": "这一柱香的时间",
+        "speaker": "老臣",
+        "emotion": "焦急",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；宫殿内部，烛光；画面中央人物，身穿紫色官服，高冠，双手张开，说话，表情：眉毛微扬，眼睛注视，嘴唇开合。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面中央",
+                "action": "手持扇子，说话",
+                "expression": "眉毛微挑，眼睛注视，嘴唇开合"
+            }
+        ],
+        "background": "宫殿内部，背景有人物",
+        "description_narrative": "中近景固定镜头，黑衣女子手持扇子，眉毛微挑，嘴唇开合，指出时间可能不够。",
+        "dialogue": "怕是不够用了",
+        "speaker": "黑衣女子",
+        "emotion": "质疑",
+        "duration": 1.36,
+        "description_visual": "中近景平拍镜头；宫殿内部，背景有人物；画面中央人物，身穿黑色礼服，大檐帽，手持扇子，说话，表情：眉毛微挑，眼睛注视，嘴唇开合。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色礼服，大檐帽",
+                "position": "画面中央",
+                "action": "手持扇子，表情严肃",
+                "expression": "眉毛微蹙，眼睛注视，嘴唇开合"
+            }
+        ],
+        "background": "宫殿内部，背景有人物",
+        "description_narrative": "中近景固定镜头，黑衣女子手持扇子，表情严肃，眉毛微蹙，强调约定的时间。",
+        "dialogue": "说好的一柱香时间",
+        "speaker": "黑衣女子",
+        "emotion": "坚持",
+        "duration": 0.64,
+        "description_visual": "中近景平拍镜头；宫殿内部，背景有人物；画面中央人物，身穿黑色礼服，大檐帽，手持扇子，表情严肃，表情：眉毛微蹙，眼睛注视，嘴唇开合。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍，金冠",
+                "position": "画面中央",
+                "action": "坐在桌前，挥手",
+                "expression": "眉毛舒展，眼睛注视，嘴唇微动"
+            }
+        ],
+        "background": "宫殿书桌，烛台",
+        "description_narrative": "中景固定镜头，皇帝坐在桌前挥手，眉毛舒展，做出准许众人合力的决定。",
+        "dialogue": "准你们一起想下联，不算作弊",
+        "speaker": "皇帝",
+        "emotion": "宽容",
+        "duration": 4.36,
+        "description_visual": "中景平拍镜头；宫殿书桌，烛台；画面中央人物，身穿黄色龙袍，金冠，坐在桌前，挥手，表情：眉毛舒展，眼睛注视，嘴唇微动。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "允文",
+                "gender": "男",
+                "clothing": "橙黄色长袍，金饰",
+                "position": "画面中央",
+                "action": "站立，神情傲慢",
+                "expression": "眉毛微挑，眼睛斜视，嘴角紧闭"
+            }
+        ],
+        "background": "宫殿内部，暖光",
+        "description_narrative": "中近景固定镜头，允文站立，神情傲慢，眉毛微挑，眼睛斜视，似乎在等待看笑话。",
+        "dialogue": "允文",
+        "speaker": "皇帝",
+        "emotion": "点名",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；宫殿内部，暖光；画面中央人物，身穿橙黄色长袍，金饰，站立，神情傲慢，表情：眉毛微挑，眼睛斜视，嘴角紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "允文",
+                "gender": "男",
+                "clothing": "橙黄色长袍，金饰",
+                "position": "画面中央",
+                "action": "说话，表情嘲讽",
+                "expression": "眉毛微扬，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "宫殿内部，暖光",
+        "description_narrative": "中近景固定镜头，允文说话，表情嘲讽，眉毛微扬，眼睛眯起，断言无人能对出下联。",
+        "dialogue": "你可有办法吗？父皇，此乃天赐绝对，想来除了诗仙李大白本人，无人能对",
+        "speaker": "允文",
+        "emotion": "嘲讽",
+        "duration": 8.92,
+        "description_visual": "中近景平拍镜头；宫殿内部，暖光；画面中央人物，身穿橙黄色长袍，金饰，说话，表情嘲讽，表情：眉毛微扬，眼睛眯起，嘴角上扬。"
+    }
+]

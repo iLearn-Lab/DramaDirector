@@ -1,0 +1,433 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色背景，无明显场景细节，光线均匀明亮。",
+        "description_narrative": "画面为纯白色背景，无可见人物或物体，光线均匀，作为场景的起始或过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；白色背景，无明显场景细节，光线均匀明亮。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式上衣，黑色裤子",
+                "position": "画面左侧",
+                "action": "坐在沙发上，身体微侧向右，左手搭在沙发扶手上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张似在说话"
+            },
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "棕色无袖连衣裙，银色项链",
+                "position": "画面中央",
+                "action": "端坐在沙发上，双手交叠放在腿上",
+                "expression": "眉毛舒展，眼睛直视前方，嘴唇紧闭"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫，黑色裤子",
+                "position": "画面右侧",
+                "action": "身体前倾，双手放在膝盖附近",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "现代客厅，米色窗帘，深色木地板，白色圆形茶几，暖色调灯光。",
+        "description_narrative": "全景镜头展示客厅场景，爷爷坐在左侧沙发，身穿白色中式上衣，神情严肃地说话；妙妙坐在中间，身穿棕色连衣裙，表情平静；王林坐在右侧，身穿浅蓝色衬衫，身体前倾，似乎在倾听或准备发言。",
+        "dialogue": "现在公司的情况，妙妙你控制不了了。",
+        "speaker": "爷爷",
+        "emotion": "严肃",
+        "duration": 5.56,
+        "description_visual": "全景平拍镜头；现代客厅，米色窗帘，深色木地板，白色圆形茶几，暖色调灯光。；画面左侧人物，身穿白色中式上衣，黑色裤子，坐在沙发上，身体微侧向右，左手搭在沙发扶手上，表情：眉毛微蹙，眼睛注视前方，嘴巴微张似在说话；画面中央人物，身穿棕色无袖连衣裙，银色项链，端坐在沙发上，双手交叠放在腿上，表情：眉毛舒展，眼睛直视前方，嘴唇紧闭；画面右侧人物，身穿浅蓝色衬衫，黑色裤子，身体前倾，双手放在膝盖附近，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "棕色无袖连衣裙，银色项链",
+                "position": "画面左侧",
+                "action": "双手交叠放在腿上，身体微微前倾",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴唇紧闭"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧",
+                "action": "双手交叉握在一起，放在腿上",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区域，米色墙面，深色沙发靠背，光线柔和。",
+        "description_narrative": "中景镜头聚焦妙妙和王林，妙妙身穿棕色连衣裙，神情坚定；王林身穿浅蓝色衬衫，双手交叉，目光看向左侧的爷爷，似乎在思考。",
+        "dialogue": "你也歇两天吧，爷爷，我还能扛得住，我不会让公司倒在我手里的",
+        "speaker": "爷爷",
+        "emotion": "坚定",
+        "duration": 6.4,
+        "description_visual": "中景平拍镜头；客厅沙发区域，米色墙面，深色沙发靠背，光线柔和。；画面左侧人物，身穿棕色无袖连衣裙，银色项链，双手交叠放在腿上，身体微微前倾，表情：眉毛微蹙，眼睛直视前方，嘴唇紧闭；画面右侧人物，身穿浅蓝色衬衫，双手交叉握在一起，放在腿上，表情：眉毛舒展，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式上衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神向下",
+                "expression": "眉毛微蹙，眼睛半眯，嘴巴紧闭，神情威严"
+            }
+        ],
+        "background": "浅色窗帘背景，光线柔和，突出人物面部细节。",
+        "description_narrative": "特写镜头对准爷爷，他身穿白色中式上衣，头发花白，面部表情严肃，眼神中透露出疲惫但坚定的神情，正在说话。",
+        "dialogue": "我的旧部还都是忠心耿耿的，可以放心安排。",
+        "speaker": "爷爷",
+        "emotion": "威严",
+        "duration": 6.36,
+        "description_visual": "特写平拍镜头；浅色窗帘背景，光线柔和，突出人物面部细节。；画面中央人物，身穿白色中式上衣，头部微侧，眼神向下，表情：眉毛微蹙，眼睛半眯，嘴巴紧闭，神情威严。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "棕色无袖连衣裙",
+                "position": "画面左侧",
+                "action": "双手放在腿上，手指微动",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴唇微张"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧",
+                "action": "低头，双手交叉",
+                "expression": "眉毛下垂，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅沙发区域，米色墙面，光线均匀。",
+        "description_narrative": "中景镜头展示妙妙和王林，妙妙神情专注，王林低头沉思，两人都在倾听爷爷的讲话。",
+        "dialogue": "到各个部门里，我知道了爷爷，我发现几个内鬼好像跟林青学有关系。",
+        "speaker": "王林",
+        "emotion": "冷静",
+        "duration": 7.16,
+        "description_visual": "中景平拍镜头；客厅沙发区域，米色墙面，光线均匀。；画面左侧人物，身穿棕色无袖连衣裙，双手放在腿上，手指微动，表情：眉毛微蹙，眼睛直视前方，嘴唇微张；画面右侧人物，身穿浅蓝色衬衫，低头，双手交叉，表情：眉毛下垂，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式上衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右下方",
+                "expression": "眉毛微蹙，眼睛半眯，嘴巴紧闭，神情怀疑"
+            }
+        ],
+        "background": "浅色窗帘背景，光线柔和。",
+        "description_narrative": "特写镜头对准爷爷，他眉头微皱，眼神中流露出怀疑和不信，似乎在思考王林的话。",
+        "dialogue": "不可能，虽然青学的能力不行，他没有这个野心。",
+        "speaker": "爷爷",
+        "emotion": "怀疑",
+        "duration": 7.44,
+        "description_visual": "特写平拍镜头；浅色窗帘背景，光线柔和。；画面中央人物，身穿白色中式上衣，头部微侧，眼神看向右下方，表情：眉毛微蹙，眼睛半眯，嘴巴紧闭，神情怀疑。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "棕色无袖连衣裙",
+                "position": "画面左侧",
+                "action": "双手放在腿上，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴唇紧闭"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧",
+                "action": "双手交叉，身体微前倾",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区域，米色墙面，光线柔和。",
+        "description_narrative": "中景镜头展示妙妙和王林，妙妙看向王林，王林身体前倾，似乎在反驳爷爷的观点。",
+        "dialogue": "要是有周氏的影子，还没这个可能吗？",
+        "speaker": "王林",
+        "emotion": "冷静",
+        "duration": 3.64,
+        "description_visual": "中景平拍镜头；客厅沙发区域，米色墙面，光线柔和。；画面左侧人物，身穿棕色无袖连衣裙，双手放在腿上，身体微侧，表情：眉毛微蹙，眼睛看向右侧，嘴唇紧闭；画面右侧人物，身穿浅蓝色衬衫，双手交叉，身体微前倾，表情：眉毛舒展，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式上衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神严肃",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "浅色窗帘背景，光线柔和。",
+        "description_narrative": "特写镜头对准爷爷，他神情严肃，眼神中透露出要求证据的坚定。",
+        "dialogue": "我希望拿出证据。",
+        "speaker": "爷爷",
+        "emotion": "严肃",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；浅色窗帘背景，光线柔和。；画面中央人物，身穿白色中式上衣，头部微侧，眼神严肃，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "棕色无袖连衣裙",
+                "position": "画面左侧",
+                "action": "双手放在腿上",
+                "expression": "眉毛舒展，眼睛直视前方，嘴唇紧闭"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧",
+                "action": "双手交叉，低头",
+                "expression": "眉毛下垂，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区域，米色墙面，光线柔和。",
+        "description_narrative": "中景镜头展示妙妙和王林，王林低头解释，妙妙静静倾听。",
+        "dialogue": "我也就是怀疑，老爷子别激动。",
+        "speaker": "王林",
+        "emotion": "安抚",
+        "duration": 3.12,
+        "description_visual": "中景平拍镜头；客厅沙发区域，米色墙面，光线柔和。；画面左侧人物，身穿棕色无袖连衣裙，双手放在腿上，表情：眉毛舒展，眼睛直视前方，嘴唇紧闭；画面右侧人物，身穿浅蓝色衬衫，双手交叉，低头，表情：眉毛下垂，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式上衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右下方",
+                "expression": "眉毛微蹙，眼睛半眯，嘴巴微张"
+            }
+        ],
+        "background": "浅色窗帘背景，光线柔和。",
+        "description_narrative": "特写镜头对准爷爷，他神情略显疲惫，决定采取行动。",
+        "dialogue": "我先给我的旧部打个电话。",
+        "speaker": "爷爷",
+        "emotion": "果断",
+        "duration": 5.44,
+        "description_visual": "特写平拍镜头；浅色窗帘背景，光线柔和。；画面中央人物，身穿白色中式上衣，头部微侧，眼神看向右下方，表情：眉毛微蹙，眼睛半眯，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式上衣，黑色裤子",
+                "position": "画面中央",
+                "action": "身体站起，手臂摆动",
+                "expression": "面部未完全显示，动作果断"
+            }
+        ],
+        "background": "客厅局部，沙发边缘，光线柔和。",
+        "description_narrative": "近景镜头跟随爷爷的动作，他身穿白色中式上衣，从沙发上站起，手臂摆动，准备离开去打电话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头（跟拍）；客厅局部，沙发边缘，光线柔和。；画面中央人物，身穿白色中式上衣，黑色裤子，身体站起，手臂摆动，表情：面部未完全显示，动作果断。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "棕色无袖连衣裙",
+                "position": "画面左侧",
+                "action": "双手交叠放在腿上，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴唇紧闭"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧",
+                "action": "双手交叉放在腿上，低头",
+                "expression": "眉毛下垂，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅沙发区域，米色墙面，光线柔和。",
+        "description_narrative": "中景镜头展示妙妙和王林坐在沙发上，爷爷已离开，两人沉默片刻，气氛略显凝重。",
+        "dialogue": "王林，你是怎么怀疑到小叔的？没有证据。",
+        "speaker": "妙妙",
+        "emotion": "疑惑",
+        "duration": 4.8,
+        "description_visual": "中景平拍镜头；客厅沙发区域，米色墙面，光线柔和。；画面左侧人物，身穿棕色无袖连衣裙，双手交叠放在腿上，身体微侧，表情：眉毛微蹙，眼睛看向右侧，嘴唇紧闭；画面右侧人物，身穿浅蓝色衬衫，双手交叉放在腿上，低头，表情：眉毛下垂，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色沙发靠背，米色墙面，光线柔和。",
+        "description_narrative": "近景镜头对准王林，他身穿浅蓝色衬衫，神情冷静，正在向妙妙解释怀疑的理由。",
+        "dialogue": "但是丢的单子都是从经理手上发。",
+        "speaker": "王林",
+        "emotion": "冷静",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；深色沙发靠背，米色墙面，光线柔和。；画面中央人物，身穿浅蓝色衬衫，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "棕色无袖连衣裙",
+                "position": "画面左侧",
+                "action": "双手交叠放在腿上",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴唇紧闭"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧",
+                "action": "身体微侧，双手交叉",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区域，米色墙面，光线柔和。",
+        "description_narrative": "中景镜头展示妙妙和王林，王林继续解释，妙妙认真倾听，表情严肃。",
+        "dialogue": "出去的，而且周氏把单子全接手了。",
+        "speaker": "王林",
+        "emotion": "冷静",
+        "duration": 3.8,
+        "description_visual": "中景平拍镜头；客厅沙发区域，米色墙面，光线柔和。；画面左侧人物，身穿棕色无袖连衣裙，双手交叠放在腿上，表情：眉毛微蹙，眼睛看向右侧，嘴唇紧闭；画面右侧人物，身穿浅蓝色衬衫，身体微侧，双手交叉，表情：眉毛舒展，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色沙发靠背，米色墙面，光线柔和。",
+        "description_narrative": "近景镜头对准王林，他侧头看向妙妙，神情专注，继续分析局势。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "近景平拍镜头；深色沙发靠背，米色墙面，光线柔和。；画面中央人物，身穿浅蓝色衬衫，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "棕色无袖连衣裙",
+                "position": "画面左侧",
+                "action": "双手交叠放在腿上",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴唇微张"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面右侧",
+                "action": "身体微侧，双手交叉",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区域，米色墙面，光线柔和。",
+        "description_narrative": "中景镜头展示妙妙和王林，王林安抚妙妙，妙妙表情略显担忧但逐渐平静。",
+        "dialogue": "所以里面有周氏参与，不怕，兵来将挡，水来土掩。",
+        "speaker": "王林",
+        "emotion": "安抚",
+        "duration": 10.68,
+        "description_visual": "中景平拍镜头；客厅沙发区域，米色墙面，光线柔和。；画面左侧人物，身穿棕色无袖连衣裙，双手交叠放在腿上，表情：眉毛微蹙，眼睛看向右侧，嘴唇微张；画面右侧人物，身穿浅蓝色衬衫，身体微侧，双手交叉，表情：眉毛舒展，眼睛看向左侧，嘴巴微张。"
+    }
+]

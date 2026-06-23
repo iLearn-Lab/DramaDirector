@@ -1,0 +1,817 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "黄色外卖服，头盔",
+                "position": "前景中央",
+                "action": "骑在摩托车上，身体前倾",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "背景中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛舒展，眼睛平视，嘴角微扬"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "背景右侧",
+                "action": "站立，单手插兜",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "海报背景，色彩绚丽，有金币和城市剪影元素",
+        "description_narrative": "全景镜头，画面展示了一张电影海报，秦奋身穿黄色外卖服位于前景中央，宋子怡和其他角色位于背景，周围有金币飞舞的特效。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.67,
+        "description_visual": "全景平拍镜头；海报背景，色彩绚丽，有金币和城市剪影元素；前景中央人物，身穿黄色外卖服，头盔，骑在摩托车上，身体前倾，表情：眉毛微挑，眼睛直视前方，嘴巴紧闭；背景中央人物，身穿白色上衣，站立，双手自然下垂，表情：眉毛舒展，眼睛平视，嘴角微扬；背景右侧人物，身穿棕色西装，站立，单手插兜，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左上方",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，暖色调灯光，背景模糊",
+        "description_narrative": "特写镜头，宋子怡身穿白色蝴蝶结衬衫，侧脸看向左上方，神情略显惊讶和抗拒，似乎在回应某人的触碰。",
+        "dialogue": "请放手。",
+        "speaker": "宋子怡",
+        "emotion": "抗拒",
+        "duration": 0.8,
+        "description_visual": "特写侧拍镜头；室内宴会厅，暖色调灯光，背景模糊；画面中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神看向左上方，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "画面中央",
+                "action": "手持红酒杯，身体微侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴角微扬"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面，壁灯",
+        "description_narrative": "中近景镜头，秦奋身穿米色西装，手持红酒杯，面带自信的微笑看向右侧，似乎在聆听或回应。",
+        "dialogue": "你是哪里来的穷屌丝",
+        "speaker": "黑衣男子",
+        "emotion": "自信",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；室内宴会厅，绿色墙面，壁灯；画面中央人物，身穿米色西装，条纹衬衫，手持红酒杯，身体微侧，表情：眉毛舒展，眼睛看向右侧，嘴角微扬。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面左侧",
+                "action": "侧身站立，手持酒杯",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "画面右侧",
+                "action": "站立，身体前倾",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面，壁灯",
+        "description_narrative": "过肩镜头，宋子怡站在左侧，黑衣男子站在右侧，两人似乎在对峙，黑衣男子表情傲慢。",
+        "dialogue": "给我滚。",
+        "speaker": "黑衣男子",
+        "emotion": "傲慢",
+        "duration": 1.9,
+        "description_visual": "中景过肩镜头；室内宴会厅，绿色墙面，壁灯；画面左侧人物，身穿白色蝴蝶结衬衫，侧身站立，手持酒杯，表情：眉毛微蹙，眼睛看向右侧，嘴巴紧闭；画面右侧人物，身穿黑色西装，黑色衬衫，站立，身体前倾，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "画面中央",
+                "action": "手持酒杯，身体微侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，暖色调灯光",
+        "description_narrative": "中近景镜头，秦奋面带微笑，眼神坚定，正在开口说话，宣示自己的身份。",
+        "dialogue": "我是她男朋友。",
+        "speaker": "秦奋",
+        "emotion": "坚定",
+        "duration": 1.13,
+        "description_visual": "中近景平拍镜头；室内宴会厅，暖色调灯光；画面中央人物，身穿米色西装，条纹衬衫，手持酒杯，身体微侧，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "站立，眼神看向右上方",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴角微扬"
+            }
+        ],
+        "background": "室内宴会厅，暖色调灯光",
+        "description_narrative": "中近景镜头，宋子怡听到秦奋的话，眼神看向右上方，嘴角露出一丝不易察觉的微笑，似乎在默认或支持。",
+        "dialogue": "我是她男朋友",
+        "speaker": "秦奋",
+        "emotion": "默认",
+        "duration": 0.83,
+        "description_visual": "中近景平拍镜头；室内宴会厅，暖色调灯光；画面中央人物，身穿白色蝴蝶结衬衫，站立，眼神看向右上方，表情：眉毛舒展，眼睛看向右侧，嘴角微扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "画面中央",
+                "action": "手持酒杯，眼神看向右侧",
+                "expression": "眉毛微挑，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，暖色调灯光",
+        "description_narrative": "中近景镜头，秦奋眼神略带挑衅地看向右侧，嘴角上扬，似乎在反问对方。",
+        "dialogue": "你",
+        "speaker": "秦奋",
+        "emotion": "挑衅",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内宴会厅，暖色调灯光；画面中央人物，身穿米色西装，条纹衬衫，手持酒杯，眼神看向右侧，表情：眉毛微挑，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面左侧",
+                "action": "举起酒杯，指向对面",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "站在两人中间",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "手持酒杯，站立",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "宴会厅，绿色桌布，背景有画作",
+        "description_narrative": "全景镜头，三人对峙，秦奋举起酒杯指向黑衣男子，宋子怡站在中间，气氛紧张。",
+        "dialogue": "你说我配不配",
+        "speaker": "秦奋",
+        "emotion": "质问",
+        "duration": 1.7,
+        "description_visual": "全景平拍镜头；宴会厅，绿色桌布，背景有画作；画面左侧人物，身穿米色西装，举起酒杯，指向对面，表情：眉毛舒展，眼睛看向右侧，嘴巴微张；画面中央人物，身穿白色蝴蝶结衬衫，站在两人中间，表情：眉毛微蹙，眼睛看向右侧，嘴巴紧闭；画面右侧人物，身穿黑色西装，手持酒杯，站立，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴角微扬"
+            }
+        ],
+        "background": "室内宴会厅，背景模糊",
+        "description_narrative": "特写镜头，宋子怡面带微笑看向右侧，似乎在聆听黑衣男子的嘲讽。",
+        "dialogue": "从哪里来的演员啊",
+        "speaker": "黑衣男子",
+        "emotion": "嘲讽",
+        "duration": 1.53,
+        "description_visual": "特写平拍镜头；室内宴会厅，背景模糊；画面中央人物，身穿白色蝴蝶结衬衫，头部微侧，眼神看向右侧，表情：眉毛舒展，眼睛看向右侧，嘴角微扬。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体前倾，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子身体前倾，表情轻蔑，似乎在提出羞辱性的要求。",
+        "dialogue": "宋，你给我擦鞋，我给你双倍价格。",
+        "speaker": "黑衣男子",
+        "emotion": "轻蔑",
+        "duration": 3.0,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体前倾，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴角微扬"
+            }
+        ],
+        "background": "室内宴会厅，绿色桌布",
+        "description_narrative": "中近景镜头，宋子怡双臂交叉抱胸，神情淡定，似乎在拒绝黑衣男子的要求。",
+        "dialogue": "抱歉。",
+        "speaker": "宋子怡",
+        "emotion": "淡定",
+        "duration": 0.67,
+        "description_visual": "中近景平拍镜头；室内宴会厅，绿色桌布；画面中央人物，身穿白色蝴蝶结衬衫，双臂交叉抱胸，表情：眉毛舒展，眼睛看向右侧，嘴角微扬。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子听到拒绝后，表情略显不悦，眼神看向左侧。",
+        "dialogue": "抱歉让你失望了",
+        "speaker": "宋子怡",
+        "emotion": "不悦",
+        "duration": 1.0,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸，头部微侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色桌布",
+        "description_narrative": "中近景镜头，宋子怡双臂交叉，神情坚定，继续回应黑衣男子。",
+        "dialogue": "让你失望了。",
+        "speaker": "宋子怡",
+        "emotion": "坚定",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；室内宴会厅，绿色桌布；画面中央人物，身穿白色蝴蝶结衬衫，双臂交叉抱胸，头部微侧，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子表情困惑或不屑，似乎在质疑宋子怡的选择。",
+        "dialogue": "他是我的男朋友",
+        "speaker": "宋子怡",
+        "emotion": "质疑",
+        "duration": 2.73,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面中央",
+                "action": "低头微笑",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "室内宴会厅，暖色调灯光",
+        "description_narrative": "中近景镜头，秦奋低头微笑，似乎对黑衣男子的反应感到好笑。",
+        "dialogue": "你眼光真是差。",
+        "speaker": "黑衣男子",
+        "emotion": "好笑",
+        "duration": 3.13,
+        "description_visual": "中近景平拍镜头；室内宴会厅，暖色调灯光；画面中央人物，身穿米色西装，低头微笑，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "伸出手指指向对面",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子伸出手指指向秦奋，表情愤怒，正在质问宋子怡。",
+        "dialogue": "你怎么能找",
+        "speaker": "黑衣男子",
+        "emotion": "愤怒",
+        "duration": 3.47,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，伸出手指指向对面，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色桌布",
+        "description_narrative": "中近景镜头，宋子怡双臂交叉，神情坚定，正在回应黑衣男子的质问。",
+        "dialogue": "你怎么能找这种穷屌丝当男朋友？",
+        "speaker": "黑衣男子",
+        "emotion": "坚定",
+        "duration": 1.53,
+        "description_visual": "中近景平拍镜头；室内宴会厅，绿色桌布；画面中央人物，身穿白色蝴蝶结衬衫，双臂交叉抱胸，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子表情轻蔑，似乎在提出荒谬的建议。",
+        "dialogue": "你要是缺男人，你可以找我，我随时恭候。",
+        "speaker": "黑衣男子",
+        "emotion": "轻蔑",
+        "duration": 1.47,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色桌布",
+        "description_narrative": "中近景镜头，宋子怡双臂交叉，神情认真，正在表达对秦奋的感情。",
+        "dialogue": "我是真心喜欢他",
+        "speaker": "宋子怡",
+        "emotion": "认真",
+        "duration": 1.57,
+        "description_visual": "中近景平拍镜头；室内宴会厅，绿色桌布；画面中央人物，身穿白色蝴蝶结衬衫，双臂交叉抱胸，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子听到宋子怡的话，表情略显惊讶或不屑。",
+        "dialogue": "因为他正直善良勇敢",
+        "speaker": "宋子怡",
+        "emotion": "不屑",
+        "duration": 1.1,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面中央",
+                "action": "侧身站立，眼神看向左侧",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴角微扬"
+            }
+        ],
+        "background": "室内宴会厅，暖色调灯光",
+        "description_narrative": "中近景镜头，秦奋侧身站立，面带微笑，似乎在聆听宋子怡的夸奖。",
+        "dialogue": "因为他正直善良勇敢",
+        "speaker": "宋子怡",
+        "emotion": "微笑",
+        "duration": 1.27,
+        "description_visual": "中近景平拍镜头；室内宴会厅，暖色调灯光；画面中央人物，身穿米色西装，侧身站立，眼神看向左侧，表情：眉毛舒展，眼睛看向左侧，嘴角微扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色桌布",
+        "description_narrative": "中近景镜头，宋子怡双臂交叉，神情坚定，继续对比秦奋和黑衣男子。",
+        "dialogue": "勇敢，可不像某些人。",
+        "speaker": "宋子怡",
+        "emotion": "坚定",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；室内宴会厅，绿色桌布；画面中央人物，身穿白色蝴蝶结衬衫，双臂交叉抱胸，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子听到宋子怡的讽刺，表情略显不悦。",
+        "dialogue": "卑鄙无耻。",
+        "speaker": "宋子怡",
+        "emotion": "不悦",
+        "duration": 1.67,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子表情愤怒，似乎在反驳宋子怡的话。",
+        "dialogue": "可不像某些人卑鄙无耻",
+        "speaker": "宋子怡",
+        "emotion": "愤怒",
+        "duration": 3.33,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子表情困惑，似乎在质疑宋子怡的选择。",
+        "dialogue": "子怡愿意和我。",
+        "speaker": "黑衣男子",
+        "emotion": "困惑",
+        "duration": 1.77,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面左侧",
+                "action": "伸出手指指向对面",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "站在两人中间",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "手持酒杯，站立",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "宴会厅，绿色桌布，背景有画作",
+        "description_narrative": "全景镜头，秦奋伸出手指指向黑衣男子，宋子怡站在中间，三人继续对峙。",
+        "dialogue": "这样的穷屌丝在一起。",
+        "speaker": "黑衣男子",
+        "emotion": "对峙",
+        "duration": 2.67,
+        "description_visual": "全景平拍镜头；宴会厅，绿色桌布，背景有画作；画面左侧人物，身穿米色西装，伸出手指指向对面，表情：眉毛舒展，眼睛看向右侧，嘴巴微张；画面中央人物，身穿白色蝴蝶结衬衫，站在两人中间，表情：眉毛微蹙，眼睛看向右侧，嘴巴紧闭；画面右侧人物，身穿黑色西装，手持酒杯，站立，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面中央",
+                "action": "侧身站立，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，暖色调灯光",
+        "description_narrative": "中近景镜头，秦奋侧身站立，面带微笑，似乎在讽刺黑衣男子。",
+        "dialogue": "都不愿意和你这样。",
+        "speaker": "秦奋",
+        "emotion": "讽刺",
+        "duration": 0.83,
+        "description_visual": "中近景平拍镜头；室内宴会厅，暖色调灯光；画面中央人物，身穿米色西装，侧身站立，眼神看向右侧，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子表情愤怒，似乎在描述自己的优势。",
+        "dialogue": "富贵帅气又多金的男子",
+        "speaker": "秦奋",
+        "emotion": "愤怒",
+        "duration": 1.37,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子表情严肃，似乎在总结一个问题。",
+        "dialogue": "富贵帅气又多金的男子在一起，那说明一个。",
+        "speaker": "秦奋",
+        "emotion": "严肃",
+        "duration": 1.37,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦奋",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面中央",
+                "action": "侧身站立，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，暖色调灯光",
+        "description_narrative": "中近景镜头，秦奋侧身站立，面带微笑，似乎在揭示真相。",
+        "dialogue": "问题就是你这样的男人。",
+        "speaker": "秦奋",
+        "emotion": "微笑",
+        "duration": 1.77,
+        "description_visual": "中近景平拍镜头；室内宴会厅，暖色调灯光；画面中央人物，身穿米色西装，侧身站立，眼神看向右侧，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子表情愤怒，似乎在重复秦奋的话。",
+        "dialogue": "就是你这样的男人",
+        "speaker": "秦奋",
+        "emotion": "愤怒",
+        "duration": 2.83,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "宋子怡",
+                "gender": "女",
+                "clothing": "白色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色桌布",
+        "description_narrative": "中近景镜头，宋子怡双臂交叉，神情坚定，似乎在嘲笑黑衣男子。",
+        "dialogue": "不如我这样的屌丝，哈哈哈。",
+        "speaker": "秦奋",
+        "emotion": "嘲笑",
+        "duration": 1.37,
+        "description_visual": "中近景平拍镜头；室内宴会厅，绿色桌布；画面中央人物，身穿白色蝴蝶结衬衫，双臂交叉抱胸，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内宴会厅，绿色墙面",
+        "description_narrative": "过肩镜头，黑衣男子表情愤怒，似乎在承认或回应秦奋的话。",
+        "dialogue": "好啊。",
+        "speaker": "黑衣男子",
+        "emotion": "愤怒",
+        "duration": 2.1,
+        "description_visual": "中近景过肩镜头；室内宴会厅，绿色墙面；画面中央人物，身穿黑色西装，身体微侧，眼神看向左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    }
+]

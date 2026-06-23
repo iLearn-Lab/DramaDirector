@@ -1,0 +1,721 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "蓝色天鹅绒沙发，带有几何图案抱枕，光线柔和",
+        "description_narrative": "特写镜头俯拍蓝色天鹅绒沙发的一角，画面静止，展示沙发的质感和旁边的几何图案抱枕。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "特写俯拍镜头；蓝色天鹅绒沙发，带有几何图案抱枕，光线柔和。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面中央",
+                "action": "身体快速倒下，手臂模糊挥动",
+                "expression": "因运动模糊无法看清"
+            }
+        ],
+        "background": "蓝色沙发，动态模糊",
+        "description_narrative": "镜头快速晃动，一名身穿黑色礼服的女子被推倒在蓝色沙发上，动作剧烈导致画面模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "近景平拍镜头（摇镜）；蓝色沙发，动态模糊；画面中央人物，身穿黑色礼服，身体快速倒下，手臂模糊挥动，表情：因运动模糊无法看清。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面中央",
+                "action": "侧躺在沙发上，手抓着沙发边缘",
+                "expression": "眉毛紧蹙，眼睛含泪，嘴巴微张痛苦呻吟"
+            }
+        ],
+        "background": "蓝色沙发，几何抱枕",
+        "description_narrative": "女子侧躺在蓝色沙发上，妆容精致但满脸泪痕，嘴角流血，神情痛苦地发出声音。",
+        "dialogue": "啊",
+        "speaker": "黑衣女子",
+        "emotion": "痛苦",
+        "duration": 0.72,
+        "description_visual": "近景斜角镜头；蓝色沙发，几何抱枕；画面中央人物，身穿黑色珍珠装饰礼服，侧躺在沙发上，手抓着沙发边缘，表情：眉毛紧蹙，眼睛含泪，嘴巴微张痛苦呻吟。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "手按在女子头上",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面右侧",
+                "action": "头部被按住，流泪",
+                "expression": "眉毛紧锁，眼睛紧闭流泪，嘴巴张开哭喊"
+            }
+        ],
+        "background": "蓝色沙发，几何抱枕",
+        "description_narrative": "一只戴着银色手表的手按住女子的头，女子满脸泪水，嘴角带血，惊恐地求饶。",
+        "dialogue": "饶命啊",
+        "speaker": "黑衣女子",
+        "emotion": "恐惧",
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；蓝色沙发，几何抱枕；画面左侧人物，身穿黑色西装，手按在女子头上，表情：不可见；画面右侧人物，身穿黑色珍珠装饰礼服，头部被按住，流泪，表情：眉毛紧锁，眼睛紧闭流泪，嘴巴张开哭喊。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "用力抓着女子头发向后拉",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面右侧",
+                "action": "双手抬起防御，身体后仰",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴张大哭喊"
+            }
+        ],
+        "background": "蓝色沙发，室内环境",
+        "description_narrative": "男子用力揪住女子的头发，女子痛苦地仰头，双手无助地抬起，哭着喊韩少饶命。",
+        "dialogue": "韩少饶命",
+        "speaker": "黑衣女子",
+        "emotion": "极度恐惧",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；蓝色沙发，室内环境；画面左侧人物，身穿黑色西装，用力抓着女子头发向后拉，表情：不可见；画面右侧人物，身穿黑色珍珠装饰礼服，双手抬起防御，身体后仰，表情：眉毛紧蹙，眼睛紧闭，嘴巴张大哭喊。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "手抓头发",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面右侧",
+                "action": "双手捂脸，身体蜷缩",
+                "expression": "眉毛紧锁，眼睛流泪，嘴巴张开哭泣"
+            }
+        ],
+        "background": "蓝色沙发",
+        "description_narrative": "女子被揪着头发，双手捂着脸痛哭流涕，不断求饶。",
+        "dialogue": "饶命啊",
+        "speaker": "黑衣女子",
+        "emotion": "绝望",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；蓝色沙发；画面左侧人物，身穿黑色西装，手抓头发，表情：不可见；画面右侧人物，身穿黑色珍珠装饰礼服，双手捂脸，身体蜷缩，表情：眉毛紧锁，眼睛流泪，嘴巴张开哭泣。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装，银色粗项链",
+                "position": "画面左侧",
+                "action": "俯身揪住女子头发，表情凶狠",
+                "expression": "眉毛紧蹙，眼睛怒视，嘴巴微张说话"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面右侧",
+                "action": "被按在沙发上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，窗帘背景",
+        "description_narrative": "韩少俯身揪着女子的头发，表情愤怒地质问她是否与安然合谋害他。",
+        "dialogue": "知道我为什么打你吗？不知道。我给你提个醒，顾老爷子病危的事情是不是安然那个小可爱故意让你告诉我的？帮着她害我，对不对？",
+        "speaker": "韩少",
+        "emotion": "愤怒",
+        "duration": 12.88,
+        "description_visual": "中近景低角度镜头；室内，窗帘背景；画面左侧人物，身穿黑色西装，银色粗项链，俯身揪住女子头发，表情凶狠，表情：眉毛紧蹙，眼睛怒视，嘴巴微张说话；画面右侧人物，身穿黑色礼服，被按在沙发上，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面中央",
+                "action": "躺在沙发上，手被按住",
+                "expression": "眉毛紧蹙，眼睛流泪，嘴巴微张辩解"
+            }
+        ],
+        "background": "蓝色沙发",
+        "description_narrative": "女子躺在沙发上，满脸泪水和血迹，颤抖着否认与安然联手。",
+        "dialogue": "不是，真的不是。是我自己听到的，我没有跟她联手害你。",
+        "speaker": "黑衣女子",
+        "emotion": "惊恐辩解",
+        "duration": 5.92,
+        "description_visual": "特写俯拍镜头；蓝色沙发；画面中央人物，身穿黑色珍珠装饰礼服，躺在沙发上，手被按住，表情：眉毛紧蹙，眼睛流泪，嘴巴微张辩解。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装，银色粗项链",
+                "position": "画面中央",
+                "action": "低头注视",
+                "expression": "眉毛微挑，眼神怀疑，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "韩少面带怀疑，不相信女子的话，质问为何安然每一步都算得精准。",
+        "dialogue": "没有。那为什么她每一步算那么精准？",
+        "speaker": "韩少",
+        "emotion": "怀疑",
+        "duration": 4.24,
+        "description_visual": "特写平拍镜头；室内，模糊背景；画面中央人物，身穿黑色西装，银色粗项链，低头注视，表情：眉毛微挑，眼神怀疑，嘴唇紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面中央",
+                "action": "手抓头发，哭泣",
+                "expression": "眉毛紧锁，眼睛流泪，嘴巴张开哭诉"
+            }
+        ],
+        "background": "蓝色沙发，几何抱枕",
+        "description_narrative": "女子哭着说自己没撒谎，不知道安然为何突然变得这么神机妙算。",
+        "dialogue": "你还撒谎对不对？我真的没有撒谎。我也不知道为什么安然突然变得这么神。",
+        "speaker": "韩少 / 黑衣女子",
+        "emotion": "委屈恐惧",
+        "duration": 7.64,
+        "description_visual": "近景平拍镜头；蓝色沙发，几何抱枕；画面中央人物，身穿黑色珍珠装饰礼服，手抓头发，哭泣，表情：眉毛紧锁，眼睛流泪，嘴巴张开哭诉。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面中央",
+                "action": "双手交握，眼神躲闪",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张说话"
+            }
+        ],
+        "background": "蓝色沙发",
+        "description_narrative": "女子回忆说安然自上次事件后像变了一个人，并提到无意间听到安然说话。",
+        "dialogue": "自从上次她和赵老板的事情之后，她就变了一个人。不过，我无意间听到。她说什么？",
+        "speaker": "黑衣女子 / 韩少",
+        "emotion": "回忆/逼问",
+        "duration": 10.88,
+        "description_visual": "特写俯拍镜头；蓝色沙发；画面中央人物，身穿黑色珍珠装饰礼服，双手交握，眼神躲闪，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面中央",
+                "action": "双手交握",
+                "expression": "眼神惊恐，嘴巴微张"
+            }
+        ],
+        "background": "蓝色沙发",
+        "description_narrative": "女子颤抖着说出安然的目标是要成为首富。",
+        "dialogue": "要成为首富",
+        "speaker": "黑衣女子",
+        "emotion": "恐惧",
+        "duration": 2.04,
+        "description_visual": "特写俯拍镜头；蓝色沙发；画面中央人物，身穿黑色珍珠装饰礼服，双手交握，表情：眼神惊恐，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面中央",
+                "action": "双手交握",
+                "expression": "眼神惊恐，嘴巴微张"
+            }
+        ],
+        "background": "蓝色沙发",
+        "description_narrative": "女子继续透露安然说要找到小宝。",
+        "dialogue": "要找到小宝",
+        "speaker": "黑衣女子",
+        "emotion": "恐惧",
+        "duration": 1.12,
+        "description_visual": "特写俯拍镜头；蓝色沙发；画面中央人物，身穿黑色珍珠装饰礼服，双手交握，表情：眼神惊恐，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装，银色粗项链",
+                "position": "画面中央",
+                "action": "低头注视",
+                "expression": "眉毛紧蹙，眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "室内，窗帘背景",
+        "description_narrative": "韩少听到名字后眼神一凛，追问小宝是谁。",
+        "dialogue": "小宝？",
+        "speaker": "韩少",
+        "emotion": "疑惑",
+        "duration": 2.92,
+        "description_visual": "特写平拍镜头；室内，窗帘背景；画面中央人物，身穿黑色西装，银色粗项链，低头注视，表情：眉毛紧蹙，眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色珍珠装饰礼服",
+                "position": "画面中央",
+                "action": "手摸耳朵，哭泣",
+                "expression": "眉毛紧锁，眼睛流泪，嘴巴微张"
+            }
+        ],
+        "background": "蓝色沙发",
+        "description_narrative": "女子哭着解释小宝是安然的儿子。",
+        "dialogue": "是她儿子",
+        "speaker": "黑衣女子",
+        "emotion": "恐惧",
+        "duration": 3.68,
+        "description_visual": "近景平拍镜头；蓝色沙发；画面中央人物，身穿黑色珍珠装饰礼服，手摸耳朵，哭泣，表情：眉毛紧锁，眼睛流泪，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "俯身按着女子",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色礼服",
+                "position": "画面右侧",
+                "action": "蜷缩在沙发上",
+                "expression": "痛苦哭泣"
+            }
+        ],
+        "background": "蓝色沙发，木质装饰",
+        "description_narrative": "全景展示韩少压制着女子，此时画外传来助理的声音喊韩总。",
+        "dialogue": "是她儿子，已经丢了两年了。",
+        "speaker": "黑衣女子",
+        "emotion": "恐惧",
+        "duration": 2.16,
+        "description_visual": "中景平拍镜头；蓝色沙发，木质装饰；画面左侧人物，身穿黑色西装，俯身按着女子，表情：不可见；画面右侧人物，身穿黑色礼服，蜷缩在沙发上，表情：痛苦哭泣。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装，银色粗项链",
+                "position": "画面中央",
+                "action": "抬头看向门口",
+                "expression": "眉毛微挑，眼神询问，嘴巴微张"
+            }
+        ],
+        "background": "室内，天花板灯光",
+        "description_narrative": "韩少抬头看向门口，询问助理有什么事，是不是安然又做了什么。",
+        "dialogue": "韩总。",
+        "speaker": "助理",
+        "emotion": null,
+        "duration": 7.92,
+        "description_visual": "特写低角度镜头；室内，天花板灯光；画面中央人物，身穿黑色西装，银色粗项链，抬头看向门口，表情：眉毛微挑，眼神询问，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "深色西装，领带",
+                "position": "画面右侧",
+                "action": "站立汇报",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，深色木门",
+        "description_narrative": "助理站在门口汇报，说不是安然，是顾云健从外地带回了一个男孩。",
+        "dialogue": "什么事？是不是安然那个小可爱又做什么小动作？",
+        "speaker": "韩少",
+        "emotion": "询问",
+        "duration": 4.04,
+        "description_visual": "中景过肩镜头；室内，深色木门；画面右侧人物，身穿深色西装，领带，站立汇报，表情：表情严肃；画面左侧前景人物，身穿黑色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装，银色粗项链",
+                "position": "画面中央",
+                "action": "闭眼思考",
+                "expression": "眉毛舒展，眼睛闭合，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "韩少听到男孩后闭眼思索，随即下令把小男孩抓来这里。",
+        "dialogue": "不是，是顾云健，他在外地带回了一个男孩。",
+        "speaker": "助理",
+        "emotion": "严肃",
+        "duration": 5.84,
+        "description_visual": "特写平拍镜头；室内，模糊背景；画面中央人物，身穿黑色西装，银色粗项链，闭眼思考，表情：眉毛舒展，眼睛闭合，嘴唇紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "深色西装，领带",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "室内，深色木门",
+        "description_narrative": "助理听从命令，画面中韩少似乎在念叨安然的名字。",
+        "dialogue": "男孩？吩咐下去，把小男孩抓来这里。",
+        "speaker": "韩少",
+        "emotion": "命令",
+        "duration": 4.6,
+        "description_visual": "中景过肩镜头；室内，深色木门；画面右侧人物，身穿深色西装，领带，站立，表情：表情严肃。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装，银色粗项链",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "韩少露出阴险的笑容，说的好戏才刚刚开始。",
+        "dialogue": "是。安然，",
+        "speaker": "助理 / 韩少",
+        "emotion": "阴险",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；室内，模糊背景；画面中央人物，身穿黑色西装，银色粗项链，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑屏",
+        "description_narrative": "画面黑屏转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；黑屏。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面前景",
+                "action": "手抚摸相框",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗室内，相框",
+        "description_narrative": "昏暗的光线下，一只手轻轻抚摸着一个相框，相框里似乎是母子合影。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "特写斜角镜头；昏暗室内，相框；画面前景人物，身穿未知，手抚摸相框，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色大理石桌面，手机，黄色杯子",
+        "description_narrative": "镜头俯拍白色桌面上的一部手机，屏幕黑着，旁边有黄色杯子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.64,
+        "description_visual": "特写俯拍镜头；白色大理石桌面，手机，黄色杯子。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "坐在黄色沙发上，手拿相框",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "粉色墙壁，黄色沙发，落地窗",
+        "description_narrative": "安然坐在黄色沙发上，手里拿着相框，此时电话助理汇报股票收购情况。",
+        "dialogue": "安小姐，韩氏集团的股票已经抄底，收购了市面上",
+        "speaker": "电话助理",
+        "emotion": null,
+        "duration": 5.56,
+        "description_visual": "中景平拍镜头；粉色墙壁，黄色沙发，落地窗；画面中央人物，身穿黑色吊带裙，坐在黄色沙发上，手拿相框，表情：表情平静。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "接听电话",
+                "expression": "眼神专注，嘴唇微动"
+            }
+        ],
+        "background": "室内，落地窗",
+        "description_narrative": "安然接听电话，确认收购了60%股份，系统提示任务即将完成。",
+        "dialogue": "所有的韩氏集团股票。您现在手中持有韩氏集团股份占比 60%。好的，我知道了，辛苦你了。恭喜宿主成功！任务完成条件！收购韩氏集团！系统提醒您，只要周一股东大会完成收购仪式，即可成为首富，完成任务。",
+        "speaker": "电话助理 / 安然 / 系统",
+        "emotion": "冷静",
+        "duration": 20.64,
+        "description_visual": "近景平拍镜头；室内，落地窗；画面中央人物，身穿黑色吊带裙，接听电话，表情：眼神专注，嘴唇微动。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "低头看相框",
+                "expression": "眼神温柔，嘴角微动"
+            }
+        ],
+        "background": "粉色墙壁，黄色沙发",
+        "description_narrative": "安然挂断电话，低头看着相框，轻声说终于要结束了，呼唤小宝。",
+        "dialogue": "终于要结束了。小宝，",
+        "speaker": "安然",
+        "emotion": "欣慰",
+        "duration": 5.8,
+        "description_visual": "近景平拍镜头；粉色墙壁，黄色沙发；画面中央人物，身穿黑色吊带裙，低头看相框，表情：眼神温柔，嘴角微动。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眼神低垂，神情复杂"
+            }
+        ],
+        "background": "室内，落地窗",
+        "description_narrative": "安然继续看着相框，念叨着韩烨和小宝的名字。",
+        "dialogue": "韩烨，小宝。",
+        "speaker": "安然",
+        "emotion": "思念",
+        "duration": 10.4,
+        "description_visual": "近景平拍镜头；室内，落地窗；画面中央人物，身穿黑色吊带裙，低头，表情：眼神低垂，神情复杂。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小宝",
+                "gender": "男",
+                "clothing": "白色脏 T 恤",
+                "position": "手机屏幕内",
+                "action": "坐在椅子上，神情无助",
+                "expression": "眼神恐惧，嘴巴微张"
+            }
+        ],
+        "background": "手机屏幕，昏暗背景",
+        "description_narrative": "手机屏幕亮起，显示小宝被绑在椅子上的视频，韩少画外音威胁安然。",
+        "dialogue": "安然，我给你三十分钟，来城郊仓库。",
+        "speaker": "韩少",
+        "emotion": null,
+        "duration": 5.28,
+        "description_visual": "特写平拍镜头；手机屏幕，昏暗背景；手机屏幕内人物，身穿白色脏 T 恤，坐在椅子上，神情无助，表情：眼神恐惧，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩少",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "手持手机拍摄",
+                "expression": "不可见"
+            },
+            {
+                "name": "小宝",
+                "gender": "男",
+                "clothing": "白色脏 T 恤，牛仔裤",
+                "position": "画面右侧",
+                "action": "被绑在椅子上，下巴被捏住",
+                "expression": "眼神无助，嘴巴被捏变形"
+            }
+        ],
+        "background": "昏暗仓库，水泥墙",
+        "description_narrative": "韩少捏着小宝的下巴拍摄视频，威胁安然晚一分钟就收尸。",
+        "dialogue": "晚一分钟，就给你儿子收尸。",
+        "speaker": "韩少",
+        "emotion": "凶狠",
+        "duration": 7.0,
+        "description_visual": "中近景过肩镜头；昏暗仓库，水泥墙；画面左侧人物，身穿黑色西装，手持手机拍摄，表情：不可见；画面右侧人物，身穿白色脏 T 恤，牛仔裤，被绑在椅子上，下巴被捏住，表情：眼神无助，嘴巴被捏变形。"
+    }
+]

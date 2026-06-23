@@ -1,0 +1,763 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "偏远山村，土黄色山坡，稀疏枯树，石砌房屋，色调荒凉。",
+        "description_narrative": "远景俯拍一个坐落在枯黄山坡上的偏远山村，房屋依山而建，色调灰暗荒凉，暗示地点的隐蔽与隔绝。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "远景俯拍镜头；偏远山村，土黄色山坡，稀疏枯树，石砌房屋，色调荒凉。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面左侧，坐在电脑桌前",
+                "action": "身体微侧，头部转向右侧，目光注视屏幕外",
+                "expression": "眉毛微挑，眼睛注视右方，嘴巴微张"
+            }
+        ],
+        "background": "昏暗室内，电脑桌，电水壶，窗外透进强光，墙面有海报。",
+        "description_narrative": "中景平拍，虫子坐在昏暗房间的电脑桌前，身穿黑色西装外套内搭红领T恤，听到声音后转头看向右侧，神情略带惊讶。",
+        "dialogue": "虫子",
+        "speaker": "严祁",
+        "emotion": "惊讶",
+        "duration": 0.63,
+        "description_visual": "中景平拍镜头；昏暗室内，电脑桌，电水壶，窗外透进强光，墙面有海报。；画面左侧，坐在电脑桌前人物，身穿黑色西装外套，内搭白底红领T恤，身体微侧，头部转向右侧，目光注视屏幕外，表情：眉毛微挑，眼睛注视右方，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面中央",
+                "action": "头部转向右侧，视线向上",
+                "expression": "眉毛舒展，眼睛睁大，嘴角微扬"
+            }
+        ],
+        "background": "昏暗室内，背景模糊，可见墙面海报。",
+        "description_narrative": "特写镜头聚焦虫子面部，他转头看向右上方，认出来人后露出笑容，眼神中带着熟络。",
+        "dialogue": "哎严祁",
+        "speaker": "虫子",
+        "emotion": "惊喜",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；昏暗室内，背景模糊，可见墙面海报。；画面中央人物，身穿黑色西装外套，内搭白底红领T恤，头部转向右侧，视线向上，表情：眉毛舒展，眼睛睁大，嘴角微扬。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面左侧，坐着",
+                "action": "身体前倾，手部做出邀请姿势",
+                "expression": "眉毛上扬，眼睛眯起笑，嘴巴张开说话"
+            },
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧，站立",
+                "action": "背对镜头，身体微侧",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗室内，电脑桌，强光从右侧窗户射入。",
+        "description_narrative": "中景镜头，虫子坐在桌前热情地招呼站立的严祁，身体前倾伸手示意，严祁背对镜头站在桌边。",
+        "dialogue": "来快坐坐",
+        "speaker": "虫子",
+        "emotion": "热情",
+        "duration": 0.97,
+        "description_visual": "中景平拍镜头；昏暗室内，电脑桌，强光从右侧窗户射入。；画面左侧，坐着人物，身穿黑色西装外套，内搭白底红领T恤，身体前倾，手部做出邀请姿势，表情：眉毛上扬，眼睛眯起笑，嘴巴张开说话；画面右侧，站立人物，身穿黑色西装，背对镜头，身体微侧，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面中央",
+                "action": "面带笑容，头部微动",
+                "expression": "眉毛舒展，眼睛含笑，嘴巴张开"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "近景镜头，虫子面带灿烂笑容，一边说话一边看着对方，气氛轻松愉快。",
+        "dialogue": "咱俩多久没见了",
+        "speaker": "虫子",
+        "emotion": "愉快",
+        "duration": 1.63,
+        "description_visual": "近景平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装外套，内搭白底红领T恤，面带笑容，头部微动，表情：眉毛舒展，眼睛含笑，嘴巴张开。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面左后景",
+                "action": "身体被前景遮挡，仍在说话",
+                "expression": "嘴巴微张，表情轻松"
+            },
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右前景",
+                "action": "背影遮挡部分画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗室内，强光逆光。",
+        "description_narrative": "过肩镜头，严祁的背影占据前景，虫子在后方继续招呼，光线强烈造成部分剪影效果。",
+        "dialogue": "来快坐坐",
+        "speaker": "虫子",
+        "emotion": "热情",
+        "duration": 0.57,
+        "description_visual": "中近景过肩镜头；昏暗室内，强光逆光。；画面左后景人物，身穿黑色西装外套，内搭白底红领T恤，身体被前景遮挡，仍在说话，表情：嘴巴微张，表情轻松；画面右前景人物，身穿黑色西装，背影遮挡部分画面，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧，走向座位",
+                "action": "迈步走向桌子内侧",
+                "expression": "不可见"
+            },
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面左侧，坐着",
+                "action": "看着严祁移动",
+                "expression": "面带微笑"
+            }
+        ],
+        "background": "昏暗室内，电脑桌，椅子。",
+        "description_narrative": "中景跟拍，严祁迈步走向桌子内侧准备坐下，虫子坐在原处微笑着注视他的动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.77,
+        "description_visual": "中景平拍镜头（跟拍）；昏暗室内，电脑桌，椅子。；画面右侧，走向座位人物，身穿黑色西装，迈步走向桌子内侧，表情：不可见；画面左侧，坐着人物，身穿黑色西装外套，内搭白底红领T恤，看着严祁移动，表情：面带微笑。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧，坐着",
+                "action": "背对镜头，身体微侧",
+                "expression": "不可见"
+            },
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面右侧，坐着",
+                "action": "身体前倾，看着严祁",
+                "expression": "眉毛微挑，嘴角含笑"
+            }
+        ],
+        "background": "昏暗室内，墙面海报，百叶窗透光。",
+        "description_narrative": "中近景侧拍，两人相对而坐，虫子身体前倾，带着调侃的神情询问严祁的来意。",
+        "dialogue": "什么风",
+        "speaker": "虫子",
+        "emotion": "调侃",
+        "duration": 0.83,
+        "description_visual": "中近景侧拍镜头；昏暗室内，墙面海报，百叶窗透光。；画面左侧，坐着人物，身穿黑色西装，背对镜头，身体微侧，表情：不可见；画面右侧，坐着人物，身穿黑色西装外套，内搭白底红领T恤，身体前倾，看着严祁，表情：眉毛微挑，嘴角含笑。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧，坐着",
+                "action": "低头，双手交握",
+                "expression": "不可见"
+            },
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面右侧，坐着",
+                "action": "看着严祁，身体放松",
+                "expression": "笑容满面"
+            }
+        ],
+        "background": "昏暗室内，电脑桌，百叶窗。",
+        "description_narrative": "中景镜头，两人坐在桌边，虫子继续说完玩笑话，严祁低头看着桌面，神情未明。",
+        "dialogue": "把你给吹来了",
+        "speaker": "虫子",
+        "emotion": "轻松",
+        "duration": 1.07,
+        "description_visual": "中景平拍镜头；昏暗室内，电脑桌，百叶窗。；画面左侧，坐着人物，身穿黑色西装，低头，双手交握，表情：不可见；画面右侧，坐着人物，身穿黑色西装外套，内搭白底红领T恤，看着严祁，身体放松，表情：笑容满面。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白色T恤",
+                "position": "画面中央",
+                "action": "头部微侧，目光看向对面",
+                "expression": "眉毛平直，眼神严肃，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "特写镜头聚焦严祁面部，他神情冷峻，目光直视对面，直接切入正题询问来意。",
+        "dialogue": "今天是有事找你帮忙啥事",
+        "speaker": "严祁",
+        "emotion": "严肃",
+        "duration": 2.47,
+        "description_visual": "特写平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装，内搭白色T恤，头部微侧，目光看向对面，表情：眉毛平直，眼神严肃，嘴唇紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧，坐着",
+                "action": "身体前倾，手部动作",
+                "expression": "不可见"
+            },
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面右侧，坐着",
+                "action": "身体后仰，靠在椅背上",
+                "expression": "笑容收敛，略显疑惑"
+            }
+        ],
+        "background": "昏暗室内，电脑桌，杂物。",
+        "description_narrative": "中景侧拍，严祁身体前倾说明来意，虫子听后身体后仰，脸上的笑容逐渐消失，露出疑惑神情。",
+        "dialogue": "有人改了我想要的监控",
+        "speaker": "严祁",
+        "emotion": "凝重",
+        "duration": 2.8,
+        "description_visual": "中景侧拍镜头；昏暗室内，电脑桌，杂物。；画面左侧，坐着人物，身穿黑色西装，身体前倾，手部动作，表情：不可见；画面右侧，坐着人物，身穿黑色西装外套，内搭白底红领T恤，身体后仰，靠在椅背上，表情：笑容收敛，略显疑惑。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白色T恤",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼神深沉，嘴唇微张"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "特写镜头，严祁低头看着桌面，语气沉稳地解释情况，光线打在半边脸上，显得阴郁。",
+        "dialogue": "我的手法你还不相信吗",
+        "speaker": "虫子",
+        "emotion": "自信",
+        "duration": 2.7,
+        "description_visual": "特写平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装，内搭白色T恤，头部微低，视线向下，表情：眉毛微蹙，眼神深沉，嘴唇微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面中央",
+                "action": "头部微动，眼神自信",
+                "expression": "眉毛舒展，眼睛明亮，嘴角上扬"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "近景镜头，虫子露出自信的笑容，对自己的技术表示毫无疑问，安抚对方。",
+        "dialogue": "就没有我修补不了放心",
+        "speaker": "虫子",
+        "emotion": "自信",
+        "duration": 2.7,
+        "description_visual": "近景平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装外套，内搭白底红领T恤，头部微动，眼神自信，表情：眉毛舒展，眼睛明亮，嘴角上扬。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧，坐着",
+                "action": "侧身倾听",
+                "expression": "不可见"
+            },
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面右侧，坐着",
+                "action": "身体前倾，手部比划",
+                "expression": "眉头微皱，似在思考"
+            }
+        ],
+        "background": "昏暗室内，电脑桌，百叶窗。",
+        "description_narrative": "中景侧拍，虫子突然想起什么，身体前倾提出疑问，严祁在对面静静倾听。",
+        "dialogue": "哎不过最近怎么这么多人找我搞监控呢",
+        "speaker": "虫子",
+        "emotion": "疑惑",
+        "duration": 4.27,
+        "description_visual": "中景侧拍镜头；昏暗室内，电脑桌，百叶窗。；画面左侧，坐着人物，身穿黑色西装，侧身倾听，表情：不可见；画面右侧，坐着人物，身穿黑色西装外套，内搭白底红领T恤，身体前倾，手部比划，表情：眉头微皱，似在思考。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白色T恤",
+                "position": "画面中央",
+                "action": "头部微侧，目光锐利",
+                "expression": "眉毛微挑，眼神冰冷，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "特写镜头，严祁听到问题后眼神变得锐利，冷冷地回应，警告虫子不要多问。",
+        "dialogue": "还有谁跟你没关系",
+        "speaker": "严祁",
+        "emotion": "警告",
+        "duration": 2.77,
+        "description_visual": "特写平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装，内搭白色T恤，头部微侧，目光锐利，表情：眉毛微挑，眼神冰冷，嘴唇紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧，坐着",
+                "action": "身体微侧",
+                "expression": "不可见"
+            },
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面右侧，坐着",
+                "action": "看着严祁，表情略显尴尬",
+                "expression": "眉毛下垂，嘴角抿起"
+            }
+        ],
+        "background": "昏暗室内，电脑桌。",
+        "description_narrative": "中景侧拍，虫子被严祁的态度噎住，表情略显尴尬，严祁则保持沉默，气氛变得紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.23,
+        "description_visual": "中景侧拍镜头；昏暗室内，电脑桌。；画面左侧，坐着人物，身穿黑色西装，身体微侧，表情：不可见；画面右侧，坐着人物，身穿黑色西装外套，内搭白底红领T恤，看着严祁，表情略显尴尬，表情：眉毛下垂，嘴角抿起。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白色T恤",
+                "position": "画面中央",
+                "action": "目光直视前方",
+                "expression": "眉毛平直，眼神坚定，嘴唇微动"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "特写镜头，严祁目光坚定，用金钱作为筹码，催促虫子尽快完成任务。",
+        "dialogue": "越快越好钱少不了你的",
+        "speaker": "严祁",
+        "emotion": "强势",
+        "duration": 2.03,
+        "description_visual": "特写平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装，内搭白色T恤，目光直视前方，表情：眉毛平直，眼神坚定，嘴唇微动。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧，坐着",
+                "action": "递出一个黑色盒子",
+                "expression": "不可见"
+            },
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面右侧，坐着",
+                "action": "伸手接过盒子",
+                "expression": "眉毛舒展，露出笑容"
+            }
+        ],
+        "background": "昏暗室内，电脑桌。",
+        "description_narrative": "中景侧拍，严祁递过黑色硬盘盒，虫子伸手接过，脸上重新浮现出职业性的笑容。",
+        "dialogue": "就喜欢跟你做生意",
+        "speaker": "虫子",
+        "emotion": "市侩",
+        "duration": 2.13,
+        "description_visual": "中景侧拍镜头；昏暗室内，电脑桌。；画面左侧，坐着人物，身穿黑色西装，递出一个黑色盒子，表情：不可见；画面右侧，坐着人物，身穿黑色西装外套，内搭白底红领T恤，伸手接过盒子，表情：眉毛舒展，露出笑容。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白色T恤",
+                "position": "画面中央",
+                "action": "目光注视对方",
+                "expression": "眉毛微蹙，眼神深邃，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "特写镜头，严祁面无表情地看着虫子，没有回应他的玩笑，气氛依旧凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "特写平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装，内搭白色T恤，目光注视对方，表情：眉毛微蹙，眼神深邃，嘴唇紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面中央",
+                "action": "双手拿着黑色盒子，仔细端详",
+                "expression": "眉毛微皱，眼神专注，嘴巴微张"
+            }
+        ],
+        "background": "昏暗室内，强光逆光。",
+        "description_narrative": "中近景镜头，虫子双手捧着黑色硬盘盒，在逆光下仔细端详，神情逐渐变得凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疑惑",
+        "duration": 2.37,
+        "description_visual": "中近景平拍镜头；昏暗室内，强光逆光。；画面中央人物，身穿黑色西装外套，内搭白底红领T恤，双手拿着黑色盒子，仔细端详，表情：眉毛微皱，眼神专注，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白色T恤",
+                "position": "画面中央",
+                "action": "头部微侧，目光紧盯",
+                "expression": "眉毛微挑，眼神锐利，嘴唇微动"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "特写镜头，严祁注意到虫子的异样，再次叫他的名字，语气中带着试探。",
+        "dialogue": "虫子",
+        "speaker": "严祁",
+        "emotion": "试探",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装，内搭白色T恤，头部微侧，目光紧盯，表情：眉毛微挑，眼神锐利，嘴唇微动。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面中央",
+                "action": "手持盒子，抬头看向严祁",
+                "expression": "眉毛紧锁，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "昏暗室内，电脑桌。",
+        "description_narrative": "中近景镜头，虫子拿着盒子抬头看向严祁，说出自己的疑虑，觉得这个硬盘很眼熟。",
+        "dialogue": "这硬盘怎么这么熟悉呢",
+        "speaker": "虫子",
+        "emotion": "疑惑",
+        "duration": 3.13,
+        "description_visual": "中近景平拍镜头；昏暗室内，电脑桌。；画面中央人物，身穿黑色西装外套，内搭白底红领T恤，手持盒子，抬头看向严祁，表情：眉毛紧锁，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白色T恤",
+                "position": "画面中央",
+                "action": "身体前倾，压迫感增强",
+                "expression": "眉毛紧蹙，眼神逼视，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "特写镜头，严祁身体前倾，眼神变得极具压迫感，直接质问虫子是否知道内情。",
+        "dialogue": "你是不是知道点事",
+        "speaker": "严祁",
+        "emotion": "逼问",
+        "duration": 3.4,
+        "description_visual": "特写平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装，内搭白色T恤，身体前倾，压迫感增强，表情：眉毛紧蹙，眼神逼视，嘴唇紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面中央",
+                "action": "手持盒子，身体后缩",
+                "expression": "眉毛下垂，眼神躲闪，嘴巴快速开合"
+            }
+        ],
+        "background": "昏暗室内，电脑桌。",
+        "description_narrative": "中近景镜头，虫子被严祁的气势吓到，身体后缩，急忙摆手否认，声称自己什么都不知道。",
+        "dialogue": "我知道什么我什么都不知道",
+        "speaker": "虫子",
+        "emotion": "慌张",
+        "duration": 4.8,
+        "description_visual": "中近景平拍镜头；昏暗室内，电脑桌。；画面中央人物，身穿黑色西装外套，内搭白底红领T恤，手持盒子，身体后缩，表情：眉毛下垂，眼神躲闪，嘴巴快速开合。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白色T恤",
+                "position": "画面中央",
+                "action": "目光冷冽，身体后靠",
+                "expression": "眉毛平直，眼神冰冷，嘴唇微动"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "特写镜头，严祁不再追问，身体后靠，冷冷地抛出最后通牒，逼迫虫子做出选择。",
+        "dialogue": "你到底修不修了",
+        "speaker": "严祁",
+        "emotion": "冷酷",
+        "duration": 2.43,
+        "description_visual": "特写平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装，内搭白色T恤，目光冷冽，身体后靠，表情：眉毛平直，眼神冰冷，嘴唇微动。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面中央",
+                "action": "低头，眼神游移",
+                "expression": "眉毛紧锁，眼神向下，嘴巴紧闭"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "近景镜头，虫子低头沉默，在严祁的威压下最终妥协，眼神中流露出无奈和担忧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无奈",
+        "duration": 3.7,
+        "description_visual": "近景平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装外套，内搭白底红领T恤，低头，眼神游移，表情：眉毛紧锁，眼神向下，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白色T恤",
+                "position": "画面中央",
+                "action": "身体前倾，准备起身",
+                "expression": "眉毛微挑，眼神满意，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "特写镜头，严祁见虫子答应，神情稍缓，身体前倾准备离开，达成目的。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "满意",
+        "duration": 1.9,
+        "description_visual": "特写平拍镜头；昏暗室内，背景虚化。；画面中央人物，身穿黑色西装，内搭白色T恤，身体前倾，准备起身，表情：眉毛微挑，眼神满意，嘴唇紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧，起身",
+                "action": "快速站起，转身离开",
+                "expression": "不可见"
+            },
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面右侧，坐着",
+                "action": "看着严祁离开",
+                "expression": "神情复杂"
+            }
+        ],
+        "background": "昏暗室内，电脑桌，强光。",
+        "description_narrative": "中景摇镜，严祁迅速起身离开，动作干脆，虫子坐在原地目送他，画面因快速运动略显模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头（摇镜）；昏暗室内，电脑桌，强光。；画面左侧，起身人物，身穿黑色西装，快速站起，转身离开，表情：不可见；画面右侧，坐着人物，身穿黑色西装外套，内搭白底红领T恤，看着严祁离开，表情：神情复杂。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面左侧",
+                "action": "侧脸注视前方",
+                "expression": "眉毛微蹙，眼神忧虑，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗室内，背景虚化。",
+        "description_narrative": "近景侧拍，虫子侧脸对着镜头，目光注视着严祁离开的方向，神情忧虑，陷入沉思。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "忧虑",
+        "duration": 2.47,
+        "description_visual": "近景侧拍镜头；昏暗室内，背景虚化。；画面左侧人物，身穿黑色西装外套，内搭白底红领T恤，侧脸注视前方，表情：眉毛微蹙，眼神忧虑，嘴唇紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "虫子",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白底红领T恤",
+                "position": "画面中央",
+                "action": "侧脸，目光呆滞",
+                "expression": "眉毛舒展，眼神空洞，嘴巴微张"
+            }
+        ],
+        "background": "昏暗室内，强光造成光晕。",
+        "description_narrative": "特写侧拍，强烈的光晕笼罩虫子的侧脸，他目光呆滞地望着前方，暗示他已卷入一场危险的漩涡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "迷茫",
+        "duration": 2.2,
+        "description_visual": "特写侧拍镜头；昏暗室内，强光造成光晕。；画面中央人物，身穿黑色西装外套，内搭白底红领T恤，侧脸，目光呆滞，表情：眉毛舒展，眼神空洞，嘴巴微张。"
+    }
+]

@@ -1,0 +1,982 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "高层住宅楼，蓝天白云，绿化道路",
+        "description_narrative": "远景仰拍镜头，展示了一栋高耸的现代化住宅楼，楼体呈米黄色，窗户整齐排列。天空湛蓝，飘着白云。楼下有绿树和弯曲的柏油路，环境整洁安静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.17,
+        "description_visual": "远景仰拍镜头；高层住宅楼，蓝天白云，绿化道路。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面中央",
+                "action": "手持手机，低头观看，身体微颤",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴张开露齿大笑"
+            }
+        ],
+        "background": "室内客厅，白色墙壁，橙色靠枕",
+        "description_narrative": "中近景平拍镜头，母亲身穿蓝色中式服装，佩戴珍珠项链，坐在沙发上。她手持手机，低头观看屏幕，身体因大笑而微微颤动，表情愉悦，嘴巴张开露出牙齿。",
+        "dialogue": "哈哈哈",
+        "speaker": "母亲",
+        "emotion": "开心",
+        "duration": 1.87,
+        "description_visual": "中近景平拍镜头；室内客厅，白色墙壁，橙色靠枕；画面中央人物，身穿蓝色中式服装，佩戴珍珠项链，手持手机，低头观看，身体微颤，表情：眉毛舒展，眼睛眯起笑，嘴巴张开露齿大笑。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "双手持手机，手指在屏幕上滑动",
+                "expression": "眉毛微扬，眼睛注视屏幕，嘴角上扬微笑"
+            }
+        ],
+        "background": "室内客厅，背景有绿色植物",
+        "description_narrative": "近景侧拍镜头，母亲侧身坐着，双手拿着手机，手指在屏幕上轻轻滑动。她面带微笑，眼神专注地看着手机屏幕，背景中有模糊的绿色植物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.47,
+        "description_visual": "近景侧拍镜头；室内客厅，背景有绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，双手持手机，手指在屏幕上滑动，表情：眉毛微扬，眼睛注视屏幕，嘴角上扬微笑。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "手持手机，身体微侧",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴微张"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩上衣",
+                "position": "画面左侧边缘",
+                "action": "手臂入画，靠近母亲",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内客厅，沙发，绿色植物",
+        "description_narrative": "近景平拍镜头，母亲坐在沙发上看着手机微笑。小女儿的手臂从画面左侧伸入，靠近母亲。母亲听到声音，转头看向左侧，脸上带着笑意。",
+        "dialogue": "妈妈",
+        "speaker": "小女儿",
+        "emotion": "亲昵",
+        "duration": 0.9,
+        "description_visual": "近景平拍镜头；室内客厅，沙发，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，手持手机，身体微侧，表情：眉毛舒展，眼睛眯起笑，嘴巴微张；画面左侧边缘人物，身穿黑色露肩上衣，手臂入画，靠近母亲，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "手持手机，转头看向左侧",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张说话"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩上衣",
+                "position": "画面左侧",
+                "action": "身体前倾，靠近母亲",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内客厅，橙色靠枕",
+        "description_narrative": "中近景平拍镜头，母亲转头看向左侧的小女儿，手中仍拿着手机。她嘴巴微张，似乎在与女儿对话。小女儿身体前倾，靠近母亲。",
+        "dialogue": "我想换辆车",
+        "speaker": "小女儿",
+        "emotion": "期待",
+        "duration": 1.33,
+        "description_visual": "中近景平拍镜头；室内客厅，橙色靠枕；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，手持手机，转头看向左侧，表情：眉毛微挑，眼睛注视对方，嘴巴微张说话；画面左侧人物，身穿黑色露肩上衣，身体前倾，靠近母亲，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "侧身看着母亲，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视母亲，嘴巴紧闭"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "手持手机，侧脸对着女儿",
+                "expression": "嘴巴微张说话"
+            }
+        ],
+        "background": "室内客厅，绿色植物背景",
+        "description_narrative": "中近景平拍镜头，小女儿侧身看着母亲，表情严肃，眉毛微蹙。母亲侧脸对着女儿，嘴巴微张，正在说话。字幕显示“我想换辆车”，但根据画面母亲在说话，可能是母亲在重复或回应。根据上下文，此处应为母亲在解释。",
+        "dialogue": "你爸公司现在不景气",
+        "speaker": "母亲",
+        "emotion": "无奈",
+        "duration": 3.7,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物背景；画面左侧人物，身穿黑色露肩格纹上衣，侧身看着母亲，表情严肃，表情：眉毛微蹙，眼睛直视母亲，嘴巴紧闭；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，手持手机，侧脸对着女儿，表情：嘴巴微张说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着女儿，表情平静",
+                "expression": "眉毛平展，眼睛注视对方，嘴巴微闭"
+            }
+        ],
+        "background": "室内客厅，白色墙壁",
+        "description_narrative": "中近景平拍镜头，母亲看着女儿，表情平静，眉毛平展。她似乎在听女儿说话。字幕显示“你跟他说 他能同意吗”，这是女儿的反问。",
+        "dialogue": "你跟他说 他能同意吗",
+        "speaker": "小女儿",
+        "emotion": "质疑",
+        "duration": 3.77,
+        "description_visual": "中近景平拍镜头；室内客厅，白色墙壁；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着女儿，表情平静，表情：眉毛平展，眼睛注视对方，嘴巴微闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "侧头看向一旁，表情不屑",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微撇"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着女儿",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，小女儿侧头看向一旁，表情略带不屑，嘴巴微撇。母亲在右侧看着她。字幕显示“天天不景气不景气的 让姐姐回来嫁给那个”，这是女儿在抱怨并提出建议。",
+        "dialogue": "天天不景气不景气的 让姐姐回来嫁给那个",
+        "speaker": "小女儿",
+        "emotion": "不耐烦",
+        "duration": 3.57,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面左侧人物，身穿黑色露肩格纹上衣，侧头看向一旁，表情不屑，表情：眉毛微挑，眼睛看向侧方，嘴巴微撇；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着女儿，表情：表情平静。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面中央",
+                "action": "看着女儿，表情若有所思",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微闭"
+            }
+        ],
+        "background": "室内客厅，橙色靠枕",
+        "description_narrative": "近景平拍镜头，母亲看着女儿，表情若有所思，眉毛微蹙。字幕显示“嫁给那个郑老板”，这是女儿话语的延续。",
+        "dialogue": "嫁给那个郑老板",
+        "speaker": "小女儿",
+        "emotion": "算计",
+        "duration": 4.7,
+        "description_visual": "近景平拍镜头；室内客厅，橙色靠枕；画面中央人物，身穿蓝色中式服装，佩戴珍珠项链，看着女儿，表情若有所思，表情：眉毛微蹙，眼睛注视对方，嘴巴微闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "张嘴说话，表情兴奋",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "侧耳倾听",
+                "expression": "表情专注"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，小女儿张嘴说话，表情兴奋，眉毛上扬。母亲在右侧侧耳倾听。字幕显示“郑老板不就完了 思思姐姐最适合这种事情 替父”，女儿在继续她的计划。",
+        "dialogue": "郑老板不就完了 思思姐姐最适合这种事情 替父",
+        "speaker": "小女儿",
+        "emotion": "兴奋",
+        "duration": 3.7,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面左侧人物，身穿黑色露肩格纹上衣，张嘴说话，表情兴奋，表情：眉毛上扬，眼睛睁大，嘴巴张开；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，侧耳倾听，表情：表情专注。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面中央",
+                "action": "微笑着看向女儿",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅，橙色靠枕",
+        "description_narrative": "近景平拍镜头，母亲微笑着看向女儿，眉毛舒展，眼睛眯起。字幕显示“还债多么感人的故事啊 你觉得怎么样啊”，这是女儿的话语，母亲在听。",
+        "dialogue": "还债多么感人的故事啊 你觉得怎么样啊",
+        "speaker": "小女儿",
+        "emotion": "调侃",
+        "duration": 1.13,
+        "description_visual": "近景平拍镜头；室内客厅，橙色靠枕；画面中央人物，身穿蓝色中式服装，佩戴珍珠项链，微笑着看向女儿，表情：眉毛舒展，眼睛眯起笑，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "伸手捏女儿的鼻子",
+                "expression": "眉毛微挑，眼睛注视女儿，嘴巴微笑"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "被捏鼻子，皱眉",
+                "expression": "眉毛皱起，眼睛眯起，嘴巴微撇"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "近景平拍镜头，母亲伸手捏住女儿的鼻子，面带微笑。女儿被捏鼻子，皱眉眯眼。字幕显示“你觉得怎么样啊”，母亲在反问。",
+        "dialogue": "你觉得怎么样啊",
+        "speaker": "母亲",
+        "emotion": "宠溺",
+        "duration": 2.37,
+        "description_visual": "近景平拍镜头；室内客厅，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，伸手捏女儿的鼻子，表情：眉毛微挑，眼睛注视女儿，嘴巴微笑；画面左侧人物，身穿黑色露肩格纹上衣，被捏鼻子，皱眉，表情：眉毛皱起，眼睛眯起，嘴巴微撇。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "笑着躲闪，身体晃动",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴张开"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "笑着看女儿",
+                "expression": "嘴巴张开大笑"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，小女儿笑着躲闪，身体晃动。母亲在右侧大笑。字幕显示“就你鬼点子多”，母亲在夸奖女儿。",
+        "dialogue": "就你鬼点子多",
+        "speaker": "母亲",
+        "emotion": "开心",
+        "duration": 2.33,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面左侧人物，身穿黑色露肩格纹上衣，笑着躲闪，身体晃动，表情：眉毛舒展，眼睛眯起笑，嘴巴张开；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，笑着看女儿，表情：嘴巴张开大笑。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "靠在母亲身上",
+                "expression": "闭眼微笑"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "搂着女儿",
+                "expression": "微笑"
+            }
+        ],
+        "background": "室内客厅，模糊背景",
+        "description_narrative": "特写平拍镜头，画面过曝变白，隐约可见母女二人靠在一起。字幕显示“妈妈对我最好了”，女儿在撒娇。",
+        "dialogue": "妈妈对我最好了",
+        "speaker": "小女儿",
+        "emotion": "撒娇",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；室内客厅，模糊背景；画面左侧人物，身穿黑色露肩格纹上衣，靠在母亲身上，表情：闭眼微笑；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，搂着女儿，表情：微笑。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面左侧",
+                "action": "挽着女儿手臂，走向沙发",
+                "expression": "面带微笑"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧边缘",
+                "action": "被母亲挽着",
+                "expression": "微笑"
+            },
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黑色T恤，灰色裤子",
+                "position": "画面右侧",
+                "action": "坐在沙发上，低头看手机",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "室内客厅，沙发，绿色植物",
+        "description_narrative": "全景平拍跟拍镜头，母亲挽着女儿的手臂，从画面左侧走向沙发。父亲坐在沙发右侧，低头看手机，表情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "全景平拍镜头（跟拍）；室内客厅，沙发，绿色植物；画面左侧人物，身穿蓝色中式服装，佩戴珍珠项链，挽着女儿手臂，走向沙发，表情：面带微笑；画面左侧边缘人物，身穿黑色露肩格纹上衣，被母亲挽着，表情：微笑；画面右侧人物，身穿黑色T恤，灰色裤子，坐在沙发上，低头看手机，表情：表情严肃。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面左侧前景",
+                "action": "身体入画，模糊",
+                "expression": "不可见"
+            },
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黑色T恤，灰色裤子",
+                "position": "画面中央",
+                "action": "低头看手机，手指滑动",
+                "expression": "眉头微蹙，眼睛注视屏幕"
+            }
+        ],
+        "background": "室内客厅，沙发，靠枕",
+        "description_narrative": "过肩平拍镜头，母亲的身影在左侧前景模糊。父亲坐在沙发上，低头专注地看着手机，手指在屏幕上滑动，眉头微蹙。字幕显示“老公”，母亲在叫他。",
+        "dialogue": "老公",
+        "speaker": "母亲",
+        "emotion": "招呼",
+        "duration": 2.0,
+        "description_visual": "过肩平拍镜头；室内客厅，沙发，靠枕；画面左侧前景人物，身穿蓝色中式服装，佩戴珍珠项链，身体入画，模糊，表情：不可见；画面中央人物，身穿黑色T恤，灰色裤子，低头看手机，手指滑动，表情：眉头微蹙，眼睛注视屏幕。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "坐在沙发上，看着父亲",
+                "expression": "眉毛微挑，嘴巴微张说话"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "坐在母亲旁边，看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，母亲和小女儿坐在沙发上，看着父亲。母亲嘴巴微张，正在说话。字幕显示“现在公司状况 怎么样啊”。",
+        "dialogue": "现在公司状况 怎么样啊",
+        "speaker": "母亲",
+        "emotion": "询问",
+        "duration": 1.77,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，坐在沙发上，看着父亲，表情：眉毛微挑，嘴巴微张说话；画面左侧人物，身穿黑色露肩格纹上衣，坐在母亲旁边，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黑色T恤，灰色裤子",
+                "position": "画面中央",
+                "action": "抬头看着母亲",
+                "expression": "眉毛平展，眼睛注视对方，嘴巴微闭"
+            }
+        ],
+        "background": "室内客厅，白色墙壁",
+        "description_narrative": "近景平拍镜头，父亲抬头看着母亲，眉毛平展，眼神有些疲惫。字幕显示“怎么样啊”，这是母亲问话的延续。",
+        "dialogue": "怎么样啊",
+        "speaker": "母亲",
+        "emotion": "关切",
+        "duration": 1.97,
+        "description_visual": "近景平拍镜头；室内客厅，白色墙壁；画面中央人物，身穿黑色T恤，灰色裤子，抬头看着母亲，表情：眉毛平展，眼睛注视对方，嘴巴微闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲，表情担忧",
+                "expression": "眉毛微蹙，嘴巴微张"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着父亲",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，母亲和小女儿看着父亲。母亲表情担忧，眉毛微蹙。字幕显示“现在公司的资金链”，父亲在回答。",
+        "dialogue": "现在公司的资金链",
+        "speaker": "父亲",
+        "emotion": "忧虑",
+        "duration": 1.57,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，表情担忧，表情：眉毛微蹙，嘴巴微张；画面左侧人物，身穿黑色露肩格纹上衣，看着父亲，表情：表情严肃。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黑色T恤，灰色裤子",
+                "position": "画面中央",
+                "action": "看着母亲，说话",
+                "expression": "眉毛微蹙，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅，白色墙壁",
+        "description_narrative": "近景平拍镜头，父亲看着母亲，眉毛微蹙，嘴巴微张，正在解释公司的情况。字幕显示“现在公司的资金链”。",
+        "dialogue": "现在公司的资金链",
+        "speaker": "父亲",
+        "emotion": "忧虑",
+        "duration": 1.57,
+        "description_visual": "近景平拍镜头；室内客厅，白色墙壁；画面中央人物，身穿黑色T恤，灰色裤子，看着母亲，说话，表情：眉毛微蹙，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着母亲，说话",
+                "expression": "眉毛微挑，嘴巴微张"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，小女儿看着母亲，嘴巴微张，似乎在插话。字幕显示“哎妈妈”。",
+        "dialogue": "哎妈妈",
+        "speaker": "小女儿",
+        "emotion": "插话",
+        "duration": 0.77,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面左侧人物，身穿黑色露肩格纹上衣，看着母亲，说话，表情：眉毛微挑，嘴巴微张；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着母亲，说话",
+                "expression": "眉毛微挑，嘴巴微张"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，小女儿看着母亲，嘴巴微张，继续说话。字幕显示“郑老板那不是有钱吗”。",
+        "dialogue": "郑老板那不是有钱吗",
+        "speaker": "小女儿",
+        "emotion": "提示",
+        "duration": 1.97,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面左侧人物，身穿黑色露肩格纹上衣，看着母亲，说话，表情：眉毛微挑，嘴巴微张；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黑色T恤，灰色裤子",
+                "position": "画面中央",
+                "action": "看着母亲，说话",
+                "expression": "眉毛微蹙，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅，白色墙壁",
+        "description_narrative": "近景平拍镜头，父亲看着母亲，眉毛微蹙，嘴巴微张，正在说话。字幕显示“郑老板家的公子也看不上思思”。",
+        "dialogue": "郑老板家的公子也看不上思思",
+        "speaker": "父亲",
+        "emotion": "无奈",
+        "duration": 3.07,
+        "description_visual": "近景平拍镜头；室内客厅，白色墙壁；画面中央人物，身穿黑色T恤，灰色裤子，看着母亲，说话，表情：眉毛微蹙，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲，说话",
+                "expression": "眉毛微挑，嘴巴微张"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，母亲看着父亲，眉毛微挑，嘴巴微张，正在纠正父亲的话。字幕显示“不是公子是郑老板”。",
+        "dialogue": "不是公子是郑老板",
+        "speaker": "母亲",
+        "emotion": "纠正",
+        "duration": 3.13,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，说话，表情：眉毛微挑，嘴巴微张；画面左侧人物，身穿黑色露肩格纹上衣，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲，说话",
+                "expression": "眉毛舒展，嘴巴微张"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，母亲看着父亲，眉毛舒展，嘴巴微张，继续解释。字幕显示“郑老板的老婆呀已经死很久了”。",
+        "dialogue": "郑老板的老婆呀已经死很久了",
+        "speaker": "母亲",
+        "emotion": "陈述",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，说话，表情：眉毛舒展，嘴巴微张；画面左侧人物，身穿黑色露肩格纹上衣，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲，说话",
+                "expression": "眉毛微挑，嘴巴微张"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，母亲看着父亲，眉毛微挑，嘴巴微张。字幕显示“两个孩子没人照顾”。",
+        "dialogue": "两个孩子没人照顾",
+        "speaker": "母亲",
+        "emotion": "陈述",
+        "duration": 2.3,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，说话，表情：眉毛微挑，嘴巴微张；画面左侧人物，身穿黑色露肩格纹上衣，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲，说话",
+                "expression": "眉毛微挑，嘴巴微张"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，母亲看着父亲，眉毛微挑，嘴巴微张，提出建议。字幕显示“哎 要不”。",
+        "dialogue": "哎 要不",
+        "speaker": "母亲",
+        "emotion": "建议",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，说话，表情：眉毛微挑，嘴巴微张；画面左侧人物，身穿黑色露肩格纹上衣，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黑色T恤，灰色裤子",
+                "position": "画面中央",
+                "action": "看着母亲，表情犹豫",
+                "expression": "眉毛微蹙，嘴巴微闭"
+            }
+        ],
+        "background": "室内客厅，白色墙壁",
+        "description_narrative": "近景平拍镜头，父亲看着母亲，表情犹豫，眉毛微蹙。字幕显示“哎 要不”，父亲在思考。",
+        "dialogue": "哎 要不",
+        "speaker": "父亲",
+        "emotion": "犹豫",
+        "duration": 2.47,
+        "description_visual": "近景平拍镜头；室内客厅，白色墙壁；画面中央人物，身穿黑色T恤，灰色裤子，看着母亲，表情犹豫，表情：眉毛微蹙，嘴巴微闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲，说话",
+                "expression": "眉毛微挑，嘴巴微张"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，母亲看着父亲，眉毛微挑，嘴巴微张，继续建议。字幕显示“哎 要不 让思思嫁过去”。",
+        "dialogue": "哎 要不 让思思嫁过去",
+        "speaker": "母亲",
+        "emotion": "建议",
+        "duration": 3.63,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，说话，表情：眉毛微挑，嘴巴微张；画面左侧人物，身穿黑色露肩格纹上衣，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黑色T恤，灰色裤子",
+                "position": "画面中央",
+                "action": "看着母亲，表情复杂",
+                "expression": "眉毛微蹙，嘴巴微闭"
+            }
+        ],
+        "background": "室内客厅，白色墙壁",
+        "description_narrative": "近景平拍镜头，父亲看着母亲，表情复杂，眉毛微蹙。字幕显示“郑家这么有钱 姐姐可太幸福了 还能替爸爸”，这是女儿的话语（画外音）。",
+        "dialogue": "郑家这么有钱 姐姐可太幸福了 还能替爸爸",
+        "speaker": "小女儿",
+        "emotion": "羡慕",
+        "duration": 3.63,
+        "description_visual": "近景平拍镜头；室内客厅，白色墙壁；画面中央人物，身穿黑色T恤，灰色裤子，看着母亲，表情复杂，表情：眉毛微蹙，嘴巴微闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着母亲，说话",
+                "expression": "眉毛微挑，嘴巴微张"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，小女儿看着母亲，嘴巴微张，继续说话。字幕显示“排忧解难”。",
+        "dialogue": "排忧解难",
+        "speaker": "小女儿",
+        "emotion": "奉承",
+        "duration": 1.27,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面左侧人物，身穿黑色露肩格纹上衣，看着母亲，说话，表情：眉毛微挑，嘴巴微张；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着母亲，说话",
+                "expression": "眉毛微挑，嘴巴微张"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，小女儿看着母亲，嘴巴微张，继续说话。字幕显示“我可太羡慕她了”。",
+        "dialogue": "我可太羡慕她了",
+        "speaker": "小女儿",
+        "emotion": "羡慕",
+        "duration": 1.97,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面左侧人物，身穿黑色露肩格纹上衣，看着母亲，说话，表情：眉毛微挑，嘴巴微张；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黑色T恤，灰色裤子",
+                "position": "画面中央",
+                "action": "看着母亲，说话",
+                "expression": "眉毛微蹙，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅，白色墙壁",
+        "description_narrative": "近景平拍镜头，父亲看着母亲，眉毛微蹙，嘴巴微张，表示同意。字幕显示“是啊”。",
+        "dialogue": "是啊",
+        "speaker": "父亲",
+        "emotion": "无奈",
+        "duration": 3.6,
+        "description_visual": "近景平拍镜头；室内客厅，白色墙壁；画面中央人物，身穿黑色T恤，灰色裤子，看着母亲，说话，表情：眉毛微蹙，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "蓝色中式服装，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            },
+            {
+                "name": "小女儿",
+                "gender": "女",
+                "clothing": "黑色露肩格纹上衣",
+                "position": "画面左侧",
+                "action": "看着父亲",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "室内客厅，绿色植物",
+        "description_narrative": "中近景平拍镜头，母亲和小女儿看着父亲，表情平静。画面逐渐变白。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；室内客厅，绿色植物；画面右侧人物，身穿蓝色中式服装，佩戴珍珠项链，看着父亲，表情：表情平静；画面左侧人物，身穿黑色露肩格纹上衣，看着父亲，表情：表情平静。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "父亲",
+                "gender": "男",
+                "clothing": "黑色T恤，灰色裤子",
+                "position": "画面中央",
+                "action": "拿着手机打电话",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "室内客厅，白色墙壁",
+        "description_narrative": "近景平拍镜头，父亲拿着手机放在耳边打电话，表情严肃。画面带有蓝紫色光晕效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；室内客厅，白色墙壁；画面中央人物，身穿黑色T恤，灰色裤子，拿着手机打电话，表情：表情严肃。"
+    }
+]

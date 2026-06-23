@@ -1,0 +1,736 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍，黑色高冠",
+                "position": "画面右侧",
+                "action": "身体微侧，低头轻咳",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张咳声"
+            },
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲，红色披风",
+                "position": "画面左侧",
+                "action": "站立，身体朝向齐泰",
+                "expression": "眉毛紧锁，眼神焦虑，嘴巴紧闭"
+            }
+        ],
+        "background": "室内场景，光线柔和，背景模糊",
+        "description_narrative": "中景镜头，齐泰身穿紫色官袍站在右侧，低头轻咳一声，杨世杰身穿黑色铠甲站在左侧，神情焦虑地看着他。",
+        "dialogue": "咳。",
+        "speaker": "齐泰",
+        "emotion": "担忧",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；室内场景，光线柔和，背景模糊；画面右侧人物，身穿紫色官袍，黑色高冠，身体微侧，低头轻咳，表情：眉毛微蹙，眼睛下视，嘴巴微张咳声；画面左侧人物，身穿黑色铠甲，红色披风，站立，身体朝向齐泰，表情：眉毛紧锁，眼神焦虑，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍，黑色高冠",
+                "position": "画面右侧",
+                "action": "侧身站立，目光向前",
+                "expression": "眉毛舒展，眼神凝重，嘴巴闭合"
+            },
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲，红色披风",
+                "position": "画面左侧背景",
+                "action": "模糊站立",
+                "expression": "表情不清"
+            }
+        ],
+        "background": "室内走廊或厅堂，色调偏暖",
+        "description_narrative": "近景侧拍，齐泰侧身站立，目光凝视前方，神情严肃，杨世杰在背景中模糊可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.0,
+        "description_visual": "近景侧拍镜头；室内走廊或厅堂，色调偏暖；画面右侧人物，身穿紫色官袍，黑色高冠，侧身站立，目光向前，表情：眉毛舒展，眼神凝重，嘴巴闭合；画面左侧背景人物，身穿黑色铠甲，红色披风，模糊站立，表情：表情不清。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍，黑色高冠",
+                "position": "画面中央",
+                "action": "低头沉思",
+                "expression": "眉毛下垂，眼睛微闭，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，光线集中在人物面部",
+        "description_narrative": "特写镜头，齐泰低着头，似乎在思考对策，发出低沉的应答声。",
+        "dialogue": "嗯。",
+        "speaker": "齐泰",
+        "emotion": "沉思",
+        "duration": 1.16,
+        "description_visual": "特写俯拍镜头；室内，光线集中在人物面部；画面中央人物，身穿紫色官袍，黑色高冠，低头沉思，表情：眉毛下垂，眼睛微闭，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲",
+                "position": "背景模糊",
+                "action": "倒地或跪倒",
+                "expression": "痛苦"
+            },
+            {
+                "name": "未知物品",
+                "gender": "未知",
+                "clothing": "黑色长条状物体",
+                "position": "前景中央",
+                "action": "静置在地毯上",
+                "expression": "无"
+            }
+        ],
+        "background": "铺有花纹地毯的地面",
+        "description_narrative": "低角度特写，前景是一个黑色的长条状物体（疑似武器手柄）落在地毯上，背景中杨世杰模糊的身影倒在地上，发出痛苦的叫声。",
+        "dialogue": "哎呦。",
+        "speaker": "杨世杰",
+        "emotion": "痛苦",
+        "duration": 0.6,
+        "description_visual": "特写低角度镜头；铺有花纹地毯的地面；背景模糊人物，身穿黑色铠甲，倒地或跪倒，表情：痛苦；前景中央人物，身穿黑色长条状物体，静置在地毯上，表情：无。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲",
+                "position": "背景模糊",
+                "action": "在地上挣扎",
+                "expression": "痛苦"
+            },
+            {
+                "name": "未知物品",
+                "gender": "未知",
+                "clothing": "黑色长条状物体",
+                "position": "前景中央",
+                "action": "静置",
+                "expression": "无"
+            }
+        ],
+        "background": "铺有花纹地毯的地面",
+        "description_narrative": "镜头保持在地面物体上，背景中的杨世杰发出倒吸冷气的声音，显示受伤或疼痛。",
+        "dialogue": "嘶。",
+        "speaker": "杨世杰",
+        "emotion": "疼痛",
+        "duration": 0.8,
+        "description_visual": "特写低角度镜头；铺有花纹地毯的地面；背景模糊人物，身穿黑色铠甲，在地上挣扎，表情：痛苦；前景中央人物，身穿黑色长条状物体，静置，表情：无。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲，红色披风",
+                "position": "画面中央",
+                "action": "抬头急切询问",
+                "expression": "眉毛紧皱，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内，光线较暗",
+        "description_narrative": "近景镜头，杨世杰满脸惊慌，抬头急切地向齐泰询问对策，告知阴谋已暴露。",
+        "dialogue": "大人，如今一切都暴露了，该怎么办？",
+        "speaker": "杨世杰",
+        "emotion": "惊慌",
+        "duration": 2.96,
+        "description_visual": "近景平拍镜头；室内，光线较暗；画面中央人物，身穿黑色铠甲，红色披风，抬头急切询问，表情：眉毛紧皱，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲，红色披风",
+                "position": "画面左侧",
+                "action": "伸手抓住齐泰的衣袖",
+                "expression": "眉毛紧锁，眼神求助，嘴巴微张"
+            },
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面右侧",
+                "action": "被抓住衣袖，身体微侧",
+                "expression": "表情沉稳"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "中近景，杨世杰伸手紧紧抓住齐泰的衣袖，急切地重复询问该怎么办。",
+        "dialogue": "该怎么办",
+        "speaker": "杨世杰",
+        "emotion": "焦急",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内，背景模糊；画面左侧人物，身穿黑色铠甲，红色披风，伸手抓住齐泰的衣袖，表情：眉毛紧锁，眼神求助，嘴巴微张；画面右侧人物，身穿紫色官袍，被抓住衣袖，身体微侧，表情：表情沉稳。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲，红色披风",
+                "position": "画面左侧",
+                "action": "抓着齐泰，身体前倾",
+                "expression": "神情紧张"
+            },
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面右侧",
+                "action": "转身吩咐，手势坚定",
+                "expression": "眉毛微扬，眼神坚决，嘴巴开合"
+            }
+        ],
+        "background": "室内，光线柔和",
+        "description_narrative": "中景镜头，齐泰转身吩咐杨世杰去养心殿，并强调不能让皇帝知道今日之事。",
+        "dialogue": "去养心殿，今天的事情不能让皇上知道。",
+        "speaker": "齐泰",
+        "emotion": "严肃",
+        "duration": 4.52,
+        "description_visual": "中景平拍镜头；室内，光线柔和；画面左侧人物，身穿黑色铠甲，红色披风，抓着齐泰，身体前倾，表情：神情紧张；画面右侧人物，身穿紫色官袍，转身吩咐，手势坚定，表情：眉毛微扬，眼神坚决，嘴巴开合。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲",
+                "position": "画面左侧",
+                "action": "倾听",
+                "expression": "神情凝重"
+            },
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面右侧",
+                "action": "侧脸说话，语气加重",
+                "expression": "眉毛紧蹙，眼神犀利，嘴巴用力"
+            }
+        ],
+        "background": "室内，背景虚化",
+        "description_narrative": "近景侧拍，齐泰再次强调不能让皇帝知道此事，表情严肃。",
+        "dialogue": "不能让皇上知道",
+        "speaker": "齐泰",
+        "emotion": "警告",
+        "duration": 1.0,
+        "description_visual": "近景侧拍镜头；室内，背景虚化；画面左侧人物，身穿黑色铠甲，倾听，表情：神情凝重；画面右侧人物，身穿紫色官袍，侧脸说话，语气加重，表情：眉毛紧蹙，眼神犀利，嘴巴用力。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "背拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面中央",
+                "action": "转身快走",
+                "expression": "背影急切"
+            }
+        ],
+        "background": "室内走廊",
+        "description_narrative": "镜头跟随齐泰背影，他催促着快走，准备前往养心殿。",
+        "dialogue": "走，走。",
+        "speaker": "齐泰",
+        "emotion": "急切",
+        "duration": 1.0,
+        "description_visual": "中景背拍镜头（跟拍）；室内走廊；画面中央人物，身穿紫色官袍，转身快走，表情：背影急切。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红袍官员",
+                "gender": "男",
+                "clothing": "红色官袍，黑色帽子",
+                "position": "画面中央",
+                "action": "回头呼喊",
+                "expression": "眉毛上扬，眼睛惊恐，嘴巴张大"
+            }
+        ],
+        "background": "室内，光线较暗",
+        "description_narrative": "近景镜头，一名身穿红袍的官员（非主要角色）回头惊恐地呼喊齐泰的官职“上柱国”。",
+        "dialogue": "上柱国，",
+        "speaker": "红袍官员",
+        "emotion": "惊恐",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；室内，光线较暗；画面中央人物，身穿红色官袍，黑色帽子，回头呼喊，表情：眉毛上扬，眼睛惊恐，嘴巴张大。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "斜角",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "红袍官员",
+                "gender": "男",
+                "clothing": "红色官袍",
+                "position": "画面左侧",
+                "action": "伸手求救",
+                "expression": "面部扭曲，乞求"
+            },
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面右侧前景",
+                "action": "衣袖挥过",
+                "expression": "无视"
+            }
+        ],
+        "background": "室内，动态模糊",
+        "description_narrative": "特写镜头，红袍官员伸手抓住齐泰的紫色衣袖，乞求救命，画面因动作而模糊。",
+        "dialogue": "你救救我呀",
+        "speaker": "红袍官员",
+        "emotion": "绝望",
+        "duration": 1.0,
+        "description_visual": "特写斜角镜头（摇镜）；室内，动态模糊；画面左侧人物，身穿红色官袍，伸手求救，表情：面部扭曲，乞求；画面右侧前景人物，身穿紫色官袍，衣袖挥过，表情：无视。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红袍官员",
+                "gender": "男",
+                "clothing": "红色官袍",
+                "position": "画面左侧",
+                "action": "被推开或倒地",
+                "expression": "痛苦"
+            }
+        ],
+        "background": "室内，模糊",
+        "description_narrative": "特写镜头，红袍官员被粗暴地推开或喝退，画面中只看到红色的衣袍和模糊的动作。",
+        "dialogue": "滚",
+        "speaker": "杨世杰",
+        "emotion": "凶狠",
+        "duration": 0.64,
+        "description_visual": "特写平拍镜头；室内，模糊；画面左侧人物，身穿红色官袍，被推开或倒地，表情：痛苦。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "坐在床上，神情威严",
+                "expression": "眉毛微挑，眼神审视，嘴巴微张"
+            }
+        ],
+        "background": "寝宫，金色帷幔，烛光",
+        "description_narrative": "中景镜头，皇帝身穿黄色龙袍坐在寝宫床上，刚刚醒来，神情带着病容但依然威严。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "威严",
+        "duration": 1.16,
+        "description_visual": "中景平拍镜头；寝宫，金色帷幔，烛光；画面中央人物，身穿黄色龙袍，坐在床上，神情威严，表情：眉毛微挑，眼神审视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金纹长袍，金冠",
+                "position": "画面左侧",
+                "action": "张开双臂，似乎在解释",
+                "expression": "神情紧张"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面右侧前景",
+                "action": "背对镜头坐着",
+                "expression": "不可见"
+            },
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面右侧背景",
+                "action": "站立",
+                "expression": "平静"
+            }
+        ],
+        "background": "寝宫，金色帷幔，蜡烛",
+        "description_narrative": "全景镜头，太子站在床前张开双臂，皇帝坐在床上询问他都做了些什么。",
+        "dialogue": "快跟朕说说，都做了些什么啊？",
+        "speaker": "皇帝",
+        "emotion": "质问",
+        "duration": 4.0,
+        "description_visual": "全景平拍镜头；寝宫，金色帷幔，蜡烛；画面左侧人物，身穿白底金纹长袍，金冠，张开双臂，似乎在解释，表情：神情紧张；画面右侧前景人物，身穿黄色龙袍，背对镜头坐着，表情：不可见；画面右侧背景人物，身穿紫色官服，站立，表情：平静。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金纹长袍，金冠",
+                "position": "画面中央",
+                "action": "低头拱手",
+                "expression": "眉毛低垂，眼神向下，嘴巴微动"
+            }
+        ],
+        "background": "寝宫，背景模糊",
+        "description_narrative": "近景俯拍，太子低头拱手，准备向父皇回话。",
+        "dialogue": "回父皇，儿臣",
+        "speaker": "太子",
+        "emotion": "恭敬",
+        "duration": 2.6,
+        "description_visual": "近景俯拍镜头；寝宫，背景模糊；画面中央人物，身穿白底金纹长袍，金冠，低头拱手，表情：眉毛低垂，眼神向下，嘴巴微动。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面中央",
+                "action": "与杨世杰一同进入，拱手行礼",
+                "expression": "神情庄重"
+            },
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲",
+                "position": "画面左侧",
+                "action": "跟随齐泰，拱手行礼",
+                "expression": "神情紧张"
+            }
+        ],
+        "background": "寝宫门口，烛光",
+        "description_narrative": "中景镜头，齐泰和杨世杰进入寝宫，向皇帝行礼问安。",
+        "dialogue": "参见皇上。",
+        "speaker": "齐泰",
+        "emotion": "恭敬",
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；寝宫门口，烛光；画面中央人物，身穿紫色官袍，与杨世杰一同进入，拱手行礼，表情：神情庄重；画面左侧人物，身穿黑色铠甲，跟随齐泰，拱手行礼，表情：神情紧张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "抬手示意",
+                "expression": "眉毛舒展，眼神温和，嘴巴微张"
+            }
+        ],
+        "background": "寝宫，金色帷幔",
+        "description_narrative": "近景镜头，皇帝抬手示意众人平身，口中说着万岁（可能是对众人问候的回应或讽刺）。",
+        "dialogue": "吾皇万岁。万万岁。",
+        "speaker": "皇帝",
+        "emotion": "复杂",
+        "duration": 4.72,
+        "description_visual": "近景平拍镜头；寝宫，金色帷幔；画面中央人物，身穿黄色龙袍，抬手示意，表情：眉毛舒展，眼神温和，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲",
+                "position": "画面中央",
+                "action": "站立，神情强硬",
+                "expression": "眉毛微扬，眼神直视，嘴巴开合"
+            }
+        ],
+        "background": "寝宫，背景模糊",
+        "description_narrative": "近景镜头，杨世杰站立，皇帝（画外音）赐免礼。",
+        "dialogue": "上柱国，免礼。",
+        "speaker": "皇帝",
+        "emotion": "威严",
+        "duration": 2.56,
+        "description_visual": "近景平拍镜头；寝宫，背景模糊；画面中央人物，身穿黑色铠甲，站立，神情强硬，表情：眉毛微扬，眼神直视，嘴巴开合。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲",
+                "position": "画面中央",
+                "action": "上前一步，语气急切",
+                "expression": "眉毛紧锁，眼神坚定，嘴巴张大"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金纹长袍",
+                "position": "画面左侧",
+                "action": "站立旁观",
+                "expression": "神情紧张"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "寝宫，众人站立",
+        "description_narrative": "全景镜头，杨世杰上前一步，声称有十份奏表必须今日禀明，语气强硬。",
+        "dialogue": "皇上，你总算是醒了啊。为臣有十份奏表，今日必须禀明圣上。",
+        "speaker": "杨世杰",
+        "emotion": "急切",
+        "duration": 8.8,
+        "description_visual": "全景平拍镜头；寝宫，众人站立；画面中央人物，身穿黑色铠甲，上前一步，语气急切，表情：眉毛紧锁，眼神坚定，嘴巴张大；画面左侧人物，身穿白底金纹长袍，站立旁观，表情：神情紧张；画面右侧前景人物，身穿黄色龙袍，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "坐在床上，面露不悦",
+                "expression": "眉毛紧皱，眼神不满，嘴巴微撇"
+            }
+        ],
+        "background": "寝宫，金色帷幔",
+        "description_narrative": "近景镜头，皇帝面露不悦，抱怨刚醒来就被逼迫劳碌。",
+        "dialogue": "朕刚醒来，你就逼朕劳碌。",
+        "speaker": "皇帝",
+        "emotion": "不悦",
+        "duration": 4.12,
+        "description_visual": "近景平拍镜头；寝宫，金色帷幔；画面中央人物，身穿黄色龙袍，坐在床上，面露不悦，表情：眉毛紧皱，眼神不满，嘴巴微撇。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "继续说话，语气反问",
+                "expression": "眉毛上扬，眼神质问，嘴巴微张"
+            }
+        ],
+        "background": "寝宫，金色帷幔",
+        "description_narrative": "近景镜头，皇帝继续反问，是不是想让他病得不够严重。",
+        "dialogue": "是想朕",
+        "speaker": "皇帝",
+        "emotion": "质问",
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；寝宫，金色帷幔；画面中央人物，身穿黄色龙袍，继续说话，语气反问，表情：眉毛上扬，眼神质问，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面右侧",
+                "action": "站立，低头",
+                "expression": "神情恭顺"
+            },
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲",
+                "position": "画面左侧",
+                "action": "站立，低头",
+                "expression": "神情紧张"
+            }
+        ],
+        "background": "寝宫，烛光",
+        "description_narrative": "中景镜头，齐泰和杨世杰低头站立，皇帝（画外音）质问病情是否不够严重。",
+        "dialogue": "病的不够严重吗",
+        "speaker": "皇帝",
+        "emotion": "愤怒",
+        "duration": 1.72,
+        "description_visual": "中景平拍镜头；寝宫，烛光；画面右侧人物，身穿紫色官袍，站立，低头，表情：神情恭顺；画面左侧人物，身穿黑色铠甲，站立，低头，表情：神情紧张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金纹长袍",
+                "position": "画面中央",
+                "action": "拱手低头",
+                "expression": "眉毛低垂，眼神躲闪，嘴巴紧闭"
+            }
+        ],
+        "background": "寝宫，背景模糊",
+        "description_narrative": "近景镜头，太子拱手低头，惶恐地表示不敢。",
+        "dialogue": "臣不敢。",
+        "speaker": "太子",
+        "emotion": "惶恐",
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；寝宫，背景模糊；画面中央人物，身穿白底金纹长袍，拱手低头，表情：眉毛低垂，眼神躲闪，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面右侧",
+                "action": "抬手示意",
+                "expression": "神情严肃"
+            },
+            {
+                "name": "杨世杰",
+                "gender": "男",
+                "clothing": "黑色铠甲",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "神情强硬"
+            }
+        ],
+        "background": "寝宫，烛光",
+        "description_narrative": "中景镜头，皇帝（画外音）质问受谁指使，齐泰和杨世杰站立听训。",
+        "dialogue": "受谁指使",
+        "speaker": "皇帝",
+        "emotion": "严厉",
+        "duration": 2.4,
+        "description_visual": "中景平拍镜头；寝宫，烛光；画面右侧人物，身穿紫色官袍，抬手示意，表情：神情严肃；画面左侧人物，身穿黑色铠甲，站立，表情：神情强硬。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金纹长袍",
+                "position": "画面左侧",
+                "action": "转身喝令",
+                "expression": "眉毛紧锁，眼神果断，嘴巴张大"
+            },
+            {
+                "name": "齐泰",
+                "gender": "男",
+                "clothing": "紫色官袍",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "神情复杂"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面右侧前景",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "寝宫，众人",
+        "description_narrative": "全景镜头，太子突然转身喝令“来人”，并下令将杨世杰带出去，以免惊扰圣驾，试图切断杨世杰与皇帝的沟通。",
+        "dialogue": "来人。把他给我带出去，免得惊扰圣驾。",
+        "speaker": "太子",
+        "emotion": "果断",
+        "duration": 3.68,
+        "description_visual": "全景平拍镜头；寝宫，众人；画面左侧人物，身穿白底金纹长袍，转身喝令，表情：眉毛紧锁，眼神果断，嘴巴张大；画面中央人物，身穿紫色官袍，站立，表情：神情复杂；画面右侧前景人物，身穿黄色龙袍，坐着，表情：不可见。"
+    }
+]

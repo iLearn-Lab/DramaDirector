@@ -1,0 +1,765 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫男子",
+                "gender": "男",
+                "clothing": "蓝白条纹T恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "坐在台阶上，手持冰棍，转头看向右侧",
+                "expression": "眉毛舒展，眼睛注视右侧，嘴巴微张带笑"
+            },
+            {
+                "name": "棕夹克男子",
+                "gender": "男",
+                "clothing": "棕色夹克，白色内搭，牛仔裤",
+                "position": "画面中央",
+                "action": "坐在台阶上，手持冰棍，抬头看向右侧站立的女子",
+                "expression": "眉毛微挑，眼睛向上看，嘴角上扬"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色长裙",
+                "position": "画面右侧",
+                "action": "站立，手持冰棍，低头看向坐着的男子",
+                "expression": "眉毛平缓，眼睛向下看，嘴巴微张似在说话"
+            }
+        ],
+        "background": "红砖墙建筑外，白色遮阳棚，绿色窗框，光线明亮自然",
+        "description_narrative": "中景固定镜头，红砖墙外，条纹衫男子和棕夹克男子坐在台阶上吃冰棍，白衣女子站立在一旁，三人气氛轻松，棕夹克男子抬头看向女子。",
+        "dialogue": "带你们再赚笔钱去。",
+        "speaker": "白衣女子",
+        "emotion": "轻松",
+        "duration": 3.06,
+        "description_visual": "中景平拍镜头；红砖墙建筑外，白色遮阳棚，绿色窗框，光线明亮自然；画面左侧人物，身穿蓝白条纹T恤，棕色裤子，坐在台阶上，手持冰棍，转头看向右侧，表情：眉毛舒展，眼睛注视右侧，嘴巴微张带笑；画面中央人物，身穿棕色夹克，白色内搭，牛仔裤，坐在台阶上，手持冰棍，抬头看向右侧站立的女子，表情：眉毛微挑，眼睛向上看，嘴角上扬；画面右侧人物，身穿白色衬衫，黑色长裙，站立，手持冰棍，低头看向坐着的男子，表情：眉毛平缓，眼睛向下看，嘴巴微张似在说话。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "条纹衫男子",
+                "gender": "男",
+                "clothing": "蓝白条纹T恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "站立行走，手持冰棍，身体微向前倾",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴咀嚼"
+            },
+            {
+                "name": "棕夹克男子",
+                "gender": "男",
+                "clothing": "棕色夹克，白色内搭，牛仔裤",
+                "position": "画面右侧",
+                "action": "站立行走，手持冰棍放入口中，一手插兜",
+                "expression": "眉毛平缓，眼睛看向前方，嘴巴咬住冰棍"
+            }
+        ],
+        "background": "红砖墙背景，白色遮阳棚，户外街道",
+        "description_narrative": "中景跟拍镜头，条纹衫男子和棕夹克男子起身边走边吃冰棍，神态悠闲。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.94,
+        "description_visual": "中景平拍镜头（跟拍）；红砖墙背景，白色遮阳棚，户外街道；画面左侧人物，身穿蓝白条纹T恤，棕色裤子，站立行走，手持冰棍，身体微向前倾，表情：眉毛舒展，眼睛看向前方，嘴巴咀嚼；画面右侧人物，身穿棕色夹克，白色内搭，牛仔裤，站立行走，手持冰棍放入口中，一手插兜，表情：眉毛平缓，眼睛看向前方，嘴巴咬住冰棍。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫男子",
+                "gender": "男",
+                "clothing": "蓝白条纹T恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "站立，手持冰棍",
+                "expression": "光线昏暗，表情模糊"
+            },
+            {
+                "name": "棕夹克男子",
+                "gender": "男",
+                "clothing": "棕色夹克，白色内搭，牛仔裤",
+                "position": "画面右侧",
+                "action": "站立，手持冰棍",
+                "expression": "光线昏暗，表情模糊"
+            }
+        ],
+        "background": "画面极暗，几乎全黑，仅隐约可见人物轮廓",
+        "description_narrative": "全景固定镜头，画面逐渐变暗至全黑，过渡到下一场景，伴随电话接通的画外音。",
+        "dialogue": "不好意思，我先接个电话。喂。什么？量很大，很便宜。",
+        "speaker": "灰西装男子",
+        "emotion": "转折",
+        "duration": 13.74,
+        "description_visual": "全景平拍镜头；画面极暗，几乎全黑，仅隐约可见人物轮廓；画面左侧人物，身穿蓝白条纹T恤，棕色裤子，站立，手持冰棍，表情：光线昏暗，表情模糊；画面右侧人物，身穿棕色夹克，白色内搭，牛仔裤，站立，手持冰棍，表情：光线昏暗，表情模糊。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，双手手指交叉紧扣在身前",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，墙上挂有相框，光线柔和偏暖",
+        "description_narrative": "中近景固定镜头，黑西装男子坐在室内，双手交握，神情严肃地倾听。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 2.14,
+        "description_visual": "中近景平拍镜头；室内，墙上挂有相框，光线柔和偏暖；画面中央人物，身穿黑色西装外套，白色衬衫，坐在椅子上，双手手指交叉紧扣在身前，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫，黑色裤子",
+                "position": "画面左侧",
+                "action": "坐在凳子上，双手捧着一碗小龙虾，抬头看向右侧",
+                "expression": "眉毛微挑，眼睛注视右侧，嘴巴微张"
+            },
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装三件套，黑色衬衫",
+                "position": "画面右侧",
+                "action": "坐在椅子上，左手持手机贴耳通话，右手自然垂放",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴微张说话"
+            }
+        ],
+        "background": "室内，后方有金属置物架，光线较暗",
+        "description_narrative": "中景固定镜头，花衬衫男子捧着小龙虾看着正在打电话的灰西装男子，灰西装男子神情凝重地对着电话说话。",
+        "dialogue": "行行行，我知道了。不好意思啊，这小龙虾一块五一斤的合同，我现在签不了。不是兄弟，咱这龙虾价格谈的时候两块钱，你。",
+        "speaker": "灰西装男子",
+        "emotion": "无奈",
+        "duration": 16.2,
+        "description_visual": "中景平拍镜头；室内，后方有金属置物架，光线较暗；画面左侧人物，身穿黄色底彩色树叶图案衬衫，黑色裤子，坐在凳子上，双手捧着一碗小龙虾，抬头看向右侧，表情：眉毛微挑，眼睛注视右侧，嘴巴微张；画面右侧人物，身穿灰色细条纹西装三件套，黑色衬衫，坐在椅子上，左手持手机贴耳通话，右手自然垂放，表情：眉毛紧锁，眼睛向下看，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，双手手指交叉，头部微低",
+                "expression": "眉毛紧皱，眼睛闭合或下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，墙上相框，暖色调灯光",
+        "description_narrative": "中近景固定镜头，黑西装男子低头沉思，双手交握，对价格变动感到不满或无奈。",
+        "dialogue": "给我降到一块八，现在谈到一块五了，你。",
+        "speaker": "灰西装男子",
+        "emotion": "压抑",
+        "duration": 3.5,
+        "description_visual": "中近景平拍镜头；室内，墙上相框，暖色调灯光；画面中央人物，身穿黑色西装外套，白色衬衫，坐在椅子上，双手手指交叉，头部微低，表情：眉毛紧皱，眼睛闭合或下视，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫，黑色裤子",
+                "position": "画面左侧",
+                "action": "坐在凳子上，捧着小龙虾，身体转向右侧男子",
+                "expression": "眉毛上扬，眼睛看着对方，嘴巴微张似在询问"
+            },
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装三件套，黑色衬衫",
+                "position": "画面右侧",
+                "action": "坐在椅子上，双手交叠放在腿上，身体微侧",
+                "expression": "眉毛平缓，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，金属置物架，昏暗灯光",
+        "description_narrative": "中景固定镜头，花衬衫男子焦急地转向灰西装男子询问，灰西装男子双手交叠，神情冷静。",
+        "dialogue": "咋就不签了呢？要不了，现在是小龙虾很多，要不了那么多，不是。",
+        "speaker": "灰西装男子",
+        "emotion": "解释",
+        "duration": 9.52,
+        "description_visual": "中景平拍镜头；室内，金属置物架，昏暗灯光；画面左侧人物，身穿黄色底彩色树叶图案衬衫，黑色裤子，坐在凳子上，捧着小龙虾，身体转向右侧男子，表情：眉毛上扬，眼睛看着对方，嘴巴微张似在询问；画面右侧人物，身穿灰色细条纹西装三件套，黑色衬衫，坐在椅子上，双手交叠放在腿上，身体微侧，表情：眉毛平缓，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，双手在身前活动，似乎在整理袖口或手势",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "室内，墙上相框，暖光",
+        "description_narrative": "中近景固定镜头，黑西装男子低头看着自己的手，似乎在思考或等待。",
+        "dialogue": "那多少能出？",
+        "speaker": "花衬衫男子",
+        "emotion": "焦急",
+        "duration": 2.68,
+        "description_visual": "中近景平拍镜头；室内，墙上相框，暖光；画面中央人物，身穿黑色西装外套，白色衬衫，坐在椅子上，双手在身前活动，似乎在整理袖口或手势，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装三件套，黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，双手交叠，有人从右侧递给他一支烟",
+                "expression": "眉毛平缓，眼睛看向右侧递烟的手，嘴巴紧闭"
+            },
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "黑色袖口",
+                "position": "画面右前景",
+                "action": "手持香烟递向灰西装男子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，昏暗，后方有金色灯架",
+        "description_narrative": "中近景固定镜头，灰西装男子坐着，画面右侧伸出一只手递给他一支香烟。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.42,
+        "description_visual": "中近景平拍镜头；室内，昏暗，后方有金色灯架；画面中央人物，身穿灰色细条纹西装三件套，黑色衬衫，坐在椅子上，双手交叠，有人从右侧递给他一支烟，表情：眉毛平缓，眼睛看向右侧递烟的手，嘴巴紧闭；画面右前景人物，身穿黑色袖口，手持香烟递向灰西装男子，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，双手拿着打火机点烟",
+                "expression": "眉毛微蹙，眼睛眯起，嘴巴微张吹气或准备点烟"
+            }
+        ],
+        "background": "室内，墙上相框，暖光",
+        "description_narrative": "中近景固定镜头，黑西装男子低头专注地用打火机点烟。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.18,
+        "description_visual": "中近景平拍镜头；室内，墙上相框，暖光；画面中央人物，身穿黑色西装外套，白色衬衫，坐在椅子上，双手拿着打火机点烟，表情：眉毛微蹙，眼睛眯起，嘴巴微张吹气或准备点烟。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫，黑色裤子",
+                "position": "画面中央",
+                "action": "坐在凳子上，双手捧着小龙虾碗，身体微前倾",
+                "expression": "眉毛紧皱，眼睛看向右前方，嘴巴微张露出焦虑"
+            }
+        ],
+        "background": "室内，后方有不锈钢水槽，光线较亮",
+        "description_narrative": "中近景固定镜头，花衬衫男子捧着小龙虾，满脸焦虑地看着对方，等待报价。",
+        "dialogue": "一块三就一块三吧。",
+        "speaker": "花衬衫男子",
+        "emotion": "妥协",
+        "duration": 4.62,
+        "description_visual": "中近景平拍镜头；室内，后方有不锈钢水槽，光线较亮；画面中央人物，身穿黄色底彩色树叶图案衬衫，黑色裤子，坐在凳子上，双手捧着小龙虾碗，身体微前倾，表情：眉毛紧皱，眼睛看向右前方，嘴巴微张露出焦虑。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装三件套，黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，右手抬起伸出三根手指",
+                "expression": "眉毛微挑，眼睛看着对方，嘴巴微张说话"
+            }
+        ],
+        "background": "室内，昏暗，后方有金色灯架",
+        "description_narrative": "中近景固定镜头，灰西装男子抬起手伸出三根手指，纠正对方的价格猜测。",
+        "dialogue": "不是一块三，是三毛。",
+        "speaker": "灰西装男子",
+        "emotion": "冷静",
+        "duration": 4.0,
+        "description_visual": "中近景平拍镜头；室内，昏暗，后方有金色灯架；画面中央人物，身穿灰色细条纹西装三件套，黑色衬衫，坐在椅子上，右手抬起伸出三根手指，表情：眉毛微挑，眼睛看着对方，嘴巴微张说话。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫，黑色裤子",
+                "position": "画面左侧",
+                "action": "坐在凳子上，捧着小龙虾，转头看向右侧",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张震惊"
+            },
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装三件套，黑色衬衫",
+                "position": "画面右侧",
+                "action": "坐在椅子上，右手保持三指手势",
+                "expression": "眉毛平缓，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内，金属置物架，昏暗灯光",
+        "description_narrative": "中景固定镜头，灰西装男子比划着手势说出价格，花衬衫男子转头看着他，表情震惊。",
+        "dialogue": "三毛。",
+        "speaker": "灰西装男子",
+        "emotion": "确认",
+        "duration": 2.3,
+        "description_visual": "中景平拍镜头；室内，金属置物架，昏暗灯光；画面左侧人物，身穿黄色底彩色树叶图案衬衫，黑色裤子，坐在凳子上，捧着小龙虾，转头看向右侧，表情：眉毛上扬，眼睛睁大，嘴巴微张震惊；画面右侧人物，身穿灰色细条纹西装三件套，黑色衬衫，坐在椅子上，右手保持三指手势，表情：眉毛平缓，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面中央",
+                "action": "头部微动，眼神恍惚",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景虚化",
+        "description_narrative": "特写推进镜头，聚焦花衬衫男子的面部，他听到价格后露出难以置信的震惊表情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.16,
+        "description_visual": "特写平拍镜头（推进）；室内背景虚化；画面中央人物，身穿黄色底彩色树叶图案衬衫，头部微动，眼神恍惚，表情：眉毛紧锁，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面中央",
+                "action": "身体晃动，手持碗",
+                "expression": "表情模糊，动作急促"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写摇镜镜头，画面跟随花衬衫男子的动作快速晃动，表现其内心的慌乱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "慌乱",
+        "duration": 0.54,
+        "description_visual": "特写平拍镜头（摇镜）；室内背景模糊；画面中央人物，身穿黄色底彩色树叶图案衬衫，身体晃动，手持碗，表情：表情模糊，动作急促。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面中央",
+                "action": "手持小龙虾碗向前伸出",
+                "expression": "眉毛紧皱，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景虚化",
+        "description_narrative": "中近景跟拍镜头，花衬衫男子端着小龙虾碗向前，似乎在展示或质问。",
+        "dialogue": "这",
+        "speaker": "花衬衫男子",
+        "emotion": "结巴",
+        "duration": 0.32,
+        "description_visual": "中近景平拍镜头（跟拍）；室内，背景虚化；画面中央人物，身穿黄色底彩色树叶图案衬衫，手持小龙虾碗向前伸出，表情：眉毛紧皱，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面左侧",
+                "action": "身体转向右侧，手持碗",
+                "expression": "眉毛紧锁，眼睛看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，窗户透进亮光",
+        "description_narrative": "中景跟拍镜头，花衬衫男子转身面向右侧，表情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头（跟拍）；室内，窗户透进亮光；画面左侧人物，身穿黄色底彩色树叶图案衬衫，身体转向右侧，手持碗，表情：眉毛紧锁，眼睛看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装三件套，黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，双手交叠，头部微侧",
+                "expression": "眉毛平缓，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内，昏暗，后方有金色灯架",
+        "description_narrative": "中近景固定镜头，灰西装男子冷静地坐着，画面外传来花衬衫男子的抗议声。",
+        "dialogue": "不行呀，我这小龙虾进价成本都一块钱呢，这绝对不行。",
+        "speaker": "花衬衫男子",
+        "emotion": "崩溃",
+        "duration": 6.42,
+        "description_visual": "中近景平拍镜头；室内，昏暗，后方有金色灯架；画面中央人物，身穿灰色细条纹西装三件套，黑色衬衫，坐在椅子上，双手交叠，头部微侧，表情：眉毛平缓，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，双手握拳放在胸前，身体微前倾",
+                "expression": "眉毛紧皱，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，墙上相框，暖光",
+        "description_narrative": "中近景固定镜头，黑西装男子双手握拳，似乎在压抑情绪或思考，画面外是灰西装男子的解释声。",
+        "dialogue": "不是我压你的价，刚刚电话里也说了，从外地来了卖小龙虾的，人家给价就是三毛。",
+        "speaker": "灰西装男子",
+        "emotion": "解释",
+        "duration": 8.84,
+        "description_visual": "中近景平拍镜头；室内，墙上相框，暖光；画面中央人物，身穿黑色西装外套，白色衬衫，坐在椅子上，双手握拳放在胸前，身体微前倾，表情：眉毛紧皱，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装三件套，黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，头部转向左侧",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内，昏暗，后方有金色灯架",
+        "description_narrative": "中近景固定镜头，灰西装男子转头看向左侧，画面外传来质疑声。",
+        "dialogue": "量大管够，这怎么可能？",
+        "speaker": "花衬衫男子",
+        "emotion": "怀疑",
+        "duration": 3.92,
+        "description_visual": "中近景平拍镜头；室内，昏暗，后方有金色灯架；画面中央人物，身穿灰色细条纹西装三件套，黑色衬衫，坐在椅子上，头部转向左侧，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装三件套，黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，双手交叠",
+                "expression": "眉毛平缓，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，昏暗",
+        "description_narrative": "中近景固定镜头，灰西装男子沉默地坐着，气氛凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.02,
+        "description_visual": "中近景平拍镜头；室内，昏暗；画面中央人物，身穿灰色细条纹西装三件套，黑色衬衫，坐在椅子上，双手交叠，表情：眉毛平缓，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装",
+                "position": "画面中央",
+                "action": "身体微动",
+                "expression": "不可见，仅见躯干"
+            }
+        ],
+        "background": "室内，昏暗",
+        "description_narrative": "特写摇镜镜头，聚焦灰西装男子的西装躯干部分，画面轻微晃动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头（摇镜）；室内，昏暗；画面中央人物，身穿灰色细条纹西装，身体微动，表情：不可见，仅见躯干。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装",
+                "position": "画面右侧",
+                "action": "身体侧转",
+                "expression": "不可见，仅见侧身"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写跟拍镜头，灰西装男子侧身，镜头跟随其动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.22,
+        "description_visual": "特写平拍镜头（跟拍）；室内，背景模糊；画面右侧人物，身穿灰色细条纹西装，身体侧转，表情：不可见，仅见侧身。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面左后景",
+                "action": "站立，低头看手中的碗",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴紧闭"
+            },
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装",
+                "position": "画面右前景",
+                "action": "背影/侧影，遮挡部分画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，窗户亮光",
+        "description_narrative": "过肩镜头，前景是灰西装男子的肩膀，后景花衬衫男子低头看着碗，神情沮丧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.78,
+        "description_visual": "过肩平拍镜头；室内，窗户亮光；画面左后景人物，身穿黄色底彩色树叶图案衬衫，站立，低头看手中的碗，表情：眉毛紧锁，眼睛向下看，嘴巴紧闭；画面右前景人物，身穿灰色细条纹西装，背影/侧影，遮挡部分画面，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装，黑色衬衫",
+                "position": "画面右侧",
+                "action": "侧脸/肩膀，头部微转",
+                "expression": "不可见，仅见侧脸轮廓"
+            },
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面左后景",
+                "action": "模糊背景中",
+                "expression": "表情模糊"
+            }
+        ],
+        "background": "室内，背景虚化",
+        "description_narrative": "特写固定镜头，聚焦灰西装男子的肩颈部位，背景中花衬衫男子模糊可见，灰西装男子开始劝告。",
+        "dialogue": "我劝你们",
+        "speaker": "灰西装男子",
+        "emotion": "劝诫",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头；室内，背景虚化；画面右侧人物，身穿灰色细条纹西装，黑色衬衫，侧脸/肩膀，头部微转，表情：不可见，仅见侧脸轮廓；画面左后景人物，身穿黄色底彩色树叶图案衬衫，模糊背景中，表情：表情模糊。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装，黑色衬衫",
+                "position": "画面右侧",
+                "action": "侧脸/耳朵，头部微转",
+                "expression": "不可见，仅见耳朵和颈部"
+            },
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面左后景",
+                "action": "模糊背景中",
+                "expression": "表情担忧"
+            }
+        ],
+        "background": "室内，背景虚化",
+        "description_narrative": "特写固定镜头，继续聚焦灰西装男子的侧后方，背景中花衬衫男子面露难色。",
+        "dialogue": "一句",
+        "speaker": "灰西装男子",
+        "emotion": "劝诫",
+        "duration": 0.54,
+        "description_visual": "特写平拍镜头；室内，背景虚化；画面右侧人物，身穿灰色细条纹西装，黑色衬衫，侧脸/耳朵，头部微转，表情：不可见，仅见耳朵和颈部；画面左后景人物，身穿黄色底彩色树叶图案衬衫，模糊背景中，表情：表情担忧。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色细条纹西装三件套，黑色衬衫",
+                "position": "画面右侧",
+                "action": "头部转向右侧，嘴巴张开说话",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴张开"
+            },
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面左后景",
+                "action": "站立，看着前方",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内，昏暗",
+        "description_narrative": "中近景固定镜头，灰西装男子转头劝告，背景中花衬衫男子神情凝重地听着。",
+        "dialogue": "能出手尽量就出手，这个天气小龙虾很容易就死了。",
+        "speaker": "灰西装男子",
+        "emotion": "警告",
+        "duration": 5.96,
+        "description_visual": "中近景平拍镜头；室内，昏暗；画面右侧人物，身穿灰色细条纹西装三件套，黑色衬衫，头部转向右侧，嘴巴张开说话，表情：眉毛微蹙，眼睛看向右侧，嘴巴张开；画面左后景人物，身穿黄色底彩色树叶图案衬衫，站立，看着前方，表情：眉毛紧锁，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面中央",
+                "action": "站立，手持小龙虾碗，身体被强光照亮",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张，神情恍惚"
+            }
+        ],
+        "background": "室内，强逆光/光晕效果，背景模糊",
+        "description_narrative": "中景固定镜头，强烈的光晕笼罩着花衬衫男子，他手持小龙虾碗，神情绝望而恍惚，画面外传来最后的警告。",
+        "dialogue": "而死的小龙虾就不值钱喽。",
+        "speaker": "灰西装男子",
+        "emotion": "绝望",
+        "duration": 7.08,
+        "description_visual": "中景平拍镜头；室内，强逆光/光晕效果，背景模糊；画面中央人物，身穿黄色底彩色树叶图案衬衫，站立，手持小龙虾碗，身体被强光照亮，表情：眉毛舒展，眼睛微眯，嘴巴微张，神情恍惚。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男子",
+                "gender": "男",
+                "clothing": "黄色底彩色树叶图案衬衫",
+                "position": "画面中央",
+                "action": "站立，手持空碗或小龙虾碗，身体静止",
+                "expression": "表情呆滞，眼神空洞"
+            }
+        ],
+        "background": "室内，光线逐渐恢复正常或保持昏暗",
+        "description_narrative": "中景固定镜头，花衬衫男子呆立在原地，手持碗，对刚才的对话陷入死寂般的沉默。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "绝望",
+        "duration": 2.78,
+        "description_visual": "中景平拍镜头；室内，光线逐渐恢复正常或保持昏暗；画面中央人物，身穿黄色底彩色树叶图案衬衫，站立，手持空碗或小龙虾碗，身体静止，表情：表情呆滞，眼神空洞。"
+    }
+]

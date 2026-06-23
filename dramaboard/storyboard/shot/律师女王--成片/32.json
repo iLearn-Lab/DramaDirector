@@ -1,0 +1,1345 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧床上",
+                "action": "躺在病床上，头部枕在枕头上",
+                "expression": "眉毛微蹙，眼睛睁开看向前方，嘴巴微张"
+            },
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套，黑色裤子",
+                "position": "画面右侧，走向病床",
+                "action": "身体微向前倾，迈步走向病床",
+                "expression": "眉毛舒展，眼睛注视女病人，嘴巴微张似在说话"
+            }
+        ],
+        "background": "医院病房，浅木色墙板，灰色地板，光线明亮",
+        "description_narrative": "全景镜头，师傅身穿蓝色衬衫和黑色西装走向病床，询问躺在床上的女病人感觉如何，女病人身穿蓝白条纹病号服躺在白色被单下。",
+        "dialogue": "感觉怎么样啊？",
+        "speaker": "师傅",
+        "emotion": "关切",
+        "duration": 1.9,
+        "description_visual": "全景平拍镜头；医院病房，浅木色墙板，灰色地板，光线明亮；画面左侧床上人物，身穿蓝白条纹病号服，躺在病床上，头部枕在枕头上，表情：眉毛微蹙，眼睛睁开看向前方，嘴巴微张；画面右侧，走向病床人物，身穿蓝色衬衫，黑色西装外套，黑色裤子，身体微向前倾，迈步走向病床，表情：眉毛舒展，眼睛注视女病人，嘴巴微张似在说话。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "躺在床上，头部微抬",
+                "expression": "眉毛微挑，眼睛看向右上方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人躺在床上，眼神看向一侧，似乎在让师傅坐下或休息。",
+        "dialogue": "师傅，躺下，躺下。",
+        "speaker": "女病人",
+        "emotion": "虚弱但客气",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，躺在床上，头部微抬，表情：眉毛微挑，眼睛看向右上方，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "弯腰低头，双手扶在膝盖附近",
+                "expression": "眉毛下垂，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，浅木色墙板，白色床头柜一角",
+        "description_narrative": "俯拍中近景，师傅弯腰低头，似乎在查看女病人的状况或整理衣物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 2.32,
+        "description_visual": "中近景俯拍镜头；医院病房，浅木色墙板，白色床头柜一角；画面中央人物，身穿蓝色衬衫，黑色西装外套，弯腰低头，双手扶在膝盖附近，表情：眉毛下垂，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "靠在床头，眼神下移",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微抿"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人靠在床头，眼神低垂，表示自己没什么事。",
+        "dialogue": "我没什么事",
+        "speaker": "女病人",
+        "emotion": "平静",
+        "duration": 3.1,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，靠在床头，眼神下移，表情：眉毛微蹙，眼睛向下看，嘴巴微抿。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，身体微前倾",
+                "expression": "眉毛微蹙，眼睛看向左下方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅坐在床边，表情关切，表示女病人没必要特意来医院看他（或他没必要特意来医院）。",
+        "dialogue": "医院看我一趟",
+        "speaker": "师傅",
+        "emotion": "关切",
+        "duration": 3.1,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，身体微前倾，表情：眉毛微蹙，眼睛看向左下方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "靠在床头，眼神直视前方",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人看着前方，似乎在回应师傅的话，询问为什么躺在这里。",
+        "dialogue": "没事，没事你怎么躺这了？",
+        "speaker": "女病人",
+        "emotion": "疑惑",
+        "duration": 3.06,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，靠在床头，眼神直视前方，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，双手放在腿上",
+                "expression": "眉毛微蹙，眼睛看向左下方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅坐在床边，提起那天要不是温羡及时赶到。",
+        "dialogue": "那天要不是温羡",
+        "speaker": "师傅",
+        "emotion": "感慨",
+        "duration": 2.48,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，双手放在腿上，表情：眉毛微蹙，眼睛看向左下方，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "靠在床头，嘴角微扬",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人听到师傅的话，露出淡淡的微笑。",
+        "dialogue": "及时赶到，你呀。",
+        "speaker": "师傅",
+        "emotion": "欣慰",
+        "duration": 3.18,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，靠在床头，嘴角微扬，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，手伸进西装内袋",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅伸手进西装内袋，似乎要拿手机，女病人叫他师傅。",
+        "dialogue": "师傅。",
+        "speaker": "女病人",
+        "emotion": "提醒",
+        "duration": 3.14,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，手伸进西装内袋，表情：眉毛微蹙，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "拿出手机，低头看手机",
+                "expression": "眉毛微蹙，眼睛看手机，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅拿出手机，女病人让他先接电话。",
+        "dialogue": "您先接。",
+        "speaker": "女病人",
+        "emotion": "体贴",
+        "duration": 5.38,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，拿出手机，低头看手机，表情：眉毛微蹙，眼睛看手机，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在床上，双手交叠放在被子上",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，浅木色墙板，白色床单",
+        "description_narrative": "中景镜头，女病人坐在床上，安静地等待师傅接电话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 7.58,
+        "description_visual": "中景平拍镜头；医院病房，浅木色墙板，白色床单；画面中央人物，身穿蓝白条纹病号服，坐在床上，双手交叠放在被子上，表情：眉毛舒展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "手持黑色手机贴在耳边",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人拿起手机打电话，称呼对方陈创，并说自己的师傅是他。",
+        "dialogue": "喂，陈创，你师傅是我。",
+        "speaker": "女病人",
+        "emotion": "严肃",
+        "duration": 3.52,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，手持黑色手机贴在耳边，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "门外，透过门上的长条玻璃窗可见",
+                "action": "站在门外，手持手机贴在耳边",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房门口，灰色双开门，浅木色墙板",
+        "description_narrative": "中景镜头，透过门上的玻璃窗，可见师傅站在门外打电话，说对方的师傅是自己的父亲。",
+        "dialogue": "你师傅是我父亲",
+        "speaker": "师傅",
+        "emotion": "严肃",
+        "duration": 1.58,
+        "description_visual": "中景平拍镜头；医院病房门口，灰色双开门，浅木色墙板；门外，透过门上的长条玻璃窗可见人物，身穿蓝色衬衫，黑色西装外套，站在门外，手持手机贴在耳边，表情：眉毛微蹙，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "手持手机贴在耳边",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人继续打电话，重复了“父亲”一词。",
+        "dialogue": "父亲。",
+        "speaker": "女病人",
+        "emotion": "确认",
+        "duration": 4.28,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，手持手机贴在耳边，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "门外，透过门上的长条玻璃窗可见",
+                "action": "站在门外，透过玻璃向里看",
+                "expression": "眉毛微蹙，眼睛透过玻璃看，嘴巴微张"
+            }
+        ],
+        "background": "医院病房门口，灰色双开门",
+        "description_narrative": "中景镜头，师傅站在门外透过玻璃窗向里看，女病人（画外音）让陈创查当年向记者爆料的人是不是温书华。",
+        "dialogue": "你去帮我查一查，当年向记者爆料的人是不是温书华？",
+        "speaker": "女病人",
+        "emotion": "怀疑",
+        "duration": 1.18,
+        "description_visual": "中景平拍镜头；医院病房门口，灰色双开门；门外，透过门上的长条玻璃窗可见人物，身穿蓝色衬衫，黑色西装外套，站在门外，透过玻璃向里看，表情：眉毛微蹙，眼睛透过玻璃看，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "手持手机贴在耳边",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人继续打电话，询问他为什么要去。",
+        "dialogue": "他为什么要去。",
+        "speaker": "女病人",
+        "emotion": "疑惑",
+        "duration": 2.44,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，手持手机贴在耳边，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "手持手机贴在耳边",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人继续打电话，说“还有”。",
+        "dialogue": "还有",
+        "speaker": "女病人",
+        "emotion": "严肃",
+        "duration": 1.9,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，手持手机贴在耳边，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "门外，透过门缝可见",
+                "action": "站在门外，侧脸贴着门缝听",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房门口，门缝",
+        "description_narrative": "特写镜头，师傅站在门外透过门缝偷听，女病人（画外音）提到员工宿舍。",
+        "dialogue": "员工宿舍。",
+        "speaker": "女病人",
+        "emotion": "警惕",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；医院病房门口，门缝；门外，透过门缝可见人物，身穿蓝色衬衫，黑色西装外套，站在门外，侧脸贴着门缝听，表情：眉毛紧锁，眼睛向下看，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "门外，透过门缝可见",
+                "action": "站在门外，眼神凝重",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房门口，门缝",
+        "description_narrative": "特写镜头，师傅在门外偷听，表情凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 1.7,
+        "description_visual": "特写平拍镜头；医院病房门口，门缝；门外，透过门缝可见人物，身穿蓝色衬衫，黑色西装外套，站在门外，眼神凝重，表情：眉毛紧锁，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在床上，手持手机",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "中景镜头，女病人坐在床上打电话，神情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 6.16,
+        "description_visual": "中景平拍镜头；医院病房，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，坐在床上，手持手机，表情：眉毛微蹙，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "双手操作手机，拔出SIM卡托",
+                "expression": "眉毛微蹙，眼睛看手机，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，白色床单",
+        "description_narrative": "特写镜头，女病人双手操作手机，拔出SIM卡托。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "谨慎",
+        "duration": 0.86,
+        "description_visual": "特写俯拍镜头；医院病房，白色床单；画面中央人物，身穿蓝白条纹病号服，双手操作手机，拔出SIM卡托，表情：眉毛微蹙，眼睛看手机，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "站在门口，转头看向一侧",
+                "expression": "眉毛微挑，眼睛看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房门口，浅木色墙板",
+        "description_narrative": "中近景镜头，师傅站在门口，突然转头，似乎发现了什么。",
+        "dialogue": "老头。",
+        "speaker": "白衣青年",
+        "emotion": "惊讶",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；医院病房门口，浅木色墙板；画面中央人物，身穿蓝色衬衫，黑色西装外套，站在门口，转头看向一侧，表情：眉毛微挑，眼睛看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣青年",
+                "gender": "男",
+                "clothing": "白色夹克，黑色T恤，银色项链",
+                "position": "画面右侧",
+                "action": "站在走廊，双手插兜",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            },
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面左侧前景",
+                "action": "背对镜头，侧脸看向白衣青年",
+                "expression": "眉毛微蹙，眼睛看向白衣青年，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，浅木色墙板，灰色门",
+        "description_narrative": "中近景镜头，白衣青年出现在走廊，称呼师傅为“老头”，师傅问他偷听什么，并解释自己在打电话。",
+        "dialogue": "偷听什么呢？谁偷听了？我刚接个电话，走进去吧。",
+        "speaker": "师傅",
+        "emotion": "掩饰",
+        "duration": 6.64,
+        "description_visual": "中近景平拍镜头；医院走廊，浅木色墙板，灰色门；画面右侧人物，身穿白色夹克，黑色T恤，银色项链，站在走廊，双手插兜，表情：眉毛微挑，眼睛看向左侧，嘴巴微张；画面左侧前景人物，身穿蓝色衬衫，黑色西装外套，背对镜头，侧脸看向白衣青年，表情：眉毛微蹙，眼睛看向白衣青年，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "医院病房门口，灰色双开门",
+        "description_narrative": "中景镜头，病房门关闭，画面中无人。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "中景平拍镜头；医院病房门口，灰色双开门。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在床上，低头看手机",
+                "expression": "眉毛微蹙，眼睛看手机，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "中景镜头，女病人坐在床上，低头看着手中的手机。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.88,
+        "description_visual": "中景平拍镜头；医院病房，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，坐在床上，低头看手机，表情：眉毛微蹙，眼睛看手机，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在床上，抬头看向前方",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "中近景镜头，女病人抬头叫了一声“师傅”。",
+        "dialogue": "师傅。",
+        "speaker": "女病人",
+        "emotion": "平静",
+        "duration": 2.52,
+        "description_visual": "中近景平拍镜头；医院病房，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，坐在床上，抬头看向前方，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "站在病房内，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向女病人，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅走进病房，问女病人想说什么。",
+        "dialogue": "想说什么来着？",
+        "speaker": "师傅",
+        "emotion": "询问",
+        "duration": 5.18,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，站在病房内，身体微侧，表情：眉毛微蹙，眼睛看向女病人，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "靠在床头，眼神看向右侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微抿"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人看着右侧，说没什么，并称呼对方温主任。",
+        "dialogue": "没什么，温主任。",
+        "speaker": "女病人",
+        "emotion": "客气",
+        "duration": 5.08,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，靠在床头，眼神看向右侧，表情：眉毛舒展，眼睛看向右侧，嘴巴微抿。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面右侧前景",
+                "action": "坐在床边，侧身看向门口",
+                "expression": "眉毛微挑，眼睛看向门口，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "过肩镜头，师傅坐在床边，转头看向门口，说“你也在”。",
+        "dialogue": "你也在。",
+        "speaker": "师傅",
+        "emotion": "惊讶",
+        "duration": 0.92,
+        "description_visual": "中近景过肩镜头；医院病房，浅木色墙板；画面右侧前景人物，身穿蓝色衬衫，黑色西装外套，坐在床边，侧身看向门口，表情：眉毛微挑，眼睛看向门口，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯明",
+                "gender": "男",
+                "clothing": "灰色三件套西装，条纹衬衫，棕色领带",
+                "position": "门口",
+                "action": "推门进入，面带笑容",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "医院病房门口，浅木色墙板",
+        "description_narrative": "全景镜头，冯明身穿灰色西装推门进入，笑着打招呼。",
+        "dialogue": "冯明啊。",
+        "speaker": "师傅",
+        "emotion": "惊喜",
+        "duration": 2.1,
+        "description_visual": "全景平拍镜头；医院病房门口，浅木色墙板；门口人物，身穿灰色三件套西装，条纹衬衫，棕色领带，推门进入，面带笑容，表情：眉毛舒展，眼睛眯起笑，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，转头看向门口",
+                "expression": "眉毛舒展，眼睛看向门口，嘴巴张开笑"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "中近景镜头，师傅坐在床边，笑着看向门口的冯明。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "开心",
+        "duration": 1.18,
+        "description_visual": "中近景平拍镜头；医院病房，浅木色墙板；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，转头看向门口，表情：眉毛舒展，眼睛看向门口，嘴巴张开笑。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯明",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "走进病房，双手自然下垂",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，灰色门",
+        "description_narrative": "中景镜头，冯明走进病房，对女病人说她恢复得快。",
+        "dialogue": "秦律，这么快就好了。",
+        "speaker": "冯明",
+        "emotion": "客气",
+        "duration": 3.96,
+        "description_visual": "中景平拍镜头；医院病房，灰色门；画面中央人物，身穿灰色三件套西装，走进病房，双手自然下垂，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣青年",
+                "gender": "男",
+                "clothing": "白色夹克，黑色T恤",
+                "position": "画面左侧",
+                "action": "坐在床边，侧脸看向前方",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "中近景镜头，白衣青年坐在床边，表情严肃地看着前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；医院病房，浅木色墙板；画面左侧人物，身穿白色夹克，黑色T恤，坐在床边，侧脸看向前方，表情：眉毛微蹙，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "靠在床头，嘴角微扬",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人微笑着说自己年轻，恢复力强。",
+        "dialogue": "毕竟我还年轻，身体恢复力强。",
+        "speaker": "女病人",
+        "emotion": "自信",
+        "duration": 3.96,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，靠在床头，嘴角微扬，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，低头看被子",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅坐在床边，低头说听说他们俩之间有事。",
+        "dialogue": "我听说你们俩之间。",
+        "speaker": "师傅",
+        "emotion": "试探",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，低头看被子，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧床上",
+                "action": "躺在病床上",
+                "expression": "眉毛微蹙，眼睛看向前方"
+            },
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央床边",
+                "action": "坐在床边",
+                "expression": "眉毛微蹙，眼睛看向女病人"
+            },
+            {
+                "name": "白衣青年",
+                "gender": "男",
+                "clothing": "白色夹克",
+                "position": "画面中央右侧",
+                "action": "坐在床边",
+                "expression": "眉毛微蹙，眼睛看向师傅"
+            },
+            {
+                "name": "冯明",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛看向师傅"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "全景镜头，病房内四人，师傅问他们之间还有什么赌约。",
+        "dialogue": "还有什么赌约",
+        "speaker": "师傅",
+        "emotion": "好奇",
+        "duration": 2.16,
+        "description_visual": "全景平拍镜头；医院病房，浅木色墙板；画面左侧床上人物，身穿蓝白条纹病号服，躺在病床上，表情：眉毛微蹙，眼睛看向前方；画面中央床边人物，身穿蓝色衬衫，黑色西装外套，坐在床边，表情：眉毛微蹙，眼睛看向女病人；画面中央右侧人物，身穿白色夹克，坐在床边，表情：眉毛微蹙，眼睛看向师傅；画面右侧人物，身穿灰色三件套西装，站立，表情：眉毛舒展，眼睛看向师傅。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，皱眉",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅皱眉询问赌约的事。",
+        "dialogue": "赌约？",
+        "speaker": "女病人",
+        "emotion": "疑惑",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，皱眉，表情：眉毛紧锁，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在床上，双手交叠",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人承认是有这么一回事。",
+        "dialogue": "是有这么一回事。",
+        "speaker": "冯明",
+        "emotion": "坦然",
+        "duration": 3.02,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，坐在床上，双手交叠，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯明",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，低头微笑",
+                "expression": "眉毛舒展，眼睛向下看，嘴角上扬"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "中近景镜头，冯明低头微笑，默认了赌约的事。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；医院病房，浅木色墙板；画面中央人物，身穿灰色三件套西装，站立，低头微笑，表情：眉毛舒展，眼睛向下看，嘴角上扬。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在床上，眼神下移",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微抿"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人低头，说当时冯律还跟她说。",
+        "dialogue": "当时冯律还跟我说。",
+        "speaker": "女病人",
+        "emotion": "回忆",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，坐在床上，眼神下移，表情：眉毛微蹙，眼睛向下看，嘴巴微抿。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在床上，抬头说话",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人抬头说赌约内容是输的人滚出鼎泰。",
+        "dialogue": "谁输了的话，谁就要滚出鼎泰。",
+        "speaker": "女病人",
+        "emotion": "严肃",
+        "duration": 3.74,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，坐在床上，抬头说话，表情：眉毛微挑，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯明",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，低头微笑",
+                "expression": "眉毛舒展，眼睛向下看，嘴角上扬"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "中近景镜头，冯明低头微笑，师傅感叹“你们俩呀”。",
+        "dialogue": "你们俩呀。",
+        "speaker": "师傅",
+        "emotion": "无奈",
+        "duration": 0.64,
+        "description_visual": "中近景平拍镜头；医院病房，浅木色墙板；画面中央人物，身穿灰色三件套西装，站立，低头微笑，表情：眉毛舒展，眼睛向下看，嘴角上扬。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，身体前倾",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅坐在床边，说他们两个是他的左膀右臂。",
+        "dialogue": "你们两个是我的左膀右臂。",
+        "speaker": "师傅",
+        "emotion": "重视",
+        "duration": 5.26,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，身体前倾，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "靠在床头，眼神下移",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微抿"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人低头，师傅说一个也不能少。",
+        "dialogue": "一个也不能少。",
+        "speaker": "师傅",
+        "emotion": "坚定",
+        "duration": 2.54,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，靠在床头，眼神下移，表情：眉毛微蹙，眼睛向下看，嘴巴微抿。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，转头看向冯明",
+                "expression": "眉毛微挑，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅转头对女病人说冯明也算是她的前辈。",
+        "dialogue": "对了，冯明也算是你的前辈。",
+        "speaker": "师傅",
+        "emotion": "介绍",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，转头看向冯明，表情：眉毛微挑，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯明",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，低头微笑",
+                "expression": "眉毛舒展，眼睛向下看，嘴角上扬"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "中近景镜头，冯明低头微笑，师傅说女病人还有很多地方需要向他学习。",
+        "dialogue": "你还有很多地方。",
+        "speaker": "师傅",
+        "emotion": "教导",
+        "duration": 2.66,
+        "description_visual": "中近景平拍镜头；医院病房，浅木色墙板；画面中央人物，身穿灰色三件套西装，站立，低头微笑，表情：眉毛舒展，眼睛向下看，嘴角上扬。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，皱眉",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅皱眉说需要向冯明学习，并提到他们的赌约。",
+        "dialogue": "需要向他学习，你们的赌约。",
+        "speaker": "师傅",
+        "emotion": "严肃",
+        "duration": 3.66,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，皱眉，表情：眉毛紧锁，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧床上",
+                "action": "躺在病床上",
+                "expression": "眉毛微蹙，眼睛看向前方"
+            },
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央床边",
+                "action": "坐在床边",
+                "expression": "眉毛舒展，眼睛看向女病人"
+            },
+            {
+                "name": "白衣青年",
+                "gender": "男",
+                "clothing": "白色夹克",
+                "position": "画面中央右侧",
+                "action": "坐在床边",
+                "expression": "眉毛微蹙，眼睛看向师傅"
+            },
+            {
+                "name": "冯明",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛看向师傅"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "全景镜头，师傅宣布赌约作废。",
+        "dialogue": "作废。",
+        "speaker": "师傅",
+        "emotion": "决断",
+        "duration": 1.36,
+        "description_visual": "全景平拍镜头；医院病房，浅木色墙板；画面左侧床上人物，身穿蓝白条纹病号服，躺在病床上，表情：眉毛微蹙，眼睛看向前方；画面中央床边人物，身穿蓝色衬衫，黑色西装外套，坐在床边，表情：眉毛舒展，眼睛看向女病人；画面中央右侧人物，身穿白色夹克，坐在床边，表情：眉毛微蹙，眼睛看向师傅；画面右侧人物，身穿灰色三件套西装，站立，表情：眉毛舒展，眼睛看向师傅。"
+    },
+    {
+        "index": 48,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "师傅",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "坐在床边，微笑",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "医院病房，白色大理石纹墙面",
+        "description_narrative": "中近景镜头，师傅坐在床边，露出笑容。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "满意",
+        "duration": 1.7,
+        "description_visual": "中近景平拍镜头；医院病房，白色大理石纹墙面；画面中央人物，身穿蓝色衬衫，黑色西装外套，坐在床边，微笑，表情：眉毛舒展，眼睛眯起笑，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 49,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在床上，低头看手机",
+                "expression": "眉毛微蹙，眼睛看手机，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人低头看着手机，神情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 0.54,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，坐在床上，低头看手机，表情：眉毛微蹙，眼睛看手机，嘴巴紧闭。"
+    },
+    {
+        "index": 50,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "双手操作手机，手指点击屏幕",
+                "expression": "眉毛微蹙，眼睛看手机，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，白色床单",
+        "description_narrative": "特写镜头，女病人双手操作手机，屏幕显示应用图标。",
+        "dialogue": "温主任。",
+        "speaker": "女病人",
+        "emotion": "平静",
+        "duration": 0.96,
+        "description_visual": "特写俯拍镜头；医院病房，白色床单；画面中央人物，身穿蓝白条纹病号服，双手操作手机，手指点击屏幕，表情：眉毛微蹙，眼睛看手机，嘴巴紧闭。"
+    },
+    {
+        "index": 51,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "坐在床上，手持手机",
+                "expression": "眉毛微蹙，眼睛看手机，嘴巴微张"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人看着手机，说其实秦迦那天。",
+        "dialogue": "其实秦迦那天。",
+        "speaker": "女病人",
+        "emotion": "揭露",
+        "duration": 3.98,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，坐在床上，手持手机，表情：眉毛微蹙，眼睛看手机，嘴巴微张。"
+    },
+    {
+        "index": 52,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "双手操作手机，屏幕显示短信界面",
+                "expression": "眉毛微蹙，眼睛看手机，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，白色床单",
+        "description_narrative": "特写镜头，女病人手机屏幕显示短信界面，内容是“找我过来，打赌呢”。",
+        "dialogue": "找我过来，打赌呢。",
+        "speaker": "女病人",
+        "emotion": "冷静",
+        "duration": 1.2,
+        "description_visual": "特写俯拍镜头；医院病房，白色床单；画面中央人物，身穿蓝白条纹病号服，双手操作手机，屏幕显示短信界面，表情：眉毛微蹙，眼睛看手机，嘴巴紧闭。"
+    },
+    {
+        "index": 53,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯明",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，眯眼笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "医院病房，浅木色墙板",
+        "description_narrative": "中近景镜头，冯明眯眼笑着说“我是不愿意的”。",
+        "dialogue": "我是不愿意的",
+        "speaker": "冯明",
+        "emotion": "狡辩",
+        "duration": 2.06,
+        "description_visual": "中近景平拍镜头；医院病房，浅木色墙板；画面中央人物，身穿灰色三件套西装，站立，眯眼笑，表情：眉毛舒展，眼睛眯起，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 54,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "靠在床头，眼神下移",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微抿"
+            }
+        ],
+        "background": "医院病房床头，浅木色墙板",
+        "description_narrative": "近景镜头，女病人低头，冯明继续说“但是”，女病人说“接个电话”。",
+        "dialogue": "接个电话。",
+        "speaker": "女病人",
+        "emotion": "打断",
+        "duration": 3.52,
+        "description_visual": "近景平拍镜头；医院病房床头，浅木色墙板；画面中央人物，身穿蓝白条纹病号服，靠在床头，眼神下移，表情：眉毛微蹙，眼睛向下看，嘴巴微抿。"
+    },
+    {
+        "index": 55,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女病人",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "面部被强光覆盖",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，强光",
+        "description_narrative": "特写镜头，女病人面部被强光照亮，画面泛白。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恍惚",
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；医院病房，强光；画面中央人物，身穿蓝白条纹病号服，面部被强光覆盖，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    }
+]

@@ -1,0 +1,777 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色T恤",
+                "position": "画面中央",
+                "action": "坐在办公椅上，身体前倾，嘴巴微张正在说话",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴张开"
+            }
+        ],
+        "background": "办公室内，背景有书架和摆件，光线较暗",
+        "description_narrative": "特写镜头，西装男坐在办公室内，身穿黑色西装外套内搭白色T恤，神情焦虑，嘴巴微张正在询问为什么没有消息。",
+        "dialogue": "为什么还是没有消息？",
+        "speaker": "西装男",
+        "emotion": "焦虑",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；办公室内，背景有书架和摆件，光线较暗；画面中央人物，身穿黑色西装外套，白色T恤，坐在办公椅上，身体前倾，嘴巴微张正在说话，表情：眉毛微蹙，眼睛直视前方，嘴巴张开。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，黑领带",
+                "position": "画面右侧",
+                "action": "站立在办公桌前，双手交握在身前，低头",
+                "expression": "眉毛低垂，眼睛向下看，嘴巴紧闭"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧前景",
+                "action": "背对镜头坐在桌前",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室，有窗户和办公桌，光线明亮",
+        "description_narrative": "过肩镜头，助理身穿全套黑色西装站在办公桌前，低着头双手交握，态度恭敬愧疚，西装男背对镜头坐在桌前。",
+        "dialogue": "对不起啊。",
+        "speaker": "助理",
+        "emotion": "愧疚",
+        "duration": 0.97,
+        "description_visual": "中景过肩镜头；办公室，有窗户和办公桌，光线明亮；画面右侧人物，身穿黑色西装，白衬衫，黑领带，站立在办公桌前，双手交握在身前，低头，表情：眉毛低垂，眼睛向下看，嘴巴紧闭；画面左侧前景人物，身穿黑色西装，背对镜头坐在桌前，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色T恤",
+                "position": "画面中央",
+                "action": "坐在椅子上，头转向右侧，嘴巴微张",
+                "expression": "眉毛舒展，眼睛看向右上方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内，背景模糊，光线较暗",
+        "description_narrative": "近景镜头，西装男坐在办公椅上，头转向右侧，眼神看向别处，嘴巴微张发出声音。",
+        "dialogue": "哦。",
+        "speaker": "西装男",
+        "emotion": "冷淡",
+        "duration": 0.63,
+        "description_visual": "近景平拍镜头；办公室内，背景模糊，光线较暗；画面中央人物，身穿黑色西装外套，白色T恤，坐在椅子上，头转向右侧，嘴巴微张，表情：眉毛舒展，眼睛看向右上方，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，身体前倾，手部有动作",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室内，背景有书架，光线较暗",
+        "description_narrative": "近景镜头，西装男神情变得激动，身体前倾，嘴巴张大，挥手示意不要说对不起，并询问白水河下游的情况。",
+        "dialogue": "不要跟我说对不起，白水河下游搜过了吗？",
+        "speaker": "西装男",
+        "emotion": "愤怒",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架，光线较暗；画面中央人物，身穿黑色西装外套，白色T恤，坐在桌前，身体前倾，手部有动作，表情：眉毛上扬，眼睛睁大，嘴巴张开说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，黑领带",
+                "position": "画面右侧",
+                "action": "站立，双手交握，低头",
+                "expression": "眉毛低垂，眼睛向下，表情严肃"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室，有电脑显示器和办公桌",
+        "description_narrative": "过肩镜头，助理站在办公桌前，低头听着西装男的质问，关于白水河下游搜寻的问题。",
+        "dialogue": "白水河下游搜过了吗",
+        "speaker": "西装男",
+        "emotion": "严肃",
+        "duration": 2.87,
+        "description_visual": "中景过肩镜头；办公室，有电脑显示器和办公桌；画面右侧人物，身穿黑色西装，白衬衫，黑领带，站立，双手交握，低头，表情：眉毛低垂，眼睛向下，表情严肃；画面左侧前景人物，身穿黑色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装外套，白色T恤",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交叠",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内，背景有书架，光线较暗",
+        "description_narrative": "近景镜头，西装男双手交叠在桌上，眼神锐利，继续追问是否全部搜过了。",
+        "dialogue": "全搜过了没有？",
+        "speaker": "西装男",
+        "emotion": "急切",
+        "duration": 1.83,
+        "description_visual": "近景平拍镜头；办公室内，背景有书架，光线较暗；画面中央人物，身穿黑色西装外套，白色T恤，坐在桌前，双手交叠，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "高楼建筑 exterior，阴天",
+        "description_narrative": "仰拍镜头，一栋高层住宅楼耸立在阴天的背景下，画面中无人物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.77,
+        "description_visual": "远景仰拍镜头；高楼建筑 exterior，阴天。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫，卡其色裤子",
+                "position": "画面中央",
+                "action": "蹲坐或坐在低处，低头看手中的图纸",
+                "expression": "眉毛微蹙，眼睛向下看，神情专注"
+            }
+        ],
+        "background": "室内客厅，有沙发和靠垫，光线柔和",
+        "description_narrative": "中近景镜头，慕凡戴着眼镜，身穿黑白条纹衬衫，正低头专注地看着手中的建筑图纸。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；室内客厅，有沙发和靠垫，光线柔和；画面中央人物，身穿黑白条纹衬衫，卡其色裤子，蹲坐或坐在低处，低头看手中的图纸，表情：眉毛微蹙，眼睛向下看，神情专注。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面左侧",
+                "action": "手托着下巴，看着慕凡",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微抿"
+            }
+        ],
+        "background": "室内客厅，背景模糊",
+        "description_narrative": "特写镜头，冉冉扎着侧边麻花辫，身穿黑白条纹上衣，手托下巴，眼神温柔地看着慕凡，轻声叫他的名字。",
+        "dialogue": "慕凡。",
+        "speaker": "冉冉",
+        "emotion": "温柔",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；室内客厅，背景模糊；画面左侧人物，身穿黑白条纹上衣，手托着下巴，看着慕凡，表情：眉毛舒展，眼睛注视对方，嘴角微抿。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "转头看向冉冉，手放在笔记本电脑上",
+                "expression": "眉毛微挑，眼睛看向冉冉，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅，有沙发",
+        "description_narrative": "中近景镜头，慕凡听到叫声后转头看向冉冉，询问她怎么了。",
+        "dialogue": "冉冉怎么了？",
+        "speaker": "慕凡",
+        "emotion": "关切",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；室内客厅，有沙发；画面中央人物，身穿黑白条纹衬衫，转头看向冉冉，手放在笔记本电脑上，表情：眉毛微挑，眼睛看向冉冉，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面左侧",
+                "action": "手托下巴，看着慕凡",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张说话"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，冉冉看着慕凡，询问他是否忙完了。",
+        "dialogue": "你忙完了吗？",
+        "speaker": "冉冉",
+        "emotion": "期待",
+        "duration": 1.37,
+        "description_visual": "特写平拍镜头；室内客厅；画面左侧人物，身穿黑白条纹上衣，手托下巴，看着慕凡，表情：眉毛舒展，眼睛注视对方，嘴巴微张说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面右侧",
+                "action": "看着冉冉，手放在图纸上",
+                "expression": "眉毛舒展，眼睛看着冉冉，嘴巴微张"
+            },
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面左侧",
+                "action": "侧身看着慕凡",
+                "expression": "微笑"
+            }
+        ],
+        "background": "室内客厅，桌上有图纸",
+        "description_narrative": "中景镜头，两人坐在一起，慕凡放下手中的工作，示意冉冉可以说。",
+        "dialogue": "啊你说吧。",
+        "speaker": "慕凡",
+        "emotion": "温和",
+        "duration": 1.07,
+        "description_visual": "中景平拍镜头；室内客厅，桌上有图纸；画面右侧人物，身穿黑白条纹衬衫，看着冉冉，手放在图纸上，表情：眉毛舒展，眼睛看着冉冉，嘴巴微张；画面左侧人物，身穿黑白条纹上衣，侧身看着慕凡，表情：微笑。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面中央",
+                "action": "双手交握，低头",
+                "expression": "眉毛微垂，眼睛向下，神情犹豫"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，冉冉双手交握放在腿上，低头犹豫了一下，再次叫慕凡的名字。",
+        "dialogue": "慕凡啊",
+        "speaker": "冉冉",
+        "emotion": "犹豫",
+        "duration": 1.9,
+        "description_visual": "特写平拍镜头；室内客厅；画面中央人物，身穿黑白条纹上衣，双手交握，低头，表情：眉毛微垂，眼睛向下，神情犹豫。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "看着图纸，手在键盘上",
+                "expression": "眉毛微蹙，眼睛看图纸，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅，有图纸和电脑",
+        "description_narrative": "中近景镜头，慕凡一边看图纸一边操作电脑，冉冉说出想出去走走的想法。",
+        "dialogue": "我还是想出去走走。",
+        "speaker": "冉冉",
+        "emotion": "渴望",
+        "duration": 1.7,
+        "description_visual": "中近景平拍镜头；室内客厅，有图纸和电脑；画面中央人物，身穿黑白条纹衬衫，看着图纸，手在键盘上，表情：眉毛微蹙，眼睛看图纸，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面中央",
+                "action": "双手交握，看着慕凡",
+                "expression": "眉毛微垂，眼睛注视对方，神情认真"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，冉冉看着慕凡，解释想出去看看有没有适合的工作。",
+        "dialogue": "去看看有没有适合我的工作。",
+        "speaker": "冉冉",
+        "emotion": "认真",
+        "duration": 2.73,
+        "description_visual": "特写平拍镜头；室内客厅；画面中央人物，身穿黑白条纹上衣，双手交握，看着慕凡，表情：眉毛微垂，眼睛注视对方，神情认真。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "拿着图纸，转头看冉冉",
+                "expression": "眉毛微挑，眼睛疑惑，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景镜头，慕凡拿着图纸，转头疑惑地看着冉冉，询问为什么突然这么说。",
+        "dialogue": "怎么了？怎么突然这么说啊？",
+        "speaker": "慕凡",
+        "emotion": "疑惑",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；室内客厅；画面中央人物，身穿黑白条纹衬衫，拿着图纸，转头看冉冉，表情：眉毛微挑，眼睛疑惑，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面中央",
+                "action": "双手放在腿上，神情落寞",
+                "expression": "眉毛微蹙，眼睛向下，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，冉冉神情落寞，说自己整天在家无所事事。",
+        "dialogue": "你看我整天在家里无所事事。",
+        "speaker": "冉冉",
+        "emotion": "失落",
+        "duration": 3.77,
+        "description_visual": "特写平拍镜头；室内客厅；画面中央人物，身穿黑白条纹上衣，双手放在腿上，神情落寞，表情：眉毛微蹙，眼睛向下，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面右侧",
+                "action": "看着冉冉，手拿图纸",
+                "expression": "眉毛微蹙，眼睛看着冉冉，嘴巴微张"
+            },
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面左侧",
+                "action": "双手交握",
+                "expression": "失落"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景镜头，冉冉继续说自己像废物想为家做点什么，慕凡打断她说不要说这种话。",
+        "dialogue": "感觉像个废物似的。我想为这个家做点什么，不要说这种话呀。",
+        "speaker": "慕凡",
+        "emotion": "安慰",
+        "duration": 5.17,
+        "description_visual": "中近景平拍镜头；室内客厅；画面右侧人物，身穿黑白条纹衬衫，看着冉冉，手拿图纸，表情：眉毛微蹙，眼睛看着冉冉，嘴巴微张；画面左侧人物，身穿黑白条纹上衣，双手交握，表情：失落。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面右侧",
+                "action": "手握住冉冉的手",
+                "expression": "眉毛舒展，眼睛看着冉冉，神情温柔"
+            },
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面左侧",
+                "action": "手被握住",
+                "expression": "看着慕凡"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，慕凡握住冉冉的手，温柔地说照顾她是心甘情愿的。",
+        "dialogue": "照顾你，我是心甘情愿的。",
+        "speaker": "慕凡",
+        "emotion": "温柔",
+        "duration": 1.93,
+        "description_visual": "特写平拍镜头；室内客厅；画面右侧人物，身穿黑白条纹衬衫，手握住冉冉的手，表情：眉毛舒展，眼睛看着冉冉，神情温柔；画面左侧人物，身穿黑白条纹上衣，手被握住，表情：看着慕凡。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面中央",
+                "action": "看着慕凡，嘴角微扬",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，冉冉看着慕凡，脸上露出一丝微笑，慕凡说这是她应得的。",
+        "dialogue": "而且这也是你应得的。",
+        "speaker": "慕凡",
+        "emotion": "坚定",
+        "duration": 1.87,
+        "description_visual": "特写平拍镜头；室内客厅；画面中央人物，身穿黑白条纹上衣，看着慕凡，嘴角微扬，表情：眉毛舒展，眼睛注视对方，嘴角上扬。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面右侧",
+                "action": "握着冉冉的手",
+                "expression": "眉毛微蹙，眼睛看着冉冉"
+            },
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面左侧",
+                "action": "看着慕凡",
+                "expression": "认真"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景镜头，冉冉反问慕凡自己是不是他的未婚妻。",
+        "dialogue": "那我问你，我是不是你的未婚妻？",
+        "speaker": "冉冉",
+        "emotion": "认真",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；室内客厅；画面右侧人物，身穿黑白条纹衬衫，握着冉冉的手，表情：眉毛微蹙，眼睛看着冉冉；画面左侧人物，身穿黑白条纹上衣，看着慕凡，表情：认真。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面中央",
+                "action": "笑着看慕凡",
+                "expression": "眉毛舒展，眼睛笑，嘴巴张开说话"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，冉冉笑着确认那必须是，慕凡也确认。",
+        "dialogue": "那必须是啊。",
+        "speaker": "冉冉",
+        "emotion": "开心",
+        "duration": 1.83,
+        "description_visual": "特写平拍镜头；室内客厅；画面中央人物，身穿黑白条纹上衣，笑着看慕凡，表情：眉毛舒展，眼睛笑，嘴巴张开说话。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "握着冉冉的手",
+                "expression": "眉毛舒展，眼睛看着冉冉，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景镜头，慕凡确认冉冉是这个家庭的一份子。",
+        "dialogue": "这个家庭的一份子",
+        "speaker": "慕凡",
+        "emotion": "肯定",
+        "duration": 2.07,
+        "description_visual": "中近景平拍镜头；室内客厅；画面中央人物，身穿黑白条纹衬衫，握着冉冉的手，表情：眉毛舒展，眼睛看着冉冉，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面中央",
+                "action": "闭眼摇头",
+                "expression": "眼睛紧闭，嘴巴微撇，表情无奈"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，冉冉闭眼摇头，似乎对慕凡的肯定感到无奈或讽刺，说肯定的嘛。",
+        "dialogue": "肯定的嘛。",
+        "speaker": "冉冉",
+        "emotion": "无奈",
+        "duration": 1.1,
+        "description_visual": "特写平拍镜头；室内客厅；画面中央人物，身穿黑白条纹上衣，闭眼摇头，表情：眼睛紧闭，嘴巴微撇，表情无奈。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "看着冉冉",
+                "expression": "眉毛微蹙，眼睛看着冉冉"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景镜头，慕凡看着冉冉，冉冉画外音请求他同意。",
+        "dialogue": "那你就同意嘛。",
+        "speaker": "冉冉",
+        "emotion": "请求",
+        "duration": 2.23,
+        "description_visual": "中近景平拍镜头；室内客厅；画面中央人物，身穿黑白条纹衬衫，看着冉冉，表情：眉毛微蹙，眼睛看着冉冉。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面中央",
+                "action": "看着慕凡，神情失望",
+                "expression": "眉毛微垂，眼睛注视对方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，冉冉看着慕凡，慕凡画外音说再过两年吧。",
+        "dialogue": "再过两年吧，好吗？",
+        "speaker": "慕凡",
+        "emotion": "拖延",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；室内客厅；画面中央人物，身穿黑白条纹上衣，看着慕凡，神情失望，表情：眉毛微垂，眼睛注视对方，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "低头看图纸，手在键盘上",
+                "expression": "眉毛微蹙，眼睛向下，神情专注"
+            }
+        ],
+        "background": "室内客厅，有图纸和电脑",
+        "description_narrative": "中近景镜头，慕凡重新低头看图纸，继续工作，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 4.4,
+        "description_visual": "中近景平拍镜头；室内客厅，有图纸和电脑；画面中央人物，身穿黑白条纹衬衫，低头看图纸，手在键盘上，表情：眉毛微蹙，眼睛向下，神情专注。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冉冉",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面左侧",
+                "action": "坐着，手放在腿上",
+                "expression": "眉毛低垂，眼睛向下，神情落寞"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景镜头，冉冉坐在一旁，神情落寞，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "失落",
+        "duration": 1.87,
+        "description_visual": "中近景平拍镜头；室内客厅；画面左侧人物，身穿黑白条纹上衣，坐着，手放在腿上，表情：眉毛低垂，眼睛向下，神情落寞。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "低头看图纸，手在键盘上",
+                "expression": "眉毛微蹙，眼睛向下，神情专注"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景镜头，慕凡继续专注地看着图纸和电脑，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 2.17,
+        "description_visual": "中近景平拍镜头；室内客厅；画面中央人物，身穿黑白条纹衬衫，低头看图纸，手在键盘上，表情：眉毛微蹙，眼睛向下，神情专注。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": "抬头看向前方",
+                "expression": "眉毛舒展，眼睛直视前方，神情若有所思"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景镜头，慕凡突然停下手中的动作，抬头看向前方，眼神有些空洞。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "若有所思",
+        "duration": 2.27,
+        "description_visual": "中近景平拍镜头；室内客厅；画面中央人物，身穿黑白条纹衬衫，抬头看向前方，表情：眉毛舒展，眼睛直视前方，神情若有所思。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": " staring",
+                "expression": "眉毛舒展，眼睛睁大，直视前方"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "特写镜头，慕凡 staring 前方，画面出现光晕效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 0.57,
+        "description_visual": "特写平拍镜头；室内客厅；画面中央人物，身穿黑白条纹衬衫，staring，表情：眉毛舒展，眼睛睁大，直视前方。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕凡",
+                "gender": "男",
+                "clothing": "黑白条纹衬衫",
+                "position": "画面中央",
+                "action": " staring",
+                "expression": "眉毛舒展，眼睛睁大，直视前方"
+            }
+        ],
+        "background": "室内客厅，光晕效果",
+        "description_narrative": "特写镜头，慕凡 staring 前方，画面光晕增强，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 3.6,
+        "description_visual": "特写平拍镜头；室内客厅，光晕效果；画面中央人物，身穿黑白条纹衬衫，staring，表情：眉毛舒展，眼睛睁大，直视前方。"
+    }
+]

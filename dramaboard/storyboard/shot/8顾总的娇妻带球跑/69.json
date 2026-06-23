@@ -1,0 +1,952 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色吊带裙",
+                "position": "画面中央",
+                "action": "头部被一只手用力捏住下巴/脖子，身体后仰",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张呈痛苦状"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧（仅手臂可见）",
+                "action": "手臂伸出，手用力抓住女子颈部/下巴",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，背景有白色床铺和米色墙壁，光线柔和",
+        "description_narrative": "特写镜头，慕青青身穿绿色开衫和白色裙子，头部被画面右侧伸出的一只穿着黑色袖子的手用力捏住下巴和颈部，她痛苦地紧闭双眼，眉头紧锁，身体被迫后仰。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦/惊恐",
+        "duration": 1.58,
+        "description_visual": "特写平拍镜头；卧室环境，背景有白色床铺和米色墙壁，光线柔和；画面中央人物，身穿绿色开衫，白色吊带裙，头部被一只手用力捏住下巴/脖子，身体后仰，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张呈痛苦状；画面右侧（仅手臂可见）人物，身穿黑色衬衫，手臂伸出，手用力抓住女子颈部/下巴，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央偏右",
+                "action": "面部特写，眼神凌厉地看向前方",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面左后方（模糊）",
+                "action": "坐在床上，身体模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，米色墙壁，白色床铺",
+        "description_narrative": "近景镜头，黑衣男子身穿黑色衬衫，面部表情严肃强势，眼神凌厉地看向前方，嘴巴微张发出声音，背景中慕青青模糊地坐在床上。",
+        "dialogue": "嗯。",
+        "speaker": "黑衣男子",
+        "emotion": "强势/冷漠",
+        "duration": 0.32,
+        "description_visual": "近景平拍镜头；卧室环境，米色墙壁，白色床铺；画面中央偏右人物，身穿黑色衬衫，面部特写，眼神凌厉地看向前方，表情：眉毛微挑，眼睛直视前方，嘴巴微张；画面左后方（模糊）人物，身穿绿色开衫，坐在床上，身体模糊，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "身体快速移动，似乎正在起身或离开",
+                "expression": "不可见（运动模糊）"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面左后方",
+                "action": "坐在床上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，白色床铺",
+        "description_narrative": "中景镜头，黑衣男子身体快速移动，画面带有运动模糊，他似乎正从床边起身或离开，慕青青坐在后方的床上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.65,
+        "description_visual": "中景平拍镜头（跟拍）；卧室环境，白色床铺；画面中央人物，身穿黑色衬衫，黑色长裤，身体快速移动，似乎正在起身或离开，表情：不可见（运动模糊）；画面左后方人物，身穿绿色开衫，坐在床上，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色吊带裙",
+                "position": "画面中央",
+                "action": "坐在床边的台阶上，低头垂目",
+                "expression": "眉毛低垂，眼睛向下看，嘴巴紧闭，神情落寞"
+            }
+        ],
+        "background": "卧室环境，白色床铺，米色墙壁",
+        "description_narrative": "中景镜头，慕青青独自坐在床边的台阶上，身穿绿色开衫和白色裙子，长发披散，低头垂目，神情悲伤落寞，背景是凌乱的白色床铺。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤/无助",
+        "duration": 5.98,
+        "description_visual": "中景平拍镜头；卧室环境，白色床铺，米色墙壁；画面中央人物，身穿绿色开衫，白色吊带裙，坐在床边的台阶上，低头垂目，表情：眉毛低垂，眼睛向下看，嘴巴紧闭，神情落寞。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色长裙",
+                "position": "画面中央",
+                "action": "坐在灰色软垫上，双手抱膝，身体蜷缩",
+                "expression": "眉毛微蹙，眼睛看着地面，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，灰色软垫，白色床铺背景",
+        "description_narrative": "中景镜头，慕青青坐在灰色的软垫台阶上，双手紧紧抱着膝盖，身体蜷缩成一团，穿着白色长裙和绿色开衫，低头看着地面，显得十分无助。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无助/悲伤",
+        "duration": 0.67,
+        "description_visual": "中景平拍镜头；室内，灰色软垫，白色床铺背景；画面中央人物，身穿绿色开衫，白色长裙，坐在灰色软垫上，双手抱膝，身体蜷缩，表情：眉毛微蹙，眼睛看着地面，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫，白色T恤",
+                "position": "画面中央",
+                "action": "站立，身体微侧，看向某处",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张说话"
+            }
+        ],
+        "background": "室内，米色墙壁",
+        "description_narrative": "中景镜头，蓝衣男子身穿蓝白条纹衬衫内搭白色T恤，站立在室内，身体微侧，嘴巴微张正在说话，神情看起来有些意外或了然。",
+        "dialogue": "我就猜到我哥，",
+        "speaker": "蓝衣男子",
+        "emotion": "意料之中",
+        "duration": 1.03,
+        "description_visual": "中景平拍镜头；室内，米色墙壁；画面中央人物，身穿蓝白条纹短袖衬衫，白色T恤，站立，身体微侧，看向某处，表情：眉毛舒展，眼睛看向侧方，嘴巴微张说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面左侧",
+                "action": "坐在台阶上，抬头看向右方",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张，神情惊讶"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面右侧（仅手臂和部分身体可见）",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，白色床铺",
+        "description_narrative": "中景镜头，慕青青坐在台阶上，突然抬头看向右侧站立的蓝衣男子，眼睛睁大，嘴巴微张，脸上露出惊讶和慌乱的神情。",
+        "dialogue": "会把你藏在这。",
+        "speaker": "蓝衣男子",
+        "emotion": "惊讶/慌乱",
+        "duration": 1.78,
+        "description_visual": "中景平拍镜头；卧室环境，白色床铺；画面左侧人物，身穿绿色开衫，白色裙子，坐在台阶上，抬头看向右方，表情：眉毛微挑，眼睛睁大，嘴巴微张，神情惊讶；画面右侧（仅手臂和部分身体可见）人物，身穿蓝白条纹衬衫，站立，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫，白色T恤",
+                "position": "画面中央",
+                "action": "站立，看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴开合说话"
+            }
+        ],
+        "background": "室内，米色墙壁",
+        "description_narrative": "中近景镜头，蓝衣男子站立着，神情关切且急切，看着前方说话，似乎在催促或安抚对方。",
+        "dialogue": "先别说话，你先跟我走。",
+        "speaker": "蓝衣男子",
+        "emotion": "急切/关切",
+        "duration": 1.78,
+        "description_visual": "中近景平拍镜头；室内，米色墙壁；画面中央人物，身穿蓝白条纹短袖衬衫，白色T恤，站立，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴开合说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面左侧",
+                "action": "站立，身体转向右侧，神情焦急",
+                "expression": "眉毛紧蹙，眼睛看向右侧，嘴巴微张询问"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，白色床铺",
+        "description_narrative": "中景镜头，慕青青站起身，身体转向右侧的蓝衣男子，神情焦急，嘴巴微张，似乎在急切地询问某人的情况。",
+        "dialogue": "朝朝呢？朝朝怎么样了？",
+        "speaker": "慕青青",
+        "emotion": "焦急/担忧",
+        "duration": 1.57,
+        "description_visual": "中景平拍镜头；卧室环境，白色床铺；画面左侧人物，身穿绿色开衫，白色裙子，站立，身体转向右侧，神情焦急，表情：眉毛紧蹙，眼睛看向右侧，嘴巴微张询问；画面右侧人物，身穿蓝白条纹衬衫，站立，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫，白色T恤",
+                "position": "画面中央",
+                "action": "站立，看着左侧",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴开合解释"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面左侧（部分可见）",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，米色墙壁",
+        "description_narrative": "中近景镜头，蓝衣男子看着左侧的慕青青，神情认真，正在解释情况，似乎在安抚她关于孩子的担忧。",
+        "dialogue": "我请我朋友在照顾她，但是青青。",
+        "speaker": "蓝衣男子",
+        "emotion": "认真/安抚",
+        "duration": 3.15,
+        "description_visual": "中近景平拍镜头；室内，米色墙壁；画面中央人物，身穿蓝白条纹短袖衬衫，白色T恤，站立，看着左侧，表情：眉毛微蹙，眼睛看向左侧，嘴巴开合解释；画面左侧（部分可见）人物，身穿绿色开衫，站立，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面左侧",
+                "action": "站立，看着右侧男子",
+                "expression": "眉毛紧蹙，眼睛充满担忧，嘴巴微张询问"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，白色床铺",
+        "description_narrative": "中近景镜头，慕青青站立着，紧紧盯着右侧的蓝衣男子，眉头紧锁，眼神中充满担忧和恐惧，急切地询问母亲的情况。",
+        "dialogue": "你母亲她……我母亲她怎么了？",
+        "speaker": "慕青青",
+        "emotion": "恐惧/担忧",
+        "duration": 3.22,
+        "description_visual": "中近景平拍镜头；卧室环境，白色床铺；画面左侧人物，身穿绿色开衫，白色裙子，站立，看着右侧男子，表情：眉毛紧蹙，眼睛充满担忧，嘴巴微张询问；画面右侧人物，身穿蓝白条纹衬衫，站立，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面左侧",
+                "action": "站立，看着右侧",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张，神情紧张"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，白色床铺",
+        "description_narrative": "中近景镜头，慕青青紧张地看着蓝衣男子，等待他的回答，眼神中透露出不安，蓝衣男子正准备开口告知坏消息。",
+        "dialogue": "你母亲她情况，",
+        "speaker": "蓝衣男子",
+        "emotion": "沉重/犹豫",
+        "duration": 1.13,
+        "description_visual": "中近景平拍镜头；卧室环境，白色床铺；画面左侧人物，身穿绿色开衫，白色裙子，站立，看着右侧，表情：眉毛微蹙，眼睛睁大，嘴巴微张，神情紧张；画面右侧人物，身穿蓝白条纹衬衫，站立，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫，白色T恤",
+                "position": "画面中央",
+                "action": "站立，眼神低垂",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微动，神情凝重"
+            }
+        ],
+        "background": "室内，米色墙壁",
+        "description_narrative": "近景镜头，蓝衣男子神情凝重，眼神微微低垂，似乎在艰难地开口告知不好的消息。",
+        "dialogue": "不太好。",
+        "speaker": "蓝衣男子",
+        "emotion": "凝重/悲伤",
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；室内，米色墙壁；画面中央人物，身穿蓝白条纹短袖衬衫，白色T恤，站立，眼神低垂，表情：眉毛微蹙，眼睛向下看，嘴巴微动，神情凝重。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面左侧",
+                "action": "站立，震惊地看着对方",
+                "expression": "眉毛高挑，眼睛睁大，嘴巴微张，神情震惊"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，白色床铺",
+        "description_narrative": "中近景镜头，听到消息后，慕青青震惊地睁大双眼，嘴巴微张，难以置信地看着蓝衣男子，身体僵硬。",
+        "dialogue": "她进 ICU 了。",
+        "speaker": "蓝衣男子",
+        "emotion": "震惊/难以置信",
+        "duration": 0.78,
+        "description_visual": "中近景平拍镜头；卧室环境，白色床铺；画面左侧人物，身穿绿色开衫，白色裙子，站立，震惊地看着对方，表情：眉毛高挑，眼睛睁大，嘴巴微张，神情震惊；画面右侧人物，身穿蓝白条纹衬衫，站立，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面左侧",
+                "action": "身体前倾，似乎要冲出去",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴张开，神情慌乱"
+            }
+        ],
+        "background": "卧室环境，白色床铺",
+        "description_narrative": "中近景镜头，慕青青听到消息后身体猛地前倾，神情慌乱，似乎想要立刻冲出去，画面随之晃动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "慌乱/急切",
+        "duration": 0.4,
+        "description_visual": "中近景平拍镜头（摇镜）；卧室环境，白色床铺；画面左侧人物，身穿绿色开衫，白色裙子，身体前倾，似乎要冲出去，表情：眉毛紧蹙，眼睛睁大，嘴巴张开，神情慌乱。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面中央",
+                "action": "快速移动，头发飞舞",
+                "expression": "不可见（运动模糊）"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "特写镜头，慕青青快速移动，画面产生强烈的运动模糊，只能看到她黑色的长发和绿色的衣袖，表现出极度的焦急。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 0.45,
+        "description_visual": "特写平拍镜头（跟拍）；室内，模糊背景；画面中央人物，身穿绿色开衫，快速移动，头发飞舞，表情：不可见（运动模糊）。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面中央",
+                "action": "面部被强光笼罩，眼神空洞",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴紧闭，神情恍惚"
+            }
+        ],
+        "background": "高亮过曝背景",
+        "description_narrative": "特写镜头，画面过渡曝光，慕青青的脸部在白光中若隐若现，眼神空洞地直视前方，表现出听到噩耗后的恍惚状态。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恍惚/震惊",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；高亮过曝背景；画面中央人物，身穿绿色开衫，面部被强光笼罩，眼神空洞，表情：眉毛舒展，眼睛直视前方，嘴巴紧闭，神情恍惚。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫，白色T恤，黑色长裤",
+                "position": "画面左侧",
+                "action": "坐在蓝色长椅上，侧头看女子",
+                "expression": "眉毛微蹙，眼睛看着女子，神情关切"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面右侧",
+                "action": "坐在蓝色长椅上，低头垂目",
+                "expression": "眉毛低垂，眼睛向下看，神情悲伤"
+            }
+        ],
+        "background": "医院候诊区，蓝色长椅，墙上有医疗海报",
+        "description_narrative": "中景镜头，场景切换至医院候诊区，蓝衣男子和慕青青并排坐在蓝色长椅上，男子侧头关切地看着女子，女子低头沉默，背景墙上有眼科医疗海报。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤/压抑",
+        "duration": 3.2,
+        "description_visual": "中景平拍镜头；医院候诊区，蓝色长椅，墙上有医疗海报；画面左侧人物，身穿蓝白条纹短袖衬衫，白色T恤，黑色长裤，坐在蓝色长椅上，侧头看女子，表情：眉毛微蹙，眼睛看着女子，神情关切；画面右侧人物，身穿绿色开衫，白色裙子，坐在蓝色长椅上，低头垂目，表情：眉毛低垂，眼睛向下看，神情悲伤。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫",
+                "position": "画面左侧",
+                "action": "坐着，身体微倾向女子",
+                "expression": "眉毛微蹙，嘴巴开合，轻声安慰"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面右侧",
+                "action": "坐着，低头",
+                "expression": "眼眶含泪，神情悲伤"
+            }
+        ],
+        "background": "医院候诊区，蓝色长椅",
+        "description_narrative": "中景镜头，蓝衣男子身体微微倾向慕青青，轻声开口安慰她不要担心，慕青青低着头，眼眶中已经含满了泪水。",
+        "dialogue": "别太担心了，阿姨肯定会没事的。",
+        "speaker": "蓝衣男子",
+        "emotion": "安慰/关切",
+        "duration": 4.13,
+        "description_visual": "中景平拍镜头；医院候诊区，蓝色长椅；画面左侧人物，身穿蓝白条纹短袖衬衫，坐着，身体微倾向女子，表情：眉毛微蹙，嘴巴开合，轻声安慰；画面右侧人物，身穿绿色开衫，坐着，低头，表情：眼眶含泪，神情悲伤。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面中央",
+                "action": "面部特写，眼泪滑落",
+                "expression": "眉毛紧蹙，眼睛含泪，嘴巴微张颤抖，神情痛苦"
+            }
+        ],
+        "background": "医院候诊区，模糊背景",
+        "description_narrative": "特写镜头，慕青青的脸部，泪水顺着脸颊滑落，她眉头紧锁，嘴唇颤抖，诉说着母亲这几年身体状况越来越差的事实。",
+        "dialogue": "这几年她的身体状况越来越差了。",
+        "speaker": "慕青青",
+        "emotion": "痛苦/自责",
+        "duration": 2.32,
+        "description_visual": "特写平拍镜头；医院候诊区，模糊背景；画面中央人物，身穿绿色开衫，面部特写，眼泪滑落，表情：眉毛紧蹙，眼睛含泪，嘴巴微张颤抖，神情痛苦。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面中央",
+                "action": "侧脸，眼泪流淌",
+                "expression": "眉毛紧蹙，眼睛看向侧方，嘴巴微张，神情愧疚"
+            }
+        ],
+        "background": "医院候诊区，模糊背景",
+        "description_narrative": "特写镜头，慕青青侧着脸，眼泪不断流淌，她神情愧疚地自责因为没有钱，导致母亲的治疗一直受到影响。",
+        "dialogue": "都怪我没有钱，她的治疗一直",
+        "speaker": "慕青青",
+        "emotion": "愧疚/悲伤",
+        "duration": 4.17,
+        "description_visual": "特写平拍镜头；医院候诊区，模糊背景；画面中央人物，身穿绿色开衫，侧脸，眼泪流淌，表情：眉毛紧蹙，眼睛看向侧方，嘴巴微张，神情愧疚。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面中央",
+                "action": "低头哭泣",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张，神情悲痛"
+            }
+        ],
+        "background": "医院候诊区，模糊背景",
+        "description_narrative": "特写镜头，慕青青低下头，眼泪止不住地流，声音哽咽地说着治疗断断续续的情况，充满了无力感。",
+        "dialogue": "都是断断续续的。",
+        "speaker": "慕青青",
+        "emotion": "悲痛/无力",
+        "duration": 1.78,
+        "description_visual": "特写平拍镜头；医院候诊区，模糊背景；画面中央人物，身穿绿色开衫，低头哭泣，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张，神情悲痛。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "坐在长椅上，侧脸看女子",
+                "expression": "神情凝重，安静倾听"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面右侧",
+                "action": "坐在长椅上，低头",
+                "expression": "悲伤"
+            }
+        ],
+        "background": "医院走廊，蓝色长椅，墙上有医疗海报",
+        "description_narrative": "中景侧拍镜头，两人坐在医院走廊的蓝色长椅上，蓝衣男子神情凝重地倾听，慕青青继续说着母亲前段时间还过敏的事情。",
+        "dialogue": "前段时间还过敏。",
+        "speaker": "慕青青",
+        "emotion": "悲伤",
+        "duration": 2.73,
+        "description_visual": "中景侧拍镜头；医院走廊，蓝色长椅，墙上有医疗海报；画面左侧人物，身穿蓝白条纹短袖衬衫，黑色长裤，坐在长椅上，侧脸看女子，表情：神情凝重，安静倾听；画面右侧人物，身穿绿色开衫，白色裙子，坐在长椅上，低头，表情：悲伤。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面中央",
+                "action": "双手紧紧抓着裙摆",
+                "expression": "不可见（仅手部）"
+            }
+        ],
+        "background": "白色裙摆，绿色衣袖",
+        "description_narrative": "特写俯拍镜头，聚焦在慕青青的双手上，她穿着绿色开衫，双手手指紧紧抓着白色的裙摆，指节用力到发白，显示出内心的焦虑和自责。",
+        "dialogue": "可是我没有办法好好，",
+        "speaker": "慕青青",
+        "emotion": "焦虑/自责",
+        "duration": 2.22,
+        "description_visual": "特写俯拍镜头；白色裙摆，绿色衣袖；画面中央人物，身穿绿色开衫，白色裙子，双手紧紧抓着裙摆，表情：不可见（仅手部）。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫",
+                "position": "画面左侧",
+                "action": "坐着，看着女子",
+                "expression": "神情关切"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面右侧",
+                "action": "坐着，抬头哭泣",
+                "expression": "眉毛紧蹙，眼睛含泪向上看，嘴巴张开哭泣"
+            }
+        ],
+        "background": "医院候诊区，蓝色长椅",
+        "description_narrative": "中景镜头，慕青青抬起头，泪流满面地看着蓝衣男子，崩溃地说自己没有办法好好照顾母亲，蓝衣男子在一旁关切地看着她。",
+        "dialogue": "照顾她。",
+        "speaker": "慕青青",
+        "emotion": "崩溃/自责",
+        "duration": 0.72,
+        "description_visual": "中景平拍镜头；医院候诊区，蓝色长椅；画面左侧人物，身穿蓝白条纹短袖衬衫，坐着，看着女子，表情：神情关切；画面右侧人物，身穿绿色开衫，白色裙子，坐着，抬头哭泣，表情：眉毛紧蹙，眼睛含泪向上看，嘴巴张开哭泣。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面中央",
+                "action": "低头痛哭",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴张大哭泣，面部扭曲"
+            }
+        ],
+        "background": "医院候诊区，模糊背景",
+        "description_narrative": "特写镜头，慕青青低下头，面部因痛苦而扭曲，紧闭双眼大声哭泣，宣泄着内心的自责和悲伤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "崩溃/痛苦",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；医院候诊区，模糊背景；画面中央人物，身穿绿色开衫，低头痛哭，表情：眉毛紧蹙，眼睛紧闭，嘴巴张大哭泣，面部扭曲。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面中央",
+                "action": "低头哭泣",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张哭泣"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面左侧（部分可见）",
+                "action": "靠近女子",
+                "expression": "嘴巴微张说话"
+            }
+        ],
+        "background": "医院候诊区",
+        "description_narrative": "特写镜头，慕青青仍在低头哭泣，蓝衣男子的脸靠近她，轻声劝慰她不要这样说，试图打断她的自责。",
+        "dialogue": "你别这样说。",
+        "speaker": "蓝衣男子",
+        "emotion": "安慰/温柔",
+        "duration": 1.13,
+        "description_visual": "特写平拍镜头；医院候诊区；画面中央人物，身穿绿色开衫，低头哭泣，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张哭泣；画面左侧（部分可见）人物，身穿蓝白条纹衬衫，靠近女子，表情：嘴巴微张说话。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面中央",
+                "action": "低头，身体微颤",
+                "expression": "眉毛紧蹙，眼睛紧闭，神情悲痛"
+            }
+        ],
+        "background": "医院候诊区",
+        "description_narrative": "特写镜头，慕青青低着头，身体微微颤抖，沉浸在悲伤中，蓝衣男子的声音在继续安慰她。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 0.28,
+        "description_visual": "特写平拍镜头；医院候诊区；画面中央人物，身穿绿色开衫，低头，身体微颤，表情：眉毛紧蹙，眼睛紧闭，神情悲痛。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面中央",
+                "action": "头靠在男子肩上",
+                "expression": "眉毛舒展，眼睛紧闭，嘴角下垂，神情疲惫"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹衬衫",
+                "position": "画面左侧",
+                "action": "让女子依靠",
+                "expression": "神情温柔"
+            }
+        ],
+        "background": "医院候诊区",
+        "description_narrative": "特写镜头，慕青青将头轻轻靠在蓝衣男子的肩膀上，闭着眼睛，蓝衣男子温柔地告诉她已经做得很棒了。",
+        "dialogue": "你已经做的很棒了。",
+        "speaker": "蓝衣男子",
+        "emotion": "温柔/肯定",
+        "duration": 1.55,
+        "description_visual": "特写平拍镜头；医院候诊区；画面中央人物，身穿绿色开衫，头靠在男子肩上，表情：眉毛舒展，眼睛紧闭，嘴角下垂，神情疲惫；画面左侧人物，身穿蓝白条纹衬衫，让女子依靠，表情：神情温柔。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫",
+                "position": "画面左侧",
+                "action": "坐着，让女子依靠",
+                "expression": "目视前方，神情平静"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面右侧",
+                "action": "头靠在男子肩上，闭眼",
+                "expression": "眼睛紧闭，神情疲惫"
+            }
+        ],
+        "background": "医院候诊区，蓝色长椅",
+        "description_narrative": "中景镜头，慕青青靠在蓝衣男子肩头哭泣，男子目视前方，继续肯定她是一位好母亲和好女儿，给予她精神支持。",
+        "dialogue": "也是位好母亲，也是位好女儿。",
+        "speaker": "蓝衣男子",
+        "emotion": "肯定/安慰",
+        "duration": 2.98,
+        "description_visual": "中景平拍镜头；医院候诊区，蓝色长椅；画面左侧人物，身穿蓝白条纹短袖衬衫，坐着，让女子依靠，表情：目视前方，神情平静；画面右侧人物，身穿绿色开衫，白色裙子，头靠在男子肩上，闭眼，表情：眼睛紧闭，神情疲惫。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "坐着，低头看女子",
+                "expression": "神情温柔"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面右侧",
+                "action": "头靠在男子肩上",
+                "expression": "闭眼休息"
+            }
+        ],
+        "background": "医院候诊区，蓝色长椅，墙上有医疗海报",
+        "description_narrative": "中景镜头，两人依偎坐在医院走廊的蓝色长椅上，慕青青头靠在蓝衣男子肩上，气氛安静而悲伤，背景是明亮的医疗海报。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "安静/悲伤",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；医院候诊区，蓝色长椅，墙上有医疗海报；画面左侧人物，身穿蓝白条纹短袖衬衫，黑色长裤，坐着，低头看女子，表情：神情温柔；画面右侧人物，身穿绿色开衫，白色裙子，头靠在男子肩上，表情：闭眼休息。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面中央（过曝）",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "高亮过曝背景",
+        "description_narrative": "全景镜头，画面再次出现强烈的过曝白光，隐约可见两人坐着的轮廓，此时传来一个男声呼唤慕青青的名字。",
+        "dialogue": "慕青青。",
+        "speaker": "黑衣男子",
+        "emotion": "严肃",
+        "duration": 1.1,
+        "description_visual": "全景平拍镜头；高亮过曝背景；画面中央（过曝）人物，身穿绿色开衫，白色裙子，坐着，表情：不可见。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫",
+                "position": "画面左侧",
+                "action": "坐着，抬头看前方",
+                "expression": "眉毛微挑，眼睛向上看，神情惊讶"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面右侧",
+                "action": "坐着，抬头看前方",
+                "expression": "眉毛微挑，眼睛向上看，神情惊讶"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面右侧站立",
+                "action": "站立，俯视坐着的两人",
+                "expression": "神情冷峻"
+            }
+        ],
+        "background": "医院候诊区，蓝色长椅",
+        "description_narrative": "中景镜头，黑衣男子突然出现在两人面前，站立俯视着坐着的蓝衣男子和慕青青，两人同时抬头看向他，脸上露出惊讶的神情，慕青青轻声回应。",
+        "dialogue": "嗯。",
+        "speaker": "慕青青",
+        "emotion": "惊讶/紧张",
+        "duration": 0.33,
+        "description_visual": "中景平拍镜头；医院候诊区，蓝色长椅；画面左侧人物，身穿蓝白条纹短袖衬衫，坐着，抬头看前方，表情：眉毛微挑，眼睛向上看，神情惊讶；画面右侧人物，身穿绿色开衫，白色裙子，坐着，抬头看前方，表情：眉毛微挑，眼睛向上看，神情惊讶；画面右侧站立人物，身穿黑色衬衫，黑色长裤，站立，俯视坐着的两人，表情：神情冷峻。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "蓝白条纹短袖衬衫",
+                "position": "画面左侧",
+                "action": "坐着，抬头看黑衣男子",
+                "expression": "神情警惕"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫，白色裙子",
+                "position": "画面右侧",
+                "action": "坐着，抬头看黑衣男子",
+                "expression": "神情紧张"
+            },
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧站立",
+                "action": "站立，双手下垂，俯视两人",
+                "expression": "神情冷峻"
+            }
+        ],
+        "background": "医院候诊区，蓝色长椅，墙上有医疗海报",
+        "description_narrative": "中景低角度镜头，黑衣男子高大的身影站立在两人面前，形成压迫感，蓝衣男子和慕青青坐在长椅上抬头看着他，气氛瞬间变得紧张，画面右下角出现“未完待续”字样。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张/对峙",
+        "duration": 2.75,
+        "description_visual": "中景低角度镜头；医院候诊区，蓝色长椅，墙上有医疗海报；画面左侧人物，身穿蓝白条纹短袖衬衫，坐着，抬头看黑衣男子，表情：神情警惕；画面右侧人物，身穿绿色开衫，白色裙子，坐着，抬头看黑衣男子，表情：神情紧张；画面右侧站立人物，身穿黑色衬衫，站立，双手下垂，俯视两人，表情：神情冷峻。"
+    }
+]

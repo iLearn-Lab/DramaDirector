@@ -1,0 +1,732 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夫君",
+                "gender": "男",
+                "clothing": "浅金色纹样古装",
+                "position": "画面左侧",
+                "action": "从后方环抱王妃",
+                "expression": "眉毛微蹙，眼睛注视王妃，嘴巴紧闭"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面右侧",
+                "action": "身体被环抱，头部微低",
+                "expression": "眉毛舒展，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木质屏风背景，上方有粉色标题文字",
+        "description_narrative": "中景固定镜头，画面展示剧名标题，夫君身着浅金色古装从后方环抱着身穿白色古装的王妃，两人神情凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色木质屏风背景，上方有粉色标题文字；画面左侧人物，身穿浅金色纹样古装，从后方环抱王妃，表情：眉毛微蹙，眼睛注视王妃，嘴巴紧闭；画面右侧人物，身穿白色绣花纹样古装，身体被环抱，头部微低，表情：眉毛舒展，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "米白色宽袖古装",
+                "position": "画面中央",
+                "action": "头部微侧，视线向左",
+                "expression": "眉毛平展，眼睛向左斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，左侧有竖排文字水印",
+        "description_narrative": "特写固定镜头，睿王爷身穿米白色古装，头戴金色发冠，面部表情冷漠，视线向左侧斜视。",
+        "dialogue": "那我不管",
+        "speaker": "睿王爷",
+        "emotion": "冷漠",
+        "duration": 1.16,
+        "description_visual": "特写平拍镜头；模糊的室内背景，左侧有竖排文字水印；画面中央人物，身穿米白色宽袖古装，头部微侧，视线向左，表情：眉毛平展，眼睛向左斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夫君",
+                "gender": "男",
+                "clothing": "浅金色纹样古装",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，左侧有竖排文字水印",
+        "description_narrative": "特写固定镜头，夫君身穿浅金色古装，面部有疤痕，神情严肃，视线向下看着地面。",
+        "dialogue": "啊",
+        "speaker": "夫君",
+        "emotion": "严肃",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；模糊的室内背景，左侧有竖排文字水印；画面中央人物，身穿浅金色纹样古装，头部微低，视线向下，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面左侧",
+                "action": "转身向画面深处走去",
+                "expression": "眉毛微扬，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "深色雕花木质屏风，右侧有椅子和镜子",
+        "description_narrative": "中景跟拍镜头，王妃身穿白色古装，转身快步走向房间深处，衣摆随风飘动。",
+        "dialogue": "我有办法",
+        "speaker": "王妃",
+        "emotion": "急切",
+        "duration": 1.36,
+        "description_visual": "中景平拍镜头（跟拍）；深色雕花木质屏风，右侧有椅子和镜子；画面左侧人物，身穿白色绣花纹样古装，转身向画面深处走去，表情：眉毛微扬，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "米白色宽袖古装",
+                "position": "画面左侧",
+                "action": "坐在椅子上，身体后仰",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "夫君",
+                "gender": "男",
+                "clothing": "浅金色纹样古装",
+                "position": "画面右侧",
+                "action": "坐在椅子上，侧身看向睿王爷",
+                "expression": "眉毛平展，眼睛注视睿王爷，嘴巴紧闭"
+            },
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "深色古装",
+                "position": "右后景",
+                "action": "站立在后方",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "雕花木质屏风背景，前景有模糊的桌椅",
+        "description_narrative": "全景固定镜头，睿王爷坐在左侧椅子上，夫君坐在右侧，后方站着一名侍卫，三人处于对峙状态。",
+        "dialogue": "睿王爷",
+        "speaker": "王妃",
+        "emotion": "郑重",
+        "duration": 0.96,
+        "description_visual": "全景平拍镜头；雕花木质屏风背景，前景有模糊的桌椅；画面左侧人物，身穿米白色宽袖古装，坐在椅子上，身体后仰，表情：眉毛微挑，眼睛看向前方，嘴巴微张；画面右侧人物，身穿浅金色纹样古装，坐在椅子上，侧身看向睿王爷，表情：眉毛平展，眼睛注视睿王爷，嘴巴紧闭；右后景人物，身穿深色古装，站立在后方，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，王妃面部特写，神情诚恳，视线向下，正在解释情况。",
+        "dialogue": "我夫君也是因为担忧我的名声，做下这件事情",
+        "speaker": "王妃",
+        "emotion": "诚恳",
+        "duration": 4.04,
+        "description_visual": "特写平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色绣花纹样古装，头部微低，视线向下，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夫君",
+                "gender": "男",
+                "clothing": "浅金色纹样古装",
+                "position": "画面中央",
+                "action": "头部微抬，视线向前",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的窗格背景",
+        "description_narrative": "特写固定镜头，夫君面部特写，脸上疤痕清晰，神情愧疚，正在承担责任。",
+        "dialogue": "这件事情我也有责任",
+        "speaker": "夫君",
+        "emotion": "愧疚",
+        "duration": 1.76,
+        "description_visual": "特写平拍镜头；模糊的窗格背景；画面中央人物，身穿浅金色纹样古装，头部微抬，视线向前，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面中央",
+                "action": "头部微抬，视线向前",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，王妃神情坚定，视线直视前方，提出救治方案。",
+        "dialogue": "就让我来救治他吧",
+        "speaker": "王妃",
+        "emotion": "坚定",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色绣花纹样古装，头部微抬，视线向前，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "米白色宽袖古装",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，睿王爷面部特写，神情质疑，正在询问治疗效果。",
+        "dialogue": "你能让他在一个月之内有好转",
+        "speaker": "睿王爷",
+        "emotion": "质疑",
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿米白色宽袖古装，头部微侧，视线向前，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面中央",
+                "action": "头部微抬，嘴角上扬",
+                "expression": "眉毛舒展，眼睛含笑，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，王妃自信微笑，眼神明亮，表示能立刻治好。",
+        "dialogue": "不用一个月，我立刻就能救好他",
+        "speaker": "王妃",
+        "emotion": "自信",
+        "duration": 3.08,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色绣花纹样古装，头部微抬，嘴角上扬，表情：眉毛舒展，眼睛含笑，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "米白色宽袖古装",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，睿王爷神情转为好奇与挑战，同意让王妃尝试。",
+        "dialogue": "好，本王倒是要瞧瞧你的医术",
+        "speaker": "睿王爷",
+        "emotion": "挑战",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿米白色宽袖古装，头部微侧，视线向前，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，王妃神情认真，提出交换条件，希望王爷不再追究。",
+        "dialogue": "王爷，若是我能救治好他，我希望王爷你能够揭过此事",
+        "speaker": "王妃",
+        "emotion": "认真",
+        "duration": 5.04,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色绣花纹样古装，头部微低，视线向下，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "米白色宽袖古装",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，睿王爷面无表情，正在听王妃的劝说。",
+        "dialogue": "你我毕竟也是一",
+        "speaker": "夫君",
+        "emotion": "平和",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿米白色宽袖古装，头部微侧，视线向前，表情：眉毛平展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夫君",
+                "gender": "男",
+                "clothing": "浅金色纹样古装",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的窗格背景",
+        "description_narrative": "特写固定镜头，夫君神情温和，强调彼此是一家人，试图缓和气氛。",
+        "dialogue": "一家人",
+        "speaker": "夫君",
+        "emotion": "温和",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；模糊的窗格背景；画面中央人物，身穿浅金色纹样古装，头部微侧，视线向前，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，王妃神情恳切，请求不要将事情闹大。",
+        "dialogue": "就不要把这件事情闹到皇上面前了吧",
+        "speaker": "王妃",
+        "emotion": "恳切",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色绣花纹样古装，头部微低，视线向下，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "米白色宽袖古装",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，睿王爷点头同意，提出只要治好人就绝口不提的条件。",
+        "dialogue": "只要能让他立刻好起来，以后我对此事绝口不提",
+        "speaker": "睿王爷",
+        "emotion": "妥协",
+        "duration": 3.6,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿米白色宽袖古装，头部微侧，视线向前，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面中央",
+                "action": "头部微低，嘴角上扬",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，王妃露出欣慰的笑容，道谢后转身呼唤侍女。",
+        "dialogue": "谢王爷。明月",
+        "speaker": "王妃",
+        "emotion": "欣慰",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色绣花纹样古装，头部微低，嘴角上扬，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面右侧",
+                "action": "转身面向左侧，伸出手",
+                "expression": "眉毛平展，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "深色木质门窗背景",
+        "description_narrative": "中景固定镜头，王妃转身面向侍女，伸手索要针包。",
+        "dialogue": "把我的针给我",
+        "speaker": "王妃",
+        "emotion": "指令",
+        "duration": 2.92,
+        "description_visual": "中景平拍镜头；深色木质门窗背景；画面右侧人物，身穿白色绣花纹样古装，转身面向左侧，伸出手，表情：眉毛平展，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明月",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面左侧",
+                "action": "双手递送针包",
+                "expression": "眉毛平展，眼睛注视王妃，嘴巴紧闭"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面右侧",
+                "action": "伸手接过针包",
+                "expression": "眉毛微蹙，眼睛注视针包，嘴巴紧闭"
+            }
+        ],
+        "background": "深色雕花屏风背景",
+        "description_narrative": "中近景固定镜头，身穿粉色古装的侍女明月将针包递给王妃，王妃接过。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.32,
+        "description_visual": "中近景平拍镜头；深色雕花屏风背景；画面左侧人物，身穿粉色古装，双手递送针包，表情：眉毛平展，眼睛注视王妃，嘴巴紧闭；画面右侧人物，身穿白色绣花纹样古装，伸手接过针包，表情：眉毛微蹙，眼睛注视针包，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面中央",
+                "action": "低头准备施针",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的暗色背景",
+        "description_narrative": "特写固定镜头，王妃侧脸特写，神情专注，正在准备针灸。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.36,
+        "description_visual": "特写侧拍镜头；模糊的暗色背景；画面中央人物，身穿白色绣花纹样古装，低头准备施针，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "深色布料",
+                "position": "画面中央",
+                "action": "针刺入布料",
+                "expression": "无"
+            }
+        ],
+        "background": "深色布料纹理",
+        "description_narrative": "大特写固定镜头，银针刺入深色布料的特写，展示针灸动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.48,
+        "description_visual": "大特写俯拍镜头；深色布料纹理；画面中央人物，身穿深色布料，针刺入布料，表情：无。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夫君",
+                "gender": "男",
+                "clothing": "浅金色纹样古装",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，夫君神情紧张，低头关注治疗过程。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅金色纹样古装，头部微低，视线向下，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "米白色宽袖古装",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，睿王爷神情严肃，低头观察治疗情况。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿米白色宽袖古装，头部微低，视线向下，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "深色布料",
+                "position": "画面中央",
+                "action": "手指捏针",
+                "expression": "无"
+            }
+        ],
+        "background": "模糊的背景",
+        "description_narrative": "大特写固定镜头，手指捏着银针在布料上进行操作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "大特写俯拍镜头；模糊的背景；画面中央人物，身穿深色布料，手指捏针，表情：无。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色绣花纹样古装",
+                "position": "画面中央",
+                "action": "头部微抬，视线向前",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，王妃完成治疗，抬头示意病患可以起身。",
+        "dialogue": "好了，你可以起来试一试",
+        "speaker": "王妃",
+        "emotion": "自信",
+        "duration": 2.96,
+        "description_visual": "特写侧拍镜头；模糊的室内背景；画面中央人物，身穿白色绣花纹样古装，头部微抬，视线向前，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病患",
+                "gender": "男",
+                "clothing": "深色布衣",
+                "position": "画面中央",
+                "action": "躺卧，眼睛睁开",
+                "expression": "眉毛舒展，眼睛睁开，嘴巴微张"
+            }
+        ],
+        "background": "地毯花纹背景",
+        "description_narrative": "特写固定镜头，身穿深色布衣的病患躺在地上，眼睛睁开，面露惊讶。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 2.92,
+        "description_visual": "特写俯拍镜头；地毯花纹背景；画面中央人物，身穿深色布衣，躺卧，眼睛睁开，表情：眉毛舒展，眼睛睁开，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "米白色宽袖古装",
+                "position": "画面右后景",
+                "action": "坐在椅子上，身体前倾",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "病患",
+                "gender": "男",
+                "clothing": "深色布衣",
+                "position": "画面左前景",
+                "action": "跪坐在地，抬头",
+                "expression": "眉毛舒展，眼睛注视睿王爷，嘴巴微张"
+            }
+        ],
+        "background": "雕花木质屏风，地毯",
+        "description_narrative": "全景固定镜头，病患从地上坐起，看向坐在椅子上的睿王爷。",
+        "dialogue": "王爷",
+        "speaker": "病患",
+        "emotion": "敬畏",
+        "duration": 2.2,
+        "description_visual": "全景平拍镜头；雕花木质屏风，地毯；画面右后景人物，身穿米白色宽袖古装，坐在椅子上，身体前倾，表情：眉毛微挑，眼睛注视前方，嘴巴微张；画面左前景人物，身穿深色布衣，跪坐在地，抬头，表情：眉毛舒展，眼睛注视睿王爷，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病患",
+                "gender": "男",
+                "clothing": "深色布衣",
+                "position": "画面中央",
+                "action": "头部微抬，视线向上",
+                "expression": "眉毛高扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，病患面部特写，神情震惊，惊叹王妃医术如神。",
+        "dialogue": "神呐，莫非这王妃是神医下凡啊",
+        "speaker": "病患",
+        "emotion": "震惊",
+        "duration": 2.88,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿深色布衣，头部微抬，视线向上，表情：眉毛高扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "米白色宽袖古装",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，睿王爷神情惊讶，没想到王妃真的治好了人。",
+        "dialogue": "既然已经治好了",
+        "speaker": "夫君",
+        "emotion": "惊讶",
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿米白色宽袖古装，头部微侧，视线向前，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "夫君",
+                "gender": "男",
+                "clothing": "浅金色纹样古装",
+                "position": "画面中央",
+                "action": "头部微抬，视线向前",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的窗格背景",
+        "description_narrative": "特写固定镜头，夫君神情严肃，要求睿王爷信守承诺。",
+        "dialogue": "皇叔应该说话算数吧",
+        "speaker": "夫君",
+        "emotion": "严肃",
+        "duration": 4.92,
+        "description_visual": "特写平拍镜头；模糊的窗格背景；画面中央人物，身穿浅金色纹样古装，头部微抬，视线向前，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    }
+]

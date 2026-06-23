@@ -1,0 +1,991 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面左侧，坐着",
+                "action": "身体后仰靠在椅背上，双手交叉放在腿上",
+                "expression": "眉毛微挑，眼睛直视对方，嘴角紧闭"
+            },
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装，深色领带",
+                "position": "画面右侧，站立",
+                "action": "身体前倾，双手撑在桌面上",
+                "expression": "眉毛微蹙，眼睛紧盯对方，嘴巴微张"
+            }
+        ],
+        "background": "现代风格客厅，大理石地面，背景有餐桌和落地灯，冷色调光线",
+        "description_narrative": "全景镜头，蓝西装男坐在左侧椅子上，姿态放松，温止墨站在右侧桌边，身体前倾逼近对方，两人对峙，光线清冷。",
+        "dialogue": "你是跆拳道高手。",
+        "speaker": "蓝西装男",
+        "emotion": "挑衅",
+        "duration": 2.0,
+        "description_visual": "全景平拍镜头；现代风格客厅，大理石地面，背景有餐桌和落地灯，冷色调光线；画面左侧，坐着人物，身穿蓝色三件套西装，波点领带，身体后仰靠在椅背上，双手交叉放在腿上，表情：眉毛微挑，眼睛直视对方，嘴角紧闭；画面右侧，站立人物，身穿深灰色三件套西装，深色领带，身体前倾，双手撑在桌面上，表情：眉毛微蹙，眼睛紧盯对方，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "坐着，身体微微前倾",
+                "expression": "眉毛舒展，眼神平静，嘴唇微动"
+            }
+        ],
+        "background": "客厅背景，模糊的窗帘和灯光",
+        "description_narrative": "中近景镜头，蓝西装男坐在椅子上，面部表情平静，似乎在进行某种谈判或威胁。",
+        "dialogue": "我把你绑起来，不介意吧？",
+        "speaker": "蓝西装男",
+        "emotion": "冷漠",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；客厅背景，模糊的窗帘和灯光；画面中央人物，身穿蓝色三件套西装，波点领带，坐着，身体微微前倾，表情：眉毛舒展，眼神平静，嘴唇微动。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装，深色领带",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛紧锁，眼睛半闭，嘴巴微张似在说话"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，温止墨面部表情凝重，似乎正在回应对方的威胁，语气无奈。",
+        "dialogue": "我把你绑起来不介意吧",
+        "speaker": "蓝西装男",
+        "emotion": "无奈",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿深灰色三件套西装，深色领带，头部微低，视线向下，表情：眉毛紧锁，眼睛半闭，嘴巴微张似在说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "坐着，双手放在大腿上",
+                "expression": "眉毛微蹙，眼神看向一侧，嘴唇紧闭"
+            }
+        ],
+        "background": "客厅背景，大理石桌面一角",
+        "description_narrative": "中近景镜头，蓝西装男坐在椅子上，表情略显严肃，似乎在倾听对方的条件。",
+        "dialogue": "(画外音) 只要你不伤害她，什么都行。",
+        "speaker": "温止墨",
+        "emotion": "妥协",
+        "duration": 2.12,
+        "description_visual": "中近景平拍镜头；客厅背景，大理石桌面一角；画面中央人物，身穿蓝色三件套西装，波点领带，坐着，双手放在大腿上，表情：眉毛微蹙，眼神看向一侧，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面",
+        "description_narrative": "黑屏过渡，仅有声音。",
+        "dialogue": "好。",
+        "speaker": "蓝西装男",
+        "emotion": null,
+        "duration": 2.76,
+        "description_visual": "特写平拍镜头；全黑画面。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑暗环境，隐约可见人影",
+        "description_narrative": "黑暗画面中，隐约可见人物轮廓，电话接通的声音。",
+        "dialogue": "喂",
+        "speaker": "蓝西装男",
+        "emotion": null,
+        "duration": 5.44,
+        "description_visual": "特写平拍镜头；黑暗环境，隐约可见人影。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "右手持手机贴在耳边，左手插兜",
+                "expression": "眉毛微挑，眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景镜头，蓝西装男正在打电话，神情自信且带有威胁意味。",
+        "dialogue": "染染你要走了。",
+        "speaker": "蓝西装男",
+        "emotion": "威胁",
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿蓝色三件套西装，波点领带，右手持手机贴在耳边，左手插兜，表情：眉毛微挑，眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙，长款流苏耳环",
+                "position": "画面中央，车内",
+                "action": "左手持手机贴在耳边",
+                "expression": "眉毛平展，眼神看向窗外，嘴唇微张"
+            }
+        ],
+        "background": "车内后座，窗外光线明亮",
+        "description_narrative": "特写镜头，染染坐在车内打电话，表情冷静，似乎在敷衍对方。",
+        "dialogue": "我跟你没什么好说的。",
+        "speaker": "染染",
+        "emotion": "冷漠",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；车内后座，窗外光线明亮；画面中央，车内人物，身穿白色西装套裙，长款流苏耳环，左手持手机贴在耳边，表情：眉毛平展，眼神看向窗外，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "持手机通话，身体直立",
+                "expression": "眉毛微蹙，眼神坚定，嘴巴微动"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景镜头，蓝西装男继续通话，语气强硬，抛出筹码。",
+        "dialogue": "温止墨在我手里。",
+        "speaker": "蓝西装男",
+        "emotion": "得意",
+        "duration": 2.24,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿蓝色三件套西装，波点领带，持手机通话，身体直立，表情：眉毛微蹙，眼神坚定，嘴巴微动。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙，长款流苏耳环",
+                "position": "画面中央，车内",
+                "action": "持手机通话，眼神微动",
+                "expression": "眉毛微挑，眼神思索，嘴唇紧闭"
+            }
+        ],
+        "background": "车内后座，窗外光线明亮",
+        "description_narrative": "特写镜头，染染听到人质消息，眼神中闪过一丝担忧，但很快恢复平静。",
+        "dialogue": "你要是不想让他死，就来他公寓。",
+        "speaker": "蓝西装男",
+        "emotion": null,
+        "duration": 3.0,
+        "description_visual": "特写平拍镜头；车内后座，窗外光线明亮；画面中央，车内人物，身穿白色西装套裙，长款流苏耳环，持手机通话，眼神微动，表情：眉毛微挑，眼神思索，嘴唇紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "持手机通话，表情严肃",
+                "expression": "眉毛平展，眼神直视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景镜头，蓝西装男说完地址后，等待对方回应，神情自信。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿蓝色三件套西装，波点领带，持手机通话，表情严肃，表情：眉毛平展，眼神直视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙，长款流苏耳环",
+                "position": "画面中央，车内",
+                "action": "将手机从耳边拿开，看向窗外",
+                "expression": "眉毛微蹙，眼神坚定，嘴唇微抿"
+            }
+        ],
+        "background": "车内后座，窗外光线明亮",
+        "description_narrative": "特写镜头，染染挂断电话或结束通话，眼神决绝，准备行动。",
+        "dialogue": "掉头。",
+        "speaker": "染染",
+        "emotion": "果断",
+        "duration": 2.76,
+        "description_visual": "特写平拍镜头；车内后座，窗外光线明亮；画面中央，车内人物，身穿白色西装套裙，长款流苏耳环，将手机从耳边拿开，看向窗外，表情：眉毛微蹙，眼神坚定，嘴唇微抿。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "车内",
+                "action": "驾驶车辆掉头",
+                "expression": null
+            }
+        ],
+        "background": "城市道路，路边有树木和禁止驶入标志，阴天",
+        "description_narrative": "远景镜头，一辆银色SUV在路口掉头，动作迅速。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.04,
+        "description_visual": "远景平拍镜头（跟拍）；城市道路，路边有树木和禁止驶入标志，阴天；车内人物，身穿未知，驾驶车辆掉头。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装",
+                "position": "画面左侧，坐着",
+                "action": "坐在桌边，低头",
+                "expression": null
+            },
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面右侧，坐着",
+                "action": "被绳子绑在椅子上",
+                "expression": null
+            }
+        ],
+        "background": "昏暗的室内，光线不足",
+        "description_narrative": "全景镜头，昏暗的房间内，蓝西装男坐在桌边，温止墨被绑在椅子上，气氛压抑。",
+        "dialogue": "止墨。",
+        "speaker": "染染",
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "全景平拍镜头；昏暗的室内，光线不足；画面左侧，坐着人物，身穿蓝色三件套西装，坐在桌边，低头；画面右侧，坐着人物，身穿深灰色三件套西装，被绳子绑在椅子上。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面右侧，门口",
+                "action": "推门进入，步伐坚定",
+                "expression": "眉毛平展，眼神直视前方，嘴唇涂有口红"
+            }
+        ],
+        "background": "室内门口，白色门框",
+        "description_narrative": "中景镜头，染染身穿白色套裙出现在门口，神情冷艳，呼唤人质名字。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.64,
+        "description_visual": "中景平拍镜头；室内门口，白色门框；画面右侧，门口人物，身穿白色西装套裙，推门进入，步伐坚定，表情：眉毛平展，眼神直视前方，嘴唇涂有口红。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "身体前倾，双手撑在桌上",
+                "expression": "眉毛微蹙，低头看下方，嘴角微动"
+            }
+        ],
+        "background": "室内背景，大理石桌面",
+        "description_narrative": "中近景镜头，蓝西装男听到声音后抬头，表情略带玩味。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；室内背景，大理石桌面；画面中央人物，身穿蓝色三件套西装，波点领带，身体前倾，双手撑在桌上，表情：眉毛微蹙，低头看下方，嘴角微动。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面中央",
+                "action": "站立，头部微低",
+                "expression": "眉毛微蹙，视线下移，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，染染低头，神情复杂，似乎在思考对策。",
+        "dialogue": "还是",
+        "speaker": "蓝西装男",
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色西装套裙，站立，头部微低，表情：眉毛微蹙，视线下移，嘴唇紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "站立，面部表情夸张",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开露齿"
+            }
+        ],
+        "background": "室内背景，顶部有球形吊灯",
+        "description_narrative": "中近景镜头，蓝西装男表情夸张，似乎在嘲笑或惊讶于染染的到来。",
+        "dialogue": "还是来了呀",
+        "speaker": "蓝西装男",
+        "emotion": "嘲讽",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；室内背景，顶部有球形吊灯；画面中央人物，身穿蓝色三件套西装，波点领带，站立，面部表情夸张，表情：眉毛上扬，眼睛睁大，嘴巴张开露齿。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "站立，双手插兜",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景，书架和茶具",
+        "description_narrative": "中近景镜头，蓝西装男站姿放松，眼神中带着审视。",
+        "dialogue": "来了呀？",
+        "speaker": "蓝西装男",
+        "emotion": "轻蔑",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；室内背景，书架和茶具；画面中央人物，身穿蓝色三件套西装，波点领带，站立，双手插兜，表情：眉毛微蹙，眼睛看向一侧，嘴唇紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面中央",
+                "action": "站立，直视前方",
+                "expression": "眉毛平展，眼神坚定，嘴唇微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，染染直视对方，语气中带着质问。",
+        "dialogue": "你就这么在乎他",
+        "speaker": "染染",
+        "emotion": "质问",
+        "duration": 2.84,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色西装套裙，站立，直视前方，表情：眉毛平展，眼神坚定，嘴唇微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装，深色领带",
+                "position": "画面中央，坐着",
+                "action": "被绳子捆绑在椅子上，身体紧绷",
+                "expression": "眉毛紧锁，眼睛看向染染方向，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙面",
+        "description_narrative": "中近景镜头，温止墨被绑在椅子上，神情焦急，试图提醒染染。",
+        "dialogue": "你说的，我来，你就放了他。",
+        "speaker": "染染",
+        "emotion": "冷静",
+        "duration": 2.64,
+        "description_visual": "中近景平拍镜头；室内背景，白色墙面；画面中央，坐着人物，身穿深灰色三件套西装，深色领带，被绳子捆绑在椅子上，身体紧绷，表情：眉毛紧锁，眼睛看向染染方向，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面中央",
+                "action": "站立，头部微低",
+                "expression": "眉毛微蹙，视线下移，嘴唇微动"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，染染低头沉思，似乎在权衡利弊。",
+        "dialogue": "小染，你怎么能相信他说的话呢？",
+        "speaker": "温止墨",
+        "emotion": "焦急",
+        "duration": 2.76,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色西装套裙，站立，头部微低，表情：眉毛微蹙，视线下移，嘴唇微动。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "低头，表情略带不屑",
+                "expression": "眉毛微挑，视线下移，嘴角微撇"
+            }
+        ],
+        "background": "室内背景，顶部有球形吊灯",
+        "description_narrative": "中近景镜头，蓝西装男低头冷笑，似乎对温止墨的警告不以为然。",
+        "dialogue": "是啊，我怎么能相信他说的话呢",
+        "speaker": "染染",
+        "emotion": "讽刺",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；室内背景，顶部有球形吊灯；画面中央人物，身穿蓝色三件套西装，波点领带，低头，表情略带不屑，表情：眉毛微挑，视线下移，嘴角微撇。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛平展，眼睛微闭，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，染染双臂交叉，神情冷漠，准备揭晓底牌。",
+        "dialogue": "所以。",
+        "speaker": "染染",
+        "emotion": "冷静",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色西装套裙，双臂交叉抱在胸前，表情：眉毛平展，眼睛微闭，嘴唇紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "面部表情震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "室内背景，顶部有球形吊灯",
+        "description_narrative": "特写镜头，蓝西装男听到真相后，表情瞬间凝固，充满不可置信。",
+        "dialogue": "我报警了。",
+        "speaker": "染染",
+        "emotion": "揭露",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；室内背景，顶部有球形吊灯；画面中央人物，身穿蓝色三件套西装，波点领带，面部表情震惊，表情：眉毛上扬，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左侧，前景",
+                "action": "快速走过",
+                "expression": null
+            }
+        ],
+        "background": "餐厅区域，圆桌和酒杯",
+        "description_narrative": "中景镜头，一名身穿深色西装的男子快速走过，背景是布置好的餐桌。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头（摇镜）；餐厅区域，圆桌和酒杯；画面左侧，前景人物，身穿深色西装，快速走过。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装",
+                "position": "画面左侧",
+                "action": "站立，看向门口",
+                "expression": null
+            },
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面中央，坐着",
+                "action": "被绑在椅子上",
+                "expression": null
+            },
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": null
+            },
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头走入",
+                "expression": null
+            }
+        ],
+        "background": "客厅全景，光线明亮",
+        "description_narrative": "全景镜头，警察进入房间，蓝西装男和染染、温止墨都在场，局势逆转。",
+        "dialogue": "警察。",
+        "speaker": "警察",
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "全景平拍镜头；客厅全景，光线明亮；画面左侧人物，身穿蓝色三件套西装，站立，看向门口；画面中央，坐着人物，身穿深灰色三件套西装，被绑在椅子上；画面右侧人物，身穿白色西装套裙，站立；画面右侧前景人物，身穿深色西装，背对镜头走入。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "被两名男子按住肩膀，身体前倾",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "中近景镜头，蓝西装男被警察制服，表情惊恐且不甘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；室内背景，模糊；画面中央人物，身穿蓝色三件套西装，波点领带，被两名男子按住肩膀，身体前倾，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装，深色领带",
+                "position": "画面中央，坐着",
+                "action": "被绳子捆绑，头部转向一侧",
+                "expression": "眉毛微蹙，眼神复杂，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景，白色墙面",
+        "description_narrative": "特写镜头，温止墨被绑在椅子上，听到蓝西装男的话，神情凝重。",
+        "dialogue": "温止墨。",
+        "speaker": "蓝西装男",
+        "emotion": "疯狂",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；室内背景，白色墙面；画面中央，坐着人物，身穿深灰色三件套西装，深色领带，被绳子捆绑，头部转向一侧，表情：眉毛微蹙，眼神复杂，嘴唇紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "被按住，身体挣扎，面部扭曲",
+                "expression": "眉毛紧锁，眼睛瞪大，露齿狞笑"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "中近景镜头，蓝西装男在被带走时疯狂挑衅，表情狰狞。",
+        "dialogue": "你别以为她救了你，就能原谅你。",
+        "speaker": "蓝西装男",
+        "emotion": "疯狂",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；室内背景，模糊；画面中央人物，身穿蓝色三件套西装，波点领带，被按住，身体挣扎，面部扭曲，表情：眉毛紧锁，眼睛瞪大，露齿狞笑。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面中央",
+                "action": "站立，双手交握在身前",
+                "expression": "眉毛平展，眼神平静，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景，白色门框",
+        "description_narrative": "特写镜头，染染面无表情地听着蓝西装男的挑衅，不为所动。",
+        "dialogue": "一想到她对你，之前做的那些事情。",
+        "speaker": "蓝西装男",
+        "emotion": null,
+        "duration": 2.72,
+        "description_visual": "特写平拍镜头；室内背景，白色门框；画面中央人物，身穿白色西装套裙，站立，双手交握在身前，表情：眉毛平展，眼神平静，嘴唇紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装，波点领带",
+                "position": "画面中央",
+                "action": "被按住，头部后仰，大笑",
+                "expression": "眉毛飞扬，眼睛眯起，嘴巴大张露齿"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "中近景镜头，蓝西装男疯狂大笑，试图离间两人关系。",
+        "dialogue": "她还会和你在一起吗？哈哈哈",
+        "speaker": "蓝西装男",
+        "emotion": "疯狂",
+        "duration": 1.84,
+        "description_visual": "中近景平拍镜头；室内背景，模糊；画面中央人物，身穿蓝色三件套西装，波点领带，被按住，头部后仰，大笑，表情：眉毛飞扬，眼睛眯起，嘴巴大张露齿。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝西装男",
+                "gender": "男",
+                "clothing": "蓝色三件套西装",
+                "position": "画面左侧",
+                "action": "被两名警察拖拽带走",
+                "expression": null
+            },
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面中央，坐着",
+                "action": "被绑在椅子上",
+                "expression": null
+            },
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面右侧",
+                "action": "站立，背对镜头",
+                "expression": null
+            },
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左侧",
+                "action": "拖拽蓝西装男",
+                "expression": null
+            }
+        ],
+        "background": "客厅全景，大理石地面",
+        "description_narrative": "全景镜头，蓝西装男被警察强行拖走，温止墨和染染在旁目睹。",
+        "dialogue": "啊",
+        "speaker": "蓝西装男",
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "全景平拍镜头；客厅全景，大理石地面；画面左侧人物，身穿蓝色三件套西装，被两名警察拖拽带走；画面中央，坐着人物，身穿深灰色三件套西装，被绑在椅子上；画面右侧人物，身穿白色西装套裙，站立，背对镜头；画面左侧人物，身穿深色西装，拖拽蓝西装男。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "眉毛微蹙，眼神看向一侧，嘴唇微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，染染看着被带走的蓝西装男，眼神冷冽。",
+        "dialogue": "走。",
+        "speaker": "警察",
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色西装套裙，站立，头部微侧，表情：眉毛微蹙，眼神看向一侧，嘴唇微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面右侧",
+                "action": "走向温止墨",
+                "expression": null
+            },
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面中央，坐着",
+                "action": "被绑在椅子上",
+                "expression": null
+            }
+        ],
+        "background": "客厅，大理石地面",
+        "description_narrative": "中景镜头，染染走向被绑的温止墨，准备为他松绑。",
+        "dialogue": "我不会放过你的。",
+        "speaker": "染染",
+        "emotion": "警告",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；客厅，大理石地面；画面右侧人物，身穿白色西装套裙，走向温止墨；画面中央，坐着人物，身穿深灰色三件套西装，被绑在椅子上。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装，深色领带",
+                "position": "画面中央，坐着",
+                "action": "低头，绳子缠绕在身上",
+                "expression": "眉毛紧锁，视线下移，嘴唇紧闭"
+            },
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面右上方",
+                "action": "俯身解绳子",
+                "expression": null
+            }
+        ],
+        "background": "室内，椅子",
+        "description_narrative": "特写俯拍镜头，温止墨低头看着身上的绳子，染染在旁为他解开束缚。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "特写俯拍镜头；室内，椅子；画面中央，坐着人物，身穿深灰色三件套西装，深色领带，低头，绳子缠绕在身上，表情：眉毛紧锁，视线下移，嘴唇紧闭；画面右上方人物，身穿白色西装套裙，俯身解绳子。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面中央，坐着",
+                "action": "绳子被解开",
+                "expression": null
+            },
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面右侧",
+                "action": "站立，手持绳子",
+                "expression": null
+            }
+        ],
+        "background": "客厅全景",
+        "description_narrative": "全景镜头，染染成功为温止墨解开绳子，两人独处。",
+        "dialogue": "小染。",
+        "speaker": "温止墨",
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "全景平拍镜头；客厅全景；画面中央，坐着人物，身穿深灰色三件套西装，绳子被解开；画面右侧人物，身穿白色西装套裙，站立，手持绳子。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温止墨",
+                "gender": "男",
+                "clothing": "深灰色三件套西装，深色领带",
+                "position": "画面左侧",
+                "action": "站立，低头看着染染",
+                "expression": "眉毛微蹙，视线下移，嘴唇微动"
+            },
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面右侧前景",
+                "action": "站立，背对镜头",
+                "expression": null
+            }
+        ],
+        "background": "室内背景，门框",
+        "description_narrative": "过肩镜头，温止墨看着染染，神情小心翼翼，似乎在寻求原谅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "中近景过肩镜头；室内背景，门框；画面左侧人物，身穿深灰色三件套西装，深色领带，站立，低头看着染染，表情：眉毛微蹙，视线下移，嘴唇微动；画面右侧前景人物，身穿白色西装套裙，站立，背对镜头。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色西装套裙",
+                "position": "画面中央",
+                "action": "站立，直视前方",
+                "expression": "眉毛平展，眼神深邃，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，染染面无表情地看着温止墨，没有直接回答。",
+        "dialogue": "你会原谅我吗？",
+        "speaker": "温止墨",
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色西装套裙，站立，直视前方，表情：眉毛平展，眼神深邃，嘴唇紧闭。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全白画面",
+        "description_narrative": "白屏结束，留白结局。",
+        "dialogue": "你猜。",
+        "speaker": "染染",
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；全白画面。"
+    }
+]

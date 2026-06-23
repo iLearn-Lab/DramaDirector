@@ -1,0 +1,753 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "白色礼服",
+                "position": "画面左侧",
+                "action": "侧脸凝视前方",
+                "expression": "眉毛舒展，眼睛注视，嘴唇微闭"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "侧脸凝视前方",
+                "expression": "眉毛舒展，眼睛注视，嘴唇微闭"
+            }
+        ],
+        "background": "金色光斑背景，带有剧名标题文字",
+        "description_narrative": "特写镜头，画面展示剧名标题卡，女主角身穿白色礼服与西装男深情对视，背景为金色散景光斑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；金色光斑背景，带有剧名标题文字；画面左侧人物，身穿白色礼服，侧脸凝视前方，表情：眉毛舒展，眼睛注视，嘴唇微闭；画面右侧人物，身穿黑色西装，侧脸凝视前方，表情：眉毛舒展，眼睛注视，嘴唇微闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫，黑色长裤，金色项链",
+                "position": "画面左侧",
+                "action": "身体前倾，被女主角拉扯手臂",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装，白色荷叶边衬衫",
+                "position": "画面右侧",
+                "action": "右手抓住蓝衣男左臂，向前行走",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "香草香草云南餐厅门口，白色墙面，玻璃门",
+        "description_narrative": "全景镜头，女主角身穿浅蓝色套装，右手抓住身穿亮蓝色衬衫的蓝衣男的手臂，将其从餐厅门口拉出，蓝衣男身体前倾踉跄跟随。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头（跟拍）；香草香草云南餐厅门口，白色墙面，玻璃门；画面左侧人物，身穿亮蓝色衬衫，黑色长裤，金色项链，身体前倾，被女主角拉扯手臂，表情：眉毛微蹙，眼睛看向前方，嘴巴微张；画面右侧人物，身穿浅蓝色粗花呢套装，白色荷叶边衬衫，右手抓住蓝衣男左臂，向前行走，表情：眉毛微蹙，眼睛注视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色衬衫",
+                "position": "画面中央",
+                "action": "头部微仰，看向斜上方",
+                "expression": "眉毛微挑，眼睛向上看，嘴唇微张说话"
+            }
+        ],
+        "background": "模糊的室外背景，光线明亮",
+        "description_narrative": "特写镜头，女主角头部微仰，眼神向上，嘴唇微张说出台词，神情带有讽刺意味。",
+        "dialogue": "你个小可爱",
+        "speaker": "女主角",
+        "emotion": "讽刺",
+        "duration": 1.36,
+        "description_visual": "特写仰拍镜头；模糊的室外背景，光线明亮；画面中央人物，身穿浅蓝色粗花呢外套，白色衬衫，头部微仰，看向斜上方，表情：眉毛微挑，眼睛向上看，嘴唇微张说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫，金色项链",
+                "position": "画面中央",
+                "action": "侧脸面向右侧，嘴巴张开",
+                "expression": "眉毛上扬，眼睛注视前方，嘴巴张大说话"
+            }
+        ],
+        "background": "红色与灰色相间的模糊背景",
+        "description_narrative": "近景镜头，蓝衣男侧脸对着镜头，表情嚣张，嘴巴张大正在说话。",
+        "dialogue": "我何家的门",
+        "speaker": "蓝衣男",
+        "emotion": "嚣张",
+        "duration": 2.12,
+        "description_visual": "近景侧拍镜头；红色与灰色相间的模糊背景；画面中央人物，身穿亮蓝色衬衫，金色项链，侧脸面向右侧，嘴巴张开，表情：眉毛上扬，眼睛注视前方，嘴巴张大说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色衬衫",
+                "position": "画面中央",
+                "action": "头部微低，眼睛向下看",
+                "expression": "眉毛舒展，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室外背景",
+        "description_narrative": "特写镜头，女主角微微低头，眼神向下，表情冷静淡然。",
+        "dialogue": "不是谁想进就能进的",
+        "speaker": "女主角",
+        "emotion": "冷淡",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；模糊的室外背景；画面中央人物，身穿浅蓝色粗花呢外套，白色衬衫，头部微低，眼睛向下看，表情：眉毛舒展，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫，金色项链",
+                "position": "画面中央",
+                "action": "身体前倾，右手食指指向对方",
+                "expression": "眉毛紧皱，眼睛斜视，嘴角上扬露齿"
+            }
+        ],
+        "background": "红色与灰色相间的模糊背景",
+        "description_narrative": "近景镜头，蓝衣男身体前倾，右手食指伸出指向对方，面部表情狰狞，露出牙齿。",
+        "dialogue": "你还不愿意了",
+        "speaker": "蓝衣男",
+        "emotion": "愤怒",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；红色与灰色相间的模糊背景；画面中央人物，身穿亮蓝色衬衫，金色项链，身体前倾，右手食指指向对方，表情：眉毛紧皱，眼睛斜视，嘴角上扬露齿。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色衬衫",
+                "position": "画面中央",
+                "action": "闭眼，头部微动",
+                "expression": "眉毛舒展，眼睛紧闭，嘴唇微张"
+            }
+        ],
+        "background": "模糊的室外背景",
+        "description_narrative": "特写镜头，女主角双眼紧闭，似乎在深呼吸或忍耐，表情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；模糊的室外背景；画面中央人物，身穿浅蓝色粗花呢外套，白色衬衫，闭眼，头部微动，表情：眉毛舒展，眼睛紧闭，嘴唇微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢裙摆",
+                "position": "画面左侧",
+                "action": "左手提着白色手提包",
+                "expression": "null"
+            }
+        ],
+        "background": "模糊的地面背景",
+        "description_narrative": "特写镜头，聚焦于女主角的手部，她左手提着一个白色手提包，手臂自然下垂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头；模糊的地面背景；画面左侧人物，身穿浅蓝色粗花呢裙摆，左手提着白色手提包，表情：null。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫，金色项链",
+                "position": "画面中央",
+                "action": "头部转向左侧，嘴巴微张",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "红色背景",
+        "description_narrative": "近景镜头，蓝衣男头部转向左侧，眼神疑惑，嘴巴微张似乎要说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "近景侧拍镜头；红色背景；画面中央人物，身穿亮蓝色衬衫，金色项链，头部转向左侧，嘴巴微张，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫",
+                "position": "画面左侧",
+                "action": "身体被推搡，手臂晃动",
+                "expression": "null"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "白色袖口",
+                "position": "画面右侧",
+                "action": "右手伸出推挡",
+                "expression": "null"
+            }
+        ],
+        "background": "红色背景，画面动态模糊",
+        "description_narrative": "特写镜头，画面快速晃动，女主角的手伸出推挡蓝衣男，动作迅速有力。",
+        "dialogue": "敢跟我动手动脚",
+        "speaker": "女主角",
+        "emotion": "警告",
+        "duration": 0.72,
+        "description_visual": "特写平拍镜头（摇镜）；红色背景，画面动态模糊；画面左侧人物，身穿亮蓝色衬衫，身体被推搡，手臂晃动，表情：null；画面右侧人物，身穿白色袖口，右手伸出推挡，表情：null。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫",
+                "position": "画面中央",
+                "action": "肩膀被手按住",
+                "expression": "null"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢袖口",
+                "position": "画面前景",
+                "action": "手掌按在对方肩膀上",
+                "expression": "null"
+            }
+        ],
+        "background": "红色背景，画面局部模糊",
+        "description_narrative": "特写镜头，女主角的手掌按在蓝衣男的肩膀上，动作带有推力。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；红色背景，画面局部模糊；画面中央人物，身穿亮蓝色衬衫，肩膀被手按住，表情：null；画面前景人物，身穿浅蓝色粗花呢袖口，手掌按在对方肩膀上，表情：null。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫",
+                "position": "画面下方",
+                "action": "身体向后倒地",
+                "expression": "null"
+            }
+        ],
+        "background": "灰色地面，红色墙面背景",
+        "description_narrative": "俯拍镜头，蓝衣男身体失去平衡向后倒去，画面因动作快速而模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "中景俯拍镜头（摇镜）；灰色地面，红色墙面背景；画面下方人物，身穿亮蓝色衬衫，身体向后倒地，表情：null。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫，金色项链",
+                "position": "画面中央",
+                "action": "仰面躺在地上，头部后仰",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴张开露齿"
+            }
+        ],
+        "background": "灰色地面，红色墙面背景",
+        "description_narrative": "低角度近景，蓝衣男仰面躺在地上，表情痛苦狰狞，嘴巴张开喊叫。",
+        "dialogue": "女人",
+        "speaker": "蓝衣男",
+        "emotion": "痛苦",
+        "duration": 1.16,
+        "description_visual": "近景低角度镜头；灰色地面，红色墙面背景；画面中央人物，身穿亮蓝色衬衫，金色项链，仰面躺在地上，头部后仰，表情：眉毛紧皱，眼睛眯起，嘴巴张开露齿。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面中央",
+                "action": "低头俯视",
+                "expression": "眉毛微蹙，眼睛向下看，嘴唇微张"
+            }
+        ],
+        "background": "餐厅外部建筑，红色招牌",
+        "description_narrative": "低角度中近景，女主角站立低头俯视地面上的蓝衣男，神情严肃。",
+        "dialogue": "你说咱俩也不认识",
+        "speaker": "女主角",
+        "emotion": "严肃",
+        "duration": 2.2,
+        "description_visual": "中近景低角度镜头；餐厅外部建筑，红色招牌；画面中央人物，身穿浅蓝色粗花呢套装，低头俯视，表情：眉毛微蹙，眼睛向下看，嘴唇微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫，金色项链",
+                "position": "画面下方",
+                "action": "躺在地上，胸部被脚踩住",
+                "expression": "眉毛上扬，眼睛向上看，嘴巴微张"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "银色亮片高跟鞋",
+                "position": "画面右侧前景",
+                "action": "右脚踩在对方胸口",
+                "expression": "null"
+            }
+        ],
+        "background": "灰色地面，红色墙面背景",
+        "description_narrative": "低角度近景，蓝衣男躺在地上，女主角的银色亮片高跟鞋踩在他的胸口，蓝衣男抬头向上看。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "近景低角度镜头；灰色地面，红色墙面背景；画面下方人物，身穿亮蓝色衬衫，金色项链，躺在地上，胸部被脚踩住，表情：眉毛上扬，眼睛向上看，嘴巴微张；画面右侧前景人物，身穿银色亮片高跟鞋，右脚踩在对方胸口，表情：null。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面中央",
+                "action": "低头俯视，身体微倾",
+                "expression": "眉毛微蹙，眼睛向下看，嘴唇微张"
+            }
+        ],
+        "background": "餐厅外部建筑，红色招牌",
+        "description_narrative": "低角度中近景，女主角低头看着地面，身体微微前倾，表情带有质问。",
+        "dialogue": "你何必这样",
+        "speaker": "女主角",
+        "emotion": "质问",
+        "duration": 2.72,
+        "description_visual": "中近景低角度镜头；餐厅外部建筑，红色招牌；画面中央人物，身穿浅蓝色粗花呢套装，低头俯视，身体微倾，表情：眉毛微蹙，眼睛向下看，嘴唇微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫，金色项链",
+                "position": "画面下方",
+                "action": "躺在地上，抬头向上看",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "银色亮片高跟鞋",
+                "position": "画面右侧前景",
+                "action": "脚踩在对方胸口",
+                "expression": "null"
+            }
+        ],
+        "background": "灰色地面，红色墙面背景",
+        "description_narrative": "低角度近景，蓝衣男躺在地上抬头向上看，表情无奈，女主角的脚依然踩在他胸口。",
+        "dialogue": "要么去找温情",
+        "speaker": "女主角",
+        "emotion": "命令",
+        "duration": 2.6,
+        "description_visual": "近景低角度镜头；灰色地面，红色墙面背景；画面下方人物，身穿亮蓝色衬衫，金色项链，躺在地上，抬头向上看，表情：眉毛舒展，眼睛向上看，嘴巴微张；画面右侧前景人物，身穿银色亮片高跟鞋，脚踩在对方胸口，表情：null。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面中央",
+                "action": "低头俯视，身体直立",
+                "expression": "眉毛微蹙，眼睛向下看，嘴唇紧闭"
+            }
+        ],
+        "background": "餐厅外部建筑，红色招牌",
+        "description_narrative": "低角度中近景，女主角站立低头，表情冷峻，给出最后通牒。",
+        "dialogue": "要么取消婚姻，别在这跟我耍无赖",
+        "speaker": "女主角",
+        "emotion": "冷峻",
+        "duration": 4.2,
+        "description_visual": "中近景低角度镜头；餐厅外部建筑，红色招牌；画面中央人物，身穿浅蓝色粗花呢套装，低头俯视，身体直立，表情：眉毛微蹙，眼睛向下看，嘴唇紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男",
+                "gender": "男",
+                "clothing": "亮蓝色衬衫，金色项链",
+                "position": "画面下方",
+                "action": "躺在地上，面部扭曲",
+                "expression": "眉毛紧皱，眼睛紧闭，嘴巴紧闭撇嘴"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "银色亮片高跟鞋",
+                "position": "画面右侧前景",
+                "action": "脚踩在对方胸口",
+                "expression": "null"
+            }
+        ],
+        "background": "灰色地面，红色墙面背景",
+        "description_narrative": "低角度近景，蓝衣男躺在地上，面部表情痛苦扭曲，紧闭双眼，嘴角下撇。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "近景低角度镜头；灰色地面，红色墙面背景；画面下方人物，身穿亮蓝色衬衫，金色项链，躺在地上，面部扭曲，表情：眉毛紧皱，眼睛紧闭，嘴巴紧闭撇嘴；画面右侧前景人物，身穿银色亮片高跟鞋，脚踩在对方胸口，表情：null。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛舒展，眼睛注视前方，嘴唇微闭"
+            }
+        ],
+        "background": "餐厅外部建筑，红色招牌",
+        "description_narrative": "低角度中景，女主角站立在原地，神情冷漠地看着下方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "中景低角度镜头；餐厅外部建筑，红色招牌；画面中央人物，身穿浅蓝色粗花呢套装，站立，身体微侧，表情：眉毛舒展，眼睛注视前方，嘴唇微闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢袖口",
+                "position": "画面左上方",
+                "action": "手松开，手提包落地",
+                "expression": "null"
+            }
+        ],
+        "background": "灰色地砖地面，阳光照射",
+        "description_narrative": "俯拍特写，女主角的手松开，白色手提包掉落在灰色地砖上，投下阴影。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写俯拍镜头；灰色地砖地面，阳光照射；画面左上方人物，身穿浅蓝色粗花呢袖口，手松开，手提包落地，表情：null。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面中央",
+                "action": "背对镜头，右手提包，向前行走",
+                "expression": "null"
+            }
+        ],
+        "background": "街道，两侧有建筑和树木，光线明亮",
+        "description_narrative": "中景跟拍镜头，女主角背对镜头，右手提着白色手提包，沿着街道向前走去。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.08,
+        "description_visual": "中景平拍镜头（跟拍）；街道，两侧有建筑和树木，光线明亮；画面中央人物，身穿浅蓝色粗花呢套装，背对镜头，右手提包，向前行走，表情：null。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面中央",
+                "action": "侧身站立，手持手机/卡片刷门禁",
+                "expression": "null"
+            }
+        ],
+        "background": "公寓楼道，深色木门，门禁系统",
+        "description_narrative": "侧拍中景，女主角站在公寓门口，侧身手持手机或卡片在门禁系统上刷卡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.44,
+        "description_visual": "中景侧拍镜头；公寓楼道，深色木门，门禁系统；画面中央人物，身穿浅蓝色粗花呢套装，侧身站立，手持手机/卡片刷门禁，表情：null。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "现代风格客厅，米色沙发，白色茶几，墙上挂画",
+        "description_narrative": "全景镜头，展示公寓内部客厅，装修现代豪华，有米色沙发、白色茶几和装饰画。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.64,
+        "description_visual": "全景平拍镜头；现代风格客厅，米色沙发，白色茶几，墙上挂画。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面中央",
+                "action": "背对镜头，向屋内走去",
+                "expression": "null"
+            }
+        ],
+        "background": "深色木门背景",
+        "description_narrative": "侧拍中景，女主角背对镜头，迈步走进屋内，长发随动作摆动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.32,
+        "description_visual": "中景侧拍镜头（跟拍）；深色木门背景；画面中央人物，身穿浅蓝色粗花呢套装，背对镜头，向屋内走去，表情：null。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "深色门牌，金色数字",
+        "description_narrative": "仰拍特写，镜头聚焦在门侧的竖排门牌号上，显示金色数字1022。",
+        "dialogue": "1022",
+        "speaker": "女主角",
+        "emotion": "疑惑",
+        "duration": 1.2,
+        "description_visual": "特写仰拍镜头；深色门牌，金色数字。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，白色衬衫",
+                "position": "画面中央",
+                "action": "转头看向门牌方向",
+                "expression": "眉毛微蹙，眼睛注视，嘴唇微张"
+            }
+        ],
+        "background": "深色木门背景",
+        "description_narrative": "近景镜头，女主角转头看向门牌方向，表情疑惑，似乎在确认地址。",
+        "dialogue": "没走错呀",
+        "speaker": "女主角",
+        "emotion": "疑惑",
+        "duration": 4.24,
+        "description_visual": "近景平拍镜头；深色木门背景；画面中央人物，身穿浅蓝色粗花呢外套，白色衬衫，转头看向门牌方向，表情：眉毛微蹙，眼睛注视，嘴唇微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面左侧",
+                "action": "背对镜头，向屋内走去",
+                "expression": "null"
+            }
+        ],
+        "background": "浅色木纹墙面",
+        "description_narrative": "侧拍中景，女主角背对镜头，继续向屋内走去，步伐略显迟疑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "中景侧拍镜头（跟拍）；浅色木纹墙面；画面左侧人物，身穿浅蓝色粗花呢套装，背对镜头，向屋内走去，表情：null。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面中央",
+                "action": "侧身站立，环顾四周",
+                "expression": "眉毛微蹙，眼睛看向侧面，嘴唇微闭"
+            }
+        ],
+        "background": "浅色木纹墙面",
+        "description_narrative": "中近景镜头，女主角侧身站立，眼神向侧面扫视，表情困惑。",
+        "dialogue": "这什么情况",
+        "speaker": "女主角",
+        "emotion": "困惑",
+        "duration": 6.76,
+        "description_visual": "中近景平拍镜头；浅色木纹墙面；画面中央人物，身穿浅蓝色粗花呢套装，侧身站立，环顾四周，表情：眉毛微蹙，眼睛看向侧面，嘴唇微闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢套装",
+                "position": "画面中央",
+                "action": "背对镜头，站在客厅中央",
+                "expression": "null"
+            }
+        ],
+        "background": "现代风格客厅，米色沙发，墙上挂画",
+        "description_narrative": "中景镜头，女主角背对镜头站在客厅中央，看着前方的沙发和装饰，显得不知所措。",
+        "dialogue": "这是我家吗",
+        "speaker": "女主角",
+        "emotion": "疑惑",
+        "duration": 4.24,
+        "description_visual": "中景平拍镜头；现代风格客厅，米色沙发，墙上挂画；画面中央人物，身穿浅蓝色粗花呢套装，背对镜头，站在客厅中央，表情：null。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色衬衫，深色马甲",
+                "position": "画面左侧",
+                "action": "弯腰，右手点燃桌上的蜡烛",
+                "expression": "眉毛舒展，眼睛注视蜡烛，嘴唇微闭"
+            }
+        ],
+        "background": "餐桌，烛光，鲜花，红酒",
+        "description_narrative": "侧拍中近景，西装男身穿黑色衬衫和马甲，弯腰在布置好的餐桌上点燃蜡烛，神情温柔。",
+        "dialogue": "你回来了",
+        "speaker": "西装男",
+        "emotion": "温柔",
+        "duration": 5.12,
+        "description_visual": "中近景侧拍镜头；餐桌，烛光，鲜花，红酒；画面左侧人物，身穿黑色衬衫，深色马甲，弯腰，右手点燃桌上的蜡烛，表情：眉毛舒展，眼睛注视蜡烛，嘴唇微闭。"
+    }
+]

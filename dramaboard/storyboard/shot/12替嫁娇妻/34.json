@@ -1,0 +1,639 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面左侧",
+                "action": "从背后环抱明王妃",
+                "expression": "眉毛微挑，眼神深邃，嘴角微扬"
+            },
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面右侧",
+                "action": "被环抱，身体微僵",
+                "expression": "眉毛微蹙，眼神下垂，嘴唇紧闭"
+            }
+        ],
+        "background": "深色 ornate 屏风背景，光线柔和",
+        "description_narrative": "中景固定镜头，明王身穿米金色长袍从背后环抱身穿白色汉服的明王妃，背景为深色 ornate 屏风，明王眼神深邃，明王妃表情略显僵硬。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色 ornate 屏风背景，光线柔和；画面左侧人物，身穿米金色长袍，从背后环抱明王妃，表情：眉毛微挑，眼神深邃，嘴角微扬；画面右侧人物，身穿白色刺绣汉服，被环抱，身体微僵，表情：眉毛微蹙，眼神下垂，嘴唇紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面中央",
+                "action": "眉头紧锁，嘴唇微动",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张露出牙齿"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃身穿白色汉服，眉头紧锁，眼神愤怒，嘴巴微张似乎在低声咒骂，背景为红色木质门窗。",
+        "dialogue": "该死的墨煜，气死我，断我财路。",
+        "speaker": "明王妃",
+        "emotion": "愤怒",
+        "duration": 2.96,
+        "description_visual": "特写平拍镜头；红色木质门窗背景，虚化；画面中央人物，身穿白色刺绣汉服，眉头紧锁，嘴唇微动，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张露出牙齿。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面左侧",
+                "action": "侧头倾听，眼神微动",
+                "expression": "眉毛平展，眼睛注视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "近景侧拍固定镜头，明王身穿米金色长袍，侧脸对着镜头，眼神似乎在倾听什么，背景为红色门窗。",
+        "dialogue": "王妃这是在",
+        "speaker": "明王",
+        "emotion": "疑惑",
+        "duration": 1.68,
+        "description_visual": "近景侧拍镜头；红色木质门窗背景，虚化；画面左侧人物，身穿米金色长袍，侧头倾听，眼神微动，表情：眉毛平展，眼睛注视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面中央",
+                "action": "眼神闪躲，表情惊慌",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃表情惊慌，眼神闪躲，似乎被抓包，背景为红色门窗。",
+        "dialogue": "骂本王吗？王爷。",
+        "speaker": "明王",
+        "emotion": "质问",
+        "duration": 2.6,
+        "description_visual": "特写平拍镜头；红色木质门窗背景，虚化；画面中央人物，身穿白色刺绣汉服，眼神闪躲，表情惊慌，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面右侧",
+                "action": "从门后走出，转身看向王妃",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇微动"
+            }
+        ],
+        "background": "红色木质大门，光线自然",
+        "description_narrative": "中景侧拍跟拍镜头，明王从红色大门后走出，转身看向某处，表情严肃。",
+        "dialogue": "你怎么在这儿？王妃这是做了什么亏心事",
+        "speaker": "明王",
+        "emotion": "怀疑",
+        "duration": 3.88,
+        "description_visual": "中景侧拍镜头（跟拍）；红色木质大门，光线自然；画面右侧人物，身穿米金色长袍，从门后走出，转身看向王妃，表情：眉毛微蹙，眼神锐利，嘴唇微动。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面中央",
+                "action": "眼神游移，急忙解释",
+                "expression": "眉毛舒展，眼睛看向侧面，嘴巴快速开合"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃眼神游移，表情急切，似乎在编造理由，背景为红色门窗。",
+        "dialogue": "我这是乞求神仙，让王爷快点好起来。",
+        "speaker": "明王妃",
+        "emotion": "慌张",
+        "duration": 3.24,
+        "description_visual": "特写平拍镜头；红色木质门窗背景，虚化；画面中央人物，身穿白色刺绣汉服，眼神游移，急忙解释，表情：眉毛舒展，眼睛看向侧面，嘴巴快速开合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面左侧",
+                "action": "微微点头，似笑非笑",
+                "expression": "眉毛微挑，眼睛注视对方，嘴角微扬"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "近景侧拍固定镜头，明王微微点头，嘴角带着一丝玩味的笑意，看着王妃。",
+        "dialogue": "哦，那本王可要争点气",
+        "speaker": "明王",
+        "emotion": "调侃",
+        "duration": 3.32,
+        "description_visual": "近景侧拍镜头；红色木质门窗背景，虚化；画面左侧人物，身穿米金色长袍，微微点头，似笑非笑，表情：眉毛微挑，眼睛注视对方，嘴角微扬。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面右侧",
+                "action": "转身行走，衣袖摆动",
+                "expression": "眉毛舒展，眼神向前，嘴唇微动"
+            }
+        ],
+        "background": "红色木质大门，光线自然",
+        "description_narrative": "中景侧拍跟拍镜头，明王转身行走，衣袖随风摆动，背景为红色大门。",
+        "dialogue": "好和王妃白头偕老啊。",
+        "speaker": "明王",
+        "emotion": "戏谑",
+        "duration": 3.4,
+        "description_visual": "中景侧拍镜头（跟拍）；红色木质大门，光线自然；画面右侧人物，身穿米金色长袍，转身行走，衣袖摆动，表情：眉毛舒展，眼神向前，嘴唇微动。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面左侧",
+                "action": "抬头看着明王，眼神复杂",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "近景过肩固定镜头，明王妃抬头看着明王，眼神复杂，背景为红色门窗。",
+        "dialogue": "你这是抱怨本王没让你",
+        "speaker": "明王",
+        "emotion": "试探",
+        "duration": 2.64,
+        "description_visual": "近景过肩镜头；红色木质门窗背景，虚化；画面左侧人物，身穿白色刺绣汉服，抬头看着明王，眼神复杂，表情：眉毛微蹙，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面左侧",
+                "action": "低头看着王妃，眼神深邃",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇微张"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "特写侧拍固定镜头，明王低头看着王妃，眼神深邃，似乎在等待回答。",
+        "dialogue": "接父皇的奖赏吗？",
+        "speaker": "明王",
+        "emotion": "严肃",
+        "duration": 1.8,
+        "description_visual": "特写侧拍镜头；红色木质门窗背景，虚化；画面左侧人物，身穿米金色长袍，低头看着王妃，眼神深邃，表情：眉毛微蹙，眼睛下视，嘴唇微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面中央",
+                "action": "眼神下垂，摇头否认",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃眼神下垂，轻轻摇头否认，表情略显心虚。",
+        "dialogue": "没，没有。",
+        "speaker": "明王妃",
+        "emotion": "心虚",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；红色木质门窗背景，虚化；画面中央人物，身穿白色刺绣汉服，眼神下垂，摇头否认，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面左侧",
+                "action": "表情严肃，语重心长",
+                "expression": "眉毛紧蹙，眼睛注视，嘴唇微动"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "近景侧拍固定镜头，明王表情严肃，语重心长地警告王妃。",
+        "dialogue": "在这皇宫当中，不知道有多少只眼睛",
+        "speaker": "明王",
+        "emotion": "警告",
+        "duration": 2.72,
+        "description_visual": "近景侧拍镜头；红色木质门窗背景，虚化；画面左侧人物，身穿米金色长袍，表情严肃，语重心长，表情：眉毛紧蹙，眼睛注视，嘴唇微动。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面中央",
+                "action": "低头聆听，表情凝重",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃低头聆听，表情凝重，似乎在思考明王的话。",
+        "dialogue": "在盯着你犯错。",
+        "speaker": "明王",
+        "emotion": "严肃",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；红色木质门窗背景，虚化；画面中央人物，身穿白色刺绣汉服，低头聆听，表情凝重，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面左侧",
+                "action": "继续告诫，眼神坚定",
+                "expression": "眉毛微蹙，眼睛注视，嘴唇微动"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "近景侧拍固定镜头，明王继续告诫王妃，眼神坚定，背景为红色门窗。",
+        "dialogue": "有些事情不能随心而来，明白吗？",
+        "speaker": "明王",
+        "emotion": "告诫",
+        "duration": 3.16,
+        "description_visual": "近景侧拍镜头；红色木质门窗背景，虚化；画面左侧人物，身穿米金色长袍，继续告诫，眼神坚定，表情：眉毛微蹙，眼睛注视，嘴唇微动。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面中央",
+                "action": "抿嘴点头，表示明白",
+                "expression": "眉毛舒展，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃抿嘴点头，表示明白，眼神中带着一丝无奈。",
+        "dialogue": "明白。",
+        "speaker": "明王妃",
+        "emotion": "顺从",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；红色木质门窗背景，虚化；画面中央人物，身穿白色刺绣汉服，抿嘴点头，表示明白，表情：眉毛舒展，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面左侧",
+                "action": "眼神温柔，提出奖赏",
+                "expression": "眉毛舒展，眼睛注视，嘴角微扬"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "近景侧拍固定镜头，明王眼神变得温柔，嘴角微扬，提出要给王妃奖赏。",
+        "dialogue": "如果你非要奖赏，本王倒可以奖赏。",
+        "speaker": "明王",
+        "emotion": "宠溺",
+        "duration": 4.4,
+        "description_visual": "近景侧拍镜头；红色木质门窗背景，虚化；画面左侧人物，身穿米金色长袍，眼神温柔，提出奖赏，表情：眉毛舒展，眼睛注视，嘴角微扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面中央",
+                "action": "侧头避开，拒绝奖赏",
+                "expression": "眉毛微蹙，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "特写固定镜头，明王妃侧头避开明王的视线，拒绝了他的奖赏。",
+        "dialogue": "不用了。",
+        "speaker": "明王妃",
+        "emotion": "拒绝",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；红色木质门窗背景，虚化；画面中央人物，身穿白色刺绣汉服，侧头避开，拒绝奖赏，表情：眉毛微蹙，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣汉服",
+                "position": "画面左侧",
+                "action": "转身离开，裙摆飞扬",
+                "expression": "眉毛平展，眼神向前，嘴唇紧闭"
+            }
+        ],
+        "background": "红色木质大门，光线自然",
+        "description_narrative": "中景侧拍跟拍镜头，明王妃转身离开，白色裙摆飞扬，背景为红色大门。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "中景侧拍镜头（跟拍）；红色木质大门，光线自然；画面左侧人物，身穿白色刺绣汉服，转身离开，裙摆飞扬，表情：眉毛平展，眼神向前，嘴唇紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面中央",
+                "action": "目送王妃离开，眼神复杂",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "红色木质门窗背景，虚化",
+        "description_narrative": "近景平拍固定镜头，明王目送王妃离开，眼神复杂，背景为红色门窗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；红色木质门窗背景，虚化；画面中央人物，身穿米金色长袍，目送王妃离开，眼神复杂，表情：眉毛微蹙，眼睛注视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太监",
+                "gender": "男",
+                "clothing": "深色服饰",
+                "position": "画面中央",
+                "action": "低头恭顺，传达口谕",
+                "expression": "眉毛低垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景，光线柔和",
+        "description_narrative": "特写俯拍固定镜头，太监身穿深色服饰，低头恭顺地传达口谕。",
+        "dialogue": "明王。",
+        "speaker": "太监",
+        "emotion": "恭顺",
+        "duration": 3.12,
+        "description_visual": "特写俯拍镜头；模糊背景，光线柔和；画面中央人物，身穿深色服饰，低头恭顺，传达口谕，表情：眉毛低垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面右侧",
+                "action": "转身面对太监，神情严肃",
+                "expression": "眉毛微蹙，眼睛注视，嘴唇紧闭"
+            }
+        ],
+        "background": "红色木质大门，光线自然",
+        "description_narrative": "中景侧拍固定镜头，明王转身面对太监，神情严肃，背景为红色大门。",
+        "dialogue": "皇上有请。",
+        "speaker": "太监",
+        "emotion": "恭顺",
+        "duration": 1.16,
+        "description_visual": "中景侧拍镜头；红色木质大门，光线自然；画面右侧人物，身穿米金色长袍，转身面对太监，神情严肃，表情：眉毛微蹙，眼睛注视，嘴唇紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "米金色长袍",
+                "position": "画面右侧",
+                "action": "站立不动，若有所思",
+                "expression": "眉毛平展，眼神向前，嘴唇紧闭"
+            }
+        ],
+        "background": "红色木质大门，光线自然",
+        "description_narrative": "中景平拍固定镜头，明王站立不动，若有所思，背景为红色大门。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头；红色木质大门，光线自然；画面右侧人物，身穿米金色长袍，站立不动，若有所思，表情：眉毛平展，眼神向前，嘴唇紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白色长袍",
+                "position": "画面右侧",
+                "action": "站在石桥上，询问医生",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "蓝色纹样长袍",
+                "position": "画面左侧",
+                "action": "站在旁边，聆听",
+                "expression": "眉毛平展，眼睛注视，嘴唇紧闭"
+            }
+        ],
+        "background": "石桥，绿树背景，光线自然",
+        "description_narrative": "中景仰拍固定镜头，年轻男子和梁神医站在石桥上，年轻男子正在询问，背景为绿树。",
+        "dialogue": "梁神医，明王妃的",
+        "speaker": "年轻男子",
+        "emotion": "好奇",
+        "duration": 2.36,
+        "description_visual": "中景仰拍镜头；石桥，绿树背景，光线自然；画面右侧人物，身穿白色长袍，站在石桥上，询问医生，表情：眉毛微挑，眼睛注视，嘴巴微张；画面左侧人物，身穿蓝色纹样长袍，站在旁边，聆听，表情：眉毛平展，眼睛注视，嘴唇紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "蓝色纹样长袍",
+                "position": "画面中央",
+                "action": "抚摸胡须，思考",
+                "expression": "眉毛微蹙，眼睛上视，嘴唇微动"
+            }
+        ],
+        "background": "绿树背景，虚化",
+        "description_narrative": "近景平拍固定镜头，梁神医抚摸胡须，似乎在思考如何回答，背景为绿树。",
+        "dialogue": "医术你怎么看？",
+        "speaker": "年轻男子",
+        "emotion": "询问",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；绿树背景，虚化；画面中央人物，身穿蓝色纹样长袍，抚摸胡须，思考，表情：眉毛微蹙，眼睛上视，嘴唇微动。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "蓝色纹样长袍",
+                "position": "画面中央",
+                "action": "认真回答，眼神诚恳",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "绿树背景，虚化",
+        "description_narrative": "特写平拍固定镜头，梁神医认真回答，眼神诚恳，背景为绿树。",
+        "dialogue": "我已观明王妃的针灸手法。",
+        "speaker": "梁神医",
+        "emotion": "认真",
+        "duration": 2.68,
+        "description_visual": "特写平拍镜头；绿树背景，虚化；画面中央人物，身穿蓝色纹样长袍，认真回答，眼神诚恳，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白色长袍",
+                "position": "画面中央",
+                "action": "表情惊讶，聆听",
+                "expression": "眉毛微挑，眼睛睁大，嘴唇紧闭"
+            }
+        ],
+        "background": "绿树背景，虚化",
+        "description_narrative": "近景平拍固定镜头，年轻男子表情惊讶，正在聆听梁神医的评价。",
+        "dialogue": "她的医术已远在我之上。",
+        "speaker": "梁神医",
+        "emotion": "佩服",
+        "duration": 2.32,
+        "description_visual": "近景平拍镜头；绿树背景，虚化；画面中央人物，身穿白色长袍，表情惊讶，聆听，表情：眉毛微挑，眼睛睁大，嘴唇紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梁神医",
+                "gender": "男",
+                "clothing": "蓝色纹样长袍",
+                "position": "画面中央",
+                "action": "摇头感叹，自愧不如",
+                "expression": "眉毛下垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "绿树背景，虚化",
+        "description_narrative": "特写平拍固定镜头，梁神医摇头感叹，自愧不如，背景为绿树。",
+        "dialogue": "在她面前自称神医，自愧不如。",
+        "speaker": "梁神医",
+        "emotion": "惭愧",
+        "duration": 3.32,
+        "description_visual": "特写平拍镜头；绿树背景，虚化；画面中央人物，身穿蓝色纹样长袍，摇头感叹，自愧不如，表情：眉毛下垂，眼睛下视，嘴巴微张。"
+    }
+]

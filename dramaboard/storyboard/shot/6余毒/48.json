@@ -1,0 +1,717 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林父",
+                "gender": "男",
+                "clothing": "深色西装，白衬衫",
+                "position": "画面右侧",
+                "action": "站立，身体微向前倾，双手自然下垂",
+                "expression": "眉毛微蹙，眼神躲闪，嘴巴微张"
+            },
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面左侧沙发",
+                "action": "坐姿端正，双手交叠放在腿上",
+                "expression": "眉毛舒展，目光直视，嘴唇紧闭"
+            },
+            {
+                "name": "林女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面左侧沙发",
+                "action": "坐姿放松，双臂交叉抱胸",
+                "expression": "眉毛微挑，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "现代客厅，落地窗，白色沙发，大理石茶几，光线明亮",
+        "description_narrative": "全景镜头，林父站在客厅右侧，神情焦虑地看着沙发上的林母和林女儿。林母身穿米色风衣端坐，林女儿身穿白色连衣裙抱臂而坐，两人均看向林父。",
+        "dialogue": "怎么回事？我刚才被赌场的人赶了出来。",
+        "speaker": "林父",
+        "emotion": "焦虑",
+        "duration": 2.74,
+        "description_visual": "全景平拍镜头；现代客厅，落地窗，白色沙发，大理石茶几，光线明亮；画面右侧人物，身穿深色西装，白衬衫，站立，身体微向前倾，双手自然下垂，表情：眉毛微蹙，眼神躲闪，嘴巴微张；画面左侧沙发人物，身穿米色风衣，黑色内搭，坐姿端正，双手交叠放在腿上，表情：眉毛舒展，目光直视，嘴唇紧闭；画面左侧沙发人物，身穿白色针织连衣裙，坐姿放松，双臂交叉抱胸，表情：眉毛微挑，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林父",
+                "gender": "男",
+                "clothing": "深色西装，白衬衫",
+                "position": "画面中央",
+                "action": "站立，双手微微握拳垂在身侧",
+                "expression": "眉毛紧锁，眼神向下，嘴巴微张说话"
+            }
+        ],
+        "background": "客厅背景，窗帘，电视柜",
+        "description_narrative": "中近景镜头聚焦林父，他身穿深色西装，表情凝重，双手微握，正在解释自己刚才被赌场赶出来的遭遇。",
+        "dialogue": "我刚才被赌场的人赶了出来",
+        "speaker": "林父",
+        "emotion": "窘迫",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；客厅背景，窗帘，电视柜；画面中央人物，身穿深色西装，白衬衫，站立，双手微微握拳垂在身侧，表情：眉毛紧锁，眼神向下，嘴巴微张说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微前倾",
+                "expression": "眉毛微蹙，眼神关切，嘴巴微张询问"
+            }
+        ],
+        "background": "百叶窗背景，白色沙发靠垫",
+        "description_narrative": "近景镜头给到林母，她身穿米色风衣，坐在沙发上，身体微前倾，神情严肃地询问是否林家出事了。",
+        "dialogue": "是林家出事了吗？",
+        "speaker": "林母",
+        "emotion": "严肃",
+        "duration": 1.58,
+        "description_visual": "近景平拍镜头；百叶窗背景，白色沙发靠垫；画面中央人物，身穿米色风衣，黑色内搭，坐在沙发上，身体微前倾，表情：眉毛微蹙，眼神关切，嘴巴微张询问。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手放在膝盖上",
+                "expression": "眉毛平展，眼神专注，嘴唇微动"
+            }
+        ],
+        "background": "百叶窗背景，白色沙发",
+        "description_narrative": "近景镜头，林母坐在沙发上，神情冷峻，此时画外传来林父的声音，解释网上有人爆料的事情。",
+        "dialogue": "网上有人爆料。",
+        "speaker": "林父 (画外音)",
+        "emotion": "沉重",
+        "duration": 2.82,
+        "description_visual": "近景平拍镜头；百叶窗背景，白色沙发；画面中央人物，身穿米色风衣，黑色内搭，坐在沙发上，双手放在膝盖上，表情：眉毛平展，眼神专注，嘴唇微动。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林父",
+                "gender": "男",
+                "clothing": "深色西装，白衬衫",
+                "position": "画面右侧",
+                "action": "站立，侧身对着沙发",
+                "expression": "表情严肃，目光看向窗外"
+            },
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面左侧沙发",
+                "action": "坐姿端正，看向林父",
+                "expression": "眉头紧锁，神情凝重"
+            },
+            {
+                "name": "林女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面左侧沙发",
+                "action": "抱臂坐着，低头",
+                "expression": "眼神低垂，表情担忧"
+            }
+        ],
+        "background": "客厅全景，落地窗，茶几",
+        "description_narrative": "全景镜头，三人处于客厅中。林父站在右侧，林母和林女儿坐在左侧沙发上。画外音继续讲述傅家和林家税务有严重问题。",
+        "dialogue": "傅家和林家近年来税务有严重问题",
+        "speaker": "林父 (画外音)",
+        "emotion": "焦虑",
+        "duration": 2.1,
+        "description_visual": "全景平拍镜头；客厅全景，落地窗，茶几；画面右侧人物，身穿深色西装，白衬衫，站立，侧身对着沙发，表情：表情严肃，目光看向窗外；画面左侧沙发人物，身穿米色风衣，黑色内搭，坐姿端正，看向林父，表情：眉头紧锁，神情凝重；画面左侧沙发人物，身穿白色针织连衣裙，抱臂坐着，低头，表情：眼神低垂，表情担忧。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交握",
+                "expression": "眉毛微挑，眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "百叶窗背景，白色沙发",
+        "description_narrative": "近景镜头，林母坐在沙发上，神情严肃。画外音继续补充说还牵扯一些项目不正当竞争。",
+        "dialogue": "还牵扯一些项目不正当竞争",
+        "speaker": "林父 (画外音)",
+        "emotion": "冷峻",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；百叶窗背景，白色沙发；画面中央人物，身穿米色风衣，黑色内搭，坐在沙发上，双手交握，表情：眉毛微挑，眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林父",
+                "gender": "男",
+                "clothing": "深色西装，白衬衫",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛紧锁，眼神沉重，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅背景，窗帘",
+        "description_narrative": "中近景镜头，林父站在客厅中，表情沉重，似乎在消化刚才所说的不正当竞争的问题。",
+        "dialogue": "还牵扯一些项目不正当竞争",
+        "speaker": "林父",
+        "emotion": "沉重",
+        "duration": 6.1,
+        "description_visual": "中近景平拍镜头；客厅背景，窗帘；画面中央人物，身穿深色西装，白衬衫，站立，双手自然下垂，表情：眉毛紧锁，眼神沉重，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，双臂交叉",
+                "expression": "眉毛微扬，眼神不屑，嘴巴微张"
+            }
+        ],
+        "background": "窗帘背景，模糊的窗外",
+        "description_narrative": "近景镜头，林女儿身穿白色针织裙，双臂交叉抱胸，神情有些天真和不屑，认为林家家大业大。",
+        "dialogue": "林家家大业大。",
+        "speaker": "林女儿",
+        "emotion": "自信",
+        "duration": 4.02,
+        "description_visual": "近景平拍镜头；窗帘背景，模糊的窗外；画面中央人物，身穿白色针织连衣裙，坐在沙发上，双臂交叉，表情：眉毛微扬，眼神不屑，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，双臂紧抱",
+                "expression": "眉毛紧蹙，眼神愤怒，嘴巴微张说话"
+            }
+        ],
+        "background": "窗帘背景，模糊的窗外",
+        "description_narrative": "近景镜头，林女儿表情变得愤怒，双臂紧抱，质问母亲什么时候捕风捉影的传闻也能影响林家。",
+        "dialogue": "岂能容他们放肆？妈，什么时候这种捕风捉影的传闻也能影响林家？",
+        "speaker": "林女儿",
+        "emotion": "愤怒",
+        "duration": 1.5,
+        "description_visual": "近景平拍镜头；窗帘背景，模糊的窗外；画面中央人物，身穿白色针织连衣裙，坐在沙发上，双臂紧抱，表情：眉毛紧蹙，眼神愤怒，嘴巴微张说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微前倾",
+                "expression": "眉毛紧锁，眼神严肃，嘴巴微动"
+            }
+        ],
+        "background": "百叶窗背景，白色沙发",
+        "description_narrative": "近景镜头，林母神情严肃地告诉女儿，相关部门已经介入调查，证据已交给检察机构。",
+        "dialogue": "相关部门已经介入调查，一些证据已经交给了检察机构。",
+        "speaker": "林母",
+        "emotion": "严肃",
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；百叶窗背景，白色沙发；画面中央人物，身穿米色风衣，黑色内搭，坐在沙发上，身体微前倾，表情：眉毛紧锁，眼神严肃，嘴巴微动。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，低头",
+                "expression": "眉毛下垂，眼神失落，嘴巴微张"
+            }
+        ],
+        "background": "窗帘背景，模糊的窗外",
+        "description_narrative": "近景镜头，林女儿听到消息后，神情变得担忧和失落，低头喃喃自语怎么会这样。",
+        "dialogue": "怎么会这样？",
+        "speaker": "林女儿",
+        "emotion": "担忧",
+        "duration": 3.14,
+        "description_visual": "近景平拍镜头；窗帘背景，模糊的窗外；画面中央人物，身穿白色针织连衣裙，坐在沙发上，低头，表情：眉毛下垂，眼神失落，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林父",
+                "gender": "男",
+                "clothing": "深色西装，白衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛紧锁，眼神担忧，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景，窗帘",
+        "description_narrative": "中近景镜头，林父站在客厅中，神情焦虑，担心林家会不会出事。",
+        "dialogue": "这林家不会出事吧",
+        "speaker": "林父",
+        "emotion": "恐惧",
+        "duration": 4.44,
+        "description_visual": "中近景平拍镜头；客厅背景，窗帘；画面中央人物，身穿深色西装，白衬衫，站立，身体微侧，表情：眉毛紧锁，眼神担忧，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交握",
+                "expression": "眉毛舒展，眼神坚定，嘴巴微动"
+            }
+        ],
+        "background": "百叶窗背景，白色沙发",
+        "description_narrative": "近景镜头，林母坐在沙发上，语气强硬地说林家再怎么着也是江氏族有头有脸的家族。",
+        "dialogue": "林家再怎么着，也是江氏族有头有脸的家族。",
+        "speaker": "林母",
+        "emotion": "强势",
+        "duration": 3.32,
+        "description_visual": "近景平拍镜头；百叶窗背景，白色沙发；画面中央人物，身穿米色风衣，黑色内搭，坐在沙发上，双手交握，表情：眉毛舒展，眼神坚定，嘴巴微动。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林女儿",
+                "gender": "女",
+                "clothing": "白色针织连衣裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，低头",
+                "expression": "眉毛低垂，眼神黯淡，嘴巴紧闭"
+            }
+        ],
+        "background": "窗帘背景，模糊的窗外",
+        "description_narrative": "近景镜头，林女儿低头听着母亲的话，画外音继续强调林家是有头有脸的家族。",
+        "dialogue": "也是江氏族有头有脸的家族",
+        "speaker": "林母 (画外音)",
+        "emotion": "坚定",
+        "duration": 4.52,
+        "description_visual": "近景平拍镜头；窗帘背景，模糊的窗外；画面中央人物，身穿白色针织连衣裙，坐在沙发上，低头，表情：眉毛低垂，眼神黯淡，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交握",
+                "expression": "眉毛微蹙，眼神担忧，嘴巴微动"
+            }
+        ],
+        "background": "百叶窗背景，白色沙发",
+        "description_narrative": "近景镜头，林母坐在沙发上，画外传来林女儿的声音，说只要父亲没事就行，爷爷不能出事。",
+        "dialogue": "只要父亲没事就行，对 爷千万不能在这个时候出事。",
+        "speaker": "林女儿 (画外音)",
+        "emotion": "担忧",
+        "duration": 3.3,
+        "description_visual": "近景平拍镜头；百叶窗背景，白色沙发；画面中央人物，身穿米色风衣，黑色内搭，坐在沙发上，双手交握，表情：眉毛微蹙，眼神担忧，嘴巴微动。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林父",
+                "gender": "男",
+                "clothing": "深色西装，白衬衫",
+                "position": "画面中央",
+                "action": "站立，身体僵硬",
+                "expression": "眉毛紧锁，眼神惊恐，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景，窗帘",
+        "description_narrative": "中近景镜头，林父听到画外音（林母）提起他和顾卿的女儿当年没有死，表情瞬间变得惊恐。",
+        "dialogue": "你跟顾卿那个女人生的女儿当年没有死。",
+        "speaker": "林母 (画外音)",
+        "emotion": "震惊",
+        "duration": 3.14,
+        "description_visual": "中近景平拍镜头；客厅背景，窗帘；画面中央人物，身穿深色西装，白衬衫，站立，身体僵硬，表情：眉毛紧锁，眼神惊恐，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林父",
+                "gender": "男",
+                "clothing": "深色西装，白衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微颤",
+                "expression": "眉毛紧锁，眼神躲闪，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景，窗帘",
+        "description_narrative": "中近景镜头，林父站在客厅中，重复着“当年没有死”，神情恍惚，似乎不敢相信。",
+        "dialogue": "当年没有死",
+        "speaker": "林父",
+        "emotion": "恍惚",
+        "duration": 2.42,
+        "description_visual": "中近景平拍镜头；客厅背景，窗帘；画面中央人物，身穿深色西装，白衬衫，站立，身体微颤，表情：眉毛紧锁，眼神躲闪，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微前倾",
+                "expression": "眉毛微挑，眼神担忧，嘴巴微张"
+            }
+        ],
+        "background": "百叶窗背景，白色沙发",
+        "description_narrative": "近景镜头，林母坐在沙发上，画外传来林父的声音，担心程晓没死会不会报复他。",
+        "dialogue": "程晓没有死，那她会不会报复我呀？",
+        "speaker": "林父 (画外音)",
+        "emotion": "恐惧",
+        "duration": 3.06,
+        "description_visual": "近景平拍镜头；百叶窗背景，白色沙发；画面中央人物，身穿米色风衣，黑色内搭，坐在沙发上，身体微前倾，表情：眉毛微挑，眼神担忧，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林父",
+                "gender": "男",
+                "clothing": "深色西装，白衬衫",
+                "position": "画面中央",
+                "action": "站立，侧身",
+                "expression": "眉毛紧锁，眼神无奈，嘴巴微动"
+            }
+        ],
+        "background": "客厅背景，窗帘",
+        "description_narrative": "中近景镜头，林父站在客厅中，画外传来林母的命令，让他去找程晓联络感情，林家需要帮忙。",
+        "dialogue": "你去找她联络联络感情，林家需要他帮忙。",
+        "speaker": "林母 (画外音)",
+        "emotion": "命令",
+        "duration": 3.94,
+        "description_visual": "中近景平拍镜头；客厅背景，窗帘；画面中央人物，身穿深色西装，白衬衫，站立，侧身，表情：眉毛紧锁，眼神无奈，嘴巴微动。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交握",
+                "expression": "眉毛微蹙，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "百叶窗背景，白色沙发",
+        "description_narrative": "近景镜头，林母坐在沙发上，画外传来林父的质疑声，问程晓能帮什么忙。",
+        "dialogue": "她程晓能帮什么忙？",
+        "speaker": "林父 (画外音)",
+        "emotion": "质疑",
+        "duration": 3.1,
+        "description_visual": "近景平拍镜头；百叶窗背景，白色沙发；画面中央人物，身穿米色风衣，黑色内搭，坐在沙发上，双手交握，表情：眉毛微蹙，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体前倾",
+                "expression": "眉毛紧锁，眼神严厉，嘴巴微张"
+            }
+        ],
+        "background": "百叶窗背景，白色沙发",
+        "description_narrative": "近景镜头，林母神情严厉，强势地表示她说的就是命令。",
+        "dialogue": "我说的就是命令",
+        "speaker": "林母",
+        "emotion": "强势",
+        "duration": 5.04,
+        "description_visual": "近景平拍镜头；百叶窗背景，白色沙发；画面中央人物，身穿米色风衣，黑色内搭，坐在沙发上，身体前倾，表情：眉毛紧锁，眼神严厉，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面左侧",
+                "action": "坐在桌边，身体前倾",
+                "expression": "眉毛微蹙，眼神关切，嘴巴微张"
+            },
+            {
+                "name": "顾晓",
+                "gender": "女",
+                "clothing": "粉色蝴蝶结衬衫",
+                "position": "画面右侧",
+                "action": "坐在桌边，低头",
+                "expression": "眉毛低垂，眼神冷漠，嘴巴紧闭"
+            }
+        ],
+        "background": "餐厅/咖啡厅，木桌，楼梯背景，装饰植物",
+        "description_narrative": "全景镜头切换到另一场景，景少和顾晓坐在木桌旁。景少身体前倾关切地看着顾晓，顾晓低头冷漠。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.26,
+        "description_visual": "全景平拍镜头；餐厅/咖啡厅，木桌，楼梯背景，装饰植物；画面左侧人物，身穿米色风衣，白衬衫，坐在桌边，身体前倾，表情：眉毛微蹙，眼神关切，嘴巴微张；画面右侧人物，身穿粉色蝴蝶结衬衫，坐在桌边，低头，表情：眉毛低垂，眼神冷漠，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面左侧",
+                "action": "坐在桌边，看着顾晓",
+                "expression": "眉毛微蹙，眼神专注，嘴巴微动"
+            },
+            {
+                "name": "顾晓",
+                "gender": "女",
+                "clothing": "粉色蝴蝶结衬衫",
+                "position": "画面右侧",
+                "action": "坐在桌边，双手握杯",
+                "expression": "眉毛低垂，眼神回避，嘴巴紧闭"
+            }
+        ],
+        "background": "餐厅/咖啡厅，木桌，装饰植物",
+        "description_narrative": "全景镜头，景少坐在桌边，轻声呼唤“顾小姐”，试图引起顾晓的注意。",
+        "dialogue": "顾小姐。",
+        "speaker": "景少",
+        "emotion": "关切",
+        "duration": 4.12,
+        "description_visual": "全景平拍镜头；餐厅/咖啡厅，木桌，装饰植物；画面左侧人物，身穿米色风衣，白衬衫，坐在桌边，看着顾晓，表情：眉毛微蹙，眼神专注，嘴巴微动；画面右侧人物，身穿粉色蝴蝶结衬衫，坐在桌边，双手握杯，表情：眉毛低垂，眼神回避，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面中央",
+                "action": "坐在桌边，身体前倾",
+                "expression": "眉毛紧锁，眼神担忧，嘴巴微张"
+            }
+        ],
+        "background": "楼梯背景，装饰鹿",
+        "description_narrative": "近景镜头，景少神情担忧地问顾晓，为了复仇是否真的什么都不顾了。",
+        "dialogue": "你为了复仇，真的什么都不顾了吗？",
+        "speaker": "景少",
+        "emotion": "担忧",
+        "duration": 3.02,
+        "description_visual": "近景平拍镜头；楼梯背景，装饰鹿；画面中央人物，身穿米色风衣，白衬衫，坐在桌边，身体前倾，表情：眉毛紧锁，眼神担忧，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾晓",
+                "gender": "女",
+                "clothing": "粉色蝴蝶结衬衫",
+                "position": "画面中央",
+                "action": "坐在桌边，双手握杯",
+                "expression": "眉毛低垂，眼神冷漠，嘴巴微动"
+            }
+        ],
+        "background": "厨房/吧台背景，模糊",
+        "description_narrative": "近景镜头，顾晓低头握着杯子，冷漠地表示自己的事情不用景少管。",
+        "dialogue": "我的事情不用你管，谢谢。",
+        "speaker": "顾晓",
+        "emotion": "冷漠",
+        "duration": 4.74,
+        "description_visual": "近景平拍镜头；厨房/吧台背景，模糊；画面中央人物，身穿粉色蝴蝶结衬衫，坐在桌边，双手握杯，表情：眉毛低垂，眼神冷漠，嘴巴微动。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "景少",
+                "gender": "男",
+                "clothing": "米色风衣，白衬衫",
+                "position": "画面中央",
+                "action": "坐在桌边，看着顾晓",
+                "expression": "眉毛微挑，眼神期待，嘴巴微张"
+            }
+        ],
+        "background": "楼梯背景，装饰鹿",
+        "description_narrative": "近景镜头，景少看着顾晓，试探性地问她是不是有空一起吃饭。",
+        "dialogue": "顾小姐 你是不是有空",
+        "speaker": "景少",
+        "emotion": "期待",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；楼梯背景，装饰鹿；画面中央人物，身穿米色风衣，白衬衫，坐在桌边，看着顾晓，表情：眉毛微挑，眼神期待，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色三件套西装，领带",
+                "position": "画面中央",
+                "action": "站立，侧身，手插口袋",
+                "expression": "眉毛平展，眼神冷峻，嘴巴微动"
+            }
+        ],
+        "background": "纯色背景，光线明亮",
+        "description_narrative": "中近景镜头，一名身穿灰色西装的男子突然出现，冷峻地替顾晓回答“不，她没空”。",
+        "dialogue": "不，她没空。",
+        "speaker": "西装男",
+        "emotion": "冷峻",
+        "duration": 3.9,
+        "description_visual": "中近景平拍镜头；纯色背景，光线明亮；画面中央人物，身穿灰色三件套西装，领带，站立，侧身，手插口袋，表情：眉毛平展，眼神冷峻，嘴巴微动。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色三件套西装，领带",
+                "position": "画面中央",
+                "action": "站立，逆光",
+                "expression": "五官在强光下模糊，轮廓冷峻"
+            }
+        ],
+        "background": "强光背景，过曝",
+        "description_narrative": "中近景镜头，西装男站在强光中，画面过曝，营造出神秘和压迫感。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.36,
+        "description_visual": "中近景仰拍镜头；强光背景，过曝；画面中央人物，身穿灰色三件套西装，领带，站立，逆光，表情：五官在强光下模糊，轮廓冷峻。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色三件套西装，领带",
+                "position": "画面中央",
+                "action": "站立，逆光",
+                "expression": "五官在强光下模糊，轮廓冷峻"
+            }
+        ],
+        "background": "强光背景，过曝",
+        "description_narrative": "中近景镜头，西装男依旧站在强光中，画面持续过曝，强调其气场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.78,
+        "description_visual": "中近景仰拍镜头；强光背景，过曝；画面中央人物，身穿灰色三件套西装，领带，站立，逆光，表情：五官在强光下模糊，轮廓冷峻。"
+    }
+]

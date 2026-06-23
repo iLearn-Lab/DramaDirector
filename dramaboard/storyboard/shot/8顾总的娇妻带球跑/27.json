@@ -1,0 +1,1048 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体。",
+        "description_narrative": "画面全黑，无可见人物或场景细节，持续0.78秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.78,
+        "description_visual": "远景平拍镜头；纯黑背景，无可见物体。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面右侧前景",
+                "action": "背对镜头向办公室内部走去，右臂自然摆动。",
+                "expression": "不可见（背对镜头）。"
+            }
+        ],
+        "background": "现代化办公室入口，左侧有灰色文件柜，柜上摆放花瓶和装饰画，光线明亮。",
+        "description_narrative": "镜头跟随顾总背影，他身穿深色条纹西装，正步入办公室，画面右侧可见其身体轮廓，左侧为办公区域陈设。",
+        "dialogue": "顾总",
+        "speaker": "未知",
+        "emotion": null,
+        "duration": 1.03,
+        "description_visual": "中景平拍镜头（跟拍）；现代化办公室入口，左侧有灰色文件柜，柜上摆放花瓶和装饰画，光线明亮。；画面右侧前景人物，身穿深色条纹西装，背对镜头向办公室内部走去，右臂自然摆动。，表情：不可见（背对镜头）。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙，佩戴珍珠项链",
+                "position": "画面中央",
+                "action": "手持蓝色文件夹快步走向前方，身体微侧，眼神看向前方。",
+                "expression": "眉毛微蹙，嘴巴微张，神情急切。"
+            }
+        ],
+        "background": "办公室走廊，背景可见玻璃门和办公区，光线柔和。",
+        "description_narrative": "慕青青身穿白色连衣裙，怀抱蓝色文件夹，步伐匆忙地穿过走廊，似乎有紧急事务要处理。",
+        "dialogue": "这里有几份文件需要您先确认",
+        "speaker": "慕青青",
+        "emotion": "急切",
+        "duration": 2.25,
+        "description_visual": "中景平拍镜头（跟拍）；办公室走廊，背景可见玻璃门和办公区，光线柔和。；画面中央人物，身穿白色荷叶边连衣裙，佩戴珍珠项链，手持蓝色文件夹快步走向前方，身体微侧，眼神看向前方。，表情：眉毛微蹙，嘴巴微张，神情急切。。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，领带",
+                "position": "画面中央",
+                "action": "坐在办公桌后，双手放在桌面上，目光看向右侧递过来的文件。",
+                "expression": "眉毛平展，眼神平静，嘴唇紧闭。"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙",
+                "position": "画面右侧边缘",
+                "action": "双手递出蓝色文件夹。",
+                "expression": "不可见（仅手部可见）。"
+            }
+        ],
+        "background": "办公桌区域，桌上有绿色植物和鹿形摆件，背景为书架。",
+        "description_narrative": "顾总坐在宽大的办公桌后，慕青青从画面右侧递上文件，顾总目光落在文件上，神情淡然。",
+        "dialogue": "麻烦您处理一下",
+        "speaker": "慕青青",
+        "emotion": "恭敬",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；办公桌区域，桌上有绿色植物和鹿形摆件，背景为书架。；画面中央人物，身穿深色条纹西装，白衬衫，领带，坐在办公桌后，双手放在桌面上，目光看向右侧递过来的文件。，表情：眉毛平展，眼神平静，嘴唇紧闭。；画面右侧边缘人物，身穿白色荷叶边连衣裙，双手递出蓝色文件夹。，表情：不可见（仅手部可见）。。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙，佩戴珍珠项链",
+                "position": "画面中央",
+                "action": "侧身站立，头部微低，视线向下。",
+                "expression": "眉毛微垂，眼神躲闪，嘴唇微抿。"
+            }
+        ],
+        "background": "办公室内景，背景模糊，可见深色柜体。",
+        "description_narrative": "镜头特写慕青青的侧脸，她神情略显紧张，目光低垂，似乎在等待回应。",
+        "dialogue": "慕青青",
+        "speaker": "顾总",
+        "emotion": "紧张",
+        "duration": 0.98,
+        "description_visual": "特写平拍镜头；办公室内景，背景模糊，可见深色柜体。；画面中央人物，身穿白色荷叶边连衣裙，佩戴珍珠项链，侧身站立，头部微低，视线向下。，表情：眉毛微垂，眼神躲闪，嘴唇微抿。。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装，白衬衫，领带",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交叠放在桌上，目光看向右侧。",
+                "expression": "眉毛微挑，眼神锐利，嘴唇微张。"
+            }
+        ],
+        "background": "办公桌区域，前景有绿色植物和鹿形摆件，背景为书架。",
+        "description_narrative": "顾总坐在办公桌后，目光投向右侧的慕青青，神情带有质疑，似乎对文件的内容或递交者感到意外。",
+        "dialogue": "我记得这个事情，不是该你负责的吧？",
+        "speaker": "顾总",
+        "emotion": "质疑",
+        "duration": 1.97,
+        "description_visual": "中近景平拍镜头；办公桌区域，前景有绿色植物和鹿形摆件，背景为书架。；画面中央人物，身穿深色条纹西装，白衬衫，领带，坐在桌前，双手交叠放在桌上，目光看向右侧。，表情：眉毛微挑，眼神锐利，嘴唇微张。。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙，佩戴珍珠项链",
+                "position": "画面中央",
+                "action": "侧身站立，头部微低，视线向下。",
+                "expression": "眉毛微蹙，眼神下垂，嘴唇紧闭。"
+            }
+        ],
+        "background": "办公室内景，背景为深色柜体。",
+        "description_narrative": "镜头再次给到慕青青侧脸特写，她面对质问没有立刻回答，神情显得有些委屈和沉默。",
+        "dialogue": "不是该你负责的吧",
+        "speaker": "顾总",
+        "emotion": "委屈",
+        "duration": 1.27,
+        "description_visual": "特写平拍镜头；办公室内景，背景为深色柜体。；画面中央人物，身穿白色荷叶边连衣裙，佩戴珍珠项链，侧身站立，头部微低，视线向下。，表情：眉毛微蹙，眼神下垂，嘴唇紧闭。。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧",
+                "action": "坐在办公桌后，抬头看向站在桌边的慕青青。",
+                "expression": "眉毛微皱，眼神注视对方。"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙",
+                "position": "画面右侧",
+                "action": "站在桌边，双手拿着文件夹，身体微向前倾。",
+                "expression": "表情严肃，目光看着顾总。"
+            }
+        ],
+        "background": "办公室全景，书柜上有红色荣誉证书，桌上有电脑和摆件。",
+        "description_narrative": "全景镜头展示办公室内两人对峙的场景，慕青青站在桌边解释，顾总坐在椅上倾听，气氛略显紧张。",
+        "dialogue": "张秘书，她太忙，所以就...",
+        "speaker": "慕青青",
+        "emotion": "解释",
+        "duration": 3.0,
+        "description_visual": "全景平拍镜头；办公室全景，书柜上有红色荣誉证书，桌上有电脑和摆件。；画面左侧人物，身穿深色条纹西装，坐在办公桌后，抬头看向站在桌边的慕青青。，表情：眉毛微皱，眼神注视对方。；画面右侧人物，身穿白色荷叶边连衣裙，站在桌边，双手拿着文件夹，身体微向前倾。，表情：表情严肃，目光看着顾总。。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "坐在椅上，头部微抬，目光向上看。",
+                "expression": "眉毛舒展，眼神向上，嘴唇微张。"
+            }
+        ],
+        "background": "办公桌区域，前景有绿色植物。",
+        "description_narrative": "镜头仰拍顾总，他微微抬头，似乎在思考或回忆，神情略显不耐。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "不耐",
+        "duration": 0.73,
+        "description_visual": "中近景仰拍镜头；办公桌区域，前景有绿色植物。；画面中央人物，身穿深色条纹西装，坐在椅上，头部微抬，目光向上看。，表情：眉毛舒展，眼神向上，嘴唇微张。。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "从座位上站起身，双手撑在桌面上。",
+                "expression": "眉毛紧锁，眼神严肃，嘴巴微张说话。"
+            }
+        ],
+        "background": "办公桌区域，背景书柜可见。",
+        "description_narrative": "顾总突然从座位上站起，身体前倾，双手撑桌，神情变得严厉，似乎要打断对方的解释。",
+        "dialogue": "慕青青。",
+        "speaker": "顾总",
+        "emotion": "严厉",
+        "duration": 0.37,
+        "description_visual": "中景平拍镜头（推进）；办公桌区域，背景书柜可见。；画面中央人物，身穿深色条纹西装，从座位上站起身，双手撑在桌面上。，表情：眉毛紧锁，眼神严肃，嘴巴微张说话。。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "站立在桌前，身体微侧，目光看向右侧。",
+                "expression": "眉毛微蹙，眼神锐利，嘴唇紧闭。"
+            }
+        ],
+        "background": "办公桌区域，背景书柜上有红色证书。",
+        "description_narrative": "顾总站立在办公桌前，身体紧绷，目光紧紧盯着慕青青，等待她的反应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 0.27,
+        "description_visual": "中景平拍镜头；办公桌区域，背景书柜上有红色证书。；画面中央人物，身穿深色条纹西装，站立在桌前，身体微侧，目光看向右侧。，表情：眉毛微蹙，眼神锐利，嘴唇紧闭。。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "站立，身体微向前倾，目光注视前方。",
+                "expression": "眉毛微挑，眼神复杂，嘴唇微张。"
+            }
+        ],
+        "background": "办公桌区域，背景书柜。",
+        "description_narrative": "顾总保持着站立的姿势，目光中带着情绪，似乎准备说出一番重话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 0.53,
+        "description_visual": "中近景平拍镜头；办公桌区域，背景书柜。；画面中央人物，身穿深色条纹西装，站立，身体微向前倾，目光注视前方。，表情：眉毛微挑，眼神复杂，嘴唇微张。。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧",
+                "action": "站立，侧身对着镜头，目光看向右侧。",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴微张。"
+            }
+        ],
+        "background": "办公桌区域，背景书柜上有红色证书。",
+        "description_narrative": "顾总侧身站立，情绪激动地质问，面部表情显示出明显的不满和指责。",
+        "dialogue": "你为什么对别人那么好，对我那么无情，那么狠？",
+        "speaker": "顾总",
+        "emotion": "愤怒",
+        "duration": 2.27,
+        "description_visual": "中近景平拍镜头；办公桌区域，背景书柜上有红色证书。；画面左侧人物，身穿深色条纹西装，站立，侧身对着镜头，目光看向右侧。，表情：眉毛紧锁，眼神愤怒，嘴巴微张。。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙，佩戴珍珠项链",
+                "position": "画面中央",
+                "action": "低头站立，双手拿着文件夹。",
+                "expression": "眉毛下垂，眼神悲伤，嘴唇紧闭。"
+            }
+        ],
+        "background": "办公室内景，背景模糊。",
+        "description_narrative": "镜头特写慕青青，她低着头，承受着顾总的指责，神情显得无助和难过。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 0.38,
+        "description_visual": "特写平拍镜头；办公室内景，背景模糊。；画面中央人物，身穿白色荷叶边连衣裙，佩戴珍珠项链，低头站立，双手拿着文件夹。，表情：眉毛下垂，眼神悲伤，嘴唇紧闭。。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "站立，身体微侧，目光看向右侧。",
+                "expression": "眉毛微蹙，眼神复杂，嘴唇微张。"
+            }
+        ],
+        "background": "办公桌区域，背景书柜。",
+        "description_narrative": "顾总站立在原地，情绪稍缓，但目光依然停留在慕青青身上，似乎在等待她的解释。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 0.78,
+        "description_visual": "中景平拍镜头；办公桌区域，背景书柜。；画面中央人物，身穿深色条纹西装，站立，身体微侧，目光看向右侧。，表情：眉毛微蹙，眼神复杂，嘴唇微张。。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "站立，侧身，嘴巴微张说话。",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴张开。"
+            }
+        ],
+        "background": "办公桌区域，背景书柜。",
+        "description_narrative": "顾总继续发泄情绪，话语中带着强烈的指责意味，面部表情因激动而略显扭曲。",
+        "dialogue": "还想把",
+        "speaker": "顾总",
+        "emotion": "愤怒",
+        "duration": 0.67,
+        "description_visual": "中近景平拍镜头；办公桌区域，背景书柜。；画面中央人物，身穿深色条纹西装，站立，侧身，嘴巴微张说话。，表情：眉毛紧锁，眼神愤怒，嘴巴张开。。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧",
+                "action": "站立，侧身，目光看向右侧。",
+                "expression": "眉毛紧锁，眼神锐利，嘴巴微张。"
+            }
+        ],
+        "background": "办公桌区域，背景书柜。",
+        "description_narrative": "顾总说完半句话后停顿，目光紧紧盯着慕青青，似乎在强调某个名字或关系。",
+        "dialogue": "慕媛媛，和我绑在一块。",
+        "speaker": "顾总",
+        "emotion": "愤怒",
+        "duration": 1.03,
+        "description_visual": "中近景平拍镜头；办公桌区域，背景书柜。；画面左侧人物，身穿深色条纹西装，站立，侧身，目光看向右侧。，表情：眉毛紧锁，眼神锐利，嘴巴微张。。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧",
+                "action": "站立，身体前倾，靠近慕青青。",
+                "expression": "眉毛紧锁，眼神压迫，嘴巴微张。"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙",
+                "position": "画面右侧",
+                "action": "站立，低头，侧脸可见。",
+                "expression": "表情隐忍，目光下垂。"
+            }
+        ],
+        "background": "办公桌区域，背景书柜上有红色证书。",
+        "description_narrative": "顾总身体前倾逼近慕青青，语气中带着讽刺和质问，慕青青低头沉默，气氛压抑。",
+        "dialogue": "下一次又要给我带来什么惊喜？",
+        "speaker": "顾总",
+        "emotion": "讽刺",
+        "duration": 2.47,
+        "description_visual": "中近景平拍镜头；办公桌区域，背景书柜上有红色证书。；画面左侧人物，身穿深色条纹西装，站立，身体前倾，靠近慕青青。，表情：眉毛紧锁，眼神压迫，嘴巴微张。；画面右侧人物，身穿白色荷叶边连衣裙，站立，低头，侧脸可见。，表情：表情隐忍，目光下垂。。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "站立，闭上眼睛，头部微低。",
+                "expression": "眉毛舒展，眼睛闭合，嘴唇紧闭。"
+            }
+        ],
+        "background": "办公桌区域，背景书柜。",
+        "description_narrative": "顾总说完后闭上眼睛，似乎在平复情绪或感到疲惫，身体姿态略显放松。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疲惫",
+        "duration": 0.7,
+        "description_visual": "中近景平拍镜头；办公桌区域，背景书柜。；画面中央人物，身穿深色条纹西装，站立，闭上眼睛，头部微低。，表情：眉毛舒展，眼睛闭合，嘴唇紧闭。。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙",
+                "position": "画面中央",
+                "action": "双手紧紧握着蓝色文件夹。",
+                "expression": "不可见（仅手部可见）。"
+            }
+        ],
+        "background": "模糊背景，可见白色衣袖。",
+        "description_narrative": "镜头特写慕青青的双手，她紧紧抓着文件夹，指节微白，显示出内心的紧张或用力。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.33,
+        "description_visual": "特写平拍镜头；模糊背景，可见白色衣袖。；画面中央人物，身穿白色荷叶边连衣裙，双手紧紧握着蓝色文件夹。，表情：不可见（仅手部可见）。。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面中央",
+                "action": "坐在椅上，背对镜头，头部微侧。",
+                "expression": "不可见（背对镜头）。"
+            }
+        ],
+        "background": "办公室内景，背景书柜。",
+        "description_narrative": "镜头从顾总背后拍摄，他靠在椅背上，似乎在回避或结束对话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；办公室内景，背景书柜。；画面中央人物，身穿深色条纹西装，坐在椅上，背对镜头，头部微侧。，表情：不可见（背对镜头）。。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "站立，看着顾总的背影。",
+                "expression": "眉毛微蹙，眼神悲伤，嘴唇微张。"
+            },
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧前景",
+                "action": "背影，坐在椅上。",
+                "expression": "不可见。"
+            }
+        ],
+        "background": "办公室内景，背景简洁。",
+        "description_narrative": "过肩镜头，慕青青看着顾总的背影，眼中含泪，神情委屈，轻声道歉。",
+        "dialogue": "对不起。",
+        "speaker": "慕青青",
+        "emotion": "委屈",
+        "duration": 2.48,
+        "description_visual": "中近景过肩镜头；办公室内景，背景简洁。；画面右侧人物，身穿白色荷叶边连衣裙，佩戴珍珠项链，站立，看着顾总的背影。，表情：眉毛微蹙，眼神悲伤，嘴唇微张。；画面左侧前景人物，身穿深色条纹西装，背影，坐在椅上。，表情：不可见。。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "站立，低头，视线向下。",
+                "expression": "眉毛下垂，眼神悲伤，嘴唇微动。"
+            },
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧前景",
+                "action": "背影，抬手似乎在做手势。",
+                "expression": "不可见。"
+            }
+        ],
+        "background": "办公室内景，背景简洁。",
+        "description_narrative": "慕青青低头解释，声音低沉，顾总在前景抬手，似乎在打断或示意。",
+        "dialogue": "如果有的选择，我又怎么会这样做？",
+        "speaker": "慕青青",
+        "emotion": "无奈",
+        "duration": 3.45,
+        "description_visual": "中近景过肩镜头；办公室内景，背景简洁。；画面右侧人物，身穿白色荷叶边连衣裙，佩戴珍珠项链，站立，低头，视线向下。，表情：眉毛下垂，眼神悲伤，嘴唇微动。；画面左侧前景人物，身穿深色条纹西装，背影，抬手似乎在做手势。，表情：不可见。。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色荷叶边连衣裙，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "站立，低头，神情落寞。",
+                "expression": "眉毛微蹙，眼神下垂，嘴唇紧闭。"
+            },
+            {
+                "name": "顾总",
+                "gender": "男",
+                "clothing": "深色条纹西装",
+                "position": "画面左侧前景",
+                "action": "背影。",
+                "expression": "不可见。"
+            }
+        ],
+        "background": "办公室内景，背景简洁。",
+        "description_narrative": "慕青青说完后沉默，低头站立，气氛凝重，顾总背对镜头没有回应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "落寞",
+        "duration": 1.07,
+        "description_visual": "中近景过肩镜头；办公室内景，背景简洁。；画面右侧人物，身穿白色荷叶边连衣裙，佩戴珍珠项链，站立，低头，神情落寞。，表情：眉毛微蹙，眼神下垂，嘴唇紧闭。；画面左侧前景人物，身穿深色条纹西装，背影。，表情：不可见。。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "坐在沙发上，低头看文件。",
+                "expression": "眉毛平展，眼神向下，嘴唇微闭。"
+            },
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "坐在沙发上，手持文件和笔，看向左侧。",
+                "expression": "眉毛微挑，眼神看向同伴，嘴唇微张。"
+            }
+        ],
+        "background": "办公室休息区，灰色沙发，白色墙壁。",
+        "description_narrative": "场景切换至休息区，两名女同事坐在沙发上，看似在工作，实则似乎在准备闲聊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.65,
+        "description_visual": "中景平拍镜头；办公室休息区，灰色沙发，白色墙壁。；画面左侧人物，身穿白色衬衫，黑色长裤，坐在沙发上，低头看文件。，表情：眉毛平展，眼神向下，嘴唇微闭。；画面右侧人物，身穿白色衬衫，黑色长裤，坐在沙发上，手持文件和笔，看向左侧。，表情：眉毛微挑，眼神看向同伴，嘴唇微张。。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左后景",
+                "action": "坐在沙发上，看向右侧同伴。",
+                "expression": "眉毛微蹙，眼神好奇，嘴巴微张。"
+            },
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右前景",
+                "action": "坐在沙发上，低头看文件，侧脸可见。",
+                "expression": "眉毛平展，眼神向下，嘴唇微闭。"
+            }
+        ],
+        "background": "办公室休息区，背景有绿植和灯光。",
+        "description_narrative": "女同事甲凑近女同事乙，小声八卦，询问关于顾总和慕青青的关系。",
+        "dialogue": "你们说顾总和慕青青是不是真的有什么呀？",
+        "speaker": "女同事甲",
+        "emotion": "好奇",
+        "duration": 3.13,
+        "description_visual": "中近景平拍镜头；办公室休息区，背景有绿植和灯光。；画面左后景人物，身穿白色衬衫，坐在沙发上，看向右侧同伴。，表情：眉毛微蹙，眼神好奇，嘴巴微张。；画面右前景人物，身穿白色衬衫，坐在沙发上，低头看文件，侧脸可见。，表情：眉毛平展，眼神向下，嘴唇微闭。。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "坐在沙发上，翻看文件。",
+                "expression": "眉毛微蹙，眼神向下。"
+            },
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "坐在沙发上，手持笔和文件。",
+                "expression": "眉毛平展，眼神向下。"
+            }
+        ],
+        "background": "办公室休息区，可见走廊和玻璃门。",
+        "description_narrative": "全景展示两人坐在沙发上，女同事乙对八卦表示怀疑，认为不太可能。",
+        "dialogue": "应该不会吧。",
+        "speaker": "女同事乙",
+        "emotion": "怀疑",
+        "duration": 1.15,
+        "description_visual": "全景平拍镜头；办公室休息区，可见走廊和玻璃门。；画面左侧人物，身穿白色衬衫，黑色长裤，坐在沙发上，翻看文件。，表情：眉毛微蹙，眼神向下。；画面右侧人物，身穿白色衬衫，黑色长裤，坐在沙发上，手持笔和文件。，表情：眉毛平展，眼神向下。。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在沙发上，摆手说话。",
+                "expression": "眉毛微挑，眼神看向同伴，嘴巴微张。"
+            },
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐在沙发上，看向左侧。",
+                "expression": "眉毛平展，眼神看向同伴。"
+            }
+        ],
+        "background": "办公室休息区，灰色沙发。",
+        "description_narrative": "女同事甲提出反驳理由，提到慕青青的孩子，认为年龄不符。",
+        "dialogue": "她孩子都几岁了。",
+        "speaker": "女同事甲",
+        "emotion": "质疑",
+        "duration": 1.78,
+        "description_visual": "中景平拍镜头；办公室休息区，灰色沙发。；画面左侧人物，身穿白色衬衫，坐在沙发上，摆手说话。，表情：眉毛微挑，眼神看向同伴，嘴巴微张。；画面右侧人物，身穿白色衬衫，坐在沙发上，看向左侧。，表情：眉毛平展，眼神看向同伴。。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右前景",
+                "action": "坐在沙发上，侧脸，手持笔。",
+                "expression": "眉毛微挑，眼神看向侧面，嘴巴微张。"
+            },
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左后景",
+                "action": "坐在沙发上，低头。",
+                "expression": "眉毛平展，眼神向下。"
+            }
+        ],
+        "background": "办公室休息区，背景有绿植。",
+        "description_narrative": "女同事乙附和，认为顾总眼光不会那么差，语气中带着对慕青青的轻视。",
+        "dialogue": "顾总不会这么没眼光吧？",
+        "speaker": "女同事乙",
+        "emotion": "轻视",
+        "duration": 1.57,
+        "description_visual": "中近景平拍镜头；办公室休息区，背景有绿植。；画面右前景人物，身穿白色衬衫，坐在沙发上，侧脸，手持笔。，表情：眉毛微挑，眼神看向侧面，嘴巴微张。；画面左后景人物，身穿白色衬衫，坐在沙发上，低头。，表情：眉毛平展，眼神向下。。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在沙发上，翻看文件。",
+                "expression": "眉毛微蹙，眼神向下。"
+            },
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐在沙发上，看向左侧。",
+                "expression": "眉毛平展，眼神看向同伴。"
+            }
+        ],
+        "background": "办公室休息区，可见走廊。",
+        "description_narrative": "女同事甲谨慎地表示话不能说太绝对，两人继续低声讨论。",
+        "dialogue": "话可不能说的这么绝对。",
+        "speaker": "女同事甲",
+        "emotion": "谨慎",
+        "duration": 1.75,
+        "description_visual": "全景平拍镜头；办公室休息区，可见走廊。；画面左侧人物，身穿白色衬衫，坐在沙发上，翻看文件。，表情：眉毛微蹙，眼神向下。；画面右侧人物，身穿白色衬衫，坐在沙发上，看向左侧。，表情：眉毛平展，眼神看向同伴。。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右前景",
+                "action": "坐在沙发上，侧脸，微笑。",
+                "expression": "眉毛舒展，嘴角上扬，眼神看向侧面。"
+            },
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左后景",
+                "action": "坐在沙发上，低头。",
+                "expression": "眉毛平展，眼神向下。"
+            }
+        ],
+        "background": "办公室休息区，背景有绿植。",
+        "description_narrative": "女同事乙笑着表示不懂有钱人的眼光，语气中带着调侃和羡慕。",
+        "dialogue": "有钱人的眼光我们可不懂。",
+        "speaker": "女同事乙",
+        "emotion": "调侃",
+        "duration": 2.05,
+        "description_visual": "中近景平拍镜头；办公室休息区，背景有绿植。；画面右前景人物，身穿白色衬衫，坐在沙发上，侧脸，微笑。，表情：眉毛舒展，嘴角上扬，眼神看向侧面。；画面左后景人物，身穿白色衬衫，坐在沙发上，低头。，表情：眉毛平展，眼神向下。。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在沙发上，捂嘴笑。",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴被手遮住。"
+            },
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐在沙发上，低头看文件。",
+                "expression": "眉毛平展，眼神向下。"
+            },
+            {
+                "name": "慕媛媛",
+                "gender": "女",
+                "clothing": "浅蓝色无袖上衣和短裙",
+                "position": "画面左后景",
+                "action": "从走廊走进来，步伐优雅。",
+                "expression": "表情冷艳，目光直视前方。"
+            }
+        ],
+        "background": "办公室休息区，可见走廊入口。",
+        "description_narrative": "两人正聊得开心，慕媛媛身穿浅蓝色套装从走廊走进来，步伐从容，气场强大。",
+        "dialogue": "说不定人家。",
+        "speaker": "女同事乙",
+        "emotion": "八卦",
+        "duration": 1.2,
+        "description_visual": "全景平拍镜头；办公室休息区，可见走廊入口。；画面左侧人物，身穿白色衬衫，坐在沙发上，捂嘴笑。，表情：眉毛舒展，眼睛眯起，嘴巴被手遮住。；画面右侧人物，身穿白色衬衫，坐在沙发上，低头看文件。，表情：眉毛平展，眼神向下。；画面左后景人物，身穿浅蓝色无袖上衣和短裙，从走廊走进来，步伐优雅。，表情：表情冷艳，目光直视前方。。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在沙发上，抬头看向右上方。",
+                "expression": "眉毛微挑，眼神惊讶，嘴巴微张。"
+            },
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐在沙发上，抬头看向右上方，微笑。",
+                "expression": "眉毛舒展，嘴角上扬，眼神向上。"
+            }
+        ],
+        "background": "办公室休息区，灰色沙发。",
+        "description_narrative": "两人听到声音或察觉到有人靠近，同时抬头看向右上方，表情从八卦转为惊讶和讨好。",
+        "dialogue": "有什么过人之处呢？你们说的谁啊？",
+        "speaker": "慕媛媛",
+        "emotion": "惊讶",
+        "duration": 3.68,
+        "description_visual": "中景平拍镜头；办公室休息区，灰色沙发。；画面左侧人物，身穿白色衬衫，坐在沙发上，抬头看向右上方。，表情：眉毛微挑，眼神惊讶，嘴巴微张。；画面右侧人物，身穿白色衬衫，坐在沙发上，抬头看向右上方，微笑。，表情：眉毛舒展，嘴角上扬，眼神向上。。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕媛媛",
+                "gender": "女",
+                "clothing": "浅蓝色无袖上衣，佩戴珍珠耳环",
+                "position": "画面中央",
+                "action": "站立，双臂交叉抱在胸前，头部微侧。",
+                "expression": "眉毛微挑，眼神冷艳，嘴唇微张。"
+            }
+        ],
+        "background": "办公室内景，背景简洁，有粉色购物袋一角。",
+        "description_narrative": "慕媛媛站立在两人面前，双臂抱胸，神情高傲，询问她们刚才在议论谁。",
+        "dialogue": "您怎么来了？我说。",
+        "speaker": "慕媛媛",
+        "emotion": "高傲",
+        "duration": 2.75,
+        "description_visual": "中近景仰拍镜头；办公室内景，背景简洁，有粉色购物袋一角。；画面中央人物，身穿浅蓝色无袖上衣，佩戴珍珠耳环，站立，双臂交叉抱在胸前，头部微侧。，表情：眉毛微挑，眼神冷艳，嘴唇微张。。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在沙发上，低头，神情紧张。",
+                "expression": "眉毛微蹙，眼神向下，嘴唇紧闭。"
+            },
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐在沙发上，手持笔，看向左侧。",
+                "expression": "眉毛平展，眼神看向同伴，嘴巴微张。"
+            }
+        ],
+        "background": "办公室休息区，灰色沙发。",
+        "description_narrative": "两名女同事被问住，显得有些尴尬和紧张，不敢直视慕媛媛。",
+        "dialogue": "你们刚才说的是谁？",
+        "speaker": "慕媛媛",
+        "emotion": "紧张",
+        "duration": 1.77,
+        "description_visual": "中景平拍镜头；办公室休息区，灰色沙发。；画面左侧人物，身穿白色衬衫，坐在沙发上，低头，神情紧张。，表情：眉毛微蹙，眼神向下，嘴唇紧闭。；画面右侧人物，身穿白色衬衫，坐在沙发上，手持笔，看向左侧。，表情：眉毛平展，眼神看向同伴，嘴巴微张。。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕媛媛",
+                "gender": "女",
+                "clothing": "浅蓝色无袖上衣",
+                "position": "画面中央",
+                "action": "站立，双臂交叉，头部微侧，眼神向下。",
+                "expression": "眉毛微蹙，眼神轻蔑，嘴唇微张。"
+            }
+        ],
+        "background": "办公室内景，背景有绿植。",
+        "description_narrative": "慕媛媛听到回答后，眼神中流露出一丝不屑，似乎对“助理秘书”这个身份感到在意。",
+        "dialogue": "她叫慕青青，这个人，是顾总的，助理秘书。",
+        "speaker": "女同事乙",
+        "emotion": "不屑",
+        "duration": 4.5,
+        "description_visual": "中近景仰拍镜头；办公室内景，背景有绿植。；画面中央人物，身穿浅蓝色无袖上衣，站立，双臂交叉，头部微侧，眼神向下。，表情：眉毛微蹙，眼神轻蔑，嘴唇微张。。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女同事甲",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "坐在沙发上，看向右侧。",
+                "expression": "眉毛微挑，眼神看向同伴，嘴巴微张。"
+            },
+            {
+                "name": "女同事乙",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐在沙发上，手持笔，看向左侧。",
+                "expression": "眉毛平展，眼神看向同伴。"
+            }
+        ],
+        "background": "办公室休息区，灰色沙发。",
+        "description_narrative": "女同事甲确认道，强调慕青青是“空降”的助理秘书，语气中带着八卦的意味。",
+        "dialogue": "是不是那个空降的助理秘书啊？",
+        "speaker": "女同事甲",
+        "emotion": "确认",
+        "duration": 2.28,
+        "description_visual": "中景平拍镜头；办公室休息区，灰色沙发。；画面左侧人物，身穿白色衬衫，坐在沙发上，看向右侧。，表情：眉毛微挑，眼神看向同伴，嘴巴微张。；画面右侧人物，身穿白色衬衫，坐在沙发上，手持笔，看向左侧。，表情：眉毛平展，眼神看向同伴。。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕媛媛",
+                "gender": "女",
+                "clothing": "浅蓝色无袖上衣",
+                "position": "画面中央",
+                "action": "站立，双臂交叉，闭上眼睛后睁开。",
+                "expression": "眉毛舒展，眼睛闭合后睁开，嘴唇微张。"
+            }
+        ],
+        "background": "办公室内景，背景简洁。",
+        "description_narrative": "慕媛媛确认了目标，眼神中闪过一丝意味深长的光芒，嘴角微动。",
+        "dialogue": "就是她。",
+        "speaker": "慕媛媛",
+        "emotion": "意味深长",
+        "duration": 1.22,
+        "description_visual": "中近景仰拍镜头；办公室内景，背景简洁。；画面中央人物，身穿浅蓝色无袖上衣，站立，双臂交叉，闭上眼睛后睁开。，表情：眉毛舒展，眼睛闭合后睁开，嘴唇微张。。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕媛媛",
+                "gender": "女",
+                "clothing": "浅蓝色无袖上衣",
+                "position": "画面中央",
+                "action": "站立，头部微侧，目光看向下方。",
+                "expression": "眉毛微挑，眼神冷艳，嘴唇微张。"
+            }
+        ],
+        "background": "办公室内景，光线变暖，带有光晕效果。",
+        "description_narrative": "慕媛媛在暖色光晕中，语气平淡地询问慕青青又怎么了，预示着她将采取行动。",
+        "dialogue": "她又怎么了。",
+        "speaker": "慕媛媛",
+        "emotion": "冷淡",
+        "duration": 0.98,
+        "description_visual": "中近景仰拍镜头；办公室内景，光线变暖，带有光晕效果。；画面中央人物，身穿浅蓝色无袖上衣，站立，头部微侧，目光看向下方。，表情：眉毛微挑，眼神冷艳，嘴唇微张。。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体。",
+        "description_narrative": "画面渐黑，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "远景平拍镜头；纯黑背景，无可见物体。。"
+    }
+]

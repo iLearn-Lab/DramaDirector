@@ -1,0 +1,753 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面右侧",
+                "action": "拥抱医妃",
+                "expression": "眉毛舒展，眼睛微闭，嘴角紧闭"
+            },
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "紫色长袍",
+                "position": "画面左侧",
+                "action": "被王爷拥抱，头靠王爷胸前",
+                "expression": "眉毛舒展，眼睛闭合，表情安详"
+            }
+        ],
+        "background": "室内场景，木质家具，光线柔和",
+        "description_narrative": "中景固定镜头，王爷身穿灰色长袍拥抱身穿紫色长袍的医妃，两人姿态亲密，背景为古典室内家具。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "中景平拍镜头；室内场景，木质家具，光线柔和；画面右侧人物，身穿灰色长袍，拥抱医妃，表情：眉毛舒展，眼睛微闭，嘴角紧闭；画面左侧人物，身穿紫色长袍，被王爷拥抱，头靠王爷胸前，表情：眉毛舒展，眼睛闭合，表情安详。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "白色面纱，华丽金饰头冠",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛平直，眼睛直视，嘴巴被面纱遮挡"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，医妃头戴华丽金饰，面戴白色面纱，双眼直视前方，背景为明亮的户外绿植。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿白色面纱，华丽金饰头冠，直视前方，表情：眉毛平直，眼睛直视，嘴巴被面纱遮挡。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "白色面纱，华丽金饰头冠",
+                "position": "画面中央",
+                "action": "低头看手中物品",
+                "expression": "眉毛微垂，眼睛下视，嘴巴被面纱遮挡"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，医妃低头查看手中物品，神情专注，背景光斑柔和。",
+        "dialogue": "快。",
+        "speaker": "医妃",
+        "emotion": "急切",
+        "duration": 0.72,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿白色面纱，华丽金饰头冠，低头看手中物品，表情：眉毛微垂，眼睛下视，嘴巴被面纱遮挡。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，王爷头戴银色发冠，表情严肃直视前方，背景为明亮的户外环境。",
+        "dialogue": "这不就治好了。",
+        "speaker": "王爷",
+        "emotion": "淡然",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿灰色长袍，银色发冠，直视前方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "白色面纱，华丽金饰头冠",
+                "position": "画面中央",
+                "action": "手摸脸颊",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，医妃手摸脸颊，眼神斜视，表情略带疑惑，背景光斑柔和。",
+        "dialogue": "郡主。",
+        "speaker": "王爷",
+        "emotion": "呼唤",
+        "duration": 1.76,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿白色面纱，华丽金饰头冠，手摸脸颊，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "紫色长袍",
+                "position": "画面中央",
+                "action": "直视前方说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "近景固定镜头，医妃身穿紫色长袍，表情严肃地直视前方说话，背景为明亮的户外环境。",
+        "dialogue": "我奉劝你以后莫要再招惹我，否则就不是泼水那么简单了。",
+        "speaker": "医妃",
+        "emotion": "警告",
+        "duration": 5.24,
+        "description_visual": "近景平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿紫色长袍，直视前方说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛平直，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，安宁身穿粉色绣花长袍，表情冷峻直视前方，背景为明亮的户外环境。",
+        "dialogue": "安宁，我提醒过你。",
+        "speaker": "王爷",
+        "emotion": "严肃",
+        "duration": 2.36,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿粉色绣花长袍，蓝色交领，直视前方，表情：眉毛平直，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，王爷表情严肃地说话，眼神坚定，背景为明亮的户外环境。",
+        "dialogue": "让你好自为之。",
+        "speaker": "王爷",
+        "emotion": "警告",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿灰色长袍，银色发冠，说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，王爷继续说话，表情严厉，背景为明亮的户外环境。",
+        "dialogue": "可你依旧执迷不悟。",
+        "speaker": "王爷",
+        "emotion": "失望",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿灰色长袍，银色发冠，说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面中央",
+                "action": "侧头倾听",
+                "expression": "眉毛微垂，眼睛侧视，嘴巴紧闭"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，安宁侧头倾听，表情略显不甘，背景为明亮的户外环境。",
+        "dialogue": "接下来这些日子。",
+        "speaker": "王爷",
+        "emotion": "严肃",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿粉色绣花长袍，蓝色交领，侧头倾听，表情：眉毛微垂，眼睛侧视，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，王爷表情严厉地警告，眼神锐利，背景为明亮的户外环境。",
+        "dialogue": "你若还是搞这些小动作，那就别怪本王。",
+        "speaker": "王爷",
+        "emotion": "威胁",
+        "duration": 3.24,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿灰色长袍，银色发冠，说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "灰色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，王爷继续警告，表情冷酷，背景为明亮的户外环境。",
+        "dialogue": "一点情面都不给你留。",
+        "speaker": "王爷",
+        "emotion": "决绝",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿灰色长袍，银色发冠，说话，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面左侧",
+                "action": "侧头看向一边",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴紧闭"
+            },
+            {
+                "name": "蓝衣侍女",
+                "gender": "女",
+                "clothing": "蓝色交领襦裙",
+                "position": "画面右侧背景",
+                "action": "站立",
+                "expression": "表情模糊"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "中近景固定镜头，安宁侧头看向一边，表情不悦，蓝衣侍女站在右后方，背景为明亮的户外环境。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "中近景平拍镜头；户外虚化背景，绿色植被，光线明亮；画面左侧人物，身穿粉色绣花长袍，蓝色交领，侧头看向一边，表情：眉毛微蹙，眼睛侧视，嘴巴紧闭；画面右侧背景人物，身穿蓝色交领襦裙，站立，表情：表情模糊。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面左侧",
+                "action": "侧脸哼唱",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，安宁侧脸哼唱，表情看似轻松实则敷衍，背景为明亮的户外环境。",
+        "dialogue": "啦啦啦啦啦啦啦。",
+        "speaker": "安宁",
+        "emotion": "敷衍",
+        "duration": 2.52,
+        "description_visual": "特写侧拍镜头；户外虚化背景，绿色植被，光线明亮；画面左侧人物，身穿粉色绣花长袍，蓝色交领，侧脸哼唱，表情：眉毛舒展，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣侍女",
+                "gender": "女",
+                "clothing": "蓝色交领襦裙",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，蓝衣侍女表情担忧地直视前方，背景为明亮的户外环境。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "担忧",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿蓝色交领襦裙，直视前方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面中央",
+                "action": "张嘴大喊",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴大张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "近景固定镜头，安宁张嘴大喊，表情愤怒，背景为明亮的户外环境。",
+        "dialogue": "郡主。",
+        "speaker": "安宁",
+        "emotion": "愤怒",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿粉色绣花长袍，蓝色交领，张嘴大喊，表情：眉毛紧蹙，眼睛睁大，嘴巴大张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面中央",
+                "action": "张嘴大喊",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴大张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "近景固定镜头，安宁继续张嘴大喊，表情极度愤怒，背景为明亮的户外环境。",
+        "dialogue": "滚。",
+        "speaker": "安宁",
+        "emotion": "暴怒",
+        "duration": 0.64,
+        "description_visual": "近景平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿粉色绣花长袍，蓝色交领，张嘴大喊，表情：眉毛紧蹙，眼睛睁大，嘴巴大张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "木质长廊，红色柱子，户外绿植，光线明亮",
+        "description_narrative": "全景固定镜头，空荡的木质长廊，红色柱子和栏杆，背景为明亮的户外绿植。",
+        "dialogue": "都给我滚。",
+        "speaker": "安宁",
+        "emotion": "暴怒",
+        "duration": 1.6,
+        "description_visual": "全景平拍镜头；木质长廊，红色柱子，户外绿植，光线明亮。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣侍女",
+                "gender": "女",
+                "clothing": "白色上衣，蓝色围裙",
+                "position": "画面中央",
+                "action": "低头请罪",
+                "expression": "眉毛下垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，白衣侍女低头请罪，表情惶恐，背景为明亮的户外环境。",
+        "dialogue": "奴婢该死，冲撞了侧王妃，请侧王妃恕罪。",
+        "speaker": "白衣侍女",
+        "emotion": "恐惧",
+        "duration": 3.72,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿白色上衣，蓝色围裙，低头请罪，表情：眉毛下垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面中央",
+                "action": "侧头说话",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，安宁侧头说话，表情不耐烦，背景为明亮的户外环境。",
+        "dialogue": "滚下去。",
+        "speaker": "安宁",
+        "emotion": "厌恶",
+        "duration": 0.76,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿粉色绣花长袍，蓝色交领，侧头说话，表情：眉毛微蹙，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣侍女",
+                "gender": "女",
+                "clothing": "白色上衣，蓝色围裙",
+                "position": "画面中央",
+                "action": "低头站立",
+                "expression": "眉毛下垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，白衣侍女低头站立，表情顺从，背景为明亮的户外环境。",
+        "dialogue": "站住。",
+        "speaker": "安宁",
+        "emotion": "命令",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿白色上衣，蓝色围裙，低头站立，表情：眉毛下垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面中央",
+                "action": "侧头询问",
+                "expression": "眉毛微挑，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，安宁侧头询问，表情带着审视，背景为明亮的户外环境。",
+        "dialogue": "你手里拿的衣服是什么？回侧王妃。",
+        "speaker": "安宁",
+        "emotion": "质问",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿粉色绣花长袍，蓝色交领，侧头询问，表情：眉毛微挑，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣侍女",
+                "gender": "女",
+                "clothing": "白色上衣，蓝色围裙",
+                "position": "画面中央",
+                "action": "低头回答",
+                "expression": "眉毛下垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，白衣侍女低头回答，表情恭敬，背景为明亮的户外环境。",
+        "dialogue": "我拿的是太后为王妃准备的衣服。",
+        "speaker": "白衣侍女",
+        "emotion": "恭敬",
+        "duration": 2.88,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿白色上衣，蓝色围裙，低头回答，表情：眉毛下垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣侍女",
+                "gender": "女",
+                "clothing": "蓝色交领襦裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "表情平静"
+            },
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "木质长廊，红色柱子，户外绿植，光线明亮",
+        "description_narrative": "中景固定镜头，蓝衣侍女和安宁站在木质长廊上，背景为明亮的户外绿植。",
+        "dialogue": "两个人。",
+        "speaker": "白衣侍女",
+        "emotion": "陈述",
+        "duration": 0.76,
+        "description_visual": "中景平拍镜头；木质长廊，红色柱子，户外绿植，光线明亮；画面左侧人物，身穿蓝色交领襦裙，站立，表情：表情平静；画面右侧人物，身穿粉色绣花长袍，蓝色交领，站立，表情：表情平静。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "浅蓝色衣物",
+                "position": "画面中央",
+                "action": "衣物放置",
+                "expression": "无"
+            }
+        ],
+        "background": "浅色地面或桌面，光线柔和",
+        "description_narrative": "特写固定镜头，浅蓝色衣物放置在地面或桌面上，细节清晰，光线柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.32,
+        "description_visual": "特写俯拍镜头；浅色地面或桌面，光线柔和；画面中央人物，身穿浅蓝色衣物，衣物放置，表情：无。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面中央",
+                "action": "低头看",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，安宁低头看，表情若有所思，背景为明亮的户外环境。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "算计",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿粉色绣花长袍，蓝色交领，低头看，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "粉色绣花长袍，蓝色交领",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "户外虚化背景，绿色植被，光线明亮",
+        "description_narrative": "特写固定镜头，安宁说话，表情略带得意，背景为明亮的户外环境。",
+        "dialogue": "真是。",
+        "speaker": "安宁",
+        "emotion": "得意",
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；户外虚化背景，绿色植被，光线明亮；画面中央人物，身穿粉色绣花长袍，蓝色交领，说话，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁",
+                "gender": "女",
+                "clothing": "无",
+                "position": "画面中央",
+                "action": "眼睛特写",
+                "expression": "眉毛舒展，眼睛睁大，眼神锐利"
+            }
+        ],
+        "background": "皮肤纹理，光线明亮",
+        "description_narrative": "大特写固定镜头，安宁的眼睛特写，眼神锐利充满算计，背景为皮肤纹理。",
+        "dialogue": "天助我也。",
+        "speaker": "安宁",
+        "emotion": "阴险",
+        "duration": 1.6,
+        "description_visual": "大特写平拍镜头；皮肤纹理，光线明亮；画面中央人物，身穿无，眼睛特写，表情：眉毛舒展，眼睛睁大，眼神锐利。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "浅蓝绿色薄纱衣",
+                "position": "画面中央",
+                "action": "背对镜头",
+                "expression": "无"
+            }
+        ],
+        "background": "深蓝色背景布，光线柔和",
+        "description_narrative": "中景固定镜头，医妃身穿浅蓝绿色薄纱衣背对镜头，长发披肩，背景为深蓝色布景。",
+        "dialogue": "小姐。",
+        "speaker": "粉衣侍女",
+        "emotion": "呼唤",
+        "duration": 2.84,
+        "description_visual": "中景平拍镜头；深蓝色背景布，光线柔和；画面中央人物，身穿浅蓝绿色薄纱衣，背对镜头，表情：无。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣侍女",
+                "gender": "女",
+                "clothing": "白色上衣，粉色围裙",
+                "position": "画面中央",
+                "action": "微笑说话",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "室内木质门窗，光线柔和",
+        "description_narrative": "特写固定镜头，粉衣侍女微笑说话，表情愉悦，背景为室内木质门窗。",
+        "dialogue": "你这身衣服可真是好看。",
+        "speaker": "粉衣侍女",
+        "emotion": "夸赞",
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；室内木质门窗，光线柔和；画面中央人物，身穿白色上衣，粉色围裙，微笑说话，表情：眉毛舒展，眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "浅蓝绿色薄纱衣",
+                "position": "画面中央",
+                "action": "转身说话",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "深蓝色背景布，光线柔和",
+        "description_narrative": "近景固定镜头，医妃身穿浅蓝绿色薄纱衣转身说话，表情自信，背景为深蓝色布景。",
+        "dialogue": "这可是为了迎接太后专门做的，当然好看。",
+        "speaker": "医妃",
+        "emotion": "自信",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；深蓝色背景布，光线柔和；画面中央人物，身穿浅蓝绿色薄纱衣，转身说话，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣侍女",
+                "gender": "女",
+                "clothing": "白色上衣，粉色围裙",
+                "position": "画面中央",
+                "action": "微笑说话",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "室内木质门窗，光线柔和",
+        "description_narrative": "特写固定镜头，粉衣侍女微笑说话，表情羡慕，背景为室内木质门窗。",
+        "dialogue": "果然正妃就是不一样，昨天我去拿衣服的时候也看到郡主了。",
+        "speaker": "粉衣侍女",
+        "emotion": "羡慕",
+        "duration": 4.6,
+        "description_visual": "特写平拍镜头；室内木质门窗，光线柔和；画面中央人物，身穿白色上衣，粉色围裙，微笑说话，表情：眉毛舒展，眼睛微眯，嘴巴微张。"
+    }
+]

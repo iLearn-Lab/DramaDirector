@@ -1,0 +1,811 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "夜晚的城市摩天大楼，灯光璀璨，色调冷暗。",
+        "description_narrative": "远景镜头，夜晚的城市中一座摩天大楼矗立，楼体线条垂直明亮，周围建筑灯火稀疏。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "远景仰拍镜头；夜晚的城市摩天大楼，灯光璀璨，色调冷暗。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "夜晚的城市摩天大楼，灯光璀璨，色调冷暗。",
+        "description_narrative": "远景镜头，摩天大楼在夜色中显得高耸，垂直的灯带勾勒出建筑轮廓。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "远景仰拍镜头；夜晚的城市摩天大楼，灯光璀璨，色调冷暗。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "夜晚的城市摩天大楼，灯光璀璨，色调冷暗。",
+        "description_narrative": "远景镜头，大楼底部的菱形结构灯光亮起，与上方的垂直线条形成对比。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "远景仰拍镜头；夜晚的城市摩天大楼，灯光璀璨，色调冷暗。。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "坐在办公桌前，身体前倾",
+                "expression": "画面模糊，无法辨认表情"
+            }
+        ],
+        "background": "昏暗的办公室，书架背景，光线柔和。",
+        "description_narrative": "镜头快速推进，画面模糊，冯总身穿黑色西装坐在办公桌前，背景是深色的书架。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "中景平拍镜头（推进）；昏暗的办公室，书架背景，光线柔和。；画面中央人物，身穿黑色西装，坐在办公桌前，身体前倾，表情：画面模糊，无法辨认表情。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面左侧",
+                "action": "侧身坐在桌前，双手拿着手机",
+                "expression": "眉毛微蹙，眼睛注视手机屏幕，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室书架，摆放着装饰品，光线昏暗。",
+        "description_narrative": "中近景，冯总侧身坐在办公桌前，身穿黑色西装，双手拿着手机注视屏幕，神情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 0.72,
+        "description_visual": "中近景平拍镜头；办公室书架，摆放着装饰品，光线昏暗。；画面左侧人物，身穿黑色西装，白色衬衫，侧身坐在桌前，双手拿着手机，表情：眉毛微蹙，眼睛注视手机屏幕，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面左侧",
+                "action": "侧身坐在桌前，双手拿着手机",
+                "expression": "眉毛微蹙，眼睛注视手机屏幕，嘴巴微张"
+            }
+        ],
+        "background": "办公室书架，摆放着装饰品，光线昏暗。",
+        "description_narrative": "中近景，冯总继续看着手机，身体微微前倾，似乎在阅读或思考。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；办公室书架，摆放着装饰品，光线昏暗。；画面左侧人物，身穿黑色西装，白色衬衫，侧身坐在桌前，双手拿着手机，表情：眉毛微蹙，眼睛注视手机屏幕，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装，花纹领带",
+                "position": "画面中央",
+                "action": "低头注视前方",
+                "expression": "眉毛舒展，眼睛下视，嘴角微抿"
+            }
+        ],
+        "background": "办公室背景，格子墙纸，光线柔和。",
+        "description_narrative": "特写镜头，冯总低头注视，神情忧郁，身穿黑色西装搭配花纹领带。",
+        "dialogue": "我真的好想你",
+        "speaker": "冯总",
+        "emotion": "忧郁",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；办公室背景，格子墙纸，光线柔和。；画面中央人物，身穿黑色西装，花纹领带，低头注视前方，表情：眉毛舒展，眼睛下视，嘴角微抿。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面左侧",
+                "action": "握拳靠近嘴边",
+                "expression": "眼睛闭合，眉头紧锁，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室柜子，金属把手，格子墙纸。",
+        "description_narrative": "中近景，冯总侧身坐着，右手握拳靠近嘴边，似乎在压抑情绪，眼睛闭合。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "压抑",
+        "duration": 1.28,
+        "description_visual": "中近景侧拍镜头；办公室柜子，金属把手，格子墙纸。；画面左侧人物，身穿黑色西装，白色衬衫，握拳靠近嘴边，表情：眼睛闭合，眉头紧锁，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白色背景，无其他物体。",
+        "description_narrative": "画面全白，作为转场效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.08,
+        "description_visual": "全景平拍镜头；纯白色背景，无其他物体。。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面中央",
+                "action": "躺在床上，头枕枕头",
+                "expression": "眉毛微蹙，眼睛紧闭，嘴巴微张，面色苍白"
+            }
+        ],
+        "background": "卧室，绿色墙壁，花卉图案枕头。",
+        "description_narrative": "特写镜头，叶柔躺在病床上，身穿白色睡衣，面色苍白虚弱，双眼紧闭。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "虚弱",
+        "duration": 0.8,
+        "description_visual": "特写俯拍镜头；卧室，绿色墙壁，花卉图案枕头。；画面中央人物，身穿白色睡衣，躺在床上，头枕枕头，表情：眉毛微蹙，眼睛紧闭，嘴巴微张，面色苍白。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧床上",
+                "action": "躺在床上，手放在被子上",
+                "expression": "眼睛微睁，嘴唇微动"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧床边",
+                "action": "跪在床边，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视叶柔，嘴巴微张"
+            }
+        ],
+        "background": "简陋卧室，木柜子，红白格子布，暖色调光线。",
+        "description_narrative": "全景镜头，回忆场景，叶柔躺在病床上，冯总身穿棕色夹克跪在床边，两人对视。",
+        "dialogue": "妈妈你怎么了？青青不哭。妈妈没事，我只是累了。你出去待一会，我休息一下就好了乖。",
+        "speaker": "叶柔, 青青 (画外音)",
+        "emotion": "关切, 虚弱",
+        "duration": 19.92,
+        "description_visual": "全景平拍镜头；简陋卧室，木柜子，红白格子布，暖色调光线。；画面左侧床上人物，身穿白色睡衣，躺在床上，手放在被子上，表情：眼睛微睁，嘴唇微动；画面右侧床边人物，身穿棕色夹克，跪在床边，身体前倾，表情：眉毛微蹙，眼睛注视叶柔，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧",
+                "action": "躺在床上，头微抬",
+                "expression": "眉毛舒展，眼睛半睁，嘴巴微张"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧前景",
+                "action": "背影，头部靠近叶柔",
+                "expression": "不可见"
+            }
+        ],
+        "background": "绿色墙壁，花卉枕头。",
+        "description_narrative": "过肩镜头，叶柔躺在床上看着冯总，神情虚弱但平静，冯总背影在前景。",
+        "dialogue": "我带你去医院，咱去最好的医院。我不能没有你，我不想再失去你。",
+        "speaker": "冯总",
+        "emotion": "急切, 悲伤",
+        "duration": 7.88,
+        "description_visual": "特写过肩镜头；绿色墙壁，花卉枕头。；画面左侧人物，身穿白色睡衣，躺在床上，头微抬，表情：眉毛舒展，眼睛半睁，嘴巴微张；画面右侧前景人物，身穿棕色夹克，背影，头部靠近叶柔，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧床上",
+                "action": "躺在床上，手被冯总握住",
+                "expression": "眼睛闭合，表情平静"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧床边",
+                "action": "跪在床边，双手握住叶柔的手",
+                "expression": "眉毛紧锁，眼睛注视叶柔，嘴巴微张"
+            }
+        ],
+        "background": "卧室，木柜子，挂画，闹钟。",
+        "description_narrative": "全景镜头，冯总跪在床边紧握叶柔的手，叶柔躺在床上，房间内光线温暖。",
+        "dialogue": "这些钱是青青的学费。",
+        "speaker": "叶柔",
+        "emotion": "坚定",
+        "duration": 4.44,
+        "description_visual": "全景平拍镜头；卧室，木柜子，挂画，闹钟。；画面左侧床上人物，身穿白色睡衣，躺在床上，手被冯总握住，表情：眼睛闭合，表情平静；画面右侧床边人物，身穿棕色夹克，跪在床边，双手握住叶柔的手，表情：眉毛紧锁，眼睛注视叶柔，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面中央",
+                "action": "双手交叉握在一起",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，闹钟，窗帘。",
+        "description_narrative": "近景镜头，冯总双手交叉紧握，神情焦虑，看着前方。",
+        "dialogue": "我知道。我不准你动。",
+        "speaker": "叶柔",
+        "emotion": "焦虑",
+        "duration": 2.32,
+        "description_visual": "近景平拍镜头；卧室背景，闹钟，窗帘。；画面中央人物，身穿棕色夹克，双手交叉握在一起，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧",
+                "action": "躺在床上，看着冯总",
+                "expression": "眉毛微蹙，眼睛注视冯总，嘴巴紧闭"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧前景",
+                "action": "手抚摸叶柔的脸",
+                "expression": "不可见"
+            }
+        ],
+        "background": "绿色墙壁，花卉枕头。",
+        "description_narrative": "过肩镜头，叶柔躺在床上看着冯总，冯总的手轻抚她的脸颊。",
+        "dialogue": "我给跪下了。",
+        "speaker": "冯总",
+        "emotion": "乞求",
+        "duration": 4.88,
+        "description_visual": "特写过肩镜头；绿色墙壁，花卉枕头。；画面左侧人物，身穿白色睡衣，躺在床上，看着冯总，表情：眉毛微蹙，眼睛注视冯总，嘴巴紧闭；画面右侧前景人物，身穿棕色夹克，手抚摸叶柔的脸，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧床上",
+                "action": "躺在床上，手放在被子上",
+                "expression": "眼睛闭合，表情痛苦"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧床边",
+                "action": "跪在床边，手举起",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴张大"
+            }
+        ],
+        "background": "卧室，木柜子，红白格子布。",
+        "description_narrative": "全景镜头，冯总跪在床边情绪激动，手举起，叶柔躺在床上表情痛苦。",
+        "dialogue": "我不能没有你。",
+        "speaker": "冯总",
+        "emotion": "崩溃",
+        "duration": 4.12,
+        "description_visual": "全景平拍镜头；卧室，木柜子，红白格子布。；画面左侧床上人物，身穿白色睡衣，躺在床上，手放在被子上，表情：眼睛闭合，表情痛苦；画面右侧床边人物，身穿棕色夹克，跪在床边，手举起，表情：眉毛紧锁，眼睛紧闭，嘴巴张大。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "高角度",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧床上",
+                "action": "躺在床上，眼睛闭合",
+                "expression": "表情平静"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧床边",
+                "action": "跪在床边，头埋在叶柔手边",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室，绿色墙壁，木架子。",
+        "description_narrative": "高角度镜头，冯总跪在床边，头埋在叶柔手边痛哭，叶柔安静地躺着。",
+        "dialogue": "我以后不再赌了，我以后再也不赌了。求求你别别离开我啊，我好想你。",
+        "speaker": "冯总",
+        "emotion": "悔恨",
+        "duration": 7.48,
+        "description_visual": "高角度俯拍镜头；卧室，绿色墙壁，木架子。；画面左侧床上人物，身穿白色睡衣，躺在床上，眼睛闭合，表情：表情平静；画面右侧床边人物，身穿棕色夹克，跪在床边，头埋在叶柔手边，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧背景",
+                "action": "躺在床上，模糊",
+                "expression": "不可见"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧前景",
+                "action": "身体前倾，靠近叶柔",
+                "expression": "不可见"
+            }
+        ],
+        "background": "花卉图案被子。",
+        "description_narrative": "特写镜头，冯总的肩膀和背部，他靠近躺在床上的叶柔。",
+        "dialogue": "我不能没有你。",
+        "speaker": "冯总",
+        "emotion": "悲伤",
+        "duration": 2.48,
+        "description_visual": "特写过肩镜头；花卉图案被子。；画面左侧背景人物，身穿白色睡衣，躺在床上，模糊，表情：不可见；画面右侧前景人物，身穿棕色夹克，身体前倾，靠近叶柔，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧床上",
+                "action": "躺在床上，手抓着冯总的手臂",
+                "expression": "嘴巴微张，表情痛苦"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧床边",
+                "action": "俯身靠近叶柔",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室，木柜子，红白格子布。",
+        "description_narrative": "全景镜头，叶柔躺在床上，手抓着冯总的手臂，冯总俯身靠近她。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 2.2,
+        "description_visual": "全景平拍镜头；卧室，木柜子，红白格子布。；画面左侧床上人物，身穿白色睡衣，躺在床上，手抓着冯总的手臂，表情：嘴巴微张，表情痛苦；画面右侧床边人物，身穿棕色夹克，俯身靠近叶柔，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面中央",
+                "action": "躺在床上，头枕枕头",
+                "expression": "眼睛睁开，嘴巴微张，眼神涣散"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "绿色墙壁，花卉枕头。",
+        "description_narrative": "特写镜头，叶柔躺在床上，眼神涣散，看着上方的冯总。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "弥留",
+        "duration": 2.68,
+        "description_visual": "特写仰拍镜头；绿色墙壁，花卉枕头。；画面中央人物，身穿白色睡衣，躺在床上，头枕枕头，表情：眼睛睁开，嘴巴微张，眼神涣散；画面右侧前景人物，身穿棕色夹克，背影，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "无",
+                "position": "画面中央",
+                "action": "手被冯总握住",
+                "expression": "不可见"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "无",
+                "position": "画面中央",
+                "action": "手握住叶柔的手",
+                "expression": "不可见"
+            }
+        ],
+        "background": "花卉图案被子。",
+        "description_narrative": "特写镜头，两只手紧紧握在一起，放在花卉图案的被子上。",
+        "dialogue": "我在，我在。",
+        "speaker": "冯总",
+        "emotion": "安慰",
+        "duration": 3.92,
+        "description_visual": "特写俯拍镜头；花卉图案被子。；画面中央人物，身穿无，手被冯总握住，表情：不可见；画面中央人物，身穿无，手握住叶柔的手，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧",
+                "action": "躺在床上，头枕枕头",
+                "expression": "眼睛半闭，嘴巴微张"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧前景",
+                "action": "头埋在叶柔胸前",
+                "expression": "不可见"
+            }
+        ],
+        "background": "绿色墙壁，花卉枕头。",
+        "description_narrative": "特写镜头，叶柔躺在床上，冯总头埋在她胸前，叶柔眼神黯淡。",
+        "dialogue": "我不会原谅你的。",
+        "speaker": "叶柔",
+        "emotion": "决绝",
+        "duration": 2.16,
+        "description_visual": "特写俯拍镜头；绿色墙壁，花卉枕头。；画面左侧人物，身穿白色睡衣，躺在床上，头枕枕头，表情：眼睛半闭，嘴巴微张；画面右侧前景人物，身穿棕色夹克，头埋在叶柔胸前，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "无",
+                "position": "画面左侧",
+                "action": "手放在被子上，手指微曲",
+                "expression": "不可见"
+            }
+        ],
+        "background": "花卉图案被子。",
+        "description_narrative": "特写镜头，叶柔的手无力地放在花卉图案的被子上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无力",
+        "duration": 8.04,
+        "description_visual": "特写俯拍镜头；花卉图案被子。；画面左侧人物，身穿无，手放在被子上，手指微曲，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "白色睡衣",
+                "position": "画面左侧床上",
+                "action": "躺在床上，手垂下",
+                "expression": "眼睛闭合"
+            },
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "棕色夹克",
+                "position": "画面右侧床边",
+                "action": "俯身抱着叶柔",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室，木柜子，挂画，闹钟。",
+        "description_narrative": "全景镜头，冯总俯身抱着躺在床上的叶柔，叶柔手臂垂下。",
+        "dialogue": "青青。",
+        "speaker": "叶柔",
+        "emotion": "呼唤",
+        "duration": 3.88,
+        "description_visual": "全景平拍镜头；卧室，木柜子，挂画，闹钟。；画面左侧床上人物，身穿白色睡衣，躺在床上，手垂下，表情：眼睛闭合；画面右侧床边人物，身穿棕色夹克，俯身抱着叶柔，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑色背景。",
+        "description_narrative": "画面全黑，转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.44,
+        "description_visual": "全景平拍镜头；纯黑色背景。。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装，花纹领带",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体微侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室，格子墙纸，黑色皮椅。",
+        "description_narrative": "近景镜头，回到现实，冯总坐在办公室皮椅上，神情凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；办公室，格子墙纸，黑色皮椅。；画面中央人物，身穿黑色西装，花纹领带，坐在椅子上，身体微侧，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装，花纹领带",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体前倾",
+                "expression": "眉毛紧锁，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "办公室，格子墙纸。",
+        "description_narrative": "近景镜头，冯总身体前倾，眉头紧锁，似乎从回忆中惊醒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊醒",
+        "duration": 0.76,
+        "description_visual": "近景平拍镜头；办公室，格子墙纸。；画面中央人物，身穿黑色西装，花纹领带，坐在椅子上，身体前倾，表情：眉毛紧锁，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装，花纹领带",
+                "position": "画面中央",
+                "action": "坐在椅子上，手放在桌上",
+                "expression": "眉毛舒展，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室，书架，相框。",
+        "description_narrative": "近景镜头，冯总低头看着桌上的相框，神情悲伤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；办公室，书架，相框。；画面中央人物，身穿黑色西装，花纹领带，坐在椅子上，手放在桌上，表情：眉毛舒展，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装，花纹领带",
+                "position": "画面中央",
+                "action": "坐在椅子上，眼睛闭合",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室，书架。",
+        "description_narrative": "近景镜头，冯总闭上眼睛，深吸一口气，平复情绪。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平复",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；办公室，书架。；画面中央人物，身穿黑色西装，花纹领带，坐在椅子上，眼睛闭合，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装，花纹领带",
+                "position": "画面左侧",
+                "action": "坐在椅子上，侧头",
+                "expression": "眉毛微蹙，眼睛注视侧方，嘴巴微张"
+            }
+        ],
+        "background": "办公室，书架。",
+        "description_narrative": "近景镜头，冯总侧头看向一边，似乎听到了什么声音。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疑惑",
+        "duration": 1.16,
+        "description_visual": "近景侧拍镜头；办公室，书架。；画面左侧人物，身穿黑色西装，花纹领带，坐在椅子上，侧头，表情：眉毛微蹙，眼睛注视侧方，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冯总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧桌后",
+                "action": "坐在椅子上，伸手",
+                "expression": "嘴巴微张"
+            },
+            {
+                "name": "女助理",
+                "gender": "女",
+                "clothing": "黑色职业套装",
+                "position": "画面右侧",
+                "action": "站立，背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室，格子墙纸，书柜。",
+        "description_narrative": "中景镜头，冯总坐在桌后伸手，女助理身穿黑色套装站在对面。",
+        "dialogue": "青青。",
+        "speaker": "冯总",
+        "emotion": "恍惚",
+        "duration": 5.2,
+        "description_visual": "中景平拍镜头；办公室，格子墙纸，书柜。；画面左侧桌后人物，身穿黑色西装，坐在椅子上，伸手，表情：嘴巴微张；画面右侧人物，身穿黑色职业套装，站立，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女助理",
+                "gender": "女",
+                "clothing": "黑色职业套装",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色强光背景。",
+        "description_narrative": "画面被强白光覆盖，隐约可见女助理的身影。",
+        "dialogue": "冯总，您叫我啊。",
+        "speaker": "女助理",
+        "emotion": "职业",
+        "duration": 1.84,
+        "description_visual": "全景平拍镜头；白色强光背景。；画面右侧人物，身穿黑色职业套装，站立，表情：不可见。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色模糊背景。",
+        "description_narrative": "画面全白模糊，结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "全景平拍镜头；白色模糊背景。。"
+    }
+]

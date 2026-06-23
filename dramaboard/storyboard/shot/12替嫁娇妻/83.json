@@ -1,0 +1,809 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面左侧",
+                "action": "从身后环抱女子",
+                "expression": "眼神深邃，嘴角微抿"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面右侧",
+                "action": "被男子环抱，低头",
+                "expression": "眉眼低垂，神情哀伤"
+            }
+        ],
+        "background": "深色木质屏风背景，上方有粉色大字标题",
+        "description_narrative": "中景固定镜头，画面展示剧集标题《替嫁娇妻》及集数。明王身穿浅色花纹长袍，从身后环抱白衣女子，女子身穿白色长裙低头哀伤，背景为深色屏风。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色木质屏风背景，上方有粉色大字标题；画面左侧人物，身穿浅色花纹长袍，从身后环抱女子，表情：眼神深邃，嘴角微抿；画面右侧人物，身穿白色长裙，被男子环抱，低头，表情：眉眼低垂，神情哀伤。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇上",
+                "gender": "男",
+                "clothing": "金色龙袍",
+                "position": "画面中央",
+                "action": "头部微侧，嘴唇颤动",
+                "expression": "双眼半睁无神，嘴角带血，面色苍白"
+            }
+        ],
+        "background": "昏暗室内，背景模糊",
+        "description_narrative": "特写镜头，皇上身穿金色龙袍，嘴角带血，面色苍白虚弱，眼神涣散，嘴唇微动下达命令。",
+        "dialogue": "把贵妃拉下去",
+        "speaker": "皇上",
+        "emotion": "虚弱/决绝",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；昏暗室内，背景模糊；画面中央人物，身穿金色龙袍，头部微侧，嘴唇颤动，表情：双眼半睁无神，嘴角带血，面色苍白。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇上",
+                "gender": "男",
+                "clothing": "金色龙袍",
+                "position": "画面中央",
+                "action": "嘴唇微张",
+                "expression": "眼神空洞，面部肌肉松弛"
+            }
+        ],
+        "background": "昏暗室内，背景模糊",
+        "description_narrative": "特写镜头延续，皇上继续微弱地说话，嘴角血迹清晰可见，神情濒死。",
+        "dialogue": "赐",
+        "speaker": "皇上",
+        "emotion": "虚弱",
+        "duration": 1.08,
+        "description_visual": "特写平拍镜头；昏暗室内，背景模糊；画面中央人物，身穿金色龙袍，嘴唇微张，表情：眼神空洞，面部肌肉松弛。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贵妃",
+                "gender": "女",
+                "clothing": "粉色纱裙",
+                "position": "画面中央",
+                "action": "身体微颤，抬头",
+                "expression": "眉头紧锁，双眼惊恐睁大，嘴巴微张"
+            }
+        ],
+        "background": "昏暗室内，背景有模糊的帘幔",
+        "description_narrative": "近景镜头，贵妃身穿粉色纱裙，头戴金饰，听到命令后神情惊恐，眉头紧锁，嘴巴微张似要辩解。",
+        "dialogue": "赐",
+        "speaker": "贵妃",
+        "emotion": "惊恐",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；昏暗室内，背景有模糊的帘幔；画面中央人物，身穿粉色纱裙，身体微颤，抬头，表情：眉头紧锁，双眼惊恐睁大，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面中央",
+                "action": "低头，视线避开",
+                "expression": "眉毛微蹙，眼神躲闪，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景有浅色帘幔",
+        "description_narrative": "近景镜头，睿王爷身穿白色宽袖长袍，头戴金色发冠，低头避开视线，神情紧张不安。",
+        "dialogue": "王爷",
+        "speaker": "贵妃",
+        "emotion": "紧张/回避",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；室内，背景有浅色帘幔；画面中央人物，身穿白色宽袖长袍，低头，视线避开，表情：眉毛微蹙，眼神躲闪，嘴唇紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贵妃",
+                "gender": "女",
+                "clothing": "粉色纱裙",
+                "position": "画面中央",
+                "action": "仰头向上看，身体前倾",
+                "expression": "眉头紧皱，眼中含泪，嘴巴张开求救"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "近景仰拍，贵妃仰头向上，神情绝望，眼中含泪，张嘴向睿王爷求救。",
+        "dialogue": "王爷救我",
+        "speaker": "贵妃",
+        "emotion": "绝望/哀求",
+        "duration": 0.72,
+        "description_visual": "近景仰拍镜头；黑暗背景；画面中央人物，身穿粉色纱裙，仰头向上看，身体前倾，表情：眉头紧皱，眼中含泪，嘴巴张开求救。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面中央",
+                "action": "低头，面无表情",
+                "expression": "眼神冷漠，嘴角微动似在冷笑"
+            }
+        ],
+        "background": "室内，背景有浅色帘幔",
+        "description_narrative": "近景镜头，睿王爷低头听着贵妃的求救，神情冷漠，嘴角微动，无动于衷。",
+        "dialogue": "王爷救我",
+        "speaker": "贵妃",
+        "emotion": "冷漠",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；室内，背景有浅色帘幔；画面中央人物，身穿白色宽袖长袍，低头，面无表情，表情：眼神冷漠，嘴角微动似在冷笑。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面中央",
+                "action": "抬头，眼神凌厉",
+                "expression": "眉毛上扬，眼神凶狠，嘴巴张开说话"
+            }
+        ],
+        "background": "室内，背景有浅色帘幔",
+        "description_narrative": "近景镜头，睿王爷突然抬头，眼神变得凌厉凶狠，张嘴冷冷地回应贵妃。",
+        "dialogue": "你毒害皇上 为何要本王来救你",
+        "speaker": "睿王爷",
+        "emotion": "凶狠/冷酷",
+        "duration": 2.24,
+        "description_visual": "近景平拍镜头；室内，背景有浅色帘幔；画面中央人物，身穿白色宽袖长袍，抬头，眼神凌厉，表情：眉毛上扬，眼神凶狠，嘴巴张开说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贵妃",
+                "gender": "女",
+                "clothing": "粉色纱裙",
+                "position": "画面中央",
+                "action": "身体后仰，震惊",
+                "expression": "眉毛挑起，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "近景镜头，贵妃听到睿王爷的话后震惊，身体后仰，眼中满是不可置信。",
+        "dialogue": "王爷 我也是在帮你做事啊",
+        "speaker": "贵妃",
+        "emotion": "震惊/委屈",
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；黑暗背景；画面中央人物，身穿粉色纱裙，身体后仰，震惊，表情：眉毛挑起，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "贵妃",
+                "gender": "女",
+                "clothing": "粉色纱裙",
+                "position": "画面中央",
+                "action": "脖子被手掐住，头部后仰",
+                "expression": "五官扭曲，眼睛紧闭，嘴巴大张痛苦嘶吼"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写镜头，一只手掐住贵妃的脖子，贵妃头部被迫后仰，五官因痛苦而扭曲，张嘴发出嘶吼。",
+        "dialogue": "啊啊啊",
+        "speaker": "贵妃",
+        "emotion": "痛苦/窒息",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿粉色纱裙，脖子被手掐住，头部后仰，表情：五官扭曲，眼睛紧闭，嘴巴大张痛苦嘶吼。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "红色花纹地毯",
+        "description_narrative": "特写俯拍镜头，画面展示红色花纹地毯，暗示贵妃倒地。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "特写俯拍镜头；红色花纹地毯。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇上",
+                "gender": "男",
+                "clothing": "金色龙袍",
+                "position": "背景床上",
+                "action": "卧病在床",
+                "expression": "虚弱"
+            },
+            {
+                "name": "贵妃",
+                "gender": "女",
+                "clothing": "粉色纱裙",
+                "position": "前景左侧地面",
+                "action": "倒地不起",
+                "expression": "无"
+            },
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面右侧",
+                "action": "站立旁观",
+                "expression": "冷静"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "担忧"
+            },
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面最右侧",
+                "action": "站立",
+                "expression": "警惕"
+            }
+        ],
+        "background": "寝宫，雕花大床，红色地毯",
+        "description_narrative": "全景镜头，寝宫内，皇上卧病在床，贵妃倒地不起，明王、白衣女子和睿王爷站立一旁，气氛凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.72,
+        "description_visual": "全景平拍镜头；寝宫，雕花大床，红色地毯；背景床上人物，身穿金色龙袍，卧病在床，表情：虚弱；前景左侧地面人物，身穿粉色纱裙，倒地不起，表情：无；画面右侧人物，身穿浅色花纹长袍，站立旁观，表情：冷静；画面中央人物，身穿白色长裙，站立，表情：担忧；画面最右侧人物，身穿白色宽袖长袍，站立，表情：警惕。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面中央",
+                "action": "侧头看向睿王爷",
+                "expression": "眉毛微挑，眼神犀利，嘴角微扬"
+            }
+        ],
+        "background": "蓝色帘幔背景",
+        "description_narrative": "近景镜头，明王侧头看向睿王爷，眼神犀利，嘴角带着一丝嘲讽的笑意，开口指责。",
+        "dialogue": "皇叔这是怕贵妃指认",
+        "speaker": "明王",
+        "emotion": "嘲讽/犀利",
+        "duration": 2.44,
+        "description_visual": "近景平拍镜头；蓝色帘幔背景；画面中央人物，身穿浅色花纹长袍，侧头看向睿王爷，表情：眉毛微挑，眼神犀利，嘴角微扬。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面中央",
+                "action": "转头看向明王",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写镜头，睿王爷转头看向明王，神情惊慌，眉毛紧锁，眼睛瞪大，听到指责后反应激烈。",
+        "dialogue": "所以才杀人灭口是吧",
+        "speaker": "明王",
+        "emotion": "惊慌/愤怒",
+        "duration": 2.84,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿白色宽袖长袍，转头看向明王，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "神情平静，目光坚定"
+            }
+        ],
+        "background": "蓝色帘幔背景",
+        "description_narrative": "近景镜头，明王神情平静，目光坚定地直视前方，面对睿王爷的抵赖毫不动摇。",
+        "dialogue": "明王不要空口无凭 污蔑本王",
+        "speaker": "睿王爷",
+        "emotion": "平静/自信",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；蓝色帘幔背景；画面中央人物，身穿浅色花纹长袍，直视前方，表情：神情平静，目光坚定。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面中央",
+                "action": "站立，双手背在身后",
+                "expression": "表情僵硬，眼神游移"
+            }
+        ],
+        "background": "室内，身后有博古架",
+        "description_narrative": "中景镜头，睿王爷站立在室内，双手背在身后，表情僵硬，眼神游移不定，显得心虚。",
+        "dialogue": "你以为本王没有证据",
+        "speaker": "明王",
+        "emotion": "心虚/强装镇定",
+        "duration": 1.44,
+        "description_visual": "中景平拍镜头；室内，身后有博古架；画面中央人物，身穿白色宽袖长袍，站立，双手背在身后，表情：表情僵硬，眼神游移。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "面无表情"
+            },
+            {
+                "name": "罗公公",
+                "gender": "男",
+                "clothing": "紫色太监服",
+                "position": "画面左侧",
+                "action": "低头站立",
+                "expression": "畏缩"
+            }
+        ],
+        "background": "室内，博古架背景",
+        "description_narrative": "中景镜头，睿王爷与罗公公并排站立，罗公公低头畏缩，睿王爷面无表情，气氛紧张。",
+        "dialogue": "罗公公",
+        "speaker": "明王",
+        "emotion": "紧张",
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；室内，博古架背景；画面右侧人物，身穿白色宽袖长袍，站立，表情：面无表情；画面左侧人物，身穿紫色太监服，低头站立，表情：畏缩。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面中央",
+                "action": "手持黑色布料",
+                "expression": "眼神锐利，嘴角微抿"
+            }
+        ],
+        "background": "蓝色帘幔背景",
+        "description_narrative": "近景镜头，明王手持一块黑色布料，眼神锐利地盯着睿王爷，展示证据。",
+        "dialogue": "这是你衣服上的吧",
+        "speaker": "明王",
+        "emotion": "锐利/质问",
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；蓝色帘幔背景；画面中央人物，身穿浅色花纹长袍，手持黑色布料，表情：眼神锐利，嘴角微抿。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面中央",
+                "action": "瞳孔收缩",
+                "expression": "眉毛跳动，眼神惊恐，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写镜头，睿王爷看到布料后瞳孔收缩，眉毛跳动，眼神惊恐，嘴巴微张发出疑问。",
+        "dialogue": "什么",
+        "speaker": "睿王爷",
+        "emotion": "惊恐",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿白色宽袖长袍，瞳孔收缩，表情：眉毛跳动，眼神惊恐，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面右侧",
+                "action": "展示布料",
+                "expression": "自信"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色长裙",
+                "position": "画面中央",
+                "action": "站立旁观",
+                "expression": "关注"
+            },
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面右侧后方",
+                "action": "站立",
+                "expression": "惊慌"
+            },
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "蓝色长袍",
+                "position": "前景右侧",
+                "action": "走动",
+                "expression": "模糊"
+            }
+        ],
+        "background": "寝宫，红色地毯",
+        "description_narrative": "全景镜头，明王在众人面前展示布料，睿王爷站在后方神情惊慌，白衣女子在一旁关注。",
+        "dialogue": "衣袖果然缺了一块",
+        "speaker": "明王",
+        "emotion": "自信/揭露",
+        "duration": 5.0,
+        "description_visual": "全景平拍镜头；寝宫，红色地毯；画面右侧人物，身穿浅色花纹长袍，展示布料，表情：自信；画面中央人物，身穿白色长裙，站立旁观，表情：关注；画面右侧后方人物，身穿白色宽袖长袍，站立，表情：惊慌；前景右侧人物，身穿蓝色长袍，走动，表情：模糊。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面中央",
+                "action": "低头看自己的衣袖",
+                "expression": "眼神下移，面色苍白"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写镜头，睿王爷低头看向自己的衣袖，面色苍白，眼神下移，确认了证据。",
+        "dialogue": "这块布料上",
+        "speaker": "明王",
+        "emotion": "绝望/苍白",
+        "duration": 1.76,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿白色宽袖长袍，低头看自己的衣袖，表情：眼神下移，面色苍白。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面中央",
+                "action": "手持布料解说",
+                "expression": "神情严肃，目光如炬"
+            }
+        ],
+        "background": "蓝色帘幔背景",
+        "description_narrative": "近景镜头，明王手持布料，神情严肃地解说布料上的毒药痕迹，目光如炬。",
+        "dialogue": "当时不慎沾了几滴毒药",
+        "speaker": "明王",
+        "emotion": "严肃",
+        "duration": 3.68,
+        "description_visual": "近景平拍镜头；蓝色帘幔背景；画面中央人物，身穿浅色花纹长袍，手持布料解说，表情：神情严肃，目光如炬。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面右侧",
+                "action": "站立不动",
+                "expression": "僵硬"
+            },
+            {
+                "name": "罗公公",
+                "gender": "男",
+                "clothing": "紫色太监服",
+                "position": "画面左侧",
+                "action": "低头",
+                "expression": "恐惧"
+            }
+        ],
+        "background": "室内，博古架背景",
+        "description_narrative": "中景镜头，睿王爷僵硬地站立，罗公公在一旁低头恐惧，明王继续施压。",
+        "dialogue": "还不承认",
+        "speaker": "明王",
+        "emotion": "施压",
+        "duration": 2.84,
+        "description_visual": "中景平拍镜头；室内，博古架背景；画面右侧人物，身穿白色宽袖长袍，站立不动，表情：僵硬；画面左侧人物，身穿紫色太监服，低头，表情：恐惧。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面中央",
+                "action": "低头看向罗公公",
+                "expression": "眼神压迫，嘴角微动"
+            }
+        ],
+        "background": "蓝色帘幔背景",
+        "description_narrative": "近景镜头，明王低头看向罗公公，眼神充满压迫感，继续追问。",
+        "dialogue": "罗公公 还不承认",
+        "speaker": "明王",
+        "emotion": "压迫",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；蓝色帘幔背景；画面中央人物，身穿浅色花纹长袍，低头看向罗公公，表情：眼神压迫，嘴角微动。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面中央",
+                "action": "侧头",
+                "expression": "眼神深邃，似在诱导"
+            }
+        ],
+        "background": "蓝色帘幔背景",
+        "description_narrative": "近景镜头，明王侧头，眼神深邃，似乎在诱导罗公公说出真相。",
+        "dialogue": "这件事情 恐怕不是你一人所为吧",
+        "speaker": "明王",
+        "emotion": "诱导/深沉",
+        "duration": 2.24,
+        "description_visual": "近景平拍镜头；蓝色帘幔背景；画面中央人物，身穿浅色花纹长袍，侧头，表情：眼神深邃，似在诱导。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "罗公公",
+                "gender": "男",
+                "clothing": "紫色太监服",
+                "position": "画面中央",
+                "action": "抬头，眼神慌乱",
+                "expression": "眉毛紧皱，眼神游移，嘴巴微张"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写镜头，罗公公抬头，眼神慌乱，眉毛紧皱，心理防线开始崩溃。",
+        "dialogue": "奴才",
+        "speaker": "罗公公",
+        "emotion": "慌乱/恐惧",
+        "duration": 1.36,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿紫色太监服，抬头，眼神慌乱，表情：眉毛紧皱，眼神游移，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面中央",
+                "action": "低头，不敢直视",
+                "expression": "眼神下移，面色灰败"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写镜头，睿王爷低头不敢直视，面色灰败，听到明王对罗公公的警告。",
+        "dialogue": "你可要想好了",
+        "speaker": "明王",
+        "emotion": "灰败/绝望",
+        "duration": 2.92,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿白色宽袖长袍，低头，不敢直视，表情：眼神下移，面色灰败。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面中央",
+                "action": "低头俯视",
+                "expression": "神情冷峻，目光向下"
+            }
+        ],
+        "background": "蓝色帘幔背景",
+        "description_narrative": "近景镜头，明王低头俯视，神情冷峻，继续用刑罚威胁罗公公。",
+        "dialogue": "你若是给他人背罪 这些罪行",
+        "speaker": "明王",
+        "emotion": "冷峻",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；蓝色帘幔背景；画面中央人物，身穿浅色花纹长袍，低头俯视，表情：神情冷峻，目光向下。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面中央",
+                "action": "目光锐利",
+                "expression": "眼神如刀，紧盯着对方"
+            }
+        ],
+        "background": "蓝色帘幔背景",
+        "description_narrative": "近景镜头，明王目光如刀，紧盯着罗公公，说出凌迟的刑罚。",
+        "dialogue": "可是要凌迟处",
+        "speaker": "明王",
+        "emotion": "严厉",
+        "duration": 3.04,
+        "description_visual": "近景平拍镜头；蓝色帘幔背景；画面中央人物，身穿浅色花纹长袍，目光锐利，表情：眼神如刀，紧盯着对方。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "罗公公",
+                "gender": "男",
+                "clothing": "紫色太监服",
+                "position": "画面中央",
+                "action": "低头，身体颤抖",
+                "expression": "满头大汗，眼神恐惧，嘴巴张开招供"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写镜头，罗公公满头大汗，身体颤抖，终于崩溃招供，指向睿王爷。",
+        "dialogue": "我说 都是睿王爷让我",
+        "speaker": "罗公公",
+        "emotion": "崩溃/恐惧",
+        "duration": 0.76,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿紫色太监服，低头，身体颤抖，表情：满头大汗，眼神恐惧，嘴巴张开招供。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "睿王爷",
+                "gender": "男",
+                "clothing": "白色宽袖长袍",
+                "position": "画面中央",
+                "action": "低头，身体微晃",
+                "expression": "眼神死寂，面无表情"
+            }
+        ],
+        "background": "室内背景",
+        "description_narrative": "特写镜头，睿王爷听到招供后，眼神死寂，身体微晃，彻底绝望。",
+        "dialogue": "这么做的",
+        "speaker": "罗公公",
+        "emotion": "死寂/绝望",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；室内背景；画面中央人物，身穿白色宽袖长袍，低头，身体微晃，表情：眼神死寂，面无表情。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王",
+                "gender": "男",
+                "clothing": "浅色花纹长袍",
+                "position": "画面中央",
+                "action": "侧耳倾听",
+                "expression": "神情淡然，似乎意料之中"
+            }
+        ],
+        "background": "蓝色帘幔背景",
+        "description_narrative": "近景镜头，明王侧耳倾听，神情淡然，背景传来求饶声，一切尽在掌握。",
+        "dialogue": "皇上饶命啊",
+        "speaker": "罗公公",
+        "emotion": "淡然/掌控",
+        "duration": 0.88,
+        "description_visual": "近景平拍镜头；蓝色帘幔背景；画面中央人物，身穿浅色花纹长袍，侧耳倾听，表情：神情淡然，似乎意料之中。"
+    }
+]

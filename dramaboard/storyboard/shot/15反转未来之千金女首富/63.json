@@ -1,0 +1,659 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "门后",
+                "action": "透过门上的长条玻璃窗向内凝视",
+                "expression": "眉毛微蹙，眼神忧虑，嘴唇紧闭"
+            }
+        ],
+        "background": "医院病房门口，米色门板，银色门把手，光线柔和",
+        "description_narrative": "中景固定镜头，白衣女子站在病房门外，透过门上的长条玻璃窗向里凝视，眉毛微蹙，眼神中流露出深深的忧虑，嘴唇紧闭，背景是米色的医院门板和银色把手。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "忧虑",
+        "duration": 8.72,
+        "description_visual": "中景平拍镜头；医院病房门口，米色门板，银色门把手，光线柔和；门后人物，身穿白色衬衫，透过门上的长条玻璃窗向内凝视，表情：眉毛微蹙，眼神忧虑，嘴唇紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾老爷子",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "躺在病床上，戴着氧气面罩，胸口起伏微弱",
+                "expression": "双眼紧闭，面色苍白，处于昏迷状态"
+            }
+        ],
+        "background": "医院病房内，白色床单，床头柜上有绿植和水果，墙上医疗设备带",
+        "description_narrative": "中景固定镜头，顾老爷子躺在病床上，身穿蓝白条纹病号服，戴着氧气面罩，双眼紧闭面色苍白，处于昏迷状态，背景是白色的床单和床头柜上的绿植。",
+        "dialogue": "(画外音) 系统检测。顾老爷子。警告，无法反转！报告宿主，顾老爷子心脏，重度衰竭，且身体状态，不合适进行，心脏移植手术，所以无法反转。",
+        "speaker": "系统音",
+        "emotion": "危急",
+        "duration": 17.12,
+        "description_visual": "中景平拍镜头；医院病房内，白色床单，床头柜上有绿植和水果，墙上医疗设备带；画面中央人物，身穿蓝白条纹病号服，躺在病床上，戴着氧气面罩，胸口起伏微弱，表情：双眼紧闭，面色苍白，处于昏迷状态。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "病床边",
+                "action": "跪在床边，双手紧紧握住病人的手，身体前倾",
+                "expression": "眉毛下垂，眼角含泪，嘴唇微张颤抖"
+            },
+            {
+                "name": "顾老爷子",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面下方",
+                "action": "手部被女子握住，静止不动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房内，米色地板，背景有医疗推车和绿植",
+        "description_narrative": "中近景俯拍镜头，白衣女子跪在病床边，身穿白色衬衫和浅蓝色短裙，双手紧紧握住顾老爷子的手，身体前倾，眉毛下垂，眼角含泪，嘴唇微张颤抖，背景是米色地板和医疗推车。",
+        "dialogue": "这次我，救不了你了。",
+        "speaker": "白衣女子",
+        "emotion": "悲伤",
+        "duration": 7.6,
+        "description_visual": "中近景俯拍镜头；病房内，米色地板，背景有医疗推车和绿植；病床边人物，身穿白色衬衫，浅蓝色短裙，跪在床边，双手紧紧握住病人的手，身体前倾，表情：眉毛下垂，眼角含泪，嘴唇微张颤抖；画面下方人物，身穿蓝白条纹病号服，手部被女子握住，静止不动，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧前景",
+                "action": "背对镜头，低头看着病床上的老人",
+                "expression": "不可见（背影）"
+            },
+            {
+                "name": "顾老爷子",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面右侧背景",
+                "action": "躺在床上，戴着氧气面罩",
+                "expression": "昏迷中"
+            }
+        ],
+        "background": "病房内，蓝色医疗设备带，白色墙壁",
+        "description_narrative": "过肩镜头，白衣女子背对镜头坐在床边，长发扎成低马尾，低头看着病床上的顾老爷子，顾老爷子戴着氧气面罩躺在右侧背景中，背景是蓝色的医疗设备带。",
+        "dialogue": "对不起顾老。",
+        "speaker": "白衣女子",
+        "emotion": "愧疚",
+        "duration": 2.72,
+        "description_visual": "过肩平拍镜头；病房内，蓝色医疗设备带，白色墙壁；画面左侧前景人物，身穿白色衬衫，背对镜头，低头看着病床上的老人，表情：不可见（背影）；画面右侧背景人物，身穿蓝白条纹病号服，躺在床上，戴着氧气面罩，表情：昏迷中。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "门外",
+                "action": "透过门上的玻璃窗向内看",
+                "expression": "眉毛微皱，眼神关切，嘴唇微动"
+            }
+        ],
+        "background": "医院走廊，米色门板，银色门把手",
+        "description_narrative": "中景固定镜头，顾云霆站在门外，身穿白色西装配绿色条纹领带，透过门上的玻璃窗向内凝视，眉毛微皱，眼神关切，嘴唇微动似乎在说话，背景是米色门板。",
+        "dialogue": "不是你的错。",
+        "speaker": "顾云霆",
+        "emotion": "安慰",
+        "duration": 2.76,
+        "description_visual": "中景平拍镜头；医院走廊，米色门板，银色门把手；门外人物，身穿白色西装，绿色条纹领带，透过门上的玻璃窗向内看，表情：眉毛微皱，眼神关切，嘴唇微动。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面前景",
+                "action": "跪坐在床边，低头垂泪",
+                "expression": "眉毛紧锁，眼泪滑落，嘴角下撇"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "背景门口",
+                "action": "推门进入病房",
+                "expression": "神情凝重"
+            }
+        ],
+        "background": "病房内，门口敞开，光线明亮",
+        "description_narrative": "中近景固定镜头，白衣女子跪坐在床边前景，低头垂泪，眉毛紧锁，眼泪滑落，顾云霆身穿白色西装在背景门口推门进入，神情凝重，背景是敞开的病房门。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；病房内，门口敞开，光线明亮；画面前景人物，身穿白色衬衫，浅蓝色短裙，跪坐在床边，低头垂泪，表情：眉毛紧锁，眼泪滑落，嘴角下撇；背景门口人物，身穿白色西装，推门进入病房，表情：神情凝重。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "从门口走向女子，身影在暗处",
+                "expression": "不可见（光线暗）"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "背对镜头坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗的室内，门口有光亮",
+        "description_narrative": "全景跟拍镜头，光线转暗，顾云霆身穿白色西装从门口走向女子，身影在暗处移动，白衣女子背对镜头坐在右侧，背景是昏暗的室内和门口的光亮。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉重",
+        "duration": 2.4,
+        "description_visual": "全景平拍镜头（跟拍）；昏暗的室内，门口有光亮；画面中央人物，身穿白色西装，从门口走向女子，身影在暗处，表情：不可见（光线暗）；画面右侧人物，身穿白色衬衫，背对镜头坐着，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面左侧",
+                "action": "抬手揉搓额头和眼睛，显得疲惫",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "室内暗调背景，光线集中在人物身上",
+        "description_narrative": "中近景固定镜头，顾云霆站在画面左侧，身穿白色西装配绿色条纹领带，抬手揉搓额头和眼睛，显得十分疲惫，眉毛紧蹙，眼睛闭合，嘴巴微张，背景是暗调的室内。",
+        "dialogue": "折腾了一天了，吃点东西吧，不然身体，会吃不消的。",
+        "speaker": "顾云霆",
+        "emotion": "疲惫",
+        "duration": 8.76,
+        "description_visual": "中近景平拍镜头；室内暗调背景，光线集中在人物身上；画面左侧人物，身穿白色西装，绿色条纹领带，抬手揉搓额头和眼睛，显得疲惫，表情：眉毛紧蹙，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面中央",
+                "action": "低头看着手中的食物，神情落寞",
+                "expression": "眉毛低垂，眼神向下，嘴唇微抿"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "递过食物",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，背景有门和绿植",
+        "description_narrative": "中近景固定镜头，白衣女子坐在画面中央，身穿白色衬衫和浅蓝色短裙，低头看着手中的食物，神情落寞，眉毛低垂，眼神向下，顾云霆在左侧递过食物，背景有门和绿植。",
+        "dialogue": "顾董说得对，要不是因为我，顾老爷子不会，变成现在，这个样子。",
+        "speaker": "白衣女子",
+        "emotion": "自责",
+        "duration": 5.36,
+        "description_visual": "中近景平拍镜头；室内，背景有门和绿植；画面中央人物，身穿白色衬衫，浅蓝色短裙，低头看着手中的食物，神情落寞，表情：眉毛低垂，眼神向下，嘴唇微抿；画面左侧人物，身穿白色西装，递过食物，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面左侧",
+                "action": "身体前倾，看着女子，表情严肃",
+                "expression": "眉毛上扬，眼睛直视，嘴巴微张说话"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写固定镜头，顾云霆位于画面左侧，身穿白色西装配绿色条纹领带，身体前倾看着女子，表情严肃，眉毛上扬，眼睛直视，嘴巴微张说话，白衣女子背对镜头在右侧前景。",
+        "dialogue": "我说了不怪你。爷爷不相信你，才错失金矿的，发展成这样，不是你的错。",
+        "speaker": "顾云霆",
+        "emotion": "坚定",
+        "duration": 7.36,
+        "description_visual": "特写平拍镜头；室内，背景模糊；画面左侧人物，身穿白色西装，绿色条纹领带，身体前倾，看着女子，表情严肃，表情：眉毛上扬，眼睛直视，嘴巴微张说话；画面右侧前景人物，身穿白色衬衫，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色亮片吊带裙",
+                "position": "画面左侧前景",
+                "action": "躲在柱子后偷听，身体微侧",
+                "expression": "眼神专注，嘴巴微张"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧背景",
+                "action": "站立面对白衣女子",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面右侧背景",
+                "action": "站立面对顾云霆",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚室外或大厅，玻璃幕墙，光线冷调",
+        "description_narrative": "全景固定镜头，黑裙女子身穿黑色亮片吊带裙躲在左侧前景柱子后偷听，身体微侧，眼神专注，顾云霆和白衣女子在右侧背景站立交谈，背景是夜晚的玻璃幕墙和冷调光线。",
+        "dialogue": "你不要管二叔。说什么？我相信你。",
+        "speaker": "顾云霆",
+        "emotion": "信任",
+        "duration": 2.96,
+        "description_visual": "全景平拍镜头；夜晚室外或大厅，玻璃幕墙，光线冷调；画面左侧前景人物，身穿黑色亮片吊带裙，躲在柱子后偷听，身体微侧，表情：眼神专注，嘴巴微张；画面右侧背景人物，身穿白色西装，站立面对白衣女子，表情：不可见；画面右侧背景人物，身穿白色衬衫，浅蓝色短裙，站立面对顾云霆，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面中央",
+                "action": "抬头看着男子，眼眶泛红，情绪激动",
+                "expression": "眉毛微蹙，眼泪在眼眶打转，嘴唇颤抖"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "侧身倾听",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚室内，暗调背景",
+        "description_narrative": "中近景固定镜头，白衣女子站在画面中央，身穿白色衬衫和浅蓝色短裙，抬头看着男子，眼眶泛红，情绪激动，眉毛微蹙，眼泪在眼眶打转，嘴唇颤抖，顾云霆在左侧侧身倾听。",
+        "dialogue": "顾云霆，我不想瞒着你，你二叔说得对，对于这个金矿，我确实有私心，所以才花了全部，身家拍下这块地。对不起，我辜负了，你的信任。",
+        "speaker": "白衣女子",
+        "emotion": "坦白",
+        "duration": 17.92,
+        "description_visual": "中近景平拍镜头；夜晚室内，暗调背景；画面中央人物，身穿白色衬衫，浅蓝色短裙，抬头看着男子，眼眶泛红，情绪激动，表情：眉毛微蹙，眼泪在眼眶打转，嘴唇颤抖；画面左侧人物，身穿白色西装，侧身倾听，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面左侧",
+                "action": "眉头紧锁，疑惑地看着女子",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "低头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写固定镜头，顾云霆位于画面左侧，身穿白色西装配绿色条纹领带，眉头紧锁，疑惑地看着女子，眉毛紧皱，眼睛眯起，嘴巴微张，白衣女子在右侧低头。",
+        "dialogue": "为什么？",
+        "speaker": "顾云霆",
+        "emotion": "疑惑",
+        "duration": 3.56,
+        "description_visual": "特写平拍镜头；室内，背景模糊；画面左侧人物，身穿白色西装，绿色条纹领带，眉头紧锁，疑惑地看着女子，表情：眉毛紧皱，眼睛眯起，嘴巴微张；画面右侧人物，身穿白色衬衫，低头，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面中央",
+                "action": "急切地解释，语速加快",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴快速开合"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "倾听",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚室内，暗调背景",
+        "description_narrative": "中近景固定镜头，白衣女子站在画面中央，身穿白色衬衫和浅蓝色短裙，急切地解释，语速加快，眉毛上扬，眼睛睁大，嘴巴快速开合，顾云霆在左侧倾听。",
+        "dialogue": "因为这两百亿，能让我距离江城，首富目标，更近一步。我没有时间了，",
+        "speaker": "白衣女子",
+        "emotion": "急切",
+        "duration": 4.56,
+        "description_visual": "中近景平拍镜头；夜晚室内，暗调背景；画面中央人物，身穿白色衬衫，浅蓝色短裙，急切地解释，语速加快，表情：眉毛上扬，眼睛睁大，嘴巴快速开合；画面左侧人物，身穿白色西装，倾听，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "手按在胸口，流泪哭泣",
+                "expression": "眉毛痛苦地皱起，眼泪流下，嘴巴张大哭喊"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "特写固定镜头，白衣女子位于画面中央，身穿白色衬衫，手按在胸口，流泪哭泣，眉毛痛苦地皱起，眼泪流下，嘴巴张大哭喊，背景是暗调。",
+        "dialogue": "我耗不起了。但是我从来没有，想过伤害你，从来都没有，也没有像他们说，想独占这个金矿。",
+        "speaker": "白衣女子",
+        "emotion": "痛苦",
+        "duration": 6.32,
+        "description_visual": "特写平拍镜头；暗调背景；画面中央人物，身穿白色衬衫，手按在胸口，流泪哭泣，表情：眉毛痛苦地皱起，眼泪流下，嘴巴张大哭喊。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色亮片吊带裙",
+                "position": "画面左侧前景",
+                "action": "躲在柱子后，身体紧绷",
+                "expression": "表情震惊"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧背景",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧背景",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚室外，玻璃幕墙，冷光",
+        "description_narrative": "全景固定镜头，黑裙女子身穿黑色亮片吊带裙躲在左侧前景柱子后，身体紧绷，表情震惊，顾云霆和白衣女子在右侧背景站立交谈，背景是夜晚的玻璃幕墙和冷光。",
+        "dialogue": "我只是想，找到小宝而已。",
+        "speaker": "白衣女子",
+        "emotion": "悲伤",
+        "duration": 2.56,
+        "description_visual": "全景平拍镜头；夜晚室外，玻璃幕墙，冷光；画面左侧前景人物，身穿黑色亮片吊带裙，躲在柱子后，身体紧绷，表情：表情震惊；画面右侧背景人物，身穿白色西装，站立，表情：不可见；画面右侧背景人物，身穿白色衬衫，站立，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面左侧",
+                "action": "眼神坚定地看着女子",
+                "expression": "眉毛舒展，眼神专注，嘴唇微动"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "抬头看男子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写固定镜头，顾云霆位于画面左侧，身穿白色西装配绿色条纹领带，眼神坚定地看着女子，眉毛舒展，眼神专注，嘴唇微动，白衣女子在右侧抬头看男子。",
+        "dialogue": "我相信你。",
+        "speaker": "顾云霆",
+        "emotion": "坚定",
+        "duration": 3.04,
+        "description_visual": "特写平拍镜头；室内，背景模糊；画面左侧人物，身穿白色西装，绿色条纹领带，眼神坚定地看着女子，表情：眉毛舒展，眼神专注，嘴唇微动；画面右侧人物，身穿白色衬衫，抬头看男子，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面中央",
+                "action": "难以置信地看着男子，眼中含泪",
+                "expression": "眉毛微挑，眼睛睁大，嘴唇微张"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "侧身",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚室内，暗调背景",
+        "description_narrative": "中近景固定镜头，白衣女子站在画面中央，身穿白色衬衫和浅蓝色短裙，难以置信地看着男子，眼中含泪，眉毛微挑，眼睛睁大，嘴唇微张，顾云霆在左侧侧身。",
+        "dialogue": "即使你爷爷被我，害到 ICU 里，你也信我？",
+        "speaker": "白衣女子",
+        "emotion": "震惊",
+        "duration": 4.64,
+        "description_visual": "中近景平拍镜头；夜晚室内，暗调背景；画面中央人物，身穿白色衬衫，浅蓝色短裙，难以置信地看着男子，眼中含泪，表情：眉毛微挑，眼睛睁大，嘴唇微张；画面左侧人物，身穿白色西装，侧身，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面左侧",
+                "action": "深情地看着女子，眼神温柔",
+                "expression": "眉毛柔和，眼神充满信任，嘴唇微动"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "倾听",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "特写固定镜头，顾云霆位于画面左侧，身穿白色西装配绿色条纹领带，深情地看着女子，眼神温柔，眉毛柔和，眼神充满信任，嘴唇微动，白衣女子在右侧倾听。",
+        "dialogue": "我信你。我现在能信的人，只有你了。我可以抱抱你吗？",
+        "speaker": "顾云霆",
+        "emotion": "深情",
+        "duration": 9.24,
+        "description_visual": "特写平拍镜头；室内，背景模糊；画面左侧人物，身穿白色西装，绿色条纹领带，深情地看着女子，眼神温柔，表情：眉毛柔和，眼神充满信任，嘴唇微动；画面右侧人物，身穿白色衬衫，倾听，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色亮片吊带裙，珍珠项链",
+                "position": "画面中央",
+                "action": "转头看向镜头方向，表情震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "暗处，砖墙背景",
+        "description_narrative": "特写固定镜头，黑裙女子位于画面中央，身穿黑色亮片吊带裙佩戴珍珠项链，转头看向镜头方向，表情震惊，眉毛上扬，眼睛睁大，嘴巴微张，背景是暗处的砖墙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；暗处，砖墙背景；画面中央人物，身穿黑色亮片吊带裙，珍珠项链，转头看向镜头方向，表情震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色亮片吊带裙，珍珠项链",
+                "position": "画面中央",
+                "action": "抬手捂住嘴巴，身体微颤",
+                "expression": "眉毛紧蹙，眼睛惊恐，手捂嘴"
+            }
+        ],
+        "background": "暗处，砖墙背景",
+        "description_narrative": "特写固定镜头，黑裙女子位于画面中央，身穿黑色亮片吊带裙佩戴珍珠项链，抬手捂住嘴巴，身体微颤，眉毛紧蹙，眼睛惊恐，手捂嘴，背景是暗处的砖墙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；暗处，砖墙背景；画面中央人物，身穿黑色亮片吊带裙，珍珠项链，抬手捂住嘴巴，身体微颤，表情：眉毛紧蹙，眼睛惊恐，手捂嘴。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色亮片吊带裙，珍珠项链",
+                "position": "画面中央",
+                "action": "侧身站立，手依然捂着嘴",
+                "expression": "眼神慌乱，眉毛紧锁"
+            }
+        ],
+        "background": "暗处，砖墙背景",
+        "description_narrative": "特写固定镜头，黑裙女子侧身站立在画面中央，身穿黑色亮片吊带裙佩戴珍珠项链，手依然捂着嘴，眼神慌乱，眉毛紧锁，背景是暗处的砖墙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "慌乱",
+        "duration": 1.0,
+        "description_visual": "特写侧拍镜头；暗处，砖墙背景；画面中央人物，身穿黑色亮片吊带裙，珍珠项链，侧身站立，手依然捂着嘴，表情：眼神慌乱，眉毛紧锁。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色亮片吊带裙，珍珠项链",
+                "position": "画面中央",
+                "action": "手捂着嘴，身体靠在墙上，神情复杂",
+                "expression": "眼神闪烁，眉毛微动，手捂嘴"
+            }
+        ],
+        "background": "暗处，砖墙背景",
+        "description_narrative": "特写固定镜头，黑裙女子位于画面中央，身穿黑色亮片吊带裙佩戴珍珠项链，手捂着嘴，身体靠在墙上，神情复杂，眼神闪烁，眉毛微动，背景是暗处的砖墙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 2.48,
+        "description_visual": "特写侧拍镜头；暗处，砖墙背景；画面中央人物，身穿黑色亮片吊带裙，珍珠项链，手捂着嘴，身体靠在墙上，神情复杂，表情：眼神闪烁，眉毛微动，手捂嘴。"
+    }
+]

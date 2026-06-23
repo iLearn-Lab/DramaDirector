@@ -1,0 +1,385 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景，无具体场景细节，光线明亮均匀。",
+        "description_narrative": "画面为纯白色背景，无任何人物或物体，持续3.84秒，作为片头或转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；纯白背景，无具体场景细节，光线明亮均匀。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "室内走廊，浅色木地板，左侧深色柜体，尽头白色带金边房门，右侧黑色门框，顶部筒灯照明。",
+        "description_narrative": "镜头固定拍摄一条现代风格的走廊，尽头是一扇关闭的白色房门，门上有金色线条装饰，环境安静，无人出现。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.28,
+        "description_visual": "全景平拍镜头；室内走廊，浅色木地板，左侧深色柜体，尽头白色带金边房门，右侧黑色门框，顶部筒灯照明。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "绿色中式对襟唐装，黑色长裤",
+                "position": "画面左侧向右侧移动",
+                "action": "身体微向前倾，缓慢走向床边，步态略显虚弱",
+                "expression": "眉毛微垂，眼睛注视前方地面，嘴巴紧闭"
+            },
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫，黑色长裤",
+                "position": "画面左边缘，仅手部可见",
+                "action": "左手轻扶老年男子背部，引导其前行",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室一角，可见米色衣柜，床头柜上亮着暖光台灯，摆放绿植，光线柔和温馨。",
+        "description_narrative": "镜头跟随老年男子进入卧室，年轻男子在旁搀扶，老年男子身穿绿色唐装走向床边，准备坐下。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.32,
+        "description_visual": "中景平拍镜头（跟拍）；卧室一角，可见米色衣柜，床头柜上亮着暖光台灯，摆放绿植，光线柔和温馨。；画面左侧向右侧移动人物，身穿绿色中式对襟唐装，黑色长裤，身体微向前倾，缓慢走向床边，步态略显虚弱，表情：眉毛微垂，眼睛注视前方地面，嘴巴紧闭；画面左边缘，仅手部可见人物，身穿浅灰色长袖衬衫，黑色长裤，左手轻扶老年男子背部，引导其前行，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫",
+                "position": "画面左侧",
+                "action": "右手握住老年男子左手手腕，手指搭在脉搏处",
+                "expression": "不可见"
+            },
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "绿色中式对襟唐装",
+                "position": "画面右侧",
+                "action": "手臂自然下垂，手腕被握住，处于静止状态",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深色背景，聚焦于两人手部接触区域，光线集中在手腕处。",
+        "description_narrative": "特写镜头展示年轻男子的手握住老年男子的手腕，似乎在进行把脉或针灸前的准备，动作轻柔专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.16,
+        "description_visual": "特写俯拍镜头；深色背景，聚焦于两人手部接触区域，光线集中在手腕处。；画面左侧人物，身穿浅灰色长袖衬衫，右手握住老年男子左手手腕，手指搭在脉搏处，表情：不可见；画面右侧人物，身穿绿色中式对襟唐装，手臂自然下垂，手腕被握住，处于静止状态，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，目光向下注视，双手在画面外操作",
+                "expression": "眉毛微蹙，眼睛专注向下看，嘴巴微闭"
+            }
+        ],
+        "background": "浅米色墙面，右侧可见深色衣柜边缘，光线柔和。",
+        "description_narrative": "镜头聚焦年轻男子面部，他神情专注，低头看着下方，正在进行某种精细操作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 3.72,
+        "description_visual": "近景平拍镜头；浅米色墙面，右侧可见深色衣柜边缘，光线柔和。；画面中央人物，身穿浅灰色长袖衬衫，身体前倾，目光向下注视，双手在画面外操作，表情：眉毛微蹙，眼睛专注向下看，嘴巴微闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "不可见",
+                "position": "画面下方前景",
+                "action": "头部静止，仅露出花白头发顶部",
+                "expression": "不可见"
+            },
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色衬衫",
+                "position": "画面上方背景，虚化",
+                "action": "身体前倾，靠近老年男子头部",
+                "expression": "不可见"
+            }
+        ],
+        "background": "虚化的灰色衬衫背景，焦点在老年男子的花白头发上。",
+        "description_narrative": "极特写镜头对准老年男子的头顶花白头发，背景中年轻男子的灰色衬衫虚化，暗示针灸治疗正在进行中。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.32,
+        "description_visual": "大特写俯拍镜头；虚化的灰色衬衫背景，焦点在老年男子的花白头发上。；画面下方前景人物，身穿不可见，头部静止，仅露出花白头发顶部，表情：不可见；画面上方背景，虚化人物，身穿浅灰色衬衫，身体前倾，靠近老年男子头部，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "右手抬起，似乎刚完成动作，身体站直",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "浅米色墙面，右侧可见深色衣柜边缘。",
+        "description_narrative": "年轻男子完成操作后站直身体，目光看向一旁的老年男子，神情平和。",
+        "dialogue": "老爷子，你现在身体越来越好了，毒素在一点点消退，假以时日，毒素便能彻底消除了。",
+        "speaker": "年轻男子",
+        "emotion": "温和",
+        "duration": 16.24,
+        "description_visual": "中近景平拍镜头；浅米色墙面，右侧可见深色衣柜边缘。；画面左侧人物，身穿浅灰色长袖衬衫，黑色长裤，右手抬起，似乎刚完成动作，身体站直，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，倾听对方说话，眼神略微下垂",
+                "expression": "眉毛平展，眼睛注视侧前方，嘴巴闭合"
+            }
+        ],
+        "background": "浅米色墙面，右侧深色线条装饰。",
+        "description_narrative": "镜头对准年轻男子，他侧耳倾听，表情认真，画面字幕显示“拉出来”，但他并未说话，而是在听对方讲述。",
+        "dialogue": "谢谢你啊，老夫这身体都快入土了，还让你费时费力的。",
+        "speaker": "老年男子",
+        "emotion": "倾听",
+        "duration": 10.52,
+        "description_visual": "中近景平拍镜头；浅米色墙面，右侧深色线条装饰。；画面中央人物，身穿浅灰色长袖衬衫，头部微侧，倾听对方说话，眼神略微下垂，表情：眉毛平展，眼睛注视侧前方，嘴巴闭合。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "绿色中式对襟唐装",
+                "position": "画面中央",
+                "action": "坐在床边，头部微抬，看向站立的年轻男子",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴微张似在说话"
+            }
+        ],
+        "background": "浅色软包床头背景，光线温暖。",
+        "description_narrative": "镜头切换至老年男子面部特写，他抬头看着年轻男子，神情中带着感激和沧桑。",
+        "dialogue": "老爷子客气了，这是我应该做的。",
+        "speaker": "年轻男子",
+        "emotion": "谦逊",
+        "duration": 4.12,
+        "description_visual": "近景平拍镜头；浅色软包床头背景，光线温暖。；画面中央人物，身穿绿色中式对襟唐装，坐在床边，头部微抬，看向站立的年轻男子，表情：眉毛微扬，眼睛注视对方，嘴巴微张似在说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫",
+                "position": "画面中央",
+                "action": "目光略微游移，似乎在思考或回应",
+                "expression": "眉毛微动，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "浅米色墙面，右侧深色线条。",
+        "description_narrative": "镜头回到年轻男子，他听到对方的提议后，表情略显迟疑，似乎在斟酌措辞。",
+        "dialogue": "等妙妙要不忙的时候，选个吉日，你俩把酒宴办了吧。一直这么拖着，挺不好的。",
+        "speaker": "老年男子",
+        "emotion": "关切",
+        "duration": 10.48,
+        "description_visual": "中近景平拍镜头；浅米色墙面，右侧深色线条。；画面中央人物，身穿浅灰色长袖衬衫，目光略微游移，似乎在思考或回应，表情：眉毛微动，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "绿色中式对襟唐装",
+                "position": "画面中央",
+                "action": "坐在床边，眼神期待地看着对方",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "浅色软包床头背景。",
+        "description_narrative": "镜头再次给到老年男子，他继续说着关于婚事的话题，眼神中流露出长辈的关切。",
+        "dialogue": "还是看妙妙的意思吧。",
+        "speaker": "年轻男子",
+        "emotion": "尊重",
+        "duration": 2.52,
+        "description_visual": "近景平拍镜头；浅色软包床头背景。；画面中央人物，身穿绿色中式对襟唐装，坐在床边，眼神期待地看着对方，表情：眉毛微挑，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫，黑色长裤",
+                "position": "画面左侧站立",
+                "action": "双手自然下垂，身体微转向老年男子",
+                "expression": "眉毛舒展，眼睛看着老年男子，嘴巴微张"
+            },
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "绿色中式对襟唐装",
+                "position": "画面右侧坐在床边",
+                "action": "侧身对着年轻男子，正在说话",
+                "expression": "眉毛微蹙，眼睛看着年轻男子，嘴巴开合"
+            }
+        ],
+        "background": "卧室全景，左侧衣柜，右侧床铺，中间两人对话。",
+        "description_narrative": "中景镜头展示两人对话场景，老年男子坐在床边感叹，年轻男子站立倾听，气氛融洽。",
+        "dialogue": "妙妙给我惯坏了，你再这么惯着，妙妙长不大的。",
+        "speaker": "老年男子",
+        "emotion": "无奈",
+        "duration": 5.92,
+        "description_visual": "中景平拍镜头；卧室全景，左侧衣柜，右侧床铺，中间两人对话。；画面左侧站立人物，身穿浅灰色长袖衬衫，黑色长裤，双手自然下垂，身体微转向老年男子，表情：眉毛舒展，眼睛看着老年男子，嘴巴微张；画面右侧坐在床边人物，身穿绿色中式对襟唐装，侧身对着年轻男子，正在说话，表情：眉毛微蹙，眼睛看着年轻男子，嘴巴开合。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "转身准备离开，身体动态模糊",
+                "expression": "不可见"
+            },
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "绿色中式对襟唐装",
+                "position": "画面右侧",
+                "action": "坐在床上，头部转动跟随年轻男子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，因镜头运动产生动态模糊。",
+        "description_narrative": "镜头跟随年轻男子转身的动作产生模糊，他一边向门口走去一边嘱咐老人，画面动感强烈。",
+        "dialogue": "她现在已经能独当一面了，我先出去，你早点休息，药记得按时吃。",
+        "speaker": "年轻男子",
+        "emotion": "叮嘱",
+        "duration": 5.24,
+        "description_visual": "中景平拍镜头（摇镜）；卧室环境，因镜头运动产生动态模糊。；画面左侧人物，身穿浅灰色长袖衬衫，黑色长裤，转身准备离开，身体动态模糊，表情：不可见；画面右侧人物，身穿绿色中式对襟唐装，坐在床上，头部转动跟随年轻男子，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫",
+                "position": "画面左侧，模糊",
+                "action": "快速走向门口，背影模糊",
+                "expression": "不可见"
+            },
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "绿色中式对襟唐装",
+                "position": "画面右侧，模糊",
+                "action": "坐在床上，目送离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，高度动态模糊，光线拉成线条。",
+        "description_narrative": "镜头快速摇动，画面呈现强烈的运动模糊效果，年轻男子离开房间，老年男子留在原地。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "中景平拍镜头（摇镜）；卧室环境，高度动态模糊，光线拉成线条。；画面左侧，模糊人物，身穿浅灰色长袖衬衫，快速走向门口，背影模糊，表情：不可见；画面右侧，模糊人物，身穿绿色中式对襟唐装，坐在床上，目送离开，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "浅灰色长袖衬衫",
+                "position": "画面左侧，极度模糊",
+                "action": "走出画面",
+                "expression": "不可见"
+            },
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "绿色中式对襟唐装",
+                "position": "画面右侧，极度模糊",
+                "action": "静坐",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，极度模糊，几乎无法辨认细节。",
+        "description_narrative": "画面持续模糊，年轻男子完全离开镜头范围，场景过渡结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.36,
+        "description_visual": "中景平拍镜头（摇镜）；卧室环境，极度模糊，几乎无法辨认细节。；画面左侧，极度模糊人物，身穿浅灰色长袖衬衫，走出画面，表情：不可见；画面右侧，极度模糊人物，身穿绿色中式对襟唐装，静坐，表情：不可见。"
+    }
+]

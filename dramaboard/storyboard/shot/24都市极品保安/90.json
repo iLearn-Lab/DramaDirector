@@ -1,0 +1,765 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见内容",
+        "description_narrative": "画面全黑，无可见人物或场景，持续3.28秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见内容。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "各色便装",
+                "position": "背景/广场",
+                "action": "行走",
+                "expression": "无法辨识"
+            }
+        ],
+        "background": "现代商业建筑外景，玻璃幕墙，星巴克门店，巨型白色兔子雕塑，傍晚光线",
+        "description_narrative": "低角度仰拍现代商业建筑，玻璃幕墙上反射出天空和云朵，底层有星巴克门店和巨型白色充气兔子雕塑，广场上有行人走过。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.92,
+        "description_visual": "全景仰拍镜头；现代商业建筑外景，玻璃幕墙，星巴克门店，巨型白色兔子雕塑，傍晚光线；背景/广场人物，身穿各色便装，行走，表情：无法辨识。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "转头",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚街头，背景模糊，红色灯光",
+        "description_narrative": "镜头快速摇向方不凡，他身穿黑色衬衫，侧脸对着镜头，背景是模糊的红色灯光，画面略显动态模糊。",
+        "dialogue": "方不凡",
+        "speaker": "白衣女子",
+        "emotion": "平静",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头（摇镜）；夜晚街头，背景模糊，红色灯光；画面左侧人物，身穿黑色衬衫，转头，表情：眉毛舒展，眼睛微闭，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，长款耳环",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，背景虚化，暖色光斑",
+        "description_narrative": "白衣女子特写，她长发披肩，佩戴长款耳环，身穿白色衬衫，眼神带着疑惑看向对方，嘴巴微张正在说话。",
+        "dialogue": "嗯，你刚才到底",
+        "speaker": "白衣女子",
+        "emotion": "疑惑",
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头；夜晚街头，背景虚化，暖色光斑；画面中央人物，身穿白色衬衫，长款耳环，说话，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "手持档案袋",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，前景有棕色档案袋遮挡",
+        "description_narrative": "白衣女子继续质问，手中拿着一个棕色档案袋，表情严肃，眉头紧锁，眼神紧紧盯着对方。",
+        "dialogue": "跟这个沈睿",
+        "speaker": "白衣女子",
+        "emotion": "严肃",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；夜晚街头，前景有棕色档案袋遮挡；画面中央人物，身穿白色衬衫，手持档案袋，表情：眉毛紧锁，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "夜晚街头，背景虚化",
+        "description_narrative": "白衣女子继续追问，表情急切，眼睛睁大，嘴巴张开询问对方说了什么。",
+        "dialogue": "说了什么呀？他态度转",
+        "speaker": "白衣女子",
+        "emotion": "急切",
+        "duration": 1.08,
+        "description_visual": "特写平拍镜头；夜晚街头，背景虚化；画面中央人物，身穿白色衬衫，说话，表情：眉毛微挑，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "侧头说话",
+                "expression": "眉毛微蹙，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "白衣女子侧脸对着镜头，继续表达对沈经理态度转变之快的惊讶，眼神中充满不解。",
+        "dialogue": "变这么快",
+        "speaker": "白衣女子",
+        "emotion": "惊讶",
+        "duration": 0.84,
+        "description_visual": "近景侧拍镜头；夜晚街头，背景昏暗；画面右侧人物，身穿白色衬衫，侧头说话，表情：眉毛微蹙，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "转身",
+                "expression": "面部模糊，嘴巴微动"
+            }
+        ],
+        "background": "夜晚街头，红色背景",
+        "description_narrative": "镜头快速移动，方不凡的身影在画面中略显模糊，他似乎正在转身或移动，准备回答。",
+        "dialogue": "我",
+        "speaker": "方不凡",
+        "emotion": "自信",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头（摇镜）；夜晚街头，红色背景；画面左侧人物，身穿黑色衬衫，转身，表情：面部模糊，嘴巴微动。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "手持档案袋",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "夜晚街头，红色灯光背景",
+        "description_narrative": "方不凡手持棕色档案袋，面带自信的微笑，眼神玩味地看着女子，似乎对自己的行为很得意。",
+        "dialogue": "不是跟你说了吗？是因为我的人格魅力",
+        "speaker": "方不凡",
+        "emotion": "得意",
+        "duration": 3.16,
+        "description_visual": "近景平拍镜头；夜晚街头，红色灯光背景；画面中央人物，身穿黑色衬衫，手持档案袋，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛看向下方，嘴角上扬"
+            }
+        ],
+        "background": "夜晚街头，紫色灯光背景",
+        "description_narrative": "方不凡侧身微笑，背景是紫色的建筑灯光，他看起来轻松愉快，对女子的追问不以为意。",
+        "dialogue": "哎哎哎，你说不说",
+        "speaker": "白衣女子",
+        "emotion": " playful",
+        "duration": 2.32,
+        "description_visual": "中近景平拍镜头；夜晚街头，紫色灯光背景；画面左侧人物，身穿黑色衬衫，微笑，表情：眉毛舒展，眼睛看向下方，嘴角上扬。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "靠近女子",
+                "expression": "眉毛微挑，眼睛注视女子，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "伸手阻挡",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，紫色灯光背景",
+        "description_narrative": "方不凡身体前倾靠近女子，女子伸手似乎要推他或阻止他，两人距离很近，气氛暧昧又紧张。",
+        "dialogue": "我说我说我说，这个沈经理啊，他有小秘密",
+        "speaker": "方不凡",
+        "emotion": "神秘",
+        "duration": 5.2,
+        "description_visual": "近景侧拍镜头（推进）；夜晚街头，紫色灯光背景；画面左侧人物，身穿黑色衬衫，靠近女子，表情：眉毛微挑，眼睛注视女子，嘴巴微张；画面右侧人物，身穿白色衬衫，伸手阻挡，表情：眉毛微蹙，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "倾听",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "白衣女子侧脸特写，听到“小秘密”后眼神中流露出好奇和惊讶，嘴巴微张等待下文。",
+        "dialogue": "什么小秘密",
+        "speaker": "白衣女子",
+        "emotion": "好奇",
+        "duration": 1.64,
+        "description_visual": "特写侧拍镜头；夜晚街头，背景昏暗；画面中央人物，身穿白色衬衫，倾听，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴角带笑"
+            }
+        ],
+        "background": "夜晚街头，绿色灯光背景",
+        "description_narrative": "方不凡站在绿色灯光背景前，发出一声轻哼，表情带着几分不屑和调侃，准备揭露真相。",
+        "dialogue": "哼，别看他在外面八面玲珑，像个人精，实际上他怕老婆",
+        "speaker": "方不凡",
+        "emotion": "调侃",
+        "duration": 7.84,
+        "description_visual": "近景平拍镜头；夜晚街头，绿色灯光背景；画面中央人物，身穿黑色衬衫，说话，表情：眉毛微挑，眼睛看向一侧，嘴角带笑。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛舒展，眼睛看向男子，嘴角上扬"
+            }
+        ],
+        "background": "夜晚街头，白色兔子雕塑背景",
+        "description_narrative": "白衣女子恍然大悟，面带微笑地看着方不凡，背景中可以看到模糊的白色兔子雕塑，她推测出了方不凡的方法。",
+        "dialogue": "你拿他老婆压他",
+        "speaker": "白衣女子",
+        "emotion": "恍然大悟",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；夜晚街头，白色兔子雕塑背景；画面中央人物，身穿白色衬衫，说话，表情：眉毛舒展，眼睛看向男子，嘴角上扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "否认",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "夜晚街头，紫色灯光背景",
+        "description_narrative": "方不凡连忙摆手否认，表情夸张，似乎觉得女子的猜测还不够劲爆，准备说出更惊人的秘密。",
+        "dialogue": "哎没有，他在外面养了个小的",
+        "speaker": "方不凡",
+        "emotion": "神秘",
+        "duration": 4.32,
+        "description_visual": "近景平拍镜头；夜晚街头，紫色灯光背景；画面中央人物，身穿黑色衬衫，否认，表情：眉毛微蹙，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "震惊",
+                "expression": "眉毛高挑，眼睛睁大，嘴巴张成O型"
+            }
+        ],
+        "background": "夜晚街头，背景模糊",
+        "description_narrative": "白衣女子听到“养小的”后震惊不已，眼睛瞪大，嘴巴张开，手不自觉地抬起，表情极度惊讶。",
+        "dialogue": "啊",
+        "speaker": "白衣女子",
+        "emotion": "震惊",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；夜晚街头，背景模糊；画面中央人物，身穿白色衬衫，震惊，表情：眉毛高挑，眼睛睁大，嘴巴张成O型。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "耳语",
+                "expression": "眉毛微挑，眼睛注视女子，嘴巴微动"
+            }
+        ],
+        "background": "夜晚街头，红色灯光背景",
+        "description_narrative": "方不凡凑近女子耳边，压低声音说出更惊人的细节，表情神秘兮兮，享受女子震惊的反应。",
+        "dialogue": "是他老婆的亲侄女，刺不刺激",
+        "speaker": "方不凡",
+        "emotion": "得意",
+        "duration": 3.32,
+        "description_visual": "近景侧拍镜头；夜晚街头，红色灯光背景；画面左侧人物，身穿黑色衬衫，耳语，表情：眉毛微挑，眼睛注视女子，嘴巴微动。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "思考",
+                "expression": "眉毛微蹙，眼睛看向远方，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "白衣女子侧脸对着镜头，似乎在消化这个惊人的八卦，表情复杂，手轻轻握拳放在胸前。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 2.36,
+        "description_visual": "近景侧拍镜头；夜晚街头，背景昏暗；画面中央人物，身穿白色衬衫，思考，表情：眉毛微蹙，眼睛看向远方，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "夜晚街头，蓝色灯光背景",
+        "description_narrative": "方不凡看着女子的反应，脸上露出玩味的笑容，背景是蓝色的建筑灯光，他似乎很享受这种对话氛围。",
+        "dialogue": "看你这状态",
+        "speaker": "白衣女子",
+        "emotion": "调侃",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；夜晚街头，蓝色灯光背景；画面中央人物，身穿黑色衬衫，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "倾听",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚街头，蓝色灯光背景",
+        "description_narrative": "方不凡静静听着女子的调侃，表情略带严肃，眼神专注，背景依然是蓝色的灯光。",
+        "dialogue": "你挺羡慕他呀",
+        "speaker": "白衣女子",
+        "emotion": "试探",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；夜晚街头，蓝色灯光背景；画面中央人物，身穿黑色衬衫，倾听，表情：眉毛微挑，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "否认",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴微动"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "方不凡听到女子说自己羡慕，立刻低头否认，表情认真，似乎在表忠心。",
+        "dialogue": "我有你就够了，难不成",
+        "speaker": "方不凡",
+        "emotion": "认真",
+        "duration": 3.52,
+        "description_visual": "近景平拍镜头；夜晚街头，背景昏暗；画面中央人物，身穿黑色衬衫，否认，表情：眉毛微蹙，眼睛看向下方，嘴巴微动。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "反问",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "白衣女子侧脸对着镜头，继续追问方不凡是不是也有小秘密，眼神中带着笑意和试探。",
+        "dialogue": "难不成，你也有小秘密",
+        "speaker": "白衣女子",
+        "emotion": "调侃",
+        "duration": 2.28,
+        "description_visual": "特写平拍镜头；夜晚街头，背景昏暗；画面中央人物，身穿白色衬衫，反问，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "哼笑",
+                "expression": "眉毛微挑，眼睛向下看，嘴角带笑"
+            }
+        ],
+        "background": "夜晚街头，红色灯光背景",
+        "description_narrative": "方不凡发出一声轻哼，眼神向下，嘴角带着神秘的笑容，承认自己有很多秘密。",
+        "dialogue": "哼，我小秘密可多了去了",
+        "speaker": "方不凡",
+        "emotion": "神秘",
+        "duration": 4.92,
+        "description_visual": "近景平拍镜头；夜晚街头，红色灯光背景；画面中央人物，身穿黑色衬衫，哼笑，表情：眉毛微挑，眼睛向下看，嘴角带笑。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "指向上方",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "白衣女子抬起手指向上方，脸上带着调侃的笑容，似乎在讽刺方不凡在外面也不老实。",
+        "dialogue": "哎，看来这在外面",
+        "speaker": "白衣女子",
+        "emotion": "调侃",
+        "duration": 2.08,
+        "description_visual": "特写仰拍镜头；夜晚街头，背景昏暗；画面中央人物，身穿白色衬衫，指向上方，表情：眉毛舒展，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "倾听",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚街头，蓝色灯光背景",
+        "description_narrative": "方不凡听着女子的调侃，表情略显无奈，眼神看向一侧，没有反驳。",
+        "dialogue": "也是彩旗飘飘嘛",
+        "speaker": "白衣女子",
+        "emotion": "调侃",
+        "duration": 1.92,
+        "description_visual": "近景平拍镜头；夜晚街头，蓝色灯光背景；画面中央人物，身穿黑色衬衫，倾听，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "否认",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微动"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "方不凡连忙摇头否认，表情认真，表示自己不敢在外面乱来。",
+        "dialogue": "没有没有，我可不敢",
+        "speaker": "方不凡",
+        "emotion": "认真",
+        "duration": 3.48,
+        "description_visual": "近景平拍镜头；夜晚街头，背景昏暗；画面中央人物，身穿黑色衬衫，否认，表情：眉毛舒展，眼睛注视前方，嘴巴微动。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛微闭，嘴角上扬"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "白衣女子侧脸微笑，眼神温柔，似乎对方不凡的回答很满意，准备转换话题。",
+        "dialogue": "不过刚才",
+        "speaker": "白衣女子",
+        "emotion": "温柔",
+        "duration": 0.96,
+        "description_visual": "特写侧拍镜头；夜晚街头，背景昏暗；画面中央人物，身穿白色衬衫，微笑，表情：眉毛舒展，眼睛微闭，嘴角上扬。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角上扬"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "白衣女子真诚地感谢方不凡刚才的帮忙，脸上带着感激的笑容，眼神柔和。",
+        "dialogue": "真的是谢谢你帮忙",
+        "speaker": "白衣女子",
+        "emotion": "感激",
+        "duration": 2.6,
+        "description_visual": "特写侧拍镜头；夜晚街头，背景昏暗；画面中央人物，身穿白色衬衫，说话，表情：眉毛舒展，眼睛注视前方，嘴角上扬。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛微挑，眼睛注视女子，嘴巴微动"
+            }
+        ],
+        "background": "夜晚街头，红色灯光背景",
+        "description_narrative": "方不凡听到感谢后，表情变得认真，强调两人是夫妻关系，不需要客气。",
+        "dialogue": "谢什么啊，我们是夫妻",
+        "speaker": "方不凡",
+        "emotion": "认真",
+        "duration": 3.76,
+        "description_visual": "近景平拍镜头；夜晚街头，红色灯光背景；画面中央人物，身穿黑色衬衫，说话，表情：眉毛微挑，眼睛注视女子，嘴巴微动。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "否认",
+                "expression": "眉毛微蹙，眼睛看向远方，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，背景昏暗",
+        "description_narrative": "白衣女子侧身转头，口头否认两人的夫妻关系，表情略带羞涩和抗拒，但并未真正生气。",
+        "dialogue": "谁跟你是夫妻啊",
+        "speaker": "白衣女子",
+        "emotion": "羞涩",
+        "duration": 1.36,
+        "description_visual": "近景侧拍镜头；夜晚街头，背景昏暗；画面中央人物，身穿白色衬衫，否认，表情：眉毛微蹙，眼睛看向远方，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "强调",
+                "expression": "眉毛微挑，眼睛注视女子，嘴巴微张"
+            }
+        ],
+        "background": "夜晚街头，紫色灯光背景",
+        "description_narrative": "方不凡对女子的否认表示不满，强调两人有结婚证，是国家认可的合法夫妻。",
+        "dialogue": "哎，你这是什么意思啊？我们可是有红本本的，国家认可",
+        "speaker": "方不凡",
+        "emotion": "认真",
+        "duration": 4.96,
+        "description_visual": "近景平拍镜头；夜晚街头，紫色灯光背景；画面中央人物，身穿黑色衬衫，强调，表情：眉毛微挑，眼睛注视女子，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微动"
+            }
+        ],
+        "background": "夜晚街头，绿色灯光背景",
+        "description_narrative": "方不凡低下头，继续补充说明，表情略带委屈和认真，强调两人关系的真实性。",
+        "dialogue": "再说了",
+        "speaker": "方不凡",
+        "emotion": "认真",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；夜晚街头，绿色灯光背景；画面中央人物，身穿黑色衬衫，低头，表情：眉毛微蹙，眼睛向下看，嘴巴微动。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景",
+        "description_narrative": "画面变为纯白，方不凡的声音继续传来，强调两人不仅有夫妻之名，更有夫妻之实。",
+        "dialogue": "我们除了有夫妻之名，还有夫妻之实啊",
+        "speaker": "方不凡",
+        "emotion": "暧昧",
+        "duration": 4.84,
+        "description_visual": "全景平拍镜头；纯白背景。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景",
+        "description_narrative": "画面保持纯白，传来女子的一声轻哼或回应，视频结束。",
+        "dialogue": "嗯",
+        "speaker": "白衣女子",
+        "emotion": "羞涩",
+        "duration": 3.0,
+        "description_visual": "全景平拍镜头；纯白背景。"
+    }
+]

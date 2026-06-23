@@ -1,0 +1,534 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "侧脸靠近女子",
+                "expression": "眉毛舒展，眼睛微闭，嘴唇微张"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "抬头注视男子",
+                "expression": "眉毛微扬，眼睛睁大，嘴唇微启"
+            }
+        ],
+        "background": "金色光斑背景，带有剧名文字",
+        "description_narrative": "全景固定镜头，画面展示剧集海报，一名身穿深色西装的男子与一名身穿白色上衣的女子深情对视，背景为金色光斑，下方显示剧名及集数。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "全景平拍镜头；金色光斑背景，带有剧名文字；画面右侧人物，身穿深色西装，侧脸靠近女子，表情：眉毛舒展，眼睛微闭，嘴唇微张；画面左侧人物，身穿白色上衣，抬头注视男子，表情：眉毛微扬，眼睛睁大，嘴唇微启。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套，内搭白色荷叶领衬衫",
+                "position": "画面左侧",
+                "action": "身体被黑色绳索束缚，头部微低",
+                "expression": "眉毛平展，眼睛向下看，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗室内，背景模糊",
+        "description_narrative": "近景侧拍固定镜头，被绑女子身穿白色纹理外套，内搭白色荷叶领衬衫，身体被黑色绳索紧紧束缚在椅子上，头部微低，神情沉静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 8.84,
+        "description_visual": "近景侧拍镜头；昏暗室内，背景模糊；画面左侧人物，身穿白色纹理外套，内搭白色荷叶领衬衫，身体被黑色绳索束缚，头部微低，表情：眉毛平展，眼睛向下看，嘴唇紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李伟峰",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白色T恤",
+                "position": "画面左侧",
+                "action": "站立俯身看向女子",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴唇紧闭"
+            },
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套，内搭白色荷叶领衬衫",
+                "position": "画面中央",
+                "action": "被绑在椅子上，抬头看男子",
+                "expression": "眉毛微扬，眼睛直视男子，嘴唇微张"
+            }
+        ],
+        "background": "昏暗仓库，可见金属笼子和杂物",
+        "description_narrative": "全景俯拍固定镜头，昏暗仓库内，李伟峰身穿黑色西装站立，俯身看向被绑在椅子上的被绑女子，女子抬头回视，周围有金属笼子等杂物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.76,
+        "description_visual": "全景俯拍镜头；昏暗仓库，可见金属笼子和杂物；画面左侧人物，身穿黑色西装外套，内搭白色T恤，站立俯身看向女子，表情：眉毛微蹙，眼睛注视女子，嘴唇紧闭；画面中央人物，身穿白色纹理外套，内搭白色荷叶领衬衫，被绑在椅子上，抬头看男子，表情：眉毛微扬，眼睛直视男子，嘴唇微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李伟峰",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白色T恤",
+                "position": "画面右侧",
+                "action": "低头注视前方",
+                "expression": "眉毛紧锁，眼睛下视，嘴角下撇"
+            },
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套",
+                "position": "画面左下前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗室内，光线集中在人物面部",
+        "description_narrative": "近景仰拍固定镜头，李伟峰身穿黑色西装，低头注视前方的被绑女子，眉头紧锁，表情凶狠，画面下方显示其名字。",
+        "dialogue": "哼。",
+        "speaker": "李伟峰",
+        "emotion": "轻蔑",
+        "duration": 1.36,
+        "description_visual": "近景仰拍镜头；昏暗室内，光线集中在人物面部；画面右侧人物，身穿黑色西装外套，内搭白色T恤，低头注视前方，表情：眉毛紧锁，眼睛下视，嘴角下撇；画面左下前景人物，身穿白色纹理外套，背影，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套，内搭白色荷叶领衬衫",
+                "position": "画面左侧",
+                "action": "抬头直视前方",
+                "expression": "眉毛微挑，眼睛直视，嘴唇微张说话"
+            }
+        ],
+        "background": "昏暗背景，光线柔和",
+        "description_narrative": "近景侧拍固定镜头，被绑女子抬头直视前方的李伟峰，眼神犀利，嘴唇微张，正在斥责对方。",
+        "dialogue": "你果然是个趋炎附势的混蛋。",
+        "speaker": "被绑女子",
+        "emotion": "愤怒",
+        "duration": 3.2,
+        "description_visual": "近景侧拍镜头；昏暗背景，光线柔和；画面左侧人物，身穿白色纹理外套，内搭白色荷叶领衬衫，抬头直视前方，表情：眉毛微挑，眼睛直视，嘴唇微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套",
+                "position": "画面中央",
+                "action": "双手被黑色绳索紧紧捆绑",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的白色背景",
+        "description_narrative": "特写固定镜头，聚焦于被绑女子的双手，黑色绳索紧紧缠绕在手腕处，显示束缚的状态。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；模糊的白色背景；画面中央人物，身穿白色纹理外套，双手被黑色绳索紧紧捆绑，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套，内搭白色荷叶领衬衫",
+                "position": "画面左侧",
+                "action": "侧脸对着镜头，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇开合"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "近景侧拍固定镜头，被绑女子侧脸对着镜头，眼神坚定，嘴唇微动，继续说着挑衅的话语。",
+        "dialogue": "原先我还对你有一点愧疚，现在看来就应该早点解决你。",
+        "speaker": "被绑女子",
+        "emotion": "决绝",
+        "duration": 8.24,
+        "description_visual": "近景侧拍镜头；昏暗背景；画面左侧人物，身穿白色纹理外套，内搭白色荷叶领衬衫，侧脸对着镜头，嘴唇微动，表情：眉毛微蹙，眼睛直视，嘴唇开合。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李伟峰",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白色T恤",
+                "position": "画面右侧",
+                "action": "低头怒视女子",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开说话"
+            },
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套",
+                "position": "画面左下前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗室内",
+        "description_narrative": "近景仰拍固定镜头，李伟峰被激怒，低头大声呵斥被绑女子，表情狰狞，眉头紧锁。",
+        "dialogue": "你闭嘴吧，都什么时候了，你还这么嚣张。",
+        "speaker": "李伟峰",
+        "emotion": "愤怒",
+        "duration": 4.96,
+        "description_visual": "近景仰拍镜头；昏暗室内；画面右侧人物，身穿黑色西装外套，内搭白色T恤，低头怒视女子，表情：眉毛紧锁，眼睛瞪大，嘴巴张开说话；画面左下前景人物，身穿白色纹理外套，背影，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套，内搭白色荷叶领衬衫",
+                "position": "画面左侧",
+                "action": "抬头反问",
+                "expression": "眉毛微扬，眼睛直视，嘴唇微张"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "近景侧拍固定镜头，被绑女子毫无惧色，抬头反问李伟峰，眼神中带着不屑。",
+        "dialogue": "我有什么错？",
+        "speaker": "被绑女子",
+        "emotion": "不屑",
+        "duration": 2.56,
+        "description_visual": "近景侧拍镜头；昏暗背景；画面左侧人物，身穿白色纹理外套，内搭白色荷叶领衬衫，抬头反问，表情：眉毛微扬，眼睛直视，嘴唇微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李伟峰",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白色T恤",
+                "position": "画面左侧",
+                "action": "站立辩解",
+                "expression": "眉毛舒展，眼睛看女子，嘴巴说话"
+            },
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套",
+                "position": "画面中央",
+                "action": "被绑在椅子上",
+                "expression": "抬头看男子"
+            }
+        ],
+        "background": "昏暗仓库",
+        "description_narrative": "全景俯拍固定镜头，李伟峰站立在被绑女子面前，摊手辩解自己只是为了生计，表情无奈又凶狠。",
+        "dialogue": "我公事公办，混口饭吃罢了。",
+        "speaker": "李伟峰",
+        "emotion": "无奈",
+        "duration": 2.64,
+        "description_visual": "全景俯拍镜头；昏暗仓库；画面左侧人物，身穿黑色西装外套，内搭白色T恤，站立辩解，表情：眉毛舒展，眼睛看女子，嘴巴说话；画面中央人物，身穿白色纹理外套，被绑在椅子上，表情：抬头看男子。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李伟峰",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白色T恤",
+                "position": "画面右侧",
+                "action": "手抚胸口",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴巴说话"
+            },
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套",
+                "position": "画面左下前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗室内",
+        "description_narrative": "近景仰拍固定镜头，李伟峰手抚胸口，表情痛苦地反问自己容易吗，试图博取同情或发泄不满。",
+        "dialogue": "我容易吗？",
+        "speaker": "李伟峰",
+        "emotion": "委屈",
+        "duration": 2.6,
+        "description_visual": "近景仰拍镜头；昏暗室内；画面右侧人物，身穿黑色西装外套，内搭白色T恤，手抚胸口，表情：眉毛紧蹙，眼睛眯起，嘴巴说话；画面左下前景人物，身穿白色纹理外套，背影，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套，内搭白色荷叶领衬衫",
+                "position": "画面左侧",
+                "action": "侧脸冷笑",
+                "expression": "眉毛微挑，眼睛斜视，嘴角上扬"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "近景侧拍固定镜头，被绑女子侧脸冷笑，眼神轻蔑地质问李伟峰这碗饭吃得是否踏实。",
+        "dialogue": "你这碗饭吃得踏实吗？",
+        "speaker": "被绑女子",
+        "emotion": "嘲讽",
+        "duration": 3.6,
+        "description_visual": "近景侧拍镜头；昏暗背景；画面左侧人物，身穿白色纹理外套，内搭白色荷叶领衬衫，侧脸冷笑，表情：眉毛微挑，眼睛斜视，嘴角上扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李伟峰",
+                "gender": "男",
+                "clothing": "黑色西装外套，内搭白色T恤",
+                "position": "画面右侧",
+                "action": "抬手欲打",
+                "expression": "眉毛倒竖，眼睛瞪大，嘴巴张开骂人"
+            },
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套",
+                "position": "画面左下前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗室内",
+        "description_narrative": "近景仰拍固定镜头，李伟峰被彻底激怒，抬手欲打，嘴里骂着脏话，表情狰狞。",
+        "dialogue": "我去你的。",
+        "speaker": "李伟峰",
+        "emotion": "暴怒",
+        "duration": 1.28,
+        "description_visual": "近景仰拍镜头；昏暗室内；画面右侧人物，身穿黑色西装外套，内搭白色T恤，抬手欲打，表情：眉毛倒竖，眼睛瞪大，嘴巴张开骂人；画面左下前景人物，身穿白色纹理外套，背影，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套",
+                "position": "画面左侧",
+                "action": "头部微转",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "近景侧拍固定镜头，被绑女子头部微转，似乎在躲避或观察周围情况。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.84,
+        "description_visual": "近景侧拍镜头；昏暗背景；画面左侧人物，身穿白色纹理外套，头部微转，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈丽婷",
+                "gender": "女",
+                "clothing": "粉色大衣，内搭格纹上衣",
+                "position": "画面中央",
+                "action": "站立，眼神阴冷",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "昏暗室内，光线较暗",
+        "description_narrative": "中近景平拍固定镜头，沈丽婷身穿粉色大衣，内搭格纹上衣，出现在画面中，眼神阴冷地看着前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "阴冷",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；昏暗室内，光线较暗；画面中央人物，身穿粉色大衣，内搭格纹上衣，站立，眼神阴冷，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套",
+                "position": "画面右侧",
+                "action": "低头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "近景侧拍固定镜头，被绑女子低头，似乎在忍受或思考。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "近景侧拍镜头；昏暗背景；画面右侧人物，身穿白色纹理外套，低头，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈丽婷",
+                "gender": "女",
+                "clothing": "粉色大衣，内搭格纹上衣",
+                "position": "画面中央",
+                "action": "说话，表情轻蔑",
+                "expression": "眉毛微挑，眼睛半眯，嘴唇微张"
+            }
+        ],
+        "background": "昏暗室内",
+        "description_narrative": "中近景平拍固定镜头，沈丽婷开口说话，表情轻蔑，附和着李伟峰的话，指责被绑女子的态度。",
+        "dialogue": "他说得对，你这副不可一世的",
+        "speaker": "沈丽婷",
+        "emotion": "轻蔑",
+        "duration": 2.68,
+        "description_visual": "中近景平拍镜头；昏暗室内；画面中央人物，身穿粉色大衣，内搭格纹上衣，说话，表情轻蔑，表情：眉毛微挑，眼睛半眯，嘴唇微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李伟峰",
+                "gender": "男",
+                "clothing": "黑色西装外套",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套",
+                "position": "画面中央",
+                "action": "被绑在椅子上",
+                "expression": "低头"
+            },
+            {
+                "name": "沈丽婷",
+                "gender": "女",
+                "clothing": "粉色大衣",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗仓库",
+        "description_narrative": "全景俯拍固定镜头，三人同框，沈丽婷继续说着被绑女子的态度欠揍，气氛紧张。",
+        "dialogue": "态度确实很欠揍。",
+        "speaker": "沈丽婷",
+        "emotion": "狠毒",
+        "duration": 2.24,
+        "description_visual": "全景俯拍镜头；昏暗仓库；画面左侧人物，身穿黑色西装外套，站立，表情：不可见；画面中央人物，身穿白色纹理外套，被绑在椅子上，表情：低头；画面右侧人物，身穿粉色大衣，站立，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈丽婷",
+                "gender": "女",
+                "clothing": "粉色大衣，内搭格纹上衣",
+                "position": "画面中央",
+                "action": "眼神凶狠",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴唇微张"
+            }
+        ],
+        "background": "昏暗室内",
+        "description_narrative": "中近景平拍固定镜头，沈丽婷眼神凶狠地威胁要将之前的屈辱加倍奉还，表情扭曲。",
+        "dialogue": "我就要把我之前所受的屈辱加倍讨还回来。",
+        "speaker": "沈丽婷",
+        "emotion": "仇恨",
+        "duration": 4.68,
+        "description_visual": "中近景平拍镜头；昏暗室内；画面中央人物，身穿粉色大衣，内搭格纹上衣，眼神凶狠，表情：眉毛紧锁，眼睛瞪视，嘴唇微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑女子",
+                "gender": "女",
+                "clothing": "白色纹理外套，内搭白色荷叶领衬衫",
+                "position": "画面中央",
+                "action": "抬头，嘴角带血",
+                "expression": "眉毛舒展，眼睛直视，嘴角上扬冷笑"
+            }
+        ],
+        "background": "昏暗背景，光线集中在面部",
+        "description_narrative": "特写侧拍固定镜头，被绑女子嘴角带血，却轻蔑地冷笑，反讽沈丽婷可怜，展现出心理上的优势。",
+        "dialogue": "沈丽婷，你真可怜。",
+        "speaker": "被绑女子",
+        "emotion": "轻蔑",
+        "duration": 5.6,
+        "description_visual": "特写侧拍镜头；昏暗背景，光线集中在面部；画面中央人物，身穿白色纹理外套，内搭白色荷叶领衬衫，抬头，嘴角带血，表情：眉毛舒展，眼睛直视，嘴角上扬冷笑。"
+    }
+]

@@ -1,0 +1,704 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "侧脸看向左侧女子",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面左侧",
+                "action": "侧脸看向右侧男子，手搭在男子肩上",
+                "expression": "眉毛微蹙，眼睛注视男子，嘴巴微张"
+            }
+        ],
+        "background": "金色光斑背景，带有剧名文字《大佬别跑 闪个婚》",
+        "description_narrative": "全景固定镜头，画面为剧集海报，左侧身穿白色上衣的女子侧脸看向右侧身穿深色西装的男子，手搭在男子肩上，背景为金色光斑，下方有剧名文字。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "全景平拍镜头；金色光斑背景，带有剧名文字《大佬别跑 闪个婚》；画面右侧人物，身穿深色西装，侧脸看向左侧女子，表情：眉毛舒展，眼睛微闭，嘴巴微张；画面左侧人物，身穿白色上衣，侧脸看向右侧男子，手搭在男子肩上，表情：眉毛微蹙，眼睛注视男子，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深灰色条纹西装，内搭条纹衬衫",
+                "position": "画面左侧",
+                "action": "站立，身体微侧，看着对面的女子",
+                "expression": "眉毛舒展，眼睛微闭后睁开，嘴巴微张说话"
+            },
+            {
+                "name": "白衬衫女子",
+                "gender": "女",
+                "clothing": "白色系带衬衫，卡其色短裙",
+                "position": "画面右侧前景",
+                "action": "背对镜头，侧身站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，背景模糊，有绿色指示灯",
+        "description_narrative": "中近景固定镜头，西装男身穿深灰色条纹西装站在走廊，面对右侧的白衬衫女子，表情自信，眼睛微闭后睁开说话，背景有模糊的绿色指示灯。",
+        "dialogue": "放心吧，明天肯定能行。",
+        "speaker": "西装男",
+        "emotion": "自信",
+        "duration": 4.4,
+        "description_visual": "中近景平拍镜头；医院走廊，背景模糊，有绿色指示灯；画面左侧人物，身穿深灰色条纹西装，内搭条纹衬衫，站立，身体微侧，看着对面的女子，表情：眉毛舒展，眼睛微闭后睁开，嘴巴微张说话；画面右侧前景人物，身穿白色系带衬衫，卡其色短裙，背对镜头，侧身站立，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫女子",
+                "gender": "女",
+                "clothing": "白色系带衬衫，卡其色短裙",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，站立",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭略带不满"
+            }
+        ],
+        "background": "医院走廊，背景有窗户和栏杆，光线较暗",
+        "description_narrative": "中景固定镜头，白衬衫女子双臂交叉抱在胸前站在走廊栏杆旁，表情严肃怀疑，眉毛微蹙，嘴巴紧闭，看向左侧。",
+        "dialogue": "说的好像你是医生一样。",
+        "speaker": "白衬衫女子",
+        "emotion": "怀疑",
+        "duration": 3.32,
+        "description_visual": "中景平拍镜头；医院走廊，背景有窗户和栏杆，光线较暗；画面中央人物，身穿白色系带衬衫，卡其色短裙，双臂交叉抱在胸前，站立，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭略带不满。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深灰色条纹西装，内搭条纹衬衫",
+                "position": "画面中央",
+                "action": "站立，看着对面女子",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张说话"
+            }
+        ],
+        "background": "医院走廊，背景虚化",
+        "description_narrative": "近景固定镜头，西装男面对镜头，眉毛微挑，眼神带着玩味，嘴巴微张提出建议。",
+        "dialogue": "要不咱俩打个赌？",
+        "speaker": "西装男",
+        "emotion": "玩味",
+        "duration": 3.56,
+        "description_visual": "近景平拍镜头；医院走廊，背景虚化；画面中央人物，身穿深灰色条纹西装，内搭条纹衬衫，站立，看着对面女子，表情：眉毛微挑，眼睛注视对方，嘴巴微张说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫女子",
+                "gender": "女",
+                "clothing": "白色系带衬衫",
+                "position": "画面中央",
+                "action": "站立，看着对方",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，背景较暗",
+        "description_narrative": "近景固定镜头，白衬衫女子侧脸看向左侧，表情略带疑惑，嘴巴微张询问。",
+        "dialogue": "赌什么？",
+        "speaker": "白衬衫女子",
+        "emotion": "疑惑",
+        "duration": 2.72,
+        "description_visual": "近景平拍镜头；医院走廊，背景较暗；画面中央人物，身穿白色系带衬衫，站立，看着对方，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深红色丝绒旗袍，佩戴珍珠项链",
+                "position": "画面右侧",
+                "action": "手提蓝色饭盒，向左侧行走",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "医院走廊，木质门，白色墙壁",
+        "description_narrative": "全景跟拍镜头，奶奶身穿深红色丝绒旗袍，手提蓝色饭盒，从画面右侧向左侧的木门走去。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "全景平拍镜头（跟拍）；医院走廊，木质门，白色墙壁；画面右侧人物，身穿深红色丝绒旗袍，佩戴珍珠项链，手提蓝色饭盒，向左侧行走，表情：表情平静。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰裙女子",
+                "gender": "女",
+                "clothing": "灰色牛仔质感连衣裙",
+                "position": "画面左侧",
+                "action": "侧身站立，看向门内",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深红色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "侧身站立，看向门内",
+                "expression": "表情关切"
+            }
+        ],
+        "background": "医院病房门口，木质门框",
+        "description_narrative": "中近景固定镜头，灰裙女子和奶奶并排站在病房门口，两人都侧身向门内张望，灰裙女子表情惊讶，奶奶神情关切。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；医院病房门口，木质门框；画面左侧人物，身穿灰色牛仔质感连衣裙，侧身站立，看向门内，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面右侧人物，身穿深红色丝绒旗袍，侧身站立，看向门内，表情：表情关切。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "画面左侧",
+                "action": "俯身趴在病床边，手握着病人的手",
+                "expression": "眉毛低垂，眼睛闭着，表情温柔悲伤"
+            },
+            {
+                "name": "病床男子",
+                "gender": "男",
+                "clothing": "条纹病号服",
+                "position": "画面右侧",
+                "action": "躺在病床上，闭着眼睛，鼻孔插着氧气管",
+                "expression": "双眼紧闭，嘴巴微张，昏迷状态"
+            }
+        ],
+        "background": "医院病房，白色墙壁，床头有设备",
+        "description_narrative": "中景固定镜头，绿衣女子俯身趴在病床边，手握昏迷男子的的手，表情温柔悲伤，男子躺在病床上昏迷不醒，插着氧气管。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.24,
+        "description_visual": "中景平拍镜头；医院病房，白色墙壁，床头有设备；画面左侧人物，身穿芥末绿西装外套，俯身趴在病床边，手握着病人的手，表情：眉毛低垂，眼睛闭着，表情温柔悲伤；画面右侧人物，身穿条纹病号服，躺在病床上，闭着眼睛，鼻孔插着氧气管，表情：双眼紧闭，嘴巴微张，昏迷状态。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰裙女子",
+                "gender": "女",
+                "clothing": "灰色牛仔质感连衣裙",
+                "position": "画面左侧",
+                "action": "侧身站立，看向门内",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深红色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "侧身站立，看向门内",
+                "expression": "表情关切"
+            }
+        ],
+        "background": "医院病房门口，木质门框",
+        "description_narrative": "中近景固定镜头，灰裙女子和奶奶继续站在门口向里看，灰裙女子神情担忧，奶奶表情凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "中近景平拍镜头；医院病房门口，木质门框；画面左侧人物，身穿灰色牛仔质感连衣裙，侧身站立，看向门内，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面右侧人物，身穿深红色丝绒旗袍，侧身站立，看向门内，表情：表情关切。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深红色丝绒旗袍",
+                "position": "画面中央",
+                "action": "侧身，准备进门",
+                "expression": "表情关切，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，木质门框",
+        "description_narrative": "近景固定镜头，奶奶侧身站在门口，头发花白盘成发髻，戴着眼镜，神情关切地准备进入病房。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "近景平拍镜头；医院走廊，木质门框；画面中央人物，身穿深红色丝绒旗袍，侧身，准备进门，表情：表情关切，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深红色丝绒旗袍",
+                "position": "画面中央",
+                "action": "推门进入病房",
+                "expression": "表情关切"
+            },
+            {
+                "name": "灰裙女子",
+                "gender": "女",
+                "clothing": "灰色牛仔质感连衣裙",
+                "position": "奶奶身后",
+                "action": "跟随进入",
+                "expression": "表情担忧"
+            }
+        ],
+        "background": "医院病房门口，木门打开",
+        "description_narrative": "中景推进镜头，奶奶推开木门进入病房，灰裙女子跟随在身后，两人神情都带着关切。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "中景平拍镜头（推进）；医院病房门口，木门打开；画面中央人物，身穿深红色丝绒旗袍，推门进入病房，表情：表情关切；奶奶身后人物，身穿灰色牛仔质感连衣裙，跟随进入，表情：表情担忧。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "画面左侧",
+                "action": "俯身趴在病床边，手握着病人的手",
+                "expression": "眉毛低垂，眼睛闭着，表情温柔"
+            }
+        ],
+        "background": "医院病房，白色床单",
+        "description_narrative": "近景固定镜头，绿衣女子俯身趴在病床边，头发盘起，神情专注温柔地看着昏迷的男子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；医院病房，白色床单；画面左侧人物，身穿芥末绿西装外套，俯身趴在病床边，手握着病人的手，表情：眉毛低垂，眼睛闭着，表情温柔。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "画面左侧",
+                "action": "侧脸，看着病床",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，前景有红色模糊遮挡",
+        "description_narrative": "特写固定镜头，绿衣女子侧脸看着病床方向，前景有红色模糊遮挡，表情略显疲惫和担忧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；医院病房，前景有红色模糊遮挡；画面左侧人物，身穿芥末绿西装外套，侧脸，看着病床，表情：眉毛微蹙，眼睛注视前方，嘴巴微闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "病床左侧",
+                "action": "坐在床边，抬头看向门口",
+                "expression": "眉毛微挑，眼睛看向门口，嘴巴微张"
+            },
+            {
+                "name": "病床男子",
+                "gender": "男",
+                "clothing": "条纹病号服",
+                "position": "病床上",
+                "action": "躺着昏迷",
+                "expression": "双眼紧闭"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深红色丝绒旗袍",
+                "position": "画面左侧前景",
+                "action": "走进房间",
+                "expression": "不可见"
+            },
+            {
+                "name": "灰裙女子",
+                "gender": "女",
+                "clothing": "灰色牛仔质感连衣裙",
+                "position": "画面中央前景",
+                "action": "背对镜头走进房间",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房，有绿植，输液架",
+        "description_narrative": "全景固定镜头，病房内，绿衣女子坐在床边抬头看向门口，奶奶和灰裙女子正走进房间，病床上的男子昏迷不醒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.36,
+        "description_visual": "全景平拍镜头；医院病房，有绿植，输液架；病床左侧人物，身穿芥末绿西装外套，坐在床边，抬头看向门口，表情：眉毛微挑，眼睛看向门口，嘴巴微张；病床上人物，身穿条纹病号服，躺着昏迷，表情：双眼紧闭；画面左侧前景人物，身穿深红色丝绒旗袍，走进房间，表情：不可见；画面中央前景人物，身穿灰色牛仔质感连衣裙，背对镜头走进房间，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "画面中央",
+                "action": "站起身，看向奶奶",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "近景固定镜头，绿衣女子站起身，看向走进来的奶奶，表情略显惊讶，嘴巴微张喊人。",
+        "dialogue": "奶奶。",
+        "speaker": "绿衣女子",
+        "emotion": "惊讶",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁；画面中央人物，身穿芥末绿西装外套，站起身，看向奶奶，表情：眉毛微蹙，眼睛注视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深红色丝绒旗袍",
+                "position": "画面左侧",
+                "action": "走进房间，伸手",
+                "expression": "眉毛舒展，眼睛看向绿衣女子，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房，米色窗帘",
+        "description_narrative": "中近景固定镜头，奶奶走进房间，身穿深红色旗袍，戴着眼镜，伸手示意，表情关切地对绿衣女子说话。",
+        "dialogue": "小暖，你歇一歇吧。",
+        "speaker": "奶奶",
+        "emotion": "关切",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘；画面左侧人物，身穿深红色丝绒旗袍，走进房间，伸手，表情：眉毛舒展，眼睛看向绿衣女子，嘴巴微张说话。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "画面右侧",
+                "action": "扶着奶奶，低头看奶奶",
+                "expression": "眉毛舒展，眼睛注视奶奶，嘴巴微张说话"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深红色丝绒旗袍",
+                "position": "画面左侧",
+                "action": "被扶着，低头",
+                "expression": "表情悲伤"
+            }
+        ],
+        "background": "医院病房",
+        "description_narrative": "近景固定镜头，绿衣女子扶着奶奶，低头温柔地看着奶奶，安慰她坐下，奶奶表情悲伤。",
+        "dialogue": "没事奶奶您坐",
+        "speaker": "绿衣女子",
+        "emotion": "温柔",
+        "duration": 1.92,
+        "description_visual": "近景平拍镜头；医院病房；画面右侧人物，身穿芥末绿西装外套，扶着奶奶，低头看奶奶，表情：眉毛舒展，眼睛注视奶奶，嘴巴微张说话；画面左侧人物，身穿深红色丝绒旗袍，被扶着，低头，表情：表情悲伤。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深红色丝绒旗袍",
+                "position": "画面左侧",
+                "action": "看着病床，表情痛苦",
+                "expression": "眉毛紧锁，眼睛闭着流泪，嘴巴张开哭泣"
+            },
+            {
+                "name": "灰裙女子",
+                "gender": "女",
+                "clothing": "灰色牛仔质感连衣裙",
+                "position": "画面右后景",
+                "action": "站立，看着病床",
+                "expression": "表情担忧"
+            }
+        ],
+        "background": "医院病房，输液管在前景",
+        "description_narrative": "中近景固定镜头，奶奶看着病床上的孙子，表情痛苦流泪，嘴巴张开询问情况，灰裙女子站在后方担忧地看着。",
+        "dialogue": "怎么样了？",
+        "speaker": "奶奶",
+        "emotion": "痛苦",
+        "duration": 2.44,
+        "description_visual": "中近景平拍镜头；医院病房，输液管在前景；画面左侧人物，身穿深红色丝绒旗袍，看着病床，表情痛苦，表情：眉毛紧锁，眼睛闭着流泪，嘴巴张开哭泣；画面右后景人物，身穿灰色牛仔质感连衣裙，站立，看着病床，表情：表情担忧。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床男子",
+                "gender": "男",
+                "clothing": "条纹病号服",
+                "position": "画面中央",
+                "action": "躺在病床上，闭着眼睛",
+                "expression": "双眼紧闭，嘴巴微闭，昏迷状态"
+            }
+        ],
+        "background": "医院病房，白色枕头",
+        "description_narrative": "特写仰拍镜头，病床男子躺在白色枕头上，双眼紧闭，鼻孔插着氧气管，处于昏迷状态。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.72,
+        "description_visual": "特写仰拍镜头；医院病房，白色枕头；画面中央人物，身穿条纹病号服，躺在病床上，闭着眼睛，表情：双眼紧闭，嘴巴微闭，昏迷状态。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰裙女子",
+                "gender": "女",
+                "clothing": "灰色牛仔质感连衣裙",
+                "position": "画面中央",
+                "action": "站立，看着绿衣女子",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房，米色窗帘",
+        "description_narrative": "中近景固定镜头，灰裙女子站立，表情愧疚，视线下移，对绿衣女子说话，递上汤。",
+        "dialogue": "嫂子，你喝点汤吧。",
+        "speaker": "灰裙女子",
+        "emotion": "愧疚",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；医院病房，米色窗帘；画面中央人物，身穿灰色牛仔质感连衣裙，站立，看着绿衣女子，表情：眉毛微蹙，眼睛视线下移，嘴巴微张说话。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "画面中央",
+                "action": "站立，看着灰裙女子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "近景固定镜头，绿衣女子站立，表情平静地看着灰裙女子，倾听对方的道歉。",
+        "dialogue": "嫂子，之前是我不对。",
+        "speaker": "灰裙女子",
+        "emotion": "平静",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁；画面中央人物，身穿芥末绿西装外套，站立，看着灰裙女子，表情：眉毛舒展，眼睛注视对方，嘴巴微闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰裙女子",
+                "gender": "女",
+                "clothing": "灰色牛仔质感连衣裙",
+                "position": "画面左侧",
+                "action": "双手递过蓝色饭盒",
+                "expression": "眉毛低垂，眼睛看着饭盒，嘴巴微张说话"
+            },
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "画面右侧",
+                "action": "伸手接饭盒",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房",
+        "description_narrative": "中近景固定镜头，灰裙女子双手递过蓝色饭盒，表情诚恳道歉，绿衣女子伸手去接。",
+        "dialogue": "我跟你道歉，对不起你，你别跟我一般见识。",
+        "speaker": "灰裙女子",
+        "emotion": "诚恳",
+        "duration": 6.16,
+        "description_visual": "中近景平拍镜头；医院病房；画面左侧人物，身穿灰色牛仔质感连衣裙，双手递过蓝色饭盒，表情：眉毛低垂，眼睛看着饭盒，嘴巴微张说话；画面右侧人物，身穿芥末绿西装外套，伸手接饭盒，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "画面中央",
+                "action": "看着灰裙女子，微笑",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬"
+            }
+        ],
+        "background": "医院病房，黄色标识",
+        "description_narrative": "近景固定镜头，绿衣女子看着灰裙女子，表情温和，嘴角上扬，表示原谅。",
+        "dialogue": "没事。",
+        "speaker": "绿衣女子",
+        "emotion": "温和",
+        "duration": 3.48,
+        "description_visual": "近景平拍镜头；医院病房，黄色标识；画面中央人物，身穿芥末绿西装外套，看着灰裙女子，微笑，表情：眉毛舒展，眼睛注视对方，嘴角上扬。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰裙女子",
+                "gender": "女",
+                "clothing": "灰色牛仔质感连衣裙",
+                "position": "画面左侧",
+                "action": "伸手握住绿衣女子的手",
+                "expression": "眉毛舒展，眼睛微笑"
+            },
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "芥末绿西装外套",
+                "position": "画面右侧",
+                "action": "伸手握住灰裙女子的手",
+                "expression": "侧脸微笑"
+            }
+        ],
+        "background": "医院病房，绿植",
+        "description_narrative": "中景固定镜头，灰裙女子和绿衣女子双手紧握，两人相视而笑，背景有绿植，病床上的男子在前景。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.44,
+        "description_visual": "中景平拍镜头；医院病房，绿植；画面左侧人物，身穿灰色牛仔质感连衣裙，伸手握住绿衣女子的手，表情：眉毛舒展，眼睛微笑；画面右侧人物，身穿芥末绿西装外套，伸手握住灰裙女子的手，表情：侧脸微笑。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床男子",
+                "gender": "男",
+                "clothing": "条纹病号服",
+                "position": "画面中央",
+                "action": "躺在病床上，闭着眼睛",
+                "expression": "双眼紧闭，嘴巴微闭"
+            }
+        ],
+        "background": "医院病房，白色枕头",
+        "description_narrative": "特写仰拍镜头，病床男子躺在病床上昏迷不醒，有人（画外音）呼唤他醒来。",
+        "dialogue": "哥，你快醒过来吧。",
+        "speaker": "灰裙女子",
+        "emotion": "担忧",
+        "duration": 3.6,
+        "description_visual": "特写仰拍镜头；医院病房，白色枕头；画面中央人物，身穿条纹病号服，躺在病床上，闭着眼睛，表情：双眼紧闭，嘴巴微闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰裙女子",
+                "gender": "女",
+                "clothing": "灰色牛仔质感连衣裙",
+                "position": "画面中央",
+                "action": "低头，表情悲伤",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房，米色窗帘",
+        "description_narrative": "近景固定镜头，灰裙女子低头，表情悲伤担忧，对着昏迷的男子说话，呼唤他醒来。",
+        "dialogue": "嫂子等着你呢，我们都等着你呢。",
+        "speaker": "灰裙女子",
+        "emotion": "悲伤",
+        "duration": 5.64,
+        "description_visual": "近景平拍镜头；医院病房，米色窗帘；画面中央人物，身穿灰色牛仔质感连衣裙，低头，表情悲伤，表情：眉毛微蹙，眼睛视线下移，嘴巴微张说话。"
+    }
+]

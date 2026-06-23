@@ -1,0 +1,387 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色西装三件套",
+                "position": "画面左侧",
+                "action": "坐在桌前，手持白色马克杯喝水",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴被杯子遮挡"
+            },
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣配白色泡泡袖外套，黑色短裤",
+                "position": "画面右侧",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛微挑，眼睛斜视，嘴角紧闭"
+            }
+        ],
+        "background": "豪华餐厅，木质餐桌，上方有现代吊灯，光线明亮",
+        "description_narrative": "全景镜头，画面中央叠加金色大字标题“九龙圣医”。西装男坐在左侧餐桌前喝水，黑裙女站在右侧背景处，神情冷淡。",
+        "dialogue": "乡巴佬。",
+        "speaker": "黑裙女",
+        "emotion": "轻蔑",
+        "duration": 1.18,
+        "description_visual": "全景平拍镜头；豪华餐厅，木质餐桌，上方有现代吊灯，光线明亮；画面左侧人物，身穿灰色西装三件套，坐在桌前，手持白色马克杯喝水，表情：眉毛舒展，眼睛注视前方，嘴巴被杯子遮挡；画面右侧人物，身穿黑色抹胸上衣配白色泡泡袖外套，黑色短裤，站立，双手自然下垂，表情：眉毛微挑，眼睛斜视，嘴角紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣配白色泡泡袖外套，黑色短裤",
+                "position": "画面中央",
+                "action": "身体微侧，头部转向左侧，眼神向下",
+                "expression": "眉毛微蹙，眼睛半眯，嘴巴微张说话"
+            }
+        ],
+        "background": "室内走廊，背景有抽象画作，光线柔和",
+        "description_narrative": "中近景镜头，黑裙女站在画面中央，身体微侧，神情傲慢地看着前方，嘴唇开合正在说话。",
+        "dialogue": "我劝你早点滚出杨家，你根本不配合我们住在一起。",
+        "speaker": "黑裙女",
+        "emotion": "厌恶",
+        "duration": 3.82,
+        "description_visual": "中近景平拍镜头；室内走廊，背景有抽象画作，光线柔和；画面中央人物，身穿黑色抹胸上衣配白色泡泡袖外套，黑色短裤，身体微侧，头部转向左侧，眼神向下，表情：眉毛微蹙，眼睛半眯，嘴巴微张说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色西装三件套",
+                "position": "画面中央",
+                "action": "坐在桌前，低头看着手中的白色马克杯",
+                "expression": "眉毛微皱，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "木质墙面，左侧有白色落地灯，暖色调灯光",
+        "description_narrative": "中景镜头，西装男坐在桌前，低头看着手中的杯子，神情淡定，似乎在思考或无视对方的话。",
+        "dialogue": "杨家好像也不是你说的算。",
+        "speaker": "西装男",
+        "emotion": "淡定",
+        "duration": 3.16,
+        "description_visual": "中景平拍镜头；木质墙面，左侧有白色落地灯，暖色调灯光；画面中央人物，身穿灰色西装三件套，坐在桌前，低头看着手中的白色马克杯，表情：眉毛微皱，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色西装三件套",
+                "position": "画面左侧",
+                "action": "坐在桌前，手放在桌面上",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴角微抿"
+            },
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣配白色泡泡袖外套，黑色短裤",
+                "position": "画面右侧",
+                "action": "站立，双手交叉抱在胸前",
+                "expression": "眉毛上扬，眼睛注视对方，嘴角带笑"
+            }
+        ],
+        "background": "餐厅全景，可见后方客厅区域，光线明亮",
+        "description_narrative": "全景镜头，西装男坐在左侧桌边，黑裙女站在右侧，双手抱胸，身体微倾，带着嘲讽的笑意看着男子。",
+        "dialogue": "你看你这身子骨，就算痊愈了，也就是个废人。",
+        "speaker": "黑裙女",
+        "emotion": "嘲讽",
+        "duration": 4.38,
+        "description_visual": "全景平拍镜头；餐厅全景，可见后方客厅区域，光线明亮；画面左侧人物，身穿灰色西装三件套，坐在桌前，手放在桌面上，表情：眉毛舒展，眼睛看向右侧，嘴角微抿；画面右侧人物，身穿黑色抹胸上衣配白色泡泡袖外套，黑色短裤，站立，双手交叉抱在胸前，表情：眉毛上扬，眼睛注视对方，嘴角带笑。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣配白色泡泡袖外套，黑色短裤",
+                "position": "画面中央",
+                "action": "双手抱胸，身体正对镜头",
+                "expression": "眉毛微挑，眼睛直视前方，嘴角上扬"
+            }
+        ],
+        "background": "室内背景，模糊的画作和家具，光线柔和",
+        "description_narrative": "中近景镜头，黑裙女双手抱胸，神情得意，眼神中充满不屑，继续说着挑衅的话语。",
+        "dialogue": "没有了杨千雪的庇护，我看你还能得意到什么时候。",
+        "speaker": "黑裙女",
+        "emotion": "得意",
+        "duration": 4.82,
+        "description_visual": "中近景平拍镜头；室内背景，模糊的画作和家具，光线柔和；画面中央人物，身穿黑色抹胸上衣配白色泡泡袖外套，黑色短裤，双手抱胸，身体正对镜头，表情：眉毛微挑，眼睛直视前方，嘴角上扬。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色西装三件套",
+                "position": "画面左侧前景",
+                "action": "坐在桌前，手握着杯子，转头看向右后方",
+                "expression": "眉毛平展，眼睛注视后方，表情平静"
+            },
+            {
+                "name": "黑裙女",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣配白色泡泡袖外套，黑色短裤",
+                "position": "画面右侧背景",
+                "action": "转身背对镜头，向后方走去",
+                "expression": "不可见"
+            }
+        ],
+        "background": "餐厅与客厅连接处，可见沙发和地毯，光线自然",
+        "description_narrative": "中景镜头，西装男坐在前景桌边，目送黑裙女转身离开，黑裙女背对镜头走向客厅深处。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.82,
+        "description_visual": "中景平拍镜头；餐厅与客厅连接处，可见沙发和地毯，光线自然；画面左侧前景人物，身穿灰色西装三件套，坐在桌前，手握着杯子，转头看向右后方，表情：眉毛平展，眼睛注视后方，表情平静；画面右侧背景人物，身穿黑色抹胸上衣配白色泡泡袖外套，黑色短裤，转身背对镜头，向后方走去，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浴巾女",
+                "gender": "女",
+                "clothing": "白色浴巾包裹身体",
+                "position": "画面左侧",
+                "action": "站在门口，身体微侧，手自然下垂",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "卧室门口，木质门框，光线偏暗呈紫色调",
+        "description_narrative": "中景镜头，浴巾女裹着白色浴巾站在卧室门口，神情惊讶且带有防备，看着画面外的来人。",
+        "dialogue": "谁让你进来的？出去。",
+        "speaker": "浴巾女",
+        "emotion": "惊讶",
+        "duration": 3.38,
+        "description_visual": "中景平拍镜头；卧室门口，木质门框，光线偏暗呈紫色调；画面左侧人物，身穿白色浴巾包裹身体，站在门口，身体微侧，手自然下垂，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色西装三件套",
+                "position": "画面中央",
+                "action": "坐在床边，身体转向左侧，抬头看",
+                "expression": "眉毛舒展，眼睛向上看，嘴角带笑"
+            }
+        ],
+        "background": "卧室内部，白色床单，背景有沙发和挂画，光线偏紫",
+        "description_narrative": "中景镜头，西装男坐在床沿，身体转向左侧，抬头看着站着的浴巾女，脸上带着玩味的笑容。",
+        "dialogue": "当然是来看一看我的未婚妻呀。",
+        "speaker": "西装男",
+        "emotion": "玩味",
+        "duration": 5.02,
+        "description_visual": "中景平拍镜头；卧室内部，白色床单，背景有沙发和挂画，光线偏紫；画面中央人物，身穿灰色西装三件套，坐在床边，身体转向左侧，抬头看，表情：眉毛舒展，眼睛向上看，嘴角带笑。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浴巾女",
+                "gender": "女",
+                "clothing": "白色浴巾包裹身体",
+                "position": "画面中央",
+                "action": "站立，身体正对前方，眼神直视",
+                "expression": "眉毛微皱，眼睛直视对方，嘴巴紧闭"
+            },
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面左侧前景",
+                "action": "背影，仅露出部分肩膀",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室门口，木质门框，光线偏暗",
+        "description_narrative": "过肩镜头，越过西装男的肩膀拍摄浴巾女，她神情严肃地质问对方，眼神中带着抗拒。",
+        "dialogue": "谁是你未婚妻",
+        "speaker": "浴巾女",
+        "emotion": "抗拒",
+        "duration": 2.14,
+        "description_visual": "中近景过肩镜头；卧室门口，木质门框，光线偏暗；画面中央人物，身穿白色浴巾包裹身体，站立，身体正对前方，眼神直视，表情：眉毛微皱，眼睛直视对方，嘴巴紧闭；画面左侧前景人物，身穿灰色西装，背影，仅露出部分肩膀，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色西装三件套",
+                "position": "画面左侧",
+                "action": "站立，身体微侧，看着前方",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张说话"
+            }
+        ],
+        "background": "卧室背景，木质墙面，光线偏紫",
+        "description_narrative": "近景镜头，西装男神情认真，正在向对方解释，眼神专注，试图消除误会。",
+        "dialogue": "我和苏莉之间真的什么都没有，她就身患一些隐疾。",
+        "speaker": "西装男",
+        "emotion": "认真",
+        "duration": 5.7,
+        "description_visual": "近景平拍镜头；卧室背景，木质墙面，光线偏紫；画面左侧人物，身穿灰色西装三件套，站立，身体微侧，看着前方，表情：眉毛微蹙，眼睛注视对方，嘴巴微张说话。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浴巾女",
+                "gender": "女",
+                "clothing": "白色浴巾包裹身体",
+                "position": "画面中央",
+                "action": "站立，身体微侧，眼神看向左侧",
+                "expression": "眉毛舒展，眼睛看向侧方，表情平静"
+            }
+        ],
+        "background": "卧室背景，挂画，光线偏紫",
+        "description_narrative": "中近景镜头，浴巾女侧身站立，静静听着男子的解释，眼神中带着审视和怀疑。",
+        "dialogue": "我帮她看看，照顾照顾她而已。",
+        "speaker": "西装男",
+        "emotion": "怀疑",
+        "duration": 5.02,
+        "description_visual": "中近景平拍镜头；卧室背景，挂画，光线偏紫；画面中央人物，身穿白色浴巾包裹身体，站立，身体微侧，眼神看向左侧，表情：眉毛舒展，眼睛看向侧方，表情平静。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色西装三件套",
+                "position": "画面左侧",
+                "action": "站立，身体微前倾，看着前方",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，木质门框，光线偏紫",
+        "description_narrative": "近景镜头，西装男继续解释，神情笃定，提到爷爷的婚约，试图拉近与女子的关系。",
+        "dialogue": "爷爷都说了，他会亲自给我们俩订婚。",
+        "speaker": "西装男",
+        "emotion": "笃定",
+        "duration": 3.86,
+        "description_visual": "近景平拍镜头；卧室背景，木质门框，光线偏紫；画面左侧人物，身穿灰色西装三件套，站立，身体微前倾，看着前方，表情：眉毛微挑，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浴巾女",
+                "gender": "女",
+                "clothing": "白色浴巾包裹身体",
+                "position": "画面右侧",
+                "action": "侧身站立，头部微低",
+                "expression": "眉毛舒展，眼睛下视，表情若有所思"
+            }
+        ],
+        "background": "卧室床头柜，台灯，光线偏暗",
+        "description_narrative": "侧拍近景，浴巾女侧身低头，似乎在思考男子的话，神情变得柔和了一些。",
+        "dialogue": "我怎么还会对其他人那样？",
+        "speaker": "西装男",
+        "emotion": "思考",
+        "duration": 2.18,
+        "description_visual": "近景侧拍镜头；卧室床头柜，台灯，光线偏暗；画面右侧人物，身穿白色浴巾包裹身体，侧身站立，头部微低，表情：眉毛舒展，眼睛下视，表情若有所思。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "灰色西装三件套",
+                "position": "画面左侧",
+                "action": "站立，双手背在身后",
+                "expression": "眉毛舒展，眼睛看着女子，表情平静"
+            },
+            {
+                "name": "浴巾女",
+                "gender": "女",
+                "clothing": "白色浴巾包裹身体",
+                "position": "画面右侧",
+                "action": "坐在床边，身体微侧，看着男子",
+                "expression": "眉毛微挑，眼睛注视男子，嘴角微动"
+            }
+        ],
+        "background": "卧室全景，床，床头柜，挂画，光线偏紫",
+        "description_narrative": "全景镜头，西装男站在床边，浴巾女坐在床沿，两人对视，女子开口试探男子的心意。",
+        "dialogue": "不过好像那个苏莉，真的有点喜欢你。",
+        "speaker": "浴巾女",
+        "emotion": "试探",
+        "duration": 6.14,
+        "description_visual": "全景平拍镜头；卧室全景，床，床头柜，挂画，光线偏紫；画面左侧人物，身穿灰色西装三件套，站立，双手背在身后，表情：眉毛舒展，眼睛看着女子，表情平静；画面右侧人物，身穿白色浴巾包裹身体，坐在床边，身体微侧，看着男子，表情：眉毛微挑，眼睛注视男子，嘴角微动。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浴巾女",
+                "gender": "女",
+                "clothing": "白色浴巾包裹身体",
+                "position": "画面中央",
+                "action": "坐着，身体微前倾，看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，模糊的床铺，光线偏紫",
+        "description_narrative": "特写镜头，浴巾女坐在床上，神情复杂地看着男子，刚开口说了一个字，似乎欲言又止。",
+        "dialogue": "我",
+        "speaker": "浴巾女",
+        "emotion": "犹豫",
+        "duration": 6.66,
+        "description_visual": "特写平拍镜头；卧室背景，模糊的床铺，光线偏紫；画面中央人物，身穿白色浴巾包裹身体，坐着，身体微前倾，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    }
+]

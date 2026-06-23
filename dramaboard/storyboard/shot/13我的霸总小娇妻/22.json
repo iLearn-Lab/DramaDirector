@@ -1,0 +1,524 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯灰色背景，无具体场景元素。",
+        "description_narrative": "画面为纯灰色背景，持续3.84秒，无可见人物或动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；纯灰色背景，无具体场景元素。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "快速走向椅子并准备坐下，身体因运动略显模糊",
+                "expression": "面部因运动模糊不可辨"
+            }
+        ],
+        "background": "室内房间，可见木质椅子扶手和白色床单前景。",
+        "description_narrative": "镜头跟随青年男子快速移动，他身穿蓝白竖条纹衬衫和黑色长裤，正走向一把椅子准备坐下，动作带有动态模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.12,
+        "description_visual": "中景平拍镜头（跟拍）；室内房间，可见木质椅子扶手和白色床单前景。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，快速走向椅子并准备坐下，身体因运动略显模糊，表情：面部因运动模糊不可辨。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体微微前倾，双手自然垂放",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "青年男子坐在椅子上，身穿蓝白竖条纹衬衫，身体微微前倾，目光注视前方，嘴巴微张似乎在倾听或准备说话。",
+        "dialogue": "小林",
+        "speaker": "老年男子",
+        "emotion": "平静",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，身体微微前倾，双手自然垂放，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，头部微转，视线看向左侧",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "青年男子坐在椅子上，头部微转向左侧，视线看向画面外，眉毛微挑，嘴巴微张，似乎在回应问候。",
+        "dialogue": "你来了",
+        "speaker": "老年男子",
+        "emotion": "关切",
+        "duration": 0.68,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，头部微转，视线看向左侧，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "白色上衣",
+                "position": "画面左侧床上",
+                "action": "躺在病床上，头部靠在枕头上，双手放在被子上",
+                "expression": "面容平静，眼睛看向右侧"
+            },
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面右侧椅子上",
+                "action": "坐在床边椅子上，身体转向老年男子",
+                "expression": "侧脸看向老年男子，神情专注"
+            }
+        ],
+        "background": "病房或卧室，有大床、输液架、蓝色窗帘，光线柔和。",
+        "description_narrative": "全景镜头展示病房内景，老年男子躺在左侧病床上，青年男子坐在右侧床边椅子上，两人面对面交谈，中间立着输液架。",
+        "dialogue": "老爷子身体恢复的怎么样？",
+        "speaker": "青年男子",
+        "emotion": "关切",
+        "duration": 3.8,
+        "description_visual": "全景平拍镜头；病房或卧室，有大床、输液架、蓝色窗帘，光线柔和。；画面左侧床上人物，身穿白色上衣，躺在病床上，头部靠在枕头上，双手放在被子上，表情：面容平静，眼睛看向右侧；画面右侧椅子上人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在床边椅子上，身体转向老年男子，表情：侧脸看向老年男子，神情专注。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体前倾，双手放在膝盖附近",
+                "expression": "眉毛平展，眼睛注视对方，嘴巴微闭"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "镜头切回青年男子中近景，他身体前倾，双手自然放置，目光专注地注视着对面的老年男子，神情认真。",
+        "dialogue": "挺好的感觉很棒",
+        "speaker": "老年男子",
+        "emotion": "平静",
+        "duration": 2.68,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，身体前倾，双手放在膝盖附近，表情：眉毛平展，眼睛注视对方，嘴巴微闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体放松，头部微点",
+                "expression": "眉毛舒展，眼睛温和，嘴角微扬"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "青年男子坐在椅子上，身体放松，头部微微点头，眉毛舒展，嘴角带着温和的笑意，表示放心。",
+        "dialogue": "你没事就好",
+        "speaker": "青年男子",
+        "emotion": "欣慰",
+        "duration": 1.08,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，身体放松，头部微点，表情：眉毛舒展，眼睛温和，嘴角微扬。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "白色上衣",
+                "position": "画面左侧床上",
+                "action": "躺在病床上，头部微转",
+                "expression": "眼神温和，看向青年男子"
+            },
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面右侧椅子上",
+                "action": "坐在床边，身体前倾，手部有轻微动作",
+                "expression": "侧脸看向老年男子，神情认真"
+            }
+        ],
+        "background": "病房或卧室，有大床、输液架、蓝色窗帘。",
+        "description_narrative": "全景镜头，老年男子躺在床上，青年男子坐在床边身体前倾，正在讲述林妙的情况，手部有轻微动作辅助表达。",
+        "dialogue": "林妙都快担心死了",
+        "speaker": "青年男子",
+        "emotion": "认真",
+        "duration": 2.68,
+        "description_visual": "全景平拍镜头；病房或卧室，有大床、输液架、蓝色窗帘。；画面左侧床上人物，身穿白色上衣，躺在病床上，头部微转，表情：眼神温和，看向青年男子；画面右侧椅子上人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在床边，身体前倾，手部有轻微动作，表情：侧脸看向老年男子，神情认真。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体微侧，视线向下",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "青年男子坐在椅子上，身体微侧，视线向下，眉毛微蹙，似乎在回忆或转述老年男子的话。",
+        "dialogue": "小丫头从小就跟我亲",
+        "speaker": "老年男子",
+        "emotion": "慈爱",
+        "duration": 2.84,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，身体微侧，视线向下，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "白色上衣",
+                "position": "画面左侧床上",
+                "action": "躺在病床上，头部靠在枕头上",
+                "expression": "眼神看向青年男子，表情温和"
+            },
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面右侧椅子上",
+                "action": "坐在床边，身体端正",
+                "expression": "侧脸看向老年男子，神情专注"
+            }
+        ],
+        "background": "病房或卧室，有大床、输液架、蓝色窗帘。",
+        "description_narrative": "全景镜头，老年男子躺在床上温和地看着青年男子，青年男子端正地坐在床边倾听，两人气氛融洽。",
+        "dialogue": "也让我惯的",
+        "speaker": "老年男子",
+        "emotion": "宠溺",
+        "duration": 2.64,
+        "description_visual": "全景平拍镜头；病房或卧室，有大床、输液架、蓝色窗帘。；画面左侧床上人物，身穿白色上衣，躺在病床上，头部靠在枕头上，表情：眼神看向青年男子，表情温和；画面右侧椅子上人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在床边，身体端正，表情：侧脸看向老年男子，神情专注。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体前倾，视线向下",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "青年男子坐在椅子上，身体前倾，视线向下，眉毛微蹙，嘴巴微张，似乎在思考或回应刚才的话题。",
+        "dialogue": "都是毛病",
+        "speaker": "老年男子",
+        "emotion": "无奈",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，身体前倾，视线向下，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "白色上衣",
+                "position": "画面左侧床上",
+                "action": "躺在病床上，头部微转",
+                "expression": "眼神严肃，看向青年男子"
+            },
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面右侧椅子上",
+                "action": "坐在床边，身体前倾，神情严肃",
+                "expression": "侧脸看向老年男子，眉头微皱"
+            }
+        ],
+        "background": "病房或卧室，有大床、输液架、蓝色窗帘。",
+        "description_narrative": "全景镜头，气氛变得严肃，老年男子躺在床上看着青年男子，青年男子身体前倾，眉头微皱，正在汇报调查情况。",
+        "dialogue": "人我查出来了不过现在还不能告诉她后面还有其他的人具体是谁我还不知道",
+        "speaker": "青年男子",
+        "emotion": "严肃",
+        "duration": 6.2,
+        "description_visual": "全景平拍镜头；病房或卧室，有大床、输液架、蓝色窗帘。；画面左侧床上人物，身穿白色上衣，躺在病床上，头部微转，表情：眼神严肃，看向青年男子；画面右侧椅子上人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在床边，身体前倾，神情严肃，表情：侧脸看向老年男子，眉头微皱。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体端正，视线直视前方",
+                "expression": "眉毛平展，眼睛直视，嘴巴微闭"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "青年男子坐在椅子上，身体端正，视线直视前方，表情严肃，正在倾听老年男子关于背叛的感慨。",
+        "dialogue": "谁能想到跟了我家几十年的人竟然背叛我哼哼",
+        "speaker": "老年男子",
+        "emotion": "愤慨",
+        "duration": 7.76,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，身体端正，视线直视前方，表情：眉毛平展，眼睛直视，嘴巴微闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "白色上衣",
+                "position": "画面左侧床上",
+                "action": "躺在病床上，头部微转",
+                "expression": "眼神深邃，看向青年男子"
+            },
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面右侧椅子上",
+                "action": "坐在床边，身体前倾",
+                "expression": "侧脸看向老年男子，神情询问"
+            }
+        ],
+        "background": "病房或卧室，有大床、输液架、蓝色窗帘。",
+        "description_narrative": "全景镜头，老年男子躺在床上眼神深邃，青年男子身体前倾，侧脸看向老年男子，似乎在询问具体情况。",
+        "dialogue": "你知道是谁？",
+        "speaker": "青年男子",
+        "emotion": "疑惑",
+        "duration": 5.04,
+        "description_visual": "全景平拍镜头；病房或卧室，有大床、输液架、蓝色窗帘。；画面左侧床上人物，身穿白色上衣，躺在病床上，头部微转，表情：眼神深邃，看向青年男子；画面右侧椅子上人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在床边，身体前倾，表情：侧脸看向老年男子，神情询问。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体微侧，视线向下",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "青年男子坐在椅子上，身体微侧，视线向下，眉毛微蹙，正在倾听老年男子分析家族内部情况。",
+        "dialogue": "我应该知道是谁了毕竟家里这些人",
+        "speaker": "老年男子",
+        "emotion": "深沉",
+        "duration": 5.96,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，身体微侧，视线向下，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "白色上衣",
+                "position": "画面左侧床上",
+                "action": "躺在病床上，头部微转",
+                "expression": "眼神看向远方，若有所思"
+            },
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面右侧椅子上",
+                "action": "坐在床边，身体端正",
+                "expression": "侧脸看向老年男子，神情专注"
+            }
+        ],
+        "background": "病房或卧室，有大床、输液架、蓝色窗帘。",
+        "description_narrative": "全景镜头，老年男子躺在床上若有所思地看向远方，青年男子端正地坐在床边专注倾听。",
+        "dialogue": "跟我亲近的没几个他从小就在",
+        "speaker": "老年男子",
+        "emotion": "回忆",
+        "duration": 3.6,
+        "description_visual": "全景平拍镜头；病房或卧室，有大床、输液架、蓝色窗帘。；画面左侧床上人物，身穿白色上衣，躺在病床上，头部微转，表情：眼神看向远方，若有所思；画面右侧椅子上人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在床边，身体端正，表情：侧脸看向老年男子，神情专注。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体微侧，视线向下",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "青年男子坐在椅子上，身体微侧，视线向下，眉毛微蹙，表情略显惊讶，正在消化老年男子提供的信息。",
+        "dialogue": "在我家现在也三十多年了",
+        "speaker": "老年男子",
+        "emotion": "感叹",
+        "duration": 4.44,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，身体微侧，视线向下，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "躺在床上，仅露出胸部和下巴部分",
+                "expression": "嘴巴微张，似乎在说话"
+            }
+        ],
+        "background": "病床白色被单，木质床头板。",
+        "description_narrative": "特写镜头聚焦在老年男子的胸部和下巴，他躺在白色被单下，嘴巴微张，似乎正在说话。",
+        "dialogue": "没想到啊那你准备怎么处理他？",
+        "speaker": "青年男子",
+        "emotion": "惊讶/询问",
+        "duration": 5.56,
+        "description_visual": "特写俯拍镜头；病床白色被单，木质床头板。；画面中央人物，身穿白色上衣，躺在床上，仅露出胸部和下巴部分，表情：嘴巴微张，似乎在说话。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "蓝白竖条纹衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在椅子上，身体微侧，视线向下",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微闭"
+            }
+        ],
+        "background": "室内房间，白色墙壁，窗户光线明亮。",
+        "description_narrative": "青年男子坐在椅子上，身体微侧，视线向下，眉毛微蹙，嘴巴微闭，神情凝重地倾听。",
+        "dialogue": "我人老了",
+        "speaker": "老年男子",
+        "emotion": "疲惫",
+        "duration": 2.32,
+        "description_visual": "中近景平拍镜头；室内房间，白色墙壁，窗户光线明亮。；画面中央人物，身穿蓝白竖条纹衬衫，黑色长裤，坐在椅子上，身体微侧，视线向下，表情：眉毛微蹙，眼睛视线下移，嘴巴微闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "躺在床上，仅露出胸部和下巴部分",
+                "expression": "嘴巴微张，语气平淡"
+            }
+        ],
+        "background": "病床白色被单，木质床头板。",
+        "description_narrative": "特写镜头聚焦在老年男子的胸部和下巴，他躺在白色被单下，嘴巴微张，语气平淡地表达不想参与。",
+        "dialogue": "不想参与了",
+        "speaker": "老年男子",
+        "emotion": "决绝",
+        "duration": 2.36,
+        "description_visual": "特写俯拍镜头；病床白色被单，木质床头板。；画面中央人物，身穿白色上衣，躺在床上，仅露出胸部和下巴部分，表情：嘴巴微张，语气平淡。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老年男子",
+                "gender": "男",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "躺在床上，仅露出白色被单",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病床白色被单。",
+        "description_narrative": "特写镜头聚焦在白色的被单上，老年男子躺在床上，画面中仅可见被单起伏，暗示对话结束。",
+        "dialogue": "交给你们了。",
+        "speaker": "老年男子",
+        "emotion": "信任",
+        "duration": 4.2,
+        "description_visual": "特写俯拍镜头；病床白色被单。；画面中央人物，身穿白色上衣，躺在床上，仅露出白色被单，表情：不可见。"
+    }
+]

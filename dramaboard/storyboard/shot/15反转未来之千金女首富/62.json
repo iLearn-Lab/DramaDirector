@@ -1,0 +1,837 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色V领衬衫，浅蓝色短裙",
+                "position": "画面右侧",
+                "action": "双手递出一瓶矿泉水，身体微微前倾",
+                "expression": "眉毛微蹙，眼神关切，嘴唇微张"
+            },
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色西装",
+                "position": "画面左侧前景（背影）",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，米色墙壁，光线明亮",
+        "description_narrative": "在医院走廊，白衣女子身穿白色衬衫和浅蓝短裙，双手递出一瓶水给面前的顾董，神情关切地劝他喝水。",
+        "dialogue": "顾董，喝点水。",
+        "speaker": "白衣女子",
+        "emotion": "关切",
+        "duration": 1.24,
+        "description_visual": "中近景过肩镜头；医院走廊，米色墙壁，光线明亮；画面右侧人物，身穿白色V领衬衫，浅蓝色短裙，双手递出一瓶矿泉水，身体微微前倾，表情：眉毛微蹙，眼神关切，嘴唇微张；画面左侧前景（背影）人物，身穿深灰色西装，站立，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色V领衬衫，浅蓝色短裙",
+                "position": "画面中央",
+                "action": "手持水瓶，眼神下移，轻轻闭眼",
+                "expression": "眉毛舒展，眼睛闭合，嘴唇紧闭"
+            }
+        ],
+        "background": "医院走廊，米色墙壁，光线柔和",
+        "description_narrative": "白衣女子见对方未接水，眼神黯淡下来，轻轻闭上眼睛，显得无奈且委屈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "委屈",
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；医院走廊，米色墙壁，光线柔和；画面中央人物，身穿白色V领衬衫，浅蓝色短裙，手持水瓶，眼神下移，轻轻闭眼，表情：眉毛舒展，眼睛闭合，嘴唇紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装，深蓝色衬衫",
+                "position": "画面中央",
+                "action": "站立，面部表情愤怒，手部有轻微动作",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴角下撇"
+            }
+        ],
+        "background": "医院走廊，墙上有红色发光装饰",
+        "description_narrative": "顾董身穿深灰色西装，满脸怒容地拒绝了对方的好意，语气生硬。",
+        "dialogue": "不用你在这假好心，要不是你。",
+        "speaker": "顾董",
+        "emotion": "愤怒",
+        "duration": 2.64,
+        "description_visual": "中景平拍镜头；医院走廊，墙上有红色发光装饰；画面中央人物，身穿深灰色三件套西装，深蓝色衬衫，站立，面部表情愤怒，手部有轻微动作，表情：眉毛紧锁，眼睛瞪视，嘴角下撇。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面左侧",
+                "action": "站立，手指指向白衣女子",
+                "expression": "愤怒，指责"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面右侧",
+                "action": "站立，手持水瓶",
+                "expression": "担忧，被动"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面左前景（坐姿）",
+                "action": "坐在长椅上，侧身",
+                "expression": "低头，沉重"
+            }
+        ],
+        "background": "手术室门口，双开门上有红色观察窗，上方有蓝色标牌",
+        "description_narrative": "全景镜头展示手术室门口，顾董指着白衣女子激烈指责，认为是她导致老爷子心脏病发进手术室，顾云霆坐在一旁低头沉默。",
+        "dialogue": "老爷子会心脏病发进手术室吗？",
+        "speaker": "顾董",
+        "emotion": "愤怒",
+        "duration": 2.64,
+        "description_visual": "全景平拍镜头；手术室门口，双开门上有红色观察窗，上方有蓝色标牌；画面左侧人物，身穿深灰色三件套西装，站立，手指指向白衣女子，表情：愤怒，指责；画面右侧人物，身穿白色衬衫，浅蓝色短裙，站立，手持水瓶，表情：担忧，被动；画面左前景（坐姿）人物，身穿白色西装，绿色条纹领带，坐在长椅上，侧身，表情：低头，沉重。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，身体前倾，表情严厉",
+                "expression": "眉毛上扬，眼神凶狠，嘴巴张开"
+            }
+        ],
+        "background": "医院走廊，红色发光装饰背景",
+        "description_narrative": "顾董继续愤怒地指责白衣女子是害人精，认为她害顾家与韩家结仇。",
+        "dialogue": "你就是个害人精，害我们和韩家结的仇还不够。",
+        "speaker": "顾董",
+        "emotion": "愤怒",
+        "duration": 6.28,
+        "description_visual": "中景平拍镜头；医院走廊，红色发光装饰背景；画面中央人物，身穿深灰色三件套西装，站立，身体前倾，表情严厉，表情：眉毛上扬，眼神凶狠，嘴巴张开。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色V领衬衫，浅蓝色短裙",
+                "position": "画面中央",
+                "action": "双手紧握水瓶，低头",
+                "expression": "眉毛低垂，眼神躲闪，嘴唇紧闭"
+            }
+        ],
+        "background": "医院走廊，米色门框",
+        "description_narrative": "白衣女子低着头，双手紧紧握着水瓶，面对顾董关于害得顾家家破人亡的质问，小声否认。",
+        "dialogue": "还想害得顾家家破人亡，是不是？我没有那么想过。",
+        "speaker": "顾董, 白衣女子",
+        "emotion": "委屈",
+        "duration": 4.68,
+        "description_visual": "中近景过肩镜头；医院走廊，米色门框；画面中央人物，身穿白色V领衬衫，浅蓝色短裙，双手紧握水瓶，低头，表情：眉毛低垂，眼神躲闪，嘴唇紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面左侧",
+                "action": "站立，嘲讽地看着女子",
+                "expression": "轻蔑，怀疑"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "无奈"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "左前景",
+                "action": "坐着",
+                "expression": "沉默"
+            }
+        ],
+        "background": "手术室门口，蓝色标牌清晰可见",
+        "description_narrative": "顾董冷笑反问女子是否没想过，并指责她抢金矿时手软，顾云霆坐在一旁听着。",
+        "dialogue": "你没有那么想过？你抢金矿的时候可没有半点手软。",
+        "speaker": "顾董",
+        "emotion": "嘲讽",
+        "duration": 5.0,
+        "description_visual": "全景平拍镜头；手术室门口，蓝色标牌清晰可见；画面左侧人物，身穿深灰色三件套西装，站立，嘲讽地看着女子，表情：轻蔑，怀疑；画面右侧人物，身穿白色衬衫，浅蓝色短裙，站立，表情：无奈；左前景人物，身穿白色西装，坐着，表情：沉默。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面中央",
+                "action": "逼近女子，表情激动",
+                "expression": "眉毛紧皱，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "医院走廊，红色装饰背景",
+        "description_narrative": "顾董情绪激动地质问女子是否敢说自己对金矿的事毫不知情。",
+        "dialogue": "你敢说事前对金矿的事毫不知情吗？你敢吗？",
+        "speaker": "顾董",
+        "emotion": "激动",
+        "duration": 5.24,
+        "description_visual": "中景平拍镜头（推进）；医院走廊，红色装饰背景；画面中央人物，身穿深灰色三件套西装，逼近女子，表情激动，表情：眉毛紧皱，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面左侧",
+                "action": "挥手，大声吼叫",
+                "expression": "极度愤怒，青筋暴起"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "手持水瓶",
+                "expression": "惊恐"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾董大吼“你敢吗”，此时顾云霆的声音传来制止了他。",
+        "dialogue": "别说了。",
+        "speaker": "顾云霆",
+        "emotion": "愤怒",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；医院走廊；画面左侧人物，身穿深灰色三件套西装，挥手，大声吼叫，表情：极度愤怒，青筋暴起；画面右侧人物，身穿白色衬衫，手持水瓶，表情：惊恐。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面中央",
+                "action": "坐在长椅上，手扶领带，眉头紧锁",
+                "expression": "痛苦，烦躁"
+            }
+        ],
+        "background": "医院走廊，绿色长椅，墙上有宣传画",
+        "description_narrative": "顾云霆坐在长椅上，手扶着领带，表情痛苦地询问为什么不能说。",
+        "dialogue": "为什么不能说",
+        "speaker": "顾董",
+        "emotion": "烦躁",
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头；医院走廊，绿色长椅，墙上有宣传画；画面中央人物，身穿白色西装，绿色条纹领带，坐在长椅上，手扶领带，眉头紧锁，表情：痛苦，烦躁。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，看着顾云霆",
+                "expression": "严肃，急切"
+            }
+        ],
+        "background": "医院走廊，红色装饰背景",
+        "description_narrative": "顾董看着顾云霆，直言女子从一开始就在利用他。",
+        "dialogue": "云霆，她从一开始就在利用你。",
+        "speaker": "顾董",
+        "emotion": "急切",
+        "duration": 5.04,
+        "description_visual": "中景过肩镜头；医院走廊，红色装饰背景；画面中央人物，身穿深灰色三件套西装，站立，看着顾云霆，表情：严肃，急切。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面左侧",
+                "action": "站立， gesturing",
+                "expression": "质疑"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "沉默"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "左前景",
+                "action": "坐着",
+                "expression": "低头"
+            }
+        ],
+        "background": "手术室门口",
+        "description_narrative": "顾董继续质问，一个寡妇凭什么能成为身家两百亿的女富豪，暗示其中有诈。",
+        "dialogue": "不然就这么一个寡妇，她凭什么能一跃成为身两百亿的女富豪？",
+        "speaker": "顾董",
+        "emotion": "质疑",
+        "duration": 5.64,
+        "description_visual": "全景平拍镜头；手术室门口；画面左侧人物，身穿深灰色三件套西装，站立， gesturing，表情：质疑；画面右侧人物，身穿白色衬衫，浅蓝色短裙，站立，表情：沉默；左前景人物，身穿白色西装，坐着，表情：低头。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，手指指向女子方向",
+                "expression": "肯定，指责"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾董断定女子是在欺骗顾云霆。",
+        "dialogue": "她是在欺骗你",
+        "speaker": "顾董",
+        "emotion": "肯定",
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头；医院走廊；画面中央人物，身穿深灰色三件套西装，站立，手指指向女子方向，表情：肯定，指责。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面左侧",
+                "action": "挥手，情绪激动",
+                "expression": "焦急，恨铁不成钢"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾董劝顾云霆清醒一点，不要被骗上位。",
+        "dialogue": "上位啊，你清醒一点好不好？",
+        "speaker": "顾董",
+        "emotion": "焦急",
+        "duration": 3.76,
+        "description_visual": "中景平拍镜头；医院走廊；画面左侧人物，身穿深灰色三件套西装，挥手，情绪激动，表情：焦急，恨铁不成钢。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面中央",
+                "action": "从座位上站起，挥手制止",
+                "expression": "愤怒，决绝"
+            }
+        ],
+        "background": "医院走廊，绿色长椅",
+        "description_narrative": "顾云霆猛地站起，大声喝止二叔，让他别再说了。",
+        "dialogue": "我让你别说了。",
+        "speaker": "顾云霆",
+        "emotion": "愤怒",
+        "duration": 0.84,
+        "description_visual": "中景低角度镜头（推进）；医院走廊，绿色长椅；画面中央人物，身穿白色西装，绿色条纹领带，从座位上站起，挥手制止，表情：愤怒，决绝。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面中央",
+                "action": "站立，表情严肃，眼神坚定",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾云霆正式下令，从今天开始谁也不许提金矿的事情。",
+        "dialogue": "顾云霆，从今天开始，金矿的事情谁也不许提半个字。",
+        "speaker": "顾云霆",
+        "emotion": "威严",
+        "duration": 5.68,
+        "description_visual": "近景平拍镜头；医院走廊；画面中央人物，身穿白色西装，绿色条纹领带，站立，表情严肃，眼神坚定，表情：眉毛紧锁，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面左侧（背影/侧影）",
+                "action": "手指指向顾董",
+                "expression": "严厉"
+            },
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色三件套西装",
+                "position": "画面右侧",
+                "action": "站立，愣住",
+                "expression": "惊讶，不服"
+            }
+        ],
+        "background": "医院走廊，红色装饰背景",
+        "description_narrative": "顾云霆指着顾董，厉声问他听到了没有。",
+        "dialogue": "听到了没有？",
+        "speaker": "顾云霆",
+        "emotion": "严厉",
+        "duration": 3.16,
+        "description_visual": "中景过肩镜头；医院走廊，红色装饰背景；画面左侧（背影/侧影）人物，身穿白色西装，手指指向顾董，表情：严厉；画面右侧人物，身穿深灰色三件套西装，站立，愣住，表情：惊讶，不服。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面外",
+                "action": "画外音",
+                "expression": "不可见"
+            }
+        ],
+        "background": "手术室双开门，红色观察窗",
+        "description_narrative": "镜头对准手术室大门，顾董画外音抱怨顾云霆还在护着女人，扬言要看她如何毁掉顾家。",
+        "dialogue": "到现在你还护着这个女人，我就要看看她是怎么样毁掉顾家，毁掉你的。",
+        "speaker": "顾董",
+        "emotion": "怨恨",
+        "duration": 10.44,
+        "description_visual": "特写平拍镜头；手术室双开门，红色观察窗；画面外人物，身穿未知，画外音，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面左侧",
+                "action": "行走，神情担忧",
+                "expression": "焦虑"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面右侧",
+                "action": "行走，神情紧张",
+                "expression": "焦急"
+            }
+        ],
+        "background": "医院走廊，米色门",
+        "description_narrative": "顾云霆和白衣女子焦急地在走廊上走动，等待消息。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 1.44,
+        "description_visual": "中景平拍镜头（跟拍）；医院走廊，米色门；画面左侧人物，身穿白色衬衫，浅蓝色短裙，行走，神情担忧，表情：焦虑；画面右侧人物，身穿白色西装，绿色条纹领带，行走，神情紧张，表情：焦急。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面右侧",
+                "action": "看着前方，眼神震惊",
+                "expression": "眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "绿色手术服",
+                "position": "画面左侧前景（背影）",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "医生从手术室出来，顾云霆见状立刻上前，神情震惊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 0.76,
+        "description_visual": "中近景过肩镜头（推进）；医院走廊；画面右侧人物，身穿白色西装，绿色条纹领带，看着前方，眼神震惊，表情：眼睛睁大，嘴巴微张；画面左侧前景（背影）人物，身穿绿色手术服，站立，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面中央",
+                "action": "身体前倾，急切询问",
+                "expression": "焦急，担忧"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾云霆急切地询问医生爷爷的情况。",
+        "dialogue": "医生，我爷爷怎么样了？",
+        "speaker": "顾云霆",
+        "emotion": "焦急",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；医院走廊；画面中央人物，身穿白色西装，绿色条纹领带，身体前倾，急切询问，表情：焦急，担忧。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "绿色手术服，口罩",
+                "position": "画面左侧",
+                "action": "站立，神情严肃",
+                "expression": "严肃"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面中央",
+                "action": "站立，担忧",
+                "expression": "担忧"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央偏右",
+                "action": "站立，倾听",
+                "expression": "紧张"
+            },
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色西装",
+                "position": "画面右侧",
+                "action": "站立，倾听",
+                "expression": "严肃"
+            }
+        ],
+        "background": "手术室门口",
+        "description_narrative": "医生告知顾总要做好心理准备，三人围在医生身边紧张倾听。",
+        "dialogue": "顾总，您要做好准备。",
+        "speaker": "医生",
+        "emotion": "严肃",
+        "duration": 1.76,
+        "description_visual": "全景平拍镜头；手术室门口；画面左侧人物，身穿绿色手术服，口罩，站立，神情严肃，表情：严肃；画面中央人物，身穿白色衬衫，浅蓝色短裙，站立，担忧，表情：担忧；画面中央偏右人物，身穿白色西装，站立，倾听，表情：紧张；画面右侧人物，身穿深灰色西装，站立，倾听，表情：严肃。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "绿色手术服",
+                "position": "画面左侧",
+                "action": "解释病情",
+                "expression": "专业，严肃"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "倾听",
+                "expression": "担忧"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "倾听",
+                "expression": "震惊"
+            },
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色西装",
+                "position": "画面右侧",
+                "action": "倾听",
+                "expression": "凝重"
+            }
+        ],
+        "background": "手术室门口",
+        "description_narrative": "医生详细告知老爷子心衰四级伴肺水肿，虽暂时度过危险期但情况不容乐观。",
+        "dialogue": "顾老先生的心衰已经达到了四级，还伴有肺部的水肿。虽然经过我们的全力抢救，暂时度过了危险期，但后续的情况仍旧不容乐观。",
+        "speaker": "医生",
+        "emotion": "严肃",
+        "duration": 11.64,
+        "description_visual": "全景平拍镜头；手术室门口；画面左侧人物，身穿绿色手术服，解释病情，表情：专业，严肃；画面中央人物，身穿白色衬衫，倾听，表情：担忧；画面中央人物，身穿白色西装，倾听，表情：震惊；画面右侧人物，身穿深灰色西装，倾听，表情：凝重。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面右侧",
+                "action": "身体前倾，靠近医生",
+                "expression": "痛苦，恳求"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾云霆听到消息后痛苦地呼唤医生。",
+        "dialogue": "医生。",
+        "speaker": "顾云霆",
+        "emotion": "痛苦",
+        "duration": 2.96,
+        "description_visual": "近景过肩镜头（推进）；医院走廊；画面右侧人物，身穿白色西装，绿色条纹领带，身体前倾，靠近医生，表情：痛苦，恳求。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面右侧",
+                "action": "抓住医生的手臂，恳求",
+                "expression": "眼泪汪汪，急切"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾云霆抓住医生的手臂，恳求一定要救救他们。",
+        "dialogue": "一定要救救我们。",
+        "speaker": "顾云霆",
+        "emotion": "恳求",
+        "duration": 1.36,
+        "description_visual": "近景过肩镜头；医院走廊；画面右侧人物，身穿白色西装，绿色条纹领带，抓住医生的手臂，恳求，表情：眼泪汪汪，急切。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "绿色手术服",
+                "position": "画面左侧",
+                "action": "被抓住手臂，安抚",
+                "expression": "同情"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "站立，担忧",
+                "expression": "悲伤"
+            },
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面右侧",
+                "action": "抓着医生",
+                "expression": "绝望"
+            }
+        ],
+        "background": "手术室门口",
+        "description_narrative": "医生安抚顾总，表示会全力抢救。",
+        "dialogue": "顾总，您放心，我们一定会全力抢救顾老先生。",
+        "speaker": "医生",
+        "emotion": "安抚",
+        "duration": 6.04,
+        "description_visual": "全景平拍镜头；手术室门口；画面左侧人物，身穿绿色手术服，被抓住手臂，安抚，表情：同情；画面中央人物，身穿白色衬衫，站立，担忧，表情：悲伤；画面右侧人物，身穿白色西装，抓着医生，表情：绝望。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面中央",
+                "action": "深呼吸，眼神变得坚定",
+                "expression": "冷静，决断"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾云霆迅速冷静下来，任命二叔为副总，并严令封锁爷爷病危的消息。",
+        "dialogue": "二叔，我正式任命你为公司副总，现在马上封锁消息，爷爷病危的消息绝对不能走漏，否则顾家就完了。",
+        "speaker": "顾云霆",
+        "emotion": "决断",
+        "duration": 22.84,
+        "description_visual": "近景平拍镜头；医院走廊；画面中央人物，身穿白色西装，绿色条纹领带，深呼吸，眼神变得坚定，表情：冷静，决断。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面中央",
+                "action": "眼神坚定，看着前方",
+                "expression": "严肃，沉稳"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "低头",
+                "expression": "担忧"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾云霆说完后，眼神坚定地看向前方，白衣女子在一旁低头沉默。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉稳",
+        "duration": 0.68,
+        "description_visual": "近景平拍镜头；医院走廊；画面中央人物，身穿白色西装，绿色条纹领带，眼神坚定，看着前方，表情：严肃，沉稳；画面左侧人物，身穿白色衬衫，低头，表情：担忧。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾云霆",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "画面中央",
+                "action": "微微点头，眼神深邃",
+                "expression": "复杂，坚定"
+            },
+            {
+                "name": "顾董",
+                "gender": "男",
+                "clothing": "深灰色西装",
+                "position": "画面右侧（局部）",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊",
+        "description_narrative": "顾云霆在危机时刻展现出家族掌权人的担当，画面定格在他复杂的表情上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；医院走廊；画面中央人物，身穿白色西装，绿色条纹领带，微微点头，眼神深邃，表情：复杂，坚定；画面右侧（局部）人物，身穿深灰色西装，站立，表情：不可见。"
+    }
+]

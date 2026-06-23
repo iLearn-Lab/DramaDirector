@@ -1,0 +1,336 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "雨中男子",
+                "gender": "男",
+                "clothing": "深色古装",
+                "position": "画面左上方",
+                "action": "低头凝视下方女子，雨水顺着脸颊流下",
+                "expression": "眉毛微蹙，眼神深情专注，嘴唇微张"
+            },
+            {
+                "name": "雨中女子",
+                "gender": "女",
+                "clothing": "浅色古装",
+                "position": "画面右下方",
+                "action": "仰头望向男子，长发湿漉贴在脸上",
+                "expression": "眉毛舒展，眼睛湿润仰望，嘴唇微启"
+            }
+        ],
+        "background": "黑暗的雨夜背景，雨丝清晰可见，光线柔和打在两人脸上",
+        "description_narrative": "特写镜头，雨中男子低头深情凝视着仰头的雨中女子，雨水打湿了两人的头发和脸庞，氛围暧昧而紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "深情/紧张",
+        "duration": 4.32,
+        "description_visual": "特写平拍镜头；黑暗的雨夜背景，雨丝清晰可见，光线柔和打在两人脸上；画面左上方人物，身穿深色古装，低头凝视下方女子，雨水顺着脸颊流下，表情：眉毛微蹙，眼神深情专注，嘴唇微张；画面右下方人物，身穿浅色古装，仰头望向男子，长发湿漉贴在脸上，表情：眉毛舒展，眼睛湿润仰望，嘴唇微启。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，中央显示白色文字",
+        "description_narrative": "黑屏画面，中央显示白色剧集标题“第七十三集”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "全景平拍镜头；纯黑背景，中央显示白色文字。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，中央显示灰色文字",
+        "description_narrative": "黑屏画面，剧集标题“第七十三集”颜色变淡，画外音响起。",
+        "dialogue": "顾总",
+        "speaker": "西装男子",
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "全景平拍镜头；纯黑背景，中央显示灰色文字。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，低头翻阅文件，手指按在书页上",
+                "expression": "眉毛微蹙，眼神专注向下，嘴唇微动"
+            }
+        ],
+        "background": "办公室环境，背景有黑色办公椅，光线明亮",
+        "description_narrative": "中近景，粉衣女子坐在办公桌前低头查阅文件，神情专注，随即抬头说出发现的信息。",
+        "dialogue": "找到了 顺延仓库",
+        "speaker": "粉衣女子",
+        "emotion": "专注/发现",
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；办公室环境，背景有黑色办公椅，光线明亮；画面中央人物，身穿粉色衬衫，坐在桌前，低头翻阅文件，手指按在书页上，表情：眉毛微蹙，眼神专注向下，嘴唇微动。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白色衬衫，深色领带",
+                "position": "画面左侧",
+                "action": "身体前倾靠在桌边，急切地看着对面",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室背景，模糊的书架，前景有粉衣女子肩膀虚化",
+        "description_narrative": "过肩镜头，西装男子身体前倾，表情急切地向粉衣女子汇报具体的仓库地址。",
+        "dialogue": "北环三街 403 号",
+        "speaker": "西装男子",
+        "emotion": "急切",
+        "duration": 2.12,
+        "description_visual": "中近景过肩镜头；办公室背景，模糊的书架，前景有粉衣女子肩膀虚化；画面左侧人物，身穿深色条纹西装，白色衬衫，深色领带，身体前倾靠在桌边，急切地看着对面，表情：眉毛上扬，眼睛睁大，嘴巴张开说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "双手手指交叉按在文件上，抬头思考",
+                "expression": "眉毛微挑，眼神若有所思，嘴唇微张"
+            }
+        ],
+        "background": "办公室环境，黑色办公椅背景",
+        "description_narrative": "中近景，粉衣女子听到地址后，手指在文件上轻轻点动，意识到该地点离顾家很近。",
+        "dialogue": "北环三街 403 号 离顾家就两条街",
+        "speaker": "粉衣女子",
+        "emotion": "思索/警觉",
+        "duration": 5.52,
+        "description_visual": "中近景平拍镜头；办公室环境，黑色办公椅背景；画面中央人物，身穿粉色衬衫，双手手指交叉按在文件上，抬头思考，表情：眉毛微挑，眼神若有所思，嘴唇微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "保持坐姿，画面逐渐过曝变白",
+                "expression": "表情严肃，眼神坚定"
+            }
+        ],
+        "background": "办公室环境，光线逐渐变白过渡",
+        "description_narrative": "中近景，粉衣女子神情严肃，画面通过白闪效果转场，进入回忆或叙述片段。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；办公室环境，光线逐渐变白过渡；画面中央人物，身穿粉色衬衫，保持坐姿，画面逐渐过曝变白，表情：表情严肃，眼神坚定。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色西装外套，白色T恤",
+                "position": "画面中央",
+                "action": "面对镜头方向说话，头部微动",
+                "expression": "眉毛平展，眼神直视，嘴巴开合解释"
+            }
+        ],
+        "background": "模糊的浅色背景，可能是室内",
+        "description_narrative": "特写镜头，白衣男子出现在回忆或叙述中，解释孙薇薇案发时的行踪。",
+        "dialogue": "孙薇薇当时在 自家仓库里进货 没有作案时间",
+        "speaker": "白衣男子",
+        "emotion": "陈述/解释",
+        "duration": 3.92,
+        "description_visual": "特写平拍镜头；模糊的浅色背景，可能是室内；画面中央人物，身穿白色西装外套，白色T恤，面对镜头方向说话，头部微动，表情：眉毛平展，眼神直视，嘴巴开合解释。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白屏幕",
+        "description_narrative": "白屏过渡画面，粉衣女子的画外音响起，表达她的推断。",
+        "dialogue": "我知道了 这事跟孙薇薇脱不了干系",
+        "speaker": "粉衣女子",
+        "emotion": null,
+        "duration": 4.4,
+        "description_visual": "全景平拍镜头；纯白屏幕。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "深色条纹西装，白色衬衫，深色领带",
+                "position": "画面左侧",
+                "action": "双手交握放在桌上，低头思考后抬头",
+                "expression": "眉毛紧锁，眼神担忧，嘴唇紧闭后微张"
+            }
+        ],
+        "background": "办公室背景，模糊的书架",
+        "description_narrative": "中近景，西装男子双手交握，神情担忧地询问接下来的行动计划。",
+        "dialogue": "我们接下来怎么办",
+        "speaker": "西装男子",
+        "emotion": "担忧/询问",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；办公室背景，模糊的书架；画面左侧人物，身穿深色条纹西装，白色衬衫，深色领带，双手交握放在桌上，低头思考后抬头，表情：眉毛紧锁，眼神担忧，嘴唇紧闭后微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，眼神坚定，准备拿手机",
+                "expression": "眉毛微扬，眼神果断，嘴唇微动"
+            }
+        ],
+        "background": "办公室环境，黑色办公椅",
+        "description_narrative": "中近景，粉衣女子眼神果断，让西装男子稍等，准备采取行动。",
+        "dialogue": "陆哥 你等我一下",
+        "speaker": "粉衣女子",
+        "emotion": "果断",
+        "duration": 2.56,
+        "description_visual": "中近景平拍镜头；办公室环境，黑色办公椅；画面中央人物，身穿粉色衬衫，坐在桌前，眼神坚定，准备拿手机，表情：眉毛微扬，眼神果断，嘴唇微动。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "双手握着手机，手指在屏幕上操作",
+                "expression": "面部模糊，专注于手部动作"
+            }
+        ],
+        "background": "模糊的粉色衣物背景",
+        "description_narrative": "大特写镜头，聚焦在粉衣女子的双手和手机上，她正在快速拨号。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.4,
+        "description_visual": "大特写平拍镜头；模糊的粉色衣物背景；画面中央人物，身穿粉色衬衫，双手握着手机，手指在屏幕上操作，表情：面部模糊，专注于手部动作。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色衬衫",
+                "position": "画面中央",
+                "action": "看着手机屏幕，对着手机说话",
+                "expression": "眉毛微蹙，眼神认真，嘴唇清晰开合"
+            }
+        ],
+        "background": "办公室环境",
+        "description_narrative": "中近景，粉衣女子对着电话另一头的梓睿提出请求，要求调取监控录像。",
+        "dialogue": "喂 梓睿 我想请你帮我一个忙 帮我调一下 北环三街 403 号 仓库的监控录像 对 顾相遇害那天的",
+        "speaker": "粉衣女子",
+        "emotion": "请求/严肃",
+        "duration": 11.36,
+        "description_visual": "中近景平拍镜头；办公室环境；画面中央人物，身穿粉色衬衫，看着手机屏幕，对着手机说话，表情：眉毛微蹙，眼神认真，嘴唇清晰开合。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面右侧",
+                "action": "坐在车内，手持红色手机贴在耳边",
+                "expression": "眼睛微闭后睁开，嘴角带笑，轻松答应"
+            }
+        ],
+        "background": "车内环境，光线较暗",
+        "description_narrative": "中近景，棕衣男子坐在驾驶座上接听电话，爽快地答应了对方的请求。",
+        "dialogue": "好的 我尽快",
+        "speaker": "棕衣男子",
+        "emotion": "轻松/答应",
+        "duration": 3.32,
+        "description_visual": "中近景侧拍镜头；车内环境，光线较暗；画面右侧人物，身穿棕色衬衫，坐在车内，手持红色手机贴在耳边，表情：眼睛微闭后睁开，嘴角带笑，轻松答应。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面右侧",
+                "action": "手握方向盘，侧头看向副驾驶",
+                "expression": "眼神斜视，嘴角微扬，带有试探意味"
+            },
+            {
+                "name": "红衣女子",
+                "gender": "女",
+                "clothing": "红色露肩上衣",
+                "position": "画面左侧前景",
+                "action": "坐在副驾驶，侧脸出镜",
+                "expression": "侧脸轮廓，表情不明"
+            }
+        ],
+        "background": "车内环境，夜晚窗外模糊灯光",
+        "description_narrative": "中景镜头，棕衣男子挂断电话后，转头看向副驾驶的红衣女子，询问她是否听到了通话内容。",
+        "dialogue": "你都听见了吧",
+        "speaker": "棕衣男子",
+        "emotion": "试探/意味深长",
+        "duration": 4.96,
+        "description_visual": "中景侧拍镜头；车内环境，夜晚窗外模糊灯光；画面右侧人物，身穿棕色衬衫，手握方向盘，侧头看向副驾驶，表情：眼神斜视，嘴角微扬，带有试探意味；画面左侧前景人物，身穿红色露肩上衣，坐在副驾驶，侧脸出镜，表情：侧脸轮廓，表情不明。"
+    }
+]

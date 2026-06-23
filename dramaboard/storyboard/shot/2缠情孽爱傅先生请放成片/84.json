@@ -1,0 +1,944 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白色大褂",
+                "position": "画面左侧",
+                "action": "站立，面向前方",
+                "expression": "眉毛舒展，眼睛直视，嘴巴闭合"
+            }
+        ],
+        "background": "室内走廊，白色墙壁，光线明亮",
+        "description_narrative": "中景固定镜头，医生身穿白色大褂站在画面左侧，神情平静，画面中央显示“第八十四集”字样。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.37,
+        "description_visual": "中景平拍镜头；室内走廊，白色墙壁，光线明亮；画面左侧人物，身穿白色大褂，站立，面向前方，表情：眉毛舒展，眼睛直视，嘴巴闭合。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白色大褂",
+                "position": "画面左侧",
+                "action": "身体前倾，看向对面",
+                "expression": "眉毛微蹙，眼睛关切，嘴巴微张"
+            },
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面右侧",
+                "action": "背对镜头，身体前倾",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，白色墙壁，光线柔和",
+        "description_narrative": "过肩中近景，医生身体前倾，关切地看着对面的粉衣女子，正在叮嘱对方。",
+        "dialogue": "赶紧买点补品回去补补吧。",
+        "speaker": "医生",
+        "emotion": "关切",
+        "duration": 3.83,
+        "description_visual": "中近景过肩镜头；室内，白色墙壁，光线柔和；画面左侧人物，身穿白色大褂，身体前倾，看向对面，表情：眉毛微蹙，眼睛关切，嘴巴微张；画面右侧人物，身穿粉色连衣裙，背对镜头，身体前倾，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白色大褂",
+                "position": "画面中央",
+                "action": "头部微动，眼神专注",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，模糊背景，光线明亮",
+        "description_narrative": "医生面部特写，神情严肃认真，继续告诫对方不要为了钱丢掉性命。",
+        "dialogue": "别因为钱把命丢了呀。",
+        "speaker": "医生",
+        "emotion": "严肃",
+        "duration": 2.3,
+        "description_visual": "特写平拍镜头；室内，模糊背景，光线明亮；画面中央人物，身穿白色大褂，头部微动，眼神专注，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面右侧",
+                "action": "伸手握住医生的手，抬头仰望",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白色大褂",
+                "position": "画面左侧",
+                "action": "手臂伸出，被对方握住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，白色墙壁，光线柔和",
+        "description_narrative": "粉衣女子伸手握住医生的手，抬头眼神无助地表示感谢，听从医生的建议。",
+        "dialogue": "我知道了，医生，谢谢你。",
+        "speaker": "粉衣女子",
+        "emotion": "感激",
+        "duration": 7.9,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁，光线柔和；画面右侧人物，身穿粉色连衣裙，伸手握住医生的手，抬头仰望，表情：眉毛微蹙，眼睛睁大，嘴巴微张；画面左侧人物，身穿白色大褂，手臂伸出，被对方握住，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "身体倚靠墙壁，手扶墙面",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内墙角，白色墙面，光线略暗",
+        "description_narrative": "粉衣女子虚弱地倚靠在墙角，手扶着墙面，神情疲惫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疲惫",
+        "duration": 2.53,
+        "description_visual": "特写斜角镜头；室内墙角，白色墙面，光线略暗；画面中央人物，身穿粉色连衣裙，身体倚靠墙壁，手扶墙面，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白色大褂",
+                "position": "画面中央",
+                "action": "面部微动，眼神注视",
+                "expression": "眉毛舒展，眼睛直视，嘴巴闭合"
+            }
+        ],
+        "background": "室内，模糊背景，光线明亮",
+        "description_narrative": "医生面部特写，眼神中流露出一丝担忧，目送女子离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "担忧",
+        "duration": 2.13,
+        "description_visual": "特写平拍镜头；室内，模糊背景，光线明亮；画面中央人物，身穿白色大褂，面部微动，眼神注视，表情：眉毛舒展，眼睛直视，嘴巴闭合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面",
+        "description_narrative": "画面全黑，转场效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.83,
+        "description_visual": "全景平拍镜头；全黑画面。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面",
+        "description_narrative": "画面全黑，转场效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.57,
+        "description_visual": "全景平拍镜头；全黑画面。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "棕色花纹上衣",
+                "position": "画面中央",
+                "action": "面部表情凶狠，头部微动",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴紧闭"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "中年妇女面部特写，表情凶狠愤怒，似乎正在与人争执。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿棕色花纹上衣，面部表情凶狠，头部微动，表情：眉毛紧锁，眼睛眯起，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "棕色花纹上衣",
+                "position": "画面中央",
+                "action": "面部表情凶狠，嘴巴开合",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "中年妇女继续愤怒地辱骂，称呼对方为赔钱货。",
+        "dialogue": "你个赔钱货",
+        "speaker": "中年妇女",
+        "emotion": "愤怒",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿棕色花纹上衣，面部表情凶狠，嘴巴开合，表情：眉毛紧锁，眼睛瞪视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "低头站立，身体微垂",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外街道，石墙背景，自然光",
+        "description_narrative": "粉衣女子低头站立，神情落寞，听着中年妇女的指责，对方质问她还敢说断绝关系。",
+        "dialogue": "还敢说断绝关系",
+        "speaker": "中年妇女",
+        "emotion": "委屈",
+        "duration": 1.7,
+        "description_visual": "中近景平拍镜头；室外街道，石墙背景，自然光；画面中央人物，身穿粉色连衣裙，低头站立，身体微垂，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "低头站立，头发垂落",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外街道，石墙背景，自然光",
+        "description_narrative": "粉衣女子依旧低头不语，中年妇女继续嘲讽她翅膀硬了。",
+        "dialogue": "翅膀硬了是吧",
+        "speaker": "中年妇女",
+        "emotion": "嘲讽",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；室外街道，石墙背景，自然光；画面中央人物，身穿粉色连衣裙，低头站立，头发垂落，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "棕色花纹上衣",
+                "position": "画面中央",
+                "action": "面部表情严肃，眼神逼迫",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，绿植背景，自然光",
+        "description_narrative": "中年妇女表情严肃，粉衣女子画外音请求这是最后一笔钱。",
+        "dialogue": "真的是最后一笔",
+        "speaker": "粉衣女子",
+        "emotion": "哀求",
+        "duration": 2.1,
+        "description_visual": "特写平拍镜头；室外街道，绿植背景，自然光；画面中央人物，身穿棕色花纹上衣，面部表情严肃，眼神逼迫，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面左侧",
+                "action": "手持银行卡，手臂下垂",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "粉衣女子手中拿着一张蓝色的银行卡，手臂无力下垂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无奈",
+        "duration": 1.27,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景，自然光；画面左侧人物，身穿粉色连衣裙，手持银行卡，手臂下垂，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "棕色花纹上衣",
+                "position": "画面中央",
+                "action": "手指指向前方，表情凶狠",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，绿植背景，自然光",
+        "description_narrative": "中年妇女伸出手指指着对方，恶狠狠地骂道死丫头。",
+        "dialogue": "死丫头",
+        "speaker": "中年妇女",
+        "emotion": "凶狠",
+        "duration": 1.03,
+        "description_visual": "特写平拍镜头；室外街道，绿植背景，自然光；画面中央人物，身穿棕色花纹上衣，手指指向前方，表情凶狠，表情：眉毛紧锁，眼睛瞪视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "低头站立，神情痛苦",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外街道，石墙背景，自然光",
+        "description_narrative": "粉衣女子低头忍受辱骂，中年妇女画外音威胁道“你敢”。",
+        "dialogue": "你敢",
+        "speaker": "中年妇女",
+        "emotion": "威胁",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室外街道，石墙背景，自然光；画面中央人物，身穿粉色连衣裙，低头站立，神情痛苦，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "棕色花纹上衣",
+                "position": "画面中央",
+                "action": "面部表情强硬，嘴巴开合",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，绿植背景，自然光",
+        "description_narrative": "中年妇女表情强硬，声称只要自己活着一天，对方就得管弟弟。",
+        "dialogue": "有我活着一天",
+        "speaker": "中年妇女",
+        "emotion": "强硬",
+        "duration": 2.37,
+        "description_visual": "特写平拍镜头；室外街道，绿植背景，自然光；画面中央人物，身穿棕色花纹上衣，面部表情强硬，嘴巴开合，表情：眉毛紧锁，眼睛瞪视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "棕色花纹上衣",
+                "position": "画面中央",
+                "action": "手指挥动，表情凶狠",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，绿植背景，自然光",
+        "description_narrative": "中年妇女手指挥动，继续强调对方必须管弟弟。",
+        "dialogue": "你就得管",
+        "speaker": "中年妇女",
+        "emotion": "命令",
+        "duration": 0.57,
+        "description_visual": "特写平拍镜头；室外街道，绿植背景，自然光；画面中央人物，身穿棕色花纹上衣，手指挥动，表情凶狠，表情：眉毛紧锁，眼睛瞪视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面左侧",
+                "action": "面对中年妇女，神情冷漠",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "棕色花纹上衣",
+                "position": "画面右侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室外街道，石墙背景，自然光",
+        "description_narrative": "粉衣女子面对中年妇女，对方继续重复“你弟弟”，要求她负责。",
+        "dialogue": "你弟弟",
+        "speaker": "中年妇女",
+        "emotion": "逼迫",
+        "duration": 0.87,
+        "description_visual": "中近景过肩镜头；室外街道，石墙背景，自然光；画面左侧人物，身穿粉色连衣裙，面对中年妇女，神情冷漠，表情：眉毛微蹙，眼睛直视，嘴巴紧闭；画面右侧人物，身穿棕色花纹上衣，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "棕色花纹上衣",
+                "position": "画面中央",
+                "action": "面部表情凶狠，眼神逼迫",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，绿植背景，自然光",
+        "description_narrative": "中年妇女表情凶狠，质问对方敢不给钱。",
+        "dialogue": "你敢不给钱",
+        "speaker": "中年妇女",
+        "emotion": "威胁",
+        "duration": 1.43,
+        "description_visual": "特写平拍镜头；室外街道，绿植背景，自然光；画面中央人物，身穿棕色花纹上衣，面部表情凶狠，眼神逼迫，表情：眉毛紧锁，眼睛瞪视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "面部流泪，神情痛苦",
+                "expression": "眉毛紧蹙，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "粉衣女子眼中含泪，神情绝望，中年妇女画外音威胁要抽死她。",
+        "dialogue": "看我抽不死你",
+        "speaker": "中年妇女",
+        "emotion": "绝望",
+        "duration": 4.1,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿粉色连衣裙，面部流泪，神情痛苦，表情：眉毛紧蹙，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "跟拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "转身跑开，身体晃动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室外街道，车辆背景，自然光",
+        "description_narrative": "粉衣女子转身跑开，镜头跟随其移动，背景有车辆经过。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊慌",
+        "duration": 6.43,
+        "description_visual": "全景跟拍镜头（跟拍）；室外街道，车辆背景，自然光；画面中央人物，身穿粉色连衣裙，转身跑开，身体晃动，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "双手扶墙，身体下滑",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "室外石墙，粗糙质感，自然光",
+        "description_narrative": "粉衣女子双手扶着粗糙的石墙，身体无力下滑，显得非常痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 1.07,
+        "description_visual": "中近景平拍镜头；室外石墙，粗糙质感，自然光；画面中央人物，身穿粉色连衣裙，双手扶墙，身体下滑，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "身体倚靠墙壁，头部后仰",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "室外石墙，粗糙质感，自然光",
+        "description_narrative": "粉衣女子身体倚靠墙壁，头部后仰，似乎即将晕倒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "虚弱",
+        "duration": 4.13,
+        "description_visual": "中景斜角镜头；室外石墙，粗糙质感，自然光；画面中央人物，身穿粉色连衣裙，身体倚靠墙壁，头部后仰，表情：眉毛舒展，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老妇人",
+                "gender": "女",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "低头查看，神情焦急",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "老妇人低头查看倒地的粉衣女子，焦急地询问她怎么了。",
+        "dialogue": "小姑娘你怎么了",
+        "speaker": "老妇人",
+        "emotion": "焦急",
+        "duration": 2.63,
+        "description_visual": "特写俯拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿棕色衬衫，低头查看，神情焦急，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "趴在地上，抬头看",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "老妇人",
+                "gender": "女",
+                "clothing": "棕色衬衫",
+                "position": "画面左侧",
+                "action": "伸手搀扶",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室外地面，模糊背景，自然光",
+        "description_narrative": "粉衣女子趴在地上，老妇人伸手搀扶，表示要送她去医院。",
+        "dialogue": "我送你去医院",
+        "speaker": "老妇人",
+        "emotion": "关切",
+        "duration": 1.13,
+        "description_visual": "中近景平拍镜头；室外地面，模糊背景，自然光；画面中央人物，身穿粉色连衣裙，趴在地上，抬头看，表情：眉毛微蹙，眼睛直视，嘴巴微张；画面左侧人物，身穿棕色衬衫，伸手搀扶，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老妇人",
+                "gender": "女",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "低头询问，神情关切",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "老妇人继续低头询问，得知不去医院后，询问她父母在哪。",
+        "dialogue": "不去医院 那你父母在哪",
+        "speaker": "老妇人",
+        "emotion": "关切",
+        "duration": 2.47,
+        "description_visual": "特写俯拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿棕色衬衫，低头询问，神情关切，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "被搀扶，眼神迷茫",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "老妇人",
+                "gender": "女",
+                "clothing": "棕色衬衫",
+                "position": "画面左侧",
+                "action": "伸手搀扶",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室外石墙，粗糙质感，自然光",
+        "description_narrative": "粉衣女子被老妇人搀扶，眼神迷茫，老妇人表示送她过去。",
+        "dialogue": "我送你过去",
+        "speaker": "老妇人",
+        "emotion": "关切",
+        "duration": 1.23,
+        "description_visual": "中近景平拍镜头；室外石墙，粗糙质感，自然光；画面中央人物，身穿粉色连衣裙，被搀扶，眼神迷茫，表情：眉毛微蹙，眼睛直视，嘴巴紧闭；画面左侧人物，身穿棕色衬衫，伸手搀扶，表情：不可见。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "棕色花纹上衣",
+                "position": "画面中央",
+                "action": "面部表情凶狠，闭眼摇头",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴紧闭"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "闪回画面，中年妇女表情凶狠，闭眼摇头，似乎在拒绝什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凶狠",
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿棕色花纹上衣，面部表情凶狠，闭眼摇头，表情：眉毛紧锁，眼睛紧闭，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "面部重叠影像，神情痛苦",
+                "expression": "眉毛紧蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外街道，重叠影像，自然光",
+        "description_narrative": "粉衣女子面部出现重叠影像，神情痛苦，回忆与现实交织。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；室外街道，重叠影像，自然光；画面中央人物，身穿粉色连衣裙，面部重叠影像，神情痛苦，表情：眉毛紧蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老妇人",
+                "gender": "女",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "低头查看，神情焦急",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "老妇人低头查看粉衣女子，神情焦急，试图唤醒她。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 1.33,
+        "description_visual": "特写俯拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿棕色衬衫，低头查看，神情焦急，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "被搀扶，眼神迷茫",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外石墙，粗糙质感，自然光",
+        "description_narrative": "粉衣女子被搀扶着，老妇人画外音询问她是否有老公。",
+        "dialogue": "你有老公吗？",
+        "speaker": "老妇人",
+        "emotion": "关切",
+        "duration": 1.33,
+        "description_visual": "特写平拍镜头；室外石墙，粗糙质感，自然光；画面中央人物，身穿粉色连衣裙，被搀扶，眼神迷茫，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "面部重叠影像，手持玉镯",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外石墙，重叠影像，自然光",
+        "description_narrative": "粉衣女子面部出现重叠影像，手中似乎拿着玉镯，陷入回忆。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "回忆",
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；室外石墙，重叠影像，自然光；画面中央人物，身穿粉色连衣裙，面部重叠影像，手持玉镯，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "面部重叠影像，神情痛苦",
+                "expression": "眉毛紧蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外石墙，重叠影像，自然光",
+        "description_narrative": "粉衣女子面部重叠影像，神情痛苦，回忆中似乎有男人出现。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；室外石墙，重叠影像，自然光；画面中央人物，身穿粉色连衣裙，面部重叠影像，神情痛苦，表情：眉毛紧蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老妇人",
+                "gender": "女",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "低头查看，神情焦急",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "老妇人继续低头查看，神情焦急，试图与粉衣女子沟通。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 1.1,
+        "description_visual": "特写俯拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿棕色衬衫，低头查看，神情焦急，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "被搀扶，眼神迷茫",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外石墙，粗糙质感，自然光",
+        "description_narrative": "粉衣女子被搀扶着，老妇人画外音询问她是否有朋友。",
+        "dialogue": "你有朋友吗",
+        "speaker": "老妇人",
+        "emotion": "关切",
+        "duration": 1.3,
+        "description_visual": "中近景平拍镜头；室外石墙，粗糙质感，自然光；画面中央人物，身穿粉色连衣裙，被搀扶，眼神迷茫，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老妇人",
+                "gender": "女",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "低头查看，神情焦急",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "老妇人继续低头查看，神情焦急，粉衣女子没有回应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 3.73,
+        "description_visual": "特写俯拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿棕色衬衫，低头查看，神情焦急，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "头部低垂，神情痛苦",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "粉衣女子头部低垂，神情痛苦，老妇人画外音让她挺住。",
+        "dialogue": "小姑娘你挺住你挺住",
+        "speaker": "老妇人",
+        "emotion": "焦急",
+        "duration": 2.53,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿粉色连衣裙，头部低垂，神情痛苦，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "面部模糊，神情痛苦",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "粉衣女子面部模糊，痛苦地喊了一声“痛”。",
+        "dialogue": "痛",
+        "speaker": "粉衣女子",
+        "emotion": "痛苦",
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿粉色连衣裙，面部模糊，神情痛苦，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "面部模糊，身体晃动",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，模糊背景，自然光",
+        "description_narrative": "粉衣女子面部模糊，身体晃动，老妇人画外音表示马上叫救护车。",
+        "dialogue": "我马上叫救护车",
+        "speaker": "老妇人",
+        "emotion": "焦急",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景，自然光；画面中央人物，身穿粉色连衣裙，面部模糊，身体晃动，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张。"
+    }
+]

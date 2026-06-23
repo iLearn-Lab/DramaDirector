@@ -1,0 +1,663 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲，白衬衫，米色长裤",
+                "position": "画面左侧",
+                "action": "背对镜头站在楼梯上，身体微侧",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴闭合"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套，黑色短裙",
+                "position": "画面右侧",
+                "action": "背对镜头站在楼梯上，长发披肩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗的楼梯间，白色墙壁，灰色铁门，光线较暗",
+        "description_narrative": "俯拍中景镜头，昏暗的楼梯间内，马甲青年与黑衣女孩背对镜头站在台阶上，两人距离较近，似乎正在交谈或等待。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "中景俯拍镜头；昏暗的楼梯间，白色墙壁，灰色铁门，光线较暗；画面左侧人物，身穿米色马甲，白衬衫，米色长裤，背对镜头站在楼梯上，身体微侧，表情：眉毛舒展，眼睛看向前方，嘴巴闭合；画面右侧人物，身穿黑色粉格边外套，黑色短裙，背对镜头站在楼梯上，长发披肩，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲，白衬衫",
+                "position": "画面左侧前景",
+                "action": "身体前倾，动作模糊",
+                "expression": "不可见"
+            },
+            {
+                "name": "亮片裙女子",
+                "gender": "女",
+                "clothing": "银色亮片单肩裙",
+                "position": "画面中央背景",
+                "action": "从门后走出，手扶门框",
+                "expression": "不可见"
+            }
+        ],
+        "background": "楼梯间门口，白色墙壁，灰色铁门，光线昏暗",
+        "description_narrative": "镜头快速摇动，画面略显模糊，马甲青年身体前倾，亮片裙女子从背景的门口出现，手扶门框，似乎刚到达现场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.33,
+        "description_visual": "中景平拍镜头（摇镜）；楼梯间门口，白色墙壁，灰色铁门，光线昏暗；画面左侧前景人物，身穿米色马甲，白衬衫，身体前倾，动作模糊，表情：不可见；画面中央背景人物，身穿银色亮片单肩裙，从门后走出，手扶门框，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲，白衬衫",
+                "position": "画面中央",
+                "action": "转头看向来人，嘴巴微张",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张呈惊讶状"
+            }
+        ],
+        "background": "白色墙壁，上方有蓝色管道",
+        "description_narrative": "低角度特写镜头，马甲青年转头看向镜头方向，面露惊讶，嘴巴微张，似乎认出了来人并打招呼。",
+        "dialogue": "阿姨。",
+        "speaker": "马甲青年",
+        "emotion": "惊讶",
+        "duration": 0.9,
+        "description_visual": "特写低角度镜头；白色墙壁，上方有蓝色管道；画面中央人物，身穿米色马甲，白衬衫，转头看向来人，嘴巴微张，表情：眉毛微挑，眼睛睁大，嘴巴微张呈惊讶状。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "亮片裙女子",
+                "gender": "女",
+                "clothing": "银色亮片单肩裙，长耳环",
+                "position": "画面中央",
+                "action": "站立，手持手机，看向左侧",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张正在说话"
+            },
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲",
+                "position": "画面左侧边缘",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "楼梯间，白色墙壁，电箱，灰色铁门",
+        "description_narrative": "平拍中景镜头，亮片裙女子站在楼梯平台上，手持手机，面带疑惑和惊吓地看着左侧的马甲青年和黑衣女孩，询问他们在黑暗中做什么。",
+        "dialogue": "小凡萌萌，这乌漆嘛黑的，你俩在这干嘛呢？吓死我了。",
+        "speaker": "亮片裙女子",
+        "emotion": "惊讶，疑惑",
+        "duration": 5.17,
+        "description_visual": "中景平拍镜头；楼梯间，白色墙壁，电箱，灰色铁门；画面中央人物，身穿银色亮片单肩裙，长耳环，站立，手持手机，看向左侧，表情：眉毛微蹙，眼睛注视对方，嘴巴微张正在说话；画面左侧边缘人物，身穿米色马甲，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套，长耳环",
+                "position": "画面中央",
+                "action": "侧头看向亮片裙女子，神态自然",
+                "expression": "眉毛舒展，眼睛看向侧上方，嘴巴微张正在解释"
+            }
+        ],
+        "background": "白色墙壁，光线柔和",
+        "description_narrative": "近景镜头，黑衣女孩侧头看向亮片裙女子，表情镇定，急中生智地谎称两人在排练话剧。",
+        "dialogue": "我们在排练话剧呢。",
+        "speaker": "黑衣女孩",
+        "emotion": "镇定",
+        "duration": 2.83,
+        "description_visual": "近景平拍镜头；白色墙壁，光线柔和；画面中央人物，身穿黑色粉格边外套，长耳环，侧头看向亮片裙女子，神态自然，表情：眉毛舒展，眼睛看向侧上方，嘴巴微张正在解释。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套",
+                "position": "画面中央",
+                "action": "继续说话，眼神略带抱怨",
+                "expression": "眉毛微垂，眼睛看向对方，嘴巴开合"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "特写镜头，黑衣女孩继续编造理由，抱怨亮片裙女子总是练瑜伽没时间陪她，所以找哥哥帮忙排练，表情略带委屈。",
+        "dialogue": "你总是练瑜伽，也没时间陪我，我只好找哥哥帮忙了。",
+        "speaker": "黑衣女孩",
+        "emotion": "委屈，假装抱怨",
+        "duration": 5.03,
+        "description_visual": "特写平拍镜头；白色墙壁；画面中央人物，身穿黑色粉格边外套，继续说话，眼神略带抱怨，表情：眉毛微垂，眼睛看向对方，嘴巴开合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲，白衬衫",
+                "position": "画面中央",
+                "action": "点头附和，看向亮片裙女子",
+                "expression": "眉毛微动，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，蓝色管道",
+        "description_narrative": "近景镜头，马甲青年配合地点头附和，顺着黑衣女孩的话头，询问亮片裙女子为何走楼梯。",
+        "dialogue": "嗯，阿姨走楼梯啊。",
+        "speaker": "马甲青年",
+        "emotion": "配合，假装自然",
+        "duration": 3.6,
+        "description_visual": "近景平拍镜头；白色墙壁，蓝色管道；画面中央人物，身穿米色马甲，白衬衫，点头附和，看向亮片裙女子，表情：眉毛微动，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "亮片裙女子",
+                "gender": "女",
+                "clothing": "银色亮片单肩裙",
+                "position": "画面中央",
+                "action": "低头看手机，然后抬头说话",
+                "expression": "眉毛舒展，眼睛下视后抬起，嘴巴说话"
+            }
+        ],
+        "background": "楼梯间，灰色铁门",
+        "description_narrative": "中景镜头，亮片裙女子信以为真，抱怨电梯坏了只能走楼梯，并叮嘱两人排练完早点回家，神态放松。",
+        "dialogue": "你别提了，这电梯坏了，我只能走楼梯。那你俩排练完，早点结束回家。",
+        "speaker": "亮片裙女子",
+        "emotion": "无奈，关切",
+        "duration": 6.37,
+        "description_visual": "中景平拍镜头；楼梯间，灰色铁门；画面中央人物，身穿银色亮片单肩裙，低头看手机，然后抬头说话，表情：眉毛舒展，眼睛下视后抬起，嘴巴说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套",
+                "position": "画面中央",
+                "action": "微笑点头",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "近景镜头，黑衣女孩听到叮嘱后，露出乖巧的微笑并点头示意，掩饰住了刚才的紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "轻松，微笑",
+        "duration": 0.63,
+        "description_visual": "近景平拍镜头；白色墙壁；画面中央人物，身穿黑色粉格边外套，微笑点头，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲，白衬衫",
+                "position": "画面左侧",
+                "action": "侧身站立，目送",
+                "expression": "表情平静"
+            },
+            {
+                "name": "亮片裙女子",
+                "gender": "女",
+                "clothing": "银色亮片单肩裙",
+                "position": "画面中央",
+                "action": "走下楼梯，经过两人",
+                "expression": "表情自然"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套",
+                "position": "画面右侧",
+                "action": "站立目送",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "楼梯间，白色墙壁，电箱",
+        "description_narrative": "俯拍全景镜头，亮片裙女子走下楼梯经过两人，马甲青年和黑衣女孩侧身让路并目送她离开，危机暂时解除。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "全景俯拍镜头（跟拍）；楼梯间，白色墙壁，电箱；画面左侧人物，身穿米色马甲，白衬衫，侧身站立，目送，表情：表情平静；画面中央人物，身穿银色亮片单肩裙，走下楼梯，经过两人，表情：表情自然；画面右侧人物，身穿黑色粉格边外套，站立目送，表情：表情平静。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面",
+        "description_narrative": "画面全黑，只有声音传来，听到女子娇嗔的声音喊着“爸爸我还想要”，暗示隔壁或墙角有另一对男女在亲热。",
+        "dialogue": "爸爸我还想要，还想要啊。",
+        "speaker": "粉裙女子",
+        "emotion": null,
+        "duration": 2.43,
+        "description_visual": "特写平拍镜头；全黑画面。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲，白衬衫",
+                "position": "画面中央",
+                "action": "侧脸，低声说话",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微动"
+            }
+        ],
+        "background": "白色墙壁，蓝色管道",
+        "description_narrative": "侧拍近景镜头，马甲青年听到声音后，继续假装排练，低声对黑衣女孩说“傻女儿，往下走”，试图掩盖尴尬并继续演戏。",
+        "dialogue": "傻女儿，往下走。",
+        "speaker": "马甲青年",
+        "emotion": "假装严肃",
+        "duration": 3.33,
+        "description_visual": "近景侧拍镜头；白色墙壁，蓝色管道；画面中央人物，身穿米色马甲，白衬衫，侧脸，低声说话，表情：眉毛微蹙，眼睛看向前方，嘴巴微动。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套",
+                "position": "画面中央",
+                "action": "侧脸，张嘴似乎要说话",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "侧拍近景镜头，黑衣女孩配合着马甲青年的“排练”指令，侧脸看向前方，准备继续表演。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "近景侧拍镜头；白色墙壁；画面中央人物，身穿黑色粉格边外套，侧脸，张嘴似乎要说话，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲，白衬衫",
+                "position": "画面左侧",
+                "action": "伸手拉住黑衣女孩的手臂",
+                "expression": "不可见"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套",
+                "position": "画面右侧",
+                "action": "被拉着走向墙角",
+                "expression": "不可见"
+            }
+        ],
+        "background": "楼梯间，灰色铁门",
+        "description_narrative": "俯拍中景镜头，马甲青年伸手拉住黑衣女孩的手臂，两人借着“排练”的名义，悄悄走向墙角，似乎想去一探究竟。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.1,
+        "description_visual": "中景俯拍镜头（跟拍）；楼梯间，灰色铁门；画面左侧人物，身穿米色马甲，白衬衫，伸手拉住黑衣女孩的手臂，表情：不可见；画面右侧人物，身穿黑色粉格边外套，被拉着走向墙角，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [],
+        "background": "白色墙壁角落",
+        "description_narrative": "特写镜头推进，画面聚焦在白色的墙壁角落，暗示两人正在靠近墙角偷听或偷看。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头（推进）；白色墙壁角落。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套",
+                "position": "画面左侧",
+                "action": "从墙角探头偷看，表情震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张呈O型"
+            }
+        ],
+        "background": "白色墙壁边缘",
+        "description_narrative": "特写镜头，黑衣女孩从墙角探头偷看，瞬间瞪大眼睛，嘴巴微张，表情极度震惊，显然看到了不该看的画面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊，惊讶",
+        "duration": 2.5,
+        "description_visual": "特写平拍镜头；白色墙壁边缘；画面左侧人物，身穿黑色粉格边外套，从墙角探头偷看，表情震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张呈O型。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套",
+                "position": "画面左侧前景",
+                "action": "手扶墙壁，探头偷看",
+                "expression": "眼神专注，表情惊讶"
+            },
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲",
+                "position": "画面右侧背景",
+                "action": "在女孩身后探头偷看",
+                "expression": "眼神好奇，眉头微皱"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "近景镜头，黑衣女孩手扶墙壁探头，马甲青年紧随其后也探头偷看，两人都被眼前的景象吸引，表情复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "好奇，震惊",
+        "duration": 0.83,
+        "description_visual": "近景平拍镜头；白色墙壁；画面左侧前景人物，身穿黑色粉格边外套，手扶墙壁，探头偷看，表情：眼神专注，表情惊讶；画面右侧背景人物，身穿米色马甲，在女孩身后探头偷看，表情：眼神好奇，眉头微皱。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉裙女子",
+                "gender": "女",
+                "clothing": "粉色亮片吊带裙",
+                "position": "画面左侧",
+                "action": "背靠墙壁，被男子抱住",
+                "expression": "侧脸，表情迷离"
+            },
+            {
+                "name": "豹纹男子",
+                "gender": "男",
+                "clothing": "豹纹衬衫（部分可见）",
+                "position": "画面右侧",
+                "action": "从背后抱住粉裙女子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁，光线昏暗",
+        "description_narrative": "侧拍中景镜头，揭示了两人偷看到的画面：豹纹男子正抱着粉裙女子在墙角亲热，女子言语露骨，称赞男子技术好。",
+        "dialogue": "小雪，没想到这么紧，而且技术还这么好。还不是被秦哥你，调教的好。",
+        "speaker": "豹纹男子",
+        "emotion": "暧昧",
+        "duration": 13.07,
+        "description_visual": "中景侧拍镜头；白色墙壁，光线昏暗；画面左侧人物，身穿粉色亮片吊带裙，背靠墙壁，被男子抱住，表情：侧脸，表情迷离；画面右侧人物，身穿豹纹衬衫（部分可见），从背后抱住粉裙女子，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲，白衬衫",
+                "position": "画面中央",
+                "action": "皱眉，转头看向墙角",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "特写镜头，马甲青年看到这一幕后，眉头紧锁，表情震惊且带有一丝不满，忍不住低声质问“你俩干嘛呢”。",
+        "dialogue": "你俩干嘛呢？",
+        "speaker": "马甲青年",
+        "emotion": "震惊，不满",
+        "duration": 1.53,
+        "description_visual": "特写平拍镜头；白色墙壁；画面中央人物，身穿米色马甲，白衬衫，皱眉，转头看向墙角，表情：眉毛紧蹙，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲",
+                "position": "画面中央",
+                "action": "头部快速转动，动作模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "侧拍近景镜头，画面快速摇动，马甲青年似乎想要上前制止或看得更清楚，动作略显慌乱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.57,
+        "description_visual": "近景侧拍镜头（摇镜）；白色墙壁；画面中央人物，身穿米色马甲，头部快速转动，动作模糊，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲",
+                "position": "画面中央",
+                "action": "抬手似乎想要遮挡或示意",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "侧拍特写镜头，马甲青年抬手，似乎想要遮挡黑衣女孩的视线，或者示意她不要出声，表情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 0.8,
+        "description_visual": "特写侧拍镜头；白色墙壁；画面中央人物，身穿米色马甲，抬手似乎想要遮挡或示意，表情：表情严肃。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲",
+                "position": "画面右侧",
+                "action": "侧头偷看",
+                "expression": "眼神专注"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套",
+                "position": "画面左侧",
+                "action": "侧头偷看",
+                "expression": "眼神专注"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "侧拍近景镜头，马甲青年和黑衣女孩并排躲在墙角，继续偷偷观察墙另一侧的两人，神情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "好奇",
+        "duration": 1.1,
+        "description_visual": "近景侧拍镜头；白色墙壁；画面右侧人物，身穿米色马甲，侧头偷看，表情：眼神专注；画面左侧人物，身穿黑色粉格边外套，侧头偷看，表情：眼神专注。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "豹纹男子",
+                "gender": "男",
+                "clothing": "豹纹衬衫",
+                "position": "画面右侧",
+                "action": "贴近粉裙女子",
+                "expression": "侧脸微笑"
+            },
+            {
+                "name": "粉裙女子",
+                "gender": "女",
+                "clothing": "粉色亮片吊带裙",
+                "position": "画面左侧",
+                "action": "背靠墙壁",
+                "expression": "侧脸微笑"
+            }
+        ],
+        "background": "白色墙壁",
+        "description_narrative": "侧拍中景镜头，再次展示墙角的豹纹男子和粉裙女子，两人亲密互动，完全没发现有人在偷看。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "亲密",
+        "duration": 2.37,
+        "description_visual": "中景侧拍镜头；白色墙壁；画面右侧人物，身穿豹纹衬衫，贴近粉裙女子，表情：侧脸微笑；画面左侧人物，身穿粉色亮片吊带裙，背靠墙壁，表情：侧脸微笑。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲",
+                "position": "画面左侧前景",
+                "action": "探头偷看，表情震惊",
+                "expression": "眉毛紧皱，眼睛瞪大"
+            },
+            {
+                "name": "黑衣女孩",
+                "gender": "女",
+                "clothing": "黑色粉格边外套",
+                "position": "画面左侧",
+                "action": "探头偷看",
+                "expression": "表情惊讶"
+            },
+            {
+                "name": "亮片裙女子",
+                "gender": "女",
+                "clothing": "银色亮片单肩裙",
+                "position": "画面右侧背景",
+                "action": "从后方出现，探头偷看",
+                "expression": "表情惊愕"
+            }
+        ],
+        "background": "楼梯间角落",
+        "description_narrative": "中近景镜头，戏剧性的一幕发生，原本离开的亮片裙女子不知何时折返，出现在马甲青年和黑衣女孩身后，三人一起震惊地看着墙角的景象。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊，尴尬",
+        "duration": 2.33,
+        "description_visual": "中近景平拍镜头；楼梯间角落；画面左侧前景人物，身穿米色马甲，探头偷看，表情震惊，表情：眉毛紧皱，眼睛瞪大；画面左侧人物，身穿黑色粉格边外套，探头偷看，表情：表情惊讶；画面右侧背景人物，身穿银色亮片单肩裙，从后方出现，探头偷看，表情：表情惊愕。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "马甲青年",
+                "gender": "男",
+                "clothing": "米色马甲",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "亮片裙女子",
+                "gender": "女",
+                "clothing": "银色亮片单肩裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗的楼梯间，光线极暗",
+        "description_narrative": "全景镜头，画面逐渐变暗，只能隐约看到马甲青年和亮片裙女子的身影，场面陷入多重尴尬与讽刺的黑暗中。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.07,
+        "description_visual": "全景平拍镜头；昏暗的楼梯间，光线极暗；画面左侧人物，身穿米色马甲，站立，表情：不可见；画面右侧人物，身穿银色亮片单肩裙，站立，表情：不可见。"
+    }
+]

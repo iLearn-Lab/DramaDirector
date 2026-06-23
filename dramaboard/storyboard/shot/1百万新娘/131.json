@@ -1,0 +1,686 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色长款外套，内搭白色打底",
+                "position": "画面左侧背景，靠在护士站窗口",
+                "action": "双手插兜，身体微侧靠在窗台",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙",
+                "position": "画面右侧前景",
+                "action": "站立，身体朝向左侧人群",
+                "expression": "眉毛微蹙，眼睛注视对面，嘴巴微张"
+            },
+            {
+                "name": "西装老翁",
+                "gender": "男",
+                "clothing": "深蓝色西装，条纹领带",
+                "position": "画面右侧中景",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛舒展，眼睛透过眼镜看向前方，嘴巴紧闭"
+            },
+            {
+                "name": "旗袍老妇",
+                "gender": "女",
+                "clothing": "米色碎花旗袍",
+                "position": "画面右侧中景，站在西装老翁旁",
+                "action": "站立，双手交握在身前",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，光线明亮，墙上有视力表和指示牌，色调冷白",
+        "description_narrative": "全景镜头固定，医院走廊内，黑衣男子靠在左侧护士站窗口，右侧前景站着黑衣女子，对面站着西装老翁和旗袍老妇，众人对峙，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.92,
+        "description_visual": "全景平拍镜头；医院走廊，光线明亮，墙上有视力表和指示牌，色调冷白；画面左侧背景，靠在护士站窗口人物，身穿黑色长款外套，内搭白色打底，双手插兜，身体微侧靠在窗台，表情：眉毛平展，眼睛注视前方，嘴巴紧闭；画面右侧前景人物，身穿黑色丝绒深 V 连衣裙，站立，身体朝向左侧人群，表情：眉毛微蹙，眼睛注视对面，嘴巴微张；画面右侧中景人物，身穿深蓝色西装，条纹领带，站立，双手自然下垂，表情：眉毛舒展，眼睛透过眼镜看向前方，嘴巴紧闭；画面右侧中景，站在西装老翁旁人物，身穿米色碎花旗袍，站立，双手交握在身前，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙，佩戴银色项链",
+                "position": "画面中央",
+                "action": "头部微侧，眼神探究",
+                "expression": "眉毛微扬，眼睛直视对方，嘴巴微张正在说话"
+            }
+        ],
+        "background": "医院走廊背景虚化，可见模糊的指示牌",
+        "description_narrative": "特写镜头聚焦黑衣女子面部，她留着棕色长卷发，佩戴银色项链，头部微侧，眼神中带着疑问，嘴唇微动询问对方身份。",
+        "dialogue": "你们是",
+        "speaker": "黑衣女子",
+        "emotion": "疑惑",
+        "duration": 1.34,
+        "description_visual": "特写平拍镜头；医院走廊背景虚化，可见模糊的指示牌；画面中央人物，身穿黑色丝绒深 V 连衣裙，佩戴银色项链，头部微侧，眼神探究，表情：眉毛微扬，眼睛直视对方，嘴巴微张正在说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿缎面衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，身体挺直",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴开合清晰"
+            }
+        ],
+        "background": "医院走廊，背景有视力表海报",
+        "description_narrative": "中近景镜头拍摄绿衣女子，她留着黑色中短发，身穿橄榄绿衬衫，双臂交叉抱胸，姿态强硬，语气平静地自我介绍。",
+        "dialogue": "我是染染表姐",
+        "speaker": "绿衣女子",
+        "emotion": "冷静",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；医院走廊，背景有视力表海报；画面中央人物，身穿橄榄绿缎面衬衫，双臂交叉抱在胸前，身体挺直，表情：眉毛平展，眼睛直视前方，嘴巴开合清晰。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装，内搭白衬衫",
+                "position": "画面中央",
+                "action": "站立，双手插在西裤口袋",
+                "expression": "眉毛微蹙，眼睛直视对方，嘴巴紧闭后微张"
+            }
+        ],
+        "background": "医院走廊，背景虚化",
+        "description_narrative": "中近景镜头切换至西装男子，他头发略显凌乱，身穿黑色西装，双手插兜，表情严肃，紧接着自我介绍。",
+        "dialogue": "我是她表哥",
+        "speaker": "西装男子",
+        "emotion": "严肃",
+        "duration": 2.12,
+        "description_visual": "中近景平拍镜头；医院走廊，背景虚化；画面中央人物，身穿黑色西装，内搭白衬衫，站立，双手插在西裤口袋，表情：眉毛微蹙，眼睛直视对方，嘴巴紧闭后微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙",
+                "position": "画面中央",
+                "action": "微微点头，双手在身前交握",
+                "expression": "眉毛舒展，眼神礼貌，嘴角微扬"
+            }
+        ],
+        "background": "医院走廊背景虚化",
+        "description_narrative": "特写镜头回到黑衣女子，她微微点头示意，双手在身前交握，表情礼貌而克制，介绍自己是司霆的姐姐。",
+        "dialogue": "你们好 我是司霆的姐姐",
+        "speaker": "黑衣女子",
+        "emotion": "礼貌",
+        "duration": 2.66,
+        "description_visual": "特写平拍镜头；医院走廊背景虚化；画面中央人物，身穿黑色丝绒深 V 连衣裙，微微点头，双手在身前交握，表情：眉毛舒展，眼神礼貌，嘴角微扬。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿缎面衬衫",
+                "position": "画面中央",
+                "action": "双臂抱紧，身体前倾",
+                "expression": "眉毛紧锁，眼睛锐利，嘴巴快速开合"
+            }
+        ],
+        "background": "医院走廊，背景有视力表",
+        "description_narrative": "中近景镜头对准绿衣女子，她双臂紧紧抱在胸前，身体略微前倾，表情严肃且带着质问，直接说出染染失踪的事实。",
+        "dialogue": "染染失踪了",
+        "speaker": "绿衣女子",
+        "emotion": "焦急",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；医院走廊，背景有视力表；画面中央人物，身穿橄榄绿缎面衬衫，双臂抱紧，身体前倾，表情：眉毛紧锁，眼睛锐利，嘴巴快速开合。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙",
+                "position": "画面中央",
+                "action": "头部微怔，眼神闪烁",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊背景虚化",
+        "description_narrative": "特写镜头捕捉黑衣女子的反应，她听到失踪消息后头部微怔，眼神中闪过一丝惊讶，嘴巴微张似乎想说什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 1.08,
+        "description_visual": "特写平拍镜头；医院走廊背景虚化；画面中央人物，身穿黑色丝绒深 V 连衣裙，头部微怔，眼神闪烁，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿缎面衬衫",
+                "position": "画面中央",
+                "action": "下巴抬起，目光咄咄逼人",
+                "expression": "眉毛倒竖，眼睛怒视，嘴巴用力开合"
+            }
+        ],
+        "background": "医院走廊，背景模糊",
+        "description_narrative": "中近景镜头再次给到绿衣女子，她下巴抬起，目光咄咄逼人，语气强硬地质问厉家是否活腻了。",
+        "dialogue": "你们厉家是不是活腻了",
+        "speaker": "绿衣女子",
+        "emotion": "愤怒",
+        "duration": 2.62,
+        "description_visual": "中近景平拍镜头；医院走廊，背景模糊；画面中央人物，身穿橄榄绿缎面衬衫，下巴抬起，目光咄咄逼人，表情：眉毛倒竖，眼睛怒视，嘴巴用力开合。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装老翁",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "站立，表情凝重",
+                "expression": "眉毛紧锁，眼睛看向妻子，嘴巴紧闭"
+            },
+            {
+                "name": "旗袍老妇",
+                "gender": "女",
+                "clothing": "米色碎花旗袍",
+                "position": "画面右侧",
+                "action": "身体微侧，手指微动",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴快速开合"
+            }
+        ],
+        "background": "医院走廊，天花板灯带明亮",
+        "description_narrative": "中景镜头拍摄厉家夫妇，旗袍老妇表情激动，身体微侧，手指微动，大声反驳说染染失踪与厉家无关，西装老翁在一旁表情凝重。",
+        "dialogue": "你这是什么话 慕星染的失踪跟我们厉家有什么关系",
+        "speaker": "旗袍老妇",
+        "emotion": "愤怒",
+        "duration": 4.58,
+        "description_visual": "中景平拍镜头；医院走廊，天花板灯带明亮；画面左侧人物，身穿深蓝色西装，站立，表情凝重，表情：眉毛紧锁，眼睛看向妻子，嘴巴紧闭；画面右侧人物，身穿米色碎花旗袍，身体微侧，手指微动，表情：眉毛上扬，眼睛瞪大，嘴巴快速开合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "站立，眼神冷漠",
+                "expression": "眉毛平展，眼睛微眯，嘴角下撇"
+            }
+        ],
+        "background": "医院走廊，背景有视力表",
+        "description_narrative": "中近景镜头拍摄西装男子，他面无表情地听着对方的辱骂，眼神冷漠，嘴角下撇，背景传来旗袍老妇继续辱骂染染的声音。",
+        "dialogue": "那个小贱蹄子 跟我儿子有婚约",
+        "speaker": "旗袍老妇",
+        "emotion": "轻蔑",
+        "duration": 3.34,
+        "description_visual": "中近景平拍镜头；医院走廊，背景有视力表；画面中央人物，身穿黑色西装，站立，眼神冷漠，表情：眉毛平展，眼睛微眯，嘴角下撇。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装老翁",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "站立，目光低垂",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴紧闭"
+            },
+            {
+                "name": "旗袍老妇",
+                "gender": "女",
+                "clothing": "米色碎花旗袍",
+                "position": "画面右侧",
+                "action": "头部转动，表情鄙夷",
+                "expression": "眉毛高挑，眼睛斜视，嘴巴张开"
+            }
+        ],
+        "background": "医院走廊，光线充足",
+        "description_narrative": "中景镜头中，旗袍老妇头部转动，表情鄙夷地继续指责染染勾引小叔，西装老翁站在一旁目光低垂，似乎有些无奈。",
+        "dialogue": "还勾搭他小叔",
+        "speaker": "旗袍老妇",
+        "emotion": "鄙夷",
+        "duration": 3.24,
+        "description_visual": "中景平拍镜头；医院走廊，光线充足；画面左侧人物，身穿深蓝色西装，站立，目光低垂，表情：眉毛微蹙，眼睛看向下方，嘴巴紧闭；画面右侧人物，身穿米色碎花旗袍，头部转动，表情鄙夷，表情：眉毛高挑，眼睛斜视，嘴巴张开。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙",
+                "position": "画面中央",
+                "action": "低头，双手交握",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "医院走廊背景虚化",
+        "description_narrative": "特写镜头给到黑衣女子，她听到不堪入耳的辱骂后低下头，双手交握，表情尴尬且无奈，背景传来西装老翁劝阻妻子的声音。",
+        "dialogue": "大嫂 你少说两句吧 不好意思 两位",
+        "speaker": "西装老翁",
+        "emotion": "尴尬",
+        "duration": 4.78,
+        "description_visual": "特写平拍镜头；医院走廊背景虚化；画面中央人物，身穿黑色丝绒深 V 连衣裙，低头，双手交握，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "微微摇头，眼神诚恳",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微动"
+            }
+        ],
+        "background": "医院走廊，背景有视力表",
+        "description_narrative": "中近景镜头拍摄西装男子，他微微摇头，眼神诚恳地表示对怀孕一事确实不知情，试图澄清误会。",
+        "dialogue": "这件事我们确实不知情",
+        "speaker": "西装男子",
+        "emotion": "诚恳",
+        "duration": 2.3,
+        "description_visual": "中近景平拍镜头；医院走廊，背景有视力表；画面中央人物，身穿黑色西装，微微摇头，眼神诚恳，表情：眉毛舒展，眼睛直视，嘴巴微动。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿缎面衬衫",
+                "position": "画面中央",
+                "action": "双臂抱胸，身体僵硬",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "医院走廊，背景模糊",
+        "description_narrative": "中近景镜头对准绿衣女子，她双臂抱胸，身体僵硬，表情严肃地补充说明司霆现在还在昏迷中。",
+        "dialogue": "司霆现在还在昏迷着",
+        "speaker": "绿衣女子",
+        "emotion": "严肃",
+        "duration": 2.14,
+        "description_visual": "中近景平拍镜头；医院走廊，背景模糊；画面中央人物，身穿橄榄绿缎面衬衫，双臂抱胸，身体僵硬，表情：眉毛紧锁，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙",
+                "position": "画面中央",
+                "action": "双手交握，身体微前倾",
+                "expression": "眉毛微蹙，眼神关切，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊背景虚化",
+        "description_narrative": "特写镜头回到黑衣女子，她双手交握在身前，身体微前倾，表情关切地表示他们一直守在这里，会一起寻找染染。",
+        "dialogue": "我们也一直守在这里的 染染 我们会一起找的",
+        "speaker": "黑衣女子",
+        "emotion": "关切",
+        "duration": 4.56,
+        "description_visual": "特写平拍镜头；医院走廊背景虚化；画面中央人物，身穿黑色丝绒深 V 连衣裙，双手交握，身体微前倾，表情：眉毛微蹙，眼神关切，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿缎面衬衫",
+                "position": "画面中央",
+                "action": "下巴抬起，目光凶狠",
+                "expression": "眉毛倒竖，眼睛怒视，嘴巴用力开合"
+            }
+        ],
+        "background": "医院走廊，背景模糊",
+        "description_narrative": "中近景镜头拍摄绿衣女子，她下巴抬起，目光凶狠地发出威胁，警告厉家最好与失踪案无关。",
+        "dialogue": "你们最好祈求这件事情 不是你们厉家人做的 不然",
+        "speaker": "绿衣女子",
+        "emotion": "威胁",
+        "duration": 6.2,
+        "description_visual": "中近景平拍镜头；医院走廊，背景模糊；画面中央人物，身穿橄榄绿缎面衬衫，下巴抬起，目光凶狠，表情：眉毛倒竖，眼睛怒视，嘴巴用力开合。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "眨眼，表情无奈",
+                "expression": "眉毛微挑，眼睛眨动，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，背景有视力表",
+        "description_narrative": "中近景镜头拍摄西装男子，他听到威胁后无奈地眨了眨眼，表情复杂，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无奈",
+        "duration": 2.12,
+        "description_visual": "中近景平拍镜头；医院走廊，背景有视力表；画面中央人物，身穿黑色西装，眨眼，表情无奈，表情：眉毛微挑，眼睛眨动，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装老翁",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "站立，表情惊讶",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴微张"
+            },
+            {
+                "name": "旗袍老妇",
+                "gender": "女",
+                "clothing": "米色碎花旗袍",
+                "position": "画面右侧",
+                "action": "头部后仰，表情不屑",
+                "expression": "眉毛高挑，眼睛斜视，嘴巴张开"
+            }
+        ],
+        "background": "医院走廊，天花板灯带明亮",
+        "description_narrative": "中景镜头中，旗袍老妇头部后仰，表情不屑地质问是谁敢威胁她，西装老翁在一旁表情惊讶地看着对方。",
+        "dialogue": "这谁呀 还敢威胁我",
+        "speaker": "旗袍老妇",
+        "emotion": "不屑",
+        "duration": 3.18,
+        "description_visual": "中景平拍镜头；医院走廊，天花板灯带明亮；画面左侧人物，身穿深蓝色西装，站立，表情惊讶，表情：眉毛上扬，眼睛瞪大，嘴巴微张；画面右侧人物，身穿米色碎花旗袍，头部后仰，表情不屑，表情：眉毛高挑，眼睛斜视，嘴巴张开。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙",
+                "position": "画面中央",
+                "action": "皱眉，眼神不悦",
+                "expression": "眉毛紧锁，眼睛微眯，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊背景虚化",
+        "description_narrative": "特写镜头捕捉黑衣女子皱眉的表情，她眼神中流露出不悦，背景传来西装老翁再次劝阻妻子的声音。",
+        "dialogue": "什么玩意 你少说两句",
+        "speaker": "西装老翁",
+        "emotion": "不悦",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头；医院走廊背景虚化；画面中央人物，身穿黑色丝绒深 V 连衣裙，皱眉，眼神不悦，表情：眉毛紧锁，眼睛微眯，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装老翁",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "头部微转，表情困惑",
+                "expression": "眉毛微蹙，眼睛看向妻子，嘴巴开合"
+            },
+            {
+                "name": "旗袍老妇",
+                "gender": "女",
+                "clothing": "米色碎花旗袍",
+                "position": "画面右侧",
+                "action": "双臂交叉，表情傲慢",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，光线充足",
+        "description_narrative": "中景镜头中，西装老翁头部微转，表情困惑地询问为什么秦家的人德行如此，旗袍老妇双臂交叉站在一旁，表情傲慢。",
+        "dialogue": "他们是秦家的人 慕星染是秦家的 那她怎么还那个德行",
+        "speaker": "西装老翁",
+        "emotion": "困惑",
+        "duration": 8.88,
+        "description_visual": "中景平拍镜头；医院走廊，光线充足；画面左侧人物，身穿深蓝色西装，头部微转，表情困惑，表情：眉毛微蹙，眼睛看向妻子，嘴巴开合；画面右侧人物，身穿米色碎花旗袍，双臂交叉，表情傲慢，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙",
+                "position": "画面中央",
+                "action": "低头，眼神黯淡",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊背景虚化",
+        "description_narrative": "特写镜头给到黑衣女子，她低头眼神黯淡，似乎不想参与争论，背景传来西装老翁称呼妻子小妹的声音。",
+        "dialogue": "小妹",
+        "speaker": "西装老翁",
+        "emotion": "无奈",
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头；医院走廊背景虚化；画面中央人物，身穿黑色丝绒深 V 连衣裙，低头，眼神黯淡，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装老翁",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "站立，表情严肃",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴开合"
+            },
+            {
+                "name": "旗袍老妇",
+                "gender": "女",
+                "clothing": "米色碎花旗袍",
+                "position": "画面右侧",
+                "action": "双手交握，表情凝重",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，天花板灯带明亮",
+        "description_narrative": "中景镜头拍摄厉家夫妇，西装老翁表情严肃地指出司霆还没醒来，旗袍老妇双手交握，表情凝重地听着。",
+        "dialogue": "司霆现在还没醒来",
+        "speaker": "西装老翁",
+        "emotion": "严肃",
+        "duration": 1.5,
+        "description_visual": "中景平拍镜头；医院走廊，天花板灯带明亮；画面左侧人物，身穿深蓝色西装，站立，表情严肃，表情：眉毛紧锁，眼睛直视，嘴巴开合；画面右侧人物，身穿米色碎花旗袍，双手交握，表情凝重，表情：眉毛微蹙，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙",
+                "position": "画面右侧",
+                "action": "转身，手指微动",
+                "expression": "眉毛倒竖，眼睛怒视，嘴巴快速开合"
+            }
+        ],
+        "background": "医院走廊，背景虚化",
+        "description_narrative": "中近景侧拍镜头跟随黑衣女子，她听到公司话题后猛地转身，手指微动，愤怒地质问对方是不是惦记集团。",
+        "dialogue": "公司得有人盯着 你什么意思啊 司霆现在还没死呢 你就惦记上集团了",
+        "speaker": "黑衣女子",
+        "emotion": "愤怒",
+        "duration": 6.8,
+        "description_visual": "中近景侧拍镜头（跟拍）；医院走廊，背景虚化；画面右侧人物，身穿黑色丝绒深 V 连衣裙，转身，手指微动，表情：眉毛倒竖，眼睛怒视，嘴巴快速开合。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装老翁",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "摆手，表情解释",
+                "expression": "眉毛舒展，眼睛看着对方，嘴巴开合"
+            },
+            {
+                "name": "旗袍老妇",
+                "gender": "女",
+                "clothing": "米色碎花旗袍",
+                "position": "画面右侧",
+                "action": "站立，表情不悦",
+                "expression": "眉毛微蹙，眼睛看向丈夫，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，光线充足",
+        "description_narrative": "中景镜头中，西装老翁摆手解释自己不是那个意思，只是想让尘非或颜菲去盯着，旗袍老妇站在一旁表情不悦。",
+        "dialogue": "我不是那意思 我是想让尘非 或者颜菲先过去盯一下",
+        "speaker": "西装老翁",
+        "emotion": "解释",
+        "duration": 5.04,
+        "description_visual": "中景平拍镜头；医院走廊，光线充足；画面左侧人物，身穿深蓝色西装，摆手，表情解释，表情：眉毛舒展，眼睛看着对方，嘴巴开合；画面右侧人物，身穿米色碎花旗袍，站立，表情不悦，表情：眉毛微蹙，眼睛看向丈夫，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色丝绒深 V 连衣裙",
+                "position": "画面右侧",
+                "action": "侧身，双手交握",
+                "expression": "眉毛平展，眼睛看向别处，嘴巴微动"
+            }
+        ],
+        "background": "医院走廊，背景模糊",
+        "description_narrative": "中近景侧拍镜头拍摄黑衣女子，她侧身站立，双手交握，语气冷淡地同意让尘非去公司。",
+        "dialogue": "那让尘非去吧",
+        "speaker": "黑衣女子",
+        "emotion": "冷淡",
+        "duration": 2.12,
+        "description_visual": "中近景侧拍镜头；医院走廊，背景模糊；画面右侧人物，身穿黑色丝绒深 V 连衣裙，侧身，双手交握，表情：眉毛平展，眼睛看向别处，嘴巴微动。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色长款外套",
+                "position": "画面左侧",
+                "action": "靠在窗台，目光平静",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "医院走廊，窗边有百叶窗",
+        "description_narrative": "中景镜头拍摄靠在窗边的黑衣男子（尘非），他听到自己的名字后目光平静，没有说话，准备离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.34,
+        "description_visual": "中景平拍镜头；医院走廊，窗边有百叶窗；画面左侧人物，身穿黑色长款外套，靠在窗台，目光平静，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "淡出",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "画面逐渐淡出至白色，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.02,
+        "description_visual": "远景平拍镜头（淡出）；白色屏幕。"
+    }
+]

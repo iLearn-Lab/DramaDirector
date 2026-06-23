@@ -1,0 +1,686 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "酒店房间，白色床铺前景，木质衣柜，暖色灯光",
+        "description_narrative": "全景镜头展示空荡的酒店房间，前景是凌乱的白色床铺，左侧立着深色木质衣柜，天花板悬挂长方形灯具，画面中无人，伴随画外音呼唤“染染”。",
+        "dialogue": "染染",
+        "speaker": "厉总",
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "全景平拍镜头；酒店房间，白色床铺前景，木质衣柜，暖色灯光。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "画面右侧",
+                "action": "右手握住门把手，身体微倾进入房间",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张呈惊讶状"
+            }
+        ],
+        "background": "深红色木门，门框细节清晰",
+        "description_narrative": "中景镜头，厉总身穿黑色西装站在深红色木门前，右手握住银色门把手，身体微微前倾，表情惊讶，似乎发现房间内无人。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 3.22,
+        "description_visual": "中景平拍镜头；深红色木门，门框细节清晰；画面右侧人物，身穿黑色西装，黑色衬衫，右手握住门把手，身体微倾进入房间，表情：眉毛微挑，眼睛睁大，嘴巴微张呈惊讶状。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装，黑色衬衫",
+                "position": "画面右侧",
+                "action": "低头看向地面，左手自然下垂",
+                "expression": "眉毛微蹙，视线向下，嘴唇紧闭"
+            }
+        ],
+        "background": "深红色木门，室内光线柔和",
+        "description_narrative": "中景镜头，厉总低头看向地面，神情困惑，似乎在寻找线索，手仍搭在门把手上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "困惑",
+        "duration": 0.4,
+        "description_visual": "中景平拍镜头；深红色木门，室内光线柔和；画面右侧人物，身穿黑色西装，黑色衬衫，低头看向地面，左手自然下垂，表情：眉毛微蹙，视线向下，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装袖子",
+                "position": "画面右侧",
+                "action": "手臂伸出，手握住门把手准备关门",
+                "expression": null
+            }
+        ],
+        "background": "深红色木门表面纹理，白色墙壁",
+        "description_narrative": "特写镜头聚焦在深红色木门上，厉总的手臂伸出，手握住银色门把手，动作略显急促。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.56,
+        "description_visual": "特写平拍镜头；深红色木门表面纹理，白色墙壁；画面右侧人物，身穿黑色西装袖子，手臂伸出，手握住门把手准备关门。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "前台接待",
+                "gender": "女",
+                "clothing": "蓝色西装外套",
+                "position": "画面右侧柜台后",
+                "action": "低头操作电脑",
+                "expression": "专注"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "黑色衣服",
+                "position": "背景左侧",
+                "action": "坐在工位上",
+                "expression": null
+            }
+        ],
+        "background": "酒店大堂前台，大理石柜台，木雕摆件，冷色调灯光",
+        "description_narrative": "全景俯拍酒店大堂前台，前台接待身穿蓝色西装坐在柜台后工作，柜台上摆放着木雕和电脑，背景有另一名工作人员。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.42,
+        "description_visual": "全景俯拍镜头；酒店大堂前台，大理石柜台，木雕摆件，冷色调灯光；画面右侧柜台后人物，身穿蓝色西装外套，低头操作电脑，表情：专注；背景左侧人物，身穿黑色衣服，坐在工位上。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体前倾靠在柜台上，急切询问",
+                "expression": "眉毛紧锁，眼神急切，嘴巴张开说话"
+            },
+            {
+                "name": "前台接待",
+                "gender": "女",
+                "clothing": "蓝色西装",
+                "position": "前景左侧",
+                "action": "背对镜头",
+                "expression": null
+            }
+        ],
+        "background": "酒店前台，模糊的背景灯光",
+        "description_narrative": "过肩镜头，厉总身体前倾靠在柜台上，神情焦急地询问前台接待，字幕显示“有没有看到和我在一起的那个女生”。",
+        "dialogue": "有没有看到和我在一起的那个女生？",
+        "speaker": "厉总",
+        "emotion": "焦急",
+        "duration": 1.86,
+        "description_visual": "中近景过肩镜头；酒店前台，模糊的背景灯光；画面中央人物，身穿黑色西装，身体前倾靠在柜台上，急切询问，表情：眉毛紧锁，眼神急切，嘴巴张开说话；前景左侧人物，身穿蓝色西装，背对镜头。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "前台接待",
+                "gender": "女",
+                "clothing": "蓝色西装外套，戴眼镜",
+                "position": "画面中央",
+                "action": "抬头看向对方，手指在键盘上",
+                "expression": "眉毛平缓，眼神平静，嘴巴微张"
+            }
+        ],
+        "background": "前台电脑显示器，公安民警提示牌",
+        "description_narrative": "中景镜头，前台接待戴着眼镜，身穿蓝色西装，抬头看向厉总，神情专业地回应，字幕显示“先生，稍等一下”。",
+        "dialogue": "先生，稍等一下。",
+        "speaker": "前台接待",
+        "emotion": "平静",
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；前台电脑显示器，公安民警提示牌；画面中央人物，身穿蓝色西装外套，戴眼镜，抬头看向对方，手指在键盘上，表情：眉毛平缓，眼神平静，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "低头看着柜台，语气急促",
+                "expression": "眉毛下压，视线向下，嘴巴快速开合"
+            },
+            {
+                "name": "前台接待",
+                "gender": "女",
+                "clothing": "蓝色西装",
+                "position": "前景左侧",
+                "action": "背对镜头",
+                "expression": null
+            }
+        ],
+        "background": "前台电脑屏幕，模糊的大堂背景",
+        "description_narrative": "过肩镜头，厉总低头看着柜台，神情不耐烦，催促对方，字幕显示“快点，请你不要激动，我帮你调下监控。你到底有没有看到啊”。",
+        "dialogue": "快点，请你不要激动，我帮你调下监控。你到底有没有看到啊？",
+        "speaker": "厉总",
+        "emotion": "不耐烦",
+        "duration": 4.06,
+        "description_visual": "中近景过肩镜头；前台电脑屏幕，模糊的大堂背景；画面中央人物，身穿黑色西装，低头看着柜台，语气急促，表情：眉毛下压，视线向下，嘴巴快速开合；前景左侧人物，身穿蓝色西装，背对镜头。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "身体前倾，手指指向电脑屏幕",
+                "expression": "专注盯着屏幕"
+            },
+            {
+                "name": "前台接待",
+                "gender": "女",
+                "clothing": "蓝色西装",
+                "position": "画面右侧",
+                "action": "操作电脑，转头回应",
+                "expression": "嘴巴微张"
+            }
+        ],
+        "background": "酒店前台全景，大理石柜台，木雕摆件",
+        "description_narrative": "全景镜头，厉总站在柜台左侧，身体前倾指着电脑，前台接待在右侧操作电脑并回应，字幕显示“看到了”。",
+        "dialogue": "看到了。",
+        "speaker": "前台接待",
+        "emotion": "确认",
+        "duration": 1.78,
+        "description_visual": "全景侧拍镜头；酒店前台全景，大理石柜台，木雕摆件；画面左侧人物，身穿黑色西装，身体前倾，手指指向电脑屏幕，表情：专注盯着屏幕；画面右侧人物，身穿蓝色西装，操作电脑，转头回应，表情：嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "白色衣服",
+                "position": "画面中央",
+                "action": "慌张跑过旋转门",
+                "expression": null
+            }
+        ],
+        "background": "监控画面，酒店旋转门入口，蓝灰色调",
+        "description_narrative": "监控画面视角，蓝灰色调，显示一名身穿白色衣服的女子慌张地跑过酒店旋转门，时间戳显示18:37:11。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "全景俯拍镜头；监控画面，酒店旋转门入口，蓝灰色调；画面中央人物，身穿白色衣服，慌张跑过旋转门。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "深蓝色西装，白色衬衫，紫色条纹领带",
+                "position": "画面左侧",
+                "action": "站立整理领带，低头看自己",
+                "expression": "嘴巴微张，眼神向下"
+            },
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿衬衫，橄榄绿长裙",
+                "position": "画面右侧",
+                "action": "弯腰整理裙摆",
+                "expression": "低头专注"
+            }
+        ],
+        "background": "室内客厅，红色沙发，白色墙壁",
+        "description_narrative": "中景镜头，蓝衣男子身穿深蓝色西装整理领带，绿衣女子在旁弯腰整理裙摆，男子开口说话，字幕显示“萱妹，你看哥”。",
+        "dialogue": "萱妹，你看哥。",
+        "speaker": "蓝衣男子",
+        "emotion": "期待",
+        "duration": 1.58,
+        "description_visual": "中景平拍镜头；室内客厅，红色沙发，白色墙壁；画面左侧人物，身穿深蓝色西装，白色衬衫，紫色条纹领带，站立整理领带，低头看自己，表情：嘴巴微张，眼神向下；画面右侧人物，身穿橄榄绿衬衫，橄榄绿长裙，弯腰整理裙摆，表情：低头专注。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "深蓝色西装，紫色条纹领带",
+                "position": "画面左侧",
+                "action": "手扶领带，侧头看向女子",
+                "expression": "眉毛上扬，嘴巴张开询问"
+            },
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿套装",
+                "position": "画面右侧",
+                "action": "站直身体，看向男子",
+                "expression": "侧脸，嘴巴微张"
+            }
+        ],
+        "background": "红色沙发，白色墙壁",
+        "description_narrative": "中景镜头，蓝衣男子手扶领带，侧头询问绿衣女子意见，表情期待，字幕显示“你看哥穿这样好看吗”。",
+        "dialogue": "你看哥穿这样好看吗",
+        "speaker": "蓝衣男子",
+        "emotion": "期待",
+        "duration": 3.84,
+        "description_visual": "中景平拍镜头；红色沙发，白色墙壁；画面左侧人物，身穿深蓝色西装，紫色条纹领带，手扶领带，侧头看向女子，表情：眉毛上扬，嘴巴张开询问；画面右侧人物，身穿橄榄绿套装，站直身体，看向男子，表情：侧脸，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "微笑，身体微侧",
+                "expression": "嘴角上扬，露齿笑"
+            },
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿套装",
+                "position": "画面右侧",
+                "action": "伸手整理男子西装下摆",
+                "expression": null
+            }
+        ],
+        "background": "木质书架背景",
+        "description_narrative": "中近景镜头，蓝衣男子露齿微笑，绿衣女子伸手整理他的西装下摆，女子开口叫“哥”。",
+        "dialogue": "哥。",
+        "speaker": "绿衣女子",
+        "emotion": "亲切",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；木质书架背景；画面左侧人物，身穿深蓝色西装，微笑，身体微侧，表情：嘴角上扬，露齿笑；画面右侧人物，身穿橄榄绿套装，伸手整理男子西装下摆。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿衬衫",
+                "position": "画面中央",
+                "action": "皱眉，表情嫌弃或无奈",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴巴微撇"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "前景左侧",
+                "action": "背对镜头",
+                "expression": null
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，绿衣女子眉头紧蹙，眼睛眯起，嘴巴微撇，露出嫌弃或无奈的表情，似乎对男子的装扮或行为不满。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "嫌弃",
+        "duration": 0.98,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿橄榄绿衬衫，皱眉，表情嫌弃或无奈，表情：眉毛紧蹙，眼睛眯起，嘴巴微撇；前景左侧人物，身穿深蓝色西装，背对镜头。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "双手摊开，解释状",
+                "expression": "眉毛舒展，嘴巴张开说话"
+            },
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿套装",
+                "position": "画面右侧",
+                "action": "伸手拉扯男子袖口",
+                "expression": null
+            }
+        ],
+        "background": "木质书架，红色沙发一角",
+        "description_narrative": "中近景镜头，蓝衣男子双手摊开解释，神情紧张，绿衣女子伸手拉扯他的袖口，字幕显示“就是太紧张了”。",
+        "dialogue": "就是太紧张了。",
+        "speaker": "蓝衣男子",
+        "emotion": "紧张",
+        "duration": 1.66,
+        "description_visual": "中近景平拍镜头；木质书架，红色沙发一角；画面左侧人物，身穿深蓝色西装，双手摊开，解释状，表情：眉毛舒展，嘴巴张开说话；画面右侧人物，身穿橄榄绿套装，伸手拉扯男子袖口。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "站立，双手插兜或自然下垂",
+                "expression": "侧脸，嘴巴张开"
+            },
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿套装",
+                "position": "画面中央",
+                "action": "低头看手腕",
+                "expression": "专注"
+            }
+        ],
+        "background": "客厅，红色沙发，藤编茶几",
+        "description_narrative": "全景镜头，蓝衣男子站立说话，绿衣女子低头看手腕，似乎在确认时间，字幕显示“我能不紧张吗？爷爷奶奶下死命令了”。",
+        "dialogue": "我能不紧张吗？爷爷奶奶下死命令了。",
+        "speaker": "蓝衣男子",
+        "emotion": "焦虑",
+        "duration": 3.14,
+        "description_visual": "全景平拍镜头；客厅，红色沙发，藤编茶几；画面左侧人物，身穿深蓝色西装，站立，双手插兜或自然下垂，表情：侧脸，嘴巴张开；画面中央人物，身穿橄榄绿套装，低头看手腕，表情：专注。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "双手插兜，微笑",
+                "expression": "嘴角上扬，露齿笑"
+            },
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿套装",
+                "position": "画面右侧",
+                "action": "伸手示意",
+                "expression": null
+            }
+        ],
+        "background": "木质书架，红色沙发",
+        "description_narrative": "中景镜头，蓝衣男子双手插兜，露齿微笑，绿衣女子在旁伸手，字幕显示“今天必须把表妹带回家”。",
+        "dialogue": "今天必须把表妹带回家。",
+        "speaker": "蓝衣男子",
+        "emotion": "坚定",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；木质书架，红色沙发；画面左侧人物，身穿深蓝色西装，双手插兜，微笑，表情：嘴角上扬，露齿笑；画面右侧人物，身穿橄榄绿套装，伸手示意。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿衬衫",
+                "position": "画面中央",
+                "action": "低头看手腕上的手表",
+                "expression": "眉毛微挑，嘴巴微张"
+            },
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "深蓝色西装袖子",
+                "position": "前景左侧",
+                "action": "手臂伸出指手表",
+                "expression": null
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中近景镜头，绿衣女子低头看手表，蓝衣男子手臂伸出指向手表，字幕显示“你看这都几点了”。",
+        "dialogue": "你看这都几点了。",
+        "speaker": "蓝衣男子",
+        "emotion": "急切",
+        "duration": 2.66,
+        "description_visual": "中近景平拍镜头；模糊的室内背景；画面中央人物，身穿橄榄绿衬衫，低头看手腕上的手表，表情：眉毛微挑，嘴巴微张；前景左侧人物，身穿深蓝色西装袖子，手臂伸出指手表。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣男子",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面左侧",
+                "action": "闭眼大笑，身体后仰",
+                "expression": "眼睛紧闭，嘴巴大张露齿"
+            },
+            {
+                "name": "绿衣女子",
+                "gender": "女",
+                "clothing": "橄榄绿套装",
+                "position": "画面右侧",
+                "action": "侧身站立",
+                "expression": null
+            }
+        ],
+        "background": "木质书架，红色沙发",
+        "description_narrative": "中景镜头，蓝衣男子闭眼大笑，神情放松，绿衣女子在旁安抚，字幕显示“哎呀 哥，时间还没到呢，你别着急”。",
+        "dialogue": "哎呀 哥，时间还没到呢，你别着急。",
+        "speaker": "绿衣女子",
+        "emotion": "安抚",
+        "duration": 3.5,
+        "description_visual": "中景平拍镜头；木质书架，红色沙发；画面左侧人物，身穿深蓝色西装，闭眼大笑，身体后仰，表情：眼睛紧闭，嘴巴大张露齿；画面右侧人物，身穿橄榄绿套装，侧身站立。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "坐在橙色沙发上，低头看手机",
+                "expression": "神情专注"
+            }
+        ],
+        "background": "橙色沙发，米色窗帘，蓝色床头柜",
+        "description_narrative": "中景镜头，厉总坐在橙色沙发上，低头专注地看着手机，字幕显示“好”。",
+        "dialogue": "好。",
+        "speaker": "厉总",
+        "emotion": "沉稳",
+        "duration": 2.6,
+        "description_visual": "中景侧拍镜头；橙色沙发，米色窗帘，蓝色床头柜；画面中央人物，身穿黑色西装，坐在橙色沙发上，低头看手机，表情：神情专注。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "双手持手机，准备接听",
+                "expression": "眉毛微蹙，嘴唇微张"
+            }
+        ],
+        "background": "橙色沙发，模糊背景",
+        "description_narrative": "中近景镜头，厉总双手持手机，神情严肃，似乎接到了电话，字幕显示“喂”。",
+        "dialogue": "喂。",
+        "speaker": "厉总",
+        "emotion": "严肃",
+        "duration": 2.74,
+        "description_visual": "中近景侧拍镜头；橙色沙发，模糊背景；画面中央人物，身穿黑色西装，双手持手机，准备接听，表情：眉毛微蹙，嘴唇微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "侧脸，低头看手机",
+                "expression": "眉毛平缓，嘴唇微闭"
+            }
+        ],
+        "background": "模糊的橙色沙发",
+        "description_narrative": "特写镜头，厉总侧脸低头看手机，神情专注，画外音传来“厉总”的称呼。",
+        "dialogue": "厉总。",
+        "speaker": "手下",
+        "emotion": null,
+        "duration": 0.78,
+        "description_visual": "特写侧拍镜头；模糊的橙色沙发；画面右侧人物，身穿黑色西装，侧脸，低头看手机，表情：眉毛平缓，嘴唇微闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "手持手机贴在耳边，神情震惊",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内暖色背景",
+        "description_narrative": "近景镜头，厉总手持手机贴在耳边，神情震惊，画外音传来手下报告夫人被绑架的消息，随后厉总回应秦老爷子。",
+        "dialogue": "喂，厉总，夫人被人绑架了，我们现在正在跟踪对方，定位发给我，我马上过来。喂，秦老爷子，染染被人绑架了。",
+        "speaker": "手下",
+        "emotion": "震惊",
+        "duration": 18.68,
+        "description_visual": "近景平拍镜头；室内暖色背景；画面中央人物，身穿黑色西装，手持手机贴在耳边，神情震惊，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色强光",
+        "description_narrative": "画面被白色强光覆盖，转场效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.46,
+        "description_visual": "特写平拍镜头；白色强光。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "手持手机通话，神情凝重",
+                "expression": "眉毛紧锁，眼神坚定"
+            }
+        ],
+        "background": "暖色背景，金色光效",
+        "description_narrative": "特写镜头，厉总手持手机通话，神情凝重，画面右侧出现金色书法字体“未完待续”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；暖色背景，金色光效；画面中央人物，身穿黑色西装，手持手机通话，神情凝重，表情：眉毛紧锁，眼神坚定。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "手持手机通话",
+                "expression": "神情严肃"
+            }
+        ],
+        "background": "暖色背景",
+        "description_narrative": "特写镜头，厉总继续手持手机通话，画面定格，故事在悬念中结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 0.66,
+        "description_visual": "特写平拍镜头；暖色背景；画面中央人物，身穿黑色西装，手持手机通话，表情：神情严肃。"
+    }
+]

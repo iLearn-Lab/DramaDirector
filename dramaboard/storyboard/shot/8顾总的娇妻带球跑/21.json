@@ -1,0 +1,636 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装",
+                "position": "画面中央",
+                "action": "双手拿着白色纱布缠绕在女子脚踝上",
+                "expression": "眉毛微蹙，眼神专注，嘴巴紧闭"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面下方",
+                "action": "脚踝伸出接受包扎",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内环境，光线柔和，背景虚化",
+        "description_narrative": "特写镜头俯拍，男子身穿黑色条纹西装，双手正拿着白色纱布仔细缠绕在女子的脚踝上，动作轻柔专注。",
+        "dialogue": "灯泡坏了",
+        "speaker": "女子",
+        "emotion": "解释",
+        "duration": 1.08,
+        "description_visual": "特写俯拍镜头；室内环境，光线柔和，背景虚化；画面中央人物，身穿黑色条纹西装，双手拿着白色纱布缠绕在女子脚踝上，表情：眉毛微蹙，眼神专注，嘴巴紧闭；画面下方人物，身穿白色连衣裙，脚踝伸出接受包扎，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面左侧",
+                "action": "坐在床边，低头看着自己的腿",
+                "expression": "眉毛微垂，眼神下移，嘴巴微抿"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装三件套，深色领带",
+                "position": "画面右侧",
+                "action": "坐在女子旁边，低头看着女子脚踝",
+                "expression": "眉毛微皱，眼神专注，嘴巴微张"
+            }
+        ],
+        "background": "卧室环境，有木质床头柜，光线明亮",
+        "description_narrative": "中景平拍，女子身穿绿色开衫和白色连衣裙坐在床边，神情低落低头看腿；男子身穿西装坐在旁边，正低头查看她的伤势。",
+        "dialogue": "我换灯泡的时候",
+        "speaker": "女子",
+        "emotion": "回忆",
+        "duration": 1.55,
+        "description_visual": "中景平拍镜头；卧室环境，有木质床头柜，光线明亮；画面左侧人物，身穿绿色开衫外套，白色连衣裙，坐在床边，低头看着自己的腿，表情：眉毛微垂，眼神下移，嘴巴微抿；画面右侧人物，身穿黑色条纹西装三件套，深色领带，坐在女子旁边，低头看着女子脚踝，表情：眉毛微皱，眼神专注，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面右侧",
+                "action": "低头看着前方",
+                "expression": "眉毛舒展，眼神下移，嘴巴微张"
+            },
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面左侧前景",
+                "action": "侧脸看着下方",
+                "expression": "眉毛平直，眼神向下，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，墙面浅色，光线自然",
+        "description_narrative": "近景平拍，女子长发披肩，神情有些愧疚地低头；前景是小女孩朝朝，穿着蓝色裙子，安静地坐在一旁。",
+        "dialogue": "不小心从椅子上摔下来",
+        "speaker": "女子",
+        "emotion": "愧疚",
+        "duration": 1.98,
+        "description_visual": "近景平拍镜头；室内背景，墙面浅色，光线自然；画面右侧人物，身穿绿色开衫外套，白色连衣裙，低头看着前方，表情：眉毛舒展，眼神下移，嘴巴微张；画面左侧前景人物，身穿蓝色海军领连衣裙，侧脸看着下方，表情：眉毛平直，眼神向下，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装三件套，深色领带",
+                "position": "画面中央",
+                "action": "低头看着下方",
+                "expression": "眉毛微蹙，眼神下移，嘴巴微抿"
+            }
+        ],
+        "background": "室内背景，白色墙面，光线柔和",
+        "description_narrative": "近景平拍，男子身穿西装，低头看着女子的脚踝方向，表情严肃中带着一丝责备。",
+        "dialogue": "你这当妈的，真的是",
+        "speaker": "男子",
+        "emotion": "责备",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；室内背景，白色墙面，光线柔和；画面中央人物，身穿黑色条纹西装三件套，深色领带，低头看着下方，表情：眉毛微蹙，眼神下移，嘴巴微抿。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面左侧",
+                "action": "坐在床边，看着男子的动作",
+                "expression": "眉毛平直，眼神注视，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面中央",
+                "action": "坐在床上，脚伸向男子",
+                "expression": "眉毛微垂，眼神下移，嘴巴紧闭"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装三件套，深色领带",
+                "position": "画面右侧",
+                "action": "蹲在地上包扎女子脚踝",
+                "expression": "眉毛微皱，眼神专注，嘴巴微张"
+            }
+        ],
+        "background": "卧室全景，有衣柜、窗帘，光线明亮",
+        "description_narrative": "全景平拍，三人同框。男子蹲在地上为坐在床边的女子包扎脚踝，小女孩朝朝坐在一旁静静观看，气氛略显凝重。",
+        "dialogue": "吓到朝朝了，不知道吗",
+        "speaker": "男子",
+        "emotion": "责备",
+        "duration": 1.67,
+        "description_visual": "全景平拍镜头；卧室全景，有衣柜、窗帘，光线明亮；画面左侧人物，身穿蓝色海军领连衣裙，坐在床边，看着男子的动作，表情：眉毛平直，眼神注视，嘴巴微张；画面中央人物，身穿绿色开衫外套，白色连衣裙，坐在床上，脚伸向男子，表情：眉毛微垂，眼神下移，嘴巴紧闭；画面右侧人物，身穿黑色条纹西装三件套，深色领带，蹲在地上包扎女子脚踝，表情：眉毛微皱，眼神专注，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装三件套，深色领带",
+                "position": "画面中央",
+                "action": "低头说话，手在整理纱布",
+                "expression": "眉毛微蹙，眼神下移，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙面，光线柔和",
+        "description_narrative": "近景平拍，男子低头继续手上的包扎动作，语气中带着关切和责备，解释孩子打电话时的害怕。",
+        "dialogue": "她给我打电话说，她很害怕",
+        "speaker": "男子",
+        "emotion": "关切",
+        "duration": 1.75,
+        "description_visual": "近景平拍镜头；室内背景，白色墙面，光线柔和；画面中央人物，身穿黑色条纹西装三件套，深色领带，低头说话，手在整理纱布，表情：眉毛微蹙，眼神下移，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面中央",
+                "action": "低头看着下方",
+                "expression": "眉毛微垂，眼神下移，嘴巴微抿"
+            },
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面左侧前景",
+                "action": "侧脸看着下方",
+                "expression": "眉毛平直，眼神向下，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，墙面浅色，光线自然",
+        "description_narrative": "近景平拍，女子听到男子的话，神情更加愧疚，低头承认自己的疏忽，旁边的小女孩安静地听着。",
+        "dialogue": "是我对不起她",
+        "speaker": "女子",
+        "emotion": "愧疚",
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；室内背景，墙面浅色，光线自然；画面中央人物，身穿绿色开衫外套，白色连衣裙，低头看着下方，表情：眉毛微垂，眼神下移，嘴巴微抿；画面左侧前景人物，身穿蓝色海军领连衣裙，侧脸看着下方，表情：眉毛平直，眼神向下，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面中央",
+                "action": "低头看着包扎好的脚踝",
+                "expression": "眉毛舒展，眼神下移，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，墙面浅色，光线自然",
+        "description_narrative": "近景平拍，女子低头看着包扎好的伤口，男子画外音告知包扎完成且无大碍，女子神情稍缓。",
+        "dialogue": "包扎好了，幸好没有伤到骨头",
+        "speaker": "男子",
+        "emotion": "宽慰",
+        "duration": 4.5,
+        "description_visual": "近景平拍镜头；室内背景，墙面浅色，光线自然；画面中央人物，身穿绿色开衫外套，白色连衣裙，低头看着包扎好的脚踝，表情：眉毛舒展，眼神下移，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面中央",
+                "action": "低头看着前方",
+                "expression": "眉毛舒展，眼神下移，嘴巴微闭"
+            },
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面左侧前景",
+                "action": "侧脸看着下方",
+                "expression": "眉毛平直，眼神向下，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，墙面浅色，光线自然",
+        "description_narrative": "近景平拍，女子和小女孩并排坐着，女子神情平静下来，画面安静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.7,
+        "description_visual": "近景平拍镜头；室内背景，墙面浅色，光线自然；画面中央人物，身穿绿色开衫外套，白色连衣裙，低头看着前方，表情：眉毛舒展，眼神下移，嘴巴微闭；画面左侧前景人物，身穿蓝色海军领连衣裙，侧脸看着下方，表情：眉毛平直，眼神向下，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面左侧",
+                "action": "转头看向男子",
+                "expression": "眉毛微扬，眼神注视，嘴巴微张"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装三件套",
+                "position": "画面右侧",
+                "action": "侧身对着女子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，有木质床头柜，光线明亮",
+        "description_narrative": "中近景平拍，女子转头看向身旁的男子，眼神中带着感激，准备开口致谢。",
+        "dialogue": "谢谢你",
+        "speaker": "女子",
+        "emotion": "感激",
+        "duration": 1.13,
+        "description_visual": "中近景平拍镜头；卧室环境，有木质床头柜，光线明亮；画面左侧人物，身穿绿色开衫外套，白色连衣裙，转头看向男子，表情：眉毛微扬，眼神注视，嘴巴微张；画面右侧人物，身穿黑色条纹西装三件套，侧身对着女子，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装三件套，深色领带",
+                "position": "画面中央",
+                "action": "转头看向一侧",
+                "expression": "眉毛平直，眼神侧视，嘴巴微抿"
+            }
+        ],
+        "background": "室内背景，白色墙面，光线柔和",
+        "description_narrative": "近景平拍，男子听到感谢后，转头看向别处，神情略显不自然，似乎准备离开。",
+        "dialogue": "我这边还有点事情，就先走了",
+        "speaker": "男子",
+        "emotion": "匆忙",
+        "duration": 2.3,
+        "description_visual": "近景平拍镜头；室内背景，白色墙面，光线柔和；画面中央人物，身穿黑色条纹西装三件套，深色领带，转头看向一侧，表情：眉毛平直，眼神侧视，嘴巴微抿。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面左侧",
+                "action": "看着男子",
+                "expression": "眉毛微垂，眼神注视，嘴巴微抿"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装三件套",
+                "position": "画面右侧",
+                "action": "身体前倾准备起身",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，有木质床头柜，光线明亮",
+        "description_narrative": "中近景平拍，女子看着男子准备离开，神情有些复杂；男子身体前倾，做出起身的动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.18,
+        "description_visual": "中近景平拍镜头；卧室环境，有木质床头柜，光线明亮；画面左侧人物，身穿绿色开衫外套，白色连衣裙，看着男子，表情：眉毛微垂，眼神注视，嘴巴微抿；画面右侧人物，身穿黑色条纹西装三件套，身体前倾准备起身，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装三件套，深色领带",
+                "position": "画面中央",
+                "action": "转头看向小女孩",
+                "expression": "眉毛舒展，眼神注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙面，光线柔和",
+        "description_narrative": "近景平拍，男子在离开前转头看向小女孩朝朝，眼神变得柔和，轻声呼唤她的名字。",
+        "dialogue": "朝朝",
+        "speaker": "男子",
+        "emotion": "温和",
+        "duration": 0.95,
+        "description_visual": "近景平拍镜头；室内背景，白色墙面，光线柔和；画面中央人物，身穿黑色条纹西装三件套，深色领带，转头看向小女孩，表情：眉毛舒展，眼神注视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面左侧",
+                "action": "坐在床边，抬头看男子",
+                "expression": "眉毛平直，眼神注视，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面中央",
+                "action": "坐在床上，看着男子",
+                "expression": "眉毛微垂，眼神注视，嘴巴微抿"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色条纹西装三件套",
+                "position": "画面右侧",
+                "action": "蹲着伸手摸女孩肩膀",
+                "expression": "眉毛舒展，眼神温和，嘴巴微张"
+            }
+        ],
+        "background": "卧室全景，有衣柜、窗帘，光线明亮",
+        "description_narrative": "全景平拍，男子蹲下身伸手轻拍女孩肩膀，温和地告诉她自己要先离开，女子在一旁静静看着。",
+        "dialogue": "叔叔有点事情先走了",
+        "speaker": "男子",
+        "emotion": "温和",
+        "duration": 1.72,
+        "description_visual": "全景平拍镜头；卧室全景，有衣柜、窗帘，光线明亮；画面左侧人物，身穿蓝色海军领连衣裙，坐在床边，抬头看男子，表情：眉毛平直，眼神注视，嘴巴微张；画面中央人物，身穿绿色开衫外套，白色连衣裙，坐在床上，看着男子，表情：眉毛微垂，眼神注视，嘴巴微抿；画面右侧人物，身穿黑色条纹西装三件套，蹲着伸手摸女孩肩膀，表情：眉毛舒展，眼神温和，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面左侧",
+                "action": "看着前方",
+                "expression": "眉毛平直，眼神注视，嘴巴微抿"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面右侧",
+                "action": "手搭在女孩肩上",
+                "expression": "眉毛微垂，眼神下移，嘴巴微抿"
+            }
+        ],
+        "background": "卧室环境，墙面浅色，光线自然",
+        "description_narrative": "中景平拍，男子画外音叮嘱女孩要照顾好妈妈，女子手搭在女孩肩上，神情温柔地看着孩子。",
+        "dialogue": "你要自己照顾好你妈妈",
+        "speaker": "男子",
+        "emotion": "叮嘱",
+        "duration": 1.82,
+        "description_visual": "中景平拍镜头；卧室环境，墙面浅色，光线自然；画面左侧人物，身穿蓝色海军领连衣裙，看着前方，表情：眉毛平直，眼神注视，嘴巴微抿；画面右侧人物，身穿绿色开衫外套，白色连衣裙，手搭在女孩肩上，表情：眉毛微垂，眼神下移，嘴巴微抿。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面左侧",
+                "action": "看着前方",
+                "expression": "眉毛平直，眼神注视，嘴巴微抿"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面前景右侧",
+                "action": "起身离开，背影模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，墙面浅色，光线自然",
+        "description_narrative": "近景平拍，男子起身离开，背影模糊地掠过镜头，小女孩朝朝静静地看着他离去的方向。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.77,
+        "description_visual": "近景平拍镜头；卧室环境，墙面浅色，光线自然；画面左侧人物，身穿蓝色海军领连衣裙，看着前方，表情：眉毛平直，眼神注视，嘴巴微抿；画面前景右侧人物，身穿黑色西装，起身离开，背影模糊，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面右侧",
+                "action": "抬头看着男子离开的方向",
+                "expression": "眉毛微扬，眼神上移，嘴巴微张"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面前景左侧",
+                "action": "背影模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室环境，墙面浅色，光线自然",
+        "description_narrative": "近景平拍，女子抬头目送男子离开，眼神中流露出一丝复杂的情绪，男子背影在前景模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.33,
+        "description_visual": "近景平拍镜头；卧室环境，墙面浅色，光线自然；画面右侧人物，身穿绿色开衫外套，白色连衣裙，抬头看着男子离开的方向，表情：眉毛微扬，眼神上移，嘴巴微张；画面前景左侧人物，身穿黑色西装，背影模糊，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套，白色连衣裙",
+                "position": "画面中央",
+                "action": "抬头看着前方",
+                "expression": "眉毛舒展，眼神上移，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，墙面浅色，光线自然",
+        "description_narrative": "特写平拍，女子独自坐在床边，抬头望着男子离开的方向，神情若有所思，长发垂在肩头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "若有所思",
+        "duration": 1.63,
+        "description_visual": "特写平拍镜头；室内背景，墙面浅色，光线自然；画面中央人物，身穿绿色开衫外套，白色连衣裙，抬头看着前方，表情：眉毛舒展，眼神上移，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面左侧",
+                "action": "抬头看着女子",
+                "expression": "眉毛微扬，眼神上移，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套",
+                "position": "画面右侧前景",
+                "action": "背对镜头，手搭在女孩肩上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，窗帘，光线柔和",
+        "description_narrative": "近景平拍，女子画外音询问女儿是否喜欢刚才的叔叔，小女孩朝朝抬头看着妈妈，眼神天真。",
+        "dialogue": "朝朝，你很喜欢这个叔叔吗",
+        "speaker": "女子",
+        "emotion": "试探",
+        "duration": 2.95,
+        "description_visual": "近景平拍镜头；室内背景，窗帘，光线柔和；画面左侧人物，身穿蓝色海军领连衣裙，抬头看着女子，表情：眉毛微扬，眼神上移，嘴巴微张；画面右侧前景人物，身穿绿色开衫外套，背对镜头，手搭在女孩肩上，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面左侧",
+                "action": "抬头看着女子，说话",
+                "expression": "眉毛舒展，眼神上移，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "绿色开衫外套",
+                "position": "画面右侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，窗帘，光线柔和",
+        "description_narrative": "近景平拍，小女孩朝朝天真地看着妈妈，提出了一个让妈妈意外的问题，眼神充满期待。",
+        "dialogue": "妈妈，这个叔叔可不可以当我爸爸",
+        "speaker": "朝朝",
+        "emotion": "期待",
+        "duration": 4.13,
+        "description_visual": "近景平拍镜头；室内背景，窗帘，光线柔和；画面左侧人物，身穿蓝色海军领连衣裙，抬头看着女子，说话，表情：眉毛舒展，眼神上移，嘴巴微张；画面右侧前景人物，身穿绿色开衫外套，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面中央",
+                "action": "抬头看着前方",
+                "expression": "眉毛舒展，眼神上移，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，窗帘，光线柔和，有光斑特效",
+        "description_narrative": "近景平拍，小女孩说完话后，眼神依然充满期待地看着妈妈，画面中出现梦幻的光斑特效。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 0.5,
+        "description_visual": "近景平拍镜头；室内背景，窗帘，光线柔和，有光斑特效；画面中央人物，身穿蓝色海军领连衣裙，抬头看着前方，表情：眉毛舒展，眼神上移，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "蓝色海军领连衣裙",
+                "position": "画面中央",
+                "action": "抬头看着前方",
+                "expression": "眉毛舒展，眼神上移，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，窗帘，光线柔和，右下角有文字特效",
+        "description_narrative": "近景平拍，画面定格在小女孩期待的眼神上，右下角出现“未完待续”的文字特效，暗示故事继续。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 1.42,
+        "description_visual": "近景平拍镜头；室内背景，窗帘，光线柔和，右下角有文字特效；画面中央人物，身穿蓝色海军领连衣裙，抬头看着前方，表情：眉毛舒展，眼神上移，嘴巴微张。"
+    }
+]

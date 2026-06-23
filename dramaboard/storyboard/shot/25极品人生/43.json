@@ -1,0 +1,780 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫，黑色西裤",
+                "position": "画面左侧",
+                "action": "站立，身体微侧向右，面对赵总",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            },
+            {
+                "name": "石瑶瑶",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "红衣男身后左侧",
+                "action": "站立，手抓红衣男手臂",
+                "expression": "眉毛下垂，眼睛看向赵总，嘴巴紧闭"
+            },
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装外套，绿色花衬衫，黄色镜片眼镜",
+                "position": "画面右侧",
+                "action": "站立，双手插兜，身体微倾",
+                "expression": "眉毛舒展，眼睛透过镜片看人，嘴角微扬"
+            }
+        ],
+        "background": "会所大堂，前景有白色花朵吊灯，背景为大理石墙面和电梯间，光线柔和偏暗",
+        "description_narrative": "全景镜头，会所大堂内，前景悬挂着白色花朵造型的吊灯。左侧红衣男和石瑶瑶站立，红衣男面向右侧的赵总，神情严肃。赵总身穿棕色西装，双手插兜，姿态傲慢地站着。",
+        "dialogue": "赵总",
+        "speaker": "红衣男",
+        "emotion": "质问",
+        "duration": 1.87,
+        "description_visual": "全景平拍镜头；会所大堂，前景有白色花朵吊灯，背景为大理石墙面和电梯间，光线柔和偏暗；画面左侧人物，身穿红色长袖衬衫，黑色西裤，站立，身体微侧向右，面对赵总，表情：眉毛微蹙，眼睛直视前方，嘴巴微张；红衣男身后左侧人物，身穿黑色抹胸上衣，站立，手抓红衣男手臂，表情：眉毛下垂，眼睛看向赵总，嘴巴紧闭；画面右侧人物，身穿棕色西装外套，绿色花衬衫，黄色镜片眼镜，站立，双手插兜，身体微倾，表情：眉毛舒展，眼睛透过镜片看人，嘴角微扬。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面中央",
+                "action": "身体正对前方，头部微转",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张说话"
+            },
+            {
+                "name": "石瑶瑶",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "右后景",
+                "action": "站在红衣男身后，手抓其手臂",
+                "expression": "眉毛微蹙，眼神担忧，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，色调灰暗",
+        "description_narrative": "近景镜头聚焦红衣男，他神情激动地质问，身后石瑶瑶紧紧抓着他的手臂，面露忧色。",
+        "dialogue": "你是怎么答应我的",
+        "speaker": "红衣男",
+        "emotion": "愤怒",
+        "duration": 1.9,
+        "description_visual": "近景平拍镜头；模糊的室内背景，色调灰暗；画面中央人物，身穿红色长袖衬衫，身体正对前方，头部微转，表情：眉毛紧锁，眼睛睁大，嘴巴微张说话；右后景人物，身穿黑色抹胸上衣，站在红衣男身后，手抓其手臂，表情：眉毛微蹙，眼神担忧，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装外套，绿色花衬衫，金项链",
+                "position": "画面中央",
+                "action": "低头，身体微晃",
+                "expression": "眉毛下压，眼睛透过黄色镜片向下看，嘴角带笑"
+            }
+        ],
+        "background": "深色背景，光线集中在人物面部",
+        "description_narrative": "特写镜头，赵总低着头，脸上带着玩味的笑容，似乎对红衣男的质问不以为然。",
+        "dialogue": "顾客就是上帝嘛",
+        "speaker": "赵总",
+        "emotion": "轻蔑",
+        "duration": 2.97,
+        "description_visual": "特写俯拍镜头；深色背景，光线集中在人物面部；画面中央人物，身穿棕色西装外套，绿色花衬衫，金项链，低头，身体微晃，表情：眉毛下压，眼睛透过黄色镜片向下看，嘴角带笑。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "石瑶瑶",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面中央",
+                "action": "躲在红衣男身后，只露出头部和肩膀",
+                "expression": "眉毛紧皱，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "模糊的红色衬衫背景（红衣男）",
+        "description_narrative": "特写镜头给到石瑶瑶，她躲在红衣男身后，神情委屈害怕，紧紧抓着红衣男的红色衬衫。",
+        "dialogue": "你说我不能",
+        "speaker": "赵总",
+        "emotion": "嘲讽",
+        "duration": 1.47,
+        "description_visual": "特写平拍镜头；模糊的红色衬衫背景（红衣男）；画面中央人物，身穿黑色抹胸上衣，躲在红衣男身后，只露出头部和肩膀，表情：眉毛紧皱，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装外套，绿色花衬衫",
+                "position": "画面中央",
+                "action": "抬起右手向前指",
+                "expression": "眉毛挑起，眼睛眯起，嘴巴张开说话"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "中近景，赵总抬起右手，手指向前方，表情傲慢地发号施令。",
+        "dialogue": "把他俩硬赶走吧",
+        "speaker": "赵总",
+        "emotion": "命令",
+        "duration": 1.27,
+        "description_visual": "中近景平拍镜头；深色背景；画面中央人物，身穿棕色西装外套，绿色花衬衫，抬起右手向前指，表情：眉毛挑起，眼睛眯起，嘴巴张开说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面中央",
+                "action": "站立，头部微转",
+                "expression": "眉毛舒展，眼神失望，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，红衣男听到命令后，眼神中流露出失望和无奈，似乎做出了决定。",
+        "dialogue": "算了",
+        "speaker": "红衣男",
+        "emotion": "无奈",
+        "duration": 2.13,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿红色长袖衬衫，站立，头部微转，表情：眉毛舒展，眼神失望，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "石瑶瑶",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面中央",
+                "action": "低头，手抓红衣男手臂",
+                "expression": "眉毛下垂，眼睛看向下方，嘴唇紧闭"
+            }
+        ],
+        "background": "红色衬衫背景",
+        "description_narrative": "特写镜头，石瑶瑶低着头，神情悲伤，紧紧抓着红衣男的手臂不放。",
+        "dialogue": "石瑶瑶",
+        "speaker": "红衣男",
+        "emotion": "温柔",
+        "duration": 1.27,
+        "description_visual": "特写平拍镜头；红色衬衫背景；画面中央人物，身穿黑色抹胸上衣，低头，手抓红衣男手臂，表情：眉毛下垂，眼睛看向下方，嘴唇紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "侧身站立，头部转向右侧",
+                "expression": "眉毛微蹙，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "深色背景，有光斑",
+        "description_narrative": "近景侧拍，红衣男转头看向石瑶瑶，轻声让她先回家。",
+        "dialogue": "你先回家",
+        "speaker": "红衣男",
+        "emotion": "关切",
+        "duration": 2.07,
+        "description_visual": "近景侧拍镜头；深色背景，有光斑；画面左侧人物，身穿红色长袖衬衫，侧身站立，头部转向右侧，表情：眉毛微蹙，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "石瑶瑶",
+                "gender": "女",
+                "clothing": "黑色抹胸上衣",
+                "position": "画面中央",
+                "action": "抬头看红衣男",
+                "expression": "眉毛微挑，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "灰色墙面背景",
+        "description_narrative": "特写镜头，石瑶瑶抬头看着红衣男，眼中满是不舍和泪水。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；灰色墙面背景；画面中央人物，身穿黑色抹胸上衣，抬头看红衣男，表情：眉毛微挑，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "侧脸，目视前方",
+                "expression": "眉毛平展，眼神坚定，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "近景侧拍，红衣男目视前方，神情变得坚定，似乎下定了决心。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "坚定",
+        "duration": 1.93,
+        "description_visual": "近景侧拍镜头；深色背景；画面左侧人物，身穿红色长袖衬衫，侧脸，目视前方，表情：眉毛平展，眼神坚定，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫，黑色西裤",
+                "position": "画面左侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "单脚踩在台阶上，身体后仰",
+                "expression": "眉毛舒展，嘴角上扬，戴着黄色眼镜"
+            }
+        ],
+        "background": "会所大堂，地面有雾气效果，背景有展示柜",
+        "description_narrative": "全景镜头，红衣男背对镜头站立，赵总单脚踩在台阶上，姿态放松且傲慢地看着红衣男。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "轻松",
+        "duration": 2.43,
+        "description_visual": "全景平拍镜头；会所大堂，地面有雾气效果，背景有展示柜；画面左侧人物，身穿红色长袖衬衫，黑色西裤，背对镜头站立，表情：不可见；画面右侧人物，身穿棕色西装，单脚踩在台阶上，身体后仰，表情：眉毛舒展，嘴角上扬，戴着黄色眼镜。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面中央",
+                "action": "正面站立，头部微转",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张说话"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，红衣男正面面对赵总，表情严肃地提出辞职。",
+        "dialogue": "既然赵总说话不算数，那我只能辞职不干了",
+        "speaker": "红衣男",
+        "emotion": "决绝",
+        "duration": 5.07,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿红色长袖衬衫，正面站立，头部微转，表情：眉毛微蹙，眼睛直视，嘴巴微张说话。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "伸出手臂，身体前倾",
+                "expression": "眉毛挑起，嘴巴张开"
+            }
+        ],
+        "background": "会所大堂，地面有雾气",
+        "description_narrative": "全景镜头，听到辞职，赵总立刻伸出手臂阻拦，身体前倾，表情惊讶。",
+        "dialogue": "哎",
+        "speaker": "赵总",
+        "emotion": "惊讶",
+        "duration": 1.4,
+        "description_visual": "全景平拍镜头；会所大堂，地面有雾气；画面左侧人物，身穿红色长袖衬衫，背对镜头，表情：不可见；画面右侧人物，身穿棕色西装，伸出手臂，身体前倾，表情：眉毛挑起，嘴巴张开。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装，绿色花衬衫",
+                "position": "画面中央",
+                "action": "面带笑容",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "特写镜头，赵总脸上露出意味深长的笑容，表示不同意红衣男辞职。",
+        "dialogue": "那可不行",
+        "speaker": "赵总",
+        "emotion": "狡黠",
+        "duration": 0.83,
+        "description_visual": "特写平拍镜头；深色背景；画面中央人物，身穿棕色西装，绿色花衬衫，面带笑容，表情：眉毛舒展，眼睛眯起，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "侧脸，目视前方",
+                "expression": "眉毛微蹙，眼神坚定，嘴巴紧闭"
+            }
+        ],
+        "background": "灰色墙面背景",
+        "description_narrative": "近景侧拍，红衣男侧脸对着镜头，神情冷峻，听着赵总的话。",
+        "dialogue": "那可不行",
+        "speaker": "赵总",
+        "emotion": "拒绝",
+        "duration": 1.07,
+        "description_visual": "近景侧拍镜头；灰色墙面背景；画面左侧人物，身穿红色长袖衬衫，侧脸，目视前方，表情：眉毛微蹙，眼神坚定，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装，绿色花衬衫",
+                "position": "画面中央",
+                "action": "面带笑容，身体微倾",
+                "expression": "眉毛挑起，眼睛透过镜片看人，嘴角上扬"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "特写镜头，赵总笑着解释为什么不能辞职，提到顾客的问题。",
+        "dialogue": "你辞职了那我顾客怎么办",
+        "speaker": "赵总",
+        "emotion": "反问",
+        "duration": 5.23,
+        "description_visual": "特写平拍镜头；深色背景；画面中央人物，身穿棕色西装，绿色花衬衫，面带笑容，身体微倾，表情：眉毛挑起，眼睛透过镜片看人，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "侧身，手部抬起",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "灰色墙面背景",
+        "description_narrative": "近景侧拍，红衣男抬起手，似乎在反驳或解释，赵总的声音继续传来。",
+        "dialogue": "那刘小姐还在里头等着呢",
+        "speaker": "赵总",
+        "emotion": "提醒",
+        "duration": 1.5,
+        "description_visual": "近景侧拍镜头；灰色墙面背景；画面左侧人物，身穿红色长袖衬衫，侧身，手部抬起，表情：眉毛微蹙，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装，绿色花衬衫",
+                "position": "画面中央",
+                "action": "手指指向前方",
+                "expression": "眉毛挑起，眼睛眯起，嘴角带笑"
+            }
+        ],
+        "background": "红色衬衫背景（红衣男）",
+        "description_narrative": "特写镜头，赵总手指前方，强调刘小姐花了大价钱，不能怠慢。",
+        "dialogue": "人家可是花了大价钱的",
+        "speaker": "赵总",
+        "emotion": "强调",
+        "duration": 1.7,
+        "description_visual": "特写平拍镜头；红色衬衫背景（红衣男）；画面中央人物，身穿棕色西装，绿色花衬衫，手指指向前方，表情：眉毛挑起，眼睛眯起，嘴角带笑。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫，黑色西裤",
+                "position": "画面右侧",
+                "action": "转身向走廊深处走去",
+                "expression": "不可见"
+            }
+        ],
+        "background": "走廊，墙面有波浪纹装饰，光线昏暗",
+        "description_narrative": "中景跟拍，红衣男转身向走廊深处走去，赵总提到刘小姐。",
+        "dialogue": "刘小姐",
+        "speaker": "赵总",
+        "emotion": "呼唤",
+        "duration": 1.73,
+        "description_visual": "中景平拍镜头（跟拍）；走廊，墙面有波浪纹装饰，光线昏暗；画面右侧人物，身穿红色长袖衬衫，黑色西裤，转身向走廊深处走去，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面中央偏左",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "站立，双手插兜",
+                "expression": "不可见"
+            },
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面左侧",
+                "action": "从走廊走出",
+                "expression": "不可见"
+            }
+        ],
+        "background": "会所大堂，地面有浓重的雾气效果，前景有花朵吊灯",
+        "description_narrative": "全景低角度镜头，地面雾气缭绕，刘小姐身穿白色连衣裙从左侧走出，走向红衣男和赵总。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.17,
+        "description_visual": "全景低角度镜头；会所大堂，地面有浓重的雾气效果，前景有花朵吊灯；画面中央偏左人物，身穿红色长袖衬衫，背对镜头站立，表情：不可见；画面右侧人物，身穿棕色西装，站立，双手插兜，表情：不可见；画面左侧人物，身穿白色连衣裙，从走廊走出，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面中央",
+                "action": "肩部被手搭住",
+                "expression": "眉毛微蹙，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "近景镜头，一只手搭在红衣男的肩膀上，他转头看向来人，神情复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 0.9,
+        "description_visual": "近景平拍镜头；深色背景；画面中央人物，身穿红色长袖衬衫，肩部被手搭住，表情：眉毛微蹙，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面右侧",
+                "action": "面对红衣男",
+                "expression": "不可见"
+            }
+        ],
+        "background": "前台区域，背景模糊",
+        "description_narrative": "过肩镜头，刘小姐走到红衣男面前，两人近距离相对。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.53,
+        "description_visual": "中近景过肩镜头；前台区域，背景模糊；画面左侧人物，身穿红色长袖衬衫，背对镜头，表情：不可见；画面右侧人物，身穿白色连衣裙，面对红衣男，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "被刘小姐手搭肩",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴紧闭"
+            },
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面右侧",
+                "action": "手搭红衣男肩膀，手提棕色包",
+                "expression": "眉毛舒展，眼睛注视红衣男，嘴巴微张"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "近景镜头，刘小姐手搭在红衣男肩膀上，娇嗔地说等他好久了。",
+        "dialogue": "人家等你好久了",
+        "speaker": "刘小姐",
+        "emotion": "娇嗔",
+        "duration": 2.53,
+        "description_visual": "近景平拍镜头；深色背景；画面左侧人物，身穿红色长袖衬衫，被刘小姐手搭肩，表情：眉毛微蹙，眼睛看向前方，嘴巴紧闭；画面右侧人物，身穿白色连衣裙，手搭红衣男肩膀，手提棕色包，表情：眉毛舒展，眼睛注视红衣男，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "白色收腰连衣裙",
+                "position": "画面中央",
+                "action": "面对红衣男，手提棕色包",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张说话"
+            }
+        ],
+        "background": "前台区域，背景有红色装饰物",
+        "description_narrative": "过肩镜头，刘小姐面对红衣男，表情强势地要求今天换人。",
+        "dialogue": "你今天换人吧",
+        "speaker": "刘小姐",
+        "emotion": "强势",
+        "duration": 3.93,
+        "description_visual": "中近景过肩镜头；前台区域，背景有红色装饰物；画面左侧人物，身穿红色长袖衬衫，背对镜头，表情：不可见；画面中央人物，身穿白色收腰连衣裙，面对红衣男，手提棕色包，表情：眉毛微挑，眼睛直视，嘴巴微张说话。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装，绿色花衬衫",
+                "position": "画面中央",
+                "action": "侧头看人",
+                "expression": "眉毛平展，眼睛透过镜片看人，嘴巴紧闭"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "特写镜头，赵总在一旁看着，刘小姐的声音传来，表示只想要红衣男。",
+        "dialogue": "我只想要你",
+        "speaker": "刘小姐",
+        "emotion": "执着",
+        "duration": 3.07,
+        "description_visual": "特写平拍镜头；深色背景；画面中央人物，身穿棕色西装，绿色花衬衫，侧头看人，表情：眉毛平展，眼睛透过镜片看人，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "侧身站立",
+                "expression": "眉毛微蹙，眼睛看向前方"
+            },
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面中央",
+                "action": "手搭红衣男手臂",
+                "expression": "眉毛平展，眼睛看赵总"
+            },
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "面对两人",
+                "expression": "不可见"
+            }
+        ],
+        "background": "会所大堂，墙面为大理石纹理",
+        "description_narrative": "中景镜头，三人对峙，赵总让刘小姐劝劝红衣男，刘小姐表示不管他们的事。",
+        "dialogue": "这小子要辞职你得劝劝他",
+        "speaker": "赵总",
+        "emotion": "推卸",
+        "duration": 3.17,
+        "description_visual": "中景平拍镜头；会所大堂，墙面为大理石纹理；画面左侧人物，身穿红色长袖衬衫，侧身站立，表情：眉毛微蹙，眼睛看向前方；画面中央人物，身穿白色连衣裙，手搭红衣男手臂，表情：眉毛平展，眼睛看赵总；画面右侧人物，身穿棕色西装，面对两人，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫",
+                "position": "画面左侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "白色连衣裙",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸",
+                "expression": "眉毛微挑，眼睛看赵总"
+            },
+            {
+                "name": "赵总",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "会所大堂，地面有雾气，前景有花朵装饰",
+        "description_narrative": "全景低角度镜头，地面雾气弥漫，刘小姐抱胸站立，表示不管他们的事，但今天不能让她等。",
+        "dialogue": "你们的事我管不着",
+        "speaker": "刘小姐",
+        "emotion": "冷漠",
+        "duration": 1.97,
+        "description_visual": "全景低角度镜头；会所大堂，地面有雾气，前景有花朵装饰；画面左侧人物，身穿红色长袖衬衫，背对镜头，表情：不可见；画面中央人物，身穿白色连衣裙，双臂交叉抱胸，表情：眉毛微挑，眼睛看赵总；画面右侧人物，身穿棕色西装，站立，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "红衣男",
+                "gender": "男",
+                "clothing": "红色长袖衬衫，黑色西裤",
+                "position": "画面左侧",
+                "action": "手臂被抓住",
+                "expression": "不可见"
+            },
+            {
+                "name": "刘小姐",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面右侧",
+                "action": "手抓红衣男手臂",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的深色背景",
+        "description_narrative": "特写镜头，刘小姐的手紧紧抓住红衣男的手臂，强调今天不能让她等待。",
+        "dialogue": "但是今天不能让我等",
+        "speaker": "刘小姐",
+        "emotion": "命令",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；模糊的深色背景；画面左侧人物，身穿红色长袖衬衫，黑色西裤，手臂被抓住，表情：不可见；画面右侧人物，身穿不可见，手抓红衣男手臂，表情：不可见。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "画面渐白，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.03,
+        "description_visual": "远景平拍镜头；白色屏幕。"
+    }
+]

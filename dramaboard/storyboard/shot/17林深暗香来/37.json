@@ -1,0 +1,732 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小赵",
+                "gender": "男",
+                "clothing": "白色细条纹西装，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，身体微前倾，眼神疑惑地看向前方",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣，牛仔裤",
+                "position": "画面右侧背景",
+                "action": "站立，低头",
+                "expression": "眉毛低垂，眼睛视线下移，嘴巴紧闭"
+            },
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右前景",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧背景",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "明亮的办公室前台区域，白色调，有绿植点缀",
+        "description_narrative": "中景固定镜头，办公室前台。小赵身穿白色条纹西装站在中央，神情焦急疑惑地看向前方，似乎在质问。林语墨站在他身后右侧，低头显得委屈。孙经理背对镜头站在右侧。",
+        "dialogue": "辞退什么情况？",
+        "speaker": "小赵",
+        "emotion": "焦急/疑惑",
+        "duration": 2.32,
+        "description_visual": "中景平拍镜头；明亮的办公室前台区域，白色调，有绿植点缀；画面中央人物，身穿白色细条纹西装，黑色高领衫，站立，身体微前倾，眼神疑惑地看向前方，表情：眉毛微蹙，眼睛睁大，嘴巴微张；画面右侧背景人物，身穿浅蓝色毛衣，牛仔裤，站立，低头，表情：眉毛低垂，眼睛视线下移，嘴巴紧闭；画面右前景人物，身穿黑色西装，背对镜头站立，表情：不可见；画面左侧背景人物，身穿黑色西装，站立，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣，肩背帆布包",
+                "position": "画面中央",
+                "action": "站立，手抓着包带",
+                "expression": "眉毛舒展但眼神黯淡，眼睛直视前方略带空洞，嘴巴微张"
+            }
+        ],
+        "background": "模糊的办公室背景，浅色调",
+        "description_narrative": "特写固定镜头，林语墨面部。她眼神中流露出失望和恍然大悟的神情，嘴唇微动，似乎在心里默念或轻声说出真相。",
+        "dialogue": "原来秦总所谓调岗就是辞退。",
+        "speaker": "林语墨",
+        "emotion": "失望/委屈",
+        "duration": 3.12,
+        "description_visual": "特写平拍镜头；模糊的办公室背景，浅色调；画面中央人物，身穿浅蓝色毛衣，肩背帆布包，站立，手抓着包带，表情：眉毛舒展但眼神黯淡，眼睛直视前方略带空洞，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小赵",
+                "gender": "男",
+                "clothing": "白色细条纹西装，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，转头看向右侧",
+                "expression": "眉毛微挑，眼睛注视右侧，嘴巴微张"
+            }
+        ],
+        "background": "模糊的办公室背景，有绿植",
+        "description_narrative": "近景固定镜头，小赵。他转头看向右侧的孙经理，神情严肃，似乎在确认或称呼对方。",
+        "dialogue": "孙经理。",
+        "speaker": "小赵",
+        "emotion": "严肃/质问",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；模糊的办公室背景，有绿植；画面中央人物，身穿白色细条纹西装，黑色高领衫，站立，转头看向右侧，表情：眉毛微挑，眼睛注视右侧，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装，紫色条纹领带",
+                "position": "画面中央",
+                "action": "站立，双手背在身后，头微侧",
+                "expression": "眉毛平展，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室环境，有电脑屏幕前景",
+        "description_narrative": "中近景固定镜头，孙经理。他双手背在身后，表情傲慢冷漠，听着小赵的质问。",
+        "dialogue": "怎么好端端的突然辞退语墨",
+        "speaker": "小赵",
+        "emotion": "冷漠/傲慢",
+        "duration": 1.36,
+        "description_visual": "中近景平拍镜头；办公室环境，有电脑屏幕前景；画面中央人物，身穿黑色西装，紫色条纹领带，站立，双手背在身后，头微侧，表情：眉毛平展，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣，牛仔裤",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛低垂，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "中近景固定镜头，林语墨。她低着头，神情落寞，听着小赵为自己辩解。",
+        "dialogue": "她都已经转正了。",
+        "speaker": "小赵",
+        "emotion": "落寞/委屈",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；模糊的办公室背景；画面中央人物，身穿浅蓝色毛衣，牛仔裤，站立，低头，表情：眉毛低垂，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装，紫色条纹领带",
+                "position": "画面中央",
+                "action": "站立，闭眼摇头",
+                "expression": "眉毛皱起，眼睛闭合，嘴巴微张说话"
+            }
+        ],
+        "background": "办公室环境，有电脑屏幕前景",
+        "description_narrative": "中近景固定镜头，孙经理。他闭上眼睛摇了摇头，脸上带着不屑的神情，开始给出辞退的理由。",
+        "dialogue": "当然是她私生活不检点",
+        "speaker": "孙经理",
+        "emotion": "不屑/轻蔑",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；办公室环境，有电脑屏幕前景；画面中央人物，身穿黑色西装，紫色条纹领带，站立，闭眼摇头，表情：眉毛皱起，眼睛闭合，嘴巴微张说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣",
+                "position": "画面中央",
+                "action": "身体晃动，模糊",
+                "expression": "表情模糊，看似震惊"
+            }
+        ],
+        "background": "模糊的背景",
+        "description_narrative": "特写摇镜，画面模糊，表现林语墨听到污蔑后的震惊和眩晕感。",
+        "dialogue": "招惹了不该招惹的人。",
+        "speaker": "孙经理",
+        "emotion": "震惊/眩晕",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的背景；画面中央人物，身穿浅蓝色毛衣，身体晃动，模糊，表情：表情模糊，看似震惊。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小赵",
+                "gender": "男",
+                "clothing": "白色细条纹西装",
+                "position": "画面左侧",
+                "action": "站立，看向孙经理",
+                "expression": "眉毛紧锁，眼睛怒视，嘴巴微张"
+            },
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室前台",
+        "description_narrative": "中景固定镜头，小赵站在前台旁，愤怒地看着孙经理，对污蔑表示不满。",
+        "dialogue": "招惹了不该招惹的人",
+        "speaker": "孙经理",
+        "emotion": "愤怒",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；办公室前台；画面左侧人物，身穿白色细条纹西装，站立，看向孙经理，表情：眉毛紧锁，眼睛怒视，嘴巴微张；画面右前景人物，身穿黑色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装，紫色条纹领带",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室环境",
+        "description_narrative": "中近景固定镜头，孙经理。他面无表情地看着小赵，似乎在警告对方不要多事。",
+        "dialogue": "你少在阴阳怪气，我告诉你。",
+        "speaker": "小赵",
+        "emotion": "警告/严肃",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；办公室环境；画面中央人物，身穿黑色西装，紫色条纹领带，站立，表情严肃，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣",
+                "position": "画面中央",
+                "action": "站立，手抓包带",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "特写固定镜头，林语墨。她眼神坚定又带着一丝无助，听着小赵为自己辩护。",
+        "dialogue": "林语墨是我们项目组的人。",
+        "speaker": "小赵",
+        "emotion": "坚定/无助",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；模糊的办公室背景；画面中央人物，身穿浅蓝色毛衣，站立，手抓包带，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "特写固定镜头，林语墨。她看着前方，似乎在期待结果。",
+        "dialogue": "赶紧放她进去",
+        "speaker": "小赵",
+        "emotion": "期待",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；模糊的办公室背景；画面中央人物，身穿浅蓝色毛衣，站立，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装，紫色条纹领带",
+                "position": "画面中央",
+                "action": "站立，说话",
+                "expression": "眉毛微挑，眼睛看向上方，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境",
+        "description_narrative": "中近景固定镜头，孙经理。他抬头说话，语气不耐烦。",
+        "dialogue": "赶紧放她进去，我们的设计还赶进度。",
+        "speaker": "小赵",
+        "emotion": "不耐烦",
+        "duration": 1.76,
+        "description_visual": "中近景平拍镜头；办公室环境；画面中央人物，身穿黑色西装，紫色条纹领带，站立，说话，表情：眉毛微挑，眼睛看向上方，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣",
+                "position": "画面中央",
+                "action": "身体晃动，模糊",
+                "expression": "表情模糊"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，画面模糊，表现林语墨的动荡心境。",
+        "dialogue": "小赵",
+        "speaker": "孙经理",
+        "emotion": "动荡",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿浅蓝色毛衣，身体晃动，模糊，表情：表情模糊。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小赵",
+                "gender": "男",
+                "clothing": "白色细条纹西装",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "近景固定镜头，小赵。他面无表情地看着前方，似乎在思考对策。",
+        "dialogue": "小赵，辞退她。",
+        "speaker": "孙经理",
+        "emotion": "严肃/思考",
+        "duration": 2.76,
+        "description_visual": "近景平拍镜头；模糊的办公室背景；画面中央人物，身穿白色细条纹西装，站立，表情严肃，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装，紫色领带",
+                "position": "画面中央",
+                "action": "站立，身体晃动，模糊",
+                "expression": "表情模糊"
+            }
+        ],
+        "background": "办公室环境",
+        "description_narrative": "中近景固定镜头，孙经理。画面模糊，表现冲突的激烈或视角的转换。",
+        "dialogue": "辞退她可是秦总的意思",
+        "speaker": "孙经理",
+        "emotion": "强硬",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；办公室环境；画面中央人物，身穿黑色西装，紫色领带，站立，身体晃动，模糊，表情：表情模糊。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小赵",
+                "gender": "男",
+                "clothing": "白色细条纹西装",
+                "position": "画面中央",
+                "action": "拿着手机放在耳边",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "近景固定镜头，小赵。他拿起手机准备打电话核实，神情专注。",
+        "dialogue": "哎我都说了是秦总的意思",
+        "speaker": "孙经理",
+        "emotion": "专注",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；模糊的办公室背景；画面中央人物，身穿白色细条纹西装，拿着手机放在耳边，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装，紫色条纹领带",
+                "position": "画面中央",
+                "action": "站立，说话",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境",
+        "description_narrative": "中近景固定镜头，孙经理。他看着小赵打电话，语气中带着不耐烦和嘲讽。",
+        "dialogue": "你非要打什么电话啊",
+        "speaker": "孙经理",
+        "emotion": "不耐烦/嘲讽",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；办公室环境；画面中央人物，身穿黑色西装，紫色条纹领带，站立，说话，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "女",
+                "clothing": "白色毛绒外套",
+                "position": "画面右前景",
+                "action": "背对镜头，看向楼梯",
+                "expression": "不可见"
+            },
+            {
+                "name": "牧川",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面左后景楼梯上",
+                "action": "站在楼梯上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "豪华的楼梯间，大理石台阶，玻璃扶手，现代吊灯",
+        "description_narrative": "全景固定镜头，豪华楼梯间。秦总背对镜头站在楼下，抬头看向楼梯上的牧川。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "静谧/奢华",
+        "duration": 6.84,
+        "description_visual": "全景仰拍镜头；豪华的楼梯间，大理石台阶，玻璃扶手，现代吊灯；画面右前景人物，身穿白色毛绒外套，背对镜头，看向楼梯，表情：不可见；画面左后景楼梯上人物，身穿黑色双排扣西装，站在楼梯上，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "牧川",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面左侧",
+                "action": "走下楼梯",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华楼梯间，大理石台阶，玻璃扶手",
+        "description_narrative": "全景跟拍镜头，牧川。他身穿黑色西装，步伐沉稳地走下大理石楼梯。",
+        "dialogue": "牧川",
+        "speaker": "秦总",
+        "emotion": "沉稳",
+        "duration": 2.32,
+        "description_visual": "全景平拍镜头（跟拍）；豪华楼梯间，大理石台阶，玻璃扶手；画面左侧人物，身穿黑色双排扣西装，走下楼梯，表情：眉毛平展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "女",
+                "clothing": "白色毛绒外套，白色连衣裙",
+                "position": "画面中央",
+                "action": "站立，手扶腹部",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "豪华室内，墙面有装饰画",
+        "description_narrative": "中近景固定镜头，秦总。她手扶腹部，表情痛苦，似乎在假装不舒服。",
+        "dialogue": "牧川",
+        "speaker": "秦总",
+        "emotion": "痛苦/柔弱",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；豪华室内，墙面有装饰画；画面中央人物，身穿白色毛绒外套，白色连衣裙，站立，手扶腹部，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "牧川",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，看向秦总",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的楼梯背景",
+        "description_narrative": "近景固定镜头，牧川。他停下脚步，关切地看着秦总。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "关切",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；模糊的楼梯背景；画面中央人物，身穿黑色双排扣西装，站立，看向秦总，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦总",
+                "gender": "女",
+                "clothing": "白色毛绒外套",
+                "position": "画面中央",
+                "action": "低头，手扶腹部",
+                "expression": "眉毛紧锁，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，秦总。她低着头，表情痛苦地诉说不适。",
+        "dialogue": "我身体不太舒服",
+        "speaker": "秦总",
+        "emotion": "痛苦",
+        "duration": 3.52,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色毛绒外套，低头，手扶腹部，表情：眉毛紧锁，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "牧川",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，微微点头",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微动"
+            }
+        ],
+        "background": "模糊的楼梯背景",
+        "description_narrative": "近景固定镜头，牧川。他听着秦总的请求，微微点头答应。",
+        "dialogue": "嗯。",
+        "speaker": "牧川",
+        "emotion": "答应/关切",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；模糊的楼梯背景；画面中央人物，身穿黑色双排扣西装，站立，微微点头，表情：眉毛舒展，眼睛注视，嘴巴微动。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小赵",
+                "gender": "男",
+                "clothing": "白色细条纹西装",
+                "position": "画面中央",
+                "action": "拿着手机贴在耳边",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "近景固定镜头，小赵。他拿着手机贴在耳边，发现电话无人接听，神情疑惑。",
+        "dialogue": "不接电话呀。",
+        "speaker": "小赵",
+        "emotion": "疑惑",
+        "duration": 3.28,
+        "description_visual": "近景平拍镜头；模糊的办公室背景；画面中央人物，身穿白色细条纹西装，拿着手机贴在耳边，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣",
+                "position": "画面中央",
+                "action": "站立，闭眼",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "中近景固定镜头，林语墨。她闭上眼睛，似乎在忍受屈辱或等待结果。",
+        "dialogue": "你看",
+        "speaker": "孙经理",
+        "emotion": "忍受",
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；模糊的办公室背景；画面中央人物，身穿浅蓝色毛衣，站立，闭眼，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装，紫色条纹领带",
+                "position": "画面中央",
+                "action": "站立，手指指向左侧",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张说话"
+            }
+        ],
+        "background": "办公室环境",
+        "description_narrative": "中近景固定镜头，孙经理。他伸手指着前方，脸上带着得意的嘲讽神情。",
+        "dialogue": "你看 秦总都不愿搭理你",
+        "speaker": "孙经理",
+        "emotion": "得意/嘲讽",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；办公室环境；画面中央人物，身穿黑色西装，紫色条纹领带，站立，手指指向左侧，表情：眉毛上扬，眼睛睁大，嘴巴微张说话。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小赵",
+                "gender": "男",
+                "clothing": "白色细条纹西装",
+                "position": "画面中央",
+                "action": "站立，嘴角微动",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "近景固定镜头，小赵。他听着孙经理的嘲讽，表情复杂，似乎在强忍怒火。",
+        "dialogue": "秦总都不愿搭理你。",
+        "speaker": "孙经理",
+        "emotion": "隐忍",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；模糊的办公室背景；画面中央人物，身穿白色细条纹西装，站立，嘴角微动，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛低垂，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的办公室背景",
+        "description_narrative": "中近景固定镜头，林语墨。她低着头，神情悲伤，听着孙经理的羞辱。",
+        "dialogue": "林语墨 我劝你要点脸",
+        "speaker": "孙经理",
+        "emotion": "悲伤/屈辱",
+        "duration": 2.64,
+        "description_visual": "中近景平拍镜头；模糊的办公室背景；画面中央人物，身穿浅蓝色毛衣，站立，低头，表情：眉毛低垂，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "孙经理",
+                "gender": "男",
+                "clothing": "黑色西装，紫色条纹领带",
+                "position": "画面中央",
+                "action": "站立，说话",
+                "expression": "眉毛平展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "办公室环境",
+        "description_narrative": "中近景固定镜头，孙经理。他继续恶语相向，羞辱林语墨。",
+        "dialogue": "秦总",
+        "speaker": "孙经理",
+        "emotion": "恶毒",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；办公室环境；画面中央人物，身穿黑色西装，紫色条纹领带，站立，说话，表情：眉毛平展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林语墨",
+                "gender": "女",
+                "clothing": "浅蓝色毛衣",
+                "position": "画面中央",
+                "action": "画面过曝，模糊",
+                "expression": "表情不可见"
+            }
+        ],
+        "background": "过曝的白色背景",
+        "description_narrative": "特写固定镜头，画面过曝变白，表现林语墨受到巨大打击后的眩晕或意识模糊。",
+        "dialogue": "不是你这种人可以勾引的。",
+        "speaker": "孙经理",
+        "emotion": "眩晕/打击",
+        "duration": 2.36,
+        "description_visual": "特写平拍镜头；过曝的白色背景；画面中央人物，身穿浅蓝色毛衣，画面过曝，模糊，表情：表情不可见。"
+    }
+]

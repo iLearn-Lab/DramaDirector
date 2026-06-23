@@ -1,0 +1,436 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景，中央显示白色文字。",
+        "description_narrative": "黑色背景中央显示白色文字“第六十八集”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.7,
+        "description_visual": "特写平拍镜头；黑色背景，中央显示白色文字。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "制服女孩",
+                "gender": "女",
+                "clothing": "深蓝色背心校服，彩色丝巾",
+                "position": "中央",
+                "action": "双手拿着白色蕾丝织物低头查看",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "昏暗的户外环境，光线较暗，隐约可见绿色植被。",
+        "description_narrative": "昏暗光线下，制服女孩身穿深蓝色背心校服，佩戴彩色丝巾，双手拿着白色蕾丝织物低头仔细查看，神情质疑。",
+        "dialogue": "这弹弓看起来不太结实，能打下来鸟吗？",
+        "speaker": "制服女孩",
+        "emotion": "质疑",
+        "duration": 4.7,
+        "description_visual": "中近景平拍镜头；昏暗的户外环境，光线较暗，隐约可见绿色植被。；中央人物，身穿深蓝色背心校服，彩色丝巾，双手拿着白色蕾丝织物低头查看，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "制服女孩",
+                "gender": "女",
+                "clothing": "深蓝色背心校服",
+                "position": "左侧",
+                "action": "手持白色织物",
+                "expression": "看着织物"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色开衫，黑色背心",
+                "position": "右侧",
+                "action": "低头看织物",
+                "expression": "专注"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色蕾丝连衣裙",
+                "position": "右后",
+                "action": "站立观看",
+                "expression": "平静"
+            },
+            {
+                "name": "白衬衫女孩",
+                "gender": "女",
+                "clothing": "白色衬衫，灰色百褶裙",
+                "position": "左前",
+                "action": "侧身说话，手势比划",
+                "expression": "惊讶后转为歉意"
+            }
+        ],
+        "background": "户外沙地，背景有绿色植被。",
+        "description_narrative": "户外沙地上，四人围站。白衬衫女孩侧身对着曼凝说话，双手在胸前比划，表情从惊讶转为歉意。制服女孩和男子低头看着手中的白色织物。",
+        "dialogue": "搭配丝袜这样正好。原来你让我脱丝袜是这个意思啊？我错怪你了呀，曼凝。",
+        "speaker": "白衬衫女孩",
+        "emotion": "歉意",
+        "duration": 7.87,
+        "description_visual": "中景平拍镜头；户外沙地，背景有绿色植被。；左侧人物，身穿深蓝色背心校服，手持白色织物，表情：看着织物；右侧人物，身穿白色开衫，黑色背心，低头看织物，表情：专注；右后人物，身穿黑色蕾丝连衣裙，站立观看，表情：平静；左前人物，身穿白色衬衫，灰色百褶裙，侧身说话，手势比划，表情：惊讶后转为歉意。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衬衫女孩",
+                "gender": "女",
+                "clothing": "白色衬衫，灰色百褶裙",
+                "position": "中央",
+                "action": "转身，手指指向某处",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张说话"
+            }
+        ],
+        "background": "户外沙地，远处有山和树。",
+        "description_narrative": "白衬衫女孩身穿白色衬衫，袖口有污渍，扎着双马尾，转身指向地面方向，神情兴奋地提议。",
+        "dialogue": "哎对了，正好我捡的树枝里面有一个丫形树枝，刚好可以用来做弹弓。",
+        "speaker": "白衬衫女孩",
+        "emotion": "兴奋",
+        "duration": 5.03,
+        "description_visual": "近景平拍镜头（跟拍）；户外沙地，远处有山和树。；中央人物，身穿白色衬衫，灰色百褶裙，转身，手指指向某处，表情：眉毛舒展，眼睛看向侧方，嘴巴微张说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衬衫女孩",
+                "gender": "女",
+                "clothing": "白色衬衫，灰色百褶裙",
+                "position": "中央",
+                "action": "低头弯腰，手部动作像是在捡东西或展示",
+                "expression": "嘴角上扬，眼神向下"
+            }
+        ],
+        "background": "户外沙地。",
+        "description_narrative": "白衬衫女孩低头弯腰，似乎在确认或拿取地上的物品，脸上带着肯定的神情。",
+        "dialogue": "是。",
+        "speaker": "白衬衫女孩",
+        "emotion": "肯定",
+        "duration": 0.57,
+        "description_visual": "中近景平拍镜头（跟拍）；户外沙地。；中央人物，身穿白色衬衫，灰色百褶裙，低头弯腰，手部动作像是在捡东西或展示，表情：嘴角上扬，眼神向下。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "沙地地面。",
+        "description_narrative": "沙地上躺着一根天然的丫形树枝，旁边有一块小石头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.83,
+        "description_visual": "特写俯拍镜头；沙地地面。。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "制服女孩",
+                "gender": "女",
+                "clothing": "深蓝色背心校服",
+                "position": "背景",
+                "action": "看着前景递过来的树枝",
+                "expression": "眼神专注，嘴巴微闭"
+            }
+        ],
+        "background": "户外绿色植被背景。",
+        "description_narrative": "前景一只手拿着丫形树枝递出（模糊），背景中制服女孩注视着树枝，准备接过。",
+        "dialogue": "给。",
+        "speaker": "白衬衫女孩",
+        "emotion": "递送",
+        "duration": 0.9,
+        "description_visual": "近景过肩镜头；户外绿色植被背景。；背景人物，身穿深蓝色背心校服，看着前景递过来的树枝，表情：眼神专注，嘴巴微闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色开衫，黑色背心",
+                "position": "右侧",
+                "action": "低头专注地用白色织物捆绑树枝",
+                "expression": "眉头微蹙，眼神专注向下"
+            },
+            {
+                "name": "制服女孩",
+                "gender": "女",
+                "clothing": "深蓝色背心校服",
+                "position": "左侧边缘",
+                "action": "侧脸观看",
+                "expression": "关注"
+            }
+        ],
+        "background": "户外明亮天空背景。",
+        "description_narrative": "男子低头专注地用白色蕾丝织物捆绑树枝制作弹弓，制服女孩在旁侧脸观看。",
+        "dialogue": "嗯。",
+        "speaker": "男子",
+        "emotion": "专注",
+        "duration": 1.97,
+        "description_visual": "近景平拍镜头；户外明亮天空背景。；右侧人物，身穿白色开衫，黑色背心，低头专注地用白色织物捆绑树枝，表情：眉头微蹙，眼神专注向下；左侧边缘人物，身穿深蓝色背心校服，侧脸观看，表情：关注。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色开衫",
+                "position": "左侧",
+                "action": "双手操作捆绑",
+                "expression": "专注"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色蕾丝连衣裙",
+                "position": "右侧",
+                "action": "微笑观看",
+                "expression": "嘴角上扬，眼神柔和"
+            }
+        ],
+        "background": "户外天空背景。",
+        "description_narrative": "男子双手正在将白色织物系在树枝上，曼凝站在一旁微笑着注视他的动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.13,
+        "description_visual": "中近景平拍镜头；户外天空背景。；左侧人物，身穿白色开衫，双手操作捆绑，表情：专注；右侧人物，身穿黑色蕾丝连衣裙，微笑观看，表情：嘴角上扬，眼神柔和。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫女孩",
+                "gender": "女",
+                "clothing": "白色衬衫，灰色百褶裙",
+                "position": "中央",
+                "action": "双手抓着自己的双马尾发梢，身体微晃",
+                "expression": "笑容灿烂，眼睛弯弯"
+            }
+        ],
+        "background": "户外沙地，植被。",
+        "description_narrative": "白衬衫女孩双手抓着自己的双马尾发梢，身体轻松微晃，脸上带着开心的笑容。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.63,
+        "description_visual": "中景平拍镜头；户外沙地，植被。；中央人物，身穿白色衬衫，灰色百褶裙，双手抓着自己的双马尾发梢，身体微晃，表情：笑容灿烂，眼睛弯弯。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色蕾丝连衣裙",
+                "position": "左侧",
+                "action": "手持制作中的弹弓",
+                "expression": "微笑"
+            },
+            {
+                "name": "白衬衫女孩",
+                "gender": "女",
+                "clothing": "白色衬衫，灰色百褶裙",
+                "position": "右侧",
+                "action": "身体前倾，双手交握",
+                "expression": "大笑，看着弹弓"
+            }
+        ],
+        "background": "户外沙地。",
+        "description_narrative": "曼凝手中拿着半成品的弹弓，白衬衫女孩站在旁边身体前倾，看着弹弓开心地大笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.47,
+        "description_visual": "中景平拍镜头；户外沙地。；左侧人物，身穿黑色蕾丝连衣裙，手持制作中的弹弓，表情：微笑；右侧人物，身穿白色衬衫，灰色百褶裙，身体前倾，双手交握，表情：大笑，看着弹弓。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色蕾丝连衣裙",
+                "position": "中央",
+                "action": "手持弹弓，手臂被白衬衫女孩轻触",
+                "expression": "微笑"
+            },
+            {
+                "name": "白衬衫女孩",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "右侧",
+                "action": "伸手轻触曼凝手臂/弹弓",
+                "expression": "赞叹的表情"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色开衫",
+                "position": "左侧",
+                "action": "手部协助固定",
+                "expression": "专注"
+            }
+        ],
+        "background": "户外。",
+        "description_narrative": "曼凝拿着弹弓，白衬衫女孩伸手轻触她的手臂表示赞叹，男子的手在左侧协助调整。",
+        "dialogue": "你也太厉害了吧。",
+        "speaker": "白衬衫女孩",
+        "emotion": "赞叹",
+        "duration": 2.07,
+        "description_visual": "中近景平拍镜头；户外。；中央人物，身穿黑色蕾丝连衣裙，手持弹弓，手臂被白衬衫女孩轻触，表情：微笑；右侧人物，身穿白色衬衫，伸手轻触曼凝手臂/弹弓，表情：赞叹的表情；左侧人物，身穿白色开衫，手部协助固定，表情：专注。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "制服女孩",
+                "gender": "女",
+                "clothing": "深蓝色背心校服",
+                "position": "中央",
+                "action": "低头看着手中的弹弓",
+                "expression": "神情专注，嘴唇微抿"
+            }
+        ],
+        "background": "户外绿色背景。",
+        "description_narrative": "制服女孩低头注视着正在制作中的弹弓，神情专注等待完成。",
+        "dialogue": "马上就好了。",
+        "speaker": "男子",
+        "emotion": "专注",
+        "duration": 0.93,
+        "description_visual": "近景平拍镜头；户外绿色背景。；中央人物，身穿深蓝色背心校服，低头看着手中的弹弓，表情：神情专注，嘴唇微抿。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "制服女孩",
+                "gender": "女",
+                "clothing": "深蓝色背心校服",
+                "position": "左侧",
+                "action": "手拉丝袜皮筋",
+                "expression": "期待"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色开衫，黑色短裤",
+                "position": "左中",
+                "action": "手持树枝主体，展示成品",
+                "expression": "满意"
+            },
+            {
+                "name": "曼凝",
+                "gender": "女",
+                "clothing": "黑色蕾丝连衣裙",
+                "position": "右中",
+                "action": "双手交叠观看",
+                "expression": "微笑"
+            },
+            {
+                "name": "白衬衫女孩",
+                "gender": "女",
+                "clothing": "白色衬衫，灰色百褶裙",
+                "position": "右侧",
+                "action": "侧身观看",
+                "expression": "开心"
+            }
+        ],
+        "background": "户外沙地，天空。",
+        "description_narrative": "四人围在一起，男子手持做好的弹弓，制服女孩拉着皮筋测试，众人脸上都露出完成作品的满意神情。",
+        "dialogue": "终于快好了。",
+        "speaker": "男子",
+        "emotion": "满意",
+        "duration": 5.23,
+        "description_visual": "全景平拍镜头；户外沙地，天空。；左侧人物，身穿深蓝色背心校服，手拉丝袜皮筋，表情：期待；左中人物，身穿白色开衫，黑色短裤，手持树枝主体，展示成品，表情：满意；右中人物，身穿黑色蕾丝连衣裙，双手交叠观看，表情：微笑；右侧人物，身穿白色衬衫，灰色百褶裙，侧身观看，表情：开心。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "跟拍",
+        "subjects": [],
+        "background": "蓝天，一只鸟在飞翔。",
+        "description_narrative": "湛蓝的天空中，一只鸟正在展翅飞翔。",
+        "dialogue": "完成了。",
+        "speaker": "未知",
+        "emotion": "完成",
+        "duration": 6.37,
+        "description_visual": "远景仰拍镜头（跟拍）；蓝天，一只鸟在飞翔。。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "海边岩石，海浪拍打。",
+        "description_narrative": "海浪拍打着海中的黑色岩石，激起白色浪花。",
+        "dialogue": "完成了耶。",
+        "speaker": "未知",
+        "emotion": "兴奋",
+        "duration": 4.3,
+        "description_visual": "远景平拍镜头；海边岩石，海浪拍打。。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "海边岩石，海浪。",
+        "description_narrative": "海浪继续涌向岸边的岩石，水面泛起白色泡沫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 8.37,
+        "description_visual": "远景平拍镜头；海边岩石，海浪。。"
+    }
+]

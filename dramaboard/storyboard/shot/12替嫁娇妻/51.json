@@ -1,0 +1,778 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "浅蓝色刺绣古装",
+                "position": "画面左侧",
+                "action": "从身后环抱女子",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面右侧",
+                "action": "被男子环抱，头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木质屏风背景，光线柔和，色调偏暗",
+        "description_narrative": "中景固定镜头，一名身穿浅蓝色古装的男子从身后环抱白衣女子，女子低头神情略显忧郁，背景为深色雕花屏风。",
+        "dialogue": "嗯",
+        "speaker": "白衣女子",
+        "emotion": "忧郁",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色木质屏风背景，光线柔和，色调偏暗；画面左侧人物，身穿浅蓝色刺绣古装，从身后环抱女子，表情：眉毛舒展，眼睛微闭，嘴巴紧闭；画面右侧人物，身穿白色刺绣古装，被男子环抱，头部微低，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向右前方",
+                "expression": "眉毛舒展，眼睛明亮，嘴角微扬"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮",
+        "description_narrative": "特写固定镜头，白衣女子面部特写，她微微侧头，眼神看向右前方，嘴角带着一丝微笑，似乎在对众人说话。",
+        "dialogue": "各位",
+        "speaker": "白衣女子",
+        "emotion": "平静",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；模糊的室内背景，光线明亮；画面中央人物，身穿白色刺绣古装，头部微侧，眼神看向右前方，表情：眉毛舒展，眼睛明亮，嘴角微扬。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面上方",
+                "action": "双手打开一个红漆木盒",
+                "expression": "null"
+            }
+        ],
+        "background": "红漆木盒内部，衬有黄色丝绸",
+        "description_narrative": "大特写俯拍镜头，一双手缓缓打开一个精致的红漆木盒，露出内部黄色的丝绸衬里，展示拍卖品。",
+        "dialogue": "今天我们聚宝阁拍卖的是",
+        "speaker": "拍卖师",
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "大特写俯拍镜头；红漆木盒内部，衬有黄色丝绸；画面上方人物，身穿未知，双手打开一个红漆木盒，表情：null。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "拍卖师",
+                "gender": "男",
+                "clothing": "红绿相间锦袍，棕色纹样帽",
+                "position": "画面中央",
+                "action": "面对镜头说话",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色木质背景，光线均匀",
+        "description_narrative": "近景固定镜头，拍卖师面对镜头，身穿红绿锦袍，头戴棕色帽子，正在介绍拍卖物品。",
+        "dialogue": "拍卖的是",
+        "speaker": "拍卖师",
+        "emotion": "专业",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；深色木质背景，光线均匀；画面中央人物，身穿红绿相间锦袍，棕色纹样帽，面对镜头说话，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "拍卖师",
+                "gender": "男",
+                "clothing": "红绿相间锦袍，棕色纹样帽",
+                "position": "画面左侧",
+                "action": "双手捧着红漆木盒展示",
+                "expression": "眉毛舒展，眼睛看盒子，嘴巴微张"
+            }
+        ],
+        "background": "室内窗边，桌上有花瓶和玉器，光线自然",
+        "description_narrative": "中景侧拍镜头，拍卖师站在桌旁，双手捧着红漆木盒向众人展示，桌上摆放着花瓶和玉器等装饰品。",
+        "dialogue": "金丝楠木嵌玉珠",
+        "speaker": "拍卖师",
+        "emotion": "热情",
+        "duration": 1.04,
+        "description_visual": "中景侧拍镜头；室内窗边，桌上有花瓶和玉器，光线自然；画面左侧人物，身穿红绿相间锦袍，棕色纹样帽，双手捧着红漆木盒展示，表情：眉毛舒展，眼睛看盒子，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "拍卖师",
+                "gender": "男",
+                "clothing": "红绿相间锦袍，棕色纹样帽",
+                "position": "画面中央",
+                "action": "面对镜头宣布价格",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "深色木质背景，光线均匀",
+        "description_narrative": "近景固定镜头，拍卖师面部特写，他宣布拍卖品的起拍价格。",
+        "dialogue": "起拍价是",
+        "speaker": "拍卖师",
+        "emotion": "严肃",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；深色木质背景，光线均匀；画面中央人物，身穿红绿相间锦袍，棕色纹样帽，面对镜头宣布价格，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左侧",
+                "action": "站立，双手交叠",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "粉衣侍女",
+                "gender": "女",
+                "clothing": "粉色襦裙",
+                "position": "画面左后",
+                "action": "站立在白衣女子身后",
+                "expression": "眉毛微蹙，眼睛看前方，嘴巴微张"
+            },
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色纱质古装",
+                "position": "画面右侧",
+                "action": "站立，双手交叠",
+                "expression": "眉毛舒展，眼睛看前方，嘴巴紧闭"
+            }
+        ],
+        "background": "拍卖行内景，圆桌，地毯，光线明亮",
+        "description_narrative": "全景俯拍镜头，拍卖行内，白衣女子、粉衣侍女和蓝衣女子站在圆桌旁，拍卖师宣布起拍价一千两。",
+        "dialogue": "一千两",
+        "speaker": "拍卖师",
+        "emotion": null,
+        "duration": 1.32,
+        "description_visual": "全景俯拍镜头；拍卖行内景，圆桌，地毯，光线明亮；画面左侧人物，身穿白色刺绣古装，站立，双手交叠，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面左后人物，身穿粉色襦裙，站立在白衣女子身后，表情：眉毛微蹙，眼睛看前方，嘴巴微张；画面右侧人物，身穿浅蓝色纱质古装，站立，双手交叠，表情：眉毛舒展，眼睛看前方，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "拍卖师",
+                "gender": "男",
+                "clothing": "红绿相间锦袍，棕色纹样帽",
+                "position": "画面中央",
+                "action": "环视四周",
+                "expression": "眉毛舒展，眼睛左右看，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木质背景，光线均匀",
+        "description_narrative": "近景固定镜头，拍卖师环视四周，等待众人竞价，表情期待。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 4.88,
+        "description_visual": "近景平拍镜头；深色木质背景，光线均匀；画面中央人物，身穿红绿相间锦袍，棕色纹样帽，环视四周，表情：眉毛舒展，眼睛左右看，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头沉思",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "近景固定镜头，白衣女子低头沉思，似乎在犹豫是否竞价，画外传来侍女劝她不要竞价的声音。",
+        "dialogue": "别拍了吧 反正是王爷的钱",
+        "speaker": "粉衣侍女",
+        "emotion": "犹豫",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，低头沉思，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "侧脸，嘴唇微动",
+                "expression": "眉毛舒展，眼睛看前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "特写侧拍镜头，白衣女子侧脸，她决定竞价，开口喊出一千两。",
+        "dialogue": "一千两",
+        "speaker": "白衣女子",
+        "emotion": "坚定",
+        "duration": 1.12,
+        "description_visual": "特写侧拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，侧脸，嘴唇微动，表情：眉毛舒展，眼睛看前方，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色纱质古装",
+                "position": "画面中央",
+                "action": "面对镜头，嘴角上扬",
+                "expression": "眉毛舒展，眼睛明亮，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，蓝衣女子面带微笑，立即跟进竞价，喊出两千两。",
+        "dialogue": "两千两",
+        "speaker": "蓝衣女子",
+        "emotion": "自信",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线明亮；画面中央人物，身穿浅蓝色纱质古装，面对镜头，嘴角上扬，表情：眉毛舒展，眼睛明亮，嘴角上扬。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "面对镜头，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "近景固定镜头，白衣女子不甘示弱，继续加价至三千两。",
+        "dialogue": "三千两",
+        "speaker": "白衣女子",
+        "emotion": "竞争",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，面对镜头，嘴唇微动，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色纱质古装",
+                "position": "画面中央",
+                "action": "侧脸，眼神轻蔑",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，蓝衣女子侧脸，眼神轻蔑，似乎对三千两的价格不以为然，准备继续加价。",
+        "dialogue": "三千两",
+        "speaker": "蓝衣女子",
+        "emotion": "轻蔑",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线明亮；画面中央人物，身穿浅蓝色纱质古装，侧脸，眼神轻蔑，表情：眉毛微挑，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "面对镜头，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "近景固定镜头，白衣女子继续加价，喊出四千两，表情略显吃力。",
+        "dialogue": "四千两",
+        "speaker": "白衣女子",
+        "emotion": "吃力",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，面对镜头，嘴唇微动，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色纱质古装",
+                "position": "画面中央",
+                "action": "侧脸，嘴角上扬",
+                "expression": "眉毛舒展，眼睛斜视，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮",
+        "description_narrative": "近景侧拍镜头，蓝衣女子轻松加价至五千两，表情得意。",
+        "dialogue": "五千两",
+        "speaker": "蓝衣女子",
+        "emotion": "得意",
+        "duration": 1.96,
+        "description_visual": "近景侧拍镜头；模糊的室内背景，光线明亮；画面中央人物，身穿浅蓝色纱质古装，侧脸，嘴角上扬，表情：眉毛舒展，眼睛斜视，嘴角上扬。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头，表情震惊",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "近景固定镜头，白衣女子听到一万两的报价后，低头露出震惊和无奈的表情，画外传来蓝衣女子的报价声。",
+        "dialogue": "一万两",
+        "speaker": "蓝衣女子",
+        "emotion": "震惊",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，低头，表情震惊，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣侍女",
+                "gender": "女",
+                "clothing": "粉色襦裙",
+                "position": "画面中央",
+                "action": "焦急地看着白衣女子",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内书架背景，光线柔和",
+        "description_narrative": "近景固定镜头，粉衣侍女焦急地看着白衣女子，轻声呼唤小姐，提醒她资金不足。",
+        "dialogue": "小姐",
+        "speaker": "粉衣侍女",
+        "emotion": "焦急",
+        "duration": 3.48,
+        "description_visual": "近景平拍镜头；室内书架背景，光线柔和；画面中央人物，身穿粉色襦裙，焦急地看着白衣女子，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头，表情无奈",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，白衣女子低头无奈，画外传来蓝衣女子嘲讽她为何不加价的声音。",
+        "dialogue": "怎么不加价了？",
+        "speaker": "蓝衣女子",
+        "emotion": "无奈",
+        "duration": 3.12,
+        "description_visual": "特写平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，低头，表情无奈，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "近景固定镜头，白衣女子低声解释，画外传来侍女解释王爷只给了五千两银票的声音。",
+        "dialogue": "王爷出门时没给黄金，就拿了五千两银票",
+        "speaker": "粉衣侍女",
+        "emotion": "无奈",
+        "duration": 4.2,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，低头，嘴唇微动，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色纱质古装",
+                "position": "画面中央",
+                "action": "侧脸，嘴角上扬",
+                "expression": "眉毛舒展，眼睛斜视，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮",
+        "description_narrative": "近景侧拍镜头，蓝衣女子得意地笑着，画外传来白衣女子抱怨遇到苏柔的声音。",
+        "dialogue": "谁知道遇到苏柔这人",
+        "speaker": "白衣女子",
+        "emotion": "抱怨",
+        "duration": 1.36,
+        "description_visual": "近景侧拍镜头；模糊的室内背景，光线明亮；画面中央人物，身穿浅蓝色纱质古装，侧脸，嘴角上扬，表情：眉毛舒展，眼睛斜视，嘴角上扬。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头，表情尴尬",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "近景固定镜头，白衣女子低头尴尬，画外传来蓝衣女子嘲讽她银子都拿去买药的声音。",
+        "dialogue": "云歌儿，怎么不加价了？莫不是银子都拿去买药了吧？",
+        "speaker": "蓝衣女子",
+        "emotion": "尴尬",
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，低头，表情尴尬，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "谢铭轩",
+                "gender": "男",
+                "clothing": "浅蓝色长袍，绿松石发冠",
+                "position": "画面中央",
+                "action": "面对镜头，嘴唇微动",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，谢铭轩突然出现，询问大家在拍什么好东西，气氛变得热闹。",
+        "dialogue": "这是拍什么好东西呢",
+        "speaker": "谢铭轩",
+        "emotion": "好奇",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线明亮；画面中央人物，身穿浅蓝色长袍，绿松石发冠，面对镜头，嘴唇微动，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "侧脸，眼神惊讶",
+                "expression": "眉毛微挑，眼睛看侧面，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "近景固定镜头，白衣女子侧脸，听到谢铭轩的声音后露出惊讶的表情，画外传来谢铭轩感叹热闹的声音。",
+        "dialogue": "这么热闹",
+        "speaker": "谢铭轩",
+        "emotion": "惊讶",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，侧脸，眼神惊讶，表情：眉毛微挑，眼睛看侧面，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色纱质古装",
+                "position": "画面中央",
+                "action": "侧脸，眼神警惕",
+                "expression": "眉毛微蹙，眼睛看侧面，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮",
+        "description_narrative": "近景侧拍镜头，蓝衣女子侧脸，眼神警惕，画外传来白衣女子内心独白，提到谢铭轩随父外出。",
+        "dialogue": "谢铭轩随父外出",
+        "speaker": "白衣女子",
+        "emotion": "警惕",
+        "duration": 2.64,
+        "description_visual": "近景侧拍镜头；模糊的室内背景，光线明亮；画面中央人物，身穿浅蓝色纱质古装，侧脸，眼神警惕，表情：眉毛微蹙，眼睛看侧面，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "谢铭轩",
+                "gender": "男",
+                "clothing": "浅蓝色长袍，绿松石发冠",
+                "position": "画面中央",
+                "action": "面对镜头，嘴唇微动",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "木质屏风背景，光线明亮",
+        "description_narrative": "近景固定镜头，谢铭轩面对镜头，解释自己近日才返回云城，画外传来白衣女子内心独白。",
+        "dialogue": "近日才返回云城",
+        "speaker": "白衣女子",
+        "emotion": "平静",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；木质屏风背景，光线明亮；画面中央人物，身穿浅蓝色长袍，绿松石发冠，面对镜头，嘴唇微动，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面左侧",
+                "action": "站立，看着谢铭轩",
+                "expression": "眉毛舒展，眼睛看前方，嘴巴紧闭"
+            },
+            {
+                "name": "谢铭轩",
+                "gender": "男",
+                "clothing": "浅蓝色长袍，绿松石发冠",
+                "position": "画面右侧",
+                "action": "拱手行礼",
+                "expression": "眉毛舒展，眼睛看白衣女子，嘴巴微张"
+            },
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色纱质古装",
+                "position": "画面右前",
+                "action": "站立，看着谢铭轩",
+                "expression": "眉毛微蹙，眼睛看谢铭轩，嘴巴紧闭"
+            }
+        ],
+        "background": "拍卖行内景，圆桌，地毯，光线明亮",
+        "description_narrative": "全景固定镜头，谢铭轩向白衣女子拱手行礼，道歉未能及时拜见，请求王妃恕罪。",
+        "dialogue": "未能及时拜见明王妃，还请王妃",
+        "speaker": "谢铭轩",
+        "emotion": "礼貌",
+        "duration": 1.56,
+        "description_visual": "全景平拍镜头；拍卖行内景，圆桌，地毯，光线明亮；画面左侧人物，身穿白色刺绣古装，站立，看着谢铭轩，表情：眉毛舒展，眼睛看前方，嘴巴紧闭；画面右侧人物，身穿浅蓝色长袍，绿松石发冠，拱手行礼，表情：眉毛舒展，眼睛看白衣女子，嘴巴微张；画面右前人物，身穿浅蓝色纱质古装，站立，看着谢铭轩，表情：眉毛微蹙，眼睛看谢铭轩，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "面对镜头，嘴唇微动",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和",
+        "description_narrative": "特写固定镜头，白衣女子面对镜头，画外传来谢铭轩继续道歉的声音。",
+        "dialogue": "恕罪",
+        "speaker": "谢铭轩",
+        "emotion": "礼貌",
+        "duration": 2.96,
+        "description_visual": "特写平拍镜头；模糊的室内背景，光线柔和；画面中央人物，身穿白色刺绣古装，面对镜头，嘴唇微动，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色纱质古装",
+                "position": "画面中央",
+                "action": "侧脸，眼神不悦",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮",
+        "description_narrative": "近景侧拍镜头，蓝衣女子侧脸，眼神不悦，画外传来白衣女子让小侯爷不必多礼的声音。",
+        "dialogue": "小侯爷不必多礼",
+        "speaker": "白衣女子",
+        "emotion": "不悦",
+        "duration": 6.28,
+        "description_visual": "近景侧拍镜头；模糊的室内背景，光线明亮；画面中央人物，身穿浅蓝色纱质古装，侧脸，眼神不悦，表情：眉毛微蹙，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "谢铭轩",
+                "gender": "男",
+                "clothing": "浅蓝色长袍，绿松石发冠",
+                "position": "画面中央",
+                "action": "侧脸，嘴唇微动",
+                "expression": "眉毛舒展，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "木质屏风背景，光线明亮",
+        "description_narrative": "近景侧拍镜头，谢铭轩侧脸，画外传来蓝衣女子质问他是不是来砸场子的声音。",
+        "dialogue": "谢铭轩，你不会是来砸场子的吧？",
+        "speaker": "蓝衣女子",
+        "emotion": "质问",
+        "duration": 2.04,
+        "description_visual": "近景侧拍镜头；木质屏风背景，光线明亮；画面中央人物，身穿浅蓝色长袍，绿松石发冠，侧脸，嘴唇微动，表情：眉毛舒展，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "浅蓝色纱质古装",
+                "position": "画面中央",
+                "action": "面对镜头，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，蓝衣女子面对镜头，画外传来谢铭轩解释自己只是闲逛的声音。",
+        "dialogue": "我怎么会是来砸场子呢 只是近来无事 到此闲逛罢了",
+        "speaker": "谢铭轩",
+        "emotion": "解释",
+        "duration": 2.36,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线明亮；画面中央人物，身穿浅蓝色纱质古装，面对镜头，嘴唇微动，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "谢铭轩",
+                "gender": "男",
+                "clothing": "浅蓝色长袍，绿松石发冠",
+                "position": "画面中央",
+                "action": "侧脸，嘴唇微动",
+                "expression": "眉毛舒展，眼睛看侧面，嘴巴微张"
+            }
+        ],
+        "background": "木质屏风背景，光线明亮",
+        "description_narrative": "近景侧拍镜头，谢铭轩侧脸，画外传来蓝衣女子让他别耽误自己事的声音。",
+        "dialogue": "那就别耽误本小姐的事",
+        "speaker": "蓝衣女子",
+        "emotion": "不耐烦",
+        "duration": 2.6,
+        "description_visual": "近景侧拍镜头；木质屏风背景，光线明亮；画面中央人物，身穿浅蓝色长袍，绿松石发冠，侧脸，嘴唇微动，表情：眉毛舒展，眼睛看侧面，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "谢铭轩",
+                "gender": "男",
+                "clothing": "浅蓝色长袍，绿松石发冠",
+                "position": "画面中央",
+                "action": "面对镜头，嘴唇微动",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "木质屏风背景，光线明亮",
+        "description_narrative": "近景固定镜头，谢铭轩面对镜头，表示金丝楠木嵌玉珠他要了。",
+        "dialogue": "不过这金丝楠木嵌玉珠 我要了",
+        "speaker": "谢铭轩",
+        "emotion": "自信",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；木质屏风背景，光线明亮；画面中央人物，身穿浅蓝色长袍，绿松石发冠，面对镜头，嘴唇微动，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    }
+]

@@ -1,0 +1,828 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "豪华别墅大厅，水晶吊灯，旋转楼梯，色调明亮",
+        "description_narrative": "全景镜头展示豪华别墅大厅，水晶吊灯悬挂在天花板中央，旋转楼梯延伸至二楼，画面中央出现剧名标题。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.96,
+        "description_visual": "全景仰拍镜头；豪华别墅大厅，水晶吊灯，旋转楼梯，色调明亮。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "堂姐",
+                "gender": "女",
+                "clothing": "紫色西装外套及短裤套装",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微侧，嘴角上扬",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张说话"
+            },
+            {
+                "name": "楚天成",
+                "gender": "男",
+                "clothing": "棕色三件套西装",
+                "position": "画面右侧",
+                "action": "坐在沙发旁，手臂搭在堂姐身后",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅客厅，米色皮质沙发，背景模糊",
+        "description_narrative": "中近景镜头，堂姐身穿紫色西装坐在沙发上，身体微侧，嘴角上扬带着嘲讽，楚天成坐在旁边，手臂搭在她身后。",
+        "dialogue": "这不是我们华大集团的总裁吗",
+        "speaker": "堂姐",
+        "emotion": "嘲讽",
+        "duration": 2.42,
+        "description_visual": "中近景平拍镜头；别墅客厅，米色皮质沙发，背景模糊；画面中央人物，身穿紫色西装外套及短裤套装，坐在沙发上，身体微侧，嘴角上扬，表情：眉毛微挑，眼睛斜视，嘴巴微张说话；画面右侧人物，身穿棕色三件套西装，坐在沙发旁，手臂搭在堂姐身后，表情：眉毛舒展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "红色吊带长裙，白色毛绒披肩",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱在胸前",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "杨安娜妹妹",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙，米色开衫",
+                "position": "画面右侧",
+                "action": "站立，身体微侧",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            },
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "深蓝色双排扣西装",
+                "position": "画面左侧背景",
+                "action": "站立，双手插兜",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅大厅，旋转楼梯，大理石地面",
+        "description_narrative": "中景镜头，杨安娜身穿红裙披白色披肩站立，双手抱胸，表情严肃，妹妹站在旁边，陈风在后方背景处。",
+        "dialogue": "这不是我们华大集团的总裁吗",
+        "speaker": "堂姐",
+        "emotion": "嘲讽",
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；别墅大厅，旋转楼梯，大理石地面；画面中央人物，身穿红色吊带长裙，白色毛绒披肩，站立，双手交叉抱在胸前，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；画面右侧人物，身穿粉色碎花连衣裙，米色开衫，站立，身体微侧，表情：眉毛舒展，眼睛看向前方，嘴巴微张；画面左侧背景人物，身穿深蓝色双排扣西装，站立，双手插兜，表情：眉毛平展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜妹妹",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙，米色开衫",
+                "position": "画面中央",
+                "action": "头部微转，嘴巴张开",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴张开说话"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头，杨安娜妹妹头部微转，嘴巴张开，正在喊出名字。",
+        "dialogue": "杨安娜",
+        "speaker": "杨安娜妹妹",
+        "emotion": "惊讶",
+        "duration": 3.86,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿粉色碎花连衣裙，米色开衫，头部微转，嘴巴张开，表情：眉毛微扬，眼睛看向左侧，嘴巴张开说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "楚天成",
+                "gender": "男",
+                "clothing": "棕色三件套西装",
+                "position": "画面中央",
+                "action": "站立，双手插兜，头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，窗帘",
+        "description_narrative": "中近景镜头，楚天成身穿棕色西装站立，双手插兜，头部微低，表情不屑。",
+        "dialogue": "你不就是嫉妒我姐姐继承了总裁之位吗？",
+        "speaker": "楚天成",
+        "emotion": "不屑",
+        "duration": 1.14,
+        "description_visual": "中近景平拍镜头；室内背景，窗帘；画面中央人物，身穿棕色三件套西装，站立，双手插兜，头部微低，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "堂姐",
+                "gender": "女",
+                "clothing": "紫色西装外套及短裤套装",
+                "position": "画面左侧",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "楚天成",
+                "gender": "男",
+                "clothing": "棕色三件套西装",
+                "position": "画面右侧",
+                "action": "站立，身体微侧",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅客厅，米色皮质沙发",
+        "description_narrative": "中近景镜头，堂姐站立双手抱胸，表情严肃，楚天成站在旁边。",
+        "dialogue": "少在那阴阳怪气",
+        "speaker": "堂姐",
+        "emotion": "不耐烦",
+        "duration": 0.96,
+        "description_visual": "中近景平拍镜头；别墅客厅，米色皮质沙发；画面左侧人物，身穿紫色西装外套及短裤套装，站立，双手交叉抱胸，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；画面右侧人物，身穿棕色三件套西装，站立，身体微侧，表情：眉毛舒展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "堂姐",
+                "gender": "女",
+                "clothing": "紫色西装外套及短裤套装",
+                "position": "画面左侧",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张说话"
+            },
+            {
+                "name": "楚天成",
+                "gender": "男",
+                "clothing": "棕色三件套西装",
+                "position": "画面右侧",
+                "action": "站立，双手插兜",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅客厅，米色皮质沙发",
+        "description_narrative": "中景镜头，堂姐站立双手抱胸，正在说话，楚天成站在旁边。",
+        "dialogue": "这么久没回杨家老宅",
+        "speaker": "堂姐",
+        "emotion": "指责",
+        "duration": 4.02,
+        "description_visual": "中景平拍镜头；别墅客厅，米色皮质沙发；画面左侧人物，身穿紫色西装外套及短裤套装，站立，双手交叉抱胸，表情：眉毛微蹙，眼睛直视前方，嘴巴微张说话；画面右侧人物，身穿棕色三件套西装，站立，双手插兜，表情：眉毛舒展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "深蓝色双排扣西装",
+                "position": "画面左侧",
+                "action": "站立，双手插兜",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴紧闭"
+            },
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "红色吊带长裙，白色毛绒披肩",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "杨安娜妹妹",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙，米色开衫",
+                "position": "画面右侧",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅大厅，旋转楼梯",
+        "description_narrative": "中景镜头，陈风、杨安娜和妹妹并排站立，表情严肃，听着对方的指责。",
+        "dialogue": "我看你是连规矩都给忘了",
+        "speaker": "堂姐",
+        "emotion": "指责",
+        "duration": 2.74,
+        "description_visual": "中景平拍镜头；别墅大厅，旋转楼梯；画面左侧人物，身穿深蓝色双排扣西装，站立，双手插兜，表情：眉毛平展，眼睛看向前方，嘴巴紧闭；画面中央人物，身穿红色吊带长裙，白色毛绒披肩，站立，双手交叉抱胸，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；画面右侧人物，身穿粉色碎花连衣裙，米色开衫，站立，双手自然下垂，表情：眉毛舒展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "深蓝色双排扣西装",
+                "position": "画面左侧",
+                "action": "站立，低头整理袖口",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "红色吊带长裙，白色毛绒披肩",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "杨安娜妹妹",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙，米色开衫",
+                "position": "画面右侧",
+                "action": "站立，双手交握在身前",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "别墅大厅，沙发一角",
+        "description_narrative": "中景镜头，陈风低头整理袖口，杨安娜抱胸站立，妹妹双手交握，表情严肃。",
+        "dialogue": "轮不到你来插嘴，装腔作势",
+        "speaker": "堂姐",
+        "emotion": "愤怒",
+        "duration": 2.94,
+        "description_visual": "中景平拍镜头；别墅大厅，沙发一角；画面左侧人物，身穿深蓝色双排扣西装，站立，低头整理袖口，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面中央人物，身穿红色吊带长裙，白色毛绒披肩，站立，双手交叉抱胸，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；画面右侧人物，身穿粉色碎花连衣裙，米色开衫，站立，双手交握在身前，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜妹妹",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙，米色开衫",
+                "position": "画面中央",
+                "action": "头部微转，嘴巴张开",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴张开说话"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头，杨安娜妹妹头部微转，嘴巴张开，正在反驳。",
+        "dialogue": "你以为我怕你啊",
+        "speaker": "杨安娜妹妹",
+        "emotion": "不服",
+        "duration": 1.02,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿粉色碎花连衣裙，米色开衫，头部微转，嘴巴张开，表情：眉毛微扬，眼睛看向左侧，嘴巴张开说话。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "堂姐",
+                "gender": "女",
+                "clothing": "紫色西装外套及短裤套装",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅客厅，米色皮质沙发",
+        "description_narrative": "中近景镜头，堂姐站立双手抱胸，表情严肃，眼神犀利。",
+        "dialogue": "你以为我怕你啊",
+        "speaker": "堂姐",
+        "emotion": "挑衅",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；别墅客厅，米色皮质沙发；画面中央人物，身穿紫色西装外套及短裤套装，站立，双手交叉抱胸，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "红色吊带长裙，白色毛绒披肩",
+                "position": "画面中央",
+                "action": "头部微转，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "室内背景，柱子",
+        "description_narrative": "特写镜头，杨安娜头部微转，嘴巴微张，正在说话制止争吵。",
+        "dialogue": "你说什么...好了别闹了",
+        "speaker": "杨安娜",
+        "emotion": "无奈",
+        "duration": 1.42,
+        "description_visual": "特写平拍镜头；室内背景，柱子；画面中央人物，身穿红色吊带长裙，白色毛绒披肩，头部微转，嘴巴微张，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "堂姐",
+                "gender": "女",
+                "clothing": "紫色西装外套及短裤套装",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "别墅客厅，米色皮质沙发",
+        "description_narrative": "中近景镜头，堂姐站立双手抱胸，正在询问爷爷的身体状况。",
+        "dialogue": "爷爷的身体现在怎么样了",
+        "speaker": "堂姐",
+        "emotion": "关切",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；别墅客厅，米色皮质沙发；画面中央人物，身穿紫色西装外套及短裤套装，站立，双手交叉抱胸，表情：眉毛微蹙，眼睛直视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "深蓝色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，双手交握在身前",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅大厅，旋转楼梯",
+        "description_narrative": "特写镜头，陈风站立双手交握，表情严肃，低头沉思。",
+        "dialogue": "爷爷的身体现在怎么样了",
+        "speaker": "堂姐",
+        "emotion": "关切",
+        "duration": 2.18,
+        "description_visual": "特写平拍镜头；别墅大厅，旋转楼梯；画面中央人物，身穿深蓝色双排扣西装，站立，双手交握在身前，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "堂姐",
+                "gender": "女",
+                "clothing": "紫色西装外套及短裤套装",
+                "position": "画面左侧",
+                "action": "站立，手挽着楚天成手臂",
+                "expression": "眉毛微扬，眼睛看向前方，嘴巴微张说话"
+            },
+            {
+                "name": "楚天成",
+                "gender": "男",
+                "clothing": "棕色三件套西装",
+                "position": "画面右侧",
+                "action": "站立，身体微侧",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅客厅，米色皮质沙发",
+        "description_narrative": "中近景镜头，堂姐手挽楚天成手臂，表情得意，正在说话。",
+        "dialogue": "你担心什么呀？我未婚夫啊",
+        "speaker": "堂姐",
+        "emotion": "得意",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；别墅客厅，米色皮质沙发；画面左侧人物，身穿紫色西装外套及短裤套装，站立，手挽着楚天成手臂，表情：眉毛微扬，眼睛看向前方，嘴巴微张说话；画面右侧人物，身穿棕色三件套西装，站立，身体微侧，表情：眉毛舒展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "红色吊带长裙，白色毛绒披肩",
+                "position": "画面中央",
+                "action": "站立，双手交握",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，柱子",
+        "description_narrative": "特写镜头，杨安娜站立双手交握，表情平静，听着对方的话。",
+        "dialogue": "专门从广粤省请来了圣手名医",
+        "speaker": "堂姐",
+        "emotion": "炫耀",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；室内背景，柱子；画面中央人物，身穿红色吊带长裙，白色毛绒披肩，站立，双手交握，表情：眉毛微蹙，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "堂姐",
+                "gender": "女",
+                "clothing": "紫色西装外套及短裤套装",
+                "position": "画面左侧",
+                "action": "站立，手挽着楚天成手臂",
+                "expression": "眉毛微扬，眼睛看向前方，嘴巴微张说话"
+            },
+            {
+                "name": "楚天成",
+                "gender": "男",
+                "clothing": "棕色三件套西装",
+                "position": "画面右侧",
+                "action": "站立，头部微转",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "别墅客厅，米色皮质沙发",
+        "description_narrative": "中近景镜头，堂姐手挽楚天成手臂，表情得意，楚天成头部微转，正在说话。",
+        "dialogue": "赛华佗",
+        "speaker": "楚天成",
+        "emotion": "自豪",
+        "duration": 1.84,
+        "description_visual": "中近景平拍镜头；别墅客厅，米色皮质沙发；画面左侧人物，身穿紫色西装外套及短裤套装，站立，手挽着楚天成手臂，表情：眉毛微扬，眼睛看向前方，嘴巴微张说话；画面右侧人物，身穿棕色三件套西装，站立，头部微转，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜妹妹",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙，米色开衫",
+                "position": "画面中央",
+                "action": "头部微转，嘴巴微张",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头，杨安娜妹妹头部微转，嘴巴微张，正在说话。",
+        "dialogue": "赛华佗，你觉得很震惊吧",
+        "speaker": "堂姐",
+        "emotion": "挑衅",
+        "duration": 2.02,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿粉色碎花连衣裙，米色开衫，头部微转，嘴巴微张，表情：眉毛微扬，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨安娜妹妹",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙，米色开衫",
+                "position": "画面中央",
+                "action": "头部微转，嘴巴微张",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张说话"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头，杨安娜妹妹头部微转，嘴巴微张，正在夸赞未婚夫。",
+        "dialogue": "还是我家天成比较厉害",
+        "speaker": "杨安娜妹妹",
+        "emotion": "自豪",
+        "duration": 2.42,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿粉色碎花连衣裙，米色开衫，头部微转，嘴巴微张，表情：眉毛微扬，眼睛看向左侧，嘴巴微张说话。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "深蓝色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，手摸下巴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅大厅，旋转楼梯",
+        "description_narrative": "特写镜头，陈风站立手摸下巴，表情若有所思。",
+        "dialogue": "一出马就能请来圣手名医赛华佗",
+        "speaker": "杨安娜妹妹",
+        "emotion": "夸赞",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；别墅大厅，旋转楼梯；画面中央人物，身穿深蓝色双排扣西装，站立，手摸下巴，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "堂姐",
+                "gender": "女",
+                "clothing": "紫色西装外套及短裤套装",
+                "position": "画面左侧",
+                "action": "站立，手挽着楚天成手臂",
+                "expression": "眉毛微扬，眼睛看向前方，嘴巴微张说话"
+            },
+            {
+                "name": "楚天成",
+                "gender": "男",
+                "clothing": "棕色三件套西装",
+                "position": "画面右侧",
+                "action": "站立，身体微侧",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅客厅，米色皮质沙发",
+        "description_narrative": "中景镜头，堂姐手挽楚天成手臂，表情得意，正在说话。",
+        "dialogue": "来给爷爷看诊",
+        "speaker": "堂姐",
+        "emotion": "得意",
+        "duration": 1.16,
+        "description_visual": "中景平拍镜头；别墅客厅，米色皮质沙发；画面左侧人物，身穿紫色西装外套及短裤套装，站立，手挽着楚天成手臂，表情：眉毛微扬，眼睛看向前方，嘴巴微张说话；画面右侧人物，身穿棕色三件套西装，站立，身体微侧，表情：眉毛舒展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨老夫人",
+                "gender": "女",
+                "clothing": "黑色金绣传统服饰",
+                "position": "画面左侧",
+                "action": "从楼梯走下",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张说话"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "黑白女仆装",
+                "position": "画面左侧背景",
+                "action": "站立，跟随",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴紧闭"
+            },
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "深蓝色双排扣西装",
+                "position": "画面右侧",
+                "action": "站立，手摸鼻子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "红色吊带长裙，白色毛绒披肩",
+                "position": "画面右侧",
+                "action": "站立，双手交握",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅大厅，旋转楼梯，沙发",
+        "description_narrative": "全景镜头，杨老夫人从楼梯走下，女仆跟随，陈风和杨安娜在右侧站立，老夫人正在询问。",
+        "dialogue": "是谁请的赛华佗过来呀",
+        "speaker": "杨老夫人",
+        "emotion": "询问",
+        "duration": 4.02,
+        "description_visual": "全景平拍镜头；别墅大厅，旋转楼梯，沙发；画面左侧人物，身穿黑色金绣传统服饰，从楼梯走下，表情：眉毛微蹙，眼睛看向前方，嘴巴微张说话；画面左侧背景人物，身穿黑白女仆装，站立，跟随，表情：眉毛平展，眼睛看向前方，嘴巴紧闭；画面右侧人物，身穿深蓝色双排扣西装，站立，手摸鼻子，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面右侧人物，身穿红色吊带长裙，白色毛绒披肩，站立，双手交握，表情：眉毛舒展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨老夫人",
+                "gender": "女",
+                "clothing": "黑色金绣传统服饰",
+                "position": "画面中央",
+                "action": "站立，双手交握",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张说话"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "黑白女仆装",
+                "position": "画面右侧背景",
+                "action": "站立",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅客厅，沙发",
+        "description_narrative": "中近景镜头，杨老夫人站立双手交握，正在说话，女仆在后方。",
+        "dialogue": "哦，好啊",
+        "speaker": "杨老夫人",
+        "emotion": "满意",
+        "duration": 2.18,
+        "description_visual": "中近景平拍镜头；别墅客厅，沙发；画面中央人物，身穿黑色金绣传统服饰，站立，双手交握，表情：眉毛微蹙，眼睛看向前方，嘴巴微张说话；画面右侧背景人物，身穿黑白女仆装，站立，表情：眉毛平展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨老夫人",
+                "gender": "女",
+                "clothing": "黑色金绣传统服饰",
+                "position": "画面中央",
+                "action": "转身",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张说话"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "黑白女仆装",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴紧闭"
+            },
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "红色吊带长裙，白色毛绒披肩",
+                "position": "画面右侧",
+                "action": "走向老夫人",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "别墅大厅，沙发",
+        "description_narrative": "中景镜头，杨老夫人转身，杨安娜走向老夫人，老夫人正在询问。",
+        "dialogue": "这位是",
+        "speaker": "杨老夫人",
+        "emotion": "疑惑",
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头；别墅大厅，沙发；画面中央人物，身穿黑色金绣传统服饰，转身，表情：眉毛微蹙，眼睛看向前方，嘴巴微张说话；画面左侧人物，身穿黑白女仆装，站立，表情：眉毛平展，眼睛看向前方，嘴巴紧闭；画面右侧人物，身穿红色吊带长裙，白色毛绒披肩，走向老夫人，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "深蓝色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，双手交握",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅大厅，柱子",
+        "description_narrative": "特写镜头，陈风站立双手交握，表情平静。",
+        "dialogue": "奶奶，这位是我的老公陈风",
+        "speaker": "杨安娜",
+        "emotion": "介绍",
+        "duration": 2.7,
+        "description_visual": "特写平拍镜头；别墅大厅，柱子；画面中央人物，身穿深蓝色双排扣西装，站立，双手交握，表情：眉毛平展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨老夫人",
+                "gender": "女",
+                "clothing": "黑色金绣传统服饰",
+                "position": "画面左侧",
+                "action": "坐在沙发上",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张说话"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "黑白女仆装",
+                "position": "画面左侧背景",
+                "action": "站立",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴紧闭"
+            },
+            {
+                "name": "杨安娜",
+                "gender": "女",
+                "clothing": "红色吊带长裙，白色毛绒披肩",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "杨安娜妹妹",
+                "gender": "女",
+                "clothing": "粉色碎花连衣裙，米色开衫",
+                "position": "画面右侧",
+                "action": "站立，双手交握",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "别墅客厅，沙发",
+        "description_narrative": "中景镜头，杨老夫人坐在沙发上，杨安娜和妹妹站立，杨安娜正在介绍。",
+        "dialogue": "他已经答应入赘我们杨家",
+        "speaker": "杨安娜",
+        "emotion": "平静",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；别墅客厅，沙发；画面左侧人物，身穿黑色金绣传统服饰，坐在沙发上，表情：眉毛微蹙，眼睛看向前方，嘴巴微张说话；画面左侧背景人物，身穿黑白女仆装，站立，表情：眉毛平展，眼睛看向前方，嘴巴紧闭；画面中央人物，身穿红色吊带长裙，白色毛绒披肩，站立，低头，表情：眉毛舒展，眼睛下视，嘴巴微张；画面右侧人物，身穿粉色碎花连衣裙，米色开衫，站立，双手交握，表情：眉毛舒展，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨老夫人",
+                "gender": "女",
+                "clothing": "黑色金绣传统服饰",
+                "position": "画面中央",
+                "action": "坐在沙发上，头部微抬",
+                "expression": "眉毛微扬，眼睛上视，嘴巴微张说话"
+            }
+        ],
+        "background": "别墅客厅，沙发",
+        "description_narrative": "特写镜头，杨老夫人坐在沙发上，头部微抬，表情惊讶。",
+        "dialogue": "来当我们家上门女婿",
+        "speaker": "杨安娜",
+        "emotion": "平静",
+        "duration": 1.78,
+        "description_visual": "特写平拍镜头；别墅客厅，沙发；画面中央人物，身穿黑色金绣传统服饰，坐在沙发上，头部微抬，表情：眉毛微扬，眼睛上视，嘴巴微张说话。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨老夫人",
+                "gender": "女",
+                "clothing": "黑色金绣传统服饰",
+                "position": "画面中央",
+                "action": "坐在沙发上，头部微抬",
+                "expression": "眉毛微扬，眼睛上视，嘴巴微张说话"
+            }
+        ],
+        "background": "别墅客厅，沙发",
+        "description_narrative": "特写镜头，杨老夫人坐在沙发上，头部微抬，表情震惊。",
+        "dialogue": "什么",
+        "speaker": "杨老夫人",
+        "emotion": "震惊",
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；别墅客厅，沙发；画面中央人物，身穿黑色金绣传统服饰，坐在沙发上，头部微抬，表情：眉毛微扬，眼睛上视，嘴巴微张说话。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "杨老夫人",
+                "gender": "女",
+                "clothing": "黑色金绣传统服饰",
+                "position": "画面中央",
+                "action": "坐在沙发上，头部微抬",
+                "expression": "眉毛微扬，眼睛上视，嘴巴微张"
+            }
+        ],
+        "background": "别墅客厅，沙发",
+        "description_narrative": "特写镜头，杨老夫人坐在沙发上，头部微抬，表情震惊，无言。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 0.68,
+        "description_visual": "特写平拍镜头；别墅客厅，沙发；画面中央人物，身穿黑色金绣传统服饰，坐在沙发上，头部微抬，表情：眉毛微扬，眼睛上视，嘴巴微张。"
+    }
+]

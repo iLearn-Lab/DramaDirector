@@ -1,0 +1,972 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体",
+        "description_narrative": "画面全黑，持续3.28秒，作为片头或转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫，白色短裙，长款耳环",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交握放在腿上，身体微微前倾",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张呈质问状"
+            }
+        ],
+        "background": "室内客厅，米色墙壁，白色沙发靠背",
+        "description_narrative": "中近景，苏清菡坐在沙发上，神情困惑且带有质问意味，双手交握，询问对方意图。",
+        "dialogue": "你什么意思",
+        "speaker": "苏清菡",
+        "emotion": "困惑/质问",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；室内客厅，米色墙壁，白色沙发靠背；画面中央人物，身穿黄色系结衬衫，白色短裙，长款耳环，坐在沙发上，双手交握放在腿上，身体微微前倾，表情：眉毛微蹙，眼睛直视前方，嘴巴微张呈质问状。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，白衬衫，眼镜",
+                "position": "画面中央",
+                "action": "站立，双手插兜，身体略微前倾",
+                "expression": "眉毛上扬，眼睛透过镜片注视对方，嘴角微撇"
+            }
+        ],
+        "background": "室内，墙上挂有水墨画，光线柔和",
+        "description_narrative": "中景，灰西装男站立着，双手插在西裤口袋里，带着轻蔑的表情反问。",
+        "dialogue": "什么意思？",
+        "speaker": "灰西装男",
+        "emotion": "轻蔑/反问",
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头；室内，墙上挂有水墨画，光线柔和；画面中央人物，身穿灰色格纹西装，白衬衫，眼镜，站立，双手插兜，身体略微前倾，表情：眉毛上扬，眼睛透过镜片注视对方，嘴角微撇。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫，白色短裙",
+                "position": "画面中央",
+                "action": "坐着，双手交握，眼神专注",
+                "expression": "眉毛舒展，眼睛睁大，嘴唇紧闭"
+            }
+        ],
+        "background": "室内客厅，白色沙发",
+        "description_narrative": "中近景，苏清菡坐在沙发上聆听，表情严肃，画面中无字幕，但传来灰西装男的声音。",
+        "dialogue": "你在苏氏集团",
+        "speaker": "灰西装男",
+        "emotion": "严肃",
+        "duration": 0.68,
+        "description_visual": "中近景平拍镜头；室内客厅，白色沙发；画面中央人物，身穿黄色系结衬衫，白色短裙，坐着，双手交握，眼神专注，表情：眉毛舒展，眼睛睁大，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装，白衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微侧，手插口袋",
+                "expression": "眉毛微挑，眼神轻蔑，嘴角带笑"
+            }
+        ],
+        "background": "室内，背景模糊",
+        "description_narrative": "中景，灰西装男继续说话，表情带着不屑，似乎在贬低对方的职位。",
+        "dialogue": "就是一个总裁而已",
+        "speaker": "灰西装男",
+        "emotion": "不屑",
+        "duration": 3.2,
+        "description_visual": "中景平拍镜头；室内，背景模糊；画面中央人物，身穿灰色格纹西装，白衬衫，站立，身体微侧，手插口袋，表情：眉毛微挑，眼神轻蔑，嘴角带笑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫，白色短裙",
+                "position": "画面中央",
+                "action": "坐着，身体前倾，双手紧握",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景，苏清菡情绪激动，身体前倾，质问对方的真实目的。",
+        "dialogue": "你到底想干什么",
+        "speaker": "苏清菡",
+        "emotion": "愤怒/急切",
+        "duration": 0.96,
+        "description_visual": "中近景平拍镜头；室内客厅；画面中央人物，身穿黄色系结衬衫，白色短裙，坐着，身体前倾，双手紧握，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "站立，面带微笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，灰西装男面带诡异的微笑，看着苏清菡，字幕延续上一句台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "狡黠",
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿灰色格纹西装，站立，面带微笑，表情：眉毛舒展，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "坐着，眼神看向门口方向",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅",
+        "description_narrative": "中近景，苏清菡转头看向门口方向，似乎听到了什么动静或看到了人，喊出一个名字。",
+        "dialogue": "朱云朝",
+        "speaker": "苏清菡",
+        "emotion": "惊讶",
+        "duration": 0.84,
+        "description_visual": "中近景平拍镜头；室内客厅；画面中央人物，身穿黄色系结衬衫，坐着，眼神看向门口方向，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "木质双开门，黑色门把手",
+        "description_narrative": "特写镜头聚焦在紧闭的木质双开门上，暗示有人即将进入。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；木质双开门，黑色门把手。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "卡其色长裤，黑色皮鞋",
+                "position": "画面中央",
+                "action": "双腿迈步走进房间",
+                "expression": null
+            }
+        ],
+        "background": "米色地毯，带有棕色纹路",
+        "description_narrative": "低角度跟拍，一双穿着黑色皮鞋的腿迈步走进房间，踩在米色地毯上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "特写低角度镜头（跟拍）；米色地毯，带有棕色纹路；画面中央人物，身穿卡其色长裤，黑色皮鞋，双腿迈步走进房间。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫，卡其色长裤",
+                "position": "画面中央",
+                "action": "大摇大摆地走进房间，手部动作模糊",
+                "expression": null
+            }
+        ],
+        "background": "室内门口区域",
+        "description_narrative": "中景跟拍，朱云朝穿着迷彩衬衫，姿态傲慢地走进房间，动作带有动态模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.8,
+        "description_visual": "中景平拍镜头（跟拍）；室内门口区域；画面中央人物，身穿迷彩花纹衬衫，卡其色长裤，大摇大摆地走进房间，手部动作模糊。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体后仰，双手撑在沙发扶手上",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅，墙上挂画",
+        "description_narrative": "中近景，苏清菡看到来人后，身体后仰，双手撑住沙发，惊讶地喊出对方的名字。",
+        "dialogue": "朱云朝",
+        "speaker": "苏清菡",
+        "emotion": "震惊",
+        "duration": 2.12,
+        "description_visual": "中近景平拍镜头；室内客厅，墙上挂画；画面中央人物，身穿黄色系结衬衫，坐在沙发上，身体后仰，双手撑在沙发扶手上，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "站立，面带微笑，看向门口",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "室内，背景有挂画",
+        "description_narrative": "中景，灰西装男面带得意的微笑，看着走进来的朱云朝，质问他谁让他来的。",
+        "dialogue": "谁让你过来的",
+        "speaker": "灰西装男",
+        "emotion": "得意/质问",
+        "duration": 1.76,
+        "description_visual": "中景平拍镜头；室内，背景有挂画；画面中央人物，身穿灰色格纹西装，站立，面带微笑，看向门口，表情：眉毛舒展，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫，墨镜",
+                "position": "画面中央",
+                "action": "站立，双手叉腰或自然下垂，戴着墨镜",
+                "expression": "下巴微抬，嘴角带笑"
+            }
+        ],
+        "background": "室内，背景有大幅山水画",
+        "description_narrative": "中景，朱云朝戴着墨镜，姿态嚣张，自称是苏氏集团最大的股东。",
+        "dialogue": "作为苏氏集团最大的股东",
+        "speaker": "朱云朝",
+        "emotion": "傲慢",
+        "duration": 1.76,
+        "description_visual": "中景平拍镜头；室内，背景有大幅山水画；画面中央人物，身穿迷彩花纹衬衫，墨镜，站立，双手叉腰或自然下垂，戴着墨镜，表情：下巴微抬，嘴角带笑。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "站立或坐着，眼神震惊",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景挂画",
+        "description_narrative": "中近景，苏清菡听到朱云朝的话，表情震惊，字幕延续上一句台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；室内，背景挂画；画面中央人物，身穿黄色系结衬衫，站立或坐着，眼神震惊，表情：眉毛紧蹙，眼睛睁大，嘴唇紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "站立，双手摘下墨镜",
+                "expression": "眉毛上扬，眼睛看着对方，嘴角带笑"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，朱云朝一边摘下墨镜，一边自信满满地说自己当然有资格来。",
+        "dialogue": "我当然有资格来了",
+        "speaker": "朱云朝",
+        "emotion": "自信/嚣张",
+        "duration": 2.16,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿迷彩花纹衬衫，站立，双手摘下墨镜，表情：眉毛上扬，眼睛看着对方，嘴角带笑。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "站立，侧身",
+                "expression": "眼睛眯起，嘴角上扬，发出笑声"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，灰西装男发出得意的笑声，表情愉悦。",
+        "dialogue": "哼哼哈",
+        "speaker": "灰西装男",
+        "emotion": "得意",
+        "duration": 1.08,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿灰色格纹西装，站立，侧身，表情：眼睛眯起，嘴角上扬，发出笑声。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴唇紧闭"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，苏清菡表情严肃地看着灰西装男，字幕显示灰西装男的笑声延续。",
+        "dialogue": "哼哼哈",
+        "speaker": "灰西装男",
+        "emotion": "严肃",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，站立，表情严肃，表情：眉毛微蹙，眼睛看向一侧，嘴唇紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "站立，面带微笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，灰西装男微笑着宣布自己已经将手中的股份转让。",
+        "dialogue": "我已经将手中的股份",
+        "speaker": "灰西装男",
+        "emotion": "得意",
+        "duration": 2.08,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿灰色格纹西装，站立，面带微笑，表情：眉毛舒展，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "站立，歪头微笑",
+                "expression": "眉毛舒展，眼睛看着对方，露齿笑"
+            }
+        ],
+        "background": "室内，背景挂画",
+        "description_narrative": "中景，朱云朝歪着头，露出得意的笑容，宣布从现在开始。",
+        "dialogue": "从现在开始",
+        "speaker": "朱云朝",
+        "emotion": "得意",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；室内，背景挂画；画面中央人物，身穿迷彩花纹衬衫，站立，歪头微笑，表情：眉毛舒展，眼睛看着对方，露齿笑。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "站立，表情震惊",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，苏清菡听到消息，表情震惊，字幕显示“苏氏集团”。",
+        "dialogue": "苏氏集团",
+        "speaker": "朱云朝",
+        "emotion": "震惊",
+        "duration": 1.04,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，站立，表情震惊，表情：眉毛紧蹙，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "站立，手势夸张",
+                "expression": "眉毛上扬，嘴巴张开，表情夸张"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，朱云朝手势夸张地宣布苏氏集团改姓朱。",
+        "dialogue": "改姓朱",
+        "speaker": "朱云朝",
+        "emotion": "狂妄",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿迷彩花纹衬衫，站立，手势夸张，表情：眉毛上扬，嘴巴张开，表情夸张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "站立，手指指向对方",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，苏清菡愤怒地指着灰西装男，骂他是吃里扒外的东西。",
+        "dialogue": "你...你个吃里扒外的东西",
+        "speaker": "苏清菡",
+        "emotion": "愤怒",
+        "duration": 1.76,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，站立，手指指向对方，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "站立，面带微笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，灰西装男面对指责依然面带微笑，字幕延续苏清菡的骂声。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无所谓",
+        "duration": 1.52,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿灰色格纹西装，站立，面带微笑，表情：眉毛舒展，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "站立，情绪激动",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴张大"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，苏清菡继续愤怒地指责，说爷爷的心血都毁在他手里了。",
+        "dialogue": "都毁在你手里了",
+        "speaker": "苏清菡",
+        "emotion": "悲愤",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，站立，情绪激动，表情：眉毛紧蹙，眼睛睁大，嘴巴张大。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "站立，侧头",
+                "expression": "眼睛闭起，嘴角撇向一边，发出啧啧声"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，灰西装男侧着头，发出啧啧的声音，表示不以为然。",
+        "dialogue": "啧啧啧...",
+        "speaker": "灰西装男",
+        "emotion": "不屑",
+        "duration": 1.36,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿灰色格纹西装，站立，侧头，表情：眼睛闭起，嘴角撇向一边，发出啧啧声。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "站立，抬头",
+                "expression": "眼睛闭起，头部后仰，表情夸张"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，朱云朝抬头，夸张地表示这只是简单的商业行为。",
+        "dialogue": "这只是简单的",
+        "speaker": "朱云朝",
+        "emotion": "夸张",
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿迷彩花纹衬衫，站立，抬头，表情：眼睛闭起，头部后仰，表情夸张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "站立，眼神看向朱云朝",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，苏清菡看着朱云朝，朱云朝继续说苏总当了这么久的总裁。",
+        "dialogue": "苏总当了这么久的总裁",
+        "speaker": "朱云朝",
+        "emotion": "嘲讽",
+        "duration": 2.72,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，站立，眼神看向朱云朝，表情：眉毛微蹙，眼睛注视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "站立，表情疑惑",
+                "expression": "眉毛微蹙，眼睛看着对方，嘴巴微张"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，朱云朝表情疑惑，似乎在问难道连这种事都接受不了。",
+        "dialogue": "不会连这种事都接受不了吧",
+        "speaker": "朱云朝",
+        "emotion": "疑惑/嘲讽",
+        "duration": 2.44,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿迷彩花纹衬衫，站立，表情疑惑，表情：眉毛微蹙，眼睛看着对方，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "站立，侧脸",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴唇紧闭"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，灰西装男侧脸，表情严肃，字幕显示“都接受不了吧”。",
+        "dialogue": "都接受不了吧",
+        "speaker": "朱云朝",
+        "emotion": "严肃",
+        "duration": 2.56,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿灰色格纹西装，站立，侧脸，表情：眉毛微蹙，眼睛看向一侧，嘴唇紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛紧锁，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，朱云朝表情严肃，提出如果苏总还想当总裁。",
+        "dialogue": "苏总如果还想当总裁",
+        "speaker": "朱云朝",
+        "emotion": "严肃/威胁",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿迷彩花纹衬衫，站立，表情严肃，表情：眉毛紧锁，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛紧锁，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中景，朱云朝继续说话，字幕延续上一句。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "威胁",
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头；室内；画面中央人物，身穿迷彩花纹衬衫，站立，身体微侧，表情：眉毛紧锁，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "站立，眼神看向朱云朝",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴唇紧闭"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，苏清菡看着朱云朝，朱云朝要求她乖乖听话。",
+        "dialogue": "你就乖乖听话",
+        "speaker": "朱云朝",
+        "emotion": "命令",
+        "duration": 2.68,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，站立，眼神看向朱云朝，表情：眉毛微蹙，眼睛注视对方，嘴唇紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面右侧",
+                "action": "伸手抬起苏清菡的下巴",
+                "expression": "眉毛上扬，眼睛注视苏清菡，嘴巴微张"
+            },
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面左侧",
+                "action": "被抬起下巴，侧脸",
+                "expression": "眉毛微蹙，眼睛看向朱云朝，嘴唇紧闭"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，朱云朝伸手抬起苏清菡的下巴，轻浮地要求她今天把自己伺候好。",
+        "dialogue": "今天把我伺候好了",
+        "speaker": "朱云朝",
+        "emotion": "轻浮/威胁",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；室内；画面右侧人物，身穿迷彩花纹衬衫，伸手抬起苏清菡的下巴，表情：眉毛上扬，眼睛注视苏清菡，嘴巴微张；画面左侧人物，身穿黄色系结衬衫，被抬起下巴，侧脸，表情：眉毛微蹙，眼睛看向朱云朝，嘴唇紧闭。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "下巴被捏住，眼神看向一侧",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴唇紧闭"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "特写，苏清菡的下巴被捏住，朱云朝说一切都好说。",
+        "dialogue": "一切都好说",
+        "speaker": "朱云朝",
+        "emotion": "轻浮",
+        "duration": 2.84,
+        "description_visual": "特写平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，下巴被捏住，眼神看向一侧，表情：眉毛微蹙，眼睛看向侧方，嘴唇紧闭。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "站立，看着苏清菡",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，朱云朝看着苏清菡，苏清菡愤怒地让他死了这条心。",
+        "dialogue": "姓朱的我告诉你",
+        "speaker": "苏清菡",
+        "emotion": "愤怒",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿迷彩花纹衬衫，站立，看着苏清菡，表情：眉毛舒展，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "站立，手指指向对方",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，苏清菡愤怒地指着朱云朝，让他最好死了这条心。",
+        "dialogue": "你最好死了这条心",
+        "speaker": "苏清菡",
+        "emotion": "愤怒/决绝",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，站立，手指指向对方，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "站立，抬手",
+                "expression": "眉毛紧锁，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，朱云朝抬手，字幕延续苏清菡的话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恼怒",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿迷彩花纹衬衫，站立，抬手，表情：眉毛紧锁，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "站立，表情愤怒",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴紧闭"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "中近景，苏清菡表情愤怒，朱云朝骂她给脸不要脸。",
+        "dialogue": "苏清菡你别给脸不要脸",
+        "speaker": "朱云朝",
+        "emotion": "愤怒",
+        "duration": 2.96,
+        "description_visual": "中近景平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，站立，表情愤怒，表情：眉毛紧锁，眼睛瞪大，嘴巴紧闭。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴唇紧闭"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "特写，苏清菡头部微侧，表情冷峻。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷峻",
+        "duration": 0.72,
+        "description_visual": "特写平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，头部微侧，表情：眉毛微蹙，眼睛看向一侧，嘴唇紧闭。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "朱云朝",
+                "gender": "男",
+                "clothing": "迷彩花纹衬衫",
+                "position": "画面中央",
+                "action": "握拳",
+                "expression": null
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "特写，一只戴着戒指的手握成拳头，似乎是朱云朝准备动手。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；室内；画面中央人物，身穿迷彩花纹衬衫，握拳。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清菡",
+                "gender": "女",
+                "clothing": "黄色系结衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神惊恐",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内",
+        "description_narrative": "特写，苏清菡眼神惊恐，似乎看到了什么突发状况。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；室内；画面中央人物，身穿黄色系结衬衫，头部微侧，眼神惊恐，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色闪光",
+        "description_narrative": "画面全白，可能是强光或转场效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.04,
+        "description_visual": "全景平拍镜头；白色闪光。"
+    }
+]

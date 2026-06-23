@@ -1,0 +1,865 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景，中央显示白色标题文字“都市极品保安”。",
+        "description_narrative": "黑色背景上显示白色标题“都市极品保安”，字体带有故障艺术效果，镜头固定。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；黑色背景，中央显示白色标题文字“都市极品保安”。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑屏幕，无可见内容。",
+        "description_narrative": "纯黑屏幕，作为场景过渡，无可见人物或物体。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "全景平拍镜头；纯黑屏幕，无可见内容。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面左侧",
+                "action": "一只手稳稳地握着一个白色陶瓷杯，杯中盛有浅褐色液体。",
+                "expression": "无面部表情可见"
+            }
+        ],
+        "background": "模糊的卧室背景，可见白色床单和枕头，光线柔和。",
+        "description_narrative": "特写镜头聚焦于一只手握着盛有浅褐色液体的白色陶瓷杯，背景虚化，显示卧室环境。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "特写平拍镜头；模糊的卧室背景，可见白色床单和枕头，光线柔和。；画面左侧人物，身穿未知，一只手稳稳地握着一个白色陶瓷杯，杯中盛有浅褐色液体。，表情：无面部表情可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面右侧",
+                "action": "身体前倾，低头靠近床上的女子，右手轻抚女子的头部。",
+                "expression": "眉毛微展，眼睛注视下方，嘴巴微张似在说话"
+            },
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣",
+                "position": "画面左下前景",
+                "action": "躺在被子里，仅露出头部和部分肩膀。",
+                "expression": "无面部表情可见"
+            }
+        ],
+        "background": "明亮的卧室，背景有窗户透进自然光。",
+        "description_narrative": "低角度镜头推进，方不凡身穿黑色睡衣俯身靠近床上的蓝衣女子，手抚其头部，轻声唤醒她。",
+        "dialogue": "哎醒了 粥给你熬好了",
+        "speaker": "方不凡",
+        "emotion": "关切",
+        "duration": 2.76,
+        "description_visual": "中近景低角度镜头（推进）；明亮的卧室，背景有窗户透进自然光。；画面右侧人物，身穿黑色丝绸睡衣，白色滚边，身体前倾，低头靠近床上的女子，右手轻抚女子的头部。，表情：眉毛微展，眼睛注视下方，嘴巴微张似在说话；画面左下前景人物，身穿蓝色丝绸睡衣，躺在被子里，仅露出头部和部分肩膀。，表情：无面部表情可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "身体站直，微微转身，视线看向画面外。",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴闭合"
+            }
+        ],
+        "background": "卧室内部，背景模糊，可见部分家具轮廓。",
+        "description_narrative": "镜头跟随方不凡动作，他站直身体并转身，催促对方起床吃东西。",
+        "dialogue": "快点起来吃吧",
+        "speaker": "方不凡",
+        "emotion": "温和",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头（摇镜）；卧室内部，背景模糊，可见部分家具轮廓。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，身体站直，微微转身，视线看向画面外。，表情：眉毛舒展，眼睛看向侧方，嘴巴闭合。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，双手紧紧抓着白色被子护在胸前，身体后仰。",
+                "expression": "眉毛紧蹙，眼睛睁大充满警惕，嘴巴紧闭神情愤怒"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮均匀。",
+        "description_narrative": "蓝衣女子坐在床上，惊恐地抓着被子，眼神警惕地瞪着前方，喊出对方的名字。",
+        "dialogue": "方不凡",
+        "speaker": "蓝衣女子",
+        "emotion": "愤怒/警惕",
+        "duration": 0.72,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮均匀。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，双手紧紧抓着白色被子护在胸前，身体后仰。，表情：眉毛紧蹙，眼睛睁大充满警惕，嘴巴紧闭神情愤怒。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "身体微微前倾，双手抓紧被子，眼神质问。",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴微张似在质问"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子保持警惕姿势，眉头紧锁，质问方不凡对她做了什么。",
+        "dialogue": "你又对我做了什么啊",
+        "speaker": "蓝衣女子",
+        "emotion": "质问/愤怒",
+        "duration": 3.12,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，身体微微前倾，双手抓紧被子，眼神质问。，表情：眉毛紧锁，眼睛直视前方，嘴巴微张似在质问。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面右侧",
+                "action": "侧身站立，头部转向女子方向，双手自然下垂。",
+                "expression": "眉毛微挑，眼睛看向女子，嘴巴微张似在辩解"
+            }
+        ],
+        "background": "模糊的室内背景，可见部分墙壁和门框。",
+        "description_narrative": "方不凡侧身站立，表情无辜，辩解自己什么都没做，只是送她回来。",
+        "dialogue": "我什么都没干啊 就是把你从酒吧送回来了而已",
+        "speaker": "方不凡",
+        "emotion": "无奈/辩解",
+        "duration": 3.2,
+        "description_visual": "中近景侧拍镜头；模糊的室内背景，可见部分墙壁和门框。；画面右侧人物，身穿黑色丝绸睡衣，白色滚边，侧身站立，头部转向女子方向，双手自然下垂。，表情：眉毛微挑，眼睛看向女子，嘴巴微张似在辩解。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "举起右手食指指向对方，身体前倾，表情激动。",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴张开大声说话"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子情绪激动，手指着方不凡，历数他之前的“劣迹”，提到公司和偷睡衣的事。",
+        "dialogue": "上上次在公司那样 上次又偷 我睡衣",
+        "speaker": "蓝衣女子",
+        "emotion": "愤怒/指责",
+        "duration": 2.68,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，举起右手食指指向对方，身体前倾，表情激动。，表情：眉毛上扬，眼睛瞪大，嘴巴张开大声说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "头部微转，眼神惊讶地看向女子方向。",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张呈惊讶状"
+            }
+        ],
+        "background": "模糊的室内背景，色调偏冷。",
+        "description_narrative": "镜头切至方不凡特写，他听到女子的指责后露出惊讶和错愕的表情，女子声音作为画外音继续。",
+        "dialogue": "上上次在公司那样 上次又偷 我睡衣",
+        "speaker": "蓝衣女子",
+        "emotion": "惊讶",
+        "duration": 1.48,
+        "description_visual": "特写侧拍镜头；模糊的室内背景，色调偏冷。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，头部微转，眼神惊讶地看向女子方向。，表情：眉毛微蹙，眼睛睁大，嘴巴微张呈惊讶状。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "手指指向对方，身体前倾，表情夸张。",
+                "expression": "眉毛高挑，眼睛圆睁，嘴巴大张大声喊叫"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子继续激动地指责，手指着方不凡，强调他这次又做了什么。",
+        "dialogue": "上上次在公司那样 上次又偷 我睡衣",
+        "speaker": "蓝衣女子",
+        "emotion": "愤怒/激动",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，手指指向对方，身体前倾，表情夸张。，表情：眉毛高挑，眼睛圆睁，嘴巴大张大声喊叫。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "双手抬起至胸前，掌心向外，做出防御姿态。",
+                "expression": "眉毛紧蹙，眼睛看向女子，嘴巴微张似欲解释"
+            }
+        ],
+        "background": "模糊的室内背景，可见黄色物体。",
+        "description_narrative": "方不凡举起双手做出防御姿态，表情惊慌，女子声音作为画外音指责他这次又做了什么。",
+        "dialogue": "这一次你又",
+        "speaker": "蓝衣女子",
+        "emotion": "惊慌/防御",
+        "duration": 0.76,
+        "description_visual": "中近景侧拍镜头；模糊的室内背景，可见黄色物体。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，双手抬起至胸前，掌心向外，做出防御姿态。，表情：眉毛紧蹙，眼睛看向女子，嘴巴微张似欲解释。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "双手捂住脸部，身体后仰，似乎在躲避。",
+                "expression": "无面部表情可见，肢体动作显示抗拒"
+            }
+        ],
+        "background": "模糊的室内背景，前景有白色物体遮挡。",
+        "description_narrative": "方不凡双手捂脸，身体后仰躲避，女子声音作为画外音继续指责。",
+        "dialogue": "这一次你又",
+        "speaker": "蓝衣女子",
+        "emotion": "抗拒/无奈",
+        "duration": 0.64,
+        "description_visual": "中近景侧拍镜头；模糊的室内背景，前景有白色物体遮挡。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，双手捂住脸部，身体后仰，似乎在躲避。，表情：无面部表情可见，肢体动作显示抗拒。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣",
+                "position": "画面左侧",
+                "action": "身体前倾，双手向前伸出，似要推搡或攻击。",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴张开露齿，表情凶狠"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子情绪爆发，身体前倾双手伸出，骂方不凡不是好东西。",
+        "dialogue": "你果然不是什么好东西",
+        "speaker": "蓝衣女子",
+        "emotion": "愤怒/攻击性",
+        "duration": 1.48,
+        "description_visual": "中近景低角度镜头（推进）；米色软包床头板，光线明亮。；画面左侧人物，身穿蓝色丝绸睡衣，身体前倾，双手向前伸出，似要推搡或攻击。，表情：眉毛紧锁，眼睛眯起，嘴巴张开露齿，表情凶狠。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面右侧",
+                "action": "身体后仰，双手摆动，试图安抚或解释。",
+                "expression": "眉毛紧蹙，眼睛看向女子，嘴巴快速开合"
+            },
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣",
+                "position": "画面左下前景",
+                "action": "仅可见部分身体和手臂。",
+                "expression": "无面部表情可见"
+            }
+        ],
+        "background": "卧室环境，背景有窗帘和墙壁。",
+        "description_narrative": "方不凡慌乱地摆手后退，连声说别别别，解释自己什么都没干，只是送她回来。",
+        "dialogue": "别别别 我什么都没干 你昨天喝多了 我把你送回来了",
+        "speaker": "方不凡",
+        "emotion": "慌乱/急切",
+        "duration": 5.12,
+        "description_visual": "中景过肩镜头（摇镜）；卧室环境，背景有窗帘和墙壁。；画面右侧人物，身穿黑色丝绸睡衣，白色滚边，身体后仰，双手摆动，试图安抚或解释。，表情：眉毛紧蹙，眼睛看向女子，嘴巴快速开合；画面左下前景人物，身穿蓝色丝绸睡衣，仅可见部分身体和手臂。，表情：无面部表情可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "身体坐直，低头看着自己的衣服，眉头紧锁。",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭神情怀疑"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子低头查看自己的衣服，神情怀疑，质问是谁给她换的衣服。",
+        "dialogue": "那我衣服是谁给我换的",
+        "speaker": "蓝衣女子",
+        "emotion": "怀疑/质问",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，身体坐直，低头看着自己的衣服，眉头紧锁。，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭神情怀疑。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "低头站立，眼神躲闪，双手自然下垂。",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张似在承认"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡低头承认是自己换的，表情略显尴尬和心虚。",
+        "dialogue": "是我换的",
+        "speaker": "方不凡",
+        "emotion": "尴尬/承认",
+        "duration": 4.04,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，低头站立，眼神躲闪，双手自然下垂。，表情：眉毛微垂，眼睛下视，嘴巴微张似在承认。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "抬手摸后脑勺，眼神看向侧方，身体微侧。",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张似在解释"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡摸着后脑勺，解释说她昨天吐了一身，自己不能不管。",
+        "dialogue": "但是你昨天吐了一身 我不能不管你吧",
+        "speaker": "方不凡",
+        "emotion": "无奈/解释",
+        "duration": 2.24,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，抬手摸后脑勺，眼神看向侧方，身体微侧。，表情：眉毛微挑，眼睛看向侧方，嘴巴微张似在解释。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，手抚头发，眼神看着前方。",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭神情严肃"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子坐在床上听着解释，手抚头发，表情严肃，方不凡声音作为画外音继续。",
+        "dialogue": "但是你昨天吐了一身 我不能不管你吧",
+        "speaker": "方不凡",
+        "emotion": "严肃/思考",
+        "duration": 0.64,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，手抚头发，眼神看着前方。，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭神情严肃。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "身体正对前方，眼神看向女子方向，嘴巴微张。",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡继续解释，强调不能不管她，表情诚恳。",
+        "dialogue": "但是你昨天吐了一身 我不能不管你吧",
+        "speaker": "方不凡",
+        "emotion": "诚恳",
+        "duration": 0.88,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，身体正对前方，眼神看向女子方向，嘴巴微张。，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，身体微侧，眼神向下。",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴微张似在询问"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子低头思考片刻，随即抬头质问方不凡有没有对她动手动脚。",
+        "dialogue": "那你有没有对我动手动脚",
+        "speaker": "蓝衣女子",
+        "emotion": "怀疑/质问",
+        "duration": 3.84,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，身体微侧，眼神向下。，表情：眉毛紧蹙，眼睛下视，嘴巴微张似在询问。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "身体站直，眼神坚定地看着前方。",
+                "expression": "眉毛微扬，眼睛直视前方，嘴巴紧闭神情正经"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡表情严肃，挺起胸膛自称是正人君子。",
+        "dialogue": "我是正人君子",
+        "speaker": "方不凡",
+        "emotion": "正经/严肃",
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，身体站直，眼神坚定地看着前方。，表情：眉毛微扬，眼睛直视前方，嘴巴紧闭神情正经。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，眼神看着前方，表情略带怀疑。",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子看着方不凡，表情略带怀疑，方不凡声音作为画外音继续。",
+        "dialogue": "我是正人君子",
+        "speaker": "方不凡",
+        "emotion": "怀疑",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，眼神看着前方，表情略带怀疑。，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "低头，眼神向下，手摸脖子。",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张似在承认小错"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡低头承认只是看了一眼，表情略显心虚。",
+        "dialogue": "就是看了一眼",
+        "speaker": "方不凡",
+        "emotion": "心虚/承认",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，低头，眼神向下，手摸脖子。，表情：眉毛微垂，眼睛下视，嘴巴微张似在承认小错。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，身体微侧，眼神惊讶地看着前方。",
+                "expression": "眉毛高挑，眼睛睁大，嘴巴微张呈惊讶状"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子听到后瞪大眼睛，震惊地喊出一个“你”字。",
+        "dialogue": "你",
+        "speaker": "蓝衣女子",
+        "emotion": "震惊/愤怒",
+        "duration": 4.64,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，身体微侧，眼神惊讶地看着前方。，表情：眉毛高挑，眼睛睁大，嘴巴微张呈惊讶状。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "低头，身体微侧，似在准备离开。",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡低头准备离开，蓝衣女子声音作为画外音喊道要换衣服。",
+        "dialogue": "我要换衣服",
+        "speaker": "蓝衣女子",
+        "emotion": "命令",
+        "duration": 2.72,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，低头，身体微侧，似在准备离开。，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，眼神看着前方，表情恢复平静。",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子表情平静下来，要求方不凡一会送她去公司，忙完事跟她回家。",
+        "dialogue": "你一会送我去趟公司 等公司的事忙完跟我回趟家",
+        "speaker": "蓝衣女子",
+        "emotion": "平静/命令",
+        "duration": 5.08,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，眼神看着前方，表情恢复平静。，表情：眉毛舒展，眼睛直视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "低头，眼神疑惑地看着下方。",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张似在重复"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡低头疑惑地重复“回家”二字，蓝衣女子声音作为画外音。",
+        "dialogue": "回家",
+        "speaker": "蓝衣女子",
+        "emotion": "疑惑",
+        "duration": 0.84,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，低头，眼神疑惑地看着下方。，表情：眉毛微蹙，眼睛下视，嘴巴微张似在重复。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，眼神看着前方，嘴巴微张解释。",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子解释回家是为了见妈妈，给妈妈介绍他。",
+        "dialogue": "回家见我妈给你介绍介绍他",
+        "speaker": "蓝衣女子",
+        "emotion": "解释",
+        "duration": 5.24,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，眼神看着前方，嘴巴微张解释。，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "低头，眼神向下，表情略显无奈。",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡低头听着，蓝衣女子声音作为画外音解释是为了避免妈妈介绍乱七八糟的公子哥。",
+        "dialogue": "免得她又给我介绍那些乱七八糟的公子哥",
+        "speaker": "蓝衣女子",
+        "emotion": "无奈",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，低头，眼神向下，表情略显无奈。，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，眼神看着前方，表情认真。",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子继续解释，表情认真，强调不想见那些公子哥。",
+        "dialogue": "免得她又给我介绍那些乱七八糟的公子哥",
+        "speaker": "蓝衣女子",
+        "emotion": "认真",
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，眼神看着前方，表情认真。，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "低头，眼神向下，似在思考。",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡低头思考，蓝衣女子声音作为画外音询问上次在公司的事。",
+        "dialogue": "啊 那上次在公司不是",
+        "speaker": "蓝衣女子",
+        "emotion": "思考",
+        "duration": 2.32,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，低头，眼神向下，似在思考。，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，眼神看着前方，表情严肃。",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子解释上次是保镖，这次是老公，情况不一样。",
+        "dialogue": "上次是保镖 这次是老公情况能一样吗？",
+        "speaker": "蓝衣女子",
+        "emotion": "严肃/解释",
+        "duration": 4.64,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，眼神看着前方，表情严肃。，表情：眉毛微蹙，眼睛直视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "低头，眼神向下，似在确认。",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡低头确认，问是不是要官宣了。",
+        "dialogue": "哦 是要官宣了是吧",
+        "speaker": "方不凡",
+        "emotion": "确认/试探",
+        "duration": 2.96,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，低头，眼神向下，似在确认。，表情：眉毛微垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，眼神看着前方，表情严肃。",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张警告"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子警告方不凡不要有别的想法。",
+        "dialogue": "哎你可别有别的想法",
+        "speaker": "蓝衣女子",
+        "emotion": "警告/严肃",
+        "duration": 2.96,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，眼神看着前方，表情严肃。，表情：眉毛微蹙，眼睛直视前方，嘴巴微张警告。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "方不凡",
+                "gender": "男",
+                "clothing": "黑色丝绸睡衣，白色滚边",
+                "position": "画面中央",
+                "action": "低头，眼神向下，叹了口气。",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张感叹"
+            }
+        ],
+        "background": "卧室门框背景，光线柔和。",
+        "description_narrative": "方不凡低头感叹女人心海底针，表情无奈。",
+        "dialogue": "哎女人心海底针啊",
+        "speaker": "方不凡",
+        "emotion": "无奈/感叹",
+        "duration": 5.76,
+        "description_visual": "中近景平拍镜头；卧室门框背景，光线柔和。；画面中央人物，身穿黑色丝绸睡衣，白色滚边，低头，眼神向下，叹了口气。，表情：眉毛微垂，眼睛下视，嘴巴微张感叹。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣女子",
+                "gender": "女",
+                "clothing": "蓝色丝绸睡衣，佩戴H形项链",
+                "position": "画面中央",
+                "action": "坐在床上，闭上眼睛，表情平静。",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "米色软包床头板，光线明亮。",
+        "description_narrative": "蓝衣女子闭上眼睛，表情平静，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；米色软包床头板，光线明亮。；画面中央人物，身穿蓝色丝绸睡衣，佩戴H形项链，坐在床上，闭上眼睛，表情平静。，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕，无可见内容。",
+        "description_narrative": "白色屏幕，作为场景结束，无可见人物或物体。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.0,
+        "description_visual": "全景平拍镜头；白色屏幕，无可见内容。。"
+    }
+]

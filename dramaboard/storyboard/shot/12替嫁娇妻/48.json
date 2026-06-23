@@ -1,0 +1,801 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面左侧",
+                "action": "从身后环抱王妃",
+                "expression": "眉毛舒展，眼睛微闭，嘴角含笑"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面右侧",
+                "action": "被王爷环抱，身体微微前倾",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "深色雕花屏风背景，金色装饰点缀，光线柔和",
+        "description_narrative": "全景镜头，王爷身穿浅色刺绣长袍从身后环抱着身穿白色古装的王妃，背景是深色雕花屏风，画面上方有粉色标题字样。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；深色雕花屏风背景，金色装饰点缀，光线柔和；画面左侧人物，身穿浅色刺绣长袍，从身后环抱王妃，表情：眉毛舒展，眼睛微闭，嘴角含笑；画面右侧人物，身穿白色刺绣古装，被王爷环抱，身体微微前倾，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "侧脸示人，头部微低",
+                "expression": "眉毛平展，眼睛向下看，嘴唇微抿"
+            }
+        ],
+        "background": "灰色墙壁背景，光线均匀",
+        "description_narrative": "特写镜头，王妃侧脸示人，发髻精致配有珠钗，她微微低头，神情略显凝重，左侧有竖排文字提示。",
+        "dialogue": "太后娘娘醒了",
+        "speaker": "太医",
+        "emotion": "关切",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；灰色墙壁背景，光线均匀；画面中央人物，身穿白色刺绣古装，侧脸示人，头部微低，表情：眉毛平展，眼睛向下看，嘴唇微抿。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太医",
+                "gender": "男",
+                "clothing": "蓝灰色官服",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微皱，眼睛下视，嘴巴微张似在说话"
+            }
+        ],
+        "background": "模糊的室内背景，暖色调",
+        "description_narrative": "特写镜头，太医身穿蓝灰色官服，留着胡须，头戴发冠，他低着头，神情急切地汇报情况。",
+        "dialogue": "快给太后娘娘服药",
+        "speaker": "太医",
+        "emotion": "急切",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；模糊的室内背景，暖色调；画面中央人物，身穿蓝灰色官服，头部微低，视线向下，表情：眉毛微皱，眼睛下视，嘴巴微张似在说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "绿色婢女服饰",
+                "position": "画面左侧",
+                "action": "双手捧着药碗",
+                "expression": "眉毛平展，眼睛看向前方，嘴唇紧闭"
+            },
+            {
+                "name": "太医",
+                "gender": "男",
+                "clothing": "蓝灰色官服",
+                "position": "画面右侧",
+                "action": "站在侍女身后，手部有动作",
+                "expression": "眉毛微挑，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "床榻一角，挂着浅色帷幔",
+        "description_narrative": "中景镜头，侍女身穿绿色服饰捧着药碗站在左侧，太医站在她身后，背景是挂着帷幔的床榻。",
+        "dialogue": "太后暂不",
+        "speaker": "王妃",
+        "emotion": "坚定",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；床榻一角，挂着浅色帷幔；画面左侧人物，身穿绿色婢女服饰，双手捧着药碗，表情：眉毛平展，眼睛看向前方，嘴唇紧闭；画面右侧人物，身穿蓝灰色官服，站在侍女身后，手部有动作，表情：眉毛微挑，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "伸出手臂做出阻拦动作",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴唇微张"
+            }
+        ],
+        "background": "床榻背景，浅色帷幔",
+        "description_narrative": "中景镜头，王妃身穿白色古装，站在床榻前，伸出手臂做出阻拦的动作，神情严肃。",
+        "dialogue": "用服药",
+        "speaker": "王妃",
+        "emotion": "坚决",
+        "duration": 0.84,
+        "description_visual": "中景平拍镜头；床榻背景，浅色帷幔；画面中央人物，身穿白色刺绣古装，伸出手臂做出阻拦动作，表情：眉毛微蹙，眼睛注视前方，嘴唇微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "头部微转，视线看向一侧",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张似在询问"
+            }
+        ],
+        "background": "深色室内背景，光线较暗",
+        "description_narrative": "特写镜头，王爷身穿浅色长袍，头戴发冠，他转头看向一侧，眼神中带着疑惑和询问。",
+        "dialogue": "这药可是太医院特意给太后配的，为何不吃？",
+        "speaker": "太医",
+        "emotion": "疑惑",
+        "duration": 3.4,
+        "description_visual": "特写平拍镜头；深色室内背景，光线较暗；画面中央人物，身穿浅色刺绣长袍，头部微转，视线看向一侧，表情：眉毛微挑，眼睛睁大，嘴巴微张似在询问。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向一侧",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴微张似在解释"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王妃神情严肃，眉头紧锁，她看着前方，似乎在解释原因。",
+        "dialogue": "方子是好方子，只是太后娘娘刚刚醒来，又吐了两次，怕是虚不受补。",
+        "speaker": "王妃",
+        "emotion": "担忧",
+        "duration": 5.56,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿白色刺绣古装，头部微侧，视线看向一侧，表情：眉毛紧蹙，眼睛注视前方，嘴巴微张似在解释。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛平展，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王爷低着头，眼神向下，似乎在思考或倾听。",
+        "dialogue": "这药可是我和",
+        "speaker": "太医",
+        "emotion": "辩解",
+        "duration": 1.76,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿浅色刺绣长袍，头部微低，视线向下，表情：眉毛平展，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "绿色婢女服饰",
+                "position": "画面左侧",
+                "action": "双手捧着药碗",
+                "expression": "眉毛平展，眼睛看向前方"
+            },
+            {
+                "name": "太医",
+                "gender": "男",
+                "clothing": "蓝灰色官服",
+                "position": "画面右侧",
+                "action": "侧身站立，手部有动作",
+                "expression": "眉毛微皱，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "床榻背景，浅色帷幔",
+        "description_narrative": "中景镜头，侍女捧着药碗，太医站在她身旁侧身说话，背景是床榻。",
+        "dialogue": "几位太医商量着配的。",
+        "speaker": "太医",
+        "emotion": "认真",
+        "duration": 1.56,
+        "description_visual": "中景平拍镜头；床榻背景，浅色帷幔；画面左侧人物，身穿绿色婢女服饰，双手捧着药碗，表情：眉毛平展，眼睛看向前方；画面右侧人物，身穿蓝灰色官服，侧身站立，手部有动作，表情：眉毛微皱，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向一侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王妃侧脸示人，神情专注地听着太医的解释。",
+        "dialogue": "也将如今太后的脾胃虚弱也考虑进去。",
+        "speaker": "太医",
+        "emotion": "解释",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿白色刺绣古装，头部微侧，视线看向一侧，表情：眉毛微蹙，眼睛注视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太医",
+                "gender": "男",
+                "clothing": "蓝灰色官服",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微皱，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，太医低着头，继续解释药方的温和特性。",
+        "dialogue": "最是温和健脾，对太后的凤体不会有所损害的。",
+        "speaker": "太医",
+        "emotion": "保证",
+        "duration": 3.48,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿蓝灰色官服，头部微低，视线向下，表情：眉毛微皱，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "头部微转，视线看向一侧",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王爷转头看向一侧，似乎在回应王妃的呼唤。",
+        "dialogue": "王爷，",
+        "speaker": "王妃",
+        "emotion": "请求",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿浅色刺绣长袍，头部微转，视线看向一侧，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "侧脸示人，头部微低",
+                "expression": "眉毛平展，眼睛向下看，嘴唇微抿"
+            }
+        ],
+        "background": "灰色墙壁背景",
+        "description_narrative": "特写镜头，王妃侧脸示人，她建议等太后彻底醒了再服药。",
+        "dialogue": "还是等太后娘娘彻底醒了之后，再服用吧。",
+        "speaker": "王妃",
+        "emotion": "建议",
+        "duration": 2.92,
+        "description_visual": "特写平拍镜头；灰色墙壁背景；画面中央人物，身穿白色刺绣古装，侧脸示人，头部微低，表情：眉毛平展，眼睛向下看，嘴唇微抿。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "头部微转，视线看向一侧",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王爷看着前方，同意了王妃的建议。",
+        "dialogue": "既然如此，",
+        "speaker": "王爷",
+        "emotion": "同意",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿浅色刺绣长袍，头部微转，视线看向一侧，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太医",
+                "gender": "男",
+                "clothing": "蓝灰色官服",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微皱，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，太医低着头，听从王爷的吩咐。",
+        "dialogue": "那就让皇祖母好好休息，",
+        "speaker": "王爷",
+        "emotion": "吩咐",
+        "duration": 2.16,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿蓝灰色官服，头部微低，视线向下，表情：眉毛微皱，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "绿色婢女服饰",
+                "position": "画面左侧",
+                "action": "双手捧着药碗",
+                "expression": "眉毛平展，眼睛看向前方"
+            },
+            {
+                "name": "太医",
+                "gender": "男",
+                "clothing": "蓝灰色官服",
+                "position": "画面右侧",
+                "action": "侧身站立",
+                "expression": "眉毛微皱，眼睛看向前方"
+            }
+        ],
+        "background": "床榻背景，浅色帷幔",
+        "description_narrative": "中景镜头，侍女和太医站在床榻旁，准备离开。",
+        "dialogue": "大家都离开吧。",
+        "speaker": "王爷",
+        "emotion": "命令",
+        "duration": 2.76,
+        "description_visual": "中景平拍镜头；床榻背景，浅色帷幔；画面左侧人物，身穿绿色婢女服饰，双手捧着药碗，表情：眉毛平展，眼睛看向前方；画面右侧人物，身穿蓝灰色官服，侧身站立，表情：眉毛微皱，眼睛看向前方。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面左侧",
+                "action": "站立，侧身看向王妃",
+                "expression": "眉毛舒展，眼睛注视王妃，嘴唇微张"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面右侧",
+                "action": "背对镜头，长发披肩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "床榻背景，有人躺在床上",
+        "description_narrative": "中景镜头，王爷站在床边，侧身看向背对镜头的王妃，床上躺着太后。",
+        "dialogue": "嬷嬷，",
+        "speaker": "王爷",
+        "emotion": "呼唤",
+        "duration": 0.72,
+        "description_visual": "中景平拍镜头；床榻背景，有人躺在床上；画面左侧人物，身穿浅色刺绣长袍，站立，侧身看向王妃，表情：眉毛舒展，眼睛注视王妃，嘴唇微张；画面右侧人物，身穿白色刺绣古装，背对镜头，长发披肩，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "侧脸示人，头部微转",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王爷侧脸示人，他感谢嬷嬷的照料。",
+        "dialogue": "有劳你了。",
+        "speaker": "王爷",
+        "emotion": "感谢",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿浅色刺绣长袍，侧脸示人，头部微转，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "正视前方",
+                "expression": "眉毛平展，眼睛注视前方，嘴唇紧闭"
+            }
+        ],
+        "background": "灰色墙壁背景",
+        "description_narrative": "特写镜头，王妃正视前方，神情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；灰色墙壁背景；画面中央人物，身穿白色刺绣古装，正视前方，表情：眉毛平展，眼睛注视前方，嘴唇紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "白色衣物",
+                "position": "画面中央",
+                "action": "模糊的肩部特写",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的深色背景",
+        "description_narrative": "特写镜头，画面模糊，显示某人的肩部，场景转换。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；模糊的深色背景；画面中央人物，身穿白色衣物，模糊的肩部特写，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "深色衣物",
+                "position": "画面左侧",
+                "action": "模糊的身影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑暗的室内角落",
+        "description_narrative": "近景镜头，画面较暗，显示室内角落，有人声传来。",
+        "dialogue": "王爷，太后送来了中秋晚宴的",
+        "speaker": "丫鬟",
+        "emotion": "汇报",
+        "duration": 3.32,
+        "description_visual": "近景平拍镜头；黑暗的室内角落；画面左侧人物，身穿深色衣物，模糊的身影，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "浅蓝白色服饰",
+                "position": "画面中央",
+                "action": "侧脸示人，头部微转",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，丫鬟侧脸示人，她正在递送请帖。",
+        "dialogue": "请帖给您。",
+        "speaker": "丫鬟",
+        "emotion": "恭敬",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿浅蓝白色服饰，侧脸示人，头部微转，表情：眉毛平展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "浅色衣物",
+                "position": "画面右侧",
+                "action": "模糊的手部动作",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的地面/地毯",
+        "description_narrative": "特写镜头，画面模糊，显示有人接过请帖的动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；模糊的地面/地毯；画面右侧人物，身穿浅色衣物，模糊的手部动作，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "坐着，手部有动作",
+                "expression": "眉毛平展，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "深色室内背景，有屏风",
+        "description_narrative": "中景镜头，王爷坐着，低头看着手中的请帖。",
+        "dialogue": "嗯。",
+        "speaker": "王爷",
+        "emotion": "回应",
+        "duration": 0.6,
+        "description_visual": "中景平拍镜头；深色室内背景，有屏风；画面中央人物，身穿浅色刺绣长袍，坐着，手部有动作，表情：眉毛平展，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "头部微转，视线看向一侧",
+                "expression": "眉毛舒展，眼睛注视前方，嘴唇微张"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王爷转头看向一侧，评论太后的恢复情况。",
+        "dialogue": "看来太后恢复的不错。",
+        "speaker": "王爷",
+        "emotion": "欣慰",
+        "duration": 2.88,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿浅色刺绣长袍，头部微转，视线看向一侧，表情：眉毛舒展，眼睛注视前方，嘴唇微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "正视前方，面带微笑",
+                "expression": "眉毛舒展，眼睛微弯，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，王妃面带微笑，看着王爷，神情温婉。",
+        "dialogue": "还是王妃医术了得。",
+        "speaker": "王爷",
+        "emotion": "称赞",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色刺绣古装，正视前方，面带微笑，表情：眉毛舒展，眼睛微弯，嘴角上扬。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛平展，眼睛下视，嘴唇微张"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王爷低着头，似乎在思考王妃的问题。",
+        "dialogue": "王爷，我们是不是要给太后准备贺礼？",
+        "speaker": "王妃",
+        "emotion": "询问",
+        "duration": 3.72,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿浅色刺绣长袍，头部微低，视线向下，表情：眉毛平展，眼睛下视，嘴唇微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "头部微转，视线看向一侧",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王爷转头看向一侧，提议去聚宝楼。",
+        "dialogue": "聚宝楼有珍宝拍卖，",
+        "speaker": "王爷",
+        "emotion": "提议",
+        "duration": 3.72,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿浅色刺绣长袍，头部微转，视线看向一侧，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "正视前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴唇微抿"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，王妃看着王爷，似乎在考虑他的提议。",
+        "dialogue": "王妃可想去？",
+        "speaker": "王爷",
+        "emotion": "询问",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色刺绣古装，正视前方，表情：眉毛微蹙，眼睛注视前方，嘴唇微抿。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅色刺绣长袍",
+                "position": "画面中央",
+                "action": "头部微转，视线看向一侧",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "深色室内背景",
+        "description_narrative": "特写镜头，王爷看着前方，等待王妃的回答。",
+        "dialogue": "当然要去。",
+        "speaker": "王妃",
+        "emotion": "肯定",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；深色室内背景；画面中央人物，身穿浅色刺绣长袍，头部微转，视线看向一侧，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "深色衣物",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内场景，有雕花椅子和屏风",
+        "description_narrative": "全景镜头，显示室内环境，有雕花椅子和屏风，有人站在左侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "全景平拍镜头；室内场景，有雕花椅子和屏风；画面左侧人物，身穿深色衣物，站立，表情：不可见。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深红色与黑色相间的服饰",
+                "position": "画面中央",
+                "action": "侧脸示人，头部微转",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "特写镜头，侍卫侧脸示人，他正在向王爷传达口信。",
+        "dialogue": "王爷，",
+        "speaker": "侍卫",
+        "emotion": "恭敬",
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头；明亮的窗户背景；画面中央人物，身穿深红色与黑色相间的服饰，侧脸示人，头部微转，表情：眉毛平展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深红色与黑色相间的服饰",
+                "position": "画面中央",
+                "action": "侧脸示人，头部微转",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "明亮的窗户背景",
+        "description_narrative": "特写镜头，侍卫继续传达睿王爷的邀请。",
+        "dialogue": "睿王爷请您到聚宝楼一叙。",
+        "speaker": "侍卫",
+        "emotion": "传达",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；明亮的窗户背景；画面中央人物，身穿深红色与黑色相间的服饰，侧脸示人，头部微转，表情：眉毛平展，眼睛注视前方，嘴巴微张。"
+    }
+]

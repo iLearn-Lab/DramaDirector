@@ -1,0 +1,842 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "前景",
+                "action": "背部朝向镜头，身体前倾",
+                "expression": "不可见"
+            },
+            {
+                "name": "格子衫女子",
+                "gender": "女",
+                "clothing": "蓝白格纹毛衣",
+                "position": "背景",
+                "action": "站立注视前方",
+                "expression": "眉毛微蹙，嘴巴微张"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁，光线明亮",
+        "description_narrative": "镜头跟随棕衣男子背部快速移动，前景模糊，背景中格子衫女子神情焦急地注视前方。",
+        "dialogue": "玲玲",
+        "speaker": "棕衣男子",
+        "emotion": "焦急",
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头（跟拍）；办公室走廊，白色墙壁，光线明亮；前景人物，身穿棕色西装，背部朝向镜头，身体前倾，表情：不可见；背景人物，身穿蓝白格纹毛衣，站立注视前方，表情：眉毛微蹙，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "前景",
+                "action": "手臂挥动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内环境，白色天花板灯光",
+        "description_narrative": "镜头剧烈晃动，棕衣男子的手臂在前景快速划过，画面模糊不清。",
+        "dialogue": "把门打开",
+        "speaker": "棕衣男子",
+        "emotion": "急切",
+        "duration": 8.24,
+        "description_visual": "大特写平拍镜头（摇镜）；模糊的室内环境，白色天花板灯光；前景人物，身穿棕色西装，手臂挥动，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "格子衫女子",
+                "gender": "女",
+                "clothing": "蓝白格纹毛衣，牛仔裙",
+                "position": "画面右侧",
+                "action": "转身解释，手部动作",
+                "expression": "眉毛上扬，嘴巴快速开合"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面左侧",
+                "action": "部分身体可见，站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室门口，白色墙壁，黑色门框",
+        "description_narrative": "格子衫女子转身面向棕衣男子，语速飞快地解释情况，神情担忧。",
+        "dialogue": "把门打开，开门啊玲玲，怎么了这是？玲玲在季总办公室，一直不出来，敲门也没有反应。",
+        "speaker": "格子衫女子",
+        "emotion": "慌张",
+        "duration": 3.68,
+        "description_visual": "中景平拍镜头；办公室门口，白色墙壁，黑色门框；画面右侧人物，身穿蓝白格纹毛衣，牛仔裙，转身解释，手部动作，表情：眉毛上扬，嘴巴快速开合；画面左侧人物，身穿棕色西装，部分身体可见，站立，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装，白色高领内搭",
+                "position": "画面中央",
+                "action": "手提包带，抬头说话",
+                "expression": "眉毛微皱，嘴唇涂红，眼神急切"
+            }
+        ],
+        "background": "办公室走廊，白色墙壁，灰色文件柜",
+        "description_narrative": "安安身穿粉色套装，手提白色包包，抬头建议找钥匙，神情焦虑。",
+        "dialogue": "赶紧找个钥匙开门呀，这个钥匙只在季总手里。",
+        "speaker": "安安",
+        "emotion": "焦急",
+        "duration": 3.6,
+        "description_visual": "中近景平拍镜头；办公室走廊，白色墙壁，灰色文件柜；画面中央人物，身穿粉色粗花呢套装，白色高领内搭，手提包带，抬头说话，表情：眉毛微皱，嘴唇涂红，眼神急切。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装，米色短靴",
+                "position": "画面中央",
+                "action": "握拳，身体前倾",
+                "expression": "眼神坚定，嘴巴微张"
+            },
+            {
+                "name": "格子衫女子",
+                "gender": "女",
+                "clothing": "蓝白格纹毛衣",
+                "position": "画面右侧",
+                "action": "站立旁观",
+                "expression": "注视安安"
+            }
+        ],
+        "background": "办公室走廊，浅灰色地板",
+        "description_narrative": "安安全身入镜，她握紧拳头表示要亲自开门，格子衫女子站在一旁。",
+        "dialogue": "让我来",
+        "speaker": "安安",
+        "emotion": "果断",
+        "duration": 1.84,
+        "description_visual": "全景平拍镜头；办公室走廊，浅灰色地板；画面中央人物，身穿粉色粗花呢套装，米色短靴，握拳，身体前倾，表情：眼神坚定，嘴巴微张；画面右侧人物，身穿蓝白格纹毛衣，站立旁观，表情：注视安安。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "木质门板，金属装饰线条",
+        "description_narrative": "镜头对准紧闭的木质办公室门，门板纹理清晰，金属线条呈折线状。",
+        "dialogue": "你醒醒玲玲",
+        "speaker": "棕衣男子",
+        "emotion": "焦急",
+        "duration": 1.08,
+        "description_visual": "特写平拍镜头；木质门板，金属装饰线条。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装三件套",
+                "position": "画面中央",
+                "action": "冲进门内，步伐急促",
+                "expression": "嘴巴张开，神情惊恐"
+            },
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "背景门口",
+                "action": "跟随进入",
+                "expression": "惊讶"
+            },
+            {
+                "name": "格子衫女子",
+                "gender": "女",
+                "clothing": "蓝白格纹毛衣",
+                "position": "背景门口",
+                "action": "跟随进入，手指前方",
+                "expression": "震惊"
+            }
+        ],
+        "background": "办公室内部，木质桌子，蓝色文件夹",
+        "description_narrative": "门被打开，棕衣男子率先冲入办公室，安安和格子衫女子紧随其后，三人神情惊慌。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 0.68,
+        "description_visual": "中景平拍镜头（跟拍）；办公室内部，木质桌子，蓝色文件夹；画面中央人物，身穿棕色西装三件套，冲进门内，步伐急促，表情：嘴巴张开，神情惊恐；背景门口人物，身穿粉色粗花呢套装，跟随进入，表情：惊讶；背景门口人物，身穿蓝白格纹毛衣，跟随进入，手指前方，表情：震惊。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面中央",
+                "action": "低头查看，身体前倾",
+                "expression": "眉头紧锁，眼神担忧"
+            }
+        ],
+        "background": "办公室内，白色墙壁，绿色植物",
+        "description_narrative": "镜头推进至棕衣男子面部，他低头急切地呼唤，神情紧张。",
+        "dialogue": "玲玲",
+        "speaker": "棕衣男子",
+        "emotion": "担忧",
+        "duration": 3.16,
+        "description_visual": "近景平拍镜头（推进）；办公室内，白色墙壁，绿色植物；画面中央人物，身穿棕色西装，低头查看，身体前倾，表情：眉头紧锁，眼神担忧。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "俯身趴在桌边，手伸向玲玲",
+                "expression": "嘴巴微张，眼神焦急"
+            },
+            {
+                "name": "玲玲",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面左下",
+                "action": "趴在桌上，头部枕着手臂",
+                "expression": "闭眼，昏迷状态"
+            }
+        ],
+        "background": "办公桌，绿色盆栽，文件柜",
+        "description_narrative": "棕衣男子俯身查看趴在桌上的玲玲，不断呼唤她的名字，试图唤醒她。",
+        "dialogue": "玲玲，你醒醒，玲玲，玲玲怎么了？",
+        "speaker": "棕衣男子",
+        "emotion": "恐慌",
+        "duration": 0.96,
+        "description_visual": "中近景俯拍镜头；办公桌，绿色盆栽，文件柜；画面右侧人物，身穿棕色西装，俯身趴在桌边，手伸向玲玲，表情：嘴巴微张，眼神焦急；画面左下人物，身穿白色西装外套，趴在桌上，头部枕着手臂，表情：闭眼，昏迷状态。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面上方",
+                "action": "手持白色药瓶，低头查看",
+                "expression": "眉头紧蹙，嘴唇微张"
+            },
+            {
+                "name": "玲玲",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面下方",
+                "action": "趴在桌上，双麻花辫可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质办公桌，白色药瓶盖",
+        "description_narrative": "安安拿起桌上的白色药瓶查看，发现是安眠药，神情震惊。",
+        "dialogue": "安眠药",
+        "speaker": "安安",
+        "emotion": "震惊",
+        "duration": 1.12,
+        "description_visual": "中近景高角度镜头；木质办公桌，白色药瓶盖；画面上方人物，身穿粉色粗花呢套装，手持白色药瓶，低头查看，表情：眉头紧蹙，嘴唇微张；画面下方人物，身穿白色西装外套，趴在桌上，双麻花辫可见，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面上方",
+                "action": "手握住玲玲手腕，查看脉搏",
+                "expression": "眼神凝重，嘴唇紧闭"
+            },
+            {
+                "name": "玲玲",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面左下",
+                "action": "手臂无力垂在桌上",
+                "expression": "不可见"
+            },
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面右下",
+                "action": "手拿着药瓶",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质桌面，散落药片，白色药瓶",
+        "description_narrative": "棕衣男子握住玲玲的手腕检查情况，桌上散落着白色药片，安安拿着药瓶在一旁。",
+        "dialogue": "叫救护车",
+        "speaker": "棕衣男子",
+        "emotion": "紧急",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；木质桌面，散落药片，白色药瓶；画面上方人物，身穿棕色西装，手握住玲玲手腕，查看脉搏，表情：眼神凝重，嘴唇紧闭；画面左下人物，身穿白色西装外套，手臂无力垂在桌上，表情：不可见；画面右下人物，身穿粉色粗花呢套装，手拿着药瓶，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面上方",
+                "action": "俯身看着玲玲，手扶桌子",
+                "expression": "眉毛下垂，眼神担忧"
+            },
+            {
+                "name": "玲玲",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面下方",
+                "action": "趴在桌上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质办公桌，书籍",
+        "description_narrative": "安安俯身靠近玲玲，提议一起将她扶下楼，神情关切。",
+        "dialogue": "咱俩把玲玲",
+        "speaker": "安安",
+        "emotion": "关切",
+        "duration": 0.84,
+        "description_visual": "中近景高角度镜头；木质办公桌，书籍；画面上方人物，身穿粉色粗花呢套装，俯身看着玲玲，手扶桌子，表情：眉毛下垂，眼神担忧；画面下方人物，身穿白色西装外套，趴在桌上，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面中央",
+                "action": "抬头看向安安，点头",
+                "expression": "眼神坚定，嘴巴微张"
+            }
+        ],
+        "background": "办公室内，绿色植物，文件柜",
+        "description_narrative": "棕衣男子抬头回应安安的提议，同意一起扶玲玲下楼。",
+        "dialogue": "扶下楼",
+        "speaker": "棕衣男子",
+        "emotion": "果断",
+        "duration": 1.04,
+        "description_visual": "近景仰拍镜头；办公室内，绿色植物，文件柜；画面中央人物，身穿棕色西装，抬头看向安安，点头，表情：眼神坚定，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "格子衫女子",
+                "gender": "女",
+                "clothing": "蓝白格纹毛衣，黑色蝴蝶结发饰",
+                "position": "画面中央",
+                "action": "双手持手机，低头操作",
+                "expression": "神情专注，嘴唇微抿"
+            }
+        ],
+        "background": "办公室门口，木质门，白色墙壁",
+        "description_narrative": "格子衫女子站在一旁，低头用手机拨打急救电话，神情认真。",
+        "dialogue": "好",
+        "speaker": "格子衫女子",
+        "emotion": "认真",
+        "duration": 3.28,
+        "description_visual": "中景平拍镜头；办公室门口，木质门，白色墙壁；画面中央人物，身穿蓝白格纹毛衣，黑色蝴蝶结发饰，双手持手机，低头操作，表情：神情专注，嘴唇微抿。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "搀扶着玲玲，手托住她背部",
+                "expression": "眉头紧锁，眼神关切"
+            },
+            {
+                "name": "玲玲",
+                "gender": "女",
+                "clothing": "白色西装外套，双麻花辫",
+                "position": "画面左侧",
+                "action": "身体无力靠在棕衣男子身上，头后仰",
+                "expression": "闭眼，脸色苍白"
+            }
+        ],
+        "background": "办公室内，橙色椅子，木质桌子，红酒杯",
+        "description_narrative": "棕衣男子小心地搀扶着昏迷的玲玲，玲玲头部后仰，完全失去意识。",
+        "dialogue": "小心点",
+        "speaker": "棕衣男子",
+        "emotion": "小心翼翼",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；办公室内，橙色椅子，木质桌子，红酒杯；画面右侧人物，身穿棕色西装，搀扶着玲玲，手托住她背部，表情：眉头紧锁，眼神关切；画面左侧人物，身穿白色西装外套，双麻花辫，身体无力靠在棕衣男子身上，头后仰，表情：闭眼，脸色苍白。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面左侧",
+                "action": "手持手机贴在耳边，身体前倾",
+                "expression": "眉头紧蹙，神情严肃"
+            }
+        ],
+        "background": "医院走廊，白色柜台，手术室门",
+        "description_narrative": "场景切换至医院，棕衣男子靠在柜台边打电话，告知对方已将病人送医。",
+        "dialogue": "给她送医院了",
+        "speaker": "棕衣男子",
+        "emotion": "严肃",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；医院走廊，白色柜台，手术室门；画面左侧人物，身穿棕色西装，手持手机贴在耳边，身体前倾，表情：眉头紧蹙，神情严肃。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面中央",
+                "action": "双手交握在身前，侧身站立",
+                "expression": "眼神看向一侧，嘴唇微张"
+            }
+        ],
+        "background": "医院走廊，蓝色地板，白色墙壁，长条灯光",
+        "description_narrative": "安安站在医院走廊里，双手交握，似乎在等待或与人通话，神情略显不耐。",
+        "dialogue": "快点回来",
+        "speaker": "安安",
+        "emotion": "不耐",
+        "duration": 1.08,
+        "description_visual": "中近景平拍镜头；医院走廊，蓝色地板，白色墙壁，长条灯光；画面中央人物，身穿粉色粗花呢套装，双手交握在身前，侧身站立，表情：眼神看向一侧，嘴唇微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面左侧前景",
+                "action": "手扶额头，闭眼",
+                "expression": "疲惫，焦虑"
+            },
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白大褂，口罩",
+                "position": "背景门口",
+                "action": "背对镜头走进手术室",
+                "expression": "不可见"
+            }
+        ],
+        "background": "手术室门口，白色门，红色指示灯",
+        "description_narrative": "棕衣男子疲惫地扶着额头等待，背景中医生走进手术室。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疲惫",
+        "duration": 1.64,
+        "description_visual": "中景平拍镜头；手术室门口，白色门，红色指示灯；画面左侧前景人物，身穿棕色西装，手扶额头，闭眼，表情：疲惫，焦虑；背景门口人物，身穿白大褂，口罩，背对镜头走进手术室，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面中央",
+                "action": "抬头询问，身体微前倾",
+                "expression": "眉毛微挑，眼神急切"
+            }
+        ],
+        "background": "医院走廊，蓝色地板，白色墙壁",
+        "description_narrative": "安安抬头看向刚出来的医生，急切地询问病人情况。",
+        "dialogue": "医生怎么样了",
+        "speaker": "安安",
+        "emotion": "急切",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；医院走廊，蓝色地板，白色墙壁；画面中央人物，身穿粉色粗花呢套装，抬头询问，身体微前倾，表情：眉毛微挑，眼神急切。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白大褂，蓝色口罩，眼镜",
+                "position": "画面左侧",
+                "action": "手持蓝色文件夹，站立说话",
+                "expression": "眼神平静，透过眼镜看人"
+            },
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面右侧",
+                "action": "背对镜头，侧身倾听",
+                "expression": "不可见"
+            }
+        ],
+        "background": "手术室门口，白色门，蓝色地板",
+        "description_narrative": "医生站在手术室门口，手持文件夹向安安告知病人暂无生命危险。",
+        "dialogue": "还好送来的及时，病人暂时没有生命危险。",
+        "speaker": "医生",
+        "emotion": "平静",
+        "duration": 2.28,
+        "description_visual": "中景平拍镜头；手术室门口，白色门，蓝色地板；画面左侧人物，身穿白大褂，蓝色口罩，眼镜，手持蓝色文件夹，站立说话，表情：眼神平静，透过眼镜看人；画面右侧人物，身穿粉色粗花呢套装，背对镜头，侧身倾听，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白大褂",
+                "position": "画面中央",
+                "action": "站立说话",
+                "expression": "不可见"
+            },
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面右侧",
+                "action": "站立倾听",
+                "expression": "不可见"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面左侧前景",
+                "action": "坐着，侧脸可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "手术室门口，白色柜台",
+        "description_narrative": "广角镜头展示三人在手术室门口，医生继续说明病人情绪低落的情况。",
+        "dialogue": "但是病人的情绪有些低落",
+        "speaker": "医生",
+        "emotion": "专业",
+        "duration": 1.32,
+        "description_visual": "全景平拍镜头；手术室门口，白色柜台；画面中央人物，身穿白大褂，站立说话，表情：不可见；画面右侧人物，身穿粉色粗花呢套装，站立倾听，表情：不可见；画面左侧前景人物，身穿棕色西装，坐着，侧脸可见，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面中央",
+                "action": "手抚胸口，低头",
+                "expression": "眉毛舒展，眼神下移，松了一口气"
+            }
+        ],
+        "background": "医院走廊，蓝色地板，白色墙壁",
+        "description_narrative": "安安听到消息后手抚胸口，低头表示庆幸，神情放松下来。",
+        "dialogue": "没事就好",
+        "speaker": "安安",
+        "emotion": "庆幸",
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；医院走廊，蓝色地板，白色墙壁；画面中央人物，身穿粉色粗花呢套装，手抚胸口，低头，表情：眉毛舒展，眼神下移，松了一口气。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "女",
+                "clothing": "白大褂",
+                "position": "画面左侧",
+                "action": "手持纸张，看向安安",
+                "expression": "眼神询问"
+            },
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面右侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "手术室门口，绿色紧急出口标志",
+        "description_narrative": "医生拿着一张单据，询问谁是家属，准备办理缴费手续。",
+        "dialogue": "你们谁是家属",
+        "speaker": "医生",
+        "emotion": "公事公办",
+        "duration": 2.4,
+        "description_visual": "中景平拍镜头；手术室门口，绿色紧急出口标志；画面左侧人物，身穿白大褂，手持纸张，看向安安，表情：眼神询问；画面右侧人物，身穿粉色粗花呢套装，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面中央",
+                "action": "低头看着手中的单据",
+                "expression": "眼神犹豫，嘴唇紧闭"
+            }
+        ],
+        "background": "医院走廊，蓝色地板",
+        "description_narrative": "安安低头看着医生递来的缴费单，神情略显迟疑，没有立刻回应。",
+        "dialogue": "来把病人的费用先交一下",
+        "speaker": "医生",
+        "emotion": "犹豫",
+        "duration": 2.16,
+        "description_visual": "中近景平拍镜头；医院走廊，蓝色地板；画面中央人物，身穿粉色粗花呢套装，低头看着手中的单据，表情：眼神犹豫，嘴唇紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面中央",
+                "action": "从座位站起，向前走动",
+                "expression": "神情坚定"
+            }
+        ],
+        "background": "医院候诊区，米色椅子",
+        "description_narrative": "棕衣男子从座位上站起，大步走向医生，主动表示由他来缴费。",
+        "dialogue": "我是，我来吧",
+        "speaker": "棕衣男子",
+        "emotion": "担当",
+        "duration": 2.16,
+        "description_visual": "中景平拍镜头（跟拍）；医院候诊区，米色椅子；画面中央人物，身穿棕色西装，从座位站起，向前走动，表情：神情坚定。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面左侧",
+                "action": "侧头看向走来的棕衣男子",
+                "expression": "眼神复杂，嘴唇微抿"
+            }
+        ],
+        "background": "医院走廊，蓝色地板指示牌",
+        "description_narrative": "安安侧头看着主动上前缴费的棕衣男子，神情有些复杂，未发一言。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "复杂",
+        "duration": 0.76,
+        "description_visual": "中近景平拍镜头；医院走廊，蓝色地板指示牌；画面左侧人物，身穿粉色粗花呢套装，侧头看向走来的棕衣男子，表情：眼神复杂，嘴唇微抿。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色西装裤，黑色皮鞋",
+                "position": "画面中央",
+                "action": "快步走来",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院走廊，蓝色地板，米色椅子",
+        "description_narrative": "镜头跟随一双穿着灰色西裤的腿快步走来，灰衣男子到达现场。",
+        "dialogue": "嗯",
+        "speaker": "灰衣男子",
+        "emotion": "急切",
+        "duration": 1.48,
+        "description_visual": "全景低角度镜头（跟拍）；医院走廊，蓝色地板，米色椅子；画面中央人物，身穿灰色西装裤，黑色皮鞋，快步走来，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色西装，白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，面向安安",
+                "expression": "神情关切"
+            },
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面右侧",
+                "action": "站立回应",
+                "expression": "平静"
+            }
+        ],
+        "background": "手术室门口，白色门",
+        "description_narrative": "灰衣男子走到安安面前，询问病人情况，称呼她为安溪。",
+        "dialogue": "安溪 怎么样了",
+        "speaker": "灰衣男子",
+        "emotion": "关切",
+        "duration": 1.88,
+        "description_visual": "中景平拍镜头；手术室门口，白色门；画面左侧人物，身穿灰色西装，白色衬衫，站立，面向安安，表情：神情关切；画面右侧人物，身穿粉色粗花呢套装，站立回应，表情：平静。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安安",
+                "gender": "女",
+                "clothing": "粉色粗花呢套装",
+                "position": "画面中央",
+                "action": "抬头回答，双手交握",
+                "expression": "眼神平静，嘴唇微动"
+            }
+        ],
+        "background": "医院走廊，蓝色地板",
+        "description_narrative": "安安抬头看着灰衣男子，平静地告知病人已无生命危险。",
+        "dialogue": "暂时没有什么生命危险了",
+        "speaker": "安安",
+        "emotion": "平静",
+        "duration": 2.12,
+        "description_visual": "中近景平拍镜头；医院走廊，蓝色地板；画面中央人物，身穿粉色粗花呢套装，抬头回答，双手交握，表情：眼神平静，嘴唇微动。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色西装，眼镜",
+                "position": "画面中央",
+                "action": "侧头倾听，微微点头",
+                "expression": "眉毛舒展，眼神柔和"
+            }
+        ],
+        "background": "医院走廊，模糊背景",
+        "description_narrative": "灰衣男子听到消息后松了口气，补充说病人只是不太开心。",
+        "dialogue": "就是不太开心",
+        "speaker": "灰衣男子",
+        "emotion": "宽慰",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；医院走廊，模糊背景；画面中央人物，身穿灰色西装，眼镜，侧头倾听，微微点头，表情：眉毛舒展，眼神柔和。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色西装，眼镜",
+                "position": "画面中央",
+                "action": "看着安安，嘴角微扬",
+                "expression": "眼神温柔，嘴角上扬"
+            }
+        ],
+        "background": "医院走廊，模糊背景",
+        "description_narrative": "灰衣男子看着安安，表示人没事就好，神情中对安安更为关切。",
+        "dialogue": "人没事就好",
+        "speaker": "灰衣男子",
+        "emotion": "温柔",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；医院走廊，模糊背景；画面中央人物，身穿灰色西装，眼镜，看着安安，嘴角微扬，表情：眼神温柔，嘴角上扬。"
+    }
+]

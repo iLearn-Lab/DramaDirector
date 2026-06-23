@@ -1,0 +1,468 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面左侧",
+                "action": "坐在沙发上，双手拿着报纸阅读，双腿交叠",
+                "expression": "眉毛舒展，眼睛注视报纸，嘴巴紧闭"
+            }
+        ],
+        "background": "现代风格客厅，米色沙发，白色窗帘，光线柔和",
+        "description_narrative": "全景固定镜头，爷爷身穿白色中式上衣坐在左侧沙发上，正低头专注地阅读手中的报纸，神情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；现代风格客厅，米色沙发，白色窗帘，光线柔和；画面左侧人物，身穿白色中式盘扣短袖上衣，坐在沙发上，双手拿着报纸阅读，双腿交叠，表情：眉毛舒展，眼睛注视报纸，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微微前倾，双手放在腿上",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张似在说话"
+            }
+        ],
+        "background": "客厅沙发区域，背景有深色护墙板",
+        "description_narrative": "中近景固定镜头，妙妙身穿米色西装坐在沙发上，神情略显疲惫，开口向爷爷打招呼。",
+        "dialogue": "爷爷，我回来了。",
+        "speaker": "妙妙",
+        "emotion": "疲惫",
+        "duration": 3.24,
+        "description_visual": "中近景平拍镜头；客厅沙发区域，背景有深色护墙板；画面中央人物，身穿米色西装外套，黑色内搭，坐在沙发上，身体微微前倾，双手放在腿上，表情：眉毛微蹙，眼睛视线下移，嘴巴微张似在说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面中央",
+                "action": "低头看着下方，头部微动",
+                "expression": "眉毛微抬，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景，光线柔和",
+        "description_narrative": "特写俯拍镜头，爷爷低着头，听到声音后回应，确认妙妙回来了。",
+        "dialogue": "妙妙回来了。",
+        "speaker": "爷爷",
+        "emotion": "平静",
+        "duration": 1.28,
+        "description_visual": "特写俯拍镜头；白色窗帘背景，光线柔和；画面中央人物，身穿白色中式盘扣短袖上衣，低头看着下方，头部微动，表情：眉毛微抬，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面中央",
+                "action": "坐着，双手交握，眼神忧虑",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区域，深色背景",
+        "description_narrative": "中近景固定镜头，妙妙面露难色，爷爷在画外音中询问公司情况。",
+        "dialogue": "爷爷 (画外音): 今天公司怎么样啊？",
+        "speaker": "爷爷",
+        "emotion": "忧虑",
+        "duration": 3.72,
+        "description_visual": "中近景平拍镜头；客厅沙发区域，深色背景；画面中央人物，身穿米色西装外套，黑色内搭，坐着，双手交握，眼神忧虑，表情：眉毛紧锁，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面中央",
+                "action": "坐着，头部微侧，倾听",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "中近景固定镜头，爷爷侧头倾听，妙妙在画外音中汇报公司情况恶化。",
+        "dialogue": "妙妙 (画外音): 公司的情况越来越不好了。",
+        "speaker": "妙妙",
+        "emotion": "沉重",
+        "duration": 2.72,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿白色中式盘扣短袖上衣，坐着，头部微侧，倾听，表情：眉毛微蹙，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面中央",
+                "action": "坐着，双手交握，眼神坚定又带忧虑",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区域",
+        "description_narrative": "中近景固定镜头，妙妙神情复杂，爷爷在画外音中宽慰她不要压力过大。",
+        "dialogue": "爷爷 (画外音): 你还能扛得住吗？别给自己太大压力。",
+        "speaker": "爷爷",
+        "emotion": "关切",
+        "duration": 4.76,
+        "description_visual": "中近景平拍镜头；客厅沙发区域；画面中央人物，身穿米色西装外套，黑色内搭，坐着，双手交握，眼神坚定又带忧虑，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面中央",
+                "action": "坐着，低头沉思",
+                "expression": "眉毛舒展，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "中近景固定镜头，爷爷低头沉思，妙妙在画外音中表示自己能扛住，不愿让爷爷心血毁于一旦。",
+        "dialogue": "妙妙 (画外音): 我没事，能扛得住。我不能让爷爷的心血毁在我的手里。",
+        "speaker": "妙妙",
+        "emotion": "坚定",
+        "duration": 4.52,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿白色中式盘扣短袖上衣，坐着，低头沉思，表情：眉毛舒展，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面左侧",
+                "action": "坐在沙发上，身体转向妙妙，手部有轻微动作",
+                "expression": "眉毛微蹙，眼睛注视妙妙，嘴巴微张"
+            },
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面右侧",
+                "action": "坐在沙发上，身体转向爷爷，倾听",
+                "expression": "眉毛微蹙，眼睛注视爷爷，嘴巴微张"
+            }
+        ],
+        "background": "客厅全景，沙发，茶几，吊灯",
+        "description_narrative": "全景固定镜头，两人对坐交谈，爷爷透露自己虽有心腹被调离，但仍有老部下。",
+        "dialogue": "我在公司还有老部下，虽然被你叔调离了核心。",
+        "speaker": "爷爷",
+        "emotion": "深沉",
+        "duration": 10.16,
+        "description_visual": "全景平拍镜头；客厅全景，沙发，茶几，吊灯；画面左侧人物，身穿白色中式盘扣短袖上衣，坐在沙发上，身体转向妙妙，手部有轻微动作，表情：眉毛微蹙，眼睛注视妙妙，嘴巴微张；画面右侧人物，身穿米色西装外套，黑色内搭，坐在沙发上，身体转向爷爷，倾听，表情：眉毛微蹙，眼睛注视爷爷，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面中央",
+                "action": "坐着，头部微动，说话",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "中近景固定镜头，爷爷表情严肃，表示需要分析公司状态再做决定。",
+        "dialogue": "我分析下公司的状态。",
+        "speaker": "爷爷",
+        "emotion": "严肃",
+        "duration": 2.48,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿白色中式盘扣短袖上衣，坐着，头部微动，说话，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面中央",
+                "action": "坐着，眼神疑惑",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区域",
+        "description_narrative": "中近景固定镜头，妙妙面露疑惑，爷爷在画外音中询问王林为何没一起回来。",
+        "dialogue": "爷爷 (画外音): 再做决定。王林呢？怎么没跟你一起回来？",
+        "speaker": "爷爷",
+        "emotion": "疑惑",
+        "duration": 3.8,
+        "description_visual": "中近景平拍镜头；客厅沙发区域；画面中央人物，身穿米色西装外套，黑色内搭，坐着，眼神疑惑，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面中央",
+                "action": "坐着，头部微侧，倾听",
+                "expression": "眉毛微蹙，眼睛注视侧方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "中近景固定镜头，爷爷侧头倾听，妙妙在画外音中表示不知道王林去向，已消失一天。",
+        "dialogue": "妙妙 (画外音): 我也不知道啊，都消失一天了。",
+        "speaker": "妙妙",
+        "emotion": "无奈",
+        "duration": 2.92,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿白色中式盘扣短袖上衣，坐着，头部微侧，倾听，表情：眉毛微蹙，眼睛注视侧方，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面中央",
+                "action": "坐着，眼神略带不满",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "客厅沙发区域",
+        "description_narrative": "特写固定镜头，妙妙表情略带不悦，爷爷在画外音中猜测王林可能在忙，并调侃妙妙想他了。",
+        "dialogue": "爷爷 (画外音): 可能他有要忙的活，想他了。",
+        "speaker": "爷爷",
+        "emotion": "调侃",
+        "duration": 4.36,
+        "description_visual": "特写平拍镜头；客厅沙发区域；画面中央人物，身穿米色西装外套，黑色内搭，坐着，眼神略带不满，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面左侧",
+                "action": "坐着，身体放松",
+                "expression": "眉毛舒展，眼睛注视妙妙，嘴巴微张"
+            },
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面右侧",
+                "action": "坐着，身体微侧，说话",
+                "expression": "眉毛微蹙，眼睛注视爷爷，嘴巴微张"
+            }
+        ],
+        "background": "客厅全景",
+        "description_narrative": "全景固定镜头，两人对坐，妙妙反驳爷爷的调侃，表示快烦死王林了。",
+        "dialogue": "怎么可能？我都快烦死他了。",
+        "speaker": "妙妙",
+        "emotion": "厌烦",
+        "duration": 3.4,
+        "description_visual": "全景平拍镜头；客厅全景；画面左侧人物，身穿白色中式盘扣短袖上衣，坐着，身体放松，表情：眉毛舒展，眼睛注视妙妙，嘴巴微张；画面右侧人物，身穿米色西装外套，黑色内搭，坐着，身体微侧，说话，表情：眉毛微蹙，眼睛注视爷爷，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面右侧",
+                "action": "坐着，看着站起的爷爷",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面左侧前景",
+                "action": "站起，身体模糊，准备离开",
+                "expression": "面部模糊，不可见"
+            }
+        ],
+        "background": "客厅沙发区域",
+        "description_narrative": "中近景固定镜头，爷爷笑着起身说去休息，妙妙回应让爷爷早点休息。",
+        "dialogue": "爷爷 (画外音): 哈哈，我先休息去了，你也早点休息吧。妙妙: 好的，爷爷。",
+        "speaker": "爷爷",
+        "emotion": "轻松",
+        "duration": 7.72,
+        "description_visual": "中近景平拍镜头；客厅沙发区域；画面右侧人物，身穿米色西装外套，黑色内搭，坐着，看着站起的爷爷，表情：眉毛微挑，眼睛注视，嘴巴微张；画面左侧前景人物，身穿白色中式盘扣短袖上衣，站起，身体模糊，准备离开，表情：面部模糊，不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面中央",
+                "action": "站立，回头看向妙妙",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "客厅背景，有金色装饰物",
+        "description_narrative": "中近景固定镜头，爷爷转身回头，眼神变得锐利，妙妙在画外音中试探询问若内鬼职位过高该如何处理。",
+        "dialogue": "妙妙 (画外音): 要是公司内鬼的职务过大，你会怎么办？",
+        "speaker": "妙妙",
+        "emotion": "试探",
+        "duration": 4.56,
+        "description_visual": "中近景平拍镜头；客厅背景，有金色装饰物；画面中央人物，身穿白色中式盘扣短袖上衣，站立，回头看向妙妙，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面右侧",
+                "action": "坐着，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "客厅沙发区域",
+        "description_narrative": "中近景固定镜头，妙妙神情严肃，爷爷在画外音中冷酷地回答“赶尽杀绝”，妙妙随即回应知道了。",
+        "dialogue": "爷爷 (画外音): 赶尽杀绝。妙妙: 知道了，爷爷。",
+        "speaker": "爷爷",
+        "emotion": "冷酷",
+        "duration": 3.92,
+        "description_visual": "中近景平拍镜头；客厅沙发区域；画面右侧人物，身穿米色西装外套，黑色内搭，坐着，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色内搭",
+                "position": "画面中央",
+                "action": "坐着，光线变暗",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张似在哼唱"
+            }
+        ],
+        "background": "客厅沙发区域，光线昏暗",
+        "description_narrative": "中景固定镜头，光线渐暗，妙妙独自坐在沙发上，轻声哼唱。",
+        "dialogue": "啦啦啦啦啦啦啦啦。",
+        "speaker": "妙妙",
+        "emotion": "复杂",
+        "duration": 3.32,
+        "description_visual": "中景平拍镜头；客厅沙发区域，光线昏暗；画面中央人物，身穿米色西装外套，黑色内搭，坐着，光线变暗，表情：眉毛舒展，眼睛注视前方，嘴巴微张似在哼唱。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "白色中式盘扣短袖上衣",
+                "position": "画面中央",
+                "action": "身体模糊，快速移动",
+                "expression": "面部模糊，不可见"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写摇镜，画面快速模糊晃动，爷爷的身影在镜头前掠过，转场效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的室内背景；画面中央人物，身穿白色中式盘扣短袖上衣，身体模糊，快速移动，表情：面部模糊，不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑屏幕",
+        "description_narrative": "黑屏，无可见内容。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "远景平拍镜头；全黑屏幕。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑屏幕",
+        "description_narrative": "黑屏，无可见内容。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "远景平拍镜头；全黑屏幕。"
+    }
+]

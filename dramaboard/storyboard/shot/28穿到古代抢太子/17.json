@@ -1,0 +1,625 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面左侧",
+                "action": "站立，双手交叠于腹前",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面右前景",
+                "action": "背对镜头坐着",
+                "expression": "不可见"
+            },
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "背景中央",
+                "action": "站立",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "侍卫/官员",
+                "gender": "男",
+                "clothing": "深紫色官服",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "宫廷内室，金色帷幔，烛光摇曳",
+        "description_narrative": "全景镜头，宫廷内室，太子身穿白底金龙纹华服站在左侧，皇帝身穿明黄龙袍坐在右前景，老臣站在背景中央。",
+        "dialogue": "标儿",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "全景平拍镜头；宫廷内室，金色帷幔，烛光摇曳；画面左侧人物，身穿白底金龙纹华服，站立，双手交叠于腹前，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；画面右前景人物，身穿明黄色龙袍，背对镜头坐着，表情：不可见；背景中央人物，身穿紫色官服，站立，表情：表情严肃；画面右侧人物，身穿深紫色官服，站立，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面中央",
+                "action": "坐着，头部微抬",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，深色帷幔背景",
+        "description_narrative": "近景镜头，皇帝身穿明黄龙袍坐在榻上，头部微抬，注视前方，嘴巴微张说话。",
+        "dialogue": "接着说",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；宫廷内室，深色帷幔背景；画面中央人物，身穿明黄色龙袍，坐着，头部微抬，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "站立，身体微侧，双手在身前",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "中近景镜头，太子身穿白底金龙纹华服，身体微侧，视线下移，正在汇报。",
+        "dialogue": "回禀父皇，儿臣至监国以来，共计斩杀贪官、查抄奸商、收缴赃银三千三百万两。儿臣想将一部分",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 10.4,
+        "description_visual": "中近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，站立，身体微侧，双手在身前，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面中央",
+                "action": "坐着，头部微低",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "宫廷内室，深色帷幔",
+        "description_narrative": "近景镜头，皇帝身穿明黄龙袍，头部微低，视线向下，似乎在沉思或倾听。",
+        "dialogue": "将一部分用于赈灾",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；宫廷内室，深色帷幔；画面中央人物，身穿明黄色龙袍，坐着，头部微低，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "站立，双手交叠",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "中近景镜头，太子身穿白底金龙纹华服，双手交叠，直视前方继续说话。",
+        "dialogue": "减轻赋税",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，站立，双手交叠，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面中央",
+                "action": "坐着，头部微抬",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角微扬"
+            }
+        ],
+        "background": "宫廷内室，深色帷幔",
+        "description_narrative": "近景镜头，皇帝身穿明黄龙袍，头部微抬，嘴角微扬，露出赞许的神情。",
+        "dialogue": "安抚民心之用",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 4.96,
+        "description_visual": "近景平拍镜头；宫廷内室，深色帷幔；画面中央人物，身穿明黄色龙袍，坐着，头部微抬，表情：眉毛舒展，眼睛注视前方，嘴角微扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "低头，双手在身前动作",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "中近景镜头，太子低头，双手在身前动作，似乎在整理衣袖或行礼。",
+        "dialogue": "不愧是大夏国的监国太子",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "中近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，低头，双手在身前动作，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面中央",
+                "action": "坐着，头部微侧",
+                "expression": "眉毛舒展，眼睛注视侧方，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，深色帷幔",
+        "description_narrative": "近景镜头，皇帝身穿明黄龙袍，头部微侧，注视侧方，嘴巴微张说话。",
+        "dialogue": "儿臣还想向父皇讨要一样东西",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；宫廷内室，深色帷幔；画面中央人物，身穿明黄色龙袍，坐着，头部微侧，表情：眉毛舒展，眼睛注视侧方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "双手在身前，身体微前倾",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "中近景镜头，太子双手在身前，身体微前倾，眼神专注地看着前方。",
+        "dialogue": "什么东西",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，双手在身前，身体微前倾，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "站立，头部微低",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "宫廷内室，烛光背景",
+        "description_narrative": "近景镜头，老臣身穿紫色官服，头戴高冠，头部微低，表情严肃。",
+        "dialogue": "调兵虎符",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；宫廷内室，烛光背景；画面中央人物，身穿紫色官服，站立，头部微低，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "双手在身前，身体微前倾",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "中近景镜头，太子双手在身前，身体微前倾，视线下移，继续说话。",
+        "dialogue": "儿臣想",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 4.4,
+        "description_visual": "中近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，双手在身前，身体微前倾，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老臣",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "站立，头部微低",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "宫廷内室，烛光背景",
+        "description_narrative": "近景镜头，老臣身穿紫色官服，表情严肃，头部微低。",
+        "dialogue": "只有兵权在手，才可保我大夏安宁",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；宫廷内室，烛光背景；画面中央人物，身穿紫色官服，站立，头部微低，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面中央",
+                "action": "坐着，头部微低",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，深色帷幔",
+        "description_narrative": "近景镜头，皇帝身穿明黄龙袍，头部微低，视线向下，似乎在思考。",
+        "dialogue": "标儿",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 6.28,
+        "description_visual": "近景平拍镜头；宫廷内室，深色帷幔；画面中央人物，身穿明黄色龙袍，坐着，头部微低，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面左侧",
+                "action": "站立，双手交叠",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面右前景",
+                "action": "坐着，手举起",
+                "expression": "不可见"
+            }
+        ],
+        "background": "宫廷内室，金色帷幔",
+        "description_narrative": "全景镜头，太子站在左侧，皇帝坐在右前景，手举起似乎在递东西。",
+        "dialogue": "你岁数也不小了，该娶个正宫太子妃了",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 2.08,
+        "description_visual": "全景平拍镜头；宫廷内室，金色帷幔；画面左侧人物，身穿白底金龙纹华服，站立，双手交叠，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面右前景人物，身穿明黄色龙袍，坐着，手举起，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面左侧",
+                "action": "手递出一个绿色物体",
+                "expression": "不可见"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面右侧",
+                "action": "手伸出接物体",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头，皇帝的手递出一个绿色物体，太子的手伸出准备接住。",
+        "dialogue": "来，拿着这个",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "特写平拍镜头；模糊背景；画面左侧人物，身穿明黄色龙袍，手递出一个绿色物体，表情：不可见；画面右侧人物，身穿白底金龙纹华服，手伸出接物体，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面中央",
+                "action": "坐着，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，深色帷幔",
+        "description_narrative": "近景镜头，皇帝身穿明黄龙袍，身体前倾，注视前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；宫廷内室，深色帷幔；画面中央人物，身穿明黄色龙袍，坐着，身体前倾，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "低头，双手在身前",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "中近景镜头，太子低头，双手在身前，似乎在看着手中的物体。",
+        "dialogue": "去镇国将军",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，低头，双手在身前，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面中央",
+                "action": "坐着，头部微侧",
+                "expression": "眉毛舒展，眼睛注视侧方，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，深色帷幔",
+        "description_narrative": "近景镜头，皇帝身穿明黄龙袍，头部微侧，注视侧方说话。",
+        "dialogue": "府",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 3.8,
+        "description_visual": "近景平拍镜头；宫廷内室，深色帷幔；画面中央人物，身穿明黄色龙袍，坐着，头部微侧，表情：眉毛舒展，眼睛注视侧方，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "双手在身前，身体微前倾",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "中近景镜头，太子双手在身前，身体微前倾，眼神专注。",
+        "dialogue": "册封苏雨琪",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 5.04,
+        "description_visual": "中近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，双手在身前，身体微前倾，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面中央",
+                "action": "坐着，头部微低",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，深色帷幔",
+        "description_narrative": "近景镜头，皇帝身穿明黄龙袍，头部微低，视线向下说话。",
+        "dialogue": "为太子妃",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；宫廷内室，深色帷幔；画面中央人物，身穿明黄色龙袍，坐着，头部微低，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面左侧",
+                "action": "跪坐，双手捧着物体",
+                "expression": "眉毛微蹙，眼睛注视手中物体，嘴巴微张"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "明黄色龙袍",
+                "position": "画面右前景",
+                "action": "坐着，背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "宫廷内室，金色帷幔",
+        "description_narrative": "全景镜头，太子跪坐在左侧，双手捧着物体，皇帝坐在右前景。",
+        "dialogue": "苏雨琪，苏大将军苏振天之女，苏雨琪",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 2.32,
+        "description_visual": "全景平拍镜头；宫廷内室，金色帷幔；画面左侧人物，身穿白底金龙纹华服，跪坐，双手捧着物体，表情：眉毛微蹙，眼睛注视手中物体，嘴巴微张；画面右前景人物，身穿明黄色龙袍，坐着，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "身体微侧，头部微低",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "中近景镜头，太子身体微侧，头部微低，正在说话。",
+        "dialogue": "对",
+        "speaker": "皇帝",
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，身体微侧，头部微低，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "身体微侧，头部微转",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "中近景镜头，太子身体微侧，头部微转，眼神凝重。",
+        "dialogue": "儿臣谢主龙恩",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，身体微侧，头部微转，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "头部微转，眼神深邃",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "近景镜头，太子头部微转，眼神深邃，似乎在思考。",
+        "dialogue": "贸然抢夺势必会引起叛乱，父皇原来早就有打算",
+        "speaker": "太子",
+        "emotion": null,
+        "duration": 6.0,
+        "description_visual": "近景平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，头部微转，眼神深邃，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "白底金龙纹华服",
+                "position": "画面中央",
+                "action": "头部微低，眼神凝重",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "宫廷内室，模糊背景",
+        "description_narrative": "特写镜头，太子头部微低，眼神凝重，表情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.48,
+        "description_visual": "特写平拍镜头；宫廷内室，模糊背景；画面中央人物，身穿白底金龙纹华服，头部微低，眼神凝重，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    }
+]

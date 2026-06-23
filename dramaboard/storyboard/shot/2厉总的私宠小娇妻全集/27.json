@@ -1,0 +1,758 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面左侧，蹲姿",
+                "action": "身体前倾，双手扶住温贝贝的手臂",
+                "expression": "眉毛微蹙，眼神关切，嘴巴微张"
+            },
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面右侧，坐在地板上",
+                "action": "身体倚靠在李慎行身上，双手抓着裙摆",
+                "expression": "眉毛下垂，眼神委屈，嘴巴微张"
+            }
+        ],
+        "background": "卧室门口，木质地板，米色墙壁，光线柔和",
+        "description_narrative": "中景固定镜头。李慎行蹲在地上，双手扶着坐在地上的温贝贝的手臂，神情关切地询问。温贝贝身穿白色吊带裙，表情委屈地靠在他身上。",
+        "dialogue": "贝贝，没事吧。",
+        "speaker": "李慎行",
+        "emotion": "关切",
+        "duration": 4.27,
+        "description_visual": "中景平拍镜头；卧室门口，木质地板，米色墙壁，光线柔和；画面左侧，蹲姿人物，身穿黑色衬衫，黑色长裤，身体前倾，双手扶住温贝贝的手臂，表情：眉毛微蹙，眼神关切，嘴巴微张；画面右侧，坐在地板上人物，身穿白色吊带丝绸裙，身体倚靠在李慎行身上，双手抓着裙摆，表情：眉毛下垂，眼神委屈，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，头部微低",
+                "expression": "眼神下移，表情冷淡，嘴巴微闭"
+            }
+        ],
+        "background": "卧室背景，米色竖条纹墙壁",
+        "description_narrative": "近景固定镜头。温初初身穿粉色睡衣站立，长发披肩，眼神向下，表情冷漠，轻轻发出声音。",
+        "dialogue": "嗯。",
+        "speaker": "温初初",
+        "emotion": "冷淡",
+        "duration": 0.7,
+        "description_visual": "近景平拍镜头；卧室背景，米色竖条纹墙壁；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，头部微低，表情：眼神下移，表情冷淡，嘴巴微闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眼神看向侧方，眉毛微挑，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，米色竖条纹墙壁",
+        "description_narrative": "近景固定镜头。温初初站立，眼神看向一侧，似乎在观察或思考，表情平静中带着一丝审视。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "审视",
+        "duration": 1.23,
+        "description_visual": "近景平拍镜头；卧室背景，米色竖条纹墙壁；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，身体微侧，表情：眼神看向侧方，眉毛微挑，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面前景，模糊",
+                "action": "身体移动，被扶起",
+                "expression": "表情模糊，看似痛苦"
+            }
+        ],
+        "background": "卧室背景，模糊",
+        "description_narrative": "特写摇镜。画面模糊，温贝贝的身体在移动，似乎正在被扶起，发出轻微的声音。",
+        "dialogue": "嗯。",
+        "speaker": "温贝贝",
+        "emotion": "痛苦",
+        "duration": 0.57,
+        "description_visual": "特写平拍镜头（摇镜）；卧室背景，模糊；画面前景，模糊人物，身穿白色吊带丝绸裙，身体移动，被扶起，表情：表情模糊，看似痛苦。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧，前景模糊",
+                "action": "伸手扶着温贝贝",
+                "expression": "表情模糊"
+            },
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面中央，模糊",
+                "action": "被扶着站立",
+                "expression": "表情模糊"
+            }
+        ],
+        "background": "卧室门口，模糊",
+        "description_narrative": "近景跟拍。镜头跟随动作，李慎行扶着温贝贝，画面因运动而模糊，温贝贝发出声音。",
+        "dialogue": "嗯。",
+        "speaker": "温贝贝",
+        "emotion": "隐忍",
+        "duration": 0.53,
+        "description_visual": "近景平拍镜头（跟拍）；卧室门口，模糊；画面左侧，前景模糊人物，身穿黑色衬衫，伸手扶着温贝贝，表情：表情模糊；画面中央，模糊人物，身穿白色吊带丝绸裙，被扶着站立，表情：表情模糊。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "双手扶着温贝贝的手臂，身体前倾",
+                "expression": "眉头紧锁，眼神担忧"
+            },
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面右侧",
+                "action": "身体虚弱，依靠李慎行支撑",
+                "expression": "眼神低垂，表情柔弱"
+            },
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "背景左侧",
+                "action": "站立旁观",
+                "expression": "表情冷漠"
+            }
+        ],
+        "background": "卧室，白色床铺前景，木门背景",
+        "description_narrative": "中景固定镜头。李慎行扶着温贝贝站立，温初初站在背景门口处冷眼旁观。前景是白色的床铺。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头；卧室，白色床铺前景，木门背景；画面左侧人物，身穿黑色衬衫，黑色长裤，双手扶着温贝贝的手臂，身体前倾，表情：眉头紧锁，眼神担忧；画面右侧人物，身穿白色吊带丝绸裙，身体虚弱，依靠李慎行支撑，表情：眼神低垂，表情柔弱；背景左侧人物，身穿粉色蕾丝丝绸睡衣，站立旁观，表情：表情冷漠。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "弯腰扶着温贝贝",
+                "expression": "神情专注"
+            },
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面右侧",
+                "action": "身体前倾，准备坐下",
+                "expression": "表情痛苦"
+            },
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "背景左侧",
+                "action": "站立",
+                "expression": "面无表情"
+            }
+        ],
+        "background": "卧室，白色床铺",
+        "description_narrative": "中景固定镜头。李慎行扶着温贝贝慢慢走向床边，温初初在背景中静静看着。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "压抑",
+        "duration": 1.27,
+        "description_visual": "中景平拍镜头；卧室，白色床铺；画面左侧人物，身穿黑色衬衫，黑色长裤，弯腰扶着温贝贝，表情：神情专注；画面右侧人物，身穿白色吊带丝绸裙，身体前倾，准备坐下，表情：表情痛苦；背景左侧人物，身穿粉色蕾丝丝绸睡衣，站立，表情：面无表情。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "伸手示意温贝贝坐下",
+                "expression": "嘴巴微张，似乎在说话"
+            },
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面右侧",
+                "action": "坐在床沿",
+                "expression": "抬头看李慎行"
+            }
+        ],
+        "background": "卧室，白色床铺，米色墙壁",
+        "description_narrative": "中近景固定镜头。李慎行扶着温贝贝坐在床沿，两人对视，气氛微妙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "对峙",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；卧室，白色床铺，米色墙壁；画面左侧人物，身穿黑色衬衫，伸手示意温贝贝坐下，表情：嘴巴微张，似乎在说话；画面右侧人物，身穿白色吊带丝绸裙，坐在床沿，表情：抬头看李慎行。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙，长款耳饰",
+                "position": "画面左侧",
+                "action": "坐在床上，双手交叠放在腿上",
+                "expression": "眼神低垂，表情委屈"
+            },
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧，前景",
+                "action": "坐着，侧身对着温贝贝",
+                "expression": "侧脸，看不清表情"
+            }
+        ],
+        "background": "卧室床头，米色软包床头板",
+        "description_narrative": "过肩近景固定镜头。温贝贝坐在床上，双手交叠，低头委屈地对李慎行说话，李慎行坐在旁边倾听。",
+        "dialogue": "慎行你别怪妹妹，都是我自己不小心。",
+        "speaker": "温贝贝",
+        "emotion": "委屈",
+        "duration": 5.5,
+        "description_visual": "近景过肩镜头；卧室床头，米色软包床头板；画面左侧人物，身穿白色吊带丝绸裙，长款耳饰，坐在床上，双手交叠放在腿上，表情：眼神低垂，表情委屈；画面右侧，前景人物，身穿黑色衬衫，坐着，侧身对着温贝贝，表情：侧脸，看不清表情。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，头部微转",
+                "expression": "侧脸，表情严肃"
+            },
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面左侧，模糊",
+                "action": "坐着",
+                "expression": "模糊"
+            }
+        ],
+        "background": "卧室，白色床铺",
+        "description_narrative": "侧拍近景固定镜头。李慎行侧脸严肃，背景中温贝贝模糊可见。画外传来温初初的声音。",
+        "dialogue": "慎行，我根本就没有推她。",
+        "speaker": "温初初 (画外音)",
+        "emotion": "辩解",
+        "duration": 2.63,
+        "description_visual": "近景侧拍镜头；卧室，白色床铺；画面右侧人物，身穿黑色衬衫，坐着，头部微转，表情：侧脸，表情严肃；画面左侧，模糊人物，身穿白色吊带丝绸裙，坐着，表情：模糊。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，直视前方",
+                "expression": "眼神坚定，眉毛微蹙，嘴巴微张"
+            }
+        ],
+        "background": "卧室门口，米色墙壁",
+        "description_narrative": "特写固定镜头。温初初直视前方，表情冷静而坚定，继续辩解自己没有推人。",
+        "dialogue": "是她自己故意掉下去的。",
+        "speaker": "温初初",
+        "emotion": "冷静",
+        "duration": 1.67,
+        "description_visual": "特写平拍镜头；卧室门口，米色墙壁；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，直视前方，表情：眼神坚定，眉毛微蹙，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面左侧",
+                "action": "坐在床上，双手紧握",
+                "expression": "眼神看向李慎行，表情无辜"
+            },
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧，前景",
+                "action": "坐着",
+                "expression": "背影"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "过肩近景固定镜头。温贝贝坐在床上，双手紧握，无辜地看着李慎行，替温初初说话。",
+        "dialogue": "慎行，你别怪妹妹，她就是",
+        "speaker": "温贝贝",
+        "emotion": "大度",
+        "duration": 3.8,
+        "description_visual": "近景过肩镜头；卧室床头；画面左侧人物，身穿白色吊带丝绸裙，坐在床上，双手紧握，表情：眼神看向李慎行，表情无辜；画面右侧，前景人物，身穿黑色衬衫，坐着，表情：背影。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，表情复杂",
+                "expression": "眼神直视，嘴唇紧闭"
+            }
+        ],
+        "background": "卧室门口",
+        "description_narrative": "特写固定镜头。温初初站立，表情复杂地看着前方。画外传来温贝贝继续说话的声音。",
+        "dialogue": "太爱你了才会这样。",
+        "speaker": "温贝贝 (画外音)",
+        "emotion": "隐忍",
+        "duration": 2.63,
+        "description_visual": "特写平拍镜头；卧室门口；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，表情复杂，表情：眼神直视，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面左侧",
+                "action": "坐在床上，身体微倾",
+                "expression": "眼神哀怨，嘴角微撇"
+            },
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧，前景",
+                "action": "坐着",
+                "expression": "背影"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "过肩近景固定镜头。温贝贝坐在床上，表情哀怨地自贬身份，称自己是因为太爱李慎行。",
+        "dialogue": "我知道她看我不顺眼，谁让我是你女朋友呢。",
+        "speaker": "温贝贝",
+        "emotion": "自怜",
+        "duration": 4.2,
+        "description_visual": "近景过肩镜头；卧室床头；画面左侧人物，身穿白色吊带丝绸裙，坐在床上，身体微倾，表情：眼神哀怨，嘴角微撇；画面右侧，前景人物，身穿黑色衬衫，坐着，表情：背影。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面左侧",
+                "action": "双手交叠放在腿上",
+                "expression": "眼神低垂，表情悲伤"
+            },
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧，前景",
+                "action": "坐着",
+                "expression": "背影"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "过肩近景固定镜头。温贝贝低头看着自己的手，继续诉说自己见不得光的处境。",
+        "dialogue": "只要她一天不离婚。",
+        "speaker": "温贝贝",
+        "emotion": "悲伤",
+        "duration": 2.4,
+        "description_visual": "近景过肩镜头；卧室床头；画面左侧人物，身穿白色吊带丝绸裙，双手交叠放在腿上，表情：眼神低垂，表情悲伤；画面右侧，前景人物，身穿黑色衬衫，坐着，表情：背影。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，侧脸",
+                "expression": "表情凝重，眼神下沉"
+            },
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面左侧，模糊",
+                "action": "坐着",
+                "expression": "模糊"
+            }
+        ],
+        "background": "卧室，白色床铺",
+        "description_narrative": "侧拍近景固定镜头。李慎行侧脸凝重地听着。画外传来温贝贝说自己永远是情妇的声音。",
+        "dialogue": "我就永远是一个见不得光的",
+        "speaker": "温贝贝 (画外音)",
+        "emotion": "绝望",
+        "duration": 2.57,
+        "description_visual": "近景侧拍镜头；卧室，白色床铺；画面右侧人物，身穿黑色衬衫，坐着，侧脸，表情：表情凝重，眼神下沉；画面左侧，模糊人物，身穿白色吊带丝绸裙，坐着，表情：模糊。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，直视",
+                "expression": "眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "卧室门口",
+        "description_narrative": "特写固定镜头。温初初站立，眼神锐利。画外传来温贝贝说完“情妇”二字。",
+        "dialogue": "情妇。",
+        "speaker": "温贝贝 (画外音)",
+        "emotion": "决绝",
+        "duration": 3.0,
+        "description_visual": "特写平拍镜头；卧室门口；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，直视，表情：眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在床上，身体前倾",
+                "expression": "眉毛上扬，眼神愤怒，嘴巴微张"
+            }
+        ],
+        "background": "卧室，床头背景",
+        "description_narrative": "近景固定镜头。李慎行坐在床上，表情愤怒地质问。画外传来温初初反问难道不是实话的声音。",
+        "dialogue": "我说的难道不是实话吗？我们俩还没有离婚，温贝贝就介入进来，不是情妇是什么？",
+        "speaker": "温初初 (画外音)",
+        "emotion": "愤怒",
+        "duration": 6.27,
+        "description_visual": "近景平拍镜头；卧室，床头背景；画面中央人物，身穿黑色衬衫，坐在床上，身体前倾，表情：眉毛上扬，眼神愤怒，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面左侧",
+                "action": "坐在床上，抬头看",
+                "expression": "眼神惊讶，嘴巴微张"
+            },
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧，前景",
+                "action": "坐着",
+                "expression": "侧脸模糊"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "过肩近景固定镜头。温贝贝抬头惊讶地看着。画外传来李慎行质问温初初是否不稀罕当女主人的声音。",
+        "dialogue": "温初初，不稀罕当厉家的女主人吗？",
+        "speaker": "李慎行 (画外音)",
+        "emotion": "质问",
+        "duration": 4.23,
+        "description_visual": "近景过肩镜头；卧室床头；画面左侧人物，身穿白色吊带丝绸裙，坐在床上，抬头看，表情：眼神惊讶，嘴巴微张；画面右侧，前景人物，身穿黑色衬衫，坐着，表情：侧脸模糊。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在床上，侧头",
+                "expression": "眼神不满，嘴巴微张"
+            }
+        ],
+        "background": "卧室，窗帘背景",
+        "description_narrative": "近景固定镜头。李慎行坐在床上，侧头不满地指责温初初拿头衔压人。",
+        "dialogue": "现在又拿这个头衔来压贝贝。",
+        "speaker": "李慎行",
+        "emotion": "不满",
+        "duration": 2.93,
+        "description_visual": "近景平拍镜头；卧室，窗帘背景；画面中央人物，身穿黑色衬衫，坐在床上，侧头，表情：眼神不满，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，直视",
+                "expression": "眼神冷漠，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室门口",
+        "description_narrative": "特写固定镜头。温初初站立，眼神冷漠。画外传来李慎行指责她没有涵养的声音。",
+        "dialogue": "你就这点涵养。",
+        "speaker": "李慎行 (画外音)",
+        "emotion": "轻蔑",
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；卧室门口；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，直视，表情：眼神冷漠，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "坐在床上，转头",
+                "expression": "眼神震惊，嘴巴微张"
+            }
+        ],
+        "background": "卧室",
+        "description_narrative": "近景固定镜头。李慎行坐在床上，转头看向温初初，表情震惊。画外传来温初初说“你”的声音。",
+        "dialogue": "你。",
+        "speaker": "温初初 (画外音)",
+        "emotion": "失望",
+        "duration": 1.17,
+        "description_visual": "近景平拍镜头；卧室；画面中央人物，身穿黑色衬衫，坐在床上，转头，表情：眼神震惊，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，闭眼后睁开",
+                "expression": "眼神失望，嘴巴微张"
+            }
+        ],
+        "background": "卧室门口",
+        "description_narrative": "特写固定镜头。温初初闭眼后睁开，眼神失望。画外传来李慎行讽刺她如果早点硬气就不至于被欺负的声音。",
+        "dialogue": "温初初，你如果早点这么硬气，还至于被温贝贝欺负？",
+        "speaker": "李慎行 (画外音)",
+        "emotion": "讽刺",
+        "duration": 6.1,
+        "description_visual": "特写平拍镜头；卧室门口；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，闭眼后睁开，表情：眼神失望，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温贝贝",
+                "gender": "女",
+                "clothing": "白色吊带丝绸裙",
+                "position": "画面中央",
+                "action": "坐在床上，低头",
+                "expression": "眼神下垂，表情平静"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "近景固定镜头。温贝贝坐在床上低头。画外传来温初初澄清自己不想当厉太太，只想离婚的声音。",
+        "dialogue": "厉少误会了，厉太太的位置我是真不想。我的意思是说，只有我们离婚了。",
+        "speaker": "温初初 (画外音)",
+        "emotion": "决绝",
+        "duration": 9.3,
+        "description_visual": "近景平拍镜头；卧室床头；画面中央人物，身穿白色吊带丝绸裙，坐在床上，低头，表情：眼神下垂，表情平静。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，直视",
+                "expression": "眼神坚定，嘴巴微张"
+            }
+        ],
+        "background": "卧室门口",
+        "description_narrative": "特写固定镜头。温初初站立，眼神坚定地看着前方，说只有离婚了李慎行和温贝贝才算光明正大。",
+        "dialogue": "你和温贝贝才算光明正大。",
+        "speaker": "温初初",
+        "emotion": "坦然",
+        "duration": 3.57,
+        "description_visual": "特写平拍镜头；卧室门口；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，直视，表情：眼神坚定，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，光线过曝",
+                "expression": "眼神直视，嘴巴微张"
+            }
+        ],
+        "background": "卧室门口，强光",
+        "description_narrative": "特写固定镜头。温初初站立，画面光线变亮过曝，她平静地提出什么时候去离婚。",
+        "dialogue": "所以我们什么时候抽空，去把婚离了。",
+        "speaker": "温初初",
+        "emotion": "平静",
+        "duration": 4.37,
+        "description_visual": "特写平拍镜头；卧室门口，强光；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，光线过曝，表情：眼神直视，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，光线恢复正常",
+                "expression": "眼神平静，嘴巴微闭"
+            }
+        ],
+        "background": "卧室门口",
+        "description_narrative": "特写固定镜头。光线恢复正常，温初初站立，表情平静，等待回应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 0.77,
+        "description_visual": "特写平拍镜头；卧室门口；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，光线恢复正常，表情：眼神平静，嘴巴微闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温初初",
+                "gender": "女",
+                "clothing": "粉色蕾丝丝绸睡衣",
+                "position": "画面中央",
+                "action": "站立，眼神微动",
+                "expression": "眼神坚定，嘴巴微张"
+            }
+        ],
+        "background": "卧室门口",
+        "description_narrative": "特写固定镜头。温初初站立，眼神坚定，画面结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "坚定",
+        "duration": 2.6,
+        "description_visual": "特写平拍镜头；卧室门口；画面中央人物，身穿粉色蕾丝丝绸睡衣，站立，眼神微动，表情：眼神坚定，嘴巴微张。"
+    }
+]

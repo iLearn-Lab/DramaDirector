@@ -1,0 +1,286 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "身体微侧向右，双手交叠放在大腿上，目光注视着右侧女子",
+                "expression": "眉毛微蹙，眼神深沉专注，嘴唇微张似在诉说"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣，深色纱裙",
+                "position": "画面右侧",
+                "action": "身体正对前方微侧向左，双手交握放在膝上，抬头看向左侧男子",
+                "expression": "眉毛舒展，眼神柔和带疑惑，嘴角微抿"
+            }
+        ],
+        "background": "公园长椅，背景有绿树和湖面，自然光",
+        "description_narrative": "中景固定镜头，严总与女子坐在公园长椅上。严总身穿黑色西装，身体微侧，目光深沉地注视着身旁的女子。女子身穿条纹上衣，双手交握，抬头温和地看着严总。背景是明亮的湖面和树木。",
+        "dialogue": "其实你很像我的一位故人。",
+        "speaker": "严总",
+        "emotion": "怀念",
+        "duration": 3.6,
+        "description_visual": "中景平拍镜头；公园长椅，背景有绿树和湖面，自然光；画面左侧人物，身穿黑色西装，白衬衫，条纹领带，身体微侧向右，双手交叠放在大腿上，目光注视着右侧女子，表情：眉毛微蹙，眼神深沉专注，嘴唇微张似在诉说；画面右侧人物，身穿黑白条纹短袖上衣，深色纱裙，身体正对前方微侧向左，双手交握放在膝上，抬头看向左侧男子，表情：眉毛舒展，眼神柔和带疑惑，嘴角微抿。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向左前方，嘴角泛起一丝浅笑",
+                "expression": "眉毛轻扬，眼睛明亮注视对方，嘴唇微启露齿"
+            }
+        ],
+        "background": "虚化的树木与湖面背景",
+        "description_narrative": "女子特写镜头。她身穿黑白条纹上衣，头发编成侧麻花辫。她微微侧头，眼神中流露出一丝似曾相识的感觉，嘴角带着温柔的笑意，似乎在对严总的话表示认同。",
+        "dialogue": "其实我也感觉，我好像在哪里见过你。",
+        "speaker": "女子",
+        "emotion": "困惑且温柔",
+        "duration": 3.6,
+        "description_visual": "特写平拍镜头；虚化的树木与湖面背景；画面中央人物，身穿黑白条纹短袖上衣，头部微侧，眼神看向左前方，嘴角泛起一丝浅笑，表情：眉毛轻扬，眼睛明亮注视对方，嘴唇微启露齿。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "身体前倾，目光紧紧盯着对面的女子，神情专注",
+                "expression": "眉头微锁，眼神探究，嘴唇微张似在倾听"
+            }
+        ],
+        "background": "虚化的公园绿植背景",
+        "description_narrative": "过肩镜头，焦点在严总脸上。他身体前倾，神情严肃而专注地听着女子说话，眼神中带着期待与疑惑，似乎在捕捉对方话语中的线索。",
+        "dialogue": "严总，我感觉。",
+        "speaker": "女子",
+        "emotion": "试探",
+        "duration": 2.2,
+        "description_visual": "近景过肩镜头；虚化的公园绿植背景；画面左侧人物，身穿黑色西装，白衬衫，条纹领带，身体前倾，目光紧紧盯着对面的女子，神情专注，表情：眉头微锁，眼神探究，嘴唇微张似在倾听。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "头部微歪，眼神带着好奇与关切，双手自然摆放",
+                "expression": "眉毛微挑，眼睛注视对方，嘴角带着询问的笑意"
+            }
+        ],
+        "background": "虚化的树木与水面",
+        "description_narrative": "女子特写。她歪着头，眼神中充满了好奇与试探，似乎在猜测严总口中那位“故人”的身份，表情温柔而小心翼翼。",
+        "dialogue": "你应该很在乎你这位故人，她是你女朋友吗？",
+        "speaker": "女子",
+        "emotion": "好奇",
+        "duration": 4.5,
+        "description_visual": "特写平拍镜头；虚化的树木与水面；画面中央人物，身穿黑白条纹短袖上衣，头部微歪，眼神带着好奇与关切，双手自然摆放，表情：眉毛微挑，眼睛注视对方，嘴角带着询问的笑意。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "目光低垂后抬起，神情变得痛苦而深情",
+                "expression": "眉毛紧蹙，眼神悲伤，嘴唇颤抖着吐出 words"
+            }
+        ],
+        "background": "虚化的公园背景",
+        "description_narrative": "严总近景。听到问题后，他的表情瞬间变得沉重，眼神中流露出深深的痛楚与怀念，缓缓道出真相，身体微微紧绷。",
+        "dialogue": "她是我最爱的人，是我的老婆，是我的严太太。可是我把她弄丢了。",
+        "speaker": "严总",
+        "emotion": "悲伤",
+        "duration": 7.43,
+        "description_visual": "近景平拍镜头；虚化的公园背景；画面左侧人物，身穿黑色西装，白衬衫，条纹领带，目光低垂后抬起，神情变得痛苦而深情，表情：眉毛紧蹙，眼神悲伤，嘴唇颤抖着吐出 words。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "眼神变得感同身受，微微点头，身体前倾",
+                "expression": "眉毛微垂，眼神怜悯，嘴唇微张似在安慰"
+            }
+        ],
+        "background": "虚化的树木背景",
+        "description_narrative": "女子特写。她听到了严总的痛苦，眼神中充满了同情与理解。她微微前倾身体，似乎想给予对方安慰，表情柔和而真诚。",
+        "dialogue": "我能理解你的心情，我也曾经把我最宝贵的东西也给弄丢了，就像是我的记忆。",
+        "speaker": "女子",
+        "emotion": "共情",
+        "duration": 8.03,
+        "description_visual": "特写平拍镜头；虚化的树木背景；画面中央人物，身穿黑白条纹短袖上衣，眼神变得感同身受，微微点头，身体前倾，表情：眉毛微垂，眼神怜悯，嘴唇微张似在安慰。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "眼神变得坚定，双手握紧，身体挺直",
+                "expression": "眉头舒展，目光坚毅，嘴唇紧闭后微张"
+            }
+        ],
+        "background": "虚化的公园绿植",
+        "description_narrative": "严总近景。他抬起头，眼中的悲伤转化为坚定，双手在膝上微微用力，表达出绝不放弃的决心，目光灼灼。",
+        "dialogue": "不过我不会放弃的，我相信总有一天。",
+        "speaker": "严总",
+        "emotion": "坚定",
+        "duration": 4.2,
+        "description_visual": "近景平拍镜头；虚化的公园绿植；画面左侧人物，身穿黑色西装，白衬衫，条纹领带，眼神变得坚定，双手握紧，身体挺直，表情：眉头舒展，目光坚毅，嘴唇紧闭后微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "脸上露出充满希望的笑容，眼神明亮",
+                "expression": "眉毛上扬，眼睛弯成月牙，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "虚化的树木与湖面",
+        "description_narrative": "女子特写。她受到严总情绪的感染，脸上绽放出灿烂而充满希望的笑容，眼神明亮地看向远方，仿佛看到了找回记忆的未来。",
+        "dialogue": "我相信总有一天，我能把我失去的记忆全都给找回来。",
+        "speaker": "女子",
+        "emotion": "希望",
+        "duration": 4.63,
+        "description_visual": "特写平拍镜头；虚化的树木与湖面；画面中央人物，身穿黑白条纹短袖上衣，脸上露出充满希望的笑容，眼神明亮，表情：眉毛上扬，眼睛弯成月牙，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "静静倾听，眼神柔和下来，微微点头",
+                "expression": "眉毛放松，眼神温和，嘴唇微抿"
+            }
+        ],
+        "background": "虚化的公园背景",
+        "description_narrative": "严总近景。他安静地听着女子的安慰，原本紧绷的神情逐渐放松，眼神中多了一丝暖意，被女子的乐观所打动。",
+        "dialogue": "所以啊，你也别太伤心了，有缘总会相见的。",
+        "speaker": "女子",
+        "emotion": "安慰",
+        "duration": 4.53,
+        "description_visual": "近景平拍镜头；虚化的公园背景；画面左侧人物，身穿黑色西装，白衬衫，条纹领带，静静倾听，眼神柔和下来，微微点头，表情：眉毛放松，眼神温和，嘴唇微抿。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "双手交握，身体微前倾，真诚地看着对方",
+                "expression": "眉毛舒展，眼神真挚，嘴角带着鼓励的微笑"
+            }
+        ],
+        "background": "虚化的树木背景",
+        "description_narrative": "女子特写。她双手交握，身体微微前倾，用真诚而坚定的眼神看着严总，给予他最温暖的祝福，笑容灿烂。",
+        "dialogue": "我相信你们两个迟早会重逢的。",
+        "speaker": "女子",
+        "emotion": "祝福",
+        "duration": 4.07,
+        "description_visual": "特写平拍镜头；虚化的树木背景；画面中央人物，身穿黑白条纹短袖上衣，双手交握，身体微前倾，真诚地看着对方，表情：眉毛舒展，眼神真挚，嘴角带着鼓励的微笑。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，条纹领带",
+                "position": "画面左侧",
+                "action": "微微点头，目光深邃地看着女子",
+                "expression": "眉毛微挑，眼神复杂，嘴唇微动"
+            }
+        ],
+        "background": "虚化的公园绿植",
+        "description_narrative": "严总近景。他看着眼前这个酷似妻子的女子，听着她的祝福，心中五味杂陈。他微微点头，表示认同，眼神中藏着深深的情感。",
+        "dialogue": "嗯，我也相信缘分。",
+        "speaker": "严总",
+        "emotion": "感慨",
+        "duration": 2.37,
+        "description_visual": "近景平拍镜头；虚化的公园绿植；画面左侧人物，身穿黑色西装，白衬衫，条纹领带，微微点头，目光深邃地看着女子，表情：眉毛微挑，眼神复杂，嘴唇微动。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫，条纹领带",
+                "position": "画面中央",
+                "action": "目光凝视前方，神情恍惚",
+                "expression": "眼神迷离，嘴唇微张，面部被粉色光晕笼罩"
+            }
+        ],
+        "background": "粉色光晕笼罩的虚化背景",
+        "description_narrative": "严总特写，画面笼罩在一层梦幻的粉色光晕中。他目光凝视前方，神情显得有些恍惚和出神，仿佛陷入了某种回忆或幻想之中。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恍惚",
+        "duration": 2.8,
+        "description_visual": "特写平拍镜头；粉色光晕笼罩的虚化背景；画面中央人物，身穿黑色西装，白衬衫，条纹领带，目光凝视前方，神情恍惚，表情：眼神迷离，嘴唇微张，面部被粉色光晕笼罩。"
+    }
+]

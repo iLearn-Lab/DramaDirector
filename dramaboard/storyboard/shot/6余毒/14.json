@@ -1,0 +1,782 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "酒店房间，深色木门，水晶吊灯，米色花纹壁纸，光线柔和。",
+        "description_narrative": "全景镜头展示空无一人的酒店房间，深色木门紧闭，水晶吊灯悬挂在天花板中央，米色花纹壁纸和地毯营造出奢华氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.0,
+        "description_visual": "全景平拍镜头；酒店房间，深色木门，水晶吊灯，米色花纹壁纸，光线柔和。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣，白色长裤，白色运动鞋",
+                "position": "画面中央偏左",
+                "action": "从门口走进房间，右手轻抚头发，步伐从容。",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微闭。"
+            }
+        ],
+        "background": "酒店房间内部，深色木门，床铺白色被褥，墙上挂画。",
+        "description_narrative": "中景跟拍镜头，顾研身穿米色上衣和白色长裤从门口走进房间，右手轻抚头发，神情自信地走向床边。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "中景平拍镜头（跟拍）；酒店房间内部，深色木门，床铺白色被褥，墙上挂画。；画面中央偏左人物，身穿米色紧身长袖上衣，白色长裤，白色运动鞋，从门口走进房间，右手轻抚头发，步伐从容。，表情：眉毛舒展，眼睛视线下移，嘴巴微闭。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "突然从侧面冲出，将顾研扑倒在床上，动作迅猛。",
+                "expression": "眉毛紧锁，眼睛紧盯目标，嘴巴紧闭。"
+            },
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣，白色长裤",
+                "position": "画面右侧床上",
+                "action": "被扑倒，身体后仰，双手抬起试图抵挡。",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张惊呼。"
+            }
+        ],
+        "background": "酒店房间床铺区域，白色床单，背景墙面挂画。",
+        "description_narrative": "中景摇镜，傅少身穿黑衣突然冲出将顾研扑倒在白色床铺上，顾研身体后仰，发出惊呼声。",
+        "dialogue": "啊。",
+        "speaker": "顾研",
+        "emotion": "惊讶",
+        "duration": 0.36,
+        "description_visual": "中景平拍镜头（摇镜）；酒店房间床铺区域，白色床单，背景墙面挂画。；画面中央人物，身穿黑色衬衫，黑色长裤，突然从侧面冲出，将顾研扑倒在床上，动作迅猛。，表情：眉毛紧锁，眼睛紧盯目标，嘴巴紧闭。；画面右侧床上人物，身穿米色紧身长袖上衣，白色长裤，被扑倒，身体后仰，双手抬起试图抵挡。，表情：眉毛上扬，眼睛睁大，嘴巴微张惊呼。。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "斜角",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面前景",
+                "action": "身体前倾压在床上，动作带有惯性模糊。",
+                "expression": "面部模糊，视线向下。"
+            }
+        ],
+        "background": "模糊的墙面和画框边缘。",
+        "description_narrative": "特写推进镜头，画面因快速动作而模糊，傅少身穿黑衣的身体前倾压在床上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写斜角镜头（推进）；模糊的墙面和画框边缘。；画面前景人物，身穿黑色衬衫，身体前倾压在床上，动作带有惯性模糊。，表情：面部模糊，视线向下。。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "低头俯视，身体压在对方身上。",
+                "expression": "眉毛微蹙，眼睛直视下方，嘴巴微张。"
+            }
+        ],
+        "background": "白色床单，模糊的背景。",
+        "description_narrative": "特写俯拍镜头，傅少低头俯视，神情严肃，身体压在床上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "特写俯拍镜头；白色床单，模糊的背景。；画面左侧人物，身穿黑色衬衫，低头俯视，身体压在对方身上。，表情：眉毛微蹙，眼睛直视下方，嘴巴微张。。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面下方",
+                "action": "仰卧在床上，头部枕在枕头上，视线向上。",
+                "expression": "眉毛舒展，眼睛向上看，嘴角上扬带笑。"
+            }
+        ],
+        "background": "白色枕头，模糊的上方空间。",
+        "description_narrative": "特写仰拍镜头，顾研仰卧在床上，视线向上看着上方的人，嘴角带着挑衅的笑意。",
+        "dialogue": "怎么傅少这是舍不得我？",
+        "speaker": "顾研",
+        "emotion": "挑衅",
+        "duration": 3.68,
+        "description_visual": "特写仰拍镜头；白色枕头，模糊的上方空间。；画面下方人物，身穿米色紧身长袖上衣，仰卧在床上，头部枕在枕头上，视线向上。，表情：眉毛舒展，眼睛向上看，嘴角上扬带笑。。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面上方",
+                "action": "低头逼近，眼神锐利。",
+                "expression": "眉毛紧锁，眼睛直视对方，嘴巴紧闭。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，傅少低头逼近，眼神锐利地质问。",
+        "dialogue": "钥匙在哪？",
+        "speaker": "傅少",
+        "emotion": "质问",
+        "duration": 2.06,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面上方人物，身穿黑色衬衫，低头逼近，眼神锐利。，表情：眉毛紧锁，眼睛直视对方，嘴巴紧闭。。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "保持俯视姿态，表情严肃。",
+                "expression": "眉毛微蹙，眼睛盯着下方，嘴巴微张。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，傅少保持俯视姿态，表情严肃，听着对方的回答。",
+        "dialogue": "傅少，我听不懂你在说什么。",
+        "speaker": "顾研",
+        "emotion": "装傻",
+        "duration": 2.76,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面左侧人物，身穿黑色衬衫，保持俯视姿态，表情严肃。，表情：眉毛微蹙，眼睛盯着下方，嘴巴微张。。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "身体前倾，距离更近，施加压力。",
+                "expression": "眉毛紧锁，眼睛怒视，嘴巴微张警告。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写推进镜头，傅少身体前倾逼近，表情凶狠地发出警告。",
+        "dialogue": "不要挑战我的耐心。",
+        "speaker": "傅少",
+        "emotion": "愤怒",
+        "duration": 1.8,
+        "description_visual": "特写俯拍镜头（推进）；白色床单，模糊背景。；画面左侧人物，身穿黑色衬衫，身体前倾，距离更近，施加压力。，表情：眉毛紧锁，眼睛怒视，嘴巴微张警告。。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "低头威胁，眼神冰冷。",
+                "expression": "眉毛平直，眼睛眯起，嘴巴微动。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，傅少低头威胁，眼神冰冷地陈述后果。",
+        "dialogue": "否则你陷害林佳怡的视频。",
+        "speaker": "傅少",
+        "emotion": "威胁",
+        "duration": 2.98,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面左侧人物，身穿黑色衬衫，低头威胁，眼神冰冷。，表情：眉毛平直，眼睛眯起，嘴巴微动。。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "继续逼近，完成威胁语句。",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴闭合。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，傅少继续逼近，完成关于视频曝光的威胁。",
+        "dialogue": "明天就会上头条。",
+        "speaker": "傅少",
+        "emotion": "威胁",
+        "duration": 2.64,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面左侧人物，身穿黑色衬衫，继续逼近，完成威胁语句。，表情：眉毛紧锁，眼睛直视，嘴巴闭合。。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾试图压制，动作幅度大。",
+                "expression": "面部模糊，表情急切。"
+            }
+        ],
+        "background": "酒店床头柜，镜子，白色床铺。",
+        "description_narrative": "中近景跟拍，傅少身体前倾试图压制，动作幅度大，似乎察觉到了危险。",
+        "dialogue": "顾研 放开。",
+        "speaker": "傅少",
+        "emotion": "急切",
+        "duration": 0.42,
+        "description_visual": "中近景侧拍镜头（跟拍）；酒店床头柜，镜子，白色床铺。；画面中央人物，身穿黑色衬衫，身体前倾试图压制，动作幅度大。，表情：面部模糊，表情急切。。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面左侧",
+                "action": "翻身反制，动作迅速模糊。",
+                "expression": "面部模糊，动作果断。"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧床上",
+                "action": "被反压在身下，身体后仰。",
+                "expression": "面部模糊，表情惊讶。"
+            }
+        ],
+        "background": "白色床铺，模糊的床头背景。",
+        "description_narrative": "中近景摇镜，画面因快速动作模糊，顾研迅速翻身将傅少反压在身下。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.26,
+        "description_visual": "中近景侧拍镜头（摇镜）；白色床铺，模糊的床头背景。；画面左侧人物，身穿米色紧身长袖上衣，翻身反制，动作迅速模糊。，表情：面部模糊，动作果断。；画面右侧床上人物，身穿黑色衬衫，被反压在身下，身体后仰。，表情：面部模糊，表情惊讶。。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "俯身靠近，头发垂落。",
+                "expression": "眉毛微蹙，眼睛注视下方，嘴巴微张。"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面下方",
+                "action": "仰卧，视线向上。",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，顾研俯身靠近，头发垂落，傅少仰卧在下方，局势逆转。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.46,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面上方人物，身穿米色紧身长袖上衣，俯身靠近，头发垂落。，表情：眉毛微蹙，眼睛注视下方，嘴巴微张。；画面下方人物，身穿黑色衬衫，仰卧，视线向上。，表情：眉毛舒展，眼睛闭合，嘴巴微张。。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面左侧",
+                "action": "双手拿出手铐，扣在傅少手腕上。",
+                "expression": "手部动作迅速。"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧",
+                "action": "手腕被扣住，手指微动。",
+                "expression": "手部特写。"
+            }
+        ],
+        "background": "白色床单，金属手铐。",
+        "description_narrative": "特写俯拍镜头，顾研双手拿出手铐，迅速扣在傅少的手腕上，金属手铐在白色床单上反光。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.62,
+        "description_visual": "特写俯拍镜头；白色床单，金属手铐。；画面左侧人物，身穿米色紧身长袖上衣，双手拿出手铐，扣在傅少手腕上。，表情：手部动作迅速。；画面右侧人物，身穿黑色衬衫，手腕被扣住，手指微动。，表情：手部特写。。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面左侧",
+                "action": "锁紧手铐，手指用力。",
+                "expression": "手部动作坚定。"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧",
+                "action": "手腕被固定，无法动弹。",
+                "expression": "手部特写。"
+            }
+        ],
+        "background": "白色床单，金属手铐。",
+        "description_narrative": "特写俯拍镜头，顾研锁紧手铐，手指用力，将傅少的双手固定在床头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.86,
+        "description_visual": "特写俯拍镜头；白色床单，金属手铐。；画面左侧人物，身穿米色紧身长袖上衣，锁紧手铐，手指用力。，表情：手部动作坚定。；画面右侧人物，身穿黑色衬衫，手腕被固定，无法动弹。，表情：手部特写。。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣，白色长裤",
+                "position": "画面上方",
+                "action": "跨坐在傅少身上，双手撑在床两侧，俯视对方。",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张。"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面下方",
+                "action": "仰卧被压制，双手被铐在头顶。",
+                "expression": "眉毛紧锁，眼睛怒视，嘴巴微张警告。"
+            }
+        ],
+        "background": "白色床铺，深色床头板。",
+        "description_narrative": "中近景侧拍，顾研跨坐在傅少身上，双手撑在床两侧俯视，傅少被压制在下方发出警告。",
+        "dialogue": "你不要挑战我。",
+        "speaker": "傅少",
+        "emotion": "警告",
+        "duration": 2.68,
+        "description_visual": "中近景侧拍镜头；白色床铺，深色床头板。；画面上方人物，身穿米色紧身长袖上衣，白色长裤，跨坐在傅少身上，双手撑在床两侧，俯视对方。，表情：眉毛微挑，眼睛注视对方，嘴巴微张。；画面下方人物，身穿黑色衬衫，黑色长裤，仰卧被压制，双手被铐在头顶。，表情：眉毛紧锁，眼睛怒视，嘴巴微张警告。。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "低头靠近，头发散落。",
+                "expression": "眉毛舒展，眼睛下视，嘴角带笑。"
+            }
+        ],
+        "background": "模糊的吊灯，白色床单。",
+        "description_narrative": "特写俯拍镜头，顾研低头靠近，头发散落，嘴角带着笑意回应。",
+        "dialogue": "是吗。",
+        "speaker": "顾研",
+        "emotion": "嘲讽",
+        "duration": 1.18,
+        "description_visual": "特写俯拍镜头；模糊的吊灯，白色床单。；画面上方人物，身穿米色紧身长袖上衣，低头靠近，头发散落。，表情：眉毛舒展，眼睛下视，嘴角带笑。。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "继续低头逼近，眼神挑逗。",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，顾研继续低头逼近，眼神挑逗地承认挑战。",
+        "dialogue": "我挑战了。",
+        "speaker": "顾研",
+        "emotion": "挑衅",
+        "duration": 2.84,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面上方人物，身穿米色紧身长袖上衣，继续低头逼近，眼神挑逗。，表情：眉毛微挑，眼睛注视对方，嘴巴微张。。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "低头微笑，距离极近。",
+                "expression": "眉毛舒展，眼睛微闭，嘴角上扬。"
+            }
+        ],
+        "background": "模糊的吊灯，白色床单。",
+        "description_narrative": "特写俯拍镜头，顾研低头微笑，距离极近地指出对方并未拒绝。",
+        "dialogue": "傅少也没拒绝。",
+        "speaker": "顾研",
+        "emotion": "得意",
+        "duration": 1.8,
+        "description_visual": "特写俯拍镜头；模糊的吊灯，白色床单。；画面上方人物，身穿米色紧身长袖上衣，低头微笑，距离极近。，表情：眉毛舒展，眼睛微闭，嘴角上扬。。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "低头注视，眼神玩味。",
+                "expression": "眉毛微挑，眼睛下视，嘴巴微张反问。"
+            }
+        ],
+        "background": "模糊的吊灯，白色床单。",
+        "description_narrative": "特写俯拍镜头，顾研低头注视，眼神玩味地反问。",
+        "dialogue": "不是吗。",
+        "speaker": "顾研",
+        "emotion": "反问",
+        "duration": 1.24,
+        "description_visual": "特写俯拍镜头；模糊的吊灯，白色床单。；画面上方人物，身穿米色紧身长袖上衣，低头注视，眼神玩味。，表情：眉毛微挑，眼睛下视，嘴巴微张反问。。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣，白色长裤",
+                "position": "画面上方",
+                "action": "保持跨坐姿势，身体前倾。",
+                "expression": "眉毛舒展，眼睛注视对方。"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面下方",
+                "action": "仰卧，双手被铐，眼神无奈。",
+                "expression": "眉毛平直，眼睛向上看。"
+            }
+        ],
+        "background": "白色床铺，深色床头。",
+        "description_narrative": "中近景侧拍，顾研保持跨坐姿势身体前倾，傅少仰卧在下方，双手被铐，眼神无奈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "中近景侧拍镜头；白色床铺，深色床头。；画面上方人物，身穿米色紧身长袖上衣，白色长裤，保持跨坐姿势，身体前倾。，表情：眉毛舒展，眼睛注视对方。；画面下方人物，身穿黑色衬衫，仰卧，双手被铐，眼神无奈。，表情：眉毛平直，眼睛向上看。。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣，白色长裤",
+                "position": "画面上方",
+                "action": "俯身靠近，头发垂落遮挡部分视线。",
+                "expression": "眉毛微蹙，眼睛注视对方。"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面下方",
+                "action": "仰卧，头部微侧。",
+                "expression": "眉毛舒展，眼睛向上看。"
+            }
+        ],
+        "background": "白色床铺，深色床头。",
+        "description_narrative": "中近景侧拍，顾研俯身靠近，傅少在下方开口询问意图。",
+        "dialogue": "为什么不要？顾小姐不就想要这个吗？",
+        "speaker": "傅少",
+        "emotion": "试探",
+        "duration": 4.08,
+        "description_visual": "中近景侧拍镜头；白色床铺，深色床头。；画面上方人物，身穿米色紧身长袖上衣，白色长裤，俯身靠近，头发垂落遮挡部分视线。，表情：眉毛微蹙，眼睛注视对方。；画面下方人物，身穿黑色衬衫，仰卧，头部微侧。，表情：眉毛舒展，眼睛向上看。。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "低头微笑，眼神狡黠。",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬露齿。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，顾研低头微笑，眼神狡黠地讲述原本的想法。",
+        "dialogue": "本来想着跟傅少我也不吃亏。但现在嘛。",
+        "speaker": "顾研",
+        "emotion": "狡黠",
+        "duration": 2.5,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面上方人物，身穿米色紧身长袖上衣，低头微笑，眼神狡黠。，表情：眉毛舒展，眼睛下视，嘴角上扬露齿。。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "继续低头，语气转折。",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，顾研继续低头，语气转折，暗示情况变化。",
+        "dialogue": "但现在嘛。",
+        "speaker": "顾研",
+        "emotion": "转折",
+        "duration": 2.42,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面上方人物，身穿米色紧身长袖上衣，继续低头，语气转折。，表情：眉毛微挑，眼睛注视对方，嘴巴微张。。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "低头靠近，准备倒数。",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张。"
+            }
+        ],
+        "background": "模糊的吊灯，白色床单。",
+        "description_narrative": "特写俯拍镜头，顾研低头靠近，准备开始倒数。",
+        "dialogue": "我数三。",
+        "speaker": "顾研",
+        "emotion": "威胁",
+        "duration": 1.78,
+        "description_visual": "特写俯拍镜头；模糊的吊灯，白色床单。；画面上方人物，身穿米色紧身长袖上衣，低头靠近，准备倒数。，表情：眉毛舒展，眼睛下视，嘴巴微张。。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣，白色长裤",
+                "position": "画面中央",
+                "action": "跨坐在傅少身上，身体前倾，手握手铐钥匙。",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角带笑。"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面下方",
+                "action": "仰卧，双手被铐在头顶。",
+                "expression": "眉毛平直，眼睛向上看。"
+            }
+        ],
+        "background": "白色床铺，墙上挂画。",
+        "description_narrative": "中景侧拍，顾研跨坐在傅少身上，身体前倾，手握手铐钥匙，模仿害怕的语气嘲讽。",
+        "dialogue": "人家好怕怕哦。",
+        "speaker": "顾研",
+        "emotion": "嘲讽",
+        "duration": 2.7,
+        "description_visual": "中景侧拍镜头；白色床铺，墙上挂画。；画面中央人物，身穿米色紧身长袖上衣，白色长裤，跨坐在傅少身上，身体前倾，手握手铐钥匙。，表情：眉毛舒展，眼睛注视对方，嘴角带笑。；画面下方人物，身穿黑色衬衫，仰卧，双手被铐在头顶。，表情：眉毛平直，眼睛向上看。。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "酒店房间门口，深色木门，电视柜，米色花纹壁纸。",
+        "description_narrative": "中景固定镜头，画面切向房间门口的深色木门和电视柜，此时传来倒数的声音。",
+        "dialogue": "三。",
+        "speaker": "顾研",
+        "emotion": "倒数",
+        "duration": 0.6,
+        "description_visual": "中景平拍镜头；酒店房间门口，深色木门，电视柜，米色花纹壁纸。。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "酒店房间门口，深色木门，电视柜，米色花纹壁纸。",
+        "description_narrative": "中景固定镜头，画面停留在房间门口，传来门外人的呼唤声。",
+        "dialogue": "顾小姐。",
+        "speaker": "未知",
+        "emotion": "呼唤",
+        "duration": 1.36,
+        "description_visual": "中景平拍镜头；酒店房间门口，深色木门，电视柜，米色花纹壁纸。。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "低头注视，动作停顿。",
+                "expression": "眉毛微蹙，眼睛下视。"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面下方",
+                "action": "仰卧，开口求和。",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，顾研低头注视，动作停顿，傅少在下方开口请求谈判。",
+        "dialogue": "我们能谈谈吗",
+        "speaker": "傅少",
+        "emotion": "求和",
+        "duration": 1.34,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面上方人物，身穿米色紧身长袖上衣，低头注视，动作停顿。，表情：眉毛微蹙，眼睛下视。；画面下方人物，身穿黑色衬衫，仰卧，开口求和。，表情：眉毛舒展，眼睛向上看，嘴巴微张。。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "顾研",
+                "gender": "女",
+                "clothing": "米色紧身长袖上衣",
+                "position": "画面上方",
+                "action": "保持低头姿势，没有说话。",
+                "expression": "眉毛舒展，眼睛下视。"
+            }
+        ],
+        "background": "白色床单，模糊背景。",
+        "description_narrative": "特写俯拍镜头，顾研保持低头姿势，没有说话，气氛凝固。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "特写俯拍镜头；白色床单，模糊背景。；画面上方人物，身穿米色紧身长袖上衣，保持低头姿势，没有说话。，表情：眉毛舒展，眼睛下视。。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "淡出",
+        "subjects": [],
+        "background": "白色屏幕，无内容。",
+        "description_narrative": "全景镜头，画面逐渐淡出至白色，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "全景平拍镜头（淡出）；白色屏幕，无内容。。"
+    }
+]

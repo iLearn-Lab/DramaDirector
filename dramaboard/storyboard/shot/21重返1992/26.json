@@ -1,0 +1,600 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面左侧",
+                "action": "坐着，身体微侧向右，眼神看向右侧",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张正在说话"
+            }
+        ],
+        "background": "乡村院落，白墙，桌上有酒杯，光线自然",
+        "description_narrative": "中近景固定镜头，李总身穿灰色条纹西装坐在院中，身体微侧，神情严肃地看着对面的人，正在抱怨运输条件简陋。",
+        "dialogue": "你这没有专门的车，你拉到城里可臭了。",
+        "speaker": "李总",
+        "emotion": "嫌弃",
+        "duration": 3.76,
+        "description_visual": "中近景平拍镜头；乡村院落，白墙，桌上有酒杯，光线自然；画面左侧人物，身穿灰色条纹西装，黑色衬衫，坐着，身体微侧向右，眼神看向右侧，表情：眉毛微蹙，眼睛注视对方，嘴巴微张正在说话。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面左侧",
+                "action": "坐在桌边，手放在桌上",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "条纹衫男子",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色长裤",
+                "position": "画面右侧",
+                "action": "坐在对面，看着李总",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "乡村院落，白墙上有装饰，桌上有酒瓶和酒杯",
+        "description_narrative": "全景固定镜头，展示院落全貌，李总和条纹衫男子对坐在桌边，桌上放着酒瓶，气氛略显紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.64,
+        "description_visual": "全景平拍镜头；乡村院落，白墙上有装饰，桌上有酒瓶和酒杯；画面左侧人物，身穿灰色条纹西装，黑色衬衫，坐在桌边，手放在桌上，表情：表情严肃；画面右侧人物，身穿蓝白条纹 T 恤，棕色长裤，坐在对面，看着李总，表情：表情平静。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫男子",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色长裤",
+                "position": "画面左侧",
+                "action": "侧身坐着，面带微笑看向右侧",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色夹克，黑色裤子",
+                "position": "画面右侧",
+                "action": "坐着，低头看手",
+                "expression": "表情专注"
+            }
+        ],
+        "background": "院落一角，红门，白墙，桌上有酒瓶",
+        "description_narrative": "中景固定镜头，条纹衫男子面带微笑看向旁边的棕衣男子，似乎在传达某个价格信息。",
+        "dialogue": "一块。",
+        "speaker": "李总",
+        "emotion": "平静",
+        "duration": 1.94,
+        "description_visual": "中景平拍镜头；院落一角，红门，白墙，桌上有酒瓶；画面左侧人物，身穿蓝白条纹 T 恤，棕色长裤，侧身坐着，面带微笑看向右侧，表情：眉毛舒展，眼睛含笑，嘴角上扬；画面右侧人物，身穿棕色夹克，黑色裤子，坐着，低头看手，表情：表情专注。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "坐着，身体前倾，看着对面",
+                "expression": "眉毛微挑，眼神认真，嘴巴微张"
+            }
+        ],
+        "background": "院落背景，墙面有装饰",
+        "description_narrative": "中近景固定镜头，李总身体前倾，向对面的人解释一块钱的价格已经是对方利润的二十倍，表达诚意。",
+        "dialogue": "疯了哥，一块钱是他 20 倍的利润，我带诚意了。",
+        "speaker": "李总",
+        "emotion": "急切",
+        "duration": 5.62,
+        "description_visual": "中近景平拍镜头；院落背景，墙面有装饰；画面中央人物，身穿灰色条纹西装，黑色衬衫，坐着，身体前倾，看着对面，表情：眉毛微挑，眼神认真，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "站立，双手正在扣西装扣子",
+                "expression": "眉毛紧锁，眼神不悦，嘴巴紧闭"
+            }
+        ],
+        "background": "院落白墙，光线明亮",
+        "description_narrative": "特写固定镜头，李总站起身，一边扣西装扣子一边质问对方是否在耍他，显得非常不满。",
+        "dialogue": "你耍我是吧？",
+        "speaker": "李总",
+        "emotion": "愤怒",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；院落白墙，光线明亮；画面中央人物，身穿灰色条纹西装，黑色衬衫，站立，双手正在扣西装扣子，表情：眉毛紧锁，眼神不悦，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫男子",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色长裤",
+                "position": "画面中央",
+                "action": "站起身，双手在胸前比划",
+                "expression": "眉毛微蹙，眼神急切，嘴巴微张解释"
+            }
+        ],
+        "background": "院落红门背景",
+        "description_narrative": "中景固定镜头，条纹衫男子急忙站起身，双手比划着向李总解释，试图挽留。",
+        "dialogue": "不是李总。",
+        "speaker": "条纹衫男子",
+        "emotion": "焦急",
+        "duration": 1.88,
+        "description_visual": "中景平拍镜头；院落红门背景；画面中央人物，身穿蓝白条纹 T 恤，棕色长裤，站起身，双手在胸前比划，表情：眉毛微蹙，眼神急切，嘴巴微张解释。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面右侧",
+                "action": "弯腰，准备离开",
+                "expression": "侧脸，表情冷淡"
+            }
+        ],
+        "background": "院落白墙，挂有装饰物",
+        "description_narrative": "中景固定镜头，李总弯腰准备离开，此时传来让他坐下的声音。",
+        "dialogue": "坐下。",
+        "speaker": "棕衣男子",
+        "emotion": "冷静",
+        "duration": 0.34,
+        "description_visual": "中景平拍镜头；院落白墙，挂有装饰物；画面右侧人物，身穿灰色条纹西装，黑色衬衫，弯腰，准备离开，表情：侧脸，表情冷淡。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面中央",
+                "action": "转身，手提包，准备走",
+                "expression": "面无表情，眼神向前"
+            }
+        ],
+        "background": "院落白墙，挂有红色装饰",
+        "description_narrative": "中景跟拍镜头，李总转身手提包准备离开，背景音传来让他走的指令。",
+        "dialogue": "让他走。",
+        "speaker": "棕衣男子",
+        "emotion": "冷漠",
+        "duration": 1.38,
+        "description_visual": "中景平拍镜头（跟拍）；院落白墙，挂有红色装饰；画面中央人物，身穿灰色条纹西装，黑色衬衫，转身，手提包，准备走，表情：面无表情，眼神向前。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面左侧",
+                "action": "背对镜头，向左侧走去",
+                "expression": "不可见"
+            }
+        ],
+        "background": "院落全景，桌椅，白墙装饰",
+        "description_narrative": "全景固定镜头，李总背对镜头向左侧走去，离开了谈判桌。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.88,
+        "description_visual": "全景平拍镜头；院落全景，桌椅，白墙装饰；画面左侧人物，身穿灰色条纹西装，黑色衬衫，背对镜头，向左侧走去，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面左侧",
+                "action": "转身回头，手指指向前方",
+                "expression": "眉毛微扬，眼神坚定，嘴巴微张"
+            }
+        ],
+        "background": "院落白墙，挂有装饰",
+        "description_narrative": "中近景固定镜头，李总停下脚步转身回来，指着对方妥协说一块就一块。",
+        "dialogue": "1 块就 1 块。",
+        "speaker": "李总",
+        "emotion": "妥协",
+        "duration": 5.18,
+        "description_visual": "中近景平拍镜头；院落白墙，挂有装饰；画面左侧人物，身穿灰色条纹西装，黑色衬衫，转身回头，手指指向前方，表情：眉毛微扬，眼神坚定，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面左侧",
+                "action": "站立，手指指向前方",
+                "expression": "眼神严肃，嘴巴微张提条件"
+            }
+        ],
+        "background": "院落白墙，挂有装饰",
+        "description_narrative": "中近景固定镜头，李总站着用手指着对方，提出不许卖给第二家的条件。",
+        "dialogue": "不过你得答应，你不许卖给第二家。",
+        "speaker": "李总",
+        "emotion": "严肃",
+        "duration": 4.3,
+        "description_visual": "中近景平拍镜头；院落白墙，挂有装饰；画面左侧人物，身穿灰色条纹西装，黑色衬衫，站立，手指指向前方，表情：眼神严肃，嘴巴微张提条件。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色夹克，黑色裤子",
+                "position": "画面中央",
+                "action": "坐着，双手交握",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬微笑"
+            }
+        ],
+        "background": "院落白墙，红门",
+        "description_narrative": "中景固定镜头，棕衣男子坐着双手交握，微笑着答应成交。",
+        "dialogue": "成交。",
+        "speaker": "棕衣男子",
+        "emotion": "满意",
+        "duration": 2.12,
+        "description_visual": "中景平拍镜头；院落白墙，红门；画面中央人物，身穿棕色夹克，黑色裤子，坐着，双手交握，表情：眉毛舒展，眼睛微眯，嘴角上扬微笑。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李总",
+                "gender": "男",
+                "clothing": "灰色条纹西装，黑色衬衫",
+                "position": "画面左侧",
+                "action": "站立，伸手握手",
+                "expression": "表情平静"
+            },
+            {
+                "name": "棕衣男子",
+                "gender": "男",
+                "clothing": "棕色夹克，黑色裤子",
+                "position": "画面右侧",
+                "action": "站立，伸手握手",
+                "expression": "面带笑容"
+            },
+            {
+                "name": "条纹衫男子",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色长裤",
+                "position": "画面右后景",
+                "action": "站立观看",
+                "expression": "面带笑容"
+            }
+        ],
+        "background": "院落全景，桌椅，白墙",
+        "description_narrative": "全景固定镜头，李总和棕衣男子站起来握手达成交易，条纹衫男子在一旁微笑观看。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.0,
+        "description_visual": "全景平拍镜头；院落全景，桌椅，白墙；画面左侧人物，身穿灰色条纹西装，黑色衬衫，站立，伸手握手，表情：表情平静；画面右侧人物，身穿棕色夹克，黑色裤子，站立，伸手握手，表情：面带笑容；画面右后景人物，身穿蓝白条纹 T 恤，棕色长裤，站立观看，表情：面带笑容。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙，蓝色袖套",
+                "position": "画面中央",
+                "action": "低头，正在清洗物品",
+                "expression": "眉毛低垂，眼神向下，表情低落"
+            }
+        ],
+        "background": "室内/半室外，白砖墙，架子",
+        "description_narrative": "中近景固定镜头，黄裙女子身穿黄色连衣裙，戴着蓝色袖套，低头在清洗物品，神情落寞。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "低落",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；室内/半室外，白砖墙，架子；画面中央人物，身穿黄色碎花连衣裙，蓝色袖套，低头，正在清洗物品，表情：眉毛低垂，眼神向下，表情低落。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙，蓝色袖套",
+                "position": "画面右侧",
+                "action": "站在水槽边清洗",
+                "expression": "低头专注"
+            }
+        ],
+        "background": "白砖墙院落，有盆栽和水槽",
+        "description_narrative": "全景固定镜头，黄裙女子站在院落的水槽边清洗物品，周围有盆栽点缀。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.4,
+        "description_visual": "全景平拍镜头；白砖墙院落，有盆栽和水槽；画面右侧人物，身穿黄色碎花连衣裙，蓝色袖套，站在水槽边清洗，表情：低头专注。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色 T 恤，黑色裤子",
+                "position": "画面中央",
+                "action": "手持蒲扇，低头看着下方",
+                "expression": "眉毛紧锁，眼神愤怒，嘴巴微张抱怨"
+            }
+        ],
+        "background": "室内/半室外，背景模糊",
+        "description_narrative": "中近景固定镜头，白衣男子手持蒲扇，神情愤怒地抱怨因为对方让自己成了笑话。",
+        "dialogue": "都是因为你，我都成了十里八村的笑话，真丢人。",
+        "speaker": "白衣男子",
+        "emotion": "愤怒",
+        "duration": 5.78,
+        "description_visual": "中近景平拍镜头；室内/半室外，背景模糊；画面中央人物，身穿白色 T 恤，黑色裤子，手持蒲扇，低头看着下方，表情：眉毛紧锁，眼神愤怒，嘴巴微张抱怨。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙，蓝色袖套",
+                "position": "画面中央",
+                "action": "低头清洗，头发遮住脸",
+                "expression": "表情隐忍，眼神向下"
+            }
+        ],
+        "background": "白砖墙，架子",
+        "description_narrative": "中近景固定镜头，黄裙女子低头继续清洗，头发垂下遮住部分脸庞，默默承受指责。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "隐忍",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；白砖墙，架子；画面中央人物，身穿黄色碎花连衣裙，蓝色袖套，低头清洗，头发遮住脸，表情：表情隐忍，眼神向下。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙，蓝色袖套",
+                "position": "画面中央",
+                "action": "双手在清洗",
+                "expression": "低头，表情平静"
+            }
+        ],
+        "background": "白砖墙，架子",
+        "description_narrative": "中近景固定镜头，黄裙女子继续低头清洗物品，动作机械。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.58,
+        "description_visual": "中近景平拍镜头；白砖墙，架子；画面中央人物，身穿黄色碎花连衣裙，蓝色袖套，双手在清洗，表情：低头，表情平静。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色 T 恤，黑色裤子",
+                "position": "画面中央",
+                "action": "手持蒲扇和锄头柄",
+                "expression": "眉头紧皱，眼神看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "室内/半室外，背景有柜子",
+        "description_narrative": "中景固定镜头，白衣男子手持蒲扇和农具，命令女子别洗了，跟他去挖小龙虾。",
+        "dialogue": "哎，别洗了，跟我一块下地去，去挖小龙虾。",
+        "speaker": "白衣男子",
+        "emotion": "命令",
+        "duration": 5.12,
+        "description_visual": "中景平拍镜头；室内/半室外，背景有柜子；画面中央人物，身穿白色 T 恤，黑色裤子，手持蒲扇和锄头柄，表情：眉头紧皱，眼神看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙，蓝色袖套",
+                "position": "画面中央",
+                "action": "低头，正在清洗",
+                "expression": "表情低落"
+            }
+        ],
+        "background": "白砖墙，架子",
+        "description_narrative": "中近景固定镜头，画面聚焦在黄裙女子身上，背景音传来白衣男子抱怨最近来了个大傻子。",
+        "dialogue": "最近啊，不知道哪来的个大傻子。",
+        "speaker": "白衣男子",
+        "emotion": "不解",
+        "duration": 1.94,
+        "description_visual": "中近景平拍镜头；白砖墙，架子；画面中央人物，身穿黄色碎花连衣裙，蓝色袖套，低头，正在清洗，表情：表情低落。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色 T 恤，黑色裤子",
+                "position": "画面中央",
+                "action": "手持蒲扇和农具，说话",
+                "expression": "表情不屑，嘴巴微张"
+            }
+        ],
+        "background": "室内/半室外，背景有柜子",
+        "description_narrative": "中景固定镜头，白衣男子继续抱怨那个傻子五分钱一斤收没人要的东西，催促女子快走。",
+        "dialogue": "5 分钱 1 斤，收这没人要的东西，走呀。",
+        "speaker": "白衣男子",
+        "emotion": "嫌弃",
+        "duration": 6.26,
+        "description_visual": "中景平拍镜头；室内/半室外，背景有柜子；画面中央人物，身穿白色 T 恤，黑色裤子，手持蒲扇和农具，说话，表情：表情不屑，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色 T 恤，黑色裤子",
+                "position": "画面中央",
+                "action": "手持蒲扇和篮子",
+                "expression": "侧脸，表情严肃"
+            }
+        ],
+        "background": "室内/半室外，光线明亮",
+        "description_narrative": "中景固定镜头，白衣男子手持篮子和蒲扇，准备出发。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；室内/半室外，光线明亮；画面中央人物，身穿白色 T 恤，黑色裤子，手持蒲扇和篮子，表情：侧脸，表情严肃。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色 T 恤，黑色裤子",
+                "position": "画面中央",
+                "action": "侧身站立",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "室内/半室外",
+        "description_narrative": "中景固定镜头，白衣男子侧身站立，似乎在等待女子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "中景平拍镜头；室内/半室外；画面中央人物，身穿白色 T 恤，黑色裤子，侧身站立，表情：表情严肃。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黄裙女子",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙，蓝色袖套",
+                "position": "画面中央",
+                "action": "站立，身体模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "院落，植物",
+        "description_narrative": "中景固定镜头，画面焦点在前景植物，黄裙女子在背景中模糊站立。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "中景平拍镜头；院落，植物；画面中央人物，身穿黄色碎花连衣裙，蓝色袖套，站立，身体模糊，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色/模糊背景",
+        "description_narrative": "特写固定镜头，画面逐渐变白或模糊，转场结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.58,
+        "description_visual": "特写平拍镜头；白色/模糊背景。"
+    }
+]

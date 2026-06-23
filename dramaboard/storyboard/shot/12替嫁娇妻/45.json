@@ -1,0 +1,770 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "金色纹样长袍",
+                "position": "画面左侧",
+                "action": "从后方环抱王妃",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴紧闭"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面右侧",
+                "action": "被王爷环抱，身体微侧",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "深色雕花屏风背景，金色装饰，光线柔和",
+        "description_narrative": "全景固定镜头，王爷身穿金色纹样长袍从后方环抱身穿浅青色刺绣古装的王妃，背景为深色雕花屏风，两人姿态亲密但神情各异。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；深色雕花屏风背景，金色装饰，光线柔和；画面左侧人物，身穿金色纹样长袍，从后方环抱王妃，表情：眉毛舒展，眼睛微闭，嘴巴紧闭；画面右侧人物，身穿浅青色刺绣古装，被王爷环抱，身体微侧，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面中央",
+                "action": "头部微转，眼神锐利",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景，光线集中在人物面部",
+        "description_narrative": "特写固定镜头，王妃身穿浅青色刺绣古装，在黑暗背景中面部被照亮，她眼神锐利直视前方，眉头微蹙，嘴唇微张正在质问。",
+        "dialogue": "在王府的奸细，就是你吧？",
+        "speaker": "王妃",
+        "emotion": "警惕",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；黑暗背景，光线集中在人物面部；画面中央人物，身穿浅青色刺绣古装，头部微转，眼神锐利，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "头部微低，眼神斜视",
+                "expression": "眉毛舒展，眼睛半眯，嘴角上扬"
+            }
+        ],
+        "background": "黑暗背景，光线侧打",
+        "description_narrative": "特写固定镜头，奸细身穿深红色交领长袍，面部有胡须，在侧光下嘴角上扬露出轻蔑笑容，眼神斜视。",
+        "dialogue": "哈哈哈哈。",
+        "speaker": "奸细",
+        "emotion": "狂妄",
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；黑暗背景，光线侧打；画面中央人物，身穿深红色交领长袍，头部微低，眼神斜视，表情：眉毛舒展，眼睛半眯，嘴角上扬。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面中央",
+                "action": "身体微侧，嘴角带笑",
+                "expression": "眉毛舒展，眼睛微弯，嘴巴张开露齿笑"
+            }
+        ],
+        "background": "夜间户外，有岩石和植被",
+        "description_narrative": "中近景固定镜头，王妃身穿浅青色刺绣古装站在夜间户外，背景有岩石，她嘴角带笑，眼神中带着嘲讽。",
+        "dialogue": "哈哈哈哈哈哈。",
+        "speaker": "王妃",
+        "emotion": "嘲讽",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；夜间户外，有岩石和植被；画面中央人物，身穿浅青色刺绣古装，身体微侧，嘴角带笑，表情：眉毛舒展，眼睛微弯，嘴巴张开露齿笑。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "头部微仰，大笑",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，奸细身穿深红色交领长袍，头部微仰，嘴巴大张正在狂笑，表情夸张。",
+        "dialogue": "哈哈哈哈哈哈。",
+        "speaker": "奸细",
+        "emotion": "狂妄",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿深红色交领长袍，头部微仰，大笑，表情：眉毛上扬，眼睛眯起，嘴巴大张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "面部表情收敛",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，奸细身穿深红色交领长袍，笑声渐停，表情转为严肃，眼神直视前方。",
+        "dialogue": "哈哈哈哈哈哈。",
+        "speaker": "奸细",
+        "emotion": "得意",
+        "duration": 7.96,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿深红色交领长袍，面部表情收敛，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面中央",
+                "action": "眼神凝重",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，王妃身穿浅青色刺绣古装，面部表情凝重，眼神直视前方，正在倾听对方的 confession。",
+        "dialogue": "明王府，我已经隐藏多年，没想到，被你给发现了。",
+        "speaker": "奸细",
+        "emotion": "震惊",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿浅青色刺绣古装，眼神凝重，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "转身挥动手臂",
+                "expression": "面部模糊，动作幅度大"
+            }
+        ],
+        "background": "夜间户外，植被茂密",
+        "description_narrative": "中景跟拍镜头，奸细身穿深红色交领长袍在夜间户外转身，手臂挥动，动作迅速。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头（跟拍）；夜间户外，植被茂密；画面中央人物，身穿深红色交领长袍，转身挥动手臂，表情：面部模糊，动作幅度大。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "抬头看",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，奸细身穿深红色交领长袍，抬头向上看，脸上带着得意的神情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.56,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿深红色交领长袍，抬头看，表情：眉毛舒展，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面中央",
+                "action": "身体微侧，眼神警惕",
+                "expression": "眉毛微，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "夜间户外，岩石背景",
+        "description_narrative": "中近景固定镜头，王妃身穿浅青色刺绣古装，在夜间户外背景前，眼神警惕地看着前方，似乎在应对威胁。",
+        "dialogue": "既然你们已经发现了，今天谁都别想跑。",
+        "speaker": "奸细",
+        "emotion": "威胁",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；夜间户外，岩石背景；画面中央人物，身穿浅青色刺绣古装，身体微侧，眼神警惕，表情：眉毛微，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面中央",
+                "action": "手摸向腰间",
+                "expression": "不可见"
+            }
+        ],
+        "background": "衣服细节，刺绣纹样",
+        "description_narrative": "特写俯拍镜头，聚焦于王妃的腰部，她的手摸向腰间，似乎在寻找武器，衣服上有精致的银色刺绣。",
+        "dialogue": "你以为我就没有防备吗",
+        "speaker": "王妃",
+        "emotion": "自信",
+        "duration": 1.24,
+        "description_visual": "特写俯拍镜头；衣服细节，刺绣纹样；画面中央人物，身穿浅青色刺绣古装，手摸向腰间，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面中央",
+                "action": "低头看",
+                "expression": "眉毛紧蹙，眼睛下移，嘴巴紧闭"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，王妃身穿浅青色刺绣古装，低头看向自己的腰间，眉头紧蹙，意识到没有武器。",
+        "dialogue": "糟了。",
+        "speaker": "王妃",
+        "emotion": "惊慌",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿浅青色刺绣古装，低头看，表情：眉毛紧蹙，眼睛下移，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，奸细身穿深红色交领长袍，脸上露出狡黠的微笑，似乎看穿了对方的窘境。",
+        "dialogue": "我换衣服了。",
+        "speaker": "王妃",
+        "emotion": "无奈",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿深红色交领长袍，微笑，表情：眉毛舒展，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面左侧",
+                "action": "手持短刀，大笑",
+                "expression": "嘴巴大张，眼睛眯起"
+            }
+        ],
+        "background": "夜间户外，植被背景",
+        "description_narrative": "中景侧拍镜头，奸细身穿深红色交领长袍，手持短刀，头部后仰大笑，背景是夜间的植被。",
+        "dialogue": "哈哈哈哈哈哈。",
+        "speaker": "奸细",
+        "emotion": "狂喜",
+        "duration": 1.2,
+        "description_visual": "中景侧拍镜头；夜间户外，植被背景；画面左侧人物，身穿深红色交领长袍，手持短刀，大笑，表情：嘴巴大张，眼睛眯起。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "大笑",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，奸细身穿深红色交领长袍，面部表情夸张，正在狂笑，显得非常得意。",
+        "dialogue": "连这老天，都不帮你们。",
+        "speaker": "奸细",
+        "emotion": "嚣张",
+        "duration": 3.2,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿深红色交领长袍，大笑，表情：眉毛上扬，眼睛眯起，嘴巴大张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面中央",
+                "action": "手持短刀（被夺？或对方持刀）",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "夜间户外，岩石背景",
+        "description_narrative": "中近景固定镜头，王妃身穿浅青色刺绣古装，面前有一把短刀（奸细所持），她神情紧张地看着前方。",
+        "dialogue": "小姐，你先跑。",
+        "speaker": "侍女",
+        "emotion": "焦急",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；夜间户外，岩石背景；画面中央人物，身穿浅青色刺绣古装，手持短刀（被夺？或对方持刀），表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "粉白相间古装",
+                "position": "画面中央",
+                "action": "转头呼喊",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景，有绿色植物",
+        "description_narrative": "特写侧拍镜头，侍女身穿粉白相间古装，头发凌乱，转头焦急地呼喊，脸上带着恐惧和决绝。",
+        "dialogue": "我拦住他",
+        "speaker": "侍女",
+        "emotion": "忠诚",
+        "duration": 0.88,
+        "description_visual": "特写侧拍镜头；黑暗背景，有绿色植物；画面中央人物，身穿粉白相间古装，转头呼喊，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，奸细身穿深红色交领长袍，脸上带着轻蔑的笑容，正在说话。",
+        "dialogue": "你们谁也跑不掉。",
+        "speaker": "奸细",
+        "emotion": "威胁",
+        "duration": 2.72,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿深红色交领长袍，说话，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面中央",
+                "action": "伸手阻挡",
+                "expression": "眉毛紧蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "中近景固定镜头，王妃身穿浅青色刺绣古装，伸手做出阻挡或保护的姿势，神情严肃。",
+        "dialogue": "我先。",
+        "speaker": "侍女",
+        "emotion": "决绝",
+        "duration": 0.64,
+        "description_visual": "中近景平拍镜头；黑暗背景；画面中央人物，身穿浅青色刺绣古装，伸手阻挡，表情：眉毛紧蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "粉白相间古装",
+                "position": "画面中央",
+                "action": "冲向前",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景，有绿色植物",
+        "description_narrative": "特写侧拍镜头，侍女身穿粉白相间古装，表情惊恐但坚定，似乎准备冲向前去。",
+        "dialogue": "杀了你。",
+        "speaker": "奸细",
+        "emotion": "凶狠",
+        "duration": 1.28,
+        "description_visual": "特写侧拍镜头；黑暗背景，有绿色植物；画面中央人物，身穿粉白相间古装，冲向前，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "眼神凶狠",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，奸细身穿深红色交领长袍，眼神凶狠，嘴巴微张正在发出威胁。",
+        "dialogue": "然后就是。",
+        "speaker": "奸细",
+        "emotion": "凶狠",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿深红色交领长袍，眼神凶狠，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "快速移动",
+                "expression": "面部模糊"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "大特写摇镜镜头，画面快速移动，奸细的面部模糊，伴随着攻击动作。",
+        "dialogue": "去死吧。",
+        "speaker": "奸细",
+        "emotion": "疯狂",
+        "duration": 0.68,
+        "description_visual": "大特写平拍镜头（摇镜）；模糊背景；画面中央人物，身穿深红色交领长袍，快速移动，表情：面部模糊。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "快速移动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的暗色背景",
+        "description_narrative": "特写跟拍镜头，画面极度模糊，显示快速的动作和红色的光影，暗示激烈的打斗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.12,
+        "description_visual": "特写平拍镜头（跟拍）；模糊的暗色背景；画面中央人物，身穿未知，快速移动，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊光影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色模糊背景",
+        "description_narrative": "特写固定镜头，画面主要是红色的模糊光影，暗示血液或快速移动的衣物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；红色模糊背景；画面中央人物，身穿未知，模糊光影，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊光影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "暗绿色模糊背景",
+        "description_narrative": "特写固定镜头，画面主要是暗绿色的模糊光影，环境昏暗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头；暗绿色模糊背景；画面中央人物，身穿未知，模糊光影，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "红色纹理",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色纹理背景",
+        "description_narrative": "特写固定镜头，画面显示红色的纹理，可能是衣物或地面的细节，光线昏暗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；红色纹理背景；画面中央人物，身穿未知，红色纹理，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面左侧",
+                "action": "站立，被保护",
+                "expression": "眉毛微蹙，眼睛看王爷"
+            },
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "金色纹样长袍",
+                "position": "画面中央",
+                "action": "站立，保护王妃",
+                "expression": "眉毛紧蹙，眼睛看前方"
+            },
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "粉白相间古装",
+                "position": "画面右侧",
+                "action": "站立，惊讶",
+                "expression": "嘴巴微张，眼睛看前方"
+            }
+        ],
+        "background": "夜间户外，岩石和植被",
+        "description_narrative": "全景固定镜头，王爷身穿金色纹样长袍站在中间保护左侧的王妃，右侧侍女身穿粉白古装，三人站在夜间户外的岩石旁。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "全景平拍镜头；夜间户外，岩石和植被；画面左侧人物，身穿浅青色刺绣古装，站立，被保护，表情：眉毛微蹙，眼睛看王爷；画面中央人物，身穿金色纹样长袍，站立，保护王妃，表情：眉毛紧蹙，眼睛看前方；画面右侧人物，身穿粉白相间古装，站立，惊讶，表情：嘴巴微张，眼睛看前方。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅青色刺绣古装",
+                "position": "画面左侧",
+                "action": "被王爷抓住手臂",
+                "expression": "眉毛微蹙，眼睛看王爷，嘴巴微张"
+            },
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "金色纹样长袍",
+                "position": "画面右侧",
+                "action": "抓住王妃手臂",
+                "expression": "侧脸，眉毛紧蹙"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "中近景过肩镜头，王爷身穿金色纹样长袍抓住王妃的手臂，王妃身穿浅青色古装，两人对视，神情紧张。",
+        "dialogue": "王爷。",
+        "speaker": "王妃",
+        "emotion": "惊讶",
+        "duration": 1.68,
+        "description_visual": "中近景过肩镜头；黑暗背景；画面左侧人物，身穿浅青色刺绣古装，被王爷抓住手臂，表情：眉毛微蹙，眼睛看王爷，嘴巴微张；画面右侧人物，身穿金色纹样长袍，抓住王妃手臂，表情：侧脸，眉毛紧蹙。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "金色纹样长袍",
+                "position": "画面中央",
+                "action": "转头看",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写侧拍镜头，王爷身穿金色纹样长袍，头戴发冠，转头看向某处，眼神中带着震惊和愤怒。",
+        "dialogue": "原来我府里的奸细，竟然是你。",
+        "speaker": "王爷",
+        "emotion": "震惊",
+        "duration": 2.84,
+        "description_visual": "特写侧拍镜头；黑暗背景；画面中央人物，身穿金色纹样长袍，转头看，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深红色劲装",
+                "position": "画面中央",
+                "action": "眼神震惊",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写固定镜头，侍卫身穿深红色劲装，面部无胡须，眼神震惊地看着前方，似乎被识破身份。",
+        "dialogue": "敢动王妃，去死吧。",
+        "speaker": "王爷",
+        "emotion": "愤怒",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头；黑暗背景；画面中央人物，身穿深红色劲装，眼神震惊，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "大特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "颈部受伤/被制",
+                "expression": "下巴微抬，嘴巴紧闭"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "大特写仰拍镜头，聚焦于奸细的颈部和下巴，他身穿深红色交领长袍，颈部似乎有伤痕或被压制，表情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.36,
+        "description_visual": "大特写仰拍镜头；黑暗背景；画面中央人物，身穿深红色交领长袍，颈部受伤/被制，表情：下巴微抬，嘴巴紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奸细",
+                "gender": "男",
+                "clothing": "深红色交领长袍",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛下垂，眼睛下移，嘴巴紧闭"
+            }
+        ],
+        "background": "黑暗背景",
+        "description_narrative": "特写俯拍镜头，奸细身穿深红色交领长袍，低着头，脸上带着汗水，神情颓败。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.68,
+        "description_visual": "特写俯拍镜头；黑暗背景；画面中央人物，身穿深红色交领长袍，低头，表情：眉毛下垂，眼睛下移，嘴巴紧闭。"
+    }
+]

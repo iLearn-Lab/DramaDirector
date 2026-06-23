@@ -1,0 +1,818 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央",
+                "action": "站立，看手表",
+                "expression": "眉毛舒展，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女孩",
+                "gender": "女",
+                "clothing": "白色泡泡袖上衣",
+                "position": "背景上方",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "红色吊带裙",
+                "position": "背景右侧",
+                "action": "站立，微笑",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬"
+            }
+        ],
+        "background": "海报背景，色彩斑斓，带有金币和城市剪影元素",
+        "description_narrative": "全景镜头，画面展示电影海报，外卖小哥身穿黄色制服看手表，周围环绕着其他角色，背景有金币飞舞特效，标题“原来是首富”醒目。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.73,
+        "description_visual": "全景平拍镜头；海报背景，色彩斑斓，带有金币和城市剪影元素；中央人物，身穿黄色外卖制服，站立，看手表，表情：眉毛舒展，眼睛直视，嘴巴紧闭；背景上方人物，身穿白色泡泡袖上衣，站立，表情：眉毛微蹙，眼睛直视，嘴巴微张；背景右侧人物，身穿红色吊带裙，站立，微笑，表情：眉毛舒展，眼睛注视，嘴角上扬。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女孩",
+                "gender": "女",
+                "clothing": "白色泡泡袖上衣，珍珠链条包",
+                "position": "中央",
+                "action": "抬头向上看，身体微侧",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景模糊，有白色婚纱模特",
+        "description_narrative": "近景镜头，白衣女孩抬头向上看，神情担忧，似乎在思考资金问题。",
+        "dialogue": "哪里有那么多钱啊",
+        "speaker": "白衣女孩",
+        "emotion": "担忧",
+        "duration": 1.1,
+        "description_visual": "近景平拍镜头；服装店内，背景模糊，有白色婚纱模特；中央人物，身穿白色泡泡袖上衣，珍珠链条包，抬头向上看，身体微侧，表情：眉毛微蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央",
+                "action": "侧身站立，看向右侧",
+                "expression": "眉毛微蹙，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，灯光较亮，背景有衣架",
+        "description_narrative": "中近景镜头，外卖小哥身穿黄色制服，侧身站立，面露难色，回应关于钱的问题。",
+        "dialogue": "哪里有那么多钱啊",
+        "speaker": "外卖小哥",
+        "emotion": "无奈",
+        "duration": 1.27,
+        "description_visual": "中近景平拍镜头；服装店内，灯光较亮，背景有衣架；中央人物，身穿黄色外卖制服，侧身站立，看向右侧，表情：眉毛微蹙，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女孩",
+                "gender": "女",
+                "clothing": "白色泡泡袖上衣",
+                "position": "中央",
+                "action": "抬头，眼神游移",
+                "expression": "眉毛皱起，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景模糊",
+        "description_narrative": "近景镜头，白衣女孩眉头紧锁，建议放弃购买，表情纠结。",
+        "dialogue": "要不还是算了吧",
+        "speaker": "白衣女孩",
+        "emotion": "犹豫",
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；服装店内，背景模糊；中央人物，身穿白色泡泡袖上衣，抬头，眼神游移，表情：眉毛皱起，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央",
+                "action": "低头，随后抬头",
+                "expression": "眉毛舒展，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，灯光较亮",
+        "description_narrative": "中近景镜头，外卖小哥低头安慰女孩，表示没事，神情转为坚定。",
+        "dialogue": "没事",
+        "speaker": "外卖小哥",
+        "emotion": "安抚",
+        "duration": 1.77,
+        "description_visual": "中近景平拍镜头；服装店内，灯光较亮；中央人物，身穿黄色外卖制服，低头，随后抬头，表情：眉毛舒展，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女孩",
+                "gender": "女",
+                "clothing": "白色泡泡袖上衣",
+                "position": "中央",
+                "action": "抬头看",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景模糊",
+        "description_narrative": "近景镜头，白衣女孩似乎想到了什么，抬头看向外卖小哥。",
+        "dialogue": "对了",
+        "speaker": "白衣女孩",
+        "emotion": "想起",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；服装店内，背景模糊；中央人物，身穿白色泡泡袖上衣，抬头看，表情：眉毛微挑，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "黑色西装外套，白衬衫",
+                "position": "左侧",
+                "action": "双手交叠在身前，看向外卖小哥",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "右侧",
+                "action": "侧身站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有衣架和灯光",
+        "description_narrative": "中景镜头，店员身穿黑色西装，询问有什么办法解决，外卖小哥在旁倾听。",
+        "dialogue": "我问一下有什么办法",
+        "speaker": "店员",
+        "emotion": "礼貌",
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；服装店内，背景有衣架和灯光；左侧人物，身穿黑色西装外套，白衬衫，双手交叠在身前，看向外卖小哥，表情：眉毛舒展，眼睛注视，嘴巴微张；右侧人物，身穿黄色外卖制服，侧身站立，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "中央",
+                "action": "双臂交叉，微笑",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬"
+            }
+        ],
+        "background": "服装店内，背景有白色婚纱模特",
+        "description_narrative": "近景镜头，富婆身穿蓝色丝绒上衣，双臂交叉，带着玩味的笑容听着对话。",
+        "dialogue": "我问一下有什么办法",
+        "speaker": "店员",
+        "emotion": "嘲讽",
+        "duration": 1.63,
+        "description_visual": "近景平拍镜头；服装店内，背景有白色婚纱模特；中央人物，身穿深蓝色丝绒上衣，亮片裙，双臂交叉，微笑，表情：眉毛舒展，眼睛注视，嘴角上扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "黑色西装外套，白衬衫",
+                "position": "左侧",
+                "action": "双手交叠，说话",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "右侧",
+                "action": "侧身站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有衣架",
+        "description_narrative": "中景镜头，店员表示办法倒是有，但语气有所保留，外卖小哥认真倾听。",
+        "dialogue": "办法倒是有",
+        "speaker": "店员",
+        "emotion": "保留",
+        "duration": 3.3,
+        "description_visual": "中景平拍镜头；服装店内，背景有衣架；左侧人物，身穿黑色西装外套，白衬衫，双手交叠，说话，表情：眉毛微蹙，眼睛注视，嘴巴微张；右侧人物，身穿黄色外卖制服，侧身站立，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "左侧",
+                "action": "双臂交叉，微笑",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬"
+            },
+            {
+                "name": "经理",
+                "gender": "女",
+                "clothing": "黑色西装，蓝条纹衬衫，丝巾",
+                "position": "右侧",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，地面灰色，背景有婚纱",
+        "description_narrative": "全景镜头，富婆和经理站在一起，富婆让店员尽管说，经理表情严肃。",
+        "dialogue": "没事你说",
+        "speaker": "富婆",
+        "emotion": "傲慢",
+        "duration": 2.23,
+        "description_visual": "全景平拍镜头；服装店内，地面灰色，背景有婚纱；左侧人物，身穿深蓝色丝绒上衣，亮片裙，双臂交叉，微笑，表情：眉毛舒展，眼睛注视，嘴角上扬；右侧人物，身穿黑色西装，蓝条纹衬衫，丝巾，站立，双手自然下垂，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "黑色西装外套，白衬衫",
+                "position": "左侧",
+                "action": "双手交叠，说话",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "右侧",
+                "action": "侧身站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有衣架",
+        "description_narrative": "中景镜头，店员提到如果有他们家的至尊黑卡就好办了，外卖小哥眼神微动。",
+        "dialogue": "如果有我们家的",
+        "speaker": "店员",
+        "emotion": "解释",
+        "duration": 3.0,
+        "description_visual": "中景平拍镜头；服装店内，背景有衣架；左侧人物，身穿黑色西装外套，白衬衫，双手交叠，说话，表情：眉毛舒展，眼睛注视，嘴巴微张；右侧人物，身穿黄色外卖制服，侧身站立，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央",
+                "action": "眼神微动，思考",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景模糊",
+        "description_narrative": "近景镜头，外卖小哥听到“黑卡”二字，眼神中闪过一丝回忆，似乎想到了什么。",
+        "dialogue": "我们家的黑卡",
+        "speaker": "店员",
+        "emotion": "思考",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；服装店内，背景模糊；中央人物，身穿黄色外卖制服，眼神微动，思考，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "黑色西装外套，白衬衫",
+                "position": "左侧",
+                "action": "双手交叠，说话",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "右侧",
+                "action": "侧身站立",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有衣架",
+        "description_narrative": "中景镜头，店员解释黑卡可以直接购买不用配货，外卖小哥若有所思。",
+        "dialogue": "不用配货",
+        "speaker": "店员",
+        "emotion": "解释",
+        "duration": 2.67,
+        "description_visual": "中景平拍镜头；服装店内，背景有衣架；左侧人物，身穿黑色西装外套，白衬衫，双手交叠，说话，表情：眉毛舒展，眼睛注视，嘴巴微张；右侧人物，身穿黄色外卖制服，侧身站立，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央",
+                "action": "低头思考",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景模糊",
+        "description_narrative": "近景镜头，外卖小哥低头心想舅舅给的就是至尊黑卡，神情专注。",
+        "dialogue": "还没有见过谁用黑卡呢",
+        "speaker": "店员",
+        "emotion": "思考",
+        "duration": 4.37,
+        "description_visual": "近景平拍镜头；服装店内，背景模糊；中央人物，身穿黄色外卖制服，低头思考，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "女",
+                "clothing": "黑色西装，蓝条纹衬衫，丝巾",
+                "position": "中央",
+                "action": "双臂交叉，说话",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有窗户",
+        "description_narrative": "近景镜头，经理双臂交叉，嘲讽外卖小哥别逞能，表情不屑。",
+        "dialogue": "哎呦别逞能嘛",
+        "speaker": "经理",
+        "emotion": "嘲讽",
+        "duration": 1.43,
+        "description_visual": "近景平拍镜头；服装店内，背景有窗户；中央人物，身穿黑色西装，蓝条纹衬衫，丝巾，双臂交叉，说话，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央",
+                "action": "直视前方",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景模糊",
+        "description_narrative": "近景镜头，外卖小哥面无表情地听着经理的嘲讽，内心平静。",
+        "dialogue": "我劝你没本事",
+        "speaker": "经理",
+        "emotion": "平静",
+        "duration": 1.43,
+        "description_visual": "近景平拍镜头；服装店内，背景模糊；中央人物，身穿黄色外卖制服，直视前方，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "女",
+                "clothing": "黑色西装，蓝条纹衬衫，丝巾",
+                "position": "中央",
+                "action": "双臂交叉，说话",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有窗户",
+        "description_narrative": "近景镜头，经理继续嘲讽，让外卖小哥别打肿脸充胖子，表情轻蔑。",
+        "dialogue": "就别在这打肿脸充胖子",
+        "speaker": "经理",
+        "emotion": "轻蔑",
+        "duration": 1.53,
+        "description_visual": "近景平拍镜头；服装店内，背景有窗户；中央人物，身穿黑色西装，蓝条纹衬衫，丝巾，双臂交叉，说话，表情：眉毛微蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "中央",
+                "action": "双臂交叉，说话",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有白色模特",
+        "description_narrative": "近景镜头，富婆也加入嘲讽，说别在这打肿脸充胖子，表情傲慢。",
+        "dialogue": "就别在这打肿脸充胖子",
+        "speaker": "富婆",
+        "emotion": "傲慢",
+        "duration": 2.13,
+        "description_visual": "近景平拍镜头；服装店内，背景有白色模特；中央人物，身穿深蓝色丝绒上衣，亮片裙，双臂交叉，说话，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央",
+                "action": "侧身站立，看向左侧",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有衣架",
+        "description_narrative": "中近景镜头，外卖小哥转向富婆，问她有什么本事，神情淡定。",
+        "dialogue": "你有什么本事",
+        "speaker": "外卖小哥",
+        "emotion": "淡定",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头；服装店内，背景有衣架；中央人物，身穿黄色外卖制服，侧身站立，看向左侧，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "中央",
+                "action": "手持金卡，展示",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有白色模特",
+        "description_narrative": "近景镜头，富婆手持金卡 VIP 卡，挑衅地说要从她手中抢走礼服。",
+        "dialogue": "能从我这个金卡 VIP 手中",
+        "speaker": "富婆",
+        "emotion": "挑衅",
+        "duration": 0.73,
+        "description_visual": "近景平拍镜头；服装店内，背景有白色模特；中央人物，身穿深蓝色丝绒上衣，亮片裙，手持金卡，展示，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "中央",
+                "action": "手持金卡，展示",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有白色模特",
+        "description_narrative": "近景镜头，富婆继续挑衅，说要从她手中抢走这件礼服，表情得意。",
+        "dialogue": "抢走这件礼服",
+        "speaker": "富婆",
+        "emotion": "得意",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；服装店内，背景有白色模特；中央人物，身穿深蓝色丝绒上衣，亮片裙，手持金卡，展示，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "女",
+                "clothing": "黑色西装，蓝条纹衬衫，丝巾",
+                "position": "中央",
+                "action": "双臂交叉，说话",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有窗户",
+        "description_narrative": "近景镜头，经理劝富婆别说金卡了，暗示外卖小哥更穷酸。",
+        "dialogue": "王姐别说金卡了",
+        "speaker": "经理",
+        "emotion": "鄙夷",
+        "duration": 1.83,
+        "description_visual": "近景平拍镜头；服装店内，背景有窗户；中央人物，身穿黑色西装，蓝条纹衬衫，丝巾，双臂交叉，说话，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "中央",
+                "action": "手持金卡，低头看",
+                "expression": "眉毛舒展，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有白色模特",
+        "description_narrative": "近景镜头，富婆低头看卡，经理在旁继续贬低外卖小哥。",
+        "dialogue": "王姐别说金卡了",
+        "speaker": "经理",
+        "emotion": "鄙夷",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；服装店内，背景有白色模特；中央人物，身穿深蓝色丝绒上衣，亮片裙，手持金卡，低头看，表情：眉毛舒展，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "女",
+                "clothing": "黑色西装，蓝条纹衬衫，丝巾",
+                "position": "中央",
+                "action": "双臂交叉，说话",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有窗户",
+        "description_narrative": "近景镜头，经理断言外卖小哥连她们家的铜卡会员都没有。",
+        "dialogue": "我看他连我们家",
+        "speaker": "经理",
+        "emotion": "断言",
+        "duration": 1.83,
+        "description_visual": "近景平拍镜头；服装店内，背景有窗户；中央人物，身穿黑色西装，蓝条纹衬衫，丝巾，双臂交叉，说话，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女孩",
+                "gender": "女",
+                "clothing": "白色泡泡袖上衣",
+                "position": "中央",
+                "action": "抬头看",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景模糊",
+        "description_narrative": "近景镜头，白衣女孩听到经理的话，表情担忧，经理继续说他没有铜卡。",
+        "dialogue": "铜卡会员都没有",
+        "speaker": "经理",
+        "emotion": "担忧",
+        "duration": 2.13,
+        "description_visual": "近景平拍镜头；服装店内，背景模糊；中央人物，身穿白色泡泡袖上衣，抬头看，表情：眉毛微蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央",
+                "action": "手插口袋",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有婚纱",
+        "description_narrative": "中近景镜头，外卖小哥手插口袋，经理嘲讽他还想买限定版礼服。",
+        "dialogue": "还想买我们限定版礼服",
+        "speaker": "经理",
+        "emotion": "嘲讽",
+        "duration": 1.9,
+        "description_visual": "中近景平拍镜头；服装店内，背景有婚纱；中央人物，身穿黄色外卖制服，手插口袋，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色外卖制服",
+                "position": "中央",
+                "action": "抬头，眼神坚定",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景模糊",
+        "description_narrative": "近景镜头，外卖小哥抬头，淡定地掏出至尊黑卡，全场震惊。",
+        "dialogue": "至尊黑卡",
+        "speaker": "外卖小哥",
+        "emotion": "自信",
+        "duration": 1.1,
+        "description_visual": "近景平拍镜头；服装店内，背景模糊；中央人物，身穿黄色外卖制服，抬头，眼神坚定，表情：眉毛舒展，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "中央",
+                "action": "双臂交叉，表情凝固",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有白色模特",
+        "description_narrative": "近景镜头，富婆看到黑卡，表情瞬间凝固，难以置信。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 0.7,
+        "description_visual": "近景平拍镜头；服装店内，背景有白色模特；中央人物，身穿深蓝色丝绒上衣，亮片裙，双臂交叉，表情凝固，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "女",
+                "clothing": "黑色西装，蓝条纹衬衫，丝巾",
+                "position": "中央",
+                "action": "双臂交叉，表情震惊",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，背景有窗户",
+        "description_narrative": "近景镜头，经理看到黑卡，表情震惊，嘴巴微张，说不出话。",
+        "dialogue": "至尊黑卡",
+        "speaker": "经理",
+        "emotion": "震惊",
+        "duration": 0.9,
+        "description_visual": "近景平拍镜头；服装店内，背景有窗户；中央人物，身穿黑色西装，蓝条纹衬衫，丝巾，双臂交叉，表情震惊，表情：眉毛皱起，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "左侧",
+                "action": "双臂交叉，表情震惊",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "经理",
+                "gender": "女",
+                "clothing": "黑色西装，蓝条纹衬衫，丝巾",
+                "position": "右侧",
+                "action": "站立，表情震惊",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，地面灰色，背景有婚纱",
+        "description_narrative": "全景镜头，富婆和经理都震惊地看着外卖小哥，画面逐渐变白。",
+        "dialogue": "至尊黑卡",
+        "speaker": "经理",
+        "emotion": "震惊",
+        "duration": 0.63,
+        "description_visual": "全景平拍镜头；服装店内，地面灰色，背景有婚纱；左侧人物，身穿深蓝色丝绒上衣，亮片裙，双臂交叉，表情震惊，表情：眉毛皱起，眼睛睁大，嘴巴微张；右侧人物，身穿黑色西装，蓝条纹衬衫，丝巾，站立，表情震惊，表情：眉毛皱起，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "左侧",
+                "action": "双臂交叉，表情震惊",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "经理",
+                "gender": "女",
+                "clothing": "黑色西装，蓝条纹衬衫，丝巾",
+                "position": "右侧",
+                "action": "站立，表情震惊",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，画面泛白，背景模糊",
+        "description_narrative": "全景镜头，画面泛白，富婆和经理的震惊表情定格，字幕“至尊黑卡”浮现。",
+        "dialogue": "至尊黑卡",
+        "speaker": "未知",
+        "emotion": "震惊",
+        "duration": 0.57,
+        "description_visual": "全景平拍镜头；服装店内，画面泛白，背景模糊；左侧人物，身穿深蓝色丝绒上衣，亮片裙，双臂交叉，表情震惊，表情：眉毛皱起，眼睛睁大，嘴巴微张；右侧人物，身穿黑色西装，蓝条纹衬衫，丝巾，站立，表情震惊，表情：眉毛皱起，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "富婆",
+                "gender": "女",
+                "clothing": "深蓝色丝绒上衣，亮片裙",
+                "position": "左侧",
+                "action": "双臂交叉，表情震惊",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "经理",
+                "gender": "女",
+                "clothing": "黑色西装，蓝条纹衬衫，丝巾",
+                "position": "右侧",
+                "action": "站立，表情震惊",
+                "expression": "眉毛皱起，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "服装店内，黑白画面，背景有婚纱",
+        "description_narrative": "全景镜头，画面转为黑白，富婆和经理震惊的表情特写，剧情在反转高潮处结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.13,
+        "description_visual": "全景平拍镜头；服装店内，黑白画面，背景有婚纱；左侧人物，身穿深蓝色丝绒上衣，亮片裙，双臂交叉，表情震惊，表情：眉毛皱起，眼睛睁大，嘴巴微张；右侧人物，身穿黑色西装，蓝条纹衬衫，丝巾，站立，表情震惊，表情：眉毛皱起，眼睛睁大，嘴巴微张。"
+    }
+]

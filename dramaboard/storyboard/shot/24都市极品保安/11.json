@@ -1,0 +1,909 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "单膝跪地，抬头仰望",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "黄色上衣，白色短裙",
+                "position": "右侧",
+                "action": "站立，手被男子握住",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴紧闭"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "绿色连衣裙",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "虚化的夜景灯光，带有标题文字“都市极品保安”",
+        "description_narrative": "全景镜头，画面中央一名黑衣男子单膝跪地，抬头仰望右侧身穿黄色上衣的女子，周围环绕着其他女性，背景是虚化的城市夜景灯光，下方显示标题“都市极品保安”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.08,
+        "description_visual": "全景平拍镜头；虚化的夜景灯光，带有标题文字“都市极品保安”；中央人物，身穿黑色西装，单膝跪地，抬头仰望，表情：眉毛舒展，眼睛向上看，嘴巴微张；右侧人物，身穿黄色上衣，白色短裙，站立，手被男子握住，表情：眉毛微蹙，眼睛看向前方，嘴巴紧闭；左侧人物，身穿绿色连衣裙，站立，表情：眉毛舒展，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "坐在沙发上，双手拿着一份文件展示",
+                "expression": "眉毛微蹙，眼睛透过眼镜注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室内，背后墙上挂着山水画，光线明亮",
+        "description_narrative": "中景镜头，苏得志坐在米色沙发上，身穿灰色格纹西装，双手举着一份文件面向镜头，表情严肃。",
+        "dialogue": "苏清涵，你的总裁。",
+        "speaker": "苏得志",
+        "emotion": "严肃",
+        "duration": 2.08,
+        "description_visual": "中景平拍镜头；办公室内，背后墙上挂着山水画，光线明亮；中央人物，身穿灰色格纹西装，蓝白条纹领带，坐在沙发上，双手拿着一份文件展示，表情：眉毛微蹙，眼睛透过眼镜注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装袖口",
+                "position": "左侧",
+                "action": "手将一份写着“辞职信”的文件放在红木桌上",
+                "expression": "null"
+            }
+        ],
+        "background": "红木办公桌桌面，文件清晰可见",
+        "description_narrative": "特写镜头，苏得志的手将一份标题为“辞职信”的文件平放在红木桌面上。",
+        "dialogue": "别干了。",
+        "speaker": "苏得志",
+        "emotion": "冷漠",
+        "duration": 1.16,
+        "description_visual": "特写俯拍镜头；红木办公桌桌面，文件清晰可见；左侧人物，身穿灰色格纹西装袖口，手将一份写着“辞职信”的文件放在红木桌上，表情：null。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，薄纱泡泡袖",
+                "position": "中央",
+                "action": "坐在桌前，双手放在桌沿，低头看着文件",
+                "expression": "眉毛紧锁，眼睛下移看文件，嘴巴微张"
+            },
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "前景左侧",
+                "action": "手臂伸出指向文件",
+                "expression": "null"
+            }
+        ],
+        "background": "办公室内，红木桌子，背景有沙发",
+        "description_narrative": "中近景镜头，苏清涵身穿银色亮片裙坐在桌前，低头看着桌上的文件，神情困惑，前景可见苏得志的手臂指向文件。",
+        "dialogue": "大伯，您这是什么意思啊",
+        "speaker": "苏清涵",
+        "emotion": "困惑",
+        "duration": 3.4,
+        "description_visual": "中近景平拍镜头；办公室内，红木桌子，背景有沙发；中央人物，身穿银色亮片连衣裙，薄纱泡泡袖，坐在桌前，双手放在桌沿，低头看着文件，表情：眉毛紧锁，眼睛下移看文件，嘴巴微张；前景左侧人物，身穿灰色格纹西装，手臂伸出指向文件，表情：null。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "靠在沙发背上，身体后仰，一只手搭在扶手上",
+                "expression": "眉毛上扬，眼睛注视对方，嘴巴微张说话"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中景镜头，苏得志靠在沙发背上，身体后仰，表情严厉地质问，一只手搭在沙发扶手上。",
+        "dialogue": "我费尽心机才搭上凌和集团，你竟然敢殴打朱少",
+        "speaker": "苏得志",
+        "emotion": "愤怒",
+        "duration": 5.6,
+        "description_visual": "中景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿灰色格纹西装，蓝白条纹领带，靠在沙发背上，身体后仰，一只手搭在扶手上，表情：眉毛上扬，眼睛注视对方，嘴巴微张说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，长款珍珠耳环",
+                "position": "中央",
+                "action": "身体前倾，双手在胸前比划",
+                "expression": "眉毛紧皱，眼睛睁大，嘴巴张开急切辩解"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "近景镜头，苏清涵身体前倾，表情急切地辩解，双手在胸前做出手势，佩戴的长耳环随之晃动。",
+        "dialogue": "是朱云朝他先图谋不轨",
+        "speaker": "苏清涵",
+        "emotion": "急切",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；办公室内，背景虚化；中央人物，身穿银色亮片连衣裙，长款珍珠耳环，身体前倾，双手在胸前比划，表情：眉毛紧皱，眼睛睁大，嘴巴张开急切辩解。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，薄纱泡泡袖",
+                "position": "中央",
+                "action": "双手在桌面上方挥动，身体略微晃动",
+                "expression": "眉毛紧锁，眼睛看向侧方，嘴巴张开继续解释"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "近景镜头，苏清涵继续解释，双手在桌面上方挥动，表情委屈且焦急。",
+        "dialogue": "先图谋不轨，所以我才",
+        "speaker": "苏清涵",
+        "emotion": "委屈",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；办公室内，背景虚化；中央人物，身穿银色亮片连衣裙，薄纱泡泡袖，双手在桌面上方挥动，身体略微晃动，表情：眉毛紧锁，眼睛看向侧方，嘴巴张开继续解释。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "坐在沙发上，眼神看向侧方，手指轻点扶手",
+                "expression": "眉毛压低，眼睛斜视，嘴巴紧闭后微张"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，苏得志打断苏清涵，眼神严厉地看向侧方，手指在沙发扶手上轻点，示意她闭嘴。",
+        "dialogue": "闭嘴，到底是你个人利益重要，还是公",
+        "speaker": "苏得志",
+        "emotion": "严厉",
+        "duration": 3.32,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿灰色格纹西装，蓝白条纹领带，坐在沙发上，眼神看向侧方，手指轻点扶手，表情：眉毛压低，眼睛斜视，嘴巴紧闭后微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男董事",
+                "gender": "男",
+                "clothing": "黑色西装外套，白衬衫，白鞋",
+                "position": "左侧",
+                "action": "翘着二郎腿坐在沙发上，双手放在膝盖上",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "女董事",
+                "gender": "女",
+                "clothing": "浅绿色西装外套，白衬衫",
+                "position": "右侧",
+                "action": "端坐在沙发上，双手交叠放在腿上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙",
+                "position": "前景",
+                "action": "背影，双手放在桌上",
+                "expression": "null"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中景镜头，男董事和女董事并排坐在沙发上，表情严肃地看着前方，前景是苏清涵的背影和手臂。",
+        "dialogue": "司的集体利益重要？",
+        "speaker": "苏得志",
+        "emotion": "质问",
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头；办公室沙发区，墙上挂画；左侧人物，身穿黑色西装外套，白衬衫，白鞋，翘着二郎腿坐在沙发上，双手放在膝盖上，表情：眉毛平展，眼睛注视前方，嘴巴紧闭；右侧人物，身穿浅绿色西装外套，白衬衫，端坐在沙发上，双手交叠放在腿上，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；前景人物，身穿银色亮片连衣裙，背影，双手放在桌上，表情：null。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，长款珍珠耳环",
+                "position": "中央",
+                "action": "双手手指交叉紧扣在桌面上",
+                "expression": "眉毛紧皱，眼睛睁大充满震惊，嘴巴微张"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "近景镜头，苏清涵听到质问后震惊地看着前方，双手手指紧紧交叉扣在桌面上，眼神中充满不可置信。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；办公室内，背景虚化；中央人物，身穿银色亮片连衣裙，长款珍珠耳环，双手手指交叉紧扣在桌面上，表情：眉毛紧皱，眼睛睁大充满震惊，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "坐在沙发上，身体略微前倾，一只手搭在扶手上",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，苏得志坐在沙发上，身体略微前倾，表情严肃地阐述公司现状。",
+        "dialogue": "现在只有凌和集团才能和蔷薇集团搭上关系。",
+        "speaker": "苏得志",
+        "emotion": "严肃",
+        "duration": 3.84,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿灰色格纹西装，蓝白条纹领带，坐在沙发上，身体略微前倾，一只手搭在扶手上，表情：眉毛微蹙，眼睛注视对方，嘴巴张开说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，薄纱泡泡袖",
+                "position": "中央",
+                "action": "低着头，视线向下",
+                "expression": "眉毛低垂，眼睛下移，嘴巴紧闭神情落寞"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "近景镜头，苏清涵低着头，视线向下，神情落寞地听着苏得志的话。",
+        "dialogue": "没有了朱少帮忙",
+        "speaker": "苏得志",
+        "emotion": "无奈",
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；办公室内，背景虚化；中央人物，身穿银色亮片连衣裙，薄纱泡泡袖，低着头，视线向下，表情：眉毛低垂，眼睛下移，嘴巴紧闭神情落寞。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "坐在沙发上，头部微侧",
+                "expression": "眉毛上扬，眼睛看向侧上方，嘴巴张开反问"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，苏得志头部微侧，眼神看向侧上方，语气反问公司的未来。",
+        "dialogue": "公司怎么能够扭亏为盈？",
+        "speaker": "苏得志",
+        "emotion": "质问",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿灰色格纹西装，蓝白条纹领带，坐在沙发上，头部微侧，表情：眉毛上扬，眼睛看向侧上方，嘴巴张开反问。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "面部特写，嘴唇微动",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴张开强调"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "特写镜头，苏得志面部表情严肃，强调公司生存的问题。",
+        "dialogue": "怎么能够生存下去？",
+        "speaker": "苏得志",
+        "emotion": "严厉",
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头；办公室内，背景虚化；中央人物，身穿灰色格纹西装，蓝白条纹领带，面部特写，嘴唇微动，表情：眉毛紧锁，眼睛直视前方，嘴巴张开强调。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，长款珍珠耳环",
+                "position": "中央",
+                "action": "双手交握放在桌上，身体坐直",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张似乎要说话"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "近景镜头，苏清涵双手交握放在桌上，身体坐直，眼神中带着愤怒和不解。",
+        "dialogue": "所以，就因为我拒绝了朱云朝",
+        "speaker": "苏清涵",
+        "emotion": "愤怒",
+        "duration": 3.76,
+        "description_visual": "近景平拍镜头；办公室内，背景虚化；中央人物，身穿银色亮片连衣裙，长款珍珠耳环，双手交握放在桌上，身体坐直，表情：眉毛微蹙，眼睛注视前方，嘴巴微张似乎要说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男董事",
+                "gender": "男",
+                "clothing": "黑色西装外套，白衬衫，白鞋",
+                "position": "中央",
+                "action": "翘着二郎腿坐在沙发上，身体后仰",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中景镜头，男董事翘着二郎腿坐在沙发上，表情冷漠地听着苏清涵的质问。",
+        "dialogue": "你们就要逼我辞职。",
+        "speaker": "苏清涵",
+        "emotion": "绝望",
+        "duration": 2.12,
+        "description_visual": "中景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿黑色西装外套，白衬衫，白鞋，翘着二郎腿坐在沙发上，身体后仰，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "坐在沙发上，一只手搭在扶手上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，苏得志坐在沙发上，语气平缓但带着不容置疑的态度。",
+        "dialogue": "现在的苏氏集团需要一个肯付出的总裁，不过。",
+        "speaker": "苏得志",
+        "emotion": "冷静",
+        "duration": 4.96,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿灰色格纹西装，蓝白条纹领带，坐在沙发上，一只手搭在扶手上，表情：眉毛微蹙，眼睛注视前方，嘴巴张开说话。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，长款珍珠耳环",
+                "position": "中央",
+                "action": "侧身坐着，双手交握",
+                "expression": "眉毛低垂，眼睛看向侧下方，嘴巴紧闭神情悲伤"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "近景镜头，苏清涵侧身坐着，眼神看向侧下方，神情悲伤地听着苏得志的话。",
+        "dialogue": "看在你是我侄女的份上",
+        "speaker": "苏得志",
+        "emotion": "虚伪",
+        "duration": 2.32,
+        "description_visual": "近景平拍镜头；办公室内，背景虚化；中央人物，身穿银色亮片连衣裙，长款珍珠耳环，侧身坐着，双手交握，表情：眉毛低垂，眼睛看向侧下方，嘴巴紧闭神情悲伤。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "坐在沙发上，身体略微前倾",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，苏得志身体略微前倾，表情看似宽容实则逼迫。",
+        "dialogue": "我可以再给你一次机会",
+        "speaker": "苏得志",
+        "emotion": "施舍",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿灰色格纹西装，蓝白条纹领带，坐在沙发上，身体略微前倾，表情：眉毛微挑，眼睛注视对方，嘴巴张开说话。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，长款珍珠耳环",
+                "position": "中央",
+                "action": "双手交握放在桌上，身体前倾",
+                "expression": "眉毛紧皱，眼睛睁大，嘴巴微张露出震惊和愤怒"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "近景镜头，苏清涵听到“机会”二字，表情瞬间变得震惊和愤怒，身体前倾。",
+        "dialogue": "让我陪朱云朝睡觉，不可能",
+        "speaker": "苏清涵",
+        "emotion": "愤怒",
+        "duration": 3.76,
+        "description_visual": "近景平拍镜头；办公室内，背景虚化；中央人物，身穿银色亮片连衣裙，长款珍珠耳环，双手交握放在桌上，身体前倾，表情：眉毛紧皱，眼睛睁大，嘴巴微张露出震惊和愤怒。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "靠在沙发背上，眼神冷漠",
+                "expression": "眉毛平展，眼睛看向侧上方，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，苏得志靠在沙发背上，眼神冷漠地看着苏清涵的反应。",
+        "dialogue": "好。",
+        "speaker": "苏得志",
+        "emotion": "冷漠",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿灰色格纹西装，蓝白条纹领带，靠在沙发背上，眼神冷漠，表情：眉毛平展，眼睛看向侧上方，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，薄纱泡泡袖",
+                "position": "中央",
+                "action": "双手交握放在桌上，眼神坚定",
+                "expression": "眉毛紧锁，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "前景左侧",
+                "action": "手将文件推向对方",
+                "expression": "null"
+            }
+        ],
+        "background": "办公室内，红木桌子",
+        "description_narrative": "中近景镜头，苏清涵眼神坚定地看着前方，前景中苏得志的手将文件推向她。",
+        "dialogue": "那就签字吧",
+        "speaker": "苏得志",
+        "emotion": "决绝",
+        "duration": 2.16,
+        "description_visual": "中近景平拍镜头；办公室内，红木桌子；中央人物，身穿银色亮片连衣裙，薄纱泡泡袖，双手交握放在桌上，眼神坚定，表情：眉毛紧锁，眼睛直视前方，嘴巴紧闭；前景左侧人物，身穿灰色格纹西装，手将文件推向对方，表情：null。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女董事",
+                "gender": "女",
+                "clothing": "浅绿色西装外套，白衬衫，黑色短裙",
+                "position": "中央",
+                "action": "坐在沙发上，双腿交叠，双手放在腿上",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中景镜头，女董事坐在沙发上，双腿交叠，表情严肃地看着苏清涵。",
+        "dialogue": "苏总，董事会需要的，是听从安排的总裁，和个人利益比起来",
+        "speaker": "女董事",
+        "emotion": "严肃",
+        "duration": 6.68,
+        "description_visual": "中景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿浅绿色西装外套，白衬衫，黑色短裙，坐在沙发上，双腿交叠，双手放在腿上，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男董事",
+                "gender": "男",
+                "clothing": "黑色西装外套，白衬衫",
+                "position": "中央",
+                "action": "坐在沙发上，身体前倾，一只手挥动",
+                "expression": "眉毛上扬，眼睛注视前方，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，男董事坐在沙发上，身体前倾，语气强硬地强调集体利益。",
+        "dialogue": "和个人利益比起来",
+        "speaker": "男董事",
+        "emotion": "强硬",
+        "duration": 0.64,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿黑色西装外套，白衬衫，坐在沙发上，身体前倾，一只手挥动，表情：眉毛上扬，眼睛注视前方，嘴巴张开说话。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男董事",
+                "gender": "男",
+                "clothing": "黑色西装外套，白衬衫",
+                "position": "中央",
+                "action": "坐在沙发上，一只手握拳放在腿上",
+                "expression": "眉毛紧锁，眼睛注视前方，嘴巴张开强调"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，男董事继续说话，一只手握拳放在腿上，表情严肃。",
+        "dialogue": "集体利益才是最重要的",
+        "speaker": "男董事",
+        "emotion": "严肃",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿黑色西装外套，白衬衫，坐在沙发上，一只手握拳放在腿上，表情：眉毛紧锁，眼睛注视前方，嘴巴张开强调。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "靠在沙发背上，眼神看向侧上方",
+                "expression": "眉毛微蹙，眼睛看向侧上方，嘴巴微张"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，苏得志靠在沙发背上，眼神看向侧上方，似乎在等待苏清涵的决定。",
+        "dialogue": "苏清涵",
+        "speaker": "苏得志",
+        "emotion": "催促",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿灰色格纹西装，蓝白条纹领带，靠在沙发背上，眼神看向侧上方，表情：眉毛微蹙，眼睛看向侧上方，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，长款珍珠耳环",
+                "position": "中央",
+                "action": "双手握拳放在桌面上",
+                "expression": "眉毛紧皱，眼睛直视前方，嘴巴紧闭神情愤怒"
+            },
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "前景左侧",
+                "action": "手臂模糊可见",
+                "expression": "null"
+            }
+        ],
+        "background": "办公室内，红木桌子",
+        "description_narrative": "近景镜头，苏清涵双手握拳放在桌面上，指节发白，眼神愤怒地瞪着前方。",
+        "dialogue": "总裁职位，还是个人利益？",
+        "speaker": "苏得志",
+        "emotion": "逼迫",
+        "duration": 2.24,
+        "description_visual": "近景平拍镜头；办公室内，红木桌子；中央人物，身穿银色亮片连衣裙，长款珍珠耳环，双手握拳放在桌面上，表情：眉毛紧皱，眼睛直视前方，嘴巴紧闭神情愤怒；前景左侧人物，身穿灰色格纹西装，手臂模糊可见，表情：null。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏得志",
+                "gender": "男",
+                "clothing": "灰色格纹西装，蓝白条纹领带",
+                "position": "中央",
+                "action": "靠在沙发背上，一只手搭在扶手上",
+                "expression": "眉毛上扬，眼睛看向侧上方，嘴巴微张"
+            }
+        ],
+        "background": "办公室沙发区，墙上挂画",
+        "description_narrative": "中近景镜头，苏得志靠在沙发背上，眼神看向侧上方，语气平淡地让苏清涵自己选择。",
+        "dialogue": "你自己选。",
+        "speaker": "苏得志",
+        "emotion": "冷漠",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；办公室沙发区，墙上挂画；中央人物，身穿灰色格纹西装，蓝白条纹领带，靠在沙发背上，一只手搭在扶手上，表情：眉毛上扬，眼睛看向侧上方，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，长款珍珠耳环",
+                "position": "中央",
+                "action": "双手握拳放在桌面上，身体微微颤抖",
+                "expression": "眉毛紧锁，眼睛含泪，嘴巴微张神情痛苦"
+            }
+        ],
+        "background": "办公室内，红木桌子",
+        "description_narrative": "近景镜头，苏清涵双手握拳放在桌面上，身体微微颤抖，眼中含泪，神情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；办公室内，红木桌子；中央人物，身穿银色亮片连衣裙，长款珍珠耳环，双手握拳放在桌面上，身体微微颤抖，表情：眉毛紧锁，眼睛含泪，嘴巴微张神情痛苦。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏清涵",
+                "gender": "女",
+                "clothing": "银色亮片连衣裙，长款珍珠耳环",
+                "position": "中央",
+                "action": "头部微低，眼泪在眼眶打转",
+                "expression": "眉毛低垂，眼睛下移含泪，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "特写镜头，苏清涵头部微低，眼泪在眼眶里打转，神情绝望。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "绝望",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；办公室内，背景虚化；中央人物，身穿银色亮片连衣裙，长款珍珠耳环，头部微低，眼泪在眼眶打转，表情：眉毛低垂，眼睛下移含泪，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "站在门口，身体略微侧向",
+                "expression": "眉毛微蹙，眼睛看向室内，嘴巴微张"
+            }
+        ],
+        "background": "办公室门口，光线明亮",
+        "description_narrative": "中近景镜头，一名身穿黑色西装的青年男子站在门口，表情惊讶地看着室内。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；办公室门口，光线明亮；中央人物，身穿黑色西装，白衬衫，站在门口，身体略微侧向，表情：眉毛微蹙，眼睛看向室内，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "走进房间，头部转动",
+                "expression": "眉毛紧锁，眼睛扫视周围，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室内，光线明亮",
+        "description_narrative": "中近景镜头，青年男子走进房间，头部转动扫视周围，表情愤怒。",
+        "dialogue": "一群大老爷们",
+        "speaker": "青年男子",
+        "emotion": "愤怒",
+        "duration": 0.68,
+        "description_visual": "中近景平拍镜头（推进）；办公室内，光线明亮；中央人物，身穿黑色西装，白衬衫，走进房间，头部转动，表情：眉毛紧锁，眼睛扫视周围，嘴巴张开说话。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "站在房间中央，头部微仰",
+                "expression": "眉毛紧锁，眼睛向上看，嘴巴张开大声说话"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "中近景镜头，青年男子站在房间中央，头部微仰，大声斥责。",
+        "dialogue": "一群大老爷们",
+        "speaker": "青年男子",
+        "emotion": "愤怒",
+        "duration": 0.72,
+        "description_visual": "中近景平拍镜头；办公室内，背景虚化；中央人物，身穿黑色西装，白衬衫，站在房间中央，头部微仰，表情：眉毛紧锁，眼睛向上看，嘴巴张开大声说话。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "侧身站立，头部转向一侧",
+                "expression": "眉毛紧锁，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "近景镜头，青年男子侧身站立，头部转向一侧，表情不屑。",
+        "dialogue": "欺负个小女生",
+        "speaker": "青年男子",
+        "emotion": "不屑",
+        "duration": 1.12,
+        "description_visual": "近景侧拍镜头；办公室内，背景虚化；中央人物，身穿黑色西装，白衬衫，侧身站立，头部转向一侧，表情：眉毛紧锁，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "侧身站立，头部转向一侧",
+                "expression": "眉毛紧锁，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "近景镜头，青年男子继续斥责，表情愤怒。",
+        "dialogue": "欺负个小女生",
+        "speaker": "青年男子",
+        "emotion": "愤怒",
+        "duration": 2.2,
+        "description_visual": "近景侧拍镜头；办公室内，背景虚化；中央人物，身穿黑色西装，白衬衫，侧身站立，头部转向一侧，表情：眉毛紧锁，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "面部特写，嘴巴张开",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴张开大声质问"
+            }
+        ],
+        "background": "办公室内，背景虚化",
+        "description_narrative": "特写镜头，青年男子面部表情愤怒，大声质问对方是否要脸。",
+        "dialogue": "还要不要脸啊",
+        "speaker": "青年男子",
+        "emotion": "愤怒",
+        "duration": 1.76,
+        "description_visual": "特写侧拍镜头；办公室内，背景虚化；中央人物，身穿黑色西装，白衬衫，面部特写，嘴巴张开，表情：眉毛紧锁，眼睛睁大，嘴巴张开大声质问。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "头部微仰，画面过曝",
+                "expression": "眉毛紧锁，眼睛看向斜上方，嘴巴微张"
+            }
+        ],
+        "background": "办公室内，强光过曝",
+        "description_narrative": "特写镜头，青年男子头部微仰，画面因强光而过曝，营造出一种正义降临的氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "正义",
+        "duration": 3.28,
+        "description_visual": "特写仰拍镜头；办公室内，强光过曝；中央人物，身穿黑色西装，白衬衫，头部微仰，画面过曝，表情：眉毛紧锁，眼睛看向斜上方，嘴巴微张。"
+    }
+]

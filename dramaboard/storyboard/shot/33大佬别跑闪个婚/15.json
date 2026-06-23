@@ -1,0 +1,658 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面右侧",
+                "action": "侧脸靠近女主角",
+                "expression": "眼神深情注视"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "白色礼服",
+                "position": "画面左侧",
+                "action": "侧脸靠近男主角，手搭在男主角肩上",
+                "expression": "眼神温柔注视"
+            }
+        ],
+        "background": "金色光斑背景，带有剧名文字《大佬别跑 闪个婚》及集数",
+        "description_narrative": "全景固定镜头，画面展示剧集海报，男主角身穿深色西装与身穿白色礼服的女主角深情对视，背景为金色光斑，下方显示剧名及第十五集字样。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "全景平拍镜头；金色光斑背景，带有剧名文字《大佬别跑 闪个婚》及集数；画面右侧人物，身穿深色西装，侧脸靠近女主角，表情：眼神深情注视；画面左侧人物，身穿白色礼服，侧脸靠近男主角，手搭在男主角肩上，表情：眼神温柔注视。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲，佩戴银色胸针链饰",
+                "position": "画面中央偏右",
+                "action": "坐在餐桌前，身体微微前倾",
+                "expression": "眉毛舒展，眼睛微闭后睁开，嘴角紧闭"
+            }
+        ],
+        "background": "昏暗的室内餐厅，桌上有蜡烛、红酒和食物",
+        "description_narrative": "中景固定镜头，男主角坐在烛光晚餐的餐桌前，身穿黑色衬衫和深色马甲，佩戴银色胸针，身体微微前倾，神情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；昏暗的室内餐厅，桌上有蜡烛、红酒和食物；画面中央偏右人物，身穿黑色衬衫搭配深色马甲，佩戴银色胸针链饰，坐在餐桌前，身体微微前倾，表情：眉毛舒展，眼睛微闭后睁开，嘴角紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，内搭白色系带衬衫，佩戴长款耳饰",
+                "position": "画面中央",
+                "action": "坐在餐桌前，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张说话"
+            }
+        ],
+        "background": "昏暗的室内，前景有燃烧的蜡烛",
+        "description_narrative": "近景固定镜头，女主角身穿浅蓝色粗花呢外套，坐在桌前，视线向下，表情略带遗憾地抱怨晚餐被打扰。",
+        "dialogue": "好好的一顿晚餐，真是扫兴。",
+        "speaker": "女主角",
+        "emotion": "遗憾",
+        "duration": 2.68,
+        "description_visual": "近景平拍镜头；昏暗的室内，前景有燃烧的蜡烛；画面中央人物，身穿浅蓝色粗花呢外套，内搭白色系带衬衫，佩戴长款耳饰，坐在餐桌前，视线向下，表情：眉毛微蹙，眼睛下视，嘴巴微张说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲，佩戴银色胸针链饰",
+                "position": "画面中央",
+                "action": "看着对面的女主角，手部动作轻微",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微抿"
+            }
+        ],
+        "background": "餐桌，有点燃的蜡烛和食物",
+        "description_narrative": "过肩中近景固定镜头，男主角看着对面的女主角，安抚她继续用餐，神情温和。",
+        "dialogue": "没关系，我们接着吃。",
+        "speaker": "男主角",
+        "emotion": "安抚",
+        "duration": 2.56,
+        "description_visual": "中近景过肩镜头；餐桌，有点燃的蜡烛和食物；画面中央人物，身穿黑色衬衫搭配深色马甲，佩戴银色胸针链饰，看着对面的女主角，手部动作轻微，表情：眉毛舒展，眼睛注视对方，嘴角微抿。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，内搭白色系带衬衫",
+                "position": "画面中央",
+                "action": "单手托腮，身体微倾",
+                "expression": "眉毛舒展，眼睛含笑注视对方，嘴角上扬"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛",
+        "description_narrative": "特写固定镜头，女主角单手托腮，身体微倾，带着笑意调侃男主角刚才的行为很男人。",
+        "dialogue": "看不出来，你还挺 man 的呀，霸气护妻啊。",
+        "speaker": "女主角",
+        "emotion": "调侃",
+        "duration": 6.24,
+        "description_visual": "特写平拍镜头；昏暗背景，前景有蜡烛；画面中央人物，身穿浅蓝色粗花呢外套，内搭白色系带衬衫，单手托腮，身体微倾，表情：眉毛舒展，眼睛含笑注视对方，嘴角上扬。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲，佩戴银色胸针链饰",
+                "position": "画面中央",
+                "action": "看着女主角，手部放在桌上",
+                "expression": "眉毛微挑，眼睛注视对方，嘴角自信上扬"
+            }
+        ],
+        "background": "餐桌，有蜡烛和红酒",
+        "description_narrative": "过肩中近景固定镜头，男主角自信地回应女主角，宣誓主权表示不许任何人欺负她。",
+        "dialogue": "那必须的，谁让你是我老婆呢？谁也不许欺负你。",
+        "speaker": "男主角",
+        "emotion": "自信",
+        "duration": 5.08,
+        "description_visual": "中近景过肩镜头；餐桌，有蜡烛和红酒；画面中央人物，身穿黑色衬衫搭配深色马甲，佩戴银色胸针链饰，看着女主角，手部放在桌上，表情：眉毛微挑，眼睛注视对方，嘴角自信上扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，内搭白色系带衬衫",
+                "position": "画面中央",
+                "action": "手指轻触脸颊，眼神向上",
+                "expression": "眉毛舒展，眼睛睁大向上看，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛",
+        "description_narrative": "特写固定镜头，女主角手指轻触脸颊，眼神向上，夸张地表示男主角给了她霸道总裁的错觉。",
+        "dialogue": "天呐，你这样会给我一种霸道总裁的错觉。",
+        "speaker": "女主角",
+        "emotion": "惊讶",
+        "duration": 8.08,
+        "description_visual": "特写平拍镜头；昏暗背景，前景有蜡烛；画面中央人物，身穿浅蓝色粗花呢外套，内搭白色系带衬衫，手指轻触脸颊，眼神向上，表情：眉毛舒展，眼睛睁大向上看，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲，佩戴银色胸针链饰",
+                "position": "画面中央",
+                "action": "低头看食物，然后抬头",
+                "expression": "眉毛微动，眼睛下视后抬起，嘴角轻哼"
+            }
+        ],
+        "background": "餐桌，有蜡烛和食物",
+        "description_narrative": "过肩中近景固定镜头，男主角轻哼一声，顺着女主角的话玩笑说未来可能真会成为总裁。",
+        "dialogue": "哼，借你吉言，有可能以后我还真成总裁了。",
+        "speaker": "男主角",
+        "emotion": "玩笑",
+        "duration": 5.4,
+        "description_visual": "中近景过肩镜头；餐桌，有蜡烛和食物；画面中央人物，身穿黑色衬衫搭配深色马甲，佩戴银色胸针链饰，低头看食物，然后抬头，表情：眉毛微动，眼睛下视后抬起，嘴角轻哼。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，内搭白色系带衬衫",
+                "position": "画面中央",
+                "action": "双手托腮，身体前倾",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛和餐盘",
+        "description_narrative": "近景固定镜头，女主角双手托腮，身体前倾，鼓励男主角要有梦想。",
+        "dialogue": "那梦想还是要有的，万一实现了呢？",
+        "speaker": "女主角",
+        "emotion": "鼓励",
+        "duration": 4.16,
+        "description_visual": "近景平拍镜头；昏暗背景，前景有蜡烛和餐盘；画面中央人物，身穿浅蓝色粗花呢外套，内搭白色系带衬衫，双手托腮，身体前倾，表情：眉毛舒展，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲，佩戴银色胸针链饰",
+                "position": "画面中央",
+                "action": "看着女主角，手部动作轻微",
+                "expression": "眉毛微挑，眼睛注视对方，嘴角带笑"
+            }
+        ],
+        "background": "餐桌，有蜡烛和红酒",
+        "description_narrative": "过肩中近景固定镜头，男主角好奇地询问女主角当初为何敢在大街上拉人结婚，不怕遇到坏人。",
+        "dialogue": "怪不得你个大美女，能在大街上，拉个人就结婚，你就不怕引狼入室？",
+        "speaker": "男主角",
+        "emotion": "好奇",
+        "duration": 7.28,
+        "description_visual": "中近景过肩镜头；餐桌，有蜡烛和红酒；画面中央人物，身穿黑色衬衫搭配深色马甲，佩戴银色胸针链饰，看着女主角，手部动作轻微，表情：眉毛微挑，眼睛注视对方，嘴角带笑。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，内搭白色系带衬衫",
+                "position": "画面中央",
+                "action": "双手交叉托住下巴，抬头向上看",
+                "expression": "眉毛舒展，眼睛向上看，嘴角上扬"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛",
+        "description_narrative": "仰拍近景固定镜头，女主角双手交叉托住下巴，抬头向上看，笑着说自己当时顾不了那么多，幸好遇到了他。",
+        "dialogue": "当时也顾不了那么多了，这不，我还算运气好，遇到你了吗？",
+        "speaker": "女主角",
+        "emotion": "庆幸",
+        "duration": 7.32,
+        "description_visual": "近景仰拍镜头；昏暗背景，前景有蜡烛；画面中央人物，身穿浅蓝色粗花呢外套，内搭白色系带衬衫，双手交叉托住下巴，抬头向上看，表情：眉毛舒展，眼睛向上看，嘴角上扬。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲，佩戴银色胸针链饰",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眉毛微挑，眼睛注视对方，嘴角紧闭"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛",
+        "description_narrative": "特写固定镜头，男主角反问女主角怎么知道他就是好人。",
+        "dialogue": "你怎么知道，我就是好人呢？",
+        "speaker": "男主角",
+        "emotion": "反问",
+        "duration": 2.32,
+        "description_visual": "特写平拍镜头；昏暗背景，前景有蜡烛；画面中央人物，身穿黑色衬衫搭配深色马甲，佩戴银色胸针链饰，直视前方，表情：眉毛微挑，眼睛注视对方，嘴角紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，内搭白色系带衬衫",
+                "position": "画面中央",
+                "action": "双手交叉托住下巴，微笑",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛",
+        "description_narrative": "近景固定镜头，女主角双手交叉托住下巴，笑着说既然上了贼船只能祝自己好运。",
+        "dialogue": "不知道也没办法了，我都上了贼船了，只能祝我好运了。",
+        "speaker": "女主角",
+        "emotion": "无奈",
+        "duration": 6.48,
+        "description_visual": "近景平拍镜头；昏暗背景，前景有蜡烛；画面中央人物，身穿浅蓝色粗花呢外套，内搭白色系带衬衫，双手交叉托住下巴，微笑，表情：眉毛舒展，眼睛注视对方，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲，佩戴银色胸针链饰",
+                "position": "画面中央",
+                "action": "看着女主角",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微动"
+            }
+        ],
+        "background": "餐桌，有蜡烛",
+        "description_narrative": "过肩中近景固定镜头，男主角顺着女主角的话，准备说祝福语。",
+        "dialogue": "那就。",
+        "speaker": "男主角",
+        "emotion": "配合",
+        "duration": 2.84,
+        "description_visual": "中近景过肩镜头；餐桌，有蜡烛；画面中央人物，身穿黑色衬衫搭配深色马甲，佩戴银色胸针链饰，看着女主角，表情：眉毛舒展，眼睛注视对方，嘴角微动。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲，佩戴银色胸针链饰",
+                "position": "画面中央",
+                "action": "看着女主角",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角带笑"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛",
+        "description_narrative": "特写固定镜头，男主角笑着祝女主角好运。",
+        "dialogue": "祝你好运吧。",
+        "speaker": "男主角",
+        "emotion": "祝福",
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；昏暗背景，前景有蜡烛；画面中央人物，身穿黑色衬衫搭配深色马甲，佩戴银色胸针链饰，看着女主角，表情：眉毛舒展，眼睛注视对方，嘴角带笑。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套，内搭白色系带衬衫",
+                "position": "画面中央",
+                "action": "微笑，拿起酒杯",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛和酒杯",
+        "description_narrative": "近景固定镜头，女主角纠正男主角，笑着说是祝“我们”好运，并拿起酒杯。",
+        "dialogue": "祝我们好运。",
+        "speaker": "女主角",
+        "emotion": "甜蜜",
+        "duration": 3.16,
+        "description_visual": "近景平拍镜头；昏暗背景，前景有蜡烛和酒杯；画面中央人物，身穿浅蓝色粗花呢外套，内搭白色系带衬衫，微笑，拿起酒杯，表情：眉毛舒展，眼睛含笑，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "餐桌布，有点燃的蜡烛和手机",
+        "description_narrative": "俯拍特写固定镜头，画面聚焦在餐桌上的蜡烛和手机，营造浪漫氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "特写俯拍镜头；餐桌布，有点燃的蜡烛和手机。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲",
+                "position": "画面右侧",
+                "action": "举起红酒杯",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角微笑"
+            }
+        ],
+        "background": "昏暗室内，桌上有蜡烛",
+        "description_narrative": "侧拍中景固定镜头，男主角举起红酒杯，准备与女主角碰杯。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "中景侧拍镜头；昏暗室内，桌上有蜡烛；画面右侧人物，身穿黑色衬衫搭配深色马甲，举起红酒杯，表情：眉毛舒展，眼睛注视前方，嘴角微笑。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "餐桌布，手机屏幕显示来电",
+        "description_narrative": "俯拍特写固定镜头，手机屏幕亮起，显示来电人“林公公”，打破了浪漫氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "特写俯拍镜头；餐桌布，手机屏幕显示来电。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套",
+                "position": "画面左侧",
+                "action": "伸手去拿东西",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角微笑"
+            }
+        ],
+        "background": "餐桌，有蜡烛和手机",
+        "description_narrative": "侧拍中近景固定镜头，女主角伸手似乎要去拿酒杯或手机，脸上带着微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "中近景侧拍镜头；餐桌，有蜡烛和手机；画面左侧人物，身穿浅蓝色粗花呢外套，伸手去拿东西，表情：眉毛舒展，眼睛注视前方，嘴角微笑。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "餐桌布，手机和蜡烛",
+        "description_narrative": "俯拍特写固定镜头，手机放在桌上，旁边是燃烧的蜡烛，画面中传来一声“嗯”。",
+        "dialogue": "嗯。",
+        "speaker": "女主角",
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "特写俯拍镜头；餐桌布，手机和蜡烛。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲",
+                "position": "画面背景",
+                "action": "与女主角碰杯",
+                "expression": "眉毛舒展，眼睛注视酒杯"
+            },
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套",
+                "position": "画面前景",
+                "action": "举杯与男主角碰杯",
+                "expression": "眉毛舒展，眼睛注视对方"
+            }
+        ],
+        "background": "餐桌，有蜡烛和食物",
+        "description_narrative": "过肩近景固定镜头，男女主角举杯碰杯，红酒在烛光下摇曳。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "近景过肩镜头；餐桌，有蜡烛和食物；画面背景人物，身穿黑色衬衫搭配深色马甲，与女主角碰杯，表情：眉毛舒展，眼睛注视酒杯；画面前景人物，身穿浅蓝色粗花呢外套，举杯与男主角碰杯，表情：眉毛舒展，眼睛注视对方。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套",
+                "position": "画面中央",
+                "action": "手持酒杯",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛",
+        "description_narrative": "近景固定镜头，女主角手持酒杯，看着男主角，气氛温馨。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.44,
+        "description_visual": "近景平拍镜头；昏暗背景，前景有蜡烛；画面中央人物，身穿浅蓝色粗花呢外套，手持酒杯，表情：眉毛舒展，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲",
+                "position": "画面中央",
+                "action": "放下酒杯，看向手机",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张说话"
+            }
+        ],
+        "background": "餐桌，有蜡烛和食物",
+        "description_narrative": "过肩中近景固定镜头，男主角放下酒杯，看着手机说要去接个电话。",
+        "dialogue": "我接个电话。",
+        "speaker": "男主角",
+        "emotion": "严肃",
+        "duration": 2.6,
+        "description_visual": "中近景过肩镜头；餐桌，有蜡烛和食物；画面中央人物，身穿黑色衬衫搭配深色马甲，放下酒杯，看向手机，表情：眉毛微蹙，眼睛下视，嘴巴微张说话。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套",
+                "position": "画面中央",
+                "action": "点头",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微抿点头"
+            }
+        ],
+        "background": "昏暗背景，前景有蜡烛",
+        "description_narrative": "近景固定镜头，女主角点头表示同意，轻声回应“嗯”。",
+        "dialogue": "嗯。",
+        "speaker": "女主角",
+        "emotion": "理解",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；昏暗背景，前景有蜡烛；画面中央人物，身穿浅蓝色粗花呢外套，点头，表情：眉毛舒展，眼睛注视对方，嘴巴微抿点头。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲",
+                "position": "画面中央",
+                "action": "抬头看前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "餐桌，有蜡烛",
+        "description_narrative": "过肩中近景固定镜头，男主角抬头看向前方，神情变得严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.36,
+        "description_visual": "中近景过肩镜头；餐桌，有蜡烛；画面中央人物，身穿黑色衬衫搭配深色马甲，抬头看前方，表情：眉毛舒展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲",
+                "position": "画面中央",
+                "action": "拿起手机",
+                "expression": "眉毛微蹙，眼睛注视手机"
+            }
+        ],
+        "background": "餐桌，有蜡烛",
+        "description_narrative": "过肩中近景固定镜头，男主角拿起手机，准备接听电话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "中近景过肩镜头；餐桌，有蜡烛；画面中央人物，身穿黑色衬衫搭配深色马甲，拿起手机，表情：眉毛微蹙，眼睛注视手机。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "背拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主角",
+                "gender": "女",
+                "clothing": "浅蓝色粗花呢外套",
+                "position": "画面前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "背拍近景固定镜头，画面聚焦在女主角背影，传来男主角接电话的声音“喂”。",
+        "dialogue": "喂。",
+        "speaker": "男主角",
+        "emotion": null,
+        "duration": 1.36,
+        "description_visual": "近景背拍镜头；室内背景，模糊；画面前景人物，身穿浅蓝色粗花呢外套，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主角",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配深色马甲",
+                "position": "画面中央",
+                "action": "拿着手机贴在耳边",
+                "expression": "眉毛紧皱，眼睛睁大，嘴巴微张惊讶"
+            }
+        ],
+        "background": "室内背景，有光斑",
+        "description_narrative": "近景固定镜头，男主角拿着手机贴在耳边，听到电话内容后神情震惊，问“什么”。",
+        "dialogue": "什么？",
+        "speaker": "男主角",
+        "emotion": "震惊",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；室内背景，有光斑；画面中央人物，身穿黑色衬衫搭配深色马甲，拿着手机贴在耳边，表情：眉毛紧皱，眼睛睁大，嘴巴微张惊讶。"
+    }
+]

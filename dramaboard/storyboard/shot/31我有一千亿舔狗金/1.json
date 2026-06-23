@@ -1,0 +1,761 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "晴朗蓝天，一架红色直升机在空中飞行。",
+        "description_narrative": "远景仰拍，晴朗的蓝天下，一架红色直升机正在空中飞行，螺旋桨快速旋转。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "远景仰拍镜头；晴朗蓝天，一架红色直升机在空中飞行。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市天际线，高耸的电视塔，周围是密集的建筑群。",
+        "description_narrative": "全景俯拍，展示城市天际线，一座高耸的电视塔矗立在中央，周围环绕着密集的现代建筑群，阳光明媚。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "全景俯拍镜头；城市天际线，高耸的电视塔，周围是密集的建筑群。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市高架桥，车辆在桥上行驶，周围有绿化带。",
+        "description_narrative": "远景俯拍，城市高架桥上车辆有序行驶，道路两侧有修剪整齐的绿化景观。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.27,
+        "description_visual": "远景俯拍镜头；城市高架桥，车辆在桥上行驶，周围有绿化带。。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "深色/浅色衣物",
+                "position": "画面中央",
+                "action": "行走",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "繁忙的街道，人群熙熙攘攘，背景有车辆。",
+        "description_narrative": "中景平拍，繁忙的街道上人群熙熙攘攘，画面焦点模糊，行人穿着各异，背景有车辆经过。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "中景平拍镜头；繁忙的街道，人群熙熙攘攘，背景有车辆。；画面中央人物，身穿深色/浅色衣物，行走，表情：模糊不清。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "深色/浅色衣物",
+                "position": "画面中央",
+                "action": "行走",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "繁忙的街道，人群熙熙攘攘，背景有车辆。",
+        "description_narrative": "中景平拍，镜头继续对准繁忙街道上的人群，画面依然保持模糊效果，行人们匆匆走过。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.73,
+        "description_visual": "中景平拍镜头；繁忙的街道，人群熙熙攘攘，背景有车辆。；画面中央人物，身穿深色/浅色衣物，行走，表情：模糊不清。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "深色西装，白色衬衫，花纹领带，头戴耳机",
+                "position": "画面右侧",
+                "action": "坐在直升机内，头部微侧看向窗外",
+                "expression": "眉毛舒展，眼睛透过墨镜看向窗外，嘴巴紧闭"
+            }
+        ],
+        "background": "直升机驾驶舱内部，窗外是明亮的天空。",
+        "description_narrative": "特写侧拍，张东坐在直升机驾驶舱内，身穿深色西装，头戴耳机，面部微侧看向窗外，神情平静冷峻。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "特写侧拍镜头；直升机驾驶舱内部，窗外是明亮的天空。；画面右侧人物，身穿深色西装，白色衬衫，花纹领带，头戴耳机，坐在直升机内，头部微侧看向窗外，表情：眉毛舒展，眼睛透过墨镜看向窗外，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "深色西装，白色衬衫，花纹领带，头戴耳机，墨镜",
+                "position": "画面中央",
+                "action": "坐在直升机内，头部转正",
+                "expression": "眉毛微挑，眼睛被墨镜遮挡，嘴唇微张"
+            }
+        ],
+        "background": "直升机驾驶舱内部，窗外光线明亮。",
+        "description_narrative": "近景侧拍，张东坐在直升机内，头部转正面向前方，戴着墨镜和耳机，神情专注，光线从窗外照入。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.53,
+        "description_visual": "近景侧拍镜头；直升机驾驶舱内部，窗外光线明亮。；画面中央人物，身穿深色西装，白色衬衫，花纹领带，头戴耳机，墨镜，坐在直升机内，头部转正，表情：眉毛微挑，眼睛被墨镜遮挡，嘴唇微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "仰拍",
+        "camera_motion": "跟拍",
+        "subjects": [],
+        "background": "蓝天白云，地面有棕榈树和独特建筑（凤凰岛酒店）。",
+        "description_narrative": "全景仰拍，红色直升机在蓝天白云下低空飞行，准备降落，地面可见棕榈树和独特的弧形建筑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.13,
+        "description_visual": "全景仰拍镜头（跟拍）；蓝天白云，地面有棕榈树和独特建筑（凤凰岛酒店）。。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "灰色西裤，黑色皮鞋",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "黑色西裤，黑色皮鞋",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "停机坪地面，有白色标线，阳光强烈。",
+        "description_narrative": "特写低角度，镜头对准停机坪上几名男子的腿部，他们穿着西装裤和皮鞋，笔直站立在地面标线上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "特写低角度镜头；停机坪地面，有白色标线，阳光强烈。；画面左侧人物，身穿灰色西裤，黑色皮鞋，站立，表情：不可见；画面右侧人物，身穿黑色西裤，黑色皮鞋，站立，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "肉色丝袜，裸色高跟鞋",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "停机坪地面，背景有模糊的车辆和建筑。",
+        "description_narrative": "特写低角度，镜头对准一名女性的腿部，她穿着肉色丝袜和裸色高跟鞋，优雅地站立在停机坪上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写低角度镜头；停机坪地面，背景有模糊的车辆和建筑。；画面中央人物，身穿肉色丝袜，裸色高跟鞋，站立，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "黑色西裤，黑色皮鞋",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "停机坪地面，阳光投射出人物的影子。",
+        "description_narrative": "特写低角度，镜头对准另一名男子的腿部，穿着黑色西裤和皮鞋，阳光在地面投射出清晰的影子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.63,
+        "description_visual": "特写低角度镜头；停机坪地面，阳光投射出人物的影子。；画面中央人物，身穿黑色西裤，黑色皮鞋，站立，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "跟拍",
+        "subjects": [],
+        "background": "红色直升机机身，背景有树木。",
+        "description_narrative": "近景仰拍，红色直升机正在降落，机身细节清晰可见，螺旋桨高速旋转产生模糊，背景是树木。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.57,
+        "description_visual": "近景仰拍镜头（跟拍）；红色直升机机身，背景有树木。。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，墨镜",
+                "position": "画面中央",
+                "action": "从直升机舱门跨出",
+                "expression": "表情冷峻，动作利落"
+            }
+        ],
+        "background": "红色直升机舱门，蓝天背景。",
+        "description_narrative": "中景平拍，张东身穿黑色西装，戴着墨镜，从红色直升机舱门跨出，动作潇洒利落。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；红色直升机舱门，蓝天背景。；画面中央人物，身穿黑色西装，墨镜，从直升机舱门跨出，表情：表情冷峻，动作利落。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，花纹领带",
+                "position": "画面中央",
+                "action": "整理西装外套",
+                "expression": "神情自信，嘴角微抿"
+            }
+        ],
+        "background": "红色直升机机身，蓝天背景。",
+        "description_narrative": "中近景平拍，张东站定后整理了一下黑色西装外套，神情自信，背景是红色的直升机机身。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.93,
+        "description_visual": "中近景平拍镜头；红色直升机机身，蓝天背景。；画面中央人物，身穿黑色西装，白色衬衫，花纹领带，整理西装外套，表情：神情自信，嘴角微抿。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色蕾丝旗袍式长裙",
+                "position": "画面中央",
+                "action": "抬手遮挡阳光",
+                "expression": "眉毛微蹙，眼睛看向远方，嘴巴微张"
+            }
+        ],
+        "background": "户外明亮环境，背景有穿黑西装的保镖。",
+        "description_narrative": "近景平拍，白衣女子身穿白色蕾丝长裙，抬手遮挡刺眼的阳光，身后站着几名穿黑西装的保镖。",
+        "dialogue": "嘿嘿嘿嘿嘿。",
+        "speaker": "白衣女子",
+        "emotion": "轻松",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；户外明亮环境，背景有穿黑西装的保镖。；画面中央人物，身穿白色蕾丝旗袍式长裙，抬手遮挡阳光，表情：眉毛微蹙，眼睛看向远方，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "灰色蕾丝短裙",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外停机坪，地面有标线。",
+        "description_narrative": "中景平拍，镜头对准一名女性的下半身，她穿着灰色蕾丝短裙，双腿修长，站立在停机坪上。",
+        "dialogue": "嘟嘟嘟嘟嘟嘟嘟嘟嘟。",
+        "speaker": "未知",
+        "emotion": null,
+        "duration": 0.97,
+        "description_visual": "中景平拍镜头；户外停机坪，地面有标线。；画面中央人物，身穿灰色蕾丝短裙，站立，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "白色长袖上衣，灰色蕾丝短裙",
+                "position": "画面中央",
+                "action": "双手交叉抱在胸前",
+                "expression": "不可见"
+            }
+        ],
+        "background": "户外停机坪，背景模糊。",
+        "description_narrative": "中近景平拍，镜头上移，显示该女性身穿白色长袖上衣，双手交叉抱在胸前，姿态优雅。",
+        "dialogue": "嗯嗯嗯。",
+        "speaker": "未知",
+        "emotion": null,
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；户外停机坪，背景模糊。；画面中央人物，身穿白色长袖上衣，灰色蕾丝短裙，双手交叉抱在胸前，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色蕾丝旗袍式长裙",
+                "position": "画面中央",
+                "action": "微笑注视前方",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            }
+        ],
+        "background": "户外明亮环境，背景有保镖。",
+        "description_narrative": "近景平拍，白衣女子面带微笑注视前方，发型精致，神情优雅自信，身后保镖模糊可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愉悦",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；户外明亮环境，背景有保镖。；画面中央人物，身穿白色蕾丝旗袍式长裙，微笑注视前方，表情：眉毛舒展，眼睛含笑，嘴角上扬。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "深色西装，白色衬衫，花纹领带，墨镜",
+                "position": "画面中央",
+                "action": "抬手调整墨镜",
+                "expression": "眉毛微挑，嘴巴微张，神情冷峻"
+            }
+        ],
+        "background": "红色直升机机身，户外明亮环境。",
+        "description_narrative": "近景平拍，张东抬手调整了一下墨镜，露出冷峻的面容，背景是红色的直升机。",
+        "dialogue": "看来大家都已经到齐了",
+        "speaker": "张东",
+        "emotion": "冷峻",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；红色直升机机身，户外明亮环境。；画面中央人物，身穿深色西装，白色衬衫，花纹领带，墨镜，抬手调整墨镜，表情：眉毛微挑，嘴巴微张，神情冷峻。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色蕾丝旗袍式长裙",
+                "position": "画面中央",
+                "action": "开口说话",
+                "expression": "眉毛微扬，眼睛注视对方，嘴唇开合"
+            }
+        ],
+        "background": "户外明亮环境，背景有保镖。",
+        "description_narrative": "近景平拍，白衣女子开口说话，目光注视着张东，神情从容。",
+        "dialogue": "张东",
+        "speaker": "白衣女子",
+        "emotion": "平静",
+        "duration": 1.97,
+        "description_visual": "近景平拍镜头；户外明亮环境，背景有保镖。；画面中央人物，身穿白色蕾丝旗袍式长裙，开口说话，表情：眉毛微扬，眼睛注视对方，嘴唇开合。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "深色西装，白色衬衫，花纹领带",
+                "position": "画面中央",
+                "action": "侧头看向对方",
+                "expression": "眉毛微蹙，眼睛疑惑，嘴巴微张"
+            }
+        ],
+        "background": "红色直升机机身，户外明亮环境。",
+        "description_narrative": "近景侧拍，张东侧头看向白衣女子，脸上露出疑惑的表情，似乎在等待下文。",
+        "dialogue": "选一位做你的老婆吧",
+        "speaker": "白衣女子",
+        "emotion": "疑惑",
+        "duration": 5.43,
+        "description_visual": "近景侧拍镜头；红色直升机机身，户外明亮环境。；画面中央人物，身穿深色西装，白色衬衫，花纹领带，侧头看向对方，表情：眉毛微蹙，眼睛疑惑，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "模糊/快切",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内环境，色调偏暖。",
+        "description_narrative": "特写，画面快速模糊切换，出现“半年前”字幕，暗示时间回溯。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.97,
+        "description_visual": "特写平拍镜头（模糊/快切）；模糊的室内环境，色调偏暖。；画面中央人物，身穿未知，模糊画面，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "室内门口，深色墙壁，白色门框，光线较暗。",
+        "description_narrative": "中景平拍，镜头对准室内一扇半开的门，光线昏暗，墙上开关清晰可见，字幕显示“半年前”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.87,
+        "description_visual": "中景平拍镜头；室内门口，深色墙壁，白色门框，光线较暗。。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "晃动",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "橙色衣物",
+                "position": "画面右侧",
+                "action": "躺在床上（模糊）",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内卧室，光线昏暗，床铺。",
+        "description_narrative": "特写俯拍，画面模糊晃动，隐约可见床上有人影，伴随“嘿”的声音。",
+        "dialogue": "嘿。",
+        "speaker": "未知",
+        "emotion": null,
+        "duration": 2.07,
+        "description_visual": "特写俯拍镜头（晃动）；室内卧室，光线昏暗，床铺。；画面右侧人物，身穿橙色衣物，躺在床上（模糊），表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "白色衬衫，灰色背心",
+                "position": "画面中央",
+                "action": "站在门口，震惊地看着屋内",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内门口，光线较亮。",
+        "description_narrative": "中近景平拍，半年前的张东身穿白色衬衫站在门口，震惊地看着屋内，表情难以置信。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 3.93,
+        "description_visual": "中近景平拍镜头；室内门口，光线较亮。；画面中央人物，身穿白色衬衫，灰色背心，站在门口，震惊地看着屋内，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "晃动",
+        "subjects": [
+            {
+                "name": "光头男",
+                "gender": "男",
+                "clothing": "黑色上衣，眼镜",
+                "position": "画面中央",
+                "action": "躺在床上（模糊）",
+                "expression": "表情痛苦/惊讶"
+            }
+        ],
+        "background": "室内卧室，床铺。",
+        "description_narrative": "特写俯拍，画面模糊，隐约可见一个戴眼镜的光头男子躺在床上，表情惊讶。",
+        "dialogue": "白晓",
+        "speaker": "张东",
+        "emotion": "愤怒",
+        "duration": 1.33,
+        "description_visual": "特写俯拍镜头（晃动）；室内卧室，床铺。；画面中央人物，身穿黑色上衣，眼镜，躺在床上（模糊），表情：表情痛苦/惊讶。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "白色衬衫，灰色背心",
+                "position": "画面中央",
+                "action": "面部特写，情绪激动",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "室内门口，光线较亮。",
+        "description_narrative": "特写平拍，镜头推进到张东面部，他情绪激动，嘴巴张开似乎在质问。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头（推进）；室内门口，光线较亮。；画面中央人物，身穿白色衬衫，灰色背心，面部特写，情绪激动，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "晃动",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内环境。",
+        "description_narrative": "特写，画面极度模糊，伴随“呃？”的声音，表现混乱的视角。",
+        "dialogue": "呃？",
+        "speaker": "张东",
+        "emotion": "困惑",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头（晃动）；模糊的室内环境。；画面中央人物，身穿未知，模糊画面，表情：不可见。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "晃动",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "白色衣物",
+                "position": "画面中央",
+                "action": "模糊画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内环境。",
+        "description_narrative": "特写，画面模糊，隐约可见白色衣物，伴随“哼”的声音。",
+        "dialogue": "哼。",
+        "speaker": "未知",
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头（晃动）；模糊的室内环境。；画面中央人物，身穿白色衣物，模糊画面，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "晃动",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "黑色衣物",
+                "position": "画面右侧",
+                "action": "模糊画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内环境。",
+        "description_narrative": "特写，画面模糊，隐约可见黑色衣物，伴随“嘿嘿”的笑声。",
+        "dialogue": "嘿嘿。",
+        "speaker": "未知",
+        "emotion": null,
+        "duration": 0.87,
+        "description_visual": "特写平拍镜头（晃动）；模糊的室内环境。；画面右侧人物，身穿黑色衣物，模糊画面，表情：不可见。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "侧脸，看着前方",
+                "expression": "表情愤怒"
+            }
+        ],
+        "background": "室内环境，背景模糊。",
+        "description_narrative": "特写侧拍，张东侧脸对着镜头，表情愤怒，背景模糊，伴随“你”的声音。",
+        "dialogue": "你。",
+        "speaker": "张东",
+        "emotion": "愤怒",
+        "duration": 0.5,
+        "description_visual": "特写侧拍镜头；室内环境，背景模糊。；画面左侧人物，身穿白色衬衫，侧脸，看着前方，表情：表情愤怒。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "侧脸，看着前方",
+                "expression": "眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内环境，背景模糊。",
+        "description_narrative": "近景侧拍，张东侧脸看着前方，眼神中充满震惊和愤怒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 0.5,
+        "description_visual": "近景侧拍镜头；室内环境，背景模糊。；画面左侧人物，身穿白色衬衫，侧脸，看着前方，表情：眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白晓",
+                "gender": "女",
+                "clothing": "橙色毛衣",
+                "position": "画面右侧",
+                "action": "回头看向张东",
+                "expression": "眉毛微蹙，眼睛看向对方，嘴巴微张"
+            }
+        ],
+        "background": "室内沙发，暖色调。",
+        "description_narrative": "近景侧拍，白晓身穿橙色毛衣坐在沙发上，回头看向张东，神情惊慌。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊慌",
+        "duration": 2.0,
+        "description_visual": "近景侧拍镜头；室内沙发，暖色调。；画面右侧人物，身穿橙色毛衣，回头看向张东，表情：眉毛微蹙，眼睛看向对方，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "背影（模糊）",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内环境，模糊。",
+        "description_narrative": "特写平拍，画面模糊，显示白色衬衫的背影，伴随愤怒的台词。",
+        "dialogue": "你居然背着我偷男人。",
+        "speaker": "张东",
+        "emotion": "愤怒",
+        "duration": 2.07,
+        "description_visual": "特写平拍镜头；室内环境，模糊。；画面中央人物，身穿白色衬衫，背影（模糊），表情：不可见。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张东",
+                "gender": "男",
+                "clothing": "白色衬衫，灰色背心",
+                "position": "画面中央",
+                "action": "面部特写，愤怒质问",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "室内门口，光线较亮。",
+        "description_narrative": "近景平拍，张东面部特写，他愤怒地质问，表情扭曲，情绪达到顶点。",
+        "dialogue": "你还当我是你老公吗？",
+        "speaker": "张东",
+        "emotion": "愤怒",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；室内门口，光线较亮。；画面中央人物，身穿白色衬衫，灰色背心，面部特写，愤怒质问，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    }
+]

@@ -1,0 +1,769 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "视频标题卡片，紫色调，显示剧名《绝世医妃》及集数。",
+        "description_narrative": "视频开场展示标题卡片，紫色背景下显示金色大字“绝世医妃”及英文翻译，右下角标注“第十集”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "全景平拍镜头；视频标题卡片，紫色调，显示剧名《绝世医妃》及集数。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "深褐色背景，光线昏暗，几乎全黑。",
+        "description_narrative": "画面呈现深褐色暗部，几乎全黑，仅有微弱光影，左上角有白色竖排文字提示“影视效果 请勿模仿”。",
+        "dialogue": "对。",
+        "speaker": "囚犯",
+        "emotion": "顺从",
+        "duration": 0.64,
+        "description_visual": "特写平拍镜头；深褐色背景，光线昏暗，几乎全黑。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [],
+        "background": "传统中式建筑走廊，红色柱子，窗外绿树成荫。",
+        "description_narrative": "镜头扫过传统中式建筑的走廊，红色立柱排列，透过柱间可见窗外明亮的绿树，光影斑驳。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "中景平拍镜头（摇镜）；传统中式建筑走廊，红色柱子，窗外绿树成荫。。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "淡紫色古装长裙",
+                "position": "画面右侧",
+                "action": "背对镜头向走廊深处走去，衣摆飘动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "传统中式建筑走廊，红色柱子，窗外绿树。",
+        "description_narrative": "身穿淡紫色古装的医妃背对镜头，沿着红色立柱的走廊向前行走，衣袂飘飘，背景是明亮的窗外绿植。",
+        "dialogue": "可以。",
+        "speaker": "医妃",
+        "emotion": "平静",
+        "duration": 3.56,
+        "description_visual": "中景平拍镜头（跟拍）；传统中式建筑走廊，红色柱子，窗外绿树。；画面右侧人物，身穿淡紫色古装长裙，背对镜头向走廊深处走去，衣摆飘动，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "囚犯",
+                "gender": "男",
+                "clothing": "白色破旧布衣，头戴黑巾",
+                "position": "画面中央",
+                "action": "跪在地上，头部微抬，眼神游移",
+                "expression": "眉毛微挑，眼睛向右看，嘴巴微张"
+            }
+        ],
+        "background": "室内，光线柔和，背景模糊可见家具。",
+        "description_narrative": "身穿白色破旧布衣、头戴黑巾的囚犯跪在地上，面部特写，他眼神游移看向右侧，嘴角微动，似乎在辩解。",
+        "dialogue": "军饷之事与我无关，你怕是抓错人了吧。",
+        "speaker": "囚犯",
+        "emotion": "狡辩",
+        "duration": 2.64,
+        "description_visual": "近景平拍镜头；室内，光线柔和，背景模糊可见家具。；画面中央人物，身穿白色破旧布衣，头戴黑巾，跪在地上，头部微抬，眼神游移，表情：眉毛微挑，眼睛向右看，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "囚犯",
+                "gender": "男",
+                "clothing": "白色破旧布衣",
+                "position": "画面右下",
+                "action": "跪在地毯上，背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深青色服饰",
+                "position": "画面左侧",
+                "action": "站立，手持武器",
+                "expression": "不可见"
+            }
+        ],
+        "background": "中式房间，木质窗棂，书架，地毯。",
+        "description_narrative": "广角镜头展示房间全貌，囚犯跪在花纹地毯上背对镜头，左侧站立着一名深青色服饰的侍卫，房间内有木质窗棂和书架。",
+        "dialogue": "你怕是抓错人了吧",
+        "speaker": "囚犯",
+        "emotion": "恐惧",
+        "duration": 2.72,
+        "description_visual": "全景高角度镜头；中式房间，木质窗棂，书架，地毯。；画面右下人物，身穿白色破旧布衣，跪在地毯上，背对镜头，表情：不可见；画面左侧人物，身穿深青色服饰，站立，手持武器，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "囚犯",
+                "gender": "男",
+                "clothing": "白色破旧布衣，头戴黑巾",
+                "position": "画面左侧",
+                "action": "侧脸看向右方，身体微倾",
+                "expression": "眉毛舒展，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深青色服饰",
+                "position": "画面右侧背景",
+                "action": "站立，手部可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "囚犯侧脸特写，他看向右方，表情略显紧张，身后站着身穿深青色服饰的侍卫，仅露出部分身体。",
+        "dialogue": "你非。",
+        "speaker": "囚犯",
+        "emotion": "犹豫",
+        "duration": 0.64,
+        "description_visual": "近景侧拍镜头；室内，背景模糊。；画面左侧人物，身穿白色破旧布衣，头戴黑巾，侧脸看向右方，身体微倾，表情：眉毛舒展，眼睛直视，嘴巴紧闭；画面右侧背景人物，身穿深青色服饰，站立，手部可见，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "带有花卉图案的地毯，光线较暗。",
+        "description_narrative": "镜头俯拍地面，聚焦在带有红色花卉图案的地毯边缘，光线昏暗，营造压抑氛围。",
+        "dialogue": "还装傻。",
+        "speaker": "王爷",
+        "emotion": "愤怒",
+        "duration": 1.2,
+        "description_visual": "特写俯拍镜头；带有花卉图案的地毯，光线较暗。。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "低头俯视，眼神冷冽",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，窗棂背景，光线明亮。",
+        "description_narrative": "王爷身穿蓝紫色长袍，头戴精致银色发冠，低头俯视，眼神冷冽，面部表情严肃，背景是明亮的窗棂。",
+        "dialogue": "你要是不说，本王有的是办法让你生不如死。",
+        "speaker": "王爷",
+        "emotion": "威胁",
+        "duration": 3.88,
+        "description_visual": "近景平拍镜头；室内，窗棂背景，光线明亮。；画面中央人物，身穿蓝紫色长袍，银色发冠，低头俯视，眼神冷冽，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "囚犯",
+                "gender": "男",
+                "clothing": "白色破旧布衣，头戴黑巾",
+                "position": "画面中央",
+                "action": "趴在地上，抬头向上看",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "地面，光线昏暗。",
+        "description_narrative": "囚犯趴在地上，头部抬起向上看，脸上带着惊恐和痛苦的表情，眼神中流露出恐惧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "近景俯拍镜头；地面，光线昏暗。；画面中央人物，身穿白色破旧布衣，头戴黑巾，趴在地上，抬头向上看，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "囚犯",
+                "gender": "男",
+                "clothing": "白色破旧布衣，头戴黑巾",
+                "position": "画面中央",
+                "action": "趴在地上，抬头说话",
+                "expression": "眉毛微皱，眼睛看向斜上方，嘴巴张开"
+            }
+        ],
+        "background": "地面，光线昏暗。",
+        "description_narrative": "囚犯趴在地上，抬头向上说话，表情痛苦中带着一丝质问，眼神直视上方的人。",
+        "dialogue": "王爷。",
+        "speaker": "囚犯",
+        "emotion": "求饶",
+        "duration": 0.68,
+        "description_visual": "近景俯拍镜头；地面，光线昏暗。；画面中央人物，身穿白色破旧布衣，头戴黑巾，趴在地上，抬头说话，表情：眉毛微皱，眼睛看向斜上方，嘴巴张开。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "低头看着下方，表情冷漠",
+                "expression": "眉毛平展，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "王爷低头看着下方的囚犯，表情冷漠无情，眼神中没有丝毫怜悯，背景虚化。",
+        "dialogue": "难道想严刑逼供吗？",
+        "speaker": "囚犯",
+        "emotion": "质问",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；室内，背景模糊。；画面中央人物，身穿蓝紫色长袍，银色发冠，低头看着下方，表情冷漠，表情：眉毛平展，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "直视前方，眼神凌厉",
+                "expression": "眉毛微挑，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，木质背景。",
+        "description_narrative": "王爷正面特写，他直视前方，眼神凌厉，表情严肃，似乎对囚犯的质问感到不悦。",
+        "dialogue": "还装傻。",
+        "speaker": "王爷",
+        "emotion": "不耐烦",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；室内，木质背景。；画面中央人物，身穿蓝紫色长袍，银色发冠，直视前方，眼神凌厉，表情：眉毛微挑，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "开口说话，表情冷酷",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴张开"
+            }
+        ],
+        "background": "室内，木质背景。",
+        "description_narrative": "王爷开口下达命令，表情冷酷，眼神坚定，头部微微前倾，显示出威严。",
+        "dialogue": "手和舌头给我先留着，把他的腿。",
+        "speaker": "王爷",
+        "emotion": "残忍",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；室内，木质背景。；画面中央人物，身穿蓝紫色长袍，银色发冠，开口说话，表情冷酷，表情：眉毛微蹙，眼睛直视，嘴巴张开。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "囚犯",
+                "gender": "男",
+                "clothing": "白色破旧布衣",
+                "position": "画面下方",
+                "action": "趴在地上，身体蜷缩",
+                "expression": "痛苦"
+            }
+        ],
+        "background": "中式房间，木质家具，地毯。",
+        "description_narrative": "广角镜头展示房间，囚犯趴在地毯上身体蜷缩，周围是精致的木质家具和屏风，气氛压抑。",
+        "dialogue": "给我砍了。",
+        "speaker": "王爷",
+        "emotion": "决绝",
+        "duration": 0.96,
+        "description_visual": "全景高角度镜头；中式房间，木质家具，地毯。；画面下方人物，身穿白色破旧布衣，趴在地上，身体蜷缩，表情：痛苦。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "转头看向一侧，眼神微变",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "王爷突然转头看向左侧，眼神中闪过一丝惊讶或被打断的不悦，表情微变。",
+        "dialogue": "住手。",
+        "speaker": "医妃",
+        "emotion": "急切",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；室内，背景模糊。；画面中央人物，身穿蓝紫色长袍，银色发冠，转头看向一侧，眼神微变，表情：眉毛微挑，眼睛看向左侧，嘴唇紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "淡紫色古装，金色刺绣",
+                "position": "画面中央",
+                "action": "正面直视，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，木质背景。",
+        "description_narrative": "医妃正面特写，她身穿淡紫色古装，表情严肃地质问，眼神坚定，嘴巴微张正在说话。",
+        "dialogue": "你怎么来了？",
+        "speaker": "王爷",
+        "emotion": "惊讶",
+        "duration": 1.12,
+        "description_visual": "近景平拍镜头；室内，木质背景。；画面中央人物，身穿淡紫色古装，金色刺绣，正面直视，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "侧脸看向一侧，表情不悦",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴唇微张"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "王爷侧脸特写，他看向一侧，表情不悦，似乎对医妃的干涉感到不满，嘴巴微张。",
+        "dialogue": "圣龙帝国法律严禁严刑逼供，王爷这是要带头违反吗？",
+        "speaker": "医妃",
+        "emotion": "质问",
+        "duration": 3.84,
+        "description_visual": "近景平拍镜头；室内，背景模糊。；画面中央人物，身穿蓝紫色长袍，银色发冠，侧脸看向一侧，表情不悦，表情：眉毛微蹙，眼睛看向左侧，嘴唇微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "淡紫色古装，金色刺绣",
+                "position": "画面中央",
+                "action": "正面直视，表情坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴嘟起"
+            }
+        ],
+        "background": "室内，木质背景。",
+        "description_narrative": "医妃正面特写，她表情坚定，眼神中带着挑战，嘴巴嘟起，似乎在等待对方的回答。",
+        "dialogue": "你在教我做事。",
+        "speaker": "王爷",
+        "emotion": "愤怒",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；室内，木质背景。；画面中央人物，身穿淡紫色古装，金色刺绣，正面直视，表情坚定，表情：眉毛微蹙，眼睛直视，嘴巴嘟起。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "侧脸看向一侧，表情冷傲",
+                "expression": "眉毛平展，眼睛看向左侧，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "王爷侧脸特写，表情冷傲，眼神中透露出不屑，似乎对医妃的说教不以为然。",
+        "dialogue": "王爷身份尊贵，自然是敢违反法令。",
+        "speaker": "医妃",
+        "emotion": "讽刺",
+        "duration": 2.76,
+        "description_visual": "近景平拍镜头；室内，背景模糊。；画面中央人物，身穿蓝紫色长袍，银色发冠，侧脸看向一侧，表情冷傲，表情：眉毛平展，眼睛看向左侧，嘴唇紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "淡紫色古装，金色刺绣",
+                "position": "画面中央",
+                "action": "正面直视，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，木质背景。",
+        "description_narrative": "医妃正面特写，表情严肃，眼神坚定，继续陈述自己的观点，嘴巴微张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.88,
+        "description_visual": "近景平拍镜头；室内，木质背景。；画面中央人物，身穿淡紫色古装，金色刺绣，正面直视，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "侧脸看向一侧，表情冷漠",
+                "expression": "眉毛平展，眼睛看向左侧，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "王爷侧脸特写，表情冷漠，眼神中没有波动，似乎在听医妃说完。",
+        "dialogue": "但万物有灵，他也是一个活生生的人。",
+        "speaker": "医妃",
+        "emotion": "悲悯",
+        "duration": 2.88,
+        "description_visual": "近景平拍镜头；室内，背景模糊。；画面中央人物，身穿蓝紫色长袍，银色发冠，侧脸看向一侧，表情冷漠，表情：眉毛平展，眼睛看向左侧，嘴唇紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "正面直视，眼神微动",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "王爷正面特写，眼神微动，似乎被医妃的话触动，嘴巴微张准备说话。",
+        "dialogue": "你可知他犯的？",
+        "speaker": "王爷",
+        "emotion": "质问",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；室内，背景模糊。；画面中央人物，身穿蓝紫色长袍，银色发冠，正面直视，眼神微动，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "正面直视，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴张开"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "王爷正面特写，表情严肃，强调囚犯的罪行，眼神坚定，嘴巴张开说话。",
+        "dialogue": "他犯的可是死罪",
+        "speaker": "王爷",
+        "emotion": "严厉",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；室内，背景模糊。；画面中央人物，身穿蓝紫色长袍，银色发冠，正面直视，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴张开。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "淡紫色古装，金色刺绣",
+                "position": "画面中央",
+                "action": "正面直视，表情坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴嘟起"
+            }
+        ],
+        "background": "室内，木质背景。",
+        "description_narrative": "医妃正面特写，表情坚定，眼神中带着不屈，嘴巴嘟起，似乎在反驳王爷的观点。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "近景平拍镜头；室内，木质背景。；画面中央人物，身穿淡紫色古装，金色刺绣，正面直视，表情坚定，表情：眉毛微蹙，眼睛直视，嘴巴嘟起。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "淡紫色古装，金色刺绣",
+                "position": "画面中央",
+                "action": "正面直视，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，木质背景。",
+        "description_narrative": "医妃正面特写，表情严肃，继续阐述法律的重要性，眼神坚定，嘴巴微张。",
+        "dialogue": "无论是何罪责，自有法律决断。",
+        "speaker": "医妃",
+        "emotion": "理智",
+        "duration": 2.6,
+        "description_visual": "近景平拍镜头；室内，木质背景。；画面中央人物，身穿淡紫色古装，金色刺绣，正面直视，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "侧脸看向一侧，表情不悦",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "王爷侧脸特写，表情不悦，眼神中带着怒气，似乎对医妃的坚持感到厌烦。",
+        "dialogue": "王爷岂能随意害人性命？",
+        "speaker": "医妃",
+        "emotion": "质问",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；室内，背景模糊。；画面中央人物，身穿蓝紫色长袍，银色发冠，侧脸看向一侧，表情不悦，表情：眉毛微蹙，眼睛看向左侧，嘴唇紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "淡紫色古装，金色刺绣",
+                "position": "画面中央",
+                "action": "正面直视，表情愤怒",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，木质背景。",
+        "description_narrative": "医妃正面特写，表情愤怒，眼神中带着怒火，嘴巴微张，说出激烈的话语。",
+        "dialogue": "你去s吧",
+        "speaker": "王爷",
+        "emotion": "暴怒",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头；室内，木质背景。；画面中央人物，身穿淡紫色古装，金色刺绣，正面直视，表情愤怒，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深青色服饰",
+                "position": "画面中央",
+                "action": "站立，面部模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "画面模糊，一名身穿深青色服饰的侍卫站在画面中央，面部不清，似乎是过渡镜头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；室内，背景模糊。；画面中央人物，身穿深青色服饰，站立，面部模糊，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "蓝紫色长袍",
+                "position": "画面中央",
+                "action": "面部特写，眼神锐利",
+                "expression": "眉毛紧锁，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景虚化。",
+        "description_narrative": "王爷面部大特写，镜头推进，他眼神锐利，眉毛紧锁，表情极度愤怒或痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "大特写平拍镜头（推进）；室内，背景虚化。；画面中央人物，身穿蓝紫色长袍，面部特写，眼神锐利，表情：眉毛紧锁，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "深青色服饰",
+                "position": "画面中央",
+                "action": "正面直视，表情平静",
+                "expression": "眉毛平展，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "身穿深青色服饰的侍卫正面特写，表情平静，眼神直视前方，似乎听到了什么。",
+        "dialogue": "嗯。",
+        "speaker": "侍卫",
+        "emotion": "回应",
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；室内，背景模糊。；画面中央人物，身穿深青色服饰，正面直视，表情平静，表情：眉毛平展，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [],
+        "background": "模糊的背景，可能是衣物或家具。",
+        "description_narrative": "画面快速摇动，呈现模糊的色块，可能是人物移动或镜头切换的过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的背景，可能是衣物或家具。。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [],
+        "background": "模糊的背景，可能是衣物。",
+        "description_narrative": "画面继续快速摇动，呈现模糊的蓝灰色块，动态感强烈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的背景，可能是衣物。。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "淡紫色古装",
+                "position": "画面中央",
+                "action": "低头查看，表情担忧",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "医妃面部大特写，她低头查看，表情充满担忧和焦急，眉毛紧锁，嘴巴微张呼唤。",
+        "dialogue": "王爷。",
+        "speaker": "医妃",
+        "emotion": "担忧",
+        "duration": 0.92,
+        "description_visual": "大特写平拍镜头；室内，背景模糊。；画面中央人物，身穿淡紫色古装，低头查看，表情担忧，表情：眉毛紧锁，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医妃",
+                "gender": "女",
+                "clothing": "淡紫色古装",
+                "position": "画面中央",
+                "action": "低头查看，表情关切",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴张开"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "医妃面部大特写，她继续低头查看，表情关切，嘴巴张开询问王爷的情况。",
+        "dialogue": "王爷，你没事吧？",
+        "speaker": "医妃",
+        "emotion": "关切",
+        "duration": 0.96,
+        "description_visual": "大特写平拍镜头；室内，背景模糊。；画面中央人物，身穿淡紫色古装，低头查看，表情关切，表情：眉毛微蹙，眼睛下视，嘴巴张开。"
+    }
+]

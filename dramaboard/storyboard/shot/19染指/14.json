@@ -1,0 +1,971 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "倒地男子",
+                "gender": "男",
+                "clothing": "白衬衫黑马甲",
+                "position": "前景",
+                "action": "跪趴在地上，左手撑地，身体前倾",
+                "expression": "眉毛紧皱，眼睛看向地面，嘴巴微张"
+            },
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "背景中央",
+                "action": "站立，双手扶着身后的女子",
+                "expression": "眉毛微蹙，眼神冷峻，嘴巴紧闭"
+            },
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "背景中央",
+                "action": "被沈济川护在身后，双手抓着沈济川的手臂",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "林大小姐",
+                "gender": "女",
+                "clothing": "银色亮片露肩长裙",
+                "position": "背景左侧",
+                "action": "站立，侧身看着中央的两人",
+                "expression": "眉毛舒展，眼神平静，嘴巴闭合"
+            }
+        ],
+        "background": "高档会所大厅，深色地砖，天花板有筒灯，光线偏冷",
+        "description_narrative": "全景俯拍镜头，高档会所大厅内，一名身穿白衬衫黑马甲的男子跪趴在地上，左手撑地。背景处，沈济川身穿灰色格纹西装，双手扶着身后的染染，染染身穿白色亮片长裙，神情惊慌。左侧林大小姐身穿银色长裙站立旁观。",
+        "dialogue": "大小姐没事吧",
+        "speaker": "倒地男子",
+        "emotion": "关切",
+        "duration": 1.32,
+        "description_visual": "全景俯拍镜头；高档会所大厅，深色地砖，天花板有筒灯，光线偏冷；前景人物，身穿白衬衫黑马甲，跪趴在地上，左手撑地，身体前倾，表情：眉毛紧皱，眼睛看向地面，嘴巴微张；背景中央人物，身穿灰色格纹西装，站立，双手扶着身后的女子，表情：眉毛微蹙，眼神冷峻，嘴巴紧闭；背景中央人物，身穿白色亮片挂脖长裙，被沈济川护在身后，双手抓着沈济川的手臂，表情：眉毛上扬，眼睛睁大，嘴巴微张；背景左侧人物，身穿银色亮片露肩长裙，站立，侧身看着中央的两人，表情：眉毛舒展，眼神平静，嘴巴闭合。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林大小姐",
+                "gender": "女",
+                "clothing": "银色亮片露肩长裙",
+                "position": "前景左侧",
+                "action": "侧脸，头部微转",
+                "expression": "眉毛微挑，眼神看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，蓝色调灯光，可见部分沙发和酒柜",
+        "description_narrative": "过肩特写镜头，前景是林大小姐模糊的侧脸和头发，背景虚化，可见蓝色调的墙壁和酒柜。",
+        "dialogue": "沈济川",
+        "speaker": "林大小姐",
+        "emotion": "挑衅",
+        "duration": 1.2,
+        "description_visual": "特写过肩镜头；模糊的室内背景，蓝色调灯光，可见部分沙发和酒柜；前景左侧人物，身穿银色亮片露肩长裙，侧脸，头部微转，表情：眉毛微挑，眼神看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林大小姐",
+                "gender": "女",
+                "clothing": "银色亮片露肩长裙",
+                "position": "画面中央",
+                "action": "面对镜头，身体微侧",
+                "expression": "眉毛舒展，眼神略带嘲讽，嘴角微扬"
+            }
+        ],
+        "background": "模糊的室内背景，有光斑",
+        "description_narrative": "近景平拍镜头，林大小姐面对镜头，身穿银色亮片露肩长裙，佩戴珍珠项链，神情略带嘲讽地说话。",
+        "dialogue": "这样的结果",
+        "speaker": "林大小姐",
+        "emotion": "嘲讽",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；模糊的室内背景，有光斑；画面中央人物，身穿银色亮片露肩长裙，面对镜头，身体微侧，表情：眉毛舒展，眼神略带嘲讽，嘴角微扬。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "眉毛微蹙，眼神冷冽，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，可见绿色出口指示灯",
+        "description_narrative": "近景平拍镜头，沈济川身穿灰色格纹西装，系黑色领带，神情冷峻地看着对方。",
+        "dialogue": "检查胎记要好多了吧",
+        "speaker": "沈济川",
+        "emotion": "冷漠",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；模糊的室内背景，可见绿色出口指示灯；画面中央人物，身穿灰色格纹西装，黑色领带，站立，头部微侧，表情：眉毛微蹙，眼神冷冽，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林大小姐",
+                "gender": "女",
+                "clothing": "银色亮片露肩长裙",
+                "position": "画面左侧",
+                "action": "侧脸靠近沈济川",
+                "expression": "眉毛微挑，眼神直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的蓝色背景",
+        "description_narrative": "侧面特写镜头，林大小姐侧脸靠近沈济川，长发披肩，神情认真。",
+        "dialogue": "我们不一直都是",
+        "speaker": "林大小姐",
+        "emotion": "认真",
+        "duration": 1.24,
+        "description_visual": "特写侧拍镜头；模糊的蓝色背景；画面左侧人物，身穿银色亮片露肩长裙，侧脸靠近沈济川，表情：眉毛微挑，眼神直视，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "站立，视线向下",
+                "expression": "眉毛微蹙，眼神下移，嘴角紧绷"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景平拍镜头，沈济川视线向下，神情不耐烦，身穿灰色格纹西装。",
+        "dialogue": "一条船上的蚂蚱",
+        "speaker": "沈济川",
+        "emotion": "不耐烦",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿灰色格纹西装，黑色领带，站立，视线向下，表情：眉毛微蹙，眼神下移，嘴角紧绷。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林大小姐",
+                "gender": "女",
+                "clothing": "银色亮片露肩长裙",
+                "position": "画面中央",
+                "action": "面对镜头，身体微前倾",
+                "expression": "眉毛微蹙，眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，有光斑",
+        "description_narrative": "近景平拍镜头，林大小姐神情锐利，身体微前倾，似乎在警告对方。",
+        "dialogue": "你那两百亿的",
+        "speaker": "林大小姐",
+        "emotion": "警告",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；模糊的室内背景，有光斑；画面中央人物，身穿银色亮片露肩长裙，面对镜头，身体微前倾，表情：眉毛微蹙，眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "眉毛舒展，眼神冷淡，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景平拍镜头，沈济川神情冷淡，侧头看向一边，不予理会。",
+        "dialogue": "就不劳烦林大小姐操心了",
+        "speaker": "沈济川",
+        "emotion": "冷淡",
+        "duration": 2.44,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿灰色格纹西装，黑色领带，站立，头部微侧，表情：眉毛舒展，眼神冷淡，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林大小姐",
+                "gender": "女",
+                "clothing": "银色亮片露肩长裙",
+                "position": "画面中央",
+                "action": "面对镜头，嘴唇嘟起",
+                "expression": "眉毛微挑，眼神戏谑，嘴巴嘟起"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景平拍镜头，林大小姐嘴唇嘟起，做出一个夸张的口型，神情戏谑。",
+        "dialogue": "多谢",
+        "speaker": "林大小姐",
+        "emotion": "戏谑",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿银色亮片露肩长裙，面对镜头，嘴唇嘟起，表情：眉毛微挑，眼神戏谑，嘴巴嘟起。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装，戴眼镜",
+                "position": "画面左侧",
+                "action": "低头，双手握着染染的手腕",
+                "expression": "眉毛微蹙，眼神专注，嘴巴微张"
+            },
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "画面右侧",
+                "action": "低头看着自己的手，身体微僵",
+                "expression": "眉毛下垂，眼神担忧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内大厅，光线明亮",
+        "description_narrative": "中景平拍镜头，温先生身穿黑色西装，戴眼镜，低头握着染染的手腕查看。染染身穿白色亮片长裙，低头担忧地看着。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；室内大厅，光线明亮；画面左侧人物，身穿黑色西装，戴眼镜，低头，双手握着染染的手腕，表情：眉毛微蹙，眼神专注，嘴巴微张；画面右侧人物，身穿白色亮片挂脖长裙，低头看着自己的手，身体微僵，表情：眉毛下垂，眼神担忧，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "画面中央",
+                "action": "抬头，嘴巴微张",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写平拍镜头，染染抬头，神情焦急，嘴巴微张似乎在喊人。",
+        "dialogue": "止墨",
+        "speaker": "染染",
+        "emotion": "焦急",
+        "duration": 1.6,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色亮片挂脖长裙，抬头，嘴巴微张，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装，戴眼镜",
+                "position": "画面中央",
+                "action": "被助理搀扶着，身体微晃",
+                "expression": "眉毛紧皱，眼神痛苦，嘴巴微张"
+            },
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "双手扶着温先生的手臂",
+                "expression": "眉毛微蹙，眼神关切，嘴巴紧闭"
+            },
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "画面左侧",
+                "action": "背对镜头，手扶着温先生",
+                "expression": "眉毛下垂，眼神担忧，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅，光线明亮",
+        "description_narrative": "中景平拍镜头，温先生被助理搀扶着，身体微晃。染染在左侧背对镜头，手扶着温先生，神情担忧。",
+        "dialogue": "赶紧去医院吧",
+        "speaker": "染染",
+        "emotion": "焦急",
+        "duration": 0.72,
+        "description_visual": "中景平拍镜头；室内大厅，光线明亮；画面中央人物，身穿黑色西装，戴眼镜，被助理搀扶着，身体微晃，表情：眉毛紧皱，眼神痛苦，嘴巴微张；画面右侧人物，身穿黑色西装，双手扶着温先生的手臂，表情：眉毛微蹙，眼神关切，嘴巴紧闭；画面左侧人物，身穿白色亮片挂脖长裙，背对镜头，手扶着温先生，表情：眉毛下垂，眼神担忧，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装，戴眼镜",
+                "position": "画面中央",
+                "action": "被搀扶，头部微转",
+                "expression": "眉毛微蹙，眼神看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景平拍镜头，温先生被搀扶着，头部微转，神情有些虚弱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿黑色西装，戴眼镜，被搀扶，头部微转，表情：眉毛微蹙，眼神看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "双手紧紧抓着温先生的手臂",
+                "expression": "眉毛紧皱，眼神严肃，嘴巴紧闭"
+            },
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装，戴眼镜",
+                "position": "画面右侧",
+                "action": "被抓着手臂，身体微侧",
+                "expression": "眉毛微蹙，眼神看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅，吧台背景",
+        "description_narrative": "中景平拍镜头，助理双手紧紧抓着温先生的手臂，神情严肃。温先生被抓着，身体微侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "中景平拍镜头；室内大厅，吧台背景；画面中央人物，身穿黑色西装，双手紧紧抓着温先生的手臂，表情：眉毛紧皱，眼神严肃，嘴巴紧闭；画面右侧人物，身穿黑色西装，戴眼镜，被抓着手臂，身体微侧，表情：眉毛微蹙，眼神看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "画面左侧",
+                "action": "背对镜头，头部微转",
+                "expression": "眉毛微蹙，眼神看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内大厅，吧台背景",
+        "description_narrative": "中景侧拍镜头，染染背对镜头，头部微转看向右侧，神情担忧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "中景侧拍镜头；室内大厅，吧台背景；画面左侧人物，身穿白色亮片挂脖长裙，背对镜头，头部微转，表情：眉毛微蹙，眼神看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "Unknown Man",
+                "gender": "男",
+                "clothing": "酒红色西装，蓝色领带",
+                "position": "画面右侧",
+                "action": "面对染染，身体微前倾",
+                "expression": "眉毛紧皱，眼神焦急，嘴巴微张"
+            },
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "画面左侧",
+                "action": "背对镜头，头部微侧",
+                "expression": "眉毛微蹙，眼神看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内大厅，窗帘背景",
+        "description_narrative": "中近景平拍镜头，一名身穿酒红色西装的男子面对染染，身体微前倾，神情焦急地说话。",
+        "dialogue": "我们也去医院看看",
+        "speaker": "Unknown Man",
+        "emotion": "焦急",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；室内大厅，窗帘背景；画面右侧人物，身穿酒红色西装，蓝色领带，面对染染，身体微前倾，表情：眉毛紧皱，眼神焦急，嘴巴微张；画面左侧人物，身穿白色亮片挂脖长裙，背对镜头，头部微侧，表情：眉毛微蹙，眼神看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "站立，头部微低",
+                "expression": "眉毛微蹙，眼神下移，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景平拍镜头，沈济川站立，头部微低，神情冷淡。",
+        "dialogue": "走",
+        "speaker": "沈济川",
+        "emotion": "冷淡",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿灰色格纹西装，黑色领带，站立，头部微低，表情：眉毛微蹙，眼神下移，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "画面左侧",
+                "action": "行走，头部微转",
+                "expression": "眉毛微蹙，眼神看向右侧，嘴巴紧闭"
+            },
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面右侧",
+                "action": "行走，伸手示意",
+                "expression": "眉毛舒展，眼神看向染染，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅，光线明亮，地面反光",
+        "description_narrative": "全景跟拍镜头，沈济川和染染并排走在光滑的地面上，沈济川伸手示意方向。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.44,
+        "description_visual": "全景平拍镜头（跟拍）；室内大厅，光线明亮，地面反光；画面左侧人物，身穿白色亮片挂脖长裙，行走，头部微转，表情：眉毛微蹙，眼神看向右侧，嘴巴紧闭；画面右侧人物，身穿灰色格纹西装，行走，伸手示意，表情：眉毛舒展，眼神看向染染，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "侧脸，头部微转",
+                "expression": "眉毛微蹙，眼神看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的浅色背景",
+        "description_narrative": "特写平拍镜头，沈济川侧脸，头部微转，神情严肃。",
+        "dialogue": "沈先生",
+        "speaker": "女医生",
+        "emotion": "平静",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；模糊的浅色背景；画面中央人物，身穿灰色格纹西装，侧脸，头部微转，表情：眉毛微蹙，眼神看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "侧脸，头部微转",
+                "expression": "眉毛微蹙，眼神看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的浅色背景",
+        "description_narrative": "近景平拍镜头，沈济川侧脸，神情严肃地听着。",
+        "dialogue": "你的未婚妻",
+        "speaker": "女医生",
+        "emotion": "平静",
+        "duration": 2.08,
+        "description_visual": "近景平拍镜头；模糊的浅色背景；画面中央人物，身穿灰色格纹西装，侧脸，头部微转，表情：眉毛微蹙，眼神看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女医生",
+                "gender": "女",
+                "clothing": "白大褂，挂听诊器",
+                "position": "画面中央",
+                "action": "转身，头部微侧",
+                "expression": "眉毛舒展，眼神平静，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，绿色门框",
+        "description_narrative": "中近景平拍镜头，女医生身穿白大褂，挂听诊器，转身说话，神情平静。",
+        "dialogue": "只是受到了惊吓",
+        "speaker": "女医生",
+        "emotion": "平静",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；医院走廊，绿色门框；画面中央人物，身穿白大褂，挂听诊器，转身，头部微侧，表情：眉毛舒展，眼神平静，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面中央",
+                "action": "低头，眼神下移",
+                "expression": "眉毛舒展，眼神下移，嘴巴微抿"
+            }
+        ],
+        "background": "模糊的浅色背景",
+        "description_narrative": "近景平拍镜头，沈济川低头，眼神下移，神情放松了一些。",
+        "dialogue": "休息休息就好了",
+        "speaker": "女医生",
+        "emotion": "平静",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；模糊的浅色背景；画面中央人物，身穿灰色格纹西装，低头，眼神下移，表情：眉毛舒展，眼神下移，嘴巴微抿。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "伸出手，手背有血迹",
+                "expression": "眉毛微蹙，眼神专注，嘴巴微张"
+            },
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂",
+                "position": "画面右侧",
+                "action": "双手拿着纱布包扎",
+                "expression": "眉毛微蹙，眼神专注，嘴巴紧闭"
+            }
+        ],
+        "background": "医院诊室，白色墙壁",
+        "description_narrative": "特写俯拍镜头，温先生伸出手，手背有血迹。男医生双手拿着纱布正在包扎。",
+        "dialogue": "谢谢医生",
+        "speaker": "沈济川",
+        "emotion": "感激",
+        "duration": 2.96,
+        "description_visual": "特写俯拍镜头；医院诊室，白色墙壁；画面左侧人物，身穿黑色西装，伸出手，手背有血迹，表情：眉毛微蹙，眼神专注，嘴巴微张；画面右侧人物，身穿白大褂，双手拿着纱布包扎，表情：眉毛微蹙，眼神专注，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂",
+                "position": "画面中央",
+                "action": "低头，双手动作",
+                "expression": "眉毛紧皱，眼神专注，嘴巴紧闭"
+            }
+        ],
+        "background": "医院诊室，白色墙壁",
+        "description_narrative": "近景平拍镜头，男医生低头，神情专注地包扎伤口。",
+        "dialogue": "温先生",
+        "speaker": "男医生",
+        "emotion": "严肃",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；医院诊室，白色墙壁；画面中央人物，身穿白大褂，低头，双手动作，表情：眉毛紧皱，眼神专注，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装，戴眼镜",
+                "position": "画面中央",
+                "action": "坐着，手被包扎",
+                "expression": "眉毛微蹙，眼神看向医生，嘴巴微张"
+            }
+        ],
+        "background": "医院诊室，白色墙壁",
+        "description_narrative": "中近景平拍镜头，温先生坐着，手被包扎，神情严肃地看着医生。",
+        "dialogue": "你的伤口太大",
+        "speaker": "男医生",
+        "emotion": "严肃",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；医院诊室，白色墙壁；画面中央人物，身穿黑色西装，戴眼镜，坐着，手被包扎，表情：眉毛微蹙，眼神看向医生，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男医生",
+                "gender": "男",
+                "clothing": "白大褂",
+                "position": "画面中央",
+                "action": "抬头，说话",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            }
+        ],
+        "background": "医院诊室，白色墙壁",
+        "description_narrative": "近景平拍镜头，男医生抬头，神情严肃地解释病情。",
+        "dialogue": "为了防止感染",
+        "speaker": "男医生",
+        "emotion": "严肃",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；医院诊室，白色墙壁；画面中央人物，身穿白大褂，抬头，说话，表情：眉毛微蹙，眼神严肃，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装，戴眼镜",
+                "position": "画面中央",
+                "action": "坐着，手被包扎",
+                "expression": "眉毛微蹙，眼神看向医生，嘴巴微张"
+            }
+        ],
+        "background": "医院诊室，白色墙壁",
+        "description_narrative": "中近景平拍镜头，温先生坐着，神情严肃地听着医生的建议。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；医院诊室，白色墙壁；画面中央人物，身穿黑色西装，戴眼镜，坐着，手被包扎，表情：眉毛微蹙，眼神看向医生，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "灰色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛微蹙，眼神下移，嘴巴微张"
+            }
+        ],
+        "background": "医院诊室，木门",
+        "description_narrative": "中近景平拍镜头，助理身穿灰色双排扣西装，站立低头，神情关切。",
+        "dialogue": "少爷 我留下来陪您吧",
+        "speaker": "助理",
+        "emotion": "关切",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；医院诊室，木门；画面中央人物，身穿灰色双排扣西装，站立，低头，表情：眉毛微蹙，眼神下移，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装，戴眼镜",
+                "position": "画面中央",
+                "action": "坐着，头部微转",
+                "expression": "眉毛舒展，眼神冷淡，嘴巴微张"
+            }
+        ],
+        "background": "医院诊室，白色墙壁",
+        "description_narrative": "近景平拍镜头，温先生坐着，头部微转，神情冷淡地拒绝。",
+        "dialogue": "不用",
+        "speaker": "温先生",
+        "emotion": "冷淡",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；医院诊室，白色墙壁；画面中央人物，身穿黑色西装，戴眼镜，坐着，头部微转，表情：眉毛舒展，眼神冷淡，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "灰色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "眉毛微蹙，眼神看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "医院诊室，木门",
+        "description_narrative": "中近景平拍镜头，助理站立，头部微侧，听着指令。",
+        "dialogue": "去公司把文件拿来",
+        "speaker": "温先生",
+        "emotion": "命令",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；医院诊室，木门；画面中央人物，身穿灰色双排扣西装，站立，头部微侧，表情：眉毛微蹙，眼神看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装，戴眼镜",
+                "position": "画面中央",
+                "action": "坐着，头部微抬",
+                "expression": "眉毛微蹙，眼神看向右上方，嘴巴微张"
+            }
+        ],
+        "background": "医院诊室，白色墙壁",
+        "description_narrative": "近景平拍镜头，温先生坐着，头部微抬，神情严肃地下达指令。",
+        "dialogue": "还有今晚的事情",
+        "speaker": "温先生",
+        "emotion": "严肃",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；医院诊室，白色墙壁；画面中央人物，身穿黑色西装，戴眼镜，坐着，头部微抬，表情：眉毛微蹙，眼神看向右上方，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "灰色双排扣西装",
+                "position": "画面中央",
+                "action": "站立，头部微低",
+                "expression": "眉毛微蹙，眼神下移，嘴巴微张"
+            }
+        ],
+        "background": "医院诊室，木门",
+        "description_narrative": "中近景平拍镜头，助理站立，头部微低，神情严肃地接受指令。",
+        "dialogue": "彻查",
+        "speaker": "温先生",
+        "emotion": "命令",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；医院诊室，木门；画面中央人物，身穿灰色双排扣西装，站立，头部微低，表情：眉毛微蹙，眼神下移，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "灰色双排扣西装",
+                "position": "画面中央",
+                "action": "转身离开，步伐快",
+                "expression": "眉毛微蹙，眼神向前，嘴巴紧闭"
+            },
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "背景左侧",
+                "action": "坐着，看着助理离开",
+                "expression": "眉毛舒展，眼神平静，嘴巴紧闭"
+            }
+        ],
+        "background": "医院诊室，病床",
+        "description_narrative": "中景跟拍镜头，助理转身快步离开诊室。背景处温先生坐着，看着助理离开。",
+        "dialogue": "是",
+        "speaker": "助理",
+        "emotion": "服从",
+        "duration": 0.76,
+        "description_visual": "中景平拍镜头（跟拍）；医院诊室，病床；画面中央人物，身穿灰色双排扣西装，转身离开，步伐快，表情：眉毛微蹙，眼神向前，嘴巴紧闭；背景左侧人物，身穿黑色西装，坐着，看着助理离开，表情：眉毛舒展，眼神平静，嘴巴紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "画面左侧",
+                "action": "行走，手被牵着",
+                "expression": "眉毛微蹙，眼神向前，嘴巴紧闭"
+            },
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面右侧",
+                "action": "行走，牵着染染的手",
+                "expression": "眉毛舒展，眼神看向染染，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，白色墙壁",
+        "description_narrative": "中景跟拍镜头，沈济川牵着染染的手走在医院走廊里，两人神情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头（跟拍）；医院走廊，白色墙壁；画面左侧人物，身穿白色亮片挂脖长裙，行走，手被牵着，表情：眉毛微蹙，眼神向前，嘴巴紧闭；画面右侧人物，身穿灰色格纹西装，行走，牵着染染的手，表情：眉毛舒展，眼神看向染染，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "画面中央",
+                "action": "行走，头部微转",
+                "expression": "眉毛微蹙，眼神看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，模糊背景",
+        "description_narrative": "中近景平拍镜头，染染行走，头部微转，似乎在回应呼唤。",
+        "dialogue": "染染",
+        "speaker": "沈济川",
+        "emotion": "呼唤",
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；医院走廊，模糊背景；画面中央人物，身穿白色亮片挂脖长裙，行走，头部微转，表情：眉毛微蹙，眼神看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温先生",
+                "gender": "男",
+                "clothing": "黑色西装，戴眼镜",
+                "position": "画面中央",
+                "action": "站在门口，手插口袋",
+                "expression": "眉毛舒展，眼神平静，嘴巴微张"
+            }
+        ],
+        "background": "医院诊室门口，病床",
+        "description_narrative": "全景平拍镜头，温先生站在诊室门口，手插口袋，神情平静地看着前方。",
+        "dialogue": "准备走吧",
+        "speaker": "温先生",
+        "emotion": "平静",
+        "duration": 0.96,
+        "description_visual": "全景平拍镜头；医院诊室门口，病床；画面中央人物，身穿黑色西装，戴眼镜，站在门口，手插口袋，表情：眉毛舒展，眼神平静，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "染染",
+                "gender": "女",
+                "clothing": "白色亮片挂脖长裙",
+                "position": "画面左侧",
+                "action": "侧脸，头部微转",
+                "expression": "眉毛微蹙，眼神看向右侧，嘴巴紧闭"
+            },
+            {
+                "name": "沈济川",
+                "gender": "男",
+                "clothing": "灰色格纹西装",
+                "position": "画面右侧",
+                "action": "侧脸，头部微转",
+                "expression": "眉毛舒展，眼神看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "医院走廊，绿色急诊牌",
+        "description_narrative": "侧面特写镜头，染染和沈济川侧脸，染染头部微转，似乎在听温先生说话。",
+        "dialogue": "飞机准备好了",
+        "speaker": "温先生",
+        "emotion": "平静",
+        "duration": 2.08,
+        "description_visual": "特写侧拍镜头；医院走廊，绿色急诊牌；画面左侧人物，身穿白色亮片挂脖长裙，侧脸，头部微转，表情：眉毛微蹙，眼神看向右侧，嘴巴紧闭；画面右侧人物，身穿灰色格纹西装，侧脸，头部微转，表情：眉毛舒展，眼神看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色背景",
+        "description_narrative": "白色背景，无画面内容。",
+        "dialogue": "诶 染染",
+        "speaker": "温先生",
+        "emotion": "呼唤",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；白色背景。"
+    }
+]

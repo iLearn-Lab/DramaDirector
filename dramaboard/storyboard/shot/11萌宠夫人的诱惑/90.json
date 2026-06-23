@@ -1,0 +1,747 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白宇",
+                "gender": "男",
+                "clothing": "灰色三件套西装，蓝白条纹领带",
+                "position": "画面中央",
+                "action": "站立，双手插兜，身体微前倾",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            },
+            {
+                "name": "欣然",
+                "gender": "女",
+                "clothing": "米色珍珠领连衣裙",
+                "position": "画面右侧",
+                "action": "坐在沙发上，双手交叠放在腿上",
+                "expression": "眉毛下垂，眼睛视线下移，嘴巴紧闭"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左前景",
+                "action": "背对镜头坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "豪华客厅，红色花纹窗帘，光线柔和",
+        "description_narrative": "全景镜头，白宇身穿灰色西装站在客厅中央，神情焦虑地看着前方，欣然坐在右侧沙发上低头忧虑，奶奶背对镜头坐在左侧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.53,
+        "description_visual": "全景平拍镜头；豪华客厅，红色花纹窗帘，光线柔和；画面中央人物，身穿灰色三件套西装，蓝白条纹领带，站立，双手插兜，身体微前倾，表情：眉毛微蹙，眼睛直视前方，嘴巴微张；画面右侧人物，身穿米色珍珠领连衣裙，坐在沙发上，双手交叠放在腿上，表情：眉毛下垂，眼睛视线下移，嘴巴紧闭；画面左前景人物，身穿蓝色丝绒旗袍，背对镜头坐着，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "姐夫",
+                "gender": "男",
+                "clothing": "米色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，低头握笔书写",
+                "expression": "眉毛舒展，眼睛注视纸面，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木桌，玻璃杯，文件",
+        "description_narrative": "中近景俯拍，姐夫身穿米色西装坐在桌前，正低头专注地在文件上书写。",
+        "dialogue": "姐夫",
+        "speaker": "白宇",
+        "emotion": null,
+        "duration": 0.77,
+        "description_visual": "中近景俯拍镜头；深色木桌，玻璃杯，文件；画面中央人物，身穿米色西装，白色衬衫，坐在桌前，低头握笔书写，表情：眉毛舒展，眼睛注视纸面，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "姐夫",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面中央",
+                "action": "手部特写，握笔在纸上书写",
+                "expression": "不可见"
+            }
+        ],
+        "background": "文件纸张，深色桌面",
+        "description_narrative": "特写镜头聚焦在姐夫的手部，他正握着黑色笔在文件上书写。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；文件纸张，深色桌面；画面中央人物，身穿米色西装，手部特写，握笔在纸上书写，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "姐夫",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面中央",
+                "action": "手部特写，笔尖在纸上停顿",
+                "expression": "不可见"
+            }
+        ],
+        "background": "文件纸张，深色桌面",
+        "description_narrative": "特写镜头，姐夫的手握着笔在纸上停顿，似乎在思考。",
+        "dialogue": "你可得想清楚了",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头；文件纸张，深色桌面；画面中央人物，身穿米色西装，手部特写，笔尖在纸上停顿，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "姐夫",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面中央",
+                "action": "手部特写，笔尖在纸上移动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "文件纸张，深色桌面",
+        "description_narrative": "特写镜头延续，姐夫的手继续握笔在纸上书写。",
+        "dialogue": "你可得想清楚了",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 6.6,
+        "description_visual": "特写平拍镜头；文件纸张，深色桌面；画面中央人物，身穿米色西装，手部特写，笔尖在纸上移动，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白宇",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，双手插兜，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "红色花纹窗帘，前景有模糊花卉",
+        "description_narrative": "中景镜头，白宇站在窗帘前，神情严肃地听着对话。",
+        "dialogue": "你这字一签，可就代表今后苏氏集团，有一半姓盛了。",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 0.77,
+        "description_visual": "中景平拍镜头；红色花纹窗帘，前景有模糊花卉；画面中央人物，身穿灰色三件套西装，站立，双手插兜，身体微侧，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "姐夫",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "画面中央",
+                "action": "坐在桌前，低头书写",
+                "expression": "眉毛微蹙，眼睛注视纸面，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木桌，玻璃杯，文件",
+        "description_narrative": "中近景，姐夫继续低头在文件上签字，神情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.03,
+        "description_visual": "中近景俯拍镜头；深色木桌，玻璃杯，文件；画面中央人物，身穿米色西装，坐在桌前，低头书写，表情：眉毛微蹙，眼睛注视纸面，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "欣然",
+                "gender": "女",
+                "clothing": "米色珍珠领连衣裙",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微前倾",
+                "expression": "眉毛紧皱，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "红色花纹窗帘，模糊背景",
+        "description_narrative": "近景镜头，欣然坐在沙发上，表情忧虑且惊讶地看着前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.37,
+        "description_visual": "近景平拍镜头；红色花纹窗帘，模糊背景；画面中央人物，身穿米色珍珠领连衣裙，坐在沙发上，身体微前倾，表情：眉毛紧皱，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白宇",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，双手插兜",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "红色花纹窗帘，前景有模糊花卉",
+        "description_narrative": "中景镜头，白宇站在原地，神情凝重。",
+        "dialogue": "奶奶",
+        "speaker": "白宇",
+        "emotion": null,
+        "duration": 1.05,
+        "description_visual": "中景平拍镜头；红色花纹窗帘，前景有模糊花卉；画面中央人物，身穿灰色三件套西装，站立，双手插兜，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交叠",
+                "expression": "眉毛舒展，眼睛平视，嘴巴紧闭"
+            }
+        ],
+        "background": "红色皮质沙发，模糊前景",
+        "description_narrative": "近景镜头，奶奶坐在沙发上，神情平静地看着前方。",
+        "dialogue": "我想见欣然",
+        "speaker": "白宇",
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；红色皮质沙发，模糊前景；画面中央人物，身穿蓝色丝绒旗袍，珍珠项链，坐在沙发上，双手交叠，表情：眉毛舒展，眼睛平视，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白宇",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，身体微前倾",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张说话"
+            }
+        ],
+        "background": "红色花纹窗帘",
+        "description_narrative": "中近景，白宇神情急切地开口说话。",
+        "dialogue": "也让欣然跟我走吧",
+        "speaker": "白宇",
+        "emotion": null,
+        "duration": 0.87,
+        "description_visual": "中近景平拍镜头；红色花纹窗帘；画面中央人物，身穿灰色三件套西装，站立，身体微前倾，表情：眉毛微蹙，眼睛直视，嘴巴微张说话。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白宇",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，双手插兜",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "欣然",
+                "gender": "女",
+                "clothing": "米色珍珠领连衣裙",
+                "position": "画面右侧",
+                "action": "坐在沙发上",
+                "expression": "眉毛下垂，眼睛视线下移"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面左前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "豪华客厅，红色窗帘",
+        "description_narrative": "过肩全景，白宇站在中央，欣然坐在右侧，奶奶在左侧，白宇正在对奶奶说话。",
+        "dialogue": "你曾经是我最在意的一颗棋子",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 1.7,
+        "description_visual": "全景过肩镜头；豪华客厅，红色窗帘；画面中央人物，身穿灰色三件套西装，站立，双手插兜，表情：眉毛微蹙，眼睛直视，嘴巴微张；画面右侧人物，身穿米色珍珠领连衣裙，坐在沙发上，表情：眉毛下垂，眼睛视线下移；画面左前景人物，身穿蓝色丝绒旗袍，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，隐约可见人物轮廓，配合画外音。",
+        "dialogue": "只是现在是颗废棋不中用了。虽然欣然已经怀孕了，但是她要悄悄生下来，不被别人发现。",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 11.78,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面持续模糊，配合画外音。",
+        "dialogue": "还是会嫁出去的",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 2.15,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，配合画外音。",
+        "dialogue": "奶奶",
+        "speaker": "白宇",
+        "emotion": null,
+        "duration": 4.87,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "坐在沙发上，双手交叠，身体微晃",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴张开大笑"
+            }
+        ],
+        "background": "红色皮质沙发",
+        "description_narrative": "中景镜头，奶奶坐在沙发上开怀大笑，神情轻蔑。",
+        "dialogue": "奶奶，求您让欣然跟我走吧，我一定会对她好。",
+        "speaker": "白宇",
+        "emotion": null,
+        "duration": 1.45,
+        "description_visual": "中景平拍镜头；红色皮质沙发；画面中央人物，身穿蓝色丝绒旗袍，坐在沙发上，双手交叠，身体微晃，表情：眉毛舒展，眼睛眯起，嘴巴张开大笑。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，配合画外音。",
+        "dialogue": "哈哈哈白宇",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 3.32,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微侧",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "红色皮质沙发",
+        "description_narrative": "中近景，奶奶坐在沙发上，表情严肃地说话。",
+        "dialogue": "你是第一天认识我吗",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 0.27,
+        "description_visual": "中近景平拍镜头；红色皮质沙发；画面中央人物，身穿蓝色丝绒旗袍，坐在沙发上，身体微侧，表情：眉毛微挑，眼睛注视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，配合画外音。",
+        "dialogue": "你觉得我是在意",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 4.4,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，配合画外音。",
+        "dialogue": "你觉得我是在意",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 2.83,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，配合画外音。",
+        "dialogue": "我那几个孙女嫁出去，过得幸不幸福吗",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 4.78,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，配合画外音。",
+        "dialogue": "过得幸不幸福吗",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 4.15,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，配合画外音。",
+        "dialogue": "我只要利益",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 0.83,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，配合画外音。",
+        "dialogue": "您可以和我提条件，只要我能做到。",
+        "speaker": "白宇",
+        "emotion": null,
+        "duration": 0.27,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，配合画外音。",
+        "dialogue": "我一定办，只求你让欣然和我走。",
+        "speaker": "白宇",
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微前倾",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张说话"
+            }
+        ],
+        "background": "红色皮质沙发",
+        "description_narrative": "近景镜头，奶奶表情严肃冷酷地说话。",
+        "dialogue": "你配不上欣然",
+        "speaker": "奶奶",
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "近景平拍镜头；红色皮质沙发；画面中央人物，身穿蓝色丝绒旗袍，坐在沙发上，身体微前倾，表情：眉毛微蹙，眼睛直视，嘴巴微张说话。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "坐在沙发上，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "红色皮质沙发",
+        "description_narrative": "近景镜头，奶奶继续保持着严肃冷酷的表情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.95,
+        "description_visual": "近景平拍镜头；红色皮质沙发；画面中央人物，身穿蓝色丝绒旗袍，坐在沙发上，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "坐在沙发上，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "红色皮质沙发",
+        "description_narrative": "近景镜头，奶奶表情依旧严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "近景平拍镜头；红色皮质沙发；画面中央人物，身穿蓝色丝绒旗袍，坐在沙发上，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "坐在沙发上，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "红色皮质沙发",
+        "description_narrative": "近景镜头，奶奶表情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.25,
+        "description_visual": "近景平拍镜头；红色皮质沙发；画面中央人物，身穿蓝色丝绒旗袍，坐在沙发上，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "坐在沙发上，画面转为黑白",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "红色皮质沙发，黑白滤镜",
+        "description_narrative": "近景镜头，画面转为黑白，奶奶表情严肃冷酷。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.25,
+        "description_visual": "近景平拍镜头；红色皮质沙发，黑白滤镜；画面中央人物，身穿蓝色丝绒旗袍，坐在沙发上，画面转为黑白，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "画面模糊，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿未知，模糊影像，表情：不可见。"
+    }
+]

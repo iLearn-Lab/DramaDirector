@@ -1,0 +1,518 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白色大褂",
+                "position": "画面中央",
+                "action": "双手拿着蓝色文件夹，低头查看",
+                "expression": "眉毛微蹙，眼神专注，嘴巴微张正在说话"
+            }
+        ],
+        "background": "医院病房，背景是米色带有花纹的窗帘，光线柔和",
+        "description_narrative": "中景固定镜头，医生身穿白色大褂站在病房中央，双手拿着蓝色文件夹低头查看，神情凝重地告知坏消息。",
+        "dialogue": "再无法找到有效的肝脏配型。",
+        "speaker": "医生",
+        "emotion": "凝重",
+        "duration": 4.46,
+        "description_visual": "中景平拍镜头；医院病房，背景是米色带有花纹的窗帘，光线柔和；画面中央人物，身穿白色大褂，双手拿着蓝色文件夹，低头查看，表情：眉毛微蹙，眼神专注，嘴巴微张正在说话。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "格子大衣女子",
+                "gender": "女",
+                "clothing": "黑白千鸟格大衣，内搭棕色连帽卫衣",
+                "position": "画面中央",
+                "action": "站立，身体微侧，看着医生",
+                "expression": "眉毛舒展，眼神严肃，嘴巴微张准备说话"
+            }
+        ],
+        "background": "医院病房，白色墙壁，部分黑色家具可见",
+        "description_narrative": "近景固定镜头，格子大衣女子身穿黑白千鸟格大衣，神情严肃地看着医生，欲言又止后开始透露消息。",
+        "dialogue": "林老怕是，其实我刚得到一个消息",
+        "speaker": "格子大衣女子",
+        "emotion": "严肃",
+        "duration": 3.64,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁，部分黑色家具可见；画面中央人物，身穿黑白千鸟格大衣，内搭棕色连帽卫衣，站立，身体微侧，看着医生，表情：眉毛舒展，眼神严肃，嘴巴微张准备说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "格子大衣女子",
+                "gender": "女",
+                "clothing": "黑白千鸟格大衣",
+                "position": "画面左侧",
+                "action": "站立，面向病床",
+                "expression": "表情严肃，目光坚定"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白色大褂",
+                "position": "画面右前景",
+                "action": "背对镜头，面向病床",
+                "expression": "不可见"
+            },
+            {
+                "name": "林老",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "背景病床上",
+                "action": "躺着，似乎昏迷",
+                "expression": "闭眼"
+            }
+        ],
+        "background": "医院病房，可见输液架、病床和墙上的红花装饰",
+        "description_narrative": "全景过肩镜头，格子大衣女子站在病床边，对着医生揭露惊天秘密，病床上的林老静静躺着。",
+        "dialogue": "林娇和林佳怡并不是林老真正的血脉。",
+        "speaker": "格子大衣女子",
+        "emotion": "严肃",
+        "duration": 3.24,
+        "description_visual": "全景过肩镜头；医院病房，可见输液架、病床和墙上的红花装饰；画面左侧人物，身穿黑白千鸟格大衣，站立，面向病床，表情：表情严肃，目光坚定；画面右前景人物，身穿白色大褂，背对镜头，面向病床，表情：不可见；背景病床上人物，身穿蓝白条纹病号服，躺着，似乎昏迷，表情：闭眼。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "格子大衣女子",
+                "gender": "女",
+                "clothing": "黑白千鸟格大衣",
+                "position": "画面中央",
+                "action": "站立，直视前方",
+                "expression": "眉毛微挑，眼神锐利，嘴巴开合说出关键信息"
+            }
+        ],
+        "background": "医院病房，白色墙壁",
+        "description_narrative": "近景固定镜头，格子大衣女子继续说道，表情严肃地指出真正的血脉是傅家的养女顾研。",
+        "dialogue": "林家真正的血脉是傅家那个风头正盛的养女顾研。",
+        "speaker": "格子大衣女子",
+        "emotion": "严肃",
+        "duration": 4.7,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁；画面中央人物，身穿黑白千鸟格大衣，站立，直视前方，表情：眉毛微挑，眼神锐利，嘴巴开合说出关键信息。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林老",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "躺在枕头上，眼睛突然睁开",
+                "expression": "眉毛皱起，眼睛睁开，嘴巴微张惊讶"
+            }
+        ],
+        "background": "木质床头板，白色枕头",
+        "description_narrative": "特写俯拍镜头，病床上的林老突然听到名字，眼睛猛地睁开，震惊地质问。",
+        "dialogue": "你说什么？",
+        "speaker": "林老",
+        "emotion": "震惊",
+        "duration": 2.06,
+        "description_visual": "特写俯拍镜头；木质床头板，白色枕头；画面中央人物，身穿蓝白条纹病号服，躺在枕头上，眼睛突然睁开，表情：眉毛皱起，眼睛睁开，嘴巴微张惊讶。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "全景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "格子大衣女子",
+                "gender": "女",
+                "clothing": "黑白千鸟格大衣",
+                "position": "画面左侧",
+                "action": "转身看向病床",
+                "expression": "惊讶"
+            },
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白色大褂",
+                "position": "画面右前景",
+                "action": "看向病床",
+                "expression": "惊讶"
+            },
+            {
+                "name": "林老",
+                "gender": "男",
+                "clothing": "蓝白条纹病号服",
+                "position": "背景病床上",
+                "action": "躺着，头微抬",
+                "expression": "睁眼"
+            }
+        ],
+        "background": "医院病房，输液架，病床",
+        "description_narrative": "全景过肩镜头，林老的突然苏醒让在场两人一惊，医生或女子上前确认。",
+        "dialogue": "林老你醒了。",
+        "speaker": "医生",
+        "emotion": "惊讶",
+        "duration": 1.56,
+        "description_visual": "全景过肩镜头；医院病房，输液架，病床；画面左侧人物，身穿黑白千鸟格大衣，转身看向病床，表情：惊讶；画面右前景人物，身穿白色大褂，看向病床，表情：惊讶；背景病床上人物，身穿蓝白条纹病号服，躺着，头微抬，表情：睁眼。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫，深灰色西装马甲",
+                "position": "画面中央",
+                "action": "坐在地上，紧紧抱着年轻女子",
+                "expression": "闭眼，神情疲惫"
+            },
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "灰色西装",
+                "position": "男子怀中",
+                "action": "靠在男子怀里，闭眼",
+                "expression": "虚弱，闭眼"
+            }
+        ],
+        "background": "昏暗的室内角落，一束阳光打在两人身上",
+        "description_narrative": "中景固定镜头，场景切换至昏暗处，年轻男子抱着虚弱的女子坐在地上，女子虚弱地问时间。",
+        "dialogue": "这是第几天了？",
+        "speaker": "年轻女子",
+        "emotion": "虚弱",
+        "duration": 3.84,
+        "description_visual": "中景平拍镜头；昏暗的室内角落，一束阳光打在两人身上；画面中央人物，身穿白衬衫，深灰色西装马甲，坐在地上，紧紧抱着年轻女子，表情：闭眼，神情疲惫；男子怀中人物，身穿灰色西装，靠在男子怀里，闭眼，表情：虚弱，闭眼。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫，深灰色西装马甲",
+                "position": "画面中央",
+                "action": "低头看着怀中的女子",
+                "expression": "眉毛微蹙，眼神温柔而悲伤"
+            }
+        ],
+        "background": "模糊的昏暗背景",
+        "description_narrative": "特写固定镜头，年轻男子低头看着怀中的女子，声音沙哑地回答大概三天了。",
+        "dialogue": "大概三天。",
+        "speaker": "年轻男子",
+        "emotion": "悲伤",
+        "duration": 3.4,
+        "description_visual": "特写平拍镜头；模糊的昏暗背景；画面中央人物，身穿白衬衫，深灰色西装马甲，低头看着怀中的女子，表情：眉毛微蹙，眼神温柔而悲伤。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "灰色西装",
+                "position": "画面下方",
+                "action": "靠在男子肩头",
+                "expression": "闭眼，嘴角微动，绝望"
+            },
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面上方",
+                "action": "下巴抵在女子头上",
+                "expression": "闭眼，痛苦"
+            }
+        ],
+        "background": "昏暗背景，光影斑驳",
+        "description_narrative": "特写固定镜头，两人紧紧相拥，女子绝望地说或许他们真的要死了。",
+        "dialogue": "或许我们真的要死了。",
+        "speaker": "年轻女子",
+        "emotion": "绝望",
+        "duration": 3.82,
+        "description_visual": "特写平拍镜头；昏暗背景，光影斑驳；画面下方人物，身穿灰色西装，靠在男子肩头，表情：闭眼，嘴角微动，绝望；画面上方人物，身穿白衬衫，下巴抵在女子头上，表情：闭眼，痛苦。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫，领带",
+                "position": "画面右侧",
+                "action": "低头贴近女子额头",
+                "expression": "眼神坚定，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写固定镜头，年轻男子在临终前深情告白，说在自己死之前。",
+        "dialogue": "在我死之前。",
+        "speaker": "年轻男子",
+        "emotion": "深情",
+        "duration": 1.98,
+        "description_visual": "特写平拍镜头；昏暗背景；画面右侧人物，身穿白衬衫，领带，低头贴近女子额头，表情：眼神坚定，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫，深灰色西装马甲",
+                "position": "画面中央",
+                "action": "紧紧抱着女子",
+                "expression": "表情决绝，眼神温柔"
+            }
+        ],
+        "background": "昏暗背景，阳光照射",
+        "description_narrative": "中近景固定镜头，年轻男子提出极端的生存方案，让女子喝他的血吃他的肉。",
+        "dialogue": "如果救援还没到，你就喝我的血，吃我的肉。",
+        "speaker": "年轻男子",
+        "emotion": "决绝",
+        "duration": 6.02,
+        "description_visual": "中近景平拍镜头；昏暗背景，阳光照射；画面中央人物，身穿白衬衫，深灰色西装马甲，紧紧抱着女子，表情：表情决绝，眼神温柔。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面中央",
+                "action": "低头看着女子",
+                "expression": "嘴角微扬，眼神充满爱意"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写固定镜头，年轻男子微笑着表示愿意被女子吃掉，以此让她活下去。",
+        "dialogue": "我愿意被你吃了。",
+        "speaker": "年轻男子",
+        "emotion": "温柔",
+        "duration": 2.82,
+        "description_visual": "特写平拍镜头；昏暗背景；画面中央人物，身穿白衬衫，低头看着女子，表情：嘴角微扬，眼神充满爱意。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "灰色西装",
+                "position": "画面下方",
+                "action": "靠在男子怀里",
+                "expression": "眉头微蹙，眼神无奈"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写固定镜头，女子听到这话，无奈地质问男子这个时候还能开玩笑。",
+        "dialogue": "这个时候你还能开玩笑？",
+        "speaker": "年轻女子",
+        "emotion": "无奈",
+        "duration": 4.98,
+        "description_visual": "特写平拍镜头；昏暗背景；画面下方人物，身穿灰色西装，靠在男子怀里，表情：眉头微蹙，眼神无奈。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧",
+                "action": "下巴抵在女子头上",
+                "expression": "闭眼，嘴角上扬，释然"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写固定镜头，男子释然地笑着说，笑着死总比哭着死好。",
+        "dialogue": "笑着也挺好的，总比哭着死好。",
+        "speaker": "年轻男子",
+        "emotion": "释然",
+        "duration": 5.1,
+        "description_visual": "特写平拍镜头；昏暗背景；画面右侧人物，身穿白衬衫，下巴抵在女子头上，表情：闭眼，嘴角上扬，释然。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫，深灰色西装马甲",
+                "position": "画面中央",
+                "action": "抱着女子，眼神变得深邃",
+                "expression": "眉毛微蹙，眼神凝重"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "中近景固定镜头，男子语气转沉，说救援或许不会再来了。",
+        "dialogue": "救援或许不会再来了。",
+        "speaker": "年轻男子",
+        "emotion": "凝重",
+        "duration": 3.84,
+        "description_visual": "中近景平拍镜头；昏暗背景；画面中央人物，身穿白衬衫，深灰色西装马甲，抱着女子，眼神变得深邃，表情：眉毛微蹙，眼神凝重。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "灰色西装",
+                "position": "画面下方",
+                "action": "靠在男子怀里，微睁眼",
+                "expression": "眼神疑惑，眉头微皱"
+            },
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面上方",
+                "action": "低头说话",
+                "expression": "眼神锐利"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写固定镜头，男子揭露真相，说自己早就知道身边出现了内鬼。",
+        "dialogue": "其实我早就知道，我身边可能出现了内鬼。",
+        "speaker": "年轻男子",
+        "emotion": "冷峻",
+        "duration": 6.56,
+        "description_visual": "特写平拍镜头；昏暗背景；画面下方人物，身穿灰色西装，靠在男子怀里，微睁眼，表情：眼神疑惑，眉头微皱；画面上方人物，身穿白衬衫，低头说话，表情：眼神锐利。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫，深灰色西装马甲",
+                "position": "画面中央",
+                "action": "抱着女子，目光坚定",
+                "expression": "眼神确定，嘴巴微张"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "中近景固定镜头，男子进一步指出内鬼就是夏特助。",
+        "dialogue": "现在我觉得确实是夏特助。",
+        "speaker": "年轻男子",
+        "emotion": "确定",
+        "duration": 8.26,
+        "description_visual": "中近景平拍镜头；昏暗背景；画面中央人物，身穿白衬衫，深灰色西装马甲，抱着女子，目光坚定，表情：眼神确定，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫",
+                "position": "画面右侧",
+                "action": "低头解释",
+                "expression": "神情严肃，语速平稳"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "特写固定镜头，男子回忆来之前曾嘱咐过夏特助，如果24小时联系不上就报警。",
+        "dialogue": "在我来之前，我就跟他说，如果二十四小时没能联系到我。",
+        "speaker": "年轻男子",
+        "emotion": "严肃",
+        "duration": 7.42,
+        "description_visual": "特写平拍镜头；昏暗背景；画面右侧人物，身穿白衬衫，低头解释，表情：神情严肃，语速平稳。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白衬衫，深灰色西装马甲",
+                "position": "画面中央",
+                "action": "抱着女子，眼神充满怀疑",
+                "expression": "眉头紧锁，眼神深邃"
+            }
+        ],
+        "background": "昏暗背景",
+        "description_narrative": "中近景固定镜头，男子推断傅轻舟找自己根本不是巧合，而是蓄意谋划。",
+        "dialogue": "就赶紧报警找救援，或许傅轻舟找上我根本就不是巧合。",
+        "speaker": "年轻男子",
+        "emotion": "怀疑",
+        "duration": 13.08,
+        "description_visual": "中近景平拍镜头；昏暗背景；画面中央人物，身穿白衬衫，深灰色西装马甲，抱着女子，眼神充满怀疑，表情：眉头紧锁，眼神深邃。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "身影逐渐被强光吞没",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "强烈的白光，过度曝光",
+        "description_narrative": "特写推进镜头，画面逐渐被强烈的白光吞没，象征着希望或结局的到来，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "未知",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头（推进）；强烈的白光，过度曝光；画面中央人物，身穿白色衬衫，身影逐渐被强光吞没，表情：模糊不清。"
+    }
+]

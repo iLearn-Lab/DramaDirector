@@ -1,0 +1,636 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见环境细节。",
+        "description_narrative": "画面全黑，仅听到绿裙女子的声音传来，语气带着挑衅和质问，提及陈风是陈公子的救命恩人。",
+        "dialogue": "你怕了吧，陈风可是陈公子的救命恩人。",
+        "speaker": "绿裙女子",
+        "emotion": "挑衅",
+        "duration": 6.48,
+        "description_visual": "特写平拍镜头；纯黑背景，无可见环境细节。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "唐昊",
+                "gender": "男",
+                "clothing": "黑色双排扣长风衣，内搭黑色衬衫和花纹领巾",
+                "position": "画面中央",
+                "action": "镜头聚焦于风衣的纽扣细节，暗示人物存在",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑色风衣面料细节，光线昏暗。",
+        "description_narrative": "镜头特写唐昊的黑色风衣纽扣，伴随他的画外音，承认自己家族治不好的恶疾被对方治好，语气中带着难以置信和被迫的承认。",
+        "dialogue": "连我唐家都治不好的恶疾，是你治好的。",
+        "speaker": "唐昊",
+        "emotion": "震惊",
+        "duration": 3.86,
+        "description_visual": "大特写平拍镜头（推进）；黑色风衣面料细节，光线昏暗。；画面中央人物，身穿黑色双排扣长风衣，内搭黑色衬衫和花纹领巾，镜头聚焦于风衣的纽扣细节，暗示人物存在，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈公子",
+                "gender": "男",
+                "clothing": "深蓝色条纹双排扣西装，内搭白衬衫",
+                "position": "画面中央",
+                "action": "站立，双手插兜，目光锐利地看向一侧",
+                "expression": "眉毛微挑，眼睛直视，嘴巴紧闭，神情威严"
+            }
+        ],
+        "background": "室内会议室或大厅，背景有门和白色投影幕布，光线明亮。",
+        "description_narrative": "陈公子站在室内，身穿深蓝色条纹西装，双手插在裤兜里，眼神冷冷地看向唐昊的方向，直接点名质问对方是否有异议。",
+        "dialogue": "唐昊，我本人就在此处，你有何异议？",
+        "speaker": "陈公子",
+        "emotion": "威严",
+        "duration": 5.1,
+        "description_visual": "中近景平拍镜头；室内会议室或大厅，背景有门和白色投影幕布，光线明亮。；画面中央人物，身穿深蓝色条纹双排扣西装，内搭白衬衫，站立，双手插兜，目光锐利地看向一侧，表情：眉毛微挑，眼睛直视，嘴巴紧闭，神情威严。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐昊",
+                "gender": "男",
+                "clothing": "黑色双排扣长风衣，内搭黑色衬衫和花纹领巾，戴眼镜",
+                "position": "画面左侧",
+                "action": "低头，身体微微前倾，呈现顺从姿态",
+                "expression": "眉毛下垂，眼睛透过镜片向下看，嘴巴微抿，神情恭顺"
+            }
+        ],
+        "background": "室内背景，可见部分棕色皮质沙发和墙面。",
+        "description_narrative": "唐昊身穿黑色长风衣，戴着眼镜，原本嚣张的气焰消失，低头看着地面，语气立刻变得恭敬，表示既然陈公子这么说，自己便告辞。",
+        "dialogue": "陈公子，既然你都这么说了，那我先告辞了。",
+        "speaker": "唐昊",
+        "emotion": "畏惧",
+        "duration": 6.48,
+        "description_visual": "中景低角度镜头；室内背景，可见部分棕色皮质沙发和墙面。；画面左侧人物，身穿黑色双排扣长风衣，内搭黑色衬衫和花纹领巾，戴眼镜，低头，身体微微前倾，呈现顺从姿态，表情：眉毛下垂，眼睛透过镜片向下看，嘴巴微抿，神情恭顺。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿裙女子",
+                "gender": "女",
+                "clothing": "绿色丝绒吊带裙，佩戴白色羽毛发饰和钻石项链",
+                "position": "画面左侧",
+                "action": "站立，身体转向右侧，目光惊讶",
+                "expression": "眉毛微扬，眼睛睁大，嘴巴微张，神情震惊"
+            },
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色露肩羽毛装饰晚礼服",
+                "position": "画面右侧前景",
+                "action": "坐在棕色沙发上，身体前倾，抬头看",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张，神情疑惑"
+            }
+        ],
+        "background": "室内大厅，天花板有方形灯具，背景有其他宾客。",
+        "description_narrative": "绿裙女子站立着，黑裙女子坐在沙发上，两人同时看向陈公子的方向。绿裙女子语气激动地确认陈公子的身份，周围人也附和说在鲁南没人敢冒充他。",
+        "dialogue": "他真的是陈公子啊，当然了，在鲁南谁敢冒充陈公子啊？",
+        "speaker": "绿裙女子",
+        "emotion": "惊讶",
+        "duration": 7.18,
+        "description_visual": "中景平拍镜头；室内大厅，天花板有方形灯具，背景有其他宾客。；画面左侧人物，身穿绿色丝绒吊带裙，佩戴白色羽毛发饰和钻石项链，站立，身体转向右侧，目光惊讶，表情：眉毛微扬，眼睛睁大，嘴巴微张，神情震惊；画面右侧前景人物，身穿黑色露肩羽毛装饰晚礼服，坐在棕色沙发上，身体前倾，抬头看，表情：眉毛微蹙，眼睛注视前方，嘴巴微张，神情疑惑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "持牌男子",
+                "gender": "男",
+                "clothing": "深蓝色西装，内搭白衬衫",
+                "position": "画面中央",
+                "action": "双手持着写有数字 8 的竞拍牌，面带微笑",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬，神情感激"
+            }
+        ],
+        "background": "室内大厅，背景模糊，可见门框。",
+        "description_narrative": "持牌男子手持竞拍牌，脸上带着讨好的笑容，画外音响起表示感谢陈公子，可能是竞拍成功或得到好处。",
+        "dialogue": "那，得谢谢陈公子。",
+        "speaker": "持牌男子",
+        "emotion": "感激",
+        "duration": 4.16,
+        "description_visual": "中近景平拍镜头；室内大厅，背景模糊，可见门框。；画面中央人物，身穿深蓝色西装，内搭白衬衫，双手持着写有数字 8 的竞拍牌，面带微笑，表情：眉毛舒展，眼睛含笑，嘴角上扬，神情感激。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿裙女子",
+                "gender": "女",
+                "clothing": "绿色丝绒吊带裙，佩戴白色羽毛发饰和钻石项链",
+                "position": "画面中央",
+                "action": "站立，面带微笑，眼神柔和",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角微微上扬，神情温婉"
+            }
+        ],
+        "background": "室内大厅，天花板灯光在头顶。",
+        "description_narrative": "绿裙女子面带微笑，此时陈公子的画外音响起，表示既然是自己信口许诺的，便会兑现。",
+        "dialogue": "既然是我信口许诺的。",
+        "speaker": "陈公子",
+        "emotion": "从容",
+        "duration": 3.32,
+        "description_visual": "特写平拍镜头；室内大厅，天花板灯光在头顶。；画面中央人物，身穿绿色丝绒吊带裙，佩戴白色羽毛发饰和钻石项链，站立，面带微笑，眼神柔和，表情：眉毛舒展，眼睛注视前方，嘴角微微上扬，神情温婉。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈公子",
+                "gender": "男",
+                "clothing": "深蓝色条纹双排扣西装，内搭白衬衫",
+                "position": "画面中央",
+                "action": "右手伸入西装内袋，准备取物",
+                "expression": "眉毛平展，眼睛微垂，嘴巴紧闭，神情淡定"
+            }
+        ],
+        "background": "室内，背景有一位穿白衣的女性模糊身影。",
+        "description_narrative": "陈公子一边说着自然不必客气，一边伸手从西装内袋中取出一张卡片，动作流畅自然，展现出大方。",
+        "dialogue": "自然不必客气。",
+        "speaker": "陈公子",
+        "emotion": "大方",
+        "duration": 5.44,
+        "description_visual": "中近景平拍镜头；室内，背景有一位穿白衣的女性模糊身影。；画面中央人物，身穿深蓝色条纹双排扣西装，内搭白衬衫，右手伸入西装内袋，准备取物，表情：眉毛平展，眼睛微垂，嘴巴紧闭，神情淡定。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈公子",
+                "gender": "男",
+                "clothing": "深蓝色条纹双排扣西装，内搭白衬衫",
+                "position": "画面中央",
+                "action": "双手整理袖口，佩戴手表",
+                "expression": "闭眼片刻后睁开，神情平静"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "镜头特写陈公子整理袖口的动作，他闭目养神片刻，展现出一种掌控全局的从容感，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 5.42,
+        "description_visual": "特写平拍镜头；室内，背景模糊。；画面中央人物，身穿深蓝色条纹双排扣西装，内搭白衬衫，双手整理袖口，佩戴手表，表情：闭眼片刻后睁开，神情平静。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色露肩羽毛装饰晚礼服",
+                "position": "画面左侧",
+                "action": "坐在桌边，身影在暗光中",
+                "expression": "不可见"
+            },
+            {
+                "name": "陈公子",
+                "gender": "男",
+                "clothing": "深蓝色条纹双排扣西装",
+                "position": "画面右侧",
+                "action": "坐在桌边，身影在暗光中",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗的茶室或包间，只有一盏吊灯发出微光。",
+        "description_narrative": "场景切换至昏暗的室内，两人对坐。陈公子的声音打破寂静，指出对方还有很多秘密没有告诉自己。",
+        "dialogue": "看来你还有很多秘密没有告诉我呀。",
+        "speaker": "陈公子",
+        "emotion": "探究",
+        "duration": 2.82,
+        "description_visual": "全景平拍镜头；昏暗的茶室或包间，只有一盏吊灯发出微光。；画面左侧人物，身穿黑色露肩羽毛装饰晚礼服，坐在桌边，身影在暗光中，表情：不可见；画面右侧人物，身穿深蓝色条纹双排扣西装，坐在桌边，身影在暗光中，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈公子",
+                "gender": "男",
+                "clothing": "深蓝色条纹双排扣西装，内搭白衬衫",
+                "position": "画面中央",
+                "action": "右手举着白色茶杯喝茶，左手搭在椅背上",
+                "expression": "眉毛微挑，眼睛透过茶杯上方看人，嘴巴被杯子挡住"
+            }
+        ],
+        "background": "明亮的茶室，浅色木桌，背景有窗帘。",
+        "description_narrative": "陈公子坐在桌前喝茶，姿态放松。画外传来黑裙女子的声音，解释不是不愿意说，只是觉得没必要。",
+        "dialogue": "不是我不愿意说，是我觉得没必要。",
+        "speaker": "黑裙女子",
+        "emotion": "冷淡",
+        "duration": 4.36,
+        "description_visual": "中近景平拍镜头；明亮的茶室，浅色木桌，背景有窗帘。；画面中央人物，身穿深蓝色条纹双排扣西装，内搭白衬衫，右手举着白色茶杯喝茶，左手搭在椅背上，表情：眉毛微挑，眼睛透过茶杯上方看人，嘴巴被杯子挡住。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色露肩羽毛装饰晚礼服",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握放在桌上",
+                "expression": "眉毛微垂，眼睛视线下移，嘴角微抿，神情落寞"
+            }
+        ],
+        "background": "茶室，浅色木桌，桌上有白色茶杯。",
+        "description_narrative": "黑裙女子坐在桌前，神情有些低落。画外传来陈公子略带调侃的声音“哦，是吗？”。",
+        "dialogue": "哦，是吗？",
+        "speaker": "陈公子",
+        "emotion": "调侃",
+        "duration": 2.06,
+        "description_visual": "中近景平拍镜头；茶室，浅色木桌，桌上有白色茶杯。；画面中央人物，身穿黑色露肩羽毛装饰晚礼服，坐在桌前，双手交握放在桌上，表情：眉毛微垂，眼睛视线下移，嘴角微抿，神情落寞。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈公子",
+                "gender": "男",
+                "clothing": "深蓝色条纹双排扣西装，内搭白衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，身体微侧，看向左侧",
+                "expression": "眉毛微扬，眼睛注视左侧，嘴巴微张，神情专注"
+            }
+        ],
+        "background": "餐厅包间，深色木桌，桌上有餐具和酒杯。",
+        "description_narrative": "陈公子坐在餐桌旁，看着对面的女子。画外传来黑裙女子的声音，讲述之前跟灵儿去鬼市看到陈公子的经历。",
+        "dialogue": "之前我跟灵儿去鬼市，当时看到了陈公子。",
+        "speaker": "黑裙女子",
+        "emotion": "回忆",
+        "duration": 5.22,
+        "description_visual": "中近景平拍镜头；餐厅包间，深色木桌，桌上有餐具和酒杯。；画面中央人物，身穿深蓝色条纹双排扣西装，内搭白衬衫，坐在桌前，身体微侧，看向左侧，表情：眉毛微扬，眼睛注视左侧，嘴巴微张，神情专注。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色露肩羽毛装饰晚礼服",
+                "position": "画面中央",
+                "action": "坐在桌前，双手交握，低头讲述",
+                "expression": "眉毛微蹙，眼睛闭合片刻，嘴巴微动，神情认真"
+            }
+        ],
+        "background": "餐厅包间，深色木桌，桌上有餐具。",
+        "description_narrative": "黑裙女子继续讲述，说自己发现陈公子身患隐疾便给他诊治。随后陈公子的声音插入，调侃她和灵儿志趣相投，让她去找妹妹玩，语气中带着送客的意思。",
+        "dialogue": "我发现他身患隐疾就给他诊治，你跟灵儿倒也挺志趣相投的吧，没事多去找我妹妹玩玩吧。",
+        "speaker": "黑裙女子，陈公子",
+        "emotion": "认真，调侃",
+        "duration": 8.24,
+        "description_visual": "中近景平拍镜头；餐厅包间，深色木桌，桌上有餐具。；画面中央人物，身穿黑色露肩羽毛装饰晚礼服，坐在桌前，双手交握，低头讲述，表情：眉毛微蹙，眼睛闭合片刻，嘴巴微动，神情认真。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色露肩羽毛装饰晚礼服",
+                "position": "画面左侧",
+                "action": "转身背对镜头，向画面右侧走去",
+                "expression": "不可见"
+            },
+            {
+                "name": "陈公子",
+                "gender": "男",
+                "clothing": "深蓝色条纹双排扣西装",
+                "position": "画面中央",
+                "action": "坐在桌前，看着女子离去的背影",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张，神情玩味"
+            }
+        ],
+        "background": "餐厅包间，圆桌，背景有砖墙和挂画。",
+        "description_narrative": "黑裙女子负气起身离开，陈公子坐在原位看着她的背影，画外音传来他调侃的声音，说她连小屁孩的醋也吃。",
+        "dialogue": "小屁孩儿的醋也吃。",
+        "speaker": "陈公子",
+        "emotion": "戏谑",
+        "duration": 7.16,
+        "description_visual": "中景平拍镜头（跟拍）；餐厅包间，圆桌，背景有砖墙和挂画。；画面左侧人物，身穿黑色露肩羽毛装饰晚礼服，转身背对镜头，向画面右侧走去，表情：不可见；画面中央人物，身穿深蓝色条纹双排扣西装，坐在桌前，看着女子离去的背影，表情：眉毛微挑，眼睛注视，嘴巴微张，神情玩味。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色露肩羽毛装饰晚礼服",
+                "position": "画面中央",
+                "action": "坐在桌前，低头看着桌面，神情恍惚",
+                "expression": "眉毛紧锁，眼睛向下看，嘴巴紧闭，神情痛苦"
+            }
+        ],
+        "background": "室内，浅色木桌，背景有窗帘和灯光。",
+        "description_narrative": "黑裙女子独自坐在桌前，神情逐渐变得迷离。画外传来唐昊阴险的声音：“终于落到我手上了。”",
+        "dialogue": "终于落到我手上了。",
+        "speaker": "唐昊",
+        "emotion": "阴险",
+        "duration": 6.36,
+        "description_visual": "中近景平拍镜头；室内，浅色木桌，背景有窗帘和灯光。；画面中央人物，身穿黑色露肩羽毛装饰晚礼服，坐在桌前，低头看着桌面，神情恍惚，表情：眉毛紧锁，眼睛向下看，嘴巴紧闭，神情痛苦。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色露肩羽毛装饰晚礼服",
+                "position": "画面左侧",
+                "action": "趴在桌子上，已经昏迷",
+                "expression": "闭眼，面部放松，失去意识"
+            }
+        ],
+        "background": "室内，浅色木桌，桌上有白色茶杯和纸巾盒。",
+        "description_narrative": "黑裙女子已经趴在桌上昏迷不醒。画外传来唐昊冷酷的命令声：“给我带走。”",
+        "dialogue": "给我带走。",
+        "speaker": "唐昊",
+        "emotion": "冷酷",
+        "duration": 12.76,
+        "description_visual": "全景高角度镜头；室内，浅色木桌，桌上有白色茶杯和纸巾盒。；画面左侧人物，身穿黑色露肩羽毛装饰晚礼服，趴在桌子上，已经昏迷，表情：闭眼，面部放松，失去意识。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景。",
+        "description_narrative": "画面全黑，转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.02,
+        "description_visual": "特写平拍镜头；纯黑背景。。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐昊",
+                "gender": "男",
+                "clothing": "黑色双排扣长风衣，内搭黑色衬衫和花纹领巾，戴眼镜",
+                "position": "画面中央",
+                "action": "站立，低头看着下方，嘴角带着笑意",
+                "expression": "眉毛舒展，眼睛透过镜片向下看，嘴角上扬，神情得意"
+            }
+        ],
+        "background": "室内，背景有玻璃隔断和灯光。",
+        "description_narrative": "唐昊出现在画面中，低头看着昏迷的女子，脸上露出阴谋得逞的阴险笑容，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 5.34,
+        "description_visual": "中景低角度镜头；室内，背景有玻璃隔断和灯光。；画面中央人物，身穿黑色双排扣长风衣，内搭黑色衬衫和花纹领巾，戴眼镜，站立，低头看着下方，嘴角带着笑意，表情：眉毛舒展，眼睛透过镜片向下看，嘴角上扬，神情得意。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑裙女子",
+                "gender": "女",
+                "clothing": "黑色露肩羽毛装饰晚礼服",
+                "position": "画面左侧",
+                "action": "趴在桌上昏迷",
+                "expression": "闭眼，无意识"
+            },
+            {
+                "name": "唐昊",
+                "gender": "男",
+                "clothing": "黑色双排扣长风衣",
+                "position": "画面右侧",
+                "action": "伸手抚摸女子的头发",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，浅色木桌，桌上有茶杯。",
+        "description_narrative": "唐昊伸手轻轻抚摸昏迷中黑裙女子的头发，动作轻佻，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "轻佻",
+        "duration": 4.6,
+        "description_visual": "中近景平拍镜头；室内，浅色木桌，桌上有茶杯。；画面左侧人物，身穿黑色露肩羽毛装饰晚礼服，趴在桌上昏迷，表情：闭眼，无意识；画面右侧人物，身穿黑色双排扣长风衣，伸手抚摸女子的头发，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐昊",
+                "gender": "男",
+                "clothing": "黑色双排扣长风衣，戴眼镜，耳戴耳环",
+                "position": "画面右侧",
+                "action": "侧身低头，看着女子",
+                "expression": "眉毛微挑，眼睛注视，嘴角微张，神情玩味"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "镜头特写唐昊的侧脸，他戴着眼镜和耳环，低头看着桌上的女子，露出意味深长的笑容，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "玩味",
+        "duration": 0.94,
+        "description_visual": "特写侧拍镜头；室内，背景模糊。；画面右侧人物，身穿黑色双排扣长风衣，戴眼镜，耳戴耳环，侧身低头，看着女子，表情：眉毛微挑，眼睛注视，嘴角微张，神情玩味。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐昊",
+                "gender": "男",
+                "clothing": "黑色双排扣长风衣，戴眼镜",
+                "position": "画面中央",
+                "action": "抬头看向斜上方，身后站着一名黑衣手下",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张，神情傲慢"
+            },
+            {
+                "name": "黑衣手下",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左后景",
+                "action": "站立，面无表情",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，天花板有灯光。",
+        "description_narrative": "唐昊抬起头，眼神傲慢地看向斜上方，身后站着一名黑衣手下，随时待命，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "傲慢",
+        "duration": 1.94,
+        "description_visual": "中近景低角度镜头；室内，天花板有灯光。；画面中央人物，身穿黑色双排扣长风衣，戴眼镜，抬头看向斜上方，身后站着一名黑衣手下，表情：眉毛舒展，眼睛向上看，嘴巴微张，神情傲慢；画面左后景人物，身穿深色西装，站立，面无表情，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "唐昊",
+                "gender": "男",
+                "clothing": "黑色双排扣长风衣，戴眼镜",
+                "position": "画面中央",
+                "action": "抬头看向斜上方，嘴角带着笑意",
+                "expression": "眉毛微扬，眼睛向上看，嘴角上扬，神情阴险"
+            }
+        ],
+        "background": "室内，天花板有灯光。",
+        "description_narrative": "唐昊继续保持着抬头傲慢的姿态，嘴角的笑意更浓，似乎在享受这一刻，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "阴险",
+        "duration": 0.34,
+        "description_visual": "中近景低角度镜头；室内，天花板有灯光。；画面中央人物，身穿黑色双排扣长风衣，戴眼镜，抬头看向斜上方，嘴角带着笑意，表情：眉毛微扬，眼睛向上看，嘴角上扬，神情阴险。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "唐昊",
+                "gender": "男",
+                "clothing": "黑色双排扣长风衣，花纹领巾",
+                "position": "画面右侧",
+                "action": "转头看向一侧",
+                "expression": "眉毛平展，眼睛注视，嘴巴微动"
+            }
+        ],
+        "background": "室内，背景模糊。",
+        "description_narrative": "镜头摇向唐昊的侧脸特写，他似乎在对人说话，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 0.8,
+        "description_visual": "特写侧拍镜头（摇镜）；室内，背景模糊。；画面右侧人物，身穿黑色双排扣长风衣，花纹领巾，转头看向一侧，表情：眉毛平展，眼睛注视，嘴巴微动。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣手下",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左侧背景",
+                "action": "模糊可见，似乎在回应",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，画面模糊，光线较暗。",
+        "description_narrative": "画面模糊，似乎是手下的回应声“是”，确认收到命令。",
+        "dialogue": "是",
+        "speaker": "黑衣手下",
+        "emotion": "服从",
+        "duration": 0.4,
+        "description_visual": "特写平拍镜头；室内，画面模糊，光线较暗。；画面左侧背景人物，身穿深色西装，模糊可见，似乎在回应，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "拉远",
+        "subjects": [
+            {
+                "name": "唐昊",
+                "gender": "男",
+                "clothing": "黑色双排扣长风衣",
+                "position": "画面右侧",
+                "action": "转身准备离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "昏暗的室内，光线逐渐变暗。",
+        "description_narrative": "镜头拉远，唐昊的身影在昏暗的光线中转身，准备带着手下离开，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "全景平拍镜头（拉远）；昏暗的室内，光线逐渐变暗。；画面右侧人物，身穿黑色双排扣长风衣，转身准备离开，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景。",
+        "description_narrative": "画面全黑，视频结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.32,
+        "description_visual": "特写平拍镜头；纯黑背景。。"
+    }
+]

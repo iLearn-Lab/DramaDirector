@@ -1,0 +1,1329 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景，无具体场景",
+        "description_narrative": "画面为纯白色，可能是视频过渡或加载界面，无可见人物或物体。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；纯白背景，无具体场景。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央偏左",
+                "action": "站立，低头看着手中的卡片",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣，灰色长裤",
+                "position": "画面右侧后方",
+                "action": "站立，双手自然下垂，看着女子",
+                "expression": "眉毛舒展，眼睛注视女子，嘴巴微闭"
+            }
+        ],
+        "background": "现代风格卧室，暖色灯光，木质衣柜，白色床铺",
+        "description_narrative": "在暖色调的卧室中，身穿黑色睡裙的年轻女子站在床边低头看卡片，身后穿着白色上衣的小林静静站立注视着她。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "全景平拍镜头；现代风格卧室，暖色灯光，木质衣柜，白色床铺；画面中央偏左人物，身穿黑色吊带睡裙，站立，低头看着手中的卡片，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭；画面右侧后方人物，身穿白色长袖上衣，灰色长裤，站立，双手自然下垂，看着女子，表情：眉毛舒展，眼睛注视女子，嘴巴微闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "从背景走向前景，双手拿着卡片",
+                "expression": "眉毛微蹙，眼睛盯着卡片，嘴唇微抿"
+            }
+        ],
+        "background": "卧室一角，可见木质墙面和卫生间入口",
+        "description_narrative": "镜头跟随女子移动，她双手持卡片从房间深处走向床边，神情专注且略带严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "中景平拍镜头（跟拍）；卧室一角，可见木质墙面和卫生间入口；画面中央人物，身穿黑色吊带睡裙，从背景走向前景，双手拿着卡片，表情：眉毛微蹙，眼睛盯着卡片，嘴唇微抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "低头，视线向下",
+                "expression": "眉毛紧锁，眼睛下垂，嘴角向下"
+            }
+        ],
+        "background": "模糊的卧室背景，可见床头柜",
+        "description_narrative": "女子面部特写，她低着头，眉头紧锁，表情显得失落和不悦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；模糊的卧室背景，可见床头柜；画面中央人物，身穿黑色吊带睡裙，低头，视线向下，表情：眉毛紧锁，眼睛下垂，嘴角向下。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面右侧（手部）",
+                "action": "手指捏着一张红色照片",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色 quilted 床品纹理",
+        "description_narrative": "镜头聚焦在女子手中捏着的一张红色背景双人照，照片上是一男一女的合影。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "大特写俯拍镜头；白色 quilted 床品纹理；画面右侧（手部）人物，身穿黑色吊带睡裙，手指捏着一张红色照片，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面右侧（手部）",
+                "action": "手指松开，照片掉落",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色 quilted 床品纹理",
+        "description_narrative": "女子的手指松开，红色照片从空中落下，掉在白色的床铺上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "大特写俯拍镜头；白色 quilted 床品纹理；画面右侧（手部）人物，身穿黑色吊带睡裙，手指松开，照片掉落，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "坐在床边，身体微前倾",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头，可见床头板和装饰画",
+        "description_narrative": "女子坐在床边，低着头，神情沮丧，肩膀微微内扣。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；卧室床头，可见床头板和装饰画；画面中央人物，身穿黑色吊带睡裙，坐在床边，身体微前倾，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面左侧",
+                "action": "侧身站立，视线向下",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "昏暗的室内背景",
+        "description_narrative": "小林侧脸特写，他闭着眼睛深吸一口气，表情显得无奈和隐忍。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写侧拍镜头；昏暗的室内背景；画面左侧人物，身穿白色长袖上衣，侧身站立，视线向下，表情：眉毛舒展，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面左侧，坐在床上",
+                "action": "背对镜头坐着",
+                "expression": "不可见"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣，灰色长裤",
+                "position": "画面右侧",
+                "action": "手持深色衣物，转身走向门口",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微动"
+            }
+        ],
+        "background": "卧室全景，可见床铺和门口",
+        "description_narrative": "女子背对镜头坐在床上，小林拿着衣物转身走向房门，准备离开房间。",
+        "dialogue": "你自己睡吧 我出去了",
+        "speaker": "小林",
+        "emotion": "无奈",
+        "duration": 2.0,
+        "description_visual": "全景平拍镜头；卧室全景，可见床铺和门口；画面左侧，坐在床上人物，身穿黑色吊带睡裙，背对镜头坐着，表情：不可见；画面右侧人物，身穿白色长袖上衣，灰色长裤，手持深色衣物，转身走向门口，表情：眉毛微蹙，眼睛看向前方，嘴巴微动。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "坐在床上，面向前方",
+                "expression": "眉毛微挑，眼睛直视前方，嘴角微撇"
+            }
+        ],
+        "background": "卧室床头背景",
+        "description_narrative": "女子坐在床上，面部表情略带傲娇和不屑，看着小林离开的方向。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "中近景平拍镜头；卧室床头背景；画面中央人物，身穿黑色吊带睡裙，坐在床上，面向前方，表情：眉毛微挑，眼睛直视前方，嘴角微撇。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面左侧（部分可见）",
+                "action": "手握住门把手，准备开门",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质房门",
+        "description_narrative": "小林的手握住门把手，门微微打开，他准备走出房间。",
+        "dialogue": "算你还有点自知之明",
+        "speaker": "年轻女子",
+        "emotion": "傲娇",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；木质房门；画面左侧（部分可见）人物，身穿白色长袖上衣，手握住门把手，准备开门，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "关闭的木质房门纹理",
+        "description_narrative": "房门完全关闭，画面中只剩下深色的木纹门板。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；关闭的木质房门纹理。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "坐在床上，双臂交叉抱胸",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，可见梳妆台",
+        "description_narrative": "女子坐在床上，双臂抱胸，表情突然变得惊讶，似乎听到了什么声音。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.32,
+        "description_visual": "中近景平拍镜头；卧室床头，可见梳妆台；画面中央人物，身穿黑色吊带睡裙，坐在床上，双臂交叉抱胸，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "身体前倾，看向门口",
+                "expression": "眉毛上扬，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头背景",
+        "description_narrative": "女子身体前倾，眼神惊讶地看着门口方向，口中喊出称呼。",
+        "dialogue": "爷爷",
+        "speaker": "年轻女子",
+        "emotion": "惊讶",
+        "duration": 1.08,
+        "description_visual": "中近景平拍镜头；卧室床头背景；画面中央人物，身穿黑色吊带睡裙，身体前倾，看向门口，表情：眉毛上扬，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛紧锁，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室背景，可见装饰画",
+        "description_narrative": "女子站立着，表情不满，眼神带着责备看向某处。",
+        "dialogue": "就知道",
+        "speaker": "年轻女子",
+        "emotion": "不满",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；卧室背景，可见装饰画；画面中央人物，身穿黑色吊带睡裙，站立，身体微侧，表情：眉毛紧锁，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面左侧，背对镜头",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面右侧",
+                "action": "站立，面带微笑看着女子",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴微张"
+            }
+        ],
+        "background": "卧室门口区域",
+        "description_narrative": "爷爷站在门口，身穿绿色唐装，面带笑容地看着背对镜头的女子。",
+        "dialogue": "你是在使小性子",
+        "speaker": "爷爷",
+        "emotion": "慈祥",
+        "duration": 1.32,
+        "description_visual": "中景平拍镜头；卧室门口区域；画面左侧，背对镜头人物，身穿黑色吊带睡裙，站立，表情：不可见；画面右侧人物，身穿绿色中式唐装，站立，面带微笑看着女子，表情：眉毛舒展，眼睛眯起笑，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "面部表情变化",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微撅"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "女子面部特写，她皱着眉头，表情显得委屈和不服气。",
+        "dialogue": "你不让小林进来",
+        "speaker": "年轻女子",
+        "emotion": "委屈",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；卧室背景；画面中央人物，身穿黑色吊带睡裙，面部表情变化，表情：眉毛紧蹙，眼睛瞪大，嘴巴微撅。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "面带笑容，头部微动",
+                "expression": "眉毛上扬，眼睛眯成缝，露齿笑"
+            }
+        ],
+        "background": "木质墙面背景",
+        "description_narrative": "爷爷笑着解释，表情轻松愉快，似乎并不在意女子的抱怨。",
+        "dialogue": "爷爷他自己要出去 还跟你告状啊",
+        "speaker": "爷爷",
+        "emotion": "开心",
+        "duration": 2.6,
+        "description_visual": "特写平拍镜头；木质墙面背景；画面中央人物，身穿绿色中式唐装，面带笑容，头部微动，表情：眉毛上扬，眼睛眯成缝，露齿笑。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "面部表情变化",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "女子表情严肃，眼神中带着质疑和不满，继续与爷爷争辩。",
+        "dialogue": "哎呀 爷爷不能那么偏心",
+        "speaker": "年轻女子",
+        "emotion": "不满",
+        "duration": 2.88,
+        "description_visual": "特写平拍镜头；卧室背景；画面中央人物，身穿黑色吊带睡裙，面部表情变化，表情：眉毛紧锁，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "面部表情变化",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "女子继续表达不满，质问爷爷是否还把她当孙女。",
+        "dialogue": "我还是不是你孙女",
+        "speaker": "年轻女子",
+        "emotion": "委屈",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；卧室背景；画面中央人物，身穿黑色吊带睡裙，面部表情变化，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面左侧",
+                "action": "转身面向门口",
+                "expression": "不可见"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "转身准备离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室全景，可见床铺和门口",
+        "description_narrative": "女子转身看着爷爷，爷爷也转身走向门口，两人似乎要一起出去。",
+        "dialogue": "老爷子是我自己要出去的",
+        "speaker": "爷爷",
+        "emotion": "无奈",
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；卧室全景，可见床铺和门口；画面左侧人物，身穿黑色吊带睡裙，转身面向门口，表情：不可见；画面中央人物，身穿绿色中式唐装，转身准备离开，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "面带微笑，转头说话",
+                "expression": "眉毛舒展，眼睛眯起，露齿笑"
+            }
+        ],
+        "background": "卧室背景，可见圆形装饰画",
+        "description_narrative": "爷爷转头微笑着解释，强调是自己主动要出去的。",
+        "dialogue": "我一个人睡惯了",
+        "speaker": "小林",
+        "emotion": "无奈",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；卧室背景，可见圆形装饰画；画面中央人物，身穿绿色中式唐装，面带微笑，转头说话，表情：眉毛舒展，眼睛眯起，露齿笑。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面中央",
+                "action": "手持深色衣物，站立说话",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，可见镜子",
+        "description_narrative": "小林站在门口，手里拿着衣物，解释自己习惯一个人睡。",
+        "dialogue": "多一个人反而不舒服",
+        "speaker": "小林",
+        "emotion": "无奈",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；室内背景，可见镜子；画面中央人物，身穿白色长袖上衣，手持深色衣物，站立说话，表情：眉毛微蹙，眼睛看向前方，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "面部表情变化",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "女子听着解释，表情依然严肃，眼神中带着怀疑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；卧室背景；画面中央人物，身穿黑色吊带睡裙，面部表情变化，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "面带微笑，点头",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "爷爷听着小林的解释，微笑着点头表示理解。",
+        "dialogue": "是这样啊",
+        "speaker": "爷爷",
+        "emotion": "理解",
+        "duration": 2.48,
+        "description_visual": "特写平拍镜头；卧室背景；画面中央人物，身穿绿色中式唐装，面带微笑，点头，表情：眉毛舒展，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "转身面向小林",
+                "expression": "不可见"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "站立，手持衣物",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室门口区域",
+        "description_narrative": "三人站在门口区域，爷爷转身看向小林，似乎有话要说。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.48,
+        "description_visual": "中景平拍镜头；卧室门口区域；画面左侧人物，身穿黑色吊带睡裙，站立，表情：不可见；画面中央人物，身穿绿色中式唐装，转身面向小林，表情：不可见；画面右侧人物，身穿白色长袖上衣，站立，手持衣物，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室背景，可见圆形装饰画",
+        "description_narrative": "女子站在床边，表情严肃地看着门口方向。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；卧室背景，可见圆形装饰画；画面中央人物，身穿黑色吊带睡裙，站立，表情严肃，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "低头，表情失落",
+                "expression": "眉毛下垂，眼睛视线下移，嘴巴微抿"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "女子低下头，表情显得失落和无奈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；卧室背景；画面中央人物，身穿黑色吊带睡裙，低头，表情失落，表情：眉毛下垂，眼睛视线下移，嘴巴微抿。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "转身，头发甩动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "女子转身背对镜头，长发随之甩动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头（摇镜）；卧室背景；画面中央人物，身穿黑色吊带睡裙，转身，头发甩动，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面左侧",
+                "action": "站立，侧身看着小林",
+                "expression": "不可见"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "背对镜头，准备进门",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质门框",
+        "description_narrative": "爷爷站在门外，看着背对镜头准备进门的小林。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；木质门框；画面左侧人物，身穿绿色中式唐装，站立，侧身看着小林，表情：不可见；画面右侧人物，身穿白色长袖上衣，背对镜头，准备进门，表情：不可见。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "侧脸，手指指向某处",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "爷爷侧脸特写，他伸手指着某个方向，似乎在询问或指示。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "特写平拍镜头；木质墙面；画面中央人物，身穿绿色中式唐装，侧脸，手指指向某处，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "面对爷爷，闭眼说话",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "小林面对爷爷，闭着眼睛解释，似乎在说实话。",
+        "dialogue": "你实话告诉我 是不是小丫头 不让你在里面睡啊",
+        "speaker": "爷爷",
+        "emotion": "怀疑",
+        "duration": 1.96,
+        "description_visual": "特写过肩镜头；木质墙面；画面右侧人物，身穿白色长袖上衣，面对爷爷，闭眼说话，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "侧脸，手指指向",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "爷爷侧脸对着小林，手指着前方，继续追问。",
+        "dialogue": "真不是 是我不习惯",
+        "speaker": "小林",
+        "emotion": "无奈",
+        "duration": 1.32,
+        "description_visual": "特写侧拍镜头；木质墙面；画面中央人物，身穿绿色中式唐装，侧脸，手指指向，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "面对爷爷，表情认真",
+                "expression": "眉毛微蹙，眼睛注视爷爷，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "小林认真地看着爷爷，继续解释自己的习惯。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "特写过肩镜头；木质墙面；画面右侧人物，身穿白色长袖上衣，面对爷爷，表情认真，表情：眉毛微蹙，眼睛注视爷爷，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面左侧",
+                "action": "站立，看着小林",
+                "expression": "不可见"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "手持衣物，站立",
+                "expression": "眉毛微蹙，眼睛注视爷爷，嘴巴微张"
+            }
+        ],
+        "background": "木质门框",
+        "description_narrative": "两人站在门口，小林改口称呼爷爷，表情恭敬。",
+        "dialogue": "爷爷",
+        "speaker": "小林",
+        "emotion": "恭敬",
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头；木质门框；画面左侧人物，身穿绿色中式唐装，站立，看着小林，表情：不可见；画面右侧人物，身穿白色长袖上衣，手持衣物，站立，表情：眉毛微蹙，眼睛注视爷爷，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "低头微笑",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "小林低头笑着回应爷爷，气氛变得轻松。",
+        "dialogue": "哎",
+        "speaker": "爷爷",
+        "emotion": "开心",
+        "duration": 1.56,
+        "description_visual": "特写过肩镜头；木质墙面；画面右侧人物，身穿白色长袖上衣，低头微笑，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "低头大笑",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴张开笑"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "小林忍不住笑出声来，表情愉快。",
+        "dialogue": "哈哈哈哈",
+        "speaker": "小林",
+        "emotion": "开心",
+        "duration": 2.96,
+        "description_visual": "特写过肩镜头；木质墙面；画面右侧人物，身穿白色长袖上衣，低头大笑，表情：眉毛舒展，眼睛闭合，嘴巴张开笑。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "面带笑容",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "爷爷也笑着，气氛融洽。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；木质墙面；画面中央人物，身穿绿色中式唐装，面带笑容，表情：眉毛舒展，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "闭眼说话",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "小林闭着眼睛继续解释，说睡着睡着就习惯了。",
+        "dialogue": "不习惯有什么啊 睡着睡着就",
+        "speaker": "爷爷",
+        "emotion": "劝导",
+        "duration": 3.92,
+        "description_visual": "特写过肩镜头；木质墙面；画面右侧人物，身穿白色长袖上衣，闭眼说话，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "特写",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "睁眼说话",
+                "expression": "眉毛舒展，眼睛睁开，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "小林睁眼说完后半句，表示习惯是可以养成的。",
+        "dialogue": "习惯了",
+        "speaker": "爷爷",
+        "emotion": "劝导",
+        "duration": 3.44,
+        "description_visual": "特写过肩镜头；木质墙面；画面右侧人物，身穿白色长袖上衣，睁眼说话，表情：眉毛舒展，眼睛睁开，嘴巴微张。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面左侧",
+                "action": "伸手推小林",
+                "expression": "不可见"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面右侧",
+                "action": "转身准备进门",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质门框",
+        "description_narrative": "爷爷伸手推着小林，让他回去睡觉，说要看着他们。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.16,
+        "description_visual": "中景平拍镜头；木质门框；画面左侧人物，身穿绿色中式唐装，伸手推小林，表情：不可见；画面右侧人物，身穿白色长袖上衣，转身准备进门，表情：不可见。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面右侧，躺在床上",
+                "action": "靠在床头，盖着被子",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "卧室床铺，可见梳妆台",
+        "description_narrative": "女子躺在床上，盖着白色被子，表情惊讶地看着门口。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.68,
+        "description_visual": "全景平拍镜头；卧室床铺，可见梳妆台；画面右侧，躺在床上人物，身穿黑色吊带睡裙，靠在床头，盖着被子，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面左侧",
+                "action": "手持深色衣物，走进房间",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴微动"
+            }
+        ],
+        "background": "昏暗的室内",
+        "description_narrative": "小林拿着衣物走进房间，表情略显尴尬。",
+        "dialogue": "老爷子非得让我们一起睡",
+        "speaker": "小林",
+        "emotion": "无奈",
+        "duration": 3.08,
+        "description_visual": "中景平拍镜头（跟拍）；昏暗的室内；画面左侧人物，身穿白色长袖上衣，手持深色衣物，走进房间，表情：眉毛微蹙，眼睛看向前方，嘴巴微动。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "坐在床上，转头看小林",
+                "expression": "眉毛微蹙，眼睛注视小林，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "女子坐在床上，转头看着走进来的小林，表情惊讶。",
+        "dialogue": "你",
+        "speaker": "年轻女子",
+        "emotion": "惊讶",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；卧室床头；画面中央人物，身穿黑色吊带睡裙，坐在床上，转头看小林，表情：眉毛微蹙，眼睛注视小林，嘴巴微张。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面中央",
+                "action": "站立，手持衣物",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴微动"
+            }
+        ],
+        "background": "昏暗的室内",
+        "description_narrative": "小林站在床边，小声对女子说话，提议自己睡地上。",
+        "dialogue": "小点声 我睡地上你睡床 别让老爷子又听到了",
+        "speaker": "小林",
+        "emotion": "谨慎",
+        "duration": 4.52,
+        "description_visual": "中近景平拍镜头；昏暗的室内；画面中央人物，身穿白色长袖上衣，站立，手持衣物，表情：眉毛微蹙，眼睛注视女子，嘴巴微动。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面右侧，躺在床上",
+                "action": "坐在床上，双手放在被子上",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床铺，可见梳妆台",
+        "description_narrative": "女子坐在床上，听着小林的话，表情复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.52,
+        "description_visual": "全景平拍镜头；卧室床铺，可见梳妆台；画面右侧，躺在床上人物，身穿黑色吊带睡裙，坐在床上，双手放在被子上，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面右侧，躺在床上",
+                "action": "坐在床上，看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面左侧（模糊）",
+                "action": "前景模糊，正在移动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室床铺",
+        "description_narrative": "女子坐在床上看着前方，小林的身影在前景模糊移动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "全景平拍镜头；卧室床铺；画面右侧，躺在床上人物，身穿黑色吊带睡裙，坐在床上，看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面左侧（模糊）人物，身穿白色长袖上衣，前景模糊，正在移动，表情：不可见。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面中央",
+                "action": "双手展开深色衣物/毯子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "窗帘背景",
+        "description_narrative": "小林站在床前，双手展开深色的毯子，准备铺在地上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；窗帘背景；画面中央人物，身穿白色长袖上衣，双手展开深色衣物/毯子，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 48,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "双手抓着白色被子",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "女子紧紧抓着白色被子，眼神警惕地看着旁边。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.68,
+        "description_visual": "特写平拍镜头；卧室床头；画面中央人物，身穿黑色吊带睡裙，双手抓着白色被子，表情：眉毛微蹙，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 49,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色长袖上衣",
+                "position": "画面左侧",
+                "action": "弯腰，准备铺被子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "窗帘背景",
+        "description_narrative": "小林弯腰准备铺被子，表情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；窗帘背景；画面左侧人物，身穿白色长袖上衣，弯腰，准备铺被子，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 50,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "双手抓着被子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "女子低头看着被子，表情略显紧张。",
+        "dialogue": "睡觉",
+        "speaker": "小林",
+        "emotion": "无奈",
+        "duration": 3.84,
+        "description_visual": "特写平拍镜头；卧室床头；画面中央人物，身穿黑色吊带睡裙，双手抓着被子，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 51,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "双手抓着被子，眼神游移",
+                "expression": "眉毛微蹙，眼睛左右看，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "女子紧紧抓着被子，眼神不安地左右游移。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；卧室床头；画面中央人物，身穿黑色吊带睡裙，双手抓着被子，眼神游移，表情：眉毛微蹙，眼睛左右看，嘴巴紧闭。"
+    },
+    {
+        "index": 52,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "双手抓着被子",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "女子继续抓着被子，表情紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；卧室床头；画面中央人物，身穿黑色吊带睡裙，双手抓着被子，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 53,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "面部表情变化",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "女子抬头看向前方，表情依然严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 6.0,
+        "description_visual": "特写平拍镜头；卧室床头；画面中央人物，身穿黑色吊带睡裙，面部表情变化，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 54,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡裙",
+                "position": "画面中央",
+                "action": "面部表情变化",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头",
+        "description_narrative": "女子保持着严肃的表情，画面结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；卧室床头；画面中央人物，身穿黑色吊带睡裙，面部表情变化，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    }
+]

@@ -1,0 +1,919 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "低头查看手中的文件",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微闭"
+            }
+        ],
+        "background": "写字楼大堂，背景有楼层指示牌和闸机，光线明亮",
+        "description_narrative": "中景固定镜头，被绑架女子身穿粉色粗花呢连衣裙站在大堂中央，低头专注查看手中的文件，神情平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.72,
+        "description_visual": "中景平拍镜头；写字楼大堂，背景有楼层指示牌和闸机，光线明亮；画面中央人物，身穿粉色粗花呢连衣裙，低头查看手中的文件，表情：眉毛舒展，眼睛视线下移，嘴巴微闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "夜晚的建筑物入口处，地面有排水格栅，右侧停着一辆面包车，车灯亮起",
+        "description_narrative": "全景固定镜头，夜晚的建筑物入口外，一辆面包车停在右侧，车灯照亮了前方的地面和排水格栅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.6,
+        "description_visual": "全景平拍镜头；夜晚的建筑物入口处，地面有排水格栅，右侧停着一辆面包车，车灯亮起。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "手持文件夹从玻璃门走出",
+                "expression": "眉毛微蹙，眼睛看向前方，嘴巴紧闭"
+            }
+        ],
+        "background": "建筑物出口处，背景有前台和标识，光线昏黄",
+        "description_narrative": "全景跟拍镜头，被绑架女子手持文件夹从玻璃门走出，步伐稳健，背景是昏黄的大堂前台。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.76,
+        "description_visual": "全景平拍镜头（跟拍）；建筑物出口处，背景有前台和标识，光线昏黄；画面中央人物，身穿粉色粗花呢连衣裙，手持文件夹从玻璃门走出，表情：眉毛微蹙，眼睛看向前方，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [],
+        "background": "夜晚建筑物入口，面包车车头大灯刺眼，照亮前方路面",
+        "description_narrative": "全景推进镜头，面包车车头大灯亮起，强光直射镜头，车辆缓缓向前移动靠近入口。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "全景平拍镜头（推进）；夜晚建筑物入口，面包车车头大灯刺眼，照亮前方路面。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣歹徒",
+                "gender": "男",
+                "clothing": "黑色外套背后有黄色图案",
+                "position": "画面右侧前景",
+                "action": "背对镜头站在车旁",
+                "expression": "不可见"
+            },
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面左侧背景",
+                "action": "站在车窗外",
+                "expression": "面部模糊，神情警惕"
+            }
+        ],
+        "background": "车内视角，透过车窗看到外部人物，光线昏暗",
+        "description_narrative": "近景固定镜头，从车内向外拍摄，黑衣歹徒背对镜头站在右侧，被绑架女子模糊的身影出现在左侧车窗外。",
+        "dialogue": "你们要干什么",
+        "speaker": "被绑架女子",
+        "emotion": "惊恐",
+        "duration": 1.48,
+        "description_visual": "近景过肩镜头；车内视角，透过车窗看到外部人物，光线昏暗；画面右侧前景人物，身穿黑色外套背后有黄色图案，背对镜头站在车旁，表情：不可见；画面左侧背景人物，身穿粉色粗花呢连衣裙，站在车窗外，表情：面部模糊，神情警惕。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "黑衣歹徒",
+                "gender": "男",
+                "clothing": "黑色外套背后有黄色图案，白色裤子",
+                "position": "画面左侧",
+                "action": "伸手抓住女子手臂",
+                "expression": "不可见"
+            },
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "身体后仰挣扎",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴张开呼喊"
+            },
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克，破洞牛仔裤",
+                "position": "画面右侧",
+                "action": "从车旁冲过来伸手抓人",
+                "expression": "眉毛上扬，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "夜晚建筑物入口，面包车停在右侧，地面有格栅",
+        "description_narrative": "中景摇镜，黑衣歹徒从左侧抓住女子，绿衣歹徒从右侧冲来，被绑架女子在中间挣扎呼喊，场面混乱。",
+        "dialogue": "干什么 放开",
+        "speaker": "被绑架女子",
+        "emotion": "愤怒",
+        "duration": 2.04,
+        "description_visual": "中景平拍镜头（摇镜）；夜晚建筑物入口，面包车停在右侧，地面有格栅；画面左侧人物，身穿黑色外套背后有黄色图案，白色裤子，伸手抓住女子手臂，表情：不可见；画面中央人物，身穿粉色粗花呢连衣裙，身体后仰挣扎，表情：眉毛紧锁，眼睛睁大，嘴巴张开呼喊；画面右侧人物，身穿墨绿色夹克，破洞牛仔裤，从车旁冲过来伸手抓人，表情：眉毛上扬，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克，破洞牛仔裤",
+                "position": "画面左侧",
+                "action": "双手用力推搡女子背部",
+                "expression": "眉毛压低，眼睛眯起，嘴巴紧闭用力"
+            },
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "被强行推向车辆方向，双手护住头部",
+                "expression": "眼睛紧闭，嘴巴微张，面部痛苦"
+            },
+            {
+                "name": "黑衣歹徒",
+                "gender": "男",
+                "clothing": "黑色外套，白色裤子",
+                "position": "画面右侧",
+                "action": "协助推搡女子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "夜晚室外，背景有玻璃窗反射灯光",
+        "description_narrative": "中近景跟拍，绿衣歹徒和黑衣歹徒合力将女子推向面包车，女子双手护头挣扎，身体前倾。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头（跟拍）；夜晚室外，背景有玻璃窗反射灯光；画面左侧人物，身穿墨绿色夹克，破洞牛仔裤，双手用力推搡女子背部，表情：眉毛压低，眼睛眯起，嘴巴紧闭用力；画面中央人物，身穿粉色粗花呢连衣裙，被强行推向车辆方向，双手护住头部，表情：眼睛紧闭，嘴巴微张，面部痛苦；画面右侧人物，身穿黑色外套，白色裤子，协助推搡女子，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫歹徒",
+                "gender": "男",
+                "clothing": "黑色印有金色仙鹤图案衬衫",
+                "position": "画面右侧车内",
+                "action": "从面包车侧门探身出来",
+                "expression": "不可见"
+            }
+        ],
+        "background": "面包车内部及侧门，光线昏暗，车门敞开",
+        "description_narrative": "中景固定镜头，花衬衫歹徒从面包车侧门探出身子，一手扶着车门框，准备接应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.48,
+        "description_visual": "中景平拍镜头；面包车内部及侧门，光线昏暗，车门敞开；画面右侧车内人物，身穿黑色印有金色仙鹤图案衬衫，从面包车侧门探身出来，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克，银色项链",
+                "position": "画面左侧前景",
+                "action": "低头微笑",
+                "expression": "眉毛舒展，眼睛眯成缝，嘴角上扬露齿"
+            },
+            {
+                "name": "花衬衫歹徒",
+                "gender": "男",
+                "clothing": "黑色印有金色仙鹤图案衬衫",
+                "position": "画面右侧背景",
+                "action": "站在身后注视",
+                "expression": "眉毛平缓，眼睛微眯，嘴巴紧闭"
+            }
+        ],
+        "background": "室内白色墙壁，光线冷白",
+        "description_narrative": "近景固定镜头，绿衣歹徒低头露出猥琐笑容，花衬衫歹徒站在其身后背景处面无表情地看着。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；室内白色墙壁，光线冷白；画面左侧前景人物，身穿墨绿色夹克，银色项链，低头微笑，表情：眉毛舒展，眼睛眯成缝，嘴角上扬露齿；画面右侧背景人物，身穿黑色印有金色仙鹤图案衬衫，站在身后注视，表情：眉毛平缓，眼睛微眯，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克，破洞牛仔裤",
+                "position": "画面中央",
+                "action": "手持矿泉水瓶大笑，身体后仰",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张露齿"
+            },
+            {
+                "name": "黑衣歹徒",
+                "gender": "男",
+                "clothing": "黑色外套，白色裤子",
+                "position": "画面左侧",
+                "action": "站在门口",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "花衬衫歹徒",
+                "gender": "男",
+                "clothing": "黑色印有金色仙鹤图案衬衫",
+                "position": "画面右侧",
+                "action": "站在旁边",
+                "expression": "眉毛平缓，眼睛微眯，嘴角微扬"
+            }
+        ],
+        "background": "室内房间，背景有白色门和地面杂物",
+        "description_narrative": "中景固定镜头，绿衣歹徒手持水瓶仰头大笑，黑衣歹徒和花衬衫歹徒分列两侧站立。",
+        "dialogue": "哈哈哈哈哈哈",
+        "speaker": "绿衣歹徒",
+        "emotion": "得意",
+        "duration": 3.36,
+        "description_visual": "中景平拍镜头；室内房间，背景有白色门和地面杂物；画面中央人物，身穿墨绿色夹克，破洞牛仔裤，手持矿泉水瓶大笑，身体后仰，表情：眉毛上扬，眼睛眯起，嘴巴大张露齿；画面左侧人物，身穿黑色外套，白色裤子，站在门口，表情：眉毛微蹙，眼睛直视，嘴巴紧闭；画面右侧人物，身穿黑色印有金色仙鹤图案衬衫，站在旁边，表情：眉毛平缓，眼睛微眯，嘴角微扬。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "闭眼皱眉，头部微垂",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴微张痛苦"
+            }
+        ],
+        "background": "模糊的室内背景，光线冷白",
+        "description_narrative": "特写固定镜头，被绑架女子双眼紧闭，眉头紧锁，面部表情痛苦，似乎刚苏醒或处于极度不适中。",
+        "dialogue": "醒了啊",
+        "speaker": "绿衣歹徒",
+        "emotion": "嘲讽",
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头；模糊的室内背景，光线冷白；画面中央人物，身穿粉色粗花呢连衣裙，闭眼皱眉，头部微垂，表情：眉毛紧锁，眼睛紧闭，嘴巴微张痛苦。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面左侧前景",
+                "action": "仰头大笑",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴大张"
+            },
+            {
+                "name": "花衬衫歹徒",
+                "gender": "男",
+                "clothing": "黑色印有金色仙鹤图案衬衫",
+                "position": "画面右侧背景",
+                "action": "微笑注视",
+                "expression": "眉毛平缓，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内白色墙壁，光线冷白",
+        "description_narrative": "近景仰拍镜头，绿衣歹徒仰头张嘴大笑，花衬衫歹徒在后方背景中面带微笑看着。",
+        "dialogue": "哈哈哈哈哈哈",
+        "speaker": "绿衣歹徒",
+        "emotion": "狂笑",
+        "duration": 3.0,
+        "description_visual": "近景仰拍镜头；室内白色墙壁，光线冷白；画面左侧前景人物，身穿墨绿色夹克，仰头大笑，表情：眉毛舒展，眼睛紧闭，嘴巴大张；画面右侧背景人物，身穿黑色印有金色仙鹤图案衬衫，微笑注视，表情：眉毛平缓，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "睁眼怒视前方",
+                "expression": "眉毛倒竖，眼睛圆睁，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线冷白",
+        "description_narrative": "特写固定镜头，被绑架女子猛地睁开双眼，眉头紧皱，眼神愤怒且惊恐地直视前方。",
+        "dialogue": "谁派你们来的",
+        "speaker": "被绑架女子",
+        "emotion": "愤怒",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；模糊的室内背景，光线冷白；画面中央人物，身穿粉色粗花呢连衣裙，睁眼怒视前方，表情：眉毛倒竖，眼睛圆睁，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克，银色项链",
+                "position": "画面左侧",
+                "action": "侧头微笑",
+                "expression": "眉毛微挑，眼睛眯起，嘴角上扬露齿"
+            },
+            {
+                "name": "花衬衫歹徒",
+                "gender": "男",
+                "clothing": "黑色印有金色仙鹤图案衬衫",
+                "position": "画面右侧",
+                "action": "站在身后",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内白色墙壁，光线冷白",
+        "description_narrative": "近景固定镜头，绿衣歹徒侧头露出戏谑的笑容，花衬衫歹徒部分身体出现在右侧背景中。",
+        "dialogue": "先别管谁让我们来的",
+        "speaker": "绿衣歹徒",
+        "emotion": "轻蔑",
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；室内白色墙壁，光线冷白；画面左侧人物，身穿墨绿色夹克，银色项链，侧头微笑，表情：眉毛微挑，眼睛眯起，嘴角上扬露齿；画面右侧人物，身穿黑色印有金色仙鹤图案衬衫，站在身后，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "眼神惊恐地看向一侧",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，光线冷白",
+        "description_narrative": "特写固定镜头，被绑架女子眼神中充满恐惧，眉头紧锁，嘴唇微张，似乎听到了可怕的话。",
+        "dialogue": "先让我尝尝你是酸的",
+        "speaker": "绿衣歹徒",
+        "emotion": "威胁",
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头；模糊的室内背景，光线冷白；画面中央人物，身穿粉色粗花呢连衣裙，眼神惊恐地看向一侧，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克，破洞牛仔裤",
+                "position": "画面中央",
+                "action": "站立大笑，身体微前倾",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张露齿"
+            },
+            {
+                "name": "黑衣歹徒",
+                "gender": "男",
+                "clothing": "黑色外套，白色裤子",
+                "position": "画面左侧",
+                "action": "站在旁边微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内房间，背景有白色门",
+        "description_narrative": "中近景固定镜头，绿衣歹徒站立大笑，身体微微前倾，黑衣歹徒在左侧背景中面带微笑。",
+        "dialogue": "先让我尝尝你是酸的",
+        "speaker": "绿衣歹徒",
+        "emotion": "猥琐",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；室内房间，背景有白色门；画面中央人物，身穿墨绿色夹克，破洞牛仔裤，站立大笑，身体微前倾，表情：眉毛上扬，眼睛眯起，嘴巴大张露齿；画面左侧人物，身穿黑色外套，白色裤子，站在旁边微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面左侧",
+                "action": "坐在椅子上，身体后缩",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面右侧前景",
+                "action": "手臂伸向女子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，黑色办公椅背可见",
+        "description_narrative": "近景过肩镜头，绿衣歹徒的手臂伸入画面，被绑架女子坐在椅子上身体后缩，表情厌恶恐惧。",
+        "dialogue": "先让我尝尝你是酸的",
+        "speaker": "绿衣歹徒",
+        "emotion": "威胁",
+        "duration": 1.08,
+        "description_visual": "近景过肩镜头；室内，黑色办公椅背可见；画面左侧人物，身穿粉色粗花呢连衣裙，坐在椅子上，身体后缩，表情：眉毛紧锁，眼睛下视，嘴巴紧闭；画面右侧前景人物，身穿墨绿色夹克，手臂伸向女子，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面左侧",
+                "action": "伸手触摸女子下巴",
+                "expression": "眉毛微挑，眼睛眯起，嘴巴微张"
+            },
+            {
+                "name": "花衬衫歹徒",
+                "gender": "男",
+                "clothing": "黑色印有金色仙鹤图案衬衫",
+                "position": "画面右侧背景",
+                "action": "站在身后观看",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内房间，背景有白色门",
+        "description_narrative": "中近景固定镜头，绿衣歹徒伸手捏住女子下巴，脸上带着猥琐的笑容，花衬衫歹徒在后方观看。",
+        "dialogue": "还是甜的",
+        "speaker": "绿衣歹徒",
+        "emotion": "轻浮",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；室内房间，背景有白色门；画面左侧人物，身穿墨绿色夹克，伸手触摸女子下巴，表情：眉毛微挑，眼睛眯起，嘴巴微张；画面右侧背景人物，身穿黑色印有金色仙鹤图案衬衫，站在身后观看，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面右侧",
+                "action": "被捏住下巴，抬头怒视",
+                "expression": "眉毛倒竖，眼睛圆睁，嘴巴微张"
+            },
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面左侧前景",
+                "action": "手捏女子下巴",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的白色墙壁",
+        "description_narrative": "特写固定镜头，绿衣歹徒的手捏住女子下巴，女子被迫抬头，眼神愤怒且充满恐惧地瞪着对方。",
+        "dialogue": "甜的 哈哈哈哈哈哈",
+        "speaker": "绿衣歹徒",
+        "emotion": "狂笑",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；模糊的白色墙壁；画面右侧人物，身穿粉色粗花呢连衣裙，被捏住下巴，抬头怒视，表情：眉毛倒竖，眼睛圆睁，嘴巴微张；画面左侧前景人物，身穿墨绿色夹克，手捏女子下巴，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面左侧",
+                "action": "低头大笑",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴大张"
+            },
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面右下角",
+                "action": "低头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的白色墙壁",
+        "description_narrative": "近景固定镜头，绿衣歹徒低头张嘴大笑，被绑架女子的头顶出现在画面右下角。",
+        "dialogue": "哎哟",
+        "speaker": "绿衣歹徒",
+        "emotion": "戏谑",
+        "duration": 2.64,
+        "description_visual": "近景平拍镜头；模糊的白色墙壁；画面左侧人物，身穿墨绿色夹克，低头大笑，表情：眉毛舒展，眼睛紧闭，嘴巴大张；画面右下角人物，身穿粉色粗花呢连衣裙，低头，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "坐在椅子上，眼神向下",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，黑色椅背",
+        "description_narrative": "特写固定镜头，被绑架女子坐在椅子上，眉头紧锁，眼神向下，表情痛苦且隐忍。",
+        "dialogue": "哎哟 还是辣的",
+        "speaker": "绿衣歹徒",
+        "emotion": "调戏",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；模糊的室内背景，黑色椅背；画面中央人物，身穿粉色粗花呢连衣裙，坐在椅子上，眼神向下，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面中央",
+                "action": "弯腰大笑，手摸裤腰",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张露齿"
+            }
+        ],
+        "background": "室内白色墙壁",
+        "description_narrative": "近景固定镜头，绿衣歹徒弯腰大笑，双手放在裤腰处，神情极度猥琐。",
+        "dialogue": "哈哈哈哈哈哈",
+        "speaker": "绿衣歹徒",
+        "emotion": "狂笑",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；室内白色墙壁；画面中央人物，身穿墨绿色夹克，弯腰大笑，手摸裤腰，表情：眉毛上扬，眼睛眯起，嘴巴大张露齿。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克，破洞牛仔裤",
+                "position": "画面中央",
+                "action": "双手拉扯裤腰，大笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴巴大张"
+            },
+            {
+                "name": "花衬衫歹徒",
+                "gender": "男",
+                "clothing": "黑色印有金色仙鹤图案衬衫",
+                "position": "画面右侧",
+                "action": "站在旁边鼓掌或观看",
+                "expression": "眉毛平缓，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内房间，背景有白色门",
+        "description_narrative": "中景固定镜头，绿衣歹徒双手拉扯裤腰大笑，花衬衫歹徒站在右侧面带微笑观看。",
+        "dialogue": "让我先来吧",
+        "speaker": "绿衣歹徒",
+        "emotion": "急切",
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；室内房间，背景有白色门；画面中央人物，身穿墨绿色夹克，破洞牛仔裤，双手拉扯裤腰，大笑，表情：眉毛舒展，眼睛眯起，嘴巴大张；画面右侧人物，身穿黑色印有金色仙鹤图案衬衫，站在旁边鼓掌或观看，表情：眉毛平缓，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "坐在椅子上，眼神惊恐",
+                "expression": "眉毛倒竖，眼睛圆睁，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景，黑色椅背",
+        "description_narrative": "特写固定镜头，被绑架女子坐在椅子上，双眼圆睁，眉头紧锁，嘴巴微张，满脸惊恐。",
+        "dialogue": "你那小的",
+        "speaker": "绿衣歹徒",
+        "emotion": "嘲讽",
+        "duration": 1.76,
+        "description_visual": "特写平拍镜头；模糊的室内背景，黑色椅背；画面中央人物，身穿粉色粗花呢连衣裙，坐在椅子上，眼神惊恐，表情：眉毛倒竖，眼睛圆睁，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣歹徒",
+                "gender": "男",
+                "clothing": "黑色外套，白色裤子",
+                "position": "画面左侧",
+                "action": "站立，伸手比划",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克，破洞牛仔裤",
+                "position": "画面右侧",
+                "action": "侧身对着黑衣歹徒，手指对方",
+                "expression": "眉毛压低，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，背景有白色门",
+        "description_narrative": "中景固定镜头，绿衣歹徒侧身指着黑衣歹徒，黑衣歹徒站在左侧伸手比划，两人似乎在争吵。",
+        "dialogue": "你那小的跟牙签一样",
+        "speaker": "绿衣歹徒",
+        "emotion": "侮辱",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；室内房间，背景有白色门；画面左侧人物，身穿黑色外套，白色裤子，站立，伸手比划，表情：眉毛微蹙，眼睛直视，嘴巴微张；画面右侧人物，身穿墨绿色夹克，破洞牛仔裤，侧身对着黑衣歹徒，手指对方，表情：眉毛压低，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫歹徒",
+                "gender": "男",
+                "clothing": "黑色印有金色仙鹤图案衬衫",
+                "position": "画面右侧",
+                "action": "探头说话",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面左侧前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内白色墙壁，蓝色标识牌一角",
+        "description_narrative": "近景过肩镜头，花衬衫歹徒从绿衣歹徒身后探出头来，面带笑意地说话。",
+        "dialogue": "我也要 大哥 我也要去",
+        "speaker": "花衬衫歹徒",
+        "emotion": "起哄",
+        "duration": 1.68,
+        "description_visual": "近景过肩镜头；室内白色墙壁，蓝色标识牌一角；画面右侧人物，身穿黑色印有金色仙鹤图案衬衫，探头说话，表情：眉毛微挑，眼睛直视，嘴巴微张；画面左侧前景人物，身穿墨绿色夹克，背影，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣歹徒",
+                "gender": "男",
+                "clothing": "黑色外套，白色裤子",
+                "position": "画面左侧",
+                "action": "激动地挥手争辩",
+                "expression": "眉毛倒竖，眼睛圆睁，嘴巴大张"
+            },
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面右侧",
+                "action": "侧身站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内房间，背景有白色门",
+        "description_narrative": "中景固定镜头，黑衣歹徒激动地挥手争辩，表情愤怒，绿衣歹徒站在右侧背对镜头。",
+        "dialogue": "还敢打我",
+        "speaker": "黑衣歹徒",
+        "emotion": "愤怒",
+        "duration": 1.16,
+        "description_visual": "中景平拍镜头；室内房间，背景有白色门；画面左侧人物，身穿黑色外套，白色裤子，激动地挥手争辩，表情：眉毛倒竖，眼睛圆睁，嘴巴大张；画面右侧人物，身穿墨绿色夹克，侧身站立，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "低头，头发凌乱",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，被绑架女子低着头，长发遮住部分脸庞，眉头紧锁，神情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿粉色粗花呢连衣裙，低头，头发凌乱，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "双手被粗麻绳捆绑在椅背上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景，黑色椅背",
+        "description_narrative": "特写固定镜头，聚焦于被绑架女子的双手，手腕被粗麻绳紧紧捆绑在黑色椅背上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头；模糊的室内背景，黑色椅背；画面中央人物，身穿粉色粗花呢连衣裙，双手被粗麻绳捆绑在椅背上，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面右侧",
+                "action": "从背后锁住黑衣歹徒的脖子",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴大张怒吼"
+            },
+            {
+                "name": "黑衣歹徒",
+                "gender": "男",
+                "clothing": "黑色外套，白色裤子",
+                "position": "画面左侧",
+                "action": "被锁住脖子，身体前倾挣扎",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内白色墙壁，角落有红色凳子",
+        "description_narrative": "中景固定镜头，绿衣歹徒从背后用手臂锁住黑衣歹徒的脖子，两人扭打在一起，绿衣歹徒表情狰狞。",
+        "dialogue": "你没点数啊",
+        "speaker": "绿衣歹徒",
+        "emotion": "愤怒",
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；室内白色墙壁，角落有红色凳子；画面右侧人物，身穿墨绿色夹克，从背后锁住黑衣歹徒的脖子，表情：眉毛紧锁，眼睛眯起，嘴巴大张怒吼；画面左侧人物，身穿黑色外套，白色裤子，被锁住脖子，身体前倾挣扎，表情：不可见。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "双手在背后用力挣脱绳索",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写固定镜头，被绑架女子的双手在背后用力扭动，试图挣脱粗麻绳的束缚。",
+        "dialogue": "你没点数啊",
+        "speaker": "绿衣歹徒",
+        "emotion": "愤怒",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿粉色粗花呢连衣裙，双手在背后用力挣脱绳索，表情：不可见。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "被绑架女子",
+                "gender": "女",
+                "clothing": "粉色粗花呢连衣裙",
+                "position": "画面中央",
+                "action": "背对镜头跑向双开门",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内房间，背景有白色双开门",
+        "description_narrative": "全景跟拍镜头，被绑架女子背对镜头，长发飞舞，快速跑向背景处的白色双开门。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头（跟拍）；室内房间，背景有白色双开门；画面中央人物，身穿粉色粗花呢连衣裙，背对镜头跑向双开门，表情：不可见。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "绿衣歹徒",
+                "gender": "男",
+                "clothing": "墨绿色夹克",
+                "position": "画面左侧",
+                "action": "被黑衣歹徒抱住腰",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴大张"
+            },
+            {
+                "name": "黑衣歹徒",
+                "gender": "男",
+                "clothing": "黑色外套",
+                "position": "画面中央",
+                "action": "从背后抱住绿衣歹徒",
+                "expression": "不可见"
+            },
+            {
+                "name": "花衬衫歹徒",
+                "gender": "男",
+                "clothing": "黑色印有金色仙鹤图案衬衫",
+                "position": "画面右侧",
+                "action": "伸手拉扯",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，白色墙壁",
+        "description_narrative": "中景固定镜头，三名歹徒扭打在一起，绿衣歹徒被黑衣歹徒抱住，花衬衫歹徒在一旁拉扯，场面混乱。",
+        "dialogue": "跑了",
+        "speaker": "花衬衫歹徒",
+        "emotion": "惊慌",
+        "duration": 5.24,
+        "description_visual": "中景平拍镜头；室内房间，白色墙壁；画面左侧人物，身穿墨绿色夹克，被黑衣歹徒抱住腰，表情：眉毛紧锁，眼睛眯起，嘴巴大张；画面中央人物，身穿黑色外套，从背后抱住绿衣歹徒，表情：不可见；画面右侧人物，身穿黑色印有金色仙鹤图案衬衫，伸手拉扯，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    }
+]

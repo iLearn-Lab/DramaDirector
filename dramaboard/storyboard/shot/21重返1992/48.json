@@ -1,0 +1,512 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "白色短袖衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神惊讶地看向前方",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "花衬衫青年",
+                "gender": "男",
+                "clothing": "橙色花纹衬衫内搭白色 T 恤",
+                "position": "前景右侧",
+                "action": "背对镜头，身体前倾",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内昏暗环境，背景模糊，可见部分家具轮廓",
+        "description_narrative": "近景固定镜头，中年男子身穿白色短袖衬衫，神情惊讶地看向前方，前景右侧花衬衫青年背对镜头，似乎正在激动地诉说。",
+        "dialogue": "我特么想通了",
+        "speaker": "花衬衫青年",
+        "emotion": "激动",
+        "duration": 0.94,
+        "description_visual": "近景平拍镜头；室内昏暗环境，背景模糊，可见部分家具轮廓；画面中央人物，身穿白色短袖衬衫，头部微侧，眼神惊讶地看向前方，表情：眉毛微挑，眼睛睁大，嘴巴微张；前景右侧人物，身穿橙色花纹衬衫内搭白色 T 恤，背对镜头，身体前倾，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫青年",
+                "gender": "男",
+                "clothing": "橙色花纹衬衫内搭白色 T 恤",
+                "position": "画面左侧",
+                "action": "身体前倾，眼神急切地盯着对方",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张说话"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "白色短袖衬衫",
+                "position": "前景右侧",
+                "action": "背影模糊，面向花衬衫青年",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内昏暗角落，光线集中在人物面部",
+        "description_narrative": "过肩近景，花衬衫青年神情焦急，身体前倾，对着面前的中年男子揭露真相，字幕显示他在指责冯磊。",
+        "dialogue": "冯磊这小子坑咱们呢",
+        "speaker": "花衬衫青年",
+        "emotion": "愤怒",
+        "duration": 2.54,
+        "description_visual": "近景过肩镜头；室内昏暗角落，光线集中在人物面部；画面左侧人物，身穿橙色花纹衬衫内搭白色 T 恤，身体前倾，眼神急切地盯着对方，表情：眉毛紧锁，眼睛直视，嘴巴微张说话；前景右侧人物，身穿白色短袖衬衫，背影模糊，面向花衬衫青年，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫青年",
+                "gender": "男",
+                "clothing": "橙色花纹衬衫内搭白色 T 恤",
+                "position": "画面中央",
+                "action": "站立，身体略微僵硬",
+                "expression": "眉毛舒展，眼神疑惑，嘴巴紧闭"
+            }
+        ],
+        "background": "昏暗室内，光线带有蓝色调",
+        "description_narrative": "近景固定镜头，花衬衫青年站在昏暗的室内，脸上带着疑惑和震惊的表情，光线偏冷。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疑惑",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；昏暗室内，光线带有蓝色调；画面中央人物，身穿橙色花纹衬衫内搭白色 T 恤，站立，身体略微僵硬，表情：眉毛舒展，眼神疑惑，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面，场景过渡",
+        "description_narrative": "画面全黑，作为场景转换的过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.96,
+        "description_visual": "全景平拍镜头；全黑画面，场景过渡。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "靠在窗台边，手持冰棍正在吃",
+                "expression": "眉毛微蹙，眼睛看向同伴，嘴巴咀嚼"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面右侧",
+                "action": "靠在窗台边，手持冰棍正在吃",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴咀嚼"
+            }
+        ],
+        "background": "红砖墙建筑外，白色遮阳棚下，光线明亮",
+        "description_narrative": "中景固定镜头，条纹衫青年和冯磊靠在红砖墙外的窗台下吃冰棍，条纹衫青年转头看向冯磊，开始抱怨在家干坐着。",
+        "dialogue": "不是我说磊哥咱就这么在家干坐着呀冰柜都买好几个了",
+        "speaker": "条纹衫青年",
+        "emotion": "困惑",
+        "duration": 14.1,
+        "description_visual": "中景平拍镜头；红砖墙建筑外，白色遮阳棚下，光线明亮；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，靠在窗台边，手持冰棍正在吃，表情：眉毛微蹙，眼睛看向同伴，嘴巴咀嚼；画面右侧人物，身穿棕色夹克内搭白色背心，牛仔裤，靠在窗台边，手持冰棍正在吃，表情：眉毛舒展，眼睛看向前方，嘴巴咀嚼。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "坐着，手持冰棍包装，面带笑容询问",
+                "expression": "眉毛上扬，眼睛含笑，嘴巴微张说话"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面右侧",
+                "action": "坐着，手持冰棍，低头看着手中物品",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "红砖墙背景，绿色窗框",
+        "description_narrative": "中近景固定镜头，条纹衫青年笑着询问冯磊什么时候改行卖冰棍，冯磊低头看着手中的冰棍。",
+        "dialogue": "咱啥时候改行卖冰棍呀",
+        "speaker": "条纹衫青年",
+        "emotion": "调侃",
+        "duration": 1.74,
+        "description_visual": "中近景平拍镜头；红砖墙背景，绿色窗框；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，坐着，手持冰棍包装，面带笑容询问，表情：眉毛上扬，眼睛含笑，嘴巴微张说话；画面右侧人物，身穿棕色夹克内搭白色背心，牛仔裤，坐着，手持冰棍，低头看着手中物品，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "坐着，手持两个冰棍包装，身体转向冯磊",
+                "expression": "眉毛微挑，眼睛看着冯磊，嘴巴微张"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面右侧",
+                "action": "坐着，手持冰棍，正在解释",
+                "expression": "眉毛舒展，眼睛看着对方，嘴巴说话"
+            }
+        ],
+        "background": "红砖墙台阶，地面有落叶",
+        "description_narrative": "中景固定镜头，两人坐在台阶上，冯磊拿着冰棍解释谁说要卖冰棍，强调他们是卖小龙虾的。",
+        "dialogue": "瞧你这样谁跟你说要卖冰棍不是你不卖冰棍你买那么多冰柜干啥呀你这脑子咱是干啥的咱不是卖小龙虾吗对",
+        "speaker": "冯磊",
+        "emotion": "无奈",
+        "duration": 12.96,
+        "description_visual": "中景平拍镜头；红砖墙台阶，地面有落叶；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，坐着，手持两个冰棍包装，身体转向冯磊，表情：眉毛微挑，眼睛看着冯磊，嘴巴微张；画面右侧人物，身穿棕色夹克内搭白色背心，牛仔裤，坐着，手持冰棍，正在解释，表情：眉毛舒展，眼睛看着对方，嘴巴说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "坐着，手持冰棍，疑惑地看着冯磊",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面右侧",
+                "action": "坐着，伸手搭在条纹衫青年肩膀上",
+                "expression": "眉毛舒展，眼睛看着对方，嘴巴说话"
+            }
+        ],
+        "background": "红砖墙背景，光线自然",
+        "description_narrative": "中近景固定镜头，条纹衫青年疑惑卖小龙虾和买冰柜的关系，冯磊伸手搭在他肩上准备解释。",
+        "dialogue": "卖小龙虾跟咱买冰柜",
+        "speaker": "条纹衫青年",
+        "emotion": "困惑",
+        "duration": 2.76,
+        "description_visual": "中近景平拍镜头；红砖墙背景，光线自然；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，坐着，手持冰棍，疑惑地看着冯磊，表情：眉毛紧锁，眼睛直视，嘴巴微张；画面右侧人物，身穿棕色夹克内搭白色背心，牛仔裤，坐着，伸手搭在条纹衫青年肩膀上，表情：眉毛舒展，眼睛看着对方，嘴巴说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "坐着，手持冰棍，抬头看",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴微张"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面右侧",
+                "action": "坐着，手指向天空，身体前倾",
+                "expression": "眉毛上扬，眼睛看向上方，嘴巴说话"
+            }
+        ],
+        "background": "红砖墙建筑，白色遮阳棚，小卖部招牌",
+        "description_narrative": "中景固定镜头，冯磊指着太阳反问有什么关系，条纹衫青年顺着他的手势抬头看天。",
+        "dialogue": "有啥关系",
+        "speaker": "冯磊",
+        "emotion": "反问",
+        "duration": 2.38,
+        "description_visual": "中景平拍镜头；红砖墙建筑，白色遮阳棚，小卖部招牌；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，坐着，手持冰棍，抬头看，表情：眉毛微挑，眼睛向上看，嘴巴微张；画面右侧人物，身穿棕色夹克内搭白色背心，牛仔裤，坐着，手指向天空，身体前倾，表情：眉毛上扬，眼睛看向上方，嘴巴说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "坐着，手持冰棍，认真听讲",
+                "expression": "眉毛微蹙，眼睛看着冯磊，嘴巴紧闭"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面右侧",
+                "action": "坐着，吃了一口冰棍，继续解释",
+                "expression": "眉毛舒展，眼睛看着对方，嘴巴咀嚼说话"
+            }
+        ],
+        "background": "红砖墙台阶，地面有落叶",
+        "description_narrative": "中近景固定镜头，冯磊一边吃冰棍一边解释天热要把小龙虾放冰箱里，条纹衫青年认真听着。",
+        "dialogue": "看看这太阳这么热天不把小龙虾放冰箱里啊",
+        "speaker": "冯磊",
+        "emotion": "解释",
+        "duration": 7.62,
+        "description_visual": "中近景平拍镜头；红砖墙台阶，地面有落叶；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，坐着，手持冰棍，认真听讲，表情：眉毛微蹙，眼睛看着冯磊，嘴巴紧闭；画面右侧人物，身穿棕色夹克内搭白色背心，牛仔裤，坐着，吃了一口冰棍，继续解释，表情：眉毛舒展，眼睛看着对方，嘴巴咀嚼说话。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "站立，面带微笑，手微微抬起",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴露齿笑"
+            }
+        ],
+        "background": "户外树林，阳光透过树叶洒下，光斑明显",
+        "description_narrative": "仰拍中近景，白衣女子站在树荫下，阳光斑驳，她面带灿烂的笑容，似乎带来了消息。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "开心",
+        "duration": 2.88,
+        "description_visual": "中近景仰拍镜头；户外树林，阳光透过树叶洒下，光斑明显；画面中央人物，身穿白色荷叶边衬衫，黑色长裤，站立，面带微笑，手微微抬起，表情：眉毛舒展，眼睛眯起笑，嘴巴露齿笑。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "坐在台阶上，抬头看女子",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴微张"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面中央",
+                "action": "坐在台阶上，吃冰棍，抬头看女子",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴吃冰棍"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色长裤，红色鞋子",
+                "position": "画面右侧",
+                "action": "站立，低头看着两人",
+                "expression": "眉毛舒展，眼睛看着两人，嘴巴说话"
+            }
+        ],
+        "background": "红砖墙小卖部前，台阶",
+        "description_narrative": "全景固定镜头，白衣女子走来告诉冯磊刘成功不出摊了，两个男人坐在台阶上抬头听她说话。",
+        "dialogue": "磊哥那个刘成功啊他真的不出摊了",
+        "speaker": "白衣女子",
+        "emotion": "告知",
+        "duration": 2.6,
+        "description_visual": "全景平拍镜头；红砖墙小卖部前，台阶；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，坐在台阶上，抬头看女子，表情：眉毛微挑，眼睛向上看，嘴巴微张；画面中央人物，身穿棕色夹克内搭白色背心，牛仔裤，坐在台阶上，吃冰棍，抬头看女子，表情：眉毛舒展，眼睛向上看，嘴巴吃冰棍；画面右侧人物，身穿白色荷叶边衬衫，黑色长裤，红色鞋子，站立，低头看着两人，表情：眉毛舒展，眼睛看着两人，嘴巴说话。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫",
+                "position": "画面中央",
+                "action": "站立，伸手递东西，面带笑容",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴露齿笑"
+            }
+        ],
+        "background": "户外树林背景，虚化",
+        "description_narrative": "中近景固定镜头，白衣女子笑着补充说刘成功改成卖小龙虾了，伸手似乎递过什么东西。",
+        "dialogue": "改成卖小龙虾了",
+        "speaker": "白衣女子",
+        "emotion": "开心",
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；户外树林背景，虚化；画面中央人物，身穿白色荷叶边衬衫，站立，伸手递东西，面带笑容，表情：眉毛舒展，眼睛眯起笑，嘴巴露齿笑。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "坐在台阶上，看向女子",
+                "expression": "眉毛微挑，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面中央",
+                "action": "坐在台阶上，看向女子",
+                "expression": "眉毛舒展，眼睛看着女子，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "站立，手持冰棍包装",
+                "expression": "眉毛舒展，眼睛看着两人，嘴巴微笑"
+            }
+        ],
+        "background": "红砖墙小卖部前，台阶",
+        "description_narrative": "全景固定镜头，三人互动，女子拿着冰棍包装，冯磊和条纹衫青年坐在台阶上看着她。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 1.28,
+        "description_visual": "全景平拍镜头；红砖墙小卖部前，台阶；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，坐在台阶上，看向女子，表情：眉毛微挑，眼睛看着女子，嘴巴微张；画面中央人物，身穿棕色夹克内搭白色背心，牛仔裤，坐在台阶上，看向女子，表情：眉毛舒展，眼睛看着女子，嘴巴微张；画面右侧人物，身穿白色荷叶边衬衫，黑色长裤，站立，手持冰棍包装，表情：眉毛舒展，眼睛看着两人，嘴巴微笑。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "坐在台阶上，笑着看冯磊",
+                "expression": "眉毛上扬，眼睛含笑，嘴巴微张"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面中央",
+                "action": "坐在台阶上，笑着说话",
+                "expression": "眉毛上扬，眼睛含笑，嘴巴说话"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色荷叶边衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "站立，递东西给冯磊",
+                "expression": "眉毛舒展，眼睛看着冯磊，嘴巴微笑"
+            }
+        ],
+        "background": "红砖墙小卖部前，白色遮阳棚",
+        "description_narrative": "中景固定镜头，冯磊笑着说对方终于耐不住了，条纹衫青年也笑了，女子在旁边递东西。",
+        "dialogue": "终于还是耐不住了吧",
+        "speaker": "冯磊",
+        "emotion": "得意",
+        "duration": 1.26,
+        "description_visual": "中景平拍镜头；红砖墙小卖部前，白色遮阳棚；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，坐在台阶上，笑着看冯磊，表情：眉毛上扬，眼睛含笑，嘴巴微张；画面中央人物，身穿棕色夹克内搭白色背心，牛仔裤，坐在台阶上，笑着说话，表情：眉毛上扬，眼睛含笑，嘴巴说话；画面右侧人物，身穿白色荷叶边衬衫，黑色长裤，站立，递东西给冯磊，表情：眉毛舒展，眼睛看着冯磊，嘴巴微笑。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "起身，手持冰棍，准备走",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴微笑"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面右侧",
+                "action": "起身，手持冰棍，招呼大家走",
+                "expression": "眉毛上扬，眼睛看向前方，嘴巴说话"
+            }
+        ],
+        "background": "红砖墙小卖部前，光线明亮",
+        "description_narrative": "中景跟拍镜头，冯磊招呼大家走去赚笔钱，两人起身拿着冰棍准备离开。",
+        "dialogue": "走带你们再赚笔钱去",
+        "speaker": "冯磊",
+        "emotion": "兴奋",
+        "duration": 3.24,
+        "description_visual": "中景平拍镜头（跟拍）；红砖墙小卖部前，光线明亮；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，起身，手持冰棍，准备走，表情：眉毛舒展，眼睛看向前方，嘴巴微笑；画面右侧人物，身穿棕色夹克内搭白色背心，牛仔裤，起身，手持冰棍，招呼大家走，表情：眉毛上扬，眼睛看向前方，嘴巴说话。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "条纹衫青年",
+                "gender": "男",
+                "clothing": "蓝白条纹 T 恤，棕色裤子",
+                "position": "画面左侧",
+                "action": "行走，手持冰棍",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴咀嚼"
+            },
+            {
+                "name": "冯磊",
+                "gender": "男",
+                "clothing": "棕色夹克内搭白色背心，牛仔裤",
+                "position": "画面右侧",
+                "action": "行走，吃冰棍",
+                "expression": "眉毛舒展，眼睛看向前方，嘴巴吃冰棍"
+            }
+        ],
+        "background": "红砖墙背景，画面带有光晕效果",
+        "description_narrative": "中景跟拍镜头，两人并肩走着吃冰棍，画面带有明亮的光晕，气氛轻松。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "轻松",
+        "duration": 2.32,
+        "description_visual": "中景平拍镜头（跟拍）；红砖墙背景，画面带有光晕效果；画面左侧人物，身穿蓝白条纹 T 恤，棕色裤子，行走，手持冰棍，表情：眉毛舒展，眼睛看向前方，嘴巴咀嚼；画面右侧人物，身穿棕色夹克内搭白色背心，牛仔裤，行走，吃冰棍，表情：眉毛舒展，眼睛看向前方，嘴巴吃冰棍。"
+    }
+]

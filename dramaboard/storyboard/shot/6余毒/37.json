@@ -1,0 +1,811 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "酒店走廊，米色墙面，挂有抽象画，地面大理石反光，光线明亮。",
+        "description_narrative": "全景镜头展示空无一人的酒店走廊，米色墙面上挂着一幅抽象画，下方有一个几何纹理的柜子，地面大理石光洁反光。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.76,
+        "description_visual": "全景平拍镜头；酒店走廊，米色墙面，挂有抽象画，地面大理石反光，光线明亮。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面左侧",
+                "action": "双手插兜，迈步走向右侧的女性",
+                "expression": "眉毛微蹙，眼神冷峻，嘴巴紧闭"
+            },
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装，浅色高领内搭",
+                "position": "画面右侧",
+                "action": "背对镜头站立，身体微微转向男性",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店走廊，墙面有装饰画，地面有圆形花纹。",
+        "description_narrative": "中景镜头，傅少身穿灰色西装双手插兜，从左侧走向右侧背对镜头的程晓，程晓身穿米色西装套装站在墙边。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头（跟拍）；酒店走廊，墙面有装饰画，地面有圆形花纹。；画面左侧人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，双手插兜，迈步走向右侧的女性，表情：眉毛微蹙，眼神冷峻，嘴巴紧闭；画面右侧人物，身穿米色格纹西装套装，浅色高领内搭，背对镜头站立，身体微微转向男性，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装，浅色高领内搭",
+                "position": "画面中央",
+                "action": "双手交叠在身前，抬头看向对面",
+                "expression": "眉毛舒展，眼睛直视对方，嘴角微扬带笑"
+            }
+        ],
+        "background": "米色墙面背景，光线柔和。",
+        "description_narrative": "近景镜头对准程晓，她身穿米色西装，双手交叠，抬头看向对面的傅少，嘴角带着一丝挑衅的笑意。",
+        "dialogue": "傅少好像很喜欢这种调调。",
+        "speaker": "程晓",
+        "emotion": "挑衅",
+        "duration": 3.44,
+        "description_visual": "近景平拍镜头；米色墙面背景，光线柔和。；画面中央人物，身穿米色格纹西装套装，浅色高领内搭，双手交叠在身前，抬头看向对面，表情：眉毛舒展，眼睛直视对方，嘴角微扬带笑。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "头部微侧，视线向下",
+                "expression": "眉毛微挑，眼神冷淡，嘴唇微张"
+            }
+        ],
+        "background": "背景虚化，可见部分画框。",
+        "description_narrative": "特写镜头给到傅少，他戴着金丝眼镜，头部微侧，视线向下，神情严肃冷淡。",
+        "dialogue": "偷情的调调。",
+        "speaker": "傅少",
+        "emotion": "冷漠",
+        "duration": 1.66,
+        "description_visual": "特写平拍镜头；背景虚化，可见部分画框。；画面中央人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，头部微侧，视线向下，表情：眉毛微挑，眼神冷淡，嘴唇微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装，浅色高领内搭",
+                "position": "画面中央",
+                "action": "微微低头后抬眼，双手交握",
+                "expression": "眉毛微垂，眼睛看向对方，嘴角含笑"
+            }
+        ],
+        "background": "米色墙面背景。",
+        "description_narrative": "近景镜头，程晓微微低头后抬眼看向傅少，双手在身前交握，脸上带着看似柔弱实则狡黠的笑容。",
+        "dialogue": "傅少又是来警告我的吗",
+        "speaker": "程晓",
+        "emotion": "狡黠",
+        "duration": 2.88,
+        "description_visual": "近景平拍镜头；米色墙面背景。；画面中央人物，身穿米色格纹西装套装，浅色高领内搭，微微低头后抬眼，双手交握，表情：眉毛微垂，眼睛看向对方，嘴角含笑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面左侧",
+                "action": "身体正对前方，视线看向右侧女性",
+                "expression": "眉毛平展，眼神锐利，嘴巴微张说话"
+            }
+        ],
+        "background": "背景虚化，可见画框边缘。",
+        "description_narrative": "近景镜头，傅少身体正对前方，视线看向右侧的程晓，神情严肃地揭露玉佩的真相。",
+        "dialogue": "林家晚宴上那块玉佩是赝品，里面装了定位系统。",
+        "speaker": "傅少",
+        "emotion": "严肃",
+        "duration": 5.5,
+        "description_visual": "近景平拍镜头；背景虚化，可见画框边缘。；画面左侧人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，身体正对前方，视线看向右侧女性，表情：眉毛平展，眼神锐利，嘴巴微张说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装，浅色高领内搭",
+                "position": "画面中央",
+                "action": "身体微微后仰，双手交握",
+                "expression": "眉毛微挑，眼神略带不屑，嘴角紧闭"
+            }
+        ],
+        "background": "米色墙面背景。",
+        "description_narrative": "近景镜头，程晓听到真相后身体微微后仰，双手交握，眼神中流露出一丝不屑和无所谓。",
+        "dialogue": "与我何干？",
+        "speaker": "程晓",
+        "emotion": "不屑",
+        "duration": 2.02,
+        "description_visual": "近景平拍镜头；米色墙面背景。；画面中央人物，身穿米色格纹西装套装，浅色高领内搭，身体微微后仰，双手交握，表情：眉毛微挑，眼神略带不屑，嘴角紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "头部微转，视线看向下方",
+                "expression": "眉毛微蹙，眼神深沉，嘴唇紧闭"
+            }
+        ],
+        "background": "背景虚化，可见画框。",
+        "description_narrative": "特写镜头，傅少头部微转，视线向下，神情冷峻，似乎在思考或准备行动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.76,
+        "description_visual": "特写平拍镜头；背景虚化，可见画框。；画面中央人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，头部微转，视线看向下方，表情：眉毛微蹙，眼神深沉，嘴唇紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面左侧",
+                "action": "右手抬起，伸向女性胸前",
+                "expression": "眉毛微垂，眼神专注，嘴唇紧闭"
+            },
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装",
+                "position": "画面右侧",
+                "action": "身体站立不动，任由对方动作",
+                "expression": "不可见"
+            }
+        ],
+        "background": "米色墙面背景。",
+        "description_narrative": "近景镜头，傅少抬起右手伸向程晓的胸前，似乎要拿取什么东西，程晓站立不动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.9,
+        "description_visual": "近景平拍镜头；米色墙面背景。；画面左侧人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，右手抬起，伸向女性胸前，表情：眉毛微垂，眼神专注，嘴唇紧闭；画面右侧人物，身穿米色格纹西装套装，身体站立不动，任由对方动作，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装，浅色高领内搭",
+                "position": "画面中央",
+                "action": "低头看着胸前的玉佩，双手垂下",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色西装袖子",
+                "position": "画面左侧前景",
+                "action": "手拿着白色玉佩在女性胸前晃动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "米色墙面背景。",
+        "description_narrative": "近景镜头，傅少的手拿着白色玉佩在程晓胸前晃动，程晓低头看着玉佩，神情平静。",
+        "dialogue": "这么大的玉佩，当时塞进嘴里，喉咙不会痛吗？",
+        "speaker": "傅少",
+        "emotion": "质问",
+        "duration": 7.1,
+        "description_visual": "近景平拍镜头；米色墙面背景。；画面中央人物，身穿米色格纹西装套装，浅色高领内搭，低头看着胸前的玉佩，双手垂下，表情：眉毛微垂，眼睛下视，嘴巴微张；画面左侧前景人物，身穿灰色西装袖子，手拿着白色玉佩在女性胸前晃动，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "手部动作继续，视线看向手中物体",
+                "expression": "眉毛微蹙，眼神专注，嘴唇紧闭"
+            }
+        ],
+        "background": "背景虚化，可见画框。",
+        "description_narrative": "近景镜头，傅少手持玉佩，视线落在物体上，神情依旧冷峻，听着对方的回答。",
+        "dialogue": "习惯了。",
+        "speaker": "程晓",
+        "emotion": "淡然",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；背景虚化，可见画框。；画面中央人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，手部动作继续，视线看向手中物体，表情：眉毛微蹙，眼神专注，嘴唇紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装，浅色高领内搭",
+                "position": "画面中央",
+                "action": "抬头看向对方，嘴角上扬",
+                "expression": "眉毛舒展，眼睛直视对方，嘴角带笑"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色西装袖子",
+                "position": "画面左侧前景",
+                "action": "手拿着玉佩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "米色墙面背景。",
+        "description_narrative": "近景镜头，程晓抬头看向傅少，嘴角上扬，带着笑意回应傅少的指责。",
+        "dialogue": "喜欢坑蒙拐骗，偷梁换柱。",
+        "speaker": "傅少",
+        "emotion": "指责",
+        "duration": 2.72,
+        "description_visual": "近景平拍镜头；米色墙面背景。；画面中央人物，身穿米色格纹西装套装，浅色高领内搭，抬头看向对方，嘴角上扬，表情：眉毛舒展，眼睛直视对方，嘴角带笑；画面左侧前景人物，身穿灰色西装袖子，手拿着玉佩，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "手部动作微停，视线看向对方",
+                "expression": "眉毛微蹙，眼神深沉，嘴唇紧闭"
+            }
+        ],
+        "background": "背景虚化，可见画框。",
+        "description_narrative": "近景镜头，傅少手部动作微停，视线看向程晓，神情复杂，听着程晓的挑衅。",
+        "dialogue": "傅少又不打算为我负责，问这么清楚干嘛？",
+        "speaker": "程晓",
+        "emotion": "挑衅",
+        "duration": 3.8,
+        "description_visual": "近景平拍镜头；背景虚化，可见画框。；画面中央人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，手部动作微停，视线看向对方，表情：眉毛微蹙，眼神深沉，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装，浅色高领内搭",
+                "position": "画面中央",
+                "action": "眼神看向侧方，嘴角微动",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色西装袖子",
+                "position": "画面左侧前景",
+                "action": "手拿着玉佩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "米色墙面背景。",
+        "description_narrative": "近景镜头，程晓眼神看向侧方，嘴角微动，似乎在回味傅少的话，神情略带玩味。",
+        "dialogue": "我要为菁菁负责。",
+        "speaker": "傅少",
+        "emotion": "坚定",
+        "duration": 2.26,
+        "description_visual": "近景平拍镜头；米色墙面背景。；画面中央人物，身穿米色格纹西装套装，浅色高领内搭，眼神看向侧方，嘴角微动，表情：眉毛微挑，眼睛看向侧方，嘴巴微张；画面左侧前景人物，身穿灰色西装袖子，手拿着玉佩，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面左侧",
+                "action": "身体站立不动，任由女性靠近",
+                "expression": "眉毛平展，眼神看向前方，嘴唇紧闭"
+            },
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装",
+                "position": "画面右侧",
+                "action": "身体前倾，头靠在男性肩膀上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "背景虚化，可见画框。",
+        "description_narrative": "近景镜头，程晓身体前倾，将头靠在傅少的肩膀上，傅少身体站立不动，神情依旧冷峻。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.14,
+        "description_visual": "近景平拍镜头；背景虚化，可见画框。；画面左侧人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，身体站立不动，任由女性靠近，表情：眉毛平展，眼神看向前方，嘴唇紧闭；画面右侧人物，身穿米色格纹西装套装，身体前倾，头靠在男性肩膀上，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装",
+                "position": "画面右侧",
+                "action": "头靠在男性肩膀，手抓着男性衣袖",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬露出狡黠笑容"
+            }
+        ],
+        "background": "米色墙面背景。",
+        "description_narrative": "特写镜头，程晓头靠在傅少肩膀上，手抓着傅少的衣袖，脸上露出狡黠得意的笑容。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "狡黠",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；米色墙面背景。；画面右侧人物，身穿米色格纹西装套装，头靠在男性肩膀，手抓着男性衣袖，表情：眉毛舒展，眼睛微眯，嘴角上扬露出狡黠笑容。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "身体微侧，视线看向前方",
+                "expression": "眉毛微蹙，眼神冷峻，嘴唇紧闭"
+            }
+        ],
+        "background": "背景虚化，可见画框。",
+        "description_narrative": "近景镜头，傅少身体微侧，视线看向前方，神情冷峻，听着程晓的耳语。",
+        "dialogue": "傅少说谎了",
+        "speaker": "程晓",
+        "emotion": "笃定",
+        "duration": 2.36,
+        "description_visual": "近景平拍镜头；背景虚化，可见画框。；画面中央人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，身体微侧，视线看向前方，表情：眉毛微蹙，眼神冷峻，嘴唇紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装，浅色高领内搭",
+                "position": "画面中央",
+                "action": "双手交叉抱胸，身体后仰",
+                "expression": "眉毛舒展，眼睛微闭，嘴角微扬"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色西装袖子",
+                "position": "画面左侧前景",
+                "action": "手拿着玉佩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "米色墙面背景。",
+        "description_narrative": "近景镜头，程晓双手交叉抱胸，身体后仰靠在墙上，眼睛微闭，嘴角带着笑意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；米色墙面背景。；画面中央人物，身穿米色格纹西装套装，浅色高领内搭，双手交叉抱胸，身体后仰，表情：眉毛舒展，眼睛微闭，嘴角微扬；画面左侧前景人物，身穿灰色西装袖子，手拿着玉佩，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "程晓",
+                "gender": "女",
+                "clothing": "米色格纹西装套装，浅色高领内搭",
+                "position": "画面中央",
+                "action": "单手举起玉佩，另一手抱胸",
+                "expression": "眉毛舒展，眼睛直视对方，嘴角上扬"
+            },
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色西装袖子",
+                "position": "画面左侧前景",
+                "action": "手伸向女性",
+                "expression": "不可见"
+            }
+        ],
+        "background": "米色墙面背景。",
+        "description_narrative": "近景镜头，程晓单手举起玉佩，另一手抱胸，看着傅少，脸上带着自信的笑容。",
+        "dialogue": "虽然我坑蒙拐骗，偷梁换柱，但是傅少知道。",
+        "speaker": "程晓",
+        "emotion": "自信",
+        "duration": 5.5,
+        "description_visual": "近景平拍镜头；米色墙面背景。；画面中央人物，身穿米色格纹西装套装，浅色高领内搭，单手举起玉佩，另一手抱胸，表情：眉毛舒展，眼睛直视对方，嘴角上扬；画面左侧前景人物，身穿灰色西装袖子，手伸向女性，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅少",
+                "gender": "男",
+                "clothing": "灰色三件套西装，白衬衫，黑领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "视线看向下方，手部微动",
+                "expression": "眉毛微蹙，眼神深沉，嘴唇紧闭"
+            }
+        ],
+        "background": "背景虚化，可见画框。",
+        "description_narrative": "近景镜头，傅少视线看向下方，神情复杂，听着程晓自称好女孩的言论。",
+        "dialogue": "我是个好女孩",
+        "speaker": "程晓",
+        "emotion": "调侃",
+        "duration": 1.5,
+        "description_visual": "近景平拍镜头；背景虚化，可见画框。；画面中央人物，身穿灰色三件套西装，白衬衫，黑领带，金丝眼镜，视线看向下方，手部微动，表情：眉毛微蹙，眼神深沉，嘴唇紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "米色西装裤",
+                "position": "画面中央",
+                "action": "双腿行走，进入房间",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内门口，可见白色浴缸边缘，木门。",
+        "description_narrative": "低角度镜头跟随一双穿着米色西装裤的腿行走，进入一个有白色浴缸的房间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.2,
+        "description_visual": "中景低角度镜头（跟拍）；室内门口，可见白色浴缸边缘，木门。；画面中央人物，身穿米色西装裤，双腿行走，进入房间，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "医院天花板，红色指示牌写着“抢救监护”。",
+        "description_narrative": "仰拍特写镜头，红色的医院指示牌上写着“抢救监护”字样，暗示场景转换到医院。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.72,
+        "description_visual": "特写仰拍镜头；医院天花板，红色指示牌写着“抢救监护”。。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "医疗监护仪屏幕，显示绿色心电图波形和数字。",
+        "description_narrative": "特写镜头对准医疗监护仪屏幕，绿色的心电图波形在跳动，显示病人生命体征。",
+        "dialogue": "病人。",
+        "speaker": "医生",
+        "emotion": "焦急",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；医疗监护仪屏幕，显示绿色心电图波形和数字。。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白色大褂",
+                "position": "画面中央",
+                "action": "双手交握在身前，身体微前倾",
+                "expression": "眉毛微蹙，眼神焦急，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房，白色墙壁。",
+        "description_narrative": "近景镜头，身穿白大褂的医生双手交握，身体微前倾，神情焦急地向家属告知病情。",
+        "dialogue": "情况严重恶化。",
+        "speaker": "医生",
+        "emotion": "焦急",
+        "duration": 1.42,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁。；画面中央人物，身穿白色大褂，双手交握在身前，身体微前倾，表情：眉毛微蹙，眼神焦急，嘴巴微张说话。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "菁菁",
+                "gender": "女",
+                "clothing": "白色纹理连衣裙，领口珍珠装饰",
+                "position": "画面中央",
+                "action": "站立，头部微垂",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "米色窗帘背景。",
+        "description_narrative": "近景镜头，身穿白色连衣裙的菁菁站立着，头部微垂，神情担忧焦虑。",
+        "dialogue": "需要尽快移植。",
+        "speaker": "医生",
+        "emotion": "严肃",
+        "duration": 2.58,
+        "description_visual": "近景平拍镜头；米色窗帘背景。；画面中央人物，身穿白色纹理连衣裙，领口珍珠装饰，站立，头部微垂，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白色大褂",
+                "position": "画面中央",
+                "action": "双手交握，身体微前倾",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房，白色墙壁。",
+        "description_narrative": "近景镜头，医生双手交握，身体微前倾，神情严肃地告知需要寻找捐献者。",
+        "dialogue": "我们会尽快寻找肝脏捐献者。",
+        "speaker": "医生",
+        "emotion": "严肃",
+        "duration": 2.18,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁。；画面中央人物，身穿白色大褂，双手交握，身体微前倾，表情：眉毛微蹙，眼神严肃，嘴巴微张说话。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "菁菁",
+                "gender": "女",
+                "clothing": "白色纹理连衣裙，领口珍珠装饰",
+                "position": "画面左侧",
+                "action": "站立，双手垂下",
+                "expression": "眉毛微蹙，眼神担忧，嘴巴微张"
+            },
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，内搭黑色蕾丝上衣",
+                "position": "画面右侧",
+                "action": "站立，双手垂下",
+                "expression": "眉毛微蹙，眼神阴沉，嘴巴微张"
+            }
+        ],
+        "background": "米色窗帘背景。",
+        "description_narrative": "中景镜头，菁菁和林母并排站立，菁菁神情担忧，林母神情阴沉，两人都在听医生说话。",
+        "dialogue": "家人不接受配型吗",
+        "speaker": "菁菁",
+        "emotion": "担忧",
+        "duration": 1.16,
+        "description_visual": "中景平拍镜头；米色窗帘背景。；画面左侧人物，身穿白色纹理连衣裙，领口珍珠装饰，站立，双手垂下，表情：眉毛微蹙，眼神担忧，嘴巴微张；画面右侧人物，身穿米色风衣，内搭黑色蕾丝上衣，站立，双手垂下，表情：眉毛微蹙，眼神阴沉，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "医生",
+                "gender": "男",
+                "clothing": "白色大褂",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向家属",
+                "expression": "眉毛微挑，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色墙壁。",
+        "description_narrative": "近景镜头，医生头部微侧，视线看向家属，神情疑惑地反问。",
+        "dialogue": "怎么会",
+        "speaker": "医生",
+        "emotion": "疑惑",
+        "duration": 4.8,
+        "description_visual": "近景平拍镜头；医院病房，白色墙壁。；画面中央人物，身穿白色大褂，头部微侧，视线看向家属，表情：眉毛微挑，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，内搭黑色蕾丝上衣",
+                "position": "画面中央",
+                "action": "头部微转，视线看向侧方",
+                "expression": "眉毛微蹙，眼神阴沉，嘴巴微张说话"
+            }
+        ],
+        "background": "米色窗帘背景。",
+        "description_narrative": "近景镜头，林母头部微转，视线看向侧方，神情阴沉算计，似乎在拖延时间。",
+        "dialogue": "等林家的人都到",
+        "speaker": "林母",
+        "emotion": "阴沉",
+        "duration": 5.34,
+        "description_visual": "近景平拍镜头；米色窗帘背景。；画面中央人物，身穿米色风衣，内搭黑色蕾丝上衣，头部微转，视线看向侧方，表情：眉毛微蹙，眼神阴沉，嘴巴微张说话。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "菁菁",
+                "gender": "女",
+                "clothing": "白色纹理连衣裙，领口珍珠装饰",
+                "position": "画面中央",
+                "action": "头部微垂，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "米色窗帘背景。",
+        "description_narrative": "近景镜头，菁菁头部微垂，视线向下，神情焦虑，听着母亲的安排。",
+        "dialogue": "齐了，我们就挨个检查，给爸爸找最好的捐赠人。",
+        "speaker": "林母",
+        "emotion": "算计",
+        "duration": 2.54,
+        "description_visual": "近景平拍镜头；米色窗帘背景。；画面中央人物，身穿白色纹理连衣裙，领口珍珠装饰，头部微垂，视线向下，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林母",
+                "gender": "女",
+                "clothing": "米色风衣，内搭黑色蕾丝上衣",
+                "position": "画面中央",
+                "action": "头部微转，视线看向侧方",
+                "expression": "眉毛微蹙，眼神阴沉，嘴巴微张"
+            }
+        ],
+        "background": "米色窗帘背景。",
+        "description_narrative": "近景镜头，林母头部微转，视线看向侧方，神情阴沉，似乎在思考对策。",
+        "dialogue": "妈，怎么办啊？这个节骨眼上，爷爷要是出事，林氏就完蛋了。",
+        "speaker": "菁菁",
+        "emotion": "焦虑",
+        "duration": 2.96,
+        "description_visual": "近景平拍镜头；米色窗帘背景。；画面中央人物，身穿米色风衣，内搭黑色蕾丝上衣，头部微转，视线看向侧方，表情：眉毛微蹙，眼神阴沉，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "菁菁",
+                "gender": "女",
+                "clothing": "白色纹理连衣裙，领口珍珠装饰",
+                "position": "画面中央",
+                "action": "头部微侧，视线看向侧方",
+                "expression": "眉毛微蹙，眼神担忧，嘴巴紧闭"
+            }
+        ],
+        "background": "米色窗帘背景。",
+        "description_narrative": "近景镜头，菁菁头部微侧，视线看向侧方，神情担忧，听着母亲的狠话。",
+        "dialogue": "既然程晓还活着。",
+        "speaker": "林母",
+        "emotion": "狠毒",
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；米色窗帘背景。；画面中央人物，身穿白色纹理连衣裙，领口珍珠装饰，头部微侧，视线看向侧方，表情：眉毛微蹙，眼神担忧，嘴巴紧闭。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色强光画面，无具体细节。",
+        "description_narrative": "画面呈现白色强光，暗示转场或内心独白的高潮部分。",
+        "dialogue": "那就榨干她最后的价值。",
+        "speaker": "林母",
+        "emotion": "狠毒",
+        "duration": 2.96,
+        "description_visual": "特写平拍镜头；白色强光画面，无具体细节。。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色强光画面，无具体细节。",
+        "description_narrative": "画面持续白色强光，结束片段。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；白色强光画面，无具体细节。。"
+    }
+]

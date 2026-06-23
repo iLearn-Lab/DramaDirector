@@ -1,0 +1,939 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面右侧",
+                "action": "拥抱女子",
+                "expression": "眼神温柔，嘴角微闭"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "紫色古装",
+                "position": "画面左侧",
+                "action": "被男子拥抱，头靠在男子肩上",
+                "expression": "闭眼，神情安详"
+            }
+        ],
+        "background": "室内，木质家具，窗格，光线明亮",
+        "description_narrative": "中景固定镜头，王爷身穿紫色长袍拥抱一名紫衣女子，女子头靠在他肩上，背景为古风室内陈设，画面叠加剧名文字。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.56,
+        "description_visual": "中景平拍镜头；室内，木质家具，窗格，光线明亮；画面右侧人物，身穿紫色长袍，银色发冠，拥抱女子，表情：眼神温柔，嘴角微闭；画面左侧人物，身穿紫色古装，被男子拥抱，头靠在男子肩上，表情：闭眼，神情安详。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服，黑色发带",
+                "position": "画面中央",
+                "action": "头部微动，眼神惊恐",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "昏暗室内，背景模糊",
+        "description_narrative": "特写镜头，白衣男子面部特写，神情惊恐，眼神游移，背景昏暗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；昏暗室内，背景模糊；画面中央人物，身穿白色囚服，黑色发带，头部微动，眼神惊恐，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "大特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服，黑色发带",
+                "position": "画面中央",
+                "action": "面部扭曲，龇牙咧嘴",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴大张露齿"
+            }
+        ],
+        "background": "昏暗室内，背景模糊",
+        "description_narrative": "大特写镜头，白衣男子面部极度扭曲，表情痛苦愤怒，龇牙咧嘴。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 1.6,
+        "description_visual": "大特写仰拍镜头；昏暗室内，背景模糊；画面中央人物，身穿白色囚服，黑色发带，面部扭曲，龇牙咧嘴，表情：眉毛紧皱，眼睛眯起，嘴巴大张露齿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "黑色面罩，蓝色衣物",
+                "position": "画面中央",
+                "action": "眼神锐利直视",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴被遮挡"
+            }
+        ],
+        "background": "昏暗环境，光线集中在眼部",
+        "description_narrative": "大特写镜头，聚焦于戴着黑色面罩的侍女眼部，眼神锐利冷峻。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷峻",
+        "duration": 0.84,
+        "description_visual": "大特写平拍镜头；昏暗环境，光线集中在眼部；画面中央人物，身穿黑色面罩，蓝色衣物，眼神锐利直视，表情：眉毛平展，眼睛直视前方，嘴巴被遮挡。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [],
+        "background": "昏暗石墙或柱子，光线极暗",
+        "description_narrative": "近景摇镜，掠过昏暗的石柱或墙壁，环境阴森。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头（摇镜）；昏暗石墙或柱子，光线极暗。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "清风",
+                "gender": "男",
+                "clothing": "深青色劲装",
+                "position": "画面左侧",
+                "action": "手持长剑，身体微侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "蓝色衣物",
+                "position": "画面右侧前景",
+                "action": "背对镜头，挥剑攻击",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服",
+                "position": "画面左后景",
+                "action": "被铁链锁住，靠在墙上",
+                "expression": "表情惊恐"
+            }
+        ],
+        "background": "石室或地牢，石墙粗糙，光线昏暗",
+        "description_narrative": "中景跟拍，清风手持长剑与蓝衣侍女对峙，背景中白衣男子被锁链束缚靠在石墙上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.28,
+        "description_visual": "中景平拍镜头（跟拍）；石室或地牢，石墙粗糙，光线昏暗；画面左侧人物，身穿深青色劲装，手持长剑，身体微侧，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面右侧前景人物，身穿蓝色衣物，背对镜头，挥剑攻击，表情：不可见；画面左后景人物，身穿白色囚服，被铁链锁住，靠在墙上，表情：表情惊恐。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "清风",
+                "gender": "男",
+                "clothing": "深青色劲装",
+                "position": "画面中央",
+                "action": "持剑站立，身体紧绷",
+                "expression": "眉毛微扬，眼睛圆睁，嘴巴微张"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服",
+                "position": "画面左侧",
+                "action": "被铁链锁住，手臂抬起",
+                "expression": "嘴巴微张，神情紧张"
+            },
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "蓝色衣物",
+                "position": "画面右侧",
+                "action": "挥剑动作模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "石室，石墙，木架",
+        "description_narrative": "中景固定镜头，清风持剑戒备，左侧白衣男子被锁链束缚，右侧蓝衣侍女正在挥剑攻击，动作带有动态模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.76,
+        "description_visual": "中景平拍镜头；石室，石墙，木架；画面中央人物，身穿深青色劲装，持剑站立，身体紧绷，表情：眉毛微扬，眼睛圆睁，嘴巴微张；画面左侧人物，身穿白色囚服，被铁链锁住，手臂抬起，表情：嘴巴微张，神情紧张；画面右侧人物，身穿蓝色衣物，挥剑动作模糊，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "清风",
+                "gender": "男",
+                "clothing": "深青色劲装",
+                "position": "画面中央",
+                "action": "面部微侧，眼神锐利",
+                "expression": "眉毛微蹙，眼睛眯起，嘴巴紧闭"
+            }
+        ],
+        "background": "昏暗背景，光线打在脸上",
+        "description_narrative": "大特写镜头，清风面部特写，脸上有汗水，眼神锐利冷峻，眉头微蹙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷峻",
+        "duration": 1.52,
+        "description_visual": "大特写平拍镜头；昏暗背景，光线打在脸上；画面中央人物，身穿深青色劲装，面部微侧，眼神锐利，表情：眉毛微蹙，眼睛眯起，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "蓝色婢女服饰，黑色围巾",
+                "position": "画面中央",
+                "action": "头部微转，眼神严肃",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，木质门窗，光线柔和",
+        "description_narrative": "近景固定镜头，侍女身穿蓝色服饰，头戴发饰，神情严肃冷峻，目光直视前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；室内，木质门窗，光线柔和；画面中央人物，身穿蓝色婢女服饰，黑色围巾，头部微转，眼神严肃，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "橙粉色华服，繁复珠翠发饰",
+                "position": "画面中央",
+                "action": "头部微动，嘴唇开合",
+                "expression": "眉毛微挑，眼睛下视，嘴巴微张说话"
+            }
+        ],
+        "background": "室内，浅色背景，光线明亮",
+        "description_narrative": "特写镜头，安宁郡主面部特写，妆容精致，眼神凌厉，正在说话。",
+        "dialogue": "这种小事都做不好。",
+        "speaker": "安宁郡主",
+        "emotion": "愤怒",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；室内，浅色背景，光线明亮；画面中央人物，身穿橙粉色华服，繁复珠翠发饰，头部微动，嘴唇开合，表情：眉毛微挑，眼睛下视，嘴巴微张说话。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "蓝色婢女服饰，黑色围巾",
+                "position": "画面中央",
+                "action": "低头，神情惶恐",
+                "expression": "眉毛紧皱，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内，木质家具，光线较暗",
+        "description_narrative": "近景固定镜头，侍女低头跪地，神情惶恐不安，眉头紧锁。",
+        "dialogue": "奴婢该死。",
+        "speaker": "侍女",
+        "emotion": "惶恐",
+        "duration": 0.76,
+        "description_visual": "近景平拍镜头；室内，木质家具，光线较暗；画面中央人物，身穿蓝色婢女服饰，黑色围巾，低头，神情惶恐，表情：眉毛紧皱，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "橙粉色华服，繁复珠翠发饰",
+                "position": "画面中央",
+                "action": "头部微侧，眼神审视",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内，浅色背景",
+        "description_narrative": "近景固定镜头，安宁郡主侧头看向下方，眼神审视，嘴唇微动。",
+        "dialogue": "你看清了。",
+        "speaker": "安宁郡主",
+        "emotion": "审视",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；室内，浅色背景；画面中央人物，身穿橙粉色华服，繁复珠翠发饰，头部微侧，眼神审视，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "橙粉色华服，繁复珠翠发饰",
+                "position": "画面中央",
+                "action": "头部微动，继续说话",
+                "expression": "眉毛舒展，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "室内，浅色背景",
+        "description_narrative": "近景固定镜头，安宁郡主继续说话，神情略带得意或算计。",
+        "dialogue": "是清风救下的他。",
+        "speaker": "安宁郡主",
+        "emotion": "算计",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；室内，浅色背景；画面中央人物，身穿橙粉色华服，繁复珠翠发饰，头部微动，继续说话，表情：眉毛舒展，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "蓝色婢女服饰，黑色围巾",
+                "position": "画面中央",
+                "action": "抬头，眼神坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "室内，木质背景",
+        "description_narrative": "近景固定镜头，侍女抬头回应，神情坚定，字幕显示“奴婢看清了”。",
+        "dialogue": "奴婢看清了。",
+        "speaker": "侍女",
+        "emotion": "坚定",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头；室内，木质背景；画面中央人物，身穿蓝色婢女服饰，黑色围巾，抬头，眼神坚定，表情：眉毛微蹙，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "橙粉色华服，繁复珠翠发饰",
+                "position": "画面中央",
+                "action": "嘴唇嘟起，眼神锐利",
+                "expression": "眉毛微挑，眼睛直视，嘴巴嘟起"
+            }
+        ],
+        "background": "室内，浅色背景",
+        "description_narrative": "特写镜头，安宁郡主嘴唇嘟起，眼神锐利，正在分析局势。",
+        "dialogue": "王爷一定会审问他。",
+        "speaker": "安宁郡主",
+        "emotion": "锐利",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；室内，浅色背景；画面中央人物，身穿橙粉色华服，繁复珠翠发饰，嘴唇嘟起，眼神锐利，表情：眉毛微挑，眼睛直视，嘴巴嘟起。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "橙粉色华服，繁复珠翠发饰",
+                "position": "画面中央",
+                "action": "眼神坚定，下达命令",
+                "expression": "眉毛平展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，浅色背景",
+        "description_narrative": "特写镜头，安宁郡主眼神坚定，下达命令，神情严肃。",
+        "dialogue": "给我盯紧王爷的动向。",
+        "speaker": "安宁郡主",
+        "emotion": "严肃",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；室内，浅色背景；画面中央人物，身穿橙粉色华服，繁复珠翠发饰，眼神坚定，下达命令，表情：眉毛平展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "橙粉色华服，繁复珠翠发饰",
+                "position": "画面左侧",
+                "action": "站立，俯视",
+                "expression": "表情冷淡"
+            },
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "蓝色婢女服饰",
+                "position": "画面右侧前景",
+                "action": "跪地，低头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，床榻，帷幔",
+        "description_narrative": "中景俯拍，安宁郡主站立俯视跪在地上的侍女，侍女低头听令。",
+        "dialogue": "是。",
+        "speaker": "侍女",
+        "emotion": "顺从",
+        "duration": 2.44,
+        "description_visual": "中景俯拍镜头；室内，床榻，帷幔；画面左侧人物，身穿橙粉色华服，繁复珠翠发饰，站立，俯视，表情：表情冷淡；画面右侧前景人物，身穿蓝色婢女服饰，跪地，低头，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安宁郡主",
+                "gender": "女",
+                "clothing": "橙粉色华服，繁复珠翠发饰",
+                "position": "画面中央",
+                "action": "眼神微动，若有所思",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，浅色背景",
+        "description_narrative": "特写镜头，安宁郡主眼神微动，若有所思，神情深沉。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "深沉",
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头；室内，浅色背景；画面中央人物，身穿橙粉色华服，繁复珠翠发饰，眼神微动，若有所思，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面右侧",
+                "action": "端坐书案后，手放桌上",
+                "expression": "神情威严，目光直视"
+            }
+        ],
+        "background": "书房，木质屏风，书案，书籍",
+        "description_narrative": "全景固定镜头，王爷端坐在宽大的书案后，背景是精美的木质屏风，神情威严。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "威严",
+        "duration": 2.0,
+        "description_visual": "全景平拍镜头；书房，木质屏风，书案，书籍；画面右侧人物，身穿紫色长袍，银色发冠，端坐书案后，手放桌上，表情：神情威严，目光直视。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "清风",
+                "gender": "男",
+                "clothing": "深青色劲装",
+                "position": "画面中央",
+                "action": "站立，汇报情况",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "室内，书架，光线明亮",
+        "description_narrative": "近景固定镜头，清风站立汇报，神情严肃，确认有人行刺。",
+        "dialogue": "果然如王爷所料，确实有人想要杀他。",
+        "speaker": "清风",
+        "emotion": "严肃",
+        "duration": 2.52,
+        "description_visual": "近景平拍镜头；室内，书架，光线明亮；画面中央人物，身穿深青色劲装，站立，汇报情况，表情：眉毛微蹙，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服，黑色发带",
+                "position": "画面中央",
+                "action": "低头，神情惊恐",
+                "expression": "眉毛紧皱，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "特写侧拍，白衣男子低头，神情极度惊恐，正在求饶。",
+        "dialogue": "王爷饶命。",
+        "speaker": "白衣男子",
+        "emotion": "惊恐",
+        "duration": 1.04,
+        "description_visual": "特写侧拍镜头；室内，模糊背景；画面中央人物，身穿白色囚服，黑色发带，低头，神情惊恐，表情：眉毛紧皱，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "端坐，手放桌上，眼神冷峻",
+                "expression": "眉毛平展，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "书房，木质屏风",
+        "description_narrative": "中近景固定镜头，王爷端坐，眼神冷峻，威逼刺客交代。",
+        "dialogue": "想要本王救你，就如实交代王妃的事。",
+        "speaker": "王爷",
+        "emotion": "冷峻",
+        "duration": 3.28,
+        "description_visual": "中近景平拍镜头；书房，木质屏风；画面中央人物，身穿紫色长袍，银色发冠，端坐，手放桌上，眼神冷峻，表情：眉毛平展，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服，黑色发带",
+                "position": "画面中央",
+                "action": "侧头，眼神游移",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "特写侧拍，白衣男子侧头，眼神游移不定，似乎在犹豫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "犹豫",
+        "duration": 0.6,
+        "description_visual": "特写侧拍镜头；室内，模糊背景；画面中央人物，身穿白色囚服，黑色发带，侧头，眼神游移，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服，黑色发带",
+                "position": "画面中央",
+                "action": "转头，急切说话",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴开合"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "特写侧拍，白衣男子转头急切说话，供出幕后主使。",
+        "dialogue": "都是安宁郡主让我这么做的。",
+        "speaker": "白衣男子",
+        "emotion": "急切",
+        "duration": 1.6,
+        "description_visual": "特写侧拍镜头；室内，模糊背景；画面中央人物，身穿白色囚服，黑色发带，转头，急切说话，表情：眉毛上扬，眼睛睁大，嘴巴开合。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "端坐，眼神微动",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "书房，木质屏风",
+        "description_narrative": "中近景固定镜头，王爷端坐，听到供词后眼神微动，神情复杂。",
+        "dialogue": "王爷要是不信。",
+        "speaker": "白衣男子",
+        "emotion": "复杂",
+        "duration": 1.48,
+        "description_visual": "中近景平拍镜头；书房，木质屏风；画面中央人物，身穿紫色长袍，银色发冠，端坐，眼神微动，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服，黑色发带",
+                "position": "画面中央",
+                "action": "抬头，眼神急切",
+                "expression": "眉毛微扬，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "特写侧拍，白衣男子抬头，眼神急切，试图证明自己所言非虚。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "急切",
+        "duration": 0.96,
+        "description_visual": "特写侧拍镜头；室内，模糊背景；画面中央人物，身穿白色囚服，黑色发带，抬头，眼神急切，表情：眉毛微扬，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服，黑色发带",
+                "position": "画面中央",
+                "action": "继续说话，神情笃定",
+                "expression": "眉毛平展，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "特写侧拍，白衣男子继续说话，声称有信物为证。",
+        "dialogue": "有安宁郡主给我的信物。",
+        "speaker": "白衣男子",
+        "emotion": "笃定",
+        "duration": 1.56,
+        "description_visual": "特写侧拍镜头；室内，模糊背景；画面中央人物，身穿白色囚服，黑色发带，继续说话，神情笃定，表情：眉毛平展，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "端坐，神情凝重",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "书房，木质屏风",
+        "description_narrative": "中近景固定镜头，王爷端坐，神情凝重，似乎在思考信物之事。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；书房，木质屏风；画面中央人物，身穿紫色长袍，银色发冠，端坐，神情凝重，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服",
+                "position": "画面中央",
+                "action": "跪地，双手被绑在身后",
+                "expression": "不可见"
+            }
+        ],
+        "background": "书房，地毯，书案",
+        "description_narrative": "中景俯拍，白衣男子跪在地毯上，双手被绑在身后，身体前倾。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.4,
+        "description_visual": "中景俯拍镜头；书房，地毯，书案；画面中央人物，身穿白色囚服，跪地，双手被绑在身后，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "大特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服",
+                "position": "画面中央",
+                "action": "双手被绑，展示信物",
+                "expression": "不可见"
+            },
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面左侧",
+                "action": "手伸入画面，拿取信物",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色衣物，绳索",
+        "description_narrative": "大特写俯拍，白衣男子被绑的双手，有人伸手从袖中取出信物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "大特写俯拍镜头；白色衣物，绳索；画面中央人物，身穿白色囚服，双手被绑，展示信物，表情：不可见；画面左侧人物，身穿未知，手伸入画面，拿取信物，表情：不可见。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "清风",
+                "gender": "男",
+                "clothing": "深青色劲装",
+                "position": "画面中央",
+                "action": "低头查看信物",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "近景俯拍，清风低头仔细查看手中的信物，确认是郡主的镯子。",
+        "dialogue": "果真是郡主的镯子。",
+        "speaker": "清风",
+        "emotion": "确认",
+        "duration": 3.08,
+        "description_visual": "近景俯拍镜头；室内，模糊背景；画面中央人物，身穿深青色劲装，低头查看信物，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面右侧",
+                "action": "侧头，神情震惊",
+                "expression": "眉毛微扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "书房，木质屏风",
+        "description_narrative": "中近景固定镜头，王爷侧头，听到结果后神情震惊，口中念出“郡主”。",
+        "dialogue": "郡主。",
+        "speaker": "王爷",
+        "emotion": "震惊",
+        "duration": 1.76,
+        "description_visual": "中近景平拍镜头；书房，木质屏风；画面右侧人物，身穿紫色长袍，银色发冠，侧头，神情震惊，表情：眉毛微扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "清风",
+                "gender": "男",
+                "clothing": "深青色劲装",
+                "position": "画面中央",
+                "action": "抬头，急切劝阻",
+                "expression": "眉毛紧皱，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "室内，书架",
+        "description_narrative": "近景固定镜头，清风抬头急切劝阻王爷，神情紧张。",
+        "dialogue": "王爷不可。",
+        "speaker": "清风",
+        "emotion": "紧张",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头；室内，书架；画面中央人物，身穿深青色劲装，抬头，急切劝阻，表情：眉毛紧皱，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "站立，侧头询问",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "书房，木质屏风",
+        "description_narrative": "中近景固定镜头，王爷站立，侧头询问清风为何不可，神情疑惑。",
+        "dialogue": "为何？",
+        "speaker": "王爷",
+        "emotion": "疑惑",
+        "duration": 0.92,
+        "description_visual": "中近景平拍镜头；书房，木质屏风；画面中央人物，身穿紫色长袍，银色发冠，站立，侧头询问，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "清风",
+                "gender": "男",
+                "clothing": "深青色劲装",
+                "position": "画面中央",
+                "action": "抬头，解释原因",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "室内，书架",
+        "description_narrative": "近景固定镜头，清风抬头解释，提醒王爷时间紧迫。",
+        "dialogue": "今天已经是第二天了。",
+        "speaker": "清风",
+        "emotion": "急切",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；室内，书架；画面中央人物，身穿深青色劲装，抬头，解释原因，表情：眉毛微蹙，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍，银色发冠",
+                "position": "画面中央",
+                "action": "站立，神情决断",
+                "expression": "眉毛平展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "书房，木质屏风",
+        "description_narrative": "中近景固定镜头，王爷站立，神情决断，权衡利弊后下达命令。",
+        "dialogue": "最要紧的是把王妃接回府，先把他关到密室。",
+        "speaker": "王爷",
+        "emotion": "决断",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；书房，木质屏风；画面中央人物，身穿紫色长袍，银色发冠，站立，神情决断，表情：眉毛平展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "清风",
+                "gender": "男",
+                "clothing": "深青色劲装",
+                "position": "画面中央",
+                "action": "点头，领命",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内，书架",
+        "description_narrative": "近景固定镜头，清风点头领命，神情严肃。",
+        "dialogue": "是。",
+        "speaker": "清风",
+        "emotion": "严肃",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头；室内，书架；画面中央人物，身穿深青色劲装，点头，领命，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "清风",
+                "gender": "男",
+                "clothing": "深青色劲装",
+                "position": "画面左侧",
+                "action": "站立，转身",
+                "expression": "不可见"
+            },
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "紫色长袍",
+                "position": "画面右后景",
+                "action": "站立，注视",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色囚服",
+                "position": "画面中央前景",
+                "action": "跪地，低头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "书房，地毯，书案，屏风",
+        "description_narrative": "全景固定镜头，清风转身准备执行命令，王爷站在书案后，白衣男子跪在地上，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.84,
+        "description_visual": "全景平拍镜头；书房，地毯，书案，屏风；画面左侧人物，身穿深青色劲装，站立，转身，表情：不可见；画面右后景人物，身穿紫色长袍，站立，注视，表情：不可见；画面中央前景人物，身穿白色囚服，跪地，低头，表情：不可见。"
+    }
+]

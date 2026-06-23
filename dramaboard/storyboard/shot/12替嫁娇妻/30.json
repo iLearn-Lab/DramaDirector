@@ -1,0 +1,808 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅绿色古装",
+                "position": "画面左侧/后方",
+                "action": "从身后环抱明王妃",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面右侧/前方",
+                "action": "被环抱，身体微侧",
+                "expression": "眉毛低垂，眼睛下视，嘴巴微抿"
+            }
+        ],
+        "background": "深色屏风背景，上方有粉色标题字",
+        "description_narrative": "中景固定镜头，王爷身穿浅绿色古装从身后环抱明王妃，明王妃身穿白色古装神情低落，背景为深色屏风，画面上方显示标题“替嫁娇妻”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色屏风背景，上方有粉色标题字；画面左侧/后方人物，身穿浅绿色古装，从身后环抱明王妃，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面右侧/前方人物，身穿白色刺绣古装，被环抱，身体微侧，表情：眉毛低垂，眼睛下视，嘴巴微抿。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅绿色古装",
+                "position": "画面中央",
+                "action": "头部微转，眼神惊愕",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内窗格背景，光线柔和",
+        "description_narrative": "近景固定镜头，王爷身穿浅绿色古装，头戴发冠，神情震惊地看向前方，嘴巴微张似乎在询问。",
+        "dialogue": "太后怎么样？",
+        "speaker": "王爷",
+        "emotion": "震惊",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；室内窗格背景，光线柔和；画面中央人物，身穿浅绿色古装，头部微转，眼神惊愕，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "头部微侧，眼神严厉",
+                "expression": "眉毛微皱，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "深色木门背景",
+        "description_narrative": "近景固定镜头，皇帝头戴金冠身穿黄色龙袍，神情威严且带有不满，视线看向一侧。",
+        "dialogue": "看了这么久",
+        "speaker": "皇帝",
+        "emotion": "不满",
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；深色木门背景；画面中央人物，身穿黄色龙袍，头部微侧，眼神严厉，表情：眉毛微皱，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "身体前倾，语气急躁",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴张开说话"
+            }
+        ],
+        "background": "红色帷幔背景",
+        "description_narrative": "近景固定镜头，皇帝身体前倾，表情急躁地质问，背景为红色帷幔。",
+        "dialogue": "太后到底怎么样了？",
+        "speaker": "皇帝",
+        "emotion": "急躁",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；红色帷幔背景；画面中央人物，身穿黄色龙袍，身体前倾，语气急躁，表情：眉毛紧锁，眼睛直视，嘴巴张开说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "低头恭敬，神态紧张",
+                "expression": "眉毛下垂，眼睛低垂，嘴巴微动"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景固定镜头，韩医师头戴黑色官帽身穿紫色官服，神情紧张地低头回话。",
+        "dialogue": "陛下。太后身体病弱，现如今已疾病缠身。",
+        "speaker": "韩医师",
+        "emotion": "紧张",
+        "duration": 2.92,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿紫色官服，低头恭敬，神态紧张，表情：眉毛下垂，眼睛低垂，嘴巴微动。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "站立倾听，神情凝重",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "粉色帷幔和窗格背景",
+        "description_narrative": "中近景固定镜头，明王妃身穿白色古装站立，神情凝重地听着对话，背景有粉色帷幔。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 1.72,
+        "description_visual": "中近景平拍镜头；粉色帷幔和窗格背景；画面中央人物，身穿白色刺绣古装，站立倾听，神情凝重，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "继续回话，面露难色",
+                "expression": "眉毛紧锁，眼睛看向下方，嘴巴开合"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景固定镜头，韩医师面露难色，继续向皇帝汇报太后的病情。",
+        "dialogue": "旧疾积累 气血已空",
+        "speaker": "韩医师",
+        "emotion": "为难",
+        "duration": 2.48,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿紫色官服，继续回话，面露难色，表情：眉毛紧锁，眼睛看向下方，嘴巴开合。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "面部特写，神情严肃",
+                "expression": "眉毛平展，眼睛微眯，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，皇帝面部表情严肃，听着韩医师说病情已积重难返。",
+        "dialogue": "已到积重难忍之步，请陛下。",
+        "speaker": "韩医师",
+        "emotion": "严肃",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黄色龙袍，面部特写，神情严肃，表情：眉毛平展，眼睛微眯，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "听到诊断后震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "粉色帷幔背景",
+        "description_narrative": "中近景固定镜头，明王妃听到太医的诊断后露出震惊的表情，嘴巴微张。",
+        "dialogue": "什么",
+        "speaker": "明王妃",
+        "emotion": "震惊",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；粉色帷幔背景；画面中央人物，身穿白色刺绣古装，听到诊断后震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅绿色古装",
+                "position": "画面中央",
+                "action": "神情担忧",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内窗格背景",
+        "description_narrative": "中近景固定镜头，王爷身穿浅绿色古装，神情担忧地低着头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "担忧",
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；室内窗格背景；画面中央人物，身穿浅绿色古装，神情担忧，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "白色衣袖",
+                "position": "画面中央",
+                "action": "手搭在脉搏上",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "模糊的织物背景",
+        "description_narrative": "特写俯拍镜头，一只手搭在另一只手的手腕脉搏处，正在进行诊脉。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "特写俯拍镜头；模糊的织物背景；画面中央人物，身穿白色衣袖，手搭在脉搏上，表情：无面部表情。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头沉思",
+                "expression": "眉毛低垂，眼睛下视，嘴巴微抿"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "中近景固定镜头，明王妃低头沉思，画外音传来皇帝愤怒的声音。",
+        "dialogue": "御医院不管",
+        "speaker": "皇帝",
+        "emotion": "愤怒",
+        "duration": 2.16,
+        "description_visual": "中近景平拍镜头；模糊背景；画面中央人物，身穿白色刺绣古装，低头沉思，表情：眉毛低垂，眼睛下视，嘴巴微抿。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "愤怒地下令",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "深色木门背景",
+        "description_narrative": "近景固定镜头，皇帝表情愤怒，大声命令太医必须治好太后。",
+        "dialogue": "御医院不管想出什么办法，把。",
+        "speaker": "皇帝",
+        "emotion": "愤怒",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；深色木门背景；画面中央人物，身穿黄色龙袍，愤怒地下令，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "语气强硬",
+                "expression": "眉毛上扬，眼睛直视，嘴巴用力闭合"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，皇帝语气强硬地强调必须治好太后。",
+        "dialogue": "把太后给我治好",
+        "speaker": "皇帝",
+        "emotion": "强硬",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黄色龙袍，语气强硬，表情：眉毛上扬，眼睛直视，嘴巴用力闭合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "发出威胁",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，皇帝眼神凌厉，发出否则就陪葬的威胁。",
+        "dialogue": "不然",
+        "speaker": "皇帝",
+        "emotion": "威胁",
+        "duration": 1.16,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黄色龙袍，发出威胁，表情：眉毛紧蹙，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "听到威胁后惊恐",
+                "expression": "眉毛颤抖，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "近景固定镜头，韩医师听到皇帝的威胁后面露惊恐之色。",
+        "dialogue": "全都给太后赔葬",
+        "speaker": "皇帝",
+        "emotion": "惊恐",
+        "duration": 2.0,
+        "description_visual": "近景平拍镜头；模糊背景；画面中央人物，身穿紫色官服，听到威胁后惊恐，表情：眉毛颤抖，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "跪地或低头请罪",
+                "expression": "眉毛下垂，眼睛低垂，嘴巴微动"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "近景固定镜头，韩医师低头请罪，表示太医院已经尽力。",
+        "dialogue": "陛下恕罪",
+        "speaker": "韩医师",
+        "emotion": "恐惧",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；模糊背景；画面中央人物，身穿紫色官服，跪地或低头请罪，表情：眉毛下垂，眼睛低垂，嘴巴微动。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "面无表情",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "近景固定镜头，皇帝面无表情地听着韩医师解释除非神医在世。",
+        "dialogue": "太医院已经想尽了所有办法",
+        "speaker": "韩医师",
+        "emotion": "冷漠",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；模糊背景；画面中央人物，身穿黄色龙袍，面无表情，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "继续解释",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴开合"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "近景固定镜头，韩医师继续解释病情之重，需要神医。",
+        "dialogue": "除非神医在世",
+        "speaker": "韩医师",
+        "emotion": "无奈",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；模糊背景；画面中央人物，身穿紫色官服，继续解释，表情：眉毛微蹙，眼睛看向一侧，嘴巴开合。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "说完结论",
+                "expression": "眉毛下垂，眼睛低垂，嘴巴闭合"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "近景固定镜头，韩医师说完结论，表示只有神医才能医治。",
+        "dialogue": "才方可医治",
+        "speaker": "韩医师",
+        "emotion": "无奈",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；模糊背景；画面中央人物，身穿紫色官服，说完结论，表情：眉毛下垂，眼睛低垂，嘴巴闭合。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "眼神坚定",
+                "expression": "眉毛微扬，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，明王妃眼神坚定，似乎有话要说。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "坚定",
+        "duration": 1.68,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿白色刺绣古装，眼神坚定，表情：眉毛微扬，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "前景/背对",
+                "action": "背对镜头站立",
+                "expression": "无"
+            },
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "背景/右侧",
+                "action": "站立倾听",
+                "expression": "眉毛微蹙"
+            },
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "背景/左侧",
+                "action": "上前一步说话",
+                "expression": "神情自信"
+            }
+        ],
+        "background": "室内房间，有屏风和挂画",
+        "description_narrative": "全景过肩镜头，明王妃上前一步反驳太医，表示太后的病并非绝境。",
+        "dialogue": "太后的病并非已到绝境",
+        "speaker": "明王妃",
+        "emotion": "自信",
+        "duration": 3.4,
+        "description_visual": "全景过肩镜头；室内房间，有屏风和挂画；前景/背对人物，身穿紫色官服，背对镜头站立，表情：无；背景/右侧人物，身穿黄色龙袍，站立倾听，表情：眉毛微蹙；背景/左侧人物，身穿白色刺绣古装，上前一步说话，表情：神情自信。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "侧头质疑",
+                "expression": "眉毛上扬，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，皇帝侧头质疑明王妃的话，问她何出此言。",
+        "dialogue": "并非已到绝境",
+        "speaker": "皇帝",
+        "emotion": "质疑",
+        "duration": 2.28,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黄色龙袍，侧头质疑，表情：眉毛上扬，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "解释病情",
+                "expression": "眉毛舒展，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，明王妃开始解释太后的病情，指出并未根治。",
+        "dialogue": "明王妃何出此言？",
+        "speaker": "皇帝",
+        "emotion": "冷静",
+        "duration": 3.16,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿白色刺绣古装，解释病情，表情：眉毛舒展，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "倾听",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，皇帝倾听明王妃分析太后病气淤积在胸口。",
+        "dialogue": "太后身子娇弱，许多病症并未得到根治。",
+        "speaker": "明王妃",
+        "emotion": "专注",
+        "duration": 5.12,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黄色龙袍，倾听，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "继续倾听",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，皇帝继续听着明王妃的分析。",
+        "dialogue": "许多病症并未得到根治",
+        "speaker": "明王妃",
+        "emotion": "专注",
+        "duration": 1.88,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黄色龙袍，继续倾听，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "听到分析后惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "近景固定镜头，韩医师听到明王妃的分析后露出惊讶的表情。",
+        "dialogue": "病气在胸口处淤积。",
+        "speaker": "明王妃",
+        "emotion": "惊讶",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；模糊背景；画面中央人物，身穿紫色官服，听到分析后惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "继续分析",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，明王妃继续分析病情，指出气血并未亏空。",
+        "dialogue": "致使气血不通，但并没有到气血亏空。",
+        "speaker": "明王妃",
+        "emotion": "自信",
+        "duration": 4.04,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿白色刺绣古装，继续分析，表情：眉毛微蹙，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "请求施针",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴开合"
+            }
+        ],
+        "background": "红色帷幔背景",
+        "description_narrative": "近景固定镜头，一名身穿紫色官服的男子（可能是另一位皇子或官员）请求皇帝允许施针救治。",
+        "dialogue": "请父皇允许儿臣给太后施针，儿臣一定能够救回太后。",
+        "speaker": "未知",
+        "emotion": "恳切",
+        "duration": 4.4,
+        "description_visual": "近景平拍镜头；红色帷幔背景；画面中央人物，身穿紫色官服，请求施针，表情：眉毛微蹙，眼睛下视，嘴巴开合。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "韩医师",
+                "gender": "男",
+                "clothing": "紫色官服",
+                "position": "画面中央",
+                "action": "被旁人辩护",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "近景固定镜头，韩医师站在一旁，画外音有人为他辩护说他是宫中最好的太医。",
+        "dialogue": "陛下，这韩御医可是宫中最好的太医。",
+        "speaker": "侍从",
+        "emotion": "紧张",
+        "duration": 4.16,
+        "description_visual": "近景平拍镜头；模糊背景；画面中央人物，身穿紫色官服，被旁人辩护，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅绿色古装",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，王爷低头，画外音传来韩医师质疑明王妃是女流之辈。",
+        "dialogue": "最好的太医",
+        "speaker": "侍从",
+        "emotion": "无奈",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿浅绿色古装，低头，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "皇帝",
+                "gender": "男",
+                "clothing": "黄色龙袍",
+                "position": "画面中央",
+                "action": "手扶额头，犹豫",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，皇帝手扶额头，犹豫是否让明王妃诊治，担心救治不利。",
+        "dialogue": "怎会看诊呢？若是救治不利",
+        "speaker": "皇帝",
+        "emotion": "犹豫",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿黄色龙袍，手扶额头，犹豫，表情：眉毛紧锁，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "中近景固定镜头，明王妃低头，画外音继续说会损害太后贵体。",
+        "dialogue": "可是会损害太后贵体啊。",
+        "speaker": "皇帝",
+        "emotion": "担忧",
+        "duration": 4.76,
+        "description_visual": "中近景平拍镜头；模糊背景；画面中央人物，身穿白色刺绣古装，低头，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "明王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面中央",
+                "action": "抬头安慰",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微动"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "中近景固定镜头，明王妃抬头，画外音传来王爷安慰皇帝不必烦恼。",
+        "dialogue": "皇兄不必烦恼。",
+        "speaker": "王爷",
+        "emotion": "安慰",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；模糊背景；画面中央人物，身穿白色刺绣古装，抬头安慰，表情：眉毛舒展，眼睛注视，嘴巴微动。"
+    }
+]

@@ -1,0 +1,315 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白屏幕，无具体场景细节",
+        "description_narrative": "画面为纯白屏幕，持续3.84秒，作为场景过渡，无可见人物或动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；纯白屏幕，无具体场景细节。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王公子",
+                "gender": "男",
+                "clothing": "白色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛注视下方，嘴巴微张似在说话"
+            }
+        ],
+        "background": "室内书房环境，背景模糊可见书架，光线柔和",
+        "description_narrative": "近景镜头跟随王公子动作，他身穿白色西装，身体前倾，神情专注地看向下方，嘴巴微动说出台词。",
+        "dialogue": "钟神医，好久不见。",
+        "speaker": "王公子",
+        "emotion": "礼貌、寒暄",
+        "duration": 2.64,
+        "description_visual": "近景平拍镜头（跟拍）；室内书房环境，背景模糊可见书架，光线柔和；画面中央人物，身穿白色西装外套，白色衬衫，身体前倾，头部微低，视线向下，表情：眉毛微蹙，眼睛注视下方，嘴巴微张似在说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱长袖上衣",
+                "position": "画面右侧",
+                "action": "端坐桌前，双手手指交叉轻扣在桌面上",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微微上扬"
+            }
+        ],
+        "background": "室内，背景为竖条纹木质隔断，桌上有棋盘和棋罐",
+        "description_narrative": "中近景固定镜头拍摄钟神医，她身穿白色褶皱上衣，端坐在桌前，双手交叠，面带微笑看向对面，眼神温和。",
+        "dialogue": "好久不见，王公子会下棋吗？",
+        "speaker": "钟神医",
+        "emotion": "亲切、试探",
+        "duration": 4.68,
+        "description_visual": "中近景平拍镜头；室内，背景为竖条纹木质隔断，桌上有棋盘和棋罐；画面右侧人物，身穿白色褶皱长袖上衣，端坐桌前，双手手指交叉轻扣在桌面上，表情：眉毛舒展，眼睛注视对方，嘴角微微上扬。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王公子",
+                "gender": "男",
+                "clothing": "白色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "身体后靠，头部微侧，视线看向左下方",
+                "expression": "眉毛平缓，眼睛微垂，嘴唇紧闭后微动"
+            }
+        ],
+        "background": "室内书房，背景虚化，光线从左侧窗户射入",
+        "description_narrative": "中近景镜头对准王公子，他身体后靠，神情谦逊，目光微垂，嘴唇轻启回应对方。",
+        "dialogue": "略会一点，不敢献丑。",
+        "speaker": "王公子",
+        "emotion": "谦逊、从容",
+        "duration": 3.12,
+        "description_visual": "中近景平拍镜头；室内书房，背景虚化，光线从左侧窗户射入；画面中央人物，身穿白色西装外套，白色衬衫，身体后靠，头部微侧，视线看向左下方，表情：眉毛平缓，眼睛微垂，嘴唇紧闭后微动。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱长袖上衣",
+                "position": "画面右侧",
+                "action": "身体微前倾，双手仍交叠在桌上",
+                "expression": "眉毛微挑，眼睛含笑，嘴巴张开说话"
+            }
+        ],
+        "background": "室内，背景为竖条纹木质隔断，桌上有棋盘",
+        "description_narrative": "中近景镜头拍摄钟神医，她身体微向前倾，面带笑意，眼神明亮，主动邀请对方下棋。",
+        "dialogue": "那就陪我下几场吧，现在大局已定，也闲来无事。",
+        "speaker": "钟神医",
+        "emotion": "轻松、邀请",
+        "duration": 4.32,
+        "description_visual": "中近景平拍镜头；室内，背景为竖条纹木质隔断，桌上有棋盘；画面右侧人物，身穿白色褶皱长袖上衣，身体微前倾，双手仍交叠在桌上，表情：眉毛微挑，眼睛含笑，嘴巴张开说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王公子",
+                "gender": "男",
+                "clothing": "白色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "坐姿端正，头部微点，视线平视前方",
+                "expression": "眉毛舒展，眼睛直视，嘴角微抿"
+            }
+        ],
+        "background": "室内书房，背景虚化，光线柔和",
+        "description_narrative": "中近景镜头对准王公子，他坐姿端正，微微点头表示同意，神情从容接受邀请。",
+        "dialogue": "那就恭敬不如从命了。",
+        "speaker": "王公子",
+        "emotion": "应允、客气",
+        "duration": 2.64,
+        "description_visual": "中近景平拍镜头；室内书房，背景虚化，光线柔和；画面中央人物，身穿白色西装外套，白色衬衫，坐姿端正，头部微点，视线平视前方，表情：眉毛舒展，眼睛直视，嘴角微抿。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "未见全身，仅见手部",
+                "position": "画面右上方",
+                "action": "手指捏住一枚黑色棋子，准备落在棋盘上",
+                "expression": "未见面部"
+            }
+        ],
+        "background": "木质围棋棋盘，格线清晰，光线聚焦于棋盘",
+        "description_narrative": "特写俯拍镜头聚焦于棋盘，一只女性的手捏着黑色棋子悬停在棋盘上方，准备落子。",
+        "dialogue": "王公子很厉害啊。",
+        "speaker": "钟神医",
+        "emotion": "赞赏",
+        "duration": 1.76,
+        "description_visual": "特写俯拍镜头；木质围棋棋盘，格线清晰，光线聚焦于棋盘；画面右上方人物，身穿未见全身，仅见手部，手指捏住一枚黑色棋子，准备落在棋盘上，表情：未见面部。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱长袖上衣",
+                "position": "画面右侧",
+                "action": "身体前倾，左手放在桌沿，视线看向对面",
+                "expression": "眉毛微扬，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "室内，背景为竖条纹木质隔断",
+        "description_narrative": "中近景镜头拍摄钟神医，她身体前倾，目光专注地看着对面，似乎在继续评价对方的棋艺。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；室内，背景为竖条纹木质隔断；画面右侧人物，身穿白色褶皱长袖上衣，身体前倾，左手放在桌沿，视线看向对面，表情：眉毛微扬，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王公子",
+                "gender": "男",
+                "clothing": "白色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "身体微侧，视线向下看棋盘",
+                "expression": "眉毛平缓，眼睛下视，表情平静"
+            }
+        ],
+        "background": "室内书房，背景虚化可见书架",
+        "description_narrative": "中近景镜头对准王公子，他低头看着棋盘，神情专注，倾听对方的评价。",
+        "dialogue": "帮林氏搞定了很多事情。",
+        "speaker": "钟神医",
+        "emotion": "陈述、观察",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；室内书房，背景虚化可见书架；画面中央人物，身穿白色西装外套，白色衬衫，身体微侧，视线向下看棋盘，表情：眉毛平缓，眼睛下视，表情平静。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱长袖上衣",
+                "position": "画面右侧",
+                "action": "身体微侧，右手伸向棋盘方向",
+                "expression": "眉毛舒展，眼睛微垂，嘴角含笑"
+            }
+        ],
+        "background": "室内，背景为竖条纹木质隔断",
+        "description_narrative": "中近景镜头拍摄钟神医，她面带微笑，眼神柔和，似乎在回应对方的谦逊。",
+        "dialogue": "可能是运气好。",
+        "speaker": "王公子",
+        "emotion": "谦虚、回应",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；室内，背景为竖条纹木质隔断；画面右侧人物，身穿白色褶皱长袖上衣，身体微侧，右手伸向棋盘方向，表情：眉毛舒展，眼睛微垂，嘴角含笑。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王公子",
+                "gender": "男",
+                "clothing": "白色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，双手放在桌沿，视线看向对方",
+                "expression": "眉毛微挑，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内书房，背景虚化，光线柔和",
+        "description_narrative": "中近景镜头对准王公子，他身体前倾，目光锐利地看向对面，提出赌约条件。",
+        "dialogue": "你要是下赢了，我送你一个消息。",
+        "speaker": "王公子",
+        "emotion": "自信、诱惑",
+        "duration": 4.12,
+        "description_visual": "中近景平拍镜头；室内书房，背景虚化，光线柔和；画面中央人物，身穿白色西装外套，白色衬衫，身体前倾，双手放在桌沿，视线看向对方，表情：眉毛微挑，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱长袖上衣",
+                "position": "画面右侧",
+                "action": "身体微前倾，左手握拳轻抵桌面",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张显好奇"
+            }
+        ],
+        "background": "室内，背景为竖条纹木质隔断",
+        "description_narrative": "中近景镜头拍摄钟神医，她身体前倾，眼神中流露出好奇，追问消息的内容。",
+        "dialogue": "关于什么的？",
+        "speaker": "钟神医",
+        "emotion": "好奇、追问",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；室内，背景为竖条纹木质隔断；画面右侧人物，身穿白色褶皱长袖上衣，身体微前倾，左手握拳轻抵桌面，表情：眉毛微蹙，眼睛睁大，嘴巴微张显好奇。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王公子",
+                "gender": "男",
+                "clothing": "白色西装外套，白色衬衫",
+                "position": "画面中央",
+                "action": "右手伸向棋罐拿取棋子，视线看棋盘",
+                "expression": "眉毛平缓，眼睛下视，嘴巴微动"
+            }
+        ],
+        "background": "室内书房，背景虚化可见书架",
+        "description_narrative": "中近景镜头对准王公子，他伸手拿取棋子，目光专注于棋盘，随口透露消息主题并提醒对方。",
+        "dialogue": "关于周氏的，别分心了。",
+        "speaker": "王公子",
+        "emotion": "神秘、提醒",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；室内书房，背景虚化可见书架；画面中央人物，身穿白色西装外套，白色衬衫，右手伸向棋罐拿取棋子，视线看棋盘，表情：眉毛平缓，眼睛下视，嘴巴微动。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "钟神医",
+                "gender": "女",
+                "clothing": "白色褶皱长袖上衣",
+                "position": "画面右侧",
+                "action": "右手伸向棋盘落子，身体前倾",
+                "expression": "眉毛微扬，眼睛注视棋盘，嘴角上扬"
+            }
+        ],
+        "background": "室内，背景为竖条纹木质隔断，桌上有棋盘",
+        "description_narrative": "中近景镜头拍摄钟神医，她伸手落子，神情兴奋且充满挑战欲，接受对方的挑战。",
+        "dialogue": "那我就挺好奇了，来接招。",
+        "speaker": "钟神医",
+        "emotion": "兴奋、应战",
+        "duration": 6.48,
+        "description_visual": "中近景平拍镜头；室内，背景为竖条纹木质隔断，桌上有棋盘；画面右侧人物，身穿白色褶皱长袖上衣，右手伸向棋盘落子，身体前倾，表情：眉毛微扬，眼睛注视棋盘，嘴角上扬。"
+    }
+]

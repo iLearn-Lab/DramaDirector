@@ -1,0 +1,906 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "站立，手持白菊，侧脸看向右前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "站立，手持花束，侧脸看向右前方",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "路人男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立，双手交握",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地场景，红砖地面，背景有树木，光线柔和",
+        "description_narrative": "低角度全景镜头，慕雨身穿黑色短裙手持白菊站在左侧，叶轩诚身穿黑色西装手持花束站在中央，路人男站在右侧，众人神情肃穆地站立在墓地红砖地面上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.37,
+        "description_visual": "全景低角度镜头；墓地场景，红砖地面，背景有树木，光线柔和；画面左侧人物，身穿黑色短裙，站立，手持白菊，侧脸看向右前方，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面中央人物，身穿黑色西装，站立，手持花束，侧脸看向右前方，表情：眉毛舒展，眼睛注视前方，嘴巴微张；画面右侧人物，身穿黑色西装，站立，双手交握，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "行走，低头看着手中的白菊",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "行走，低头看着手中的花束",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地道路，背景有树木和车辆，光线自然",
+        "description_narrative": "平拍中景跟拍镜头，慕雨和叶轩诚并肩走在墓地道路上，两人都低头看着手中的花束，神情哀伤。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "中景平拍镜头（跟拍）；墓地道路，背景有树木和车辆，光线自然；画面左侧人物，身穿黑色短裙，行走，低头看着手中的白菊，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面右侧人物，身穿黑色西装，行走，低头看着手中的花束，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "墓碑特写，刻有“叶府墓”字样，前方有彩色花朵和石狮子",
+        "description_narrative": "平拍特写固定镜头，聚焦于刻有“叶府墓”字样的黑色墓碑，前方摆放着彩色花朵，右侧有石狮子雕像。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.03,
+        "description_visual": "特写平拍镜头；墓碑特写，刻有“叶府墓”字样，前方有彩色花朵和石狮子。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "路人男",
+                "gender": "男",
+                "clothing": "黑色西装，灰色内搭",
+                "position": "画面左侧",
+                "action": "站立，手持白菊，看向前方",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "路人女",
+                "gender": "女",
+                "clothing": "黑色西装，白色内搭",
+                "position": "画面右侧",
+                "action": "站立，手持白菊，看向前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍中近景固定镜头，路人男和路人女并肩站立，手持白菊，路人男正在说话，两人神情关注。",
+        "dialogue": "慕小姐是以亲属的身份来参加祭拜的。",
+        "speaker": "路人男",
+        "emotion": "议论",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；墓地背景，树木模糊，光线柔和；画面左侧人物，身穿黑色西装，灰色内搭，站立，手持白菊，看向前方，表情：眉毛平展，眼睛注视前方，嘴巴微张；画面右侧人物，身穿黑色西装，白色内搭，站立，手持白菊，看向前方，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "弯腰，将花束放在墓碑前",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立，低头看着慕雨的动作",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "墓碑前，红砖地面，有石狮子和花束",
+        "description_narrative": "高角度中景固定镜头，慕雨弯腰将花束放在墓碑前，叶轩诚站在一旁低头看着，神情哀伤。",
+        "dialogue": "来参加祭拜的",
+        "speaker": "路人男",
+        "emotion": "议论",
+        "duration": 3.33,
+        "description_visual": "中景高角度镜头；墓碑前，红砖地面，有石狮子和花束；画面左侧人物，身穿黑色短裙，弯腰，将花束放在墓碑前，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面右侧人物，身穿黑色西装，站立，低头看着慕雨的动作，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "跪在地上，身体前倾",
+                "expression": "眉毛紧蹙，眼睛微闭，嘴巴微张"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "站立，低头看着叶轩诚",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地道路，背景有树木和车辆",
+        "description_narrative": "平拍中景固定镜头，叶轩诚跪在地上，身体前倾，慕雨站在一旁低头看着，神情担忧。",
+        "dialogue": "小点声，轮不到我们关心。",
+        "speaker": "路人男",
+        "emotion": "制止",
+        "duration": 7.57,
+        "description_visual": "中景平拍镜头；墓地道路，背景有树木和车辆；画面中央人物，身穿黑色西装，跪在地上，身体前倾，表情：眉毛紧蹙，眼睛微闭，嘴巴微张；画面左侧人物，身穿黑色短裙，站立，低头看着叶轩诚，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "站立，侧身看着叶轩诚",
+                "expression": "眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "跪在地上，面向墓碑",
+                "expression": "眉毛紧蹙，眼睛微闭，嘴巴微张"
+            },
+            {
+                "name": "路人男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央后景",
+                "action": "站立，双手交握",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地场景，红砖地面，背景有树木",
+        "description_narrative": "低角度全景固定镜头，叶轩诚跪在地上面向墓碑，慕雨站在一旁侧身看着，路人男站在后景，气氛肃穆。",
+        "dialogue": "妈，是儿子不孝。",
+        "speaker": "叶轩诚",
+        "emotion": "悲痛",
+        "duration": 2.6,
+        "description_visual": "全景低角度镜头；墓地场景，红砖地面，背景有树木；画面左侧人物，身穿黑色短裙，站立，侧身看着叶轩诚，表情：眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭；画面右侧人物，身穿黑色西装，跪在地上，面向墓碑，表情：眉毛紧蹙，眼睛微闭，嘴巴微张；画面中央后景人物，身穿黑色西装，站立，双手交握，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面下方",
+                "action": "跪地叩首，额头触地",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面上方",
+                "action": "站立，低头看着叶轩诚",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "红砖地面，墓碑前，有石狮子和花束",
+        "description_narrative": "高角度中景固定镜头，叶轩诚跪地叩首，额头触地，慕雨站在一旁低头看着，神情哀伤。",
+        "dialogue": "对不起你们。",
+        "speaker": "叶轩诚",
+        "emotion": "愧疚",
+        "duration": 1.93,
+        "description_visual": "中景高角度镜头；红砖地面，墓碑前，有石狮子和花束；画面下方人物，身穿黑色西装，跪地叩首，额头触地，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张；画面上方人物，身穿黑色短裙，站立，低头看着叶轩诚，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "站立，侧身看着前方",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "路人男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "站立，双手交握",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "跪在地上，身体前倾",
+                "expression": "眉毛紧蹙，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "墓地场景，红砖地面，背景有树木",
+        "description_narrative": "低角度全景固定镜头，慕雨站在左侧，路人男站在中央，叶轩诚跪在右侧，众人神情肃穆。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 6.6,
+        "description_visual": "全景低角度镜头；墓地场景，红砖地面，背景有树木；画面左侧人物，身穿黑色短裙，站立，侧身看着前方，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面中央人物，身穿黑色西装，站立，双手交握，表情：眉毛平展，眼睛注视前方，嘴巴紧闭；画面右侧人物，身穿黑色西装，跪在地上，身体前倾，表情：眉毛紧蹙，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面右侧",
+                "action": "行走，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭"
+            },
+            {
+                "name": "撑伞随从",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "行走，为墨镜男撑伞",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地场景，墓碑排列，有石狮子和树木",
+        "description_narrative": "平拍全景跟拍镜头，墨镜男在撑伞随从的陪同下走在墓地中，神情冷漠，背景是排列的墓碑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.67,
+        "description_visual": "全景平拍镜头（跟拍）；墓地场景，墓碑排列，有石狮子和树木；画面右侧人物，身穿黑色西装，戴墨镜，行走，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭；画面左侧人物，身穿黑色西装，行走，为墨镜男撑伞，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "站立，手扶着叶轩诚的手臂",
+                "expression": "眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立，神情悲痛",
+                "expression": "眉毛紧蹙，眼睛微红，嘴巴微张"
+            }
+        ],
+        "background": "墓地道路，背景有树木和车辆",
+        "description_narrative": "平拍中景固定镜头，慕雨手扶着叶轩诚的手臂，叶轩诚站立着，神情悲痛，两人似乎在交流。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.27,
+        "description_visual": "中景平拍镜头；墓地道路，背景有树木和车辆；画面左侧人物，身穿黑色短裙，站立，手扶着叶轩诚的手臂，表情：眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭；画面右侧人物，身穿黑色西装，站立，神情悲痛，表情：眉毛紧蹙，眼睛微红，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面右侧",
+                "action": "行走，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭"
+            },
+            {
+                "name": "撑伞随从",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "行走，为墨镜男撑伞",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地场景，墓碑排列，有石狮子和树木",
+        "description_narrative": "平拍全景跟拍镜头，墨镜男在撑伞随从的陪同下继续前行，背景是墓碑和树木。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.53,
+        "description_visual": "全景平拍镜头（跟拍）；墓地场景，墓碑排列，有石狮子和树木；画面右侧人物，身穿黑色西装，戴墨镜，行走，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭；画面左侧人物，身穿黑色西装，行走，为墨镜男撑伞，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面中央",
+                "action": "行走，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭"
+            },
+            {
+                "name": "撑伞随从",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央后景",
+                "action": "行走，为墨镜男撑伞",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "路人男",
+                "gender": "男",
+                "clothing": "深色外套",
+                "position": "画面左侧",
+                "action": "站立，看着墨镜男",
+                "expression": "眉毛微蹙，眼睛注视墨镜男，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地道路，红砖地面，背景有树木和人群",
+        "description_narrative": "平拍远景固定镜头，墨镜男在撑伞随从的陪同下走在红砖道路上，两侧有路人站立观看。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.23,
+        "description_visual": "远景平拍镜头；墓地道路，红砖地面，背景有树木和人群；画面中央人物，身穿黑色西装，戴墨镜，行走，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭；画面中央后景人物，身穿黑色西装，行走，为墨镜男撑伞，表情：眉毛平展，眼睛注视前方，嘴巴紧闭；画面左侧人物，身穿深色外套，站立，看着墨镜男，表情：眉毛微蹙，眼睛注视墨镜男，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "转头看向右侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面右侧背景",
+                "action": "站立，看着叶轩诚",
+                "expression": "眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍近景固定镜头，叶轩诚转头看向右侧，慕雨站在后景看着叶轩诚，神情担忧。",
+        "dialogue": "谁让你来的？",
+        "speaker": "叶轩诚",
+        "emotion": "质问",
+        "duration": 1.83,
+        "description_visual": "近景平拍镜头；墓地背景，树木模糊，光线柔和；画面左侧人物，身穿黑色西装，转头看向右侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张；画面右侧背景人物，身穿黑色短裙，站立，看着叶轩诚，表情：眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "站立，双手交握",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "站立，看着墨镜男",
+                "expression": "眉毛紧蹙，眼睛注视墨镜男，嘴巴微张"
+            },
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面右侧",
+                "action": "站立，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地场景，红砖地面，背景有树木和河流",
+        "description_narrative": "高角度全景固定镜头，慕雨站在左侧，叶轩诚站在中央看着墨镜男，墨镜男站在右侧，三人对峙。",
+        "dialogue": "不请自来。",
+        "speaker": "墨镜男",
+        "emotion": "冷漠",
+        "duration": 2.87,
+        "description_visual": "全景高角度镜头；墓地场景，红砖地面，背景有树木和河流；画面左侧人物，身穿黑色短裙，站立，双手交握，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面中央人物，身穿黑色西装，站立，看着墨镜男，表情：眉毛紧蹙，眼睛注视墨镜男，嘴巴微张；画面右侧人物，身穿黑色西装，戴墨镜，站立，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "低头，神情悲痛",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面右侧背景",
+                "action": "站立，看着叶轩诚",
+                "expression": "眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍近景固定镜头，叶轩诚低头神情悲痛，慕雨站在后景看着叶轩诚，神情担忧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "近景平拍镜头；墓地背景，树木模糊，光线柔和；画面左侧人物，身穿黑色西装，低头，神情悲痛，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭；画面右侧背景人物，身穿黑色短裙，站立，看着叶轩诚，表情：眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "站立，双手交握",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面右侧",
+                "action": "站立，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地场景，红砖地面，背景有树木和河流",
+        "description_narrative": "高角度全景固定镜头，慕雨站在左侧，叶轩诚站在中央低头，墨镜男站在右侧，气氛紧张。",
+        "dialogue": "送送叶叔叔和顾阿姨。",
+        "speaker": "墨镜男",
+        "emotion": "冷淡",
+        "duration": 1.87,
+        "description_visual": "全景高角度镜头；墓地场景，红砖地面，背景有树木和河流；画面左侧人物，身穿黑色短裙，站立，双手交握，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面中央人物，身穿黑色西装，站立，低头，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭；画面右侧人物，身穿黑色西装，戴墨镜，站立，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面中央",
+                "action": "侧身站立，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭"
+            },
+            {
+                "name": "撑伞随从",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧背景",
+                "action": "站立，为墨镜男撑伞",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍近景固定镜头，墨镜男侧身站立，撑伞随从站在后景，神情冷漠。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "近景平拍镜头；墓地背景，树木模糊，光线柔和；画面中央人物，身穿黑色西装，戴墨镜，侧身站立，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭；画面左侧背景人物，身穿黑色西装，站立，为墨镜男撑伞，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "花束特写，白色和橙色花朵，黑色包装纸",
+        "description_narrative": "平拍特写固定镜头，聚焦于白色和橙色的花束，黑色包装纸包裹，背景模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "特写平拍镜头；花束特写，白色和橙色花朵，黑色包装纸。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "手部特写，手指微曲",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "墓碑前，彩色花朵模糊背景",
+        "description_narrative": "平拍特写固定镜头，墨镜男的手部特写，手指微曲，背景是模糊的彩色花朵。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.3,
+        "description_visual": "特写平拍镜头；墓碑前，彩色花朵模糊背景；画面左侧人物，身穿黑色西装，手部特写，手指微曲，表情：无面部表情。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "侧身站立，神情愤怒",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍近景固定镜头，叶轩诚侧身站立，神情愤怒，背景是模糊的树木。",
+        "dialogue": "别再假惺惺了。",
+        "speaker": "叶轩诚",
+        "emotion": "愤怒",
+        "duration": 1.87,
+        "description_visual": "近景平拍镜头；墓地背景，树木模糊，光线柔和；画面中央人物，身穿黑色西装，侧身站立，神情愤怒，表情：眉毛紧蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "站立，双手交握",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眉毛紧蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面右侧",
+                "action": "站立，伸手",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴微张"
+            }
+        ],
+        "background": "墓地场景，红砖地面，背景有树木和河流",
+        "description_narrative": "高角度全景固定镜头，慕雨站在左侧，叶轩诚站在中央低头，墨镜男站在右侧伸手，气氛紧张。",
+        "dialogue": "我爸妈不需要你送。",
+        "speaker": "叶轩诚",
+        "emotion": "愤怒",
+        "duration": 2.43,
+        "description_visual": "全景高角度镜头；墓地场景，红砖地面，背景有树木和河流；画面左侧人物，身穿黑色短裙，站立，双手交握，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面中央人物，身穿黑色西装，站立，低头，表情：眉毛紧蹙，眼睛下视，嘴巴紧闭；画面右侧人物，身穿黑色西装，戴墨镜，站立，伸手，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "侧身站立，神情愤怒",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍近景固定镜头，叶轩诚侧身站立，神情愤怒，背景是模糊的树木。",
+        "dialogue": "你给我滚。",
+        "speaker": "叶轩诚",
+        "emotion": "愤怒",
+        "duration": 2.43,
+        "description_visual": "近景平拍镜头；墓地背景，树木模糊，光线柔和；画面中央人物，身穿黑色西装，侧身站立，神情愤怒，表情：眉毛紧蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面中央",
+                "action": "侧身站立，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴微张"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍近景固定镜头，墨镜男侧身站立，神情冷漠，背景是模糊的树木。",
+        "dialogue": "叶轩诚，你父母的死跟我没有关系。",
+        "speaker": "墨镜男",
+        "emotion": "冷漠",
+        "duration": 4.33,
+        "description_visual": "近景平拍镜头；墓地背景，树木模糊，光线柔和；画面中央人物，身穿黑色西装，戴墨镜，侧身站立，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "侧身站立，神情愤怒",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍近景固定镜头，叶轩诚侧身站立，神情愤怒，背景是模糊的树木。",
+        "dialogue": "我爸妈的死当然和你没关系，我叶家的事和你更没关系，我叶家葬礼不欢迎你你给我滚。",
+        "speaker": "叶轩诚",
+        "emotion": "愤怒",
+        "duration": 8.67,
+        "description_visual": "近景平拍镜头；墓地背景，树木模糊，光线柔和；画面中央人物，身穿黑色西装，侧身站立，神情愤怒，表情：眉毛紧蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面左侧",
+                "action": "站立，双手交握",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "站立，看着墨镜男",
+                "expression": "眉毛紧蹙，眼睛注视墨镜男，嘴巴微张"
+            },
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面右侧",
+                "action": "站立，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴微张"
+            }
+        ],
+        "background": "墓地场景，红砖地面，背景有树木和河流",
+        "description_narrative": "高角度全景固定镜头，慕雨站在左侧，叶轩诚站在中央看着墨镜男，墨镜男站在右侧，三人对峙。",
+        "dialogue": "好，我心意已经送到了，领不领情是你的事，慕雨。",
+        "speaker": "墨镜男",
+        "emotion": "冷漠",
+        "duration": 5.87,
+        "description_visual": "全景高角度镜头；墓地场景，红砖地面，背景有树木和河流；画面左侧人物，身穿黑色短裙，站立，双手交握，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面中央人物，身穿黑色西装，站立，看着墨镜男，表情：眉毛紧蹙，眼睛注视墨镜男，嘴巴微张；画面右侧人物，身穿黑色西装，戴墨镜，站立，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面中央",
+                "action": "面部特写，神情哀伤",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍特写固定镜头，慕雨面部特写，神情哀伤，背景是模糊的树木。",
+        "dialogue": "跟我回去。",
+        "speaker": "墨镜男",
+        "emotion": "命令",
+        "duration": 1.67,
+        "description_visual": "特写平拍镜头；墓地背景，树木模糊，光线柔和；画面中央人物，身穿黑色短裙，面部特写，神情哀伤，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶轩诚",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "看着墨镜男",
+                "expression": "眉毛紧蹙，眼睛注视墨镜男，嘴巴微张"
+            },
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧前景",
+                "action": "背影",
+                "expression": "无面部表情"
+            },
+            {
+                "name": "慕雨",
+                "gender": "女",
+                "clothing": "黑色短裙",
+                "position": "画面中央背景",
+                "action": "站立，看着叶轩诚",
+                "expression": "眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "过肩近景固定镜头，叶轩诚看着墨镜男，慕雨站在后景看着叶轩诚，气氛紧张。",
+        "dialogue": "不许你动慕雨。",
+        "speaker": "叶轩诚",
+        "emotion": "愤怒",
+        "duration": 1.43,
+        "description_visual": "近景过肩镜头；墓地背景，树木模糊，光线柔和；画面左侧人物，身穿黑色西装，看着墨镜男，表情：眉毛紧蹙，眼睛注视墨镜男，嘴巴微张；画面右侧前景人物，身穿黑色西装，背影，表情：无面部表情；画面中央背景人物，身穿黑色短裙，站立，看着叶轩诚，表情：眉毛微蹙，眼睛注视叶轩诚，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面中央",
+                "action": "侧身站立，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴微张"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍近景固定镜头，墨镜男侧身站立，神情冷漠，背景是模糊的树木。",
+        "dialogue": "叶轩诚你给我起开，你是想下去陪你父母吗？",
+        "speaker": "墨镜男",
+        "emotion": "威胁",
+        "duration": 5.93,
+        "description_visual": "近景平拍镜头；墓地背景，树木模糊，光线柔和；画面中央人物，身穿黑色西装，戴墨镜，侧身站立，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "墨镜男",
+                "gender": "男",
+                "clothing": "黑色西装，戴墨镜",
+                "position": "画面中央",
+                "action": "面部特写，神情冷漠",
+                "expression": "眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭"
+            }
+        ],
+        "background": "墓地背景，树木模糊，光线柔和",
+        "description_narrative": "平拍特写固定镜头，墨镜男面部特写，神情冷漠，背景是模糊的树木。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.13,
+        "description_visual": "特写平拍镜头；墓地背景，树木模糊，光线柔和；画面中央人物，身穿黑色西装，戴墨镜，面部特写，神情冷漠，表情：眉毛平展，眼睛被墨镜遮挡，嘴巴紧闭。"
+    }
+]

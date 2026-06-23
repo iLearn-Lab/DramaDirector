@@ -1,0 +1,682 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦老板",
+                "gender": "男",
+                "clothing": "蓝色格纹西装外套，深色花纹衬衫",
+                "position": "画面中央",
+                "action": "头部微仰，双眼闭合，神情傲慢",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "室内场景，背景模糊，冷色调灯光",
+        "description_narrative": "近景固定镜头，秦老板身穿蓝色格纹西装，头部微仰，双眼闭合，神情傲慢地喊出“站住”。背景为模糊的室内冷色调灯光。",
+        "dialogue": "站住",
+        "speaker": "秦老板",
+        "emotion": "傲慢",
+        "duration": 1.53,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，冷色调灯光；画面中央人物，身穿蓝色格纹西装外套，深色花纹衬衫，头部微仰，双眼闭合，神情傲慢，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面中央",
+                "action": "身体正对镜头，目光直视前方，语气强势",
+                "expression": "眉毛微挑，眼睛直视，嘴巴开合说话"
+            }
+        ],
+        "background": "室内场景，背景有绿色植物模糊轮廓",
+        "description_narrative": "中近景固定镜头，陈小姐身穿黑色亮片流苏挂脖礼服，身体正对镜头，目光直视前方，语气强势地宣称李小凡现在是她的人。背景有模糊的绿色植物。",
+        "dialogue": "秦老板，现在李小凡不是你的员工了，他现在是我的人，所以请你对他客气点。",
+        "speaker": "陈小姐",
+        "emotion": "强势",
+        "duration": 9.7,
+        "description_visual": "中近景平拍镜头；室内场景，背景有绿色植物模糊轮廓；画面中央人物，身穿黑色亮片流苏挂脖礼服，身体正对镜头，目光直视前方，语气强势，表情：眉毛微挑，眼睛直视，嘴巴开合说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦老板",
+                "gender": "男",
+                "clothing": "蓝色格纹西装外套，深色花纹衬衫",
+                "position": "画面中央",
+                "action": "面带微笑，眼神狡黠地看着对方",
+                "expression": "眉毛上扬，眼睛眯起，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "室内场景，背景模糊，冷色调灯光",
+        "description_narrative": "近景固定镜头，秦老板面带微笑，眼神狡黠地看着对方，提醒陈小姐关于赌王的事情。背景为模糊的室内冷色调灯光。",
+        "dialogue": "陈小姐，我想我也有必要提醒你一下，你包养李小凡可以，但是赌王那边，你可得想清楚了。",
+        "speaker": "秦老板",
+        "emotion": "狡黠",
+        "duration": 11.03,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，冷色调灯光；画面中央人物，身穿蓝色格纹西装外套，深色花纹衬衫，面带微笑，眼神狡黠地看着对方，表情：眉毛上扬，眼睛眯起，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色细条纹马甲",
+                "position": "画面中央",
+                "action": "双眼闭合，头部微低，神情平静",
+                "expression": "眉毛放松，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "室内场景，背景模糊，暗色调",
+        "description_narrative": "近景固定镜头，李小凡身穿白色衬衫搭配蓝色细条纹马甲，双眼闭合，头部微低，神情平静。画外传来秦老板的声音“你可得想清楚了”。背景为模糊的暗色调室内。",
+        "dialogue": "你可得想清楚了",
+        "speaker": "秦老板",
+        "emotion": "平静",
+        "duration": 2.47,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，暗色调；画面中央人物，身穿白色衬衫，蓝色细条纹马甲，双眼闭合，头部微低，神情平静，表情：眉毛放松，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面中央",
+                "action": "右手抬起轻触下巴，抬头向上看，故作疑惑",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "室内场景，背景有绿色植物模糊轮廓",
+        "description_narrative": "近景仰拍固定镜头，陈小姐右手抬起轻触下巴，抬头向上看，故作疑惑地问“赌王，什么赌王？”。背景有模糊的绿色植物。",
+        "dialogue": "赌王，什么赌王？",
+        "speaker": "陈小姐",
+        "emotion": "疑惑",
+        "duration": 3.67,
+        "description_visual": "近景仰拍镜头；室内场景，背景有绿色植物模糊轮廓；画面中央人物，身穿黑色亮片流苏挂脖礼服，右手抬起轻触下巴，抬头向上看，故作疑惑，表情：眉毛微蹙，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦老板",
+                "gender": "男",
+                "clothing": "蓝色格纹西装外套，深色花纹衬衫",
+                "position": "画面中央",
+                "action": "面带笑容，看着对方",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "室内场景，背景模糊，冷色调灯光",
+        "description_narrative": "近景固定镜头，秦老板面带笑容，看着对方。画外传来陈小姐的声音“这个你不用担心”。背景为模糊的室内冷色调灯光。",
+        "dialogue": "这个你不用担心。",
+        "speaker": "陈小姐",
+        "emotion": "自信",
+        "duration": 1.07,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，冷色调灯光；画面中央人物，身穿蓝色格纹西装外套，深色花纹衬衫，面带笑容，看着对方，表情：眉毛舒展，眼睛注视，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面中央",
+                "action": "手伸入黑白图案的手包中",
+                "expression": "null"
+            }
+        ],
+        "background": "手包特写，黑白几何图案",
+        "description_narrative": "特写俯拍固定镜头，陈小姐的手伸入黑白几何图案的手包中，准备取物。无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "特写俯拍镜头；手包特写，黑白几何图案；画面中央人物，身穿黑色亮片流苏挂脖礼服，手伸入黑白图案的手包中，表情：null。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面右侧",
+                "action": "手臂抬起，手腕佩戴银色手链",
+                "expression": "null"
+            }
+        ],
+        "background": "模糊背景，暗色调",
+        "description_narrative": "特写平拍固定镜头，陈小姐的手臂抬起，手腕佩戴银色手链，动作流畅。无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.63,
+        "description_visual": "特写平拍镜头；模糊背景，暗色调；画面右侧人物，身穿黑色亮片流苏挂脖礼服，手臂抬起，手腕佩戴银色手链，表情：null。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面中央",
+                "action": "右手举起一张银行卡，展示给对面",
+                "expression": "眉毛微挑，眼睛注视，嘴巴开合说话"
+            }
+        ],
+        "background": "室内场景，背景模糊",
+        "description_narrative": "中近景固定镜头，陈小姐右手举起一张银行卡，展示给对面，自信地说卡里有500万。背景为模糊的室内。",
+        "dialogue": "这卡里有 500 万",
+        "speaker": "陈小姐",
+        "emotion": "自信",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；室内场景，背景模糊；画面中央人物，身穿黑色亮片流苏挂脖礼服，右手举起一张银行卡，展示给对面，表情：眉毛微挑，眼睛注视，嘴巴开合说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦老板",
+                "gender": "男",
+                "clothing": "蓝色格纹西装外套，深色花纹衬衫",
+                "position": "画面中央",
+                "action": "开怀大笑，身体微颤",
+                "expression": "眉毛上扬，眼睛眯成缝，嘴巴大张露齿笑"
+            }
+        ],
+        "background": "室内场景，背景模糊，冷色调灯光",
+        "description_narrative": "近景固定镜头，秦老板开怀大笑，身体微颤。画外传来陈小姐的声音“就当做给李小凡的培养费了”。背景为模糊的室内冷色调灯光。",
+        "dialogue": "就当做给李小凡的培养费了",
+        "speaker": "陈小姐",
+        "emotion": "开心",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，冷色调灯光；画面中央人物，身穿蓝色格纹西装外套，深色花纹衬衫，开怀大笑，身体微颤，表情：眉毛上扬，眼睛眯成缝，嘴巴大张露齿笑。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面左侧",
+                "action": "手持银行卡递向前方",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            },
+            {
+                "name": "秦老板",
+                "gender": "男",
+                "clothing": "蓝色格纹西装外套",
+                "position": "画面右侧前景",
+                "action": "手部伸出准备接卡",
+                "expression": "null"
+            }
+        ],
+        "background": "室内场景，背景模糊",
+        "description_narrative": "中近景过肩固定镜头，陈小姐手持银行卡递向前方，画外传来秦老板的声音“哎呀陈小姐”。秦老板的手在前景伸出准备接卡。",
+        "dialogue": "哎呀陈小姐",
+        "speaker": "秦老板",
+        "emotion": "客气",
+        "duration": 4.2,
+        "description_visual": "中近景过肩镜头；室内场景，背景模糊；画面左侧人物，身穿黑色亮片流苏挂脖礼服，手持银行卡递向前方，表情：眉毛舒展，眼睛注视，嘴巴微张说话；画面右侧前景人物，身穿蓝色格纹西装外套，手部伸出准备接卡，表情：null。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦老板",
+                "gender": "男",
+                "clothing": "蓝色格纹西装外套，深色花纹衬衫",
+                "position": "画面中央",
+                "action": "面带微笑，眼神示意",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "室内场景，背景模糊，冷色调灯光",
+        "description_narrative": "近景固定镜头，秦老板面带微笑，眼神示意。画外传来陈小姐的声音“哎，秦老板，我相信你是个聪明人”。背景为模糊的室内冷色调灯光。",
+        "dialogue": "哎，秦老板，我相信你是个聪明人",
+        "speaker": "陈小姐",
+        "emotion": "自信",
+        "duration": 3.13,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，冷色调灯光；画面中央人物，身穿蓝色格纹西装外套，深色花纹衬衫，面带微笑，眼神示意，表情：眉毛舒展，眼睛注视，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面中央",
+                "action": "头部微侧，眼神警告",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴嘟起"
+            }
+        ],
+        "background": "室内场景，背景模糊",
+        "description_narrative": "特写平拍固定镜头，陈小姐头部微侧，眼神警告地说“什么话该说什么话不该说”。背景为模糊的室内。",
+        "dialogue": "什么话该说什么话不该说",
+        "speaker": "陈小姐",
+        "emotion": "警告",
+        "duration": 2.63,
+        "description_visual": "特写平拍镜头；室内场景，背景模糊；画面中央人物，身穿黑色亮片流苏挂脖礼服，头部微侧，眼神警告，表情：眉毛微蹙，眼睛直视，嘴巴嘟起。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦老板",
+                "gender": "男",
+                "clothing": "蓝色格纹西装外套，深色花纹衬衫",
+                "position": "画面中央",
+                "action": "面带笑容，点头附和",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴大张露齿笑"
+            }
+        ],
+        "background": "室内场景，背景模糊，冷色调灯光",
+        "description_narrative": "近景固定镜头，秦老板面带笑容，点头附和。画外传来陈小姐的声音“我相信你啊，是清楚的”。背景为模糊的室内冷色调灯光。",
+        "dialogue": "我相信你啊，是清楚的",
+        "speaker": "陈小姐",
+        "emotion": "满意",
+        "duration": 5.03,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，冷色调灯光；画面中央人物，身穿蓝色格纹西装外套，深色花纹衬衫，面带笑容，点头附和，表情：眉毛上扬，眼睛眯起，嘴巴大张露齿笑。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面中央",
+                "action": "闭眼微笑，神情轻松",
+                "expression": "眉毛舒展，眼睛闭合，嘴角上扬"
+            }
+        ],
+        "background": "室内场景，背景模糊",
+        "description_narrative": "特写平拍固定镜头，陈小姐闭眼微笑，神情轻松。画外传来秦老板的声音“那当然了，你放心，陈小姐今天就没来过我店里边”。背景为模糊的室内。",
+        "dialogue": "那当然了，你放心，陈小姐今天就没来过我店里边",
+        "speaker": "秦老板",
+        "emotion": "轻松",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；室内场景，背景模糊；画面中央人物，身穿黑色亮片流苏挂脖礼服，闭眼微笑，神情轻松，表情：眉毛舒展，眼睛闭合，嘴角上扬。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦老板",
+                "gender": "男",
+                "clothing": "蓝色格纹西装外套，深色花纹衬衫",
+                "position": "画面中央",
+                "action": "嘴角含笑，眼神闪烁",
+                "expression": "眉毛舒展，眼睛注视，嘴角微扬"
+            }
+        ],
+        "background": "室内场景，背景模糊，冷色调灯光",
+        "description_narrative": "近景固定镜头，秦老板嘴角含笑，眼神闪烁地说“而且我店里边”。背景为模糊的室内冷色调灯光。",
+        "dialogue": "而且我店里边",
+        "speaker": "秦老板",
+        "emotion": "狡黠",
+        "duration": 3.07,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，冷色调灯光；画面中央人物，身穿蓝色格纹西装外套，深色花纹衬衫，嘴角含笑，眼神闪烁，表情：眉毛舒展，眼睛注视，嘴角微扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面中央",
+                "action": "手搭在肩带上，微笑倾听",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内场景，背景有绿色植物模糊轮廓",
+        "description_narrative": "中近景固定镜头，陈小姐手搭在肩带上，微笑倾听。画外传来秦老板的声音“从来就没有李小凡这么一个员工”。背景有模糊的绿色植物。",
+        "dialogue": "从来就没有李小凡这么一个员工",
+        "speaker": "秦老板",
+        "emotion": "满意",
+        "duration": 0.5,
+        "description_visual": "中近景平拍镜头；室内场景，背景有绿色植物模糊轮廓；画面中央人物，身穿黑色亮片流苏挂脖礼服，手搭在肩带上，微笑倾听，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面中央",
+                "action": "手指指向前方，转身准备离开",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内场景，背景模糊",
+        "description_narrative": "中近景固定镜头，陈小姐手指指向前方，转身准备离开，说“好，小凡，我们走”。背景为模糊的室内。",
+        "dialogue": "好，小凡，我们走",
+        "speaker": "陈小姐",
+        "emotion": "果断",
+        "duration": 4.1,
+        "description_visual": "中近景平拍镜头；室内场景，背景模糊；画面中央人物，身穿黑色亮片流苏挂脖礼服，手指指向前方，转身准备离开，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色细条纹马甲",
+                "position": "画面中央",
+                "action": "嘴角微抿，眼神淡定",
+                "expression": "眉毛放松，眼睛平视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内场景，背景模糊，暗色调",
+        "description_narrative": "近景固定镜头，李小凡嘴角微抿，眼神淡定。画外传来秦老板的声音“李小凡”。背景为模糊的暗色调室内。",
+        "dialogue": "李小凡",
+        "speaker": "秦老板",
+        "emotion": "淡定",
+        "duration": 0.9,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，暗色调；画面中央人物，身穿白色衬衫，蓝色细条纹马甲，嘴角微抿，眼神淡定，表情：眉毛放松，眼睛平视，嘴巴紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色细条纹马甲",
+                "position": "画面下方",
+                "action": "低头，头发清晰可见",
+                "expression": "null"
+            }
+        ],
+        "background": "模糊背景，暗色调",
+        "description_narrative": "特写俯拍固定镜头，李小凡低头，头发清晰可见。无台词。背景为模糊的暗色调。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "特写俯拍镜头；模糊背景，暗色调；画面下方人物，身穿白色衬衫，蓝色细条纹马甲，低头，头发清晰可见，表情：null。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色细条纹马甲",
+                "position": "画面中央",
+                "action": "拿起蓝色外套搭在肩上",
+                "expression": "眉毛放松，眼睛平视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内场景，背景模糊，暗色调",
+        "description_narrative": "近景固定镜头，李小凡拿起蓝色外套搭在肩上，动作利落。无台词。背景为模糊的暗色调室内。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.87,
+        "description_visual": "近景平拍镜头；室内场景，背景模糊，暗色调；画面中央人物，身穿白色衬衫，蓝色细条纹马甲，拿起蓝色外套搭在肩上，表情：眉毛放松，眼睛平视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色细条纹马甲",
+                "position": "画面中央",
+                "action": "侧脸看向右方，神情冷峻",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内场景，背景模糊，暗色调",
+        "description_narrative": "近景侧拍固定镜头，李小凡侧脸看向右方，神情冷峻。无台词。背景为模糊的暗色调室内。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷峻",
+        "duration": 0.57,
+        "description_visual": "近景侧拍镜头；室内场景，背景模糊，暗色调；画面中央人物，身穿白色衬衫，蓝色细条纹马甲，侧脸看向右方，神情冷峻，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "室外街道，夜晚，光线昏暗",
+        "description_narrative": "远景固定镜头，室外街道，夜晚，光线昏暗，车辆停放。无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.23,
+        "description_visual": "远景平拍镜头；室外街道，夜晚，光线昏暗。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑屏/过渡",
+        "description_narrative": "全景固定镜头，黑屏/过渡画面。画外传来陈小姐的声音“哎，小凡，刚才我可是花了 500 万帮你赎了身，你现在彻底是我的人了”。",
+        "dialogue": "哎，小凡，刚才我可是花了 500 万帮你赎了身，你现在彻底是我的人了",
+        "speaker": "陈小姐",
+        "emotion": "得意",
+        "duration": 7.33,
+        "description_visual": "全景平拍镜头；黑屏/过渡。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色细条纹马甲",
+                "position": "画面左侧",
+                "action": "坐在车内，系着安全带，侧脸看向前方",
+                "expression": "眉毛放松，眼睛平视，嘴巴微张说话"
+            }
+        ],
+        "background": "车内，米色内饰，窗外光线明亮",
+        "description_narrative": "中近景侧拍固定镜头，李小凡坐在车内，系着安全带，侧脸看向前方，冷静地说“那 500 万是陈小姐自己的封口费，跟我可没什么关系”。背景为车内米色内饰。",
+        "dialogue": "那 500 万是陈小姐自己的封口费，跟我可没什么关系",
+        "speaker": "李小凡",
+        "emotion": "冷静",
+        "duration": 4.97,
+        "description_visual": "中近景侧拍镜头；车内，米色内饰，窗外光线明亮；画面左侧人物，身穿白色衬衫，蓝色细条纹马甲，坐在车内，系着安全带，侧脸看向前方，表情：眉毛放松，眼睛平视，嘴巴微张说话。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面右侧",
+                "action": "坐在驾驶位，手握方向盘，侧脸看向前方",
+                "expression": "眉毛微挑，眼睛注视，嘴巴开合说话"
+            }
+        ],
+        "background": "车内，米色内饰，窗外光线明亮",
+        "description_narrative": "中近景侧拍固定镜头，陈小姐坐在驾驶位，手握方向盘，侧脸看向前方，调侃道“哎呦，你可真拎得清啊。不管怎样，我都帮了你，你可得报答我啊”。背景为车内米色内饰。",
+        "dialogue": "哎呦，你可真拎得清啊。不管怎样，我都帮了你，你可得报答我啊",
+        "speaker": "陈小姐",
+        "emotion": "调侃",
+        "duration": 8.33,
+        "description_visual": "中近景侧拍镜头；车内，米色内饰，窗外光线明亮；画面右侧人物，身穿黑色亮片流苏挂脖礼服，坐在驾驶位，手握方向盘，侧脸看向前方，表情：眉毛微挑，眼睛注视，嘴巴开合说话。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "李小凡",
+                "gender": "男",
+                "clothing": "白色衬衫，蓝色细条纹马甲",
+                "position": "画面左侧",
+                "action": "坐在车内，嘴角微扬，看向陈小姐",
+                "expression": "眉毛舒展，眼睛注视，嘴角上扬"
+            }
+        ],
+        "background": "车内，米色内饰，窗外光线明亮",
+        "description_narrative": "中近景侧拍固定镜头，李小凡坐在车内，嘴角微扬，看向陈小姐，问“陈小姐希望怎么报答你呢？”。背景为车内米色内饰。",
+        "dialogue": "陈小姐希望怎么报答你呢？",
+        "speaker": "李小凡",
+        "emotion": "玩味",
+        "duration": 2.83,
+        "description_visual": "中近景侧拍镜头；车内，米色内饰，窗外光线明亮；画面左侧人物，身穿白色衬衫，蓝色细条纹马甲，坐在车内，嘴角微扬，看向陈小姐，表情：眉毛舒展，眼睛注视，嘴角上扬。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面右侧",
+                "action": "坐在驾驶位，手握方向盘，侧脸看向前方",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "车内，米色内饰，窗外光线明亮",
+        "description_narrative": "中近景侧拍固定镜头，陈小姐坐在驾驶位，手握方向盘，侧脸看向前方，说“跟我去个地方”。背景为车内米色内饰。",
+        "dialogue": "跟我去个地方",
+        "speaker": "陈小姐",
+        "emotion": "神秘",
+        "duration": 2.03,
+        "description_visual": "中近景侧拍镜头；车内，米色内饰，窗外光线明亮；画面右侧人物，身穿黑色亮片流苏挂脖礼服，坐在驾驶位，手握方向盘，侧脸看向前方，表情：眉毛舒展，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面右侧",
+                "action": "手指按下汽车的启动按钮（POWER）",
+                "expression": "null"
+            }
+        ],
+        "background": "汽车中控台，米色皮革，启动按钮",
+        "description_narrative": "特写俯拍固定镜头，陈小姐的手指按下汽车的启动按钮（POWER）。无台词。背景为汽车中控台。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "特写俯拍镜头；汽车中控台，米色皮革，启动按钮；画面右侧人物，身穿黑色亮片流苏挂脖礼服，手指按下汽车的启动按钮（POWER），表情：null。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈小姐",
+                "gender": "女",
+                "clothing": "黑色亮片流苏挂脖礼服",
+                "position": "画面右侧",
+                "action": "坐在驾驶位，手握方向盘，目视前方",
+                "expression": "眉毛舒展，眼睛注视，嘴角微扬"
+            }
+        ],
+        "background": "车内，米色内饰，窗外光线明亮",
+        "description_narrative": "中近景侧拍固定镜头，陈小姐坐在驾驶位，手握方向盘，目视前方，神情自信。无台词。背景为车内米色内饰。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "自信",
+        "duration": 2.37,
+        "description_visual": "中近景侧拍镜头；车内，米色内饰，窗外光线明亮；画面右侧人物，身穿黑色亮片流苏挂脖礼服，坐在驾驶位，手握方向盘，目视前方，表情：眉毛舒展，眼睛注视，嘴角微扬。"
+    }
+]

@@ -1,0 +1,668 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "雨中古代建筑，将军府大门，灰瓦木结构，色调阴沉",
+        "description_narrative": "远景固定镜头，雨中的将军府大门，灰瓦屋顶雨水滴落，门前挂着灯笼，氛围肃杀阴沉。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.2,
+        "description_visual": "远景平拍镜头；雨中古代建筑，将军府大门，灰瓦木结构，色调阴沉。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "跟拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍，头戴发冠",
+                "position": "画面左侧",
+                "action": "手持油纸伞，背对镜头向右侧行走",
+                "expression": "不可见"
+            }
+        ],
+        "background": "雨中石板路，路边绿植，背景模糊",
+        "description_narrative": "全景跟拍镜头，太子身穿米色绿纹长袍，手持油纸伞，在雨中沿着石板路行走，背景是茂密的绿植。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.92,
+        "description_visual": "全景跟拍镜头（跟拍）；雨中石板路，路边绿植，背景模糊；画面左侧人物，身穿米色绿纹长袍，头戴发冠，手持油纸伞，背对镜头向右侧行走，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "将军府牌匾，黑底金字，雨水顺着屋檐滴落",
+        "description_narrative": "特写仰拍镜头，聚焦于将军府的牌匾，黑底金字“将军府”在雨中清晰可见，雨水从屋檐瓦片滴落。",
+        "dialogue": "你看这字 好",
+        "speaker": "赵健 (画外音)",
+        "emotion": null,
+        "duration": 3.32,
+        "description_visual": "特写仰拍镜头；将军府牌匾，黑底金字，雨水顺着屋檐滴落。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色花纹官服，头戴黑色官帽",
+                "position": "画面中央",
+                "action": "手持油纸伞，抬头看牌匾",
+                "expression": "眉毛微挑，眼睛注视上方，嘴巴微张"
+            }
+        ],
+        "background": "雨中绿植背景，虚化",
+        "description_narrative": "近景固定镜头，赵健身穿深灰色官服，手持油纸伞，抬头看向牌匾，脸上带着赞赏的表情。",
+        "dialogue": "好",
+        "speaker": "赵健",
+        "emotion": "赞赏",
+        "duration": 11.0,
+        "description_visual": "近景平拍镜头；雨中绿植背景，虚化；画面中央人物，身穿深灰色花纹官服，头戴黑色官帽，手持油纸伞，抬头看牌匾，表情：眉毛微挑，眼睛注视上方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍，头戴发冠",
+                "position": "画面中央",
+                "action": "手持油纸伞，抬头仰望",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "雨中绿植背景，虚化",
+        "description_narrative": "近景仰拍镜头，太子手持油纸伞，抬头仰望牌匾，神情专注，听着赵健的介绍。",
+        "dialogue": "真好 殿下 这可是高皇帝御笔亲提的金匾 专门送给开国军神苏去病的",
+        "speaker": "赵健 (画外音)",
+        "emotion": null,
+        "duration": 6.72,
+        "description_visual": "近景仰拍镜头；雨中绿植背景，虚化；画面中央人物，身穿米色绿纹长袍，头戴发冠，手持油纸伞，抬头仰望，表情：眉毛舒展，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色花纹官服，头戴黑色官帽",
+                "position": "画面前景",
+                "action": "手持伞柄，侧身站立",
+                "expression": "眉毛平展，眼睛看向前方，表情平静"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍",
+                "position": "画面背景",
+                "action": "模糊，站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "雨中街道，绿植",
+        "description_narrative": "中近景固定镜头，赵健站在前景，太子在背景模糊处，赵健侧身似乎在继续解说。",
+        "dialogue": "看来这苏家 是世代忠良啊",
+        "speaker": "太子",
+        "emotion": "感慨",
+        "duration": 1.84,
+        "description_visual": "中近景平拍镜头；雨中街道，绿植；画面前景人物，身穿深灰色花纹官服，头戴黑色官帽，手持伞柄，侧身站立，表情：眉毛平展，眼睛看向前方，表情平静；画面背景人物，身穿米色绿纹长袍，模糊，站立，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍",
+                "position": "画面右侧",
+                "action": "走向大门，抬手准备敲门",
+                "expression": "不可见"
+            },
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色花纹官服",
+                "position": "画面左侧",
+                "action": "跟随，手持伞",
+                "expression": "不可见"
+            }
+        ],
+        "background": "将军府门口，石灯笼，雨天",
+        "description_narrative": "全景固定镜头，太子和赵健走到将军府门口，太子收起伞或调整姿势，准备敲门，赵健跟在身后。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.92,
+        "description_visual": "全景平拍镜头；将军府门口，石灯笼，雨天；画面右侧人物，身穿米色绿纹长袍，走向大门，抬手准备敲门，表情：不可见；画面左侧人物，身穿深灰色花纹官服，跟随，手持伞，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍",
+                "position": "画面左侧",
+                "action": "侧身站立，看向大门",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "大门局部，灰色墙面",
+        "description_narrative": "近景侧拍镜头，太子侧身站在门口，神情严肃，似乎在等待或思考。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.8,
+        "description_visual": "近景侧拍镜头；大门局部，灰色墙面；画面左侧人物，身穿米色绿纹长袍，侧身站立，看向大门，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍袖口",
+                "position": "画面左侧",
+                "action": "抬手，手握拳准备敲门",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深色木门纹理",
+        "description_narrative": "特写固定镜头，太子的手握拳，即将敲在深色的木门上，袖口花纹清晰可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；深色木门纹理；画面左侧人物，身穿米色绿纹长袍袖口，抬手，手握拳准备敲门，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍袖口",
+                "position": "画面左侧",
+                "action": "手握绿色玉扳指，敲击木门",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深色木门",
+        "description_narrative": "特写固定镜头，太子手握绿色玉扳指，用力敲击木门，动作果断。",
+        "dialogue": "谁呀",
+        "speaker": "守门人 (画外音)",
+        "emotion": null,
+        "duration": 2.72,
+        "description_visual": "特写平拍镜头；深色木门；画面左侧人物，身穿米色绿纹长袍袖口，手握绿色玉扳指，敲击木门，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍",
+                "position": "画面左侧",
+                "action": "背对镜头，靠近门",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深色木门，门缝",
+        "description_narrative": "近景固定镜头，太子背对镜头靠近门缝，门内传来询问声。",
+        "dialogue": "谁呀",
+        "speaker": "守门人 (画外音)",
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；深色木门，门缝；画面左侧人物，身穿米色绿纹长袍，背对镜头，靠近门，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍",
+                "position": "画面中央",
+                "action": "面对门内人，微微欠身解释",
+                "expression": "眉毛微蹙，眼睛诚恳，嘴巴微张说话"
+            },
+            {
+                "name": "守门人",
+                "gender": "男",
+                "clothing": "灰蓝色布衣",
+                "position": "画面右侧前景",
+                "action": "背影，阻挡",
+                "expression": "不可见"
+            }
+        ],
+        "background": "府门口，绿植背景",
+        "description_narrative": "中近景固定镜头，太子面对守门人，表情诚恳地解释，守门人背影在前景，态度冷淡。",
+        "dialogue": "大早上来敲门 你赶着报丧啊 小哥 你误会了",
+        "speaker": "守门人/太子",
+        "emotion": "诚恳/傲慢",
+        "duration": 8.04,
+        "description_visual": "中近景平拍镜头；府门口，绿植背景；画面中央人物，身穿米色绿纹长袍，面对门内人，微微欠身解释，表情：眉毛微蹙，眼睛诚恳，嘴巴微张说话；画面右侧前景人物，身穿灰蓝色布衣，背影，阻挡，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "守门人",
+                "gender": "男",
+                "clothing": "灰蓝色布衣，绿色头巾",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸，倚靠门框",
+                "expression": "眉毛下垂，眼睛半闭，嘴角下撇"
+            }
+        ],
+        "background": "府门内侧，灰色墙面",
+        "description_narrative": "中景固定镜头，守门人双臂交叉抱胸，一脸不耐烦地倚靠在门框上，听着太子的请求。",
+        "dialogue": "麻烦你去通禀一声 就说我有要事要见苏大将军",
+        "speaker": "太子 (画外音)",
+        "emotion": "不耐烦",
+        "duration": 4.12,
+        "description_visual": "中景平拍镜头；府门内侧，灰色墙面；画面中央人物，身穿灰蓝色布衣，绿色头巾，双臂交叉抱胸，倚靠门框，表情：眉毛下垂，眼睛半闭，嘴角下撇。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍",
+                "position": "画面中央",
+                "action": "低头，手握玉扳指",
+                "expression": "眉毛微蹙，眼睛下视，表情严肃"
+            },
+            {
+                "name": "守门人",
+                "gender": "男",
+                "clothing": "灰蓝色布衣",
+                "position": "画面右侧前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "府门口，绿植",
+        "description_narrative": "中近景固定镜头，太子低头看着手中的玉扳指，神情严肃，守门人在前景质问。",
+        "dialogue": "你谁啊 见我家老爷所为何事",
+        "speaker": "守门人 (画外音)",
+        "emotion": "严肃",
+        "duration": 4.84,
+        "description_visual": "中近景平拍镜头；府门口，绿植；画面中央人物，身穿米色绿纹长袍，低头，手握玉扳指，表情：眉毛微蹙，眼睛下视，表情严肃；画面右侧前景人物，身穿灰蓝色布衣，背影，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "守门人",
+                "gender": "男",
+                "clothing": "灰蓝色布衣，绿色头巾",
+                "position": "画面中央",
+                "action": "双臂交叉，嘴角微扬",
+                "expression": "眉毛上扬，眼睛眯起，嘴角带笑"
+            }
+        ],
+        "background": "府门内侧",
+        "description_narrative": "中景固定镜头，守门人双臂交叉，脸上带着嘲讽的笑容，不相信太子的话。",
+        "dialogue": "事关机密 必须当面言说",
+        "speaker": "太子 (画外音)",
+        "emotion": "嘲讽",
+        "duration": 3.52,
+        "description_visual": "中景平拍镜头；府门内侧；画面中央人物，身穿灰蓝色布衣，绿色头巾，双臂交叉，嘴角微扬，表情：眉毛上扬，眼睛眯起，嘴角带笑。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色官服",
+                "position": "画面中间",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "守门人",
+                "gender": "男",
+                "clothing": "灰蓝色布衣",
+                "position": "画面右侧",
+                "action": "手持扫帚，挥舞",
+                "expression": "不可见"
+            }
+        ],
+        "background": "府门口，石灯笼，雨天",
+        "description_narrative": "全景固定镜头，守门人手持扫帚挥舞，嘲讽太子和赵健是来蹭吃蹭喝的骗子。",
+        "dialogue": "编 接着编 编个瞎话 就想见我们家老爷 蹭吃蹭喝呢 你们这种人 我见多了",
+        "speaker": "守门人",
+        "emotion": "嘲讽",
+        "duration": 13.48,
+        "description_visual": "全景平拍镜头；府门口，石灯笼，雨天；画面左侧人物，身穿米色绿纹长袍，站立，表情：不可见；画面中间人物，身穿深灰色官服，站立，表情：不可见；画面右侧人物，身穿灰蓝色布衣，手持扫帚，挥舞，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "守门人",
+                "gender": "男",
+                "clothing": "灰蓝色布衣",
+                "position": "画面右侧",
+                "action": "扫地，驱赶",
+                "expression": "不可见"
+            },
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色官服",
+                "position": "画面中间",
+                "action": "被驱赶，愤怒",
+                "expression": "不可见"
+            }
+        ],
+        "background": "府门口",
+        "description_narrative": "全景固定镜头，守门人扫地驱赶，赵健被激怒，双方发生冲突。",
+        "dialogue": "起开 别耽误我扫地 你好大的胆子",
+        "speaker": "守门人/赵健",
+        "emotion": "愤怒",
+        "duration": 1.88,
+        "description_visual": "全景平拍镜头；府门口；画面右侧人物，身穿灰蓝色布衣，扫地，驱赶，表情：不可见；画面中间人物，身穿深灰色官服，被驱赶，愤怒，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色花纹官服",
+                "position": "画面中央",
+                "action": "怒视前方",
+                "expression": "眉毛倒竖，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "府门内侧，模糊",
+        "description_narrative": "近景固定镜头，赵健怒视守门人，表情愤怒，斥责对方无礼。",
+        "dialogue": "竟敢顶撞 顶撞我家公子",
+        "speaker": "赵健",
+        "emotion": "愤怒",
+        "duration": 4.72,
+        "description_visual": "近景平拍镜头；府门内侧，模糊；画面中央人物，身穿深灰色花纹官服，怒视前方，表情：眉毛倒竖，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "守门人",
+                "gender": "男",
+                "clothing": "灰蓝色布衣，绿色头巾",
+                "position": "画面左侧",
+                "action": "侧身，冷笑",
+                "expression": "眉毛挑起，眼睛斜视，嘴角上扬"
+            }
+        ],
+        "background": "府门内侧",
+        "description_narrative": "中景固定镜头，守门人侧身冷笑，言语中充满不屑，将两人比作臭虫。",
+        "dialogue": "哟 扫地扫出两臭虫来",
+        "speaker": "守门人",
+        "emotion": "不屑",
+        "duration": 4.04,
+        "description_visual": "中景平拍镜头；府门内侧；画面左侧人物，身穿灰蓝色布衣，绿色头巾，侧身，冷笑，表情：眉毛挑起，眼睛斜视，嘴角上扬。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "门缝，光线",
+        "description_narrative": "特写固定镜头，门缝中透出光线，守门人继续辱骂，不让道路。",
+        "dialogue": "我管你什么公子 好狗不挡道",
+        "speaker": "守门人 (画外音)",
+        "emotion": null,
+        "duration": 4.92,
+        "description_visual": "特写平拍镜头；门缝，光线。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色花纹官服",
+                "position": "画面中央",
+                "action": "怒视，身体前倾",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "府门内侧",
+        "description_narrative": "近景固定镜头，赵健被激怒，身体前倾，威胁守门人。",
+        "dialogue": "你找死吗你",
+        "speaker": "赵健",
+        "emotion": "暴怒",
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；府门内侧；画面中央人物，身穿深灰色花纹官服，怒视，身体前倾，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色花纹官服",
+                "position": "画面左侧",
+                "action": "伸手接物",
+                "expression": "眉毛微蹙，看着太子"
+            },
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍",
+                "position": "画面右侧",
+                "action": "递出玉扳指",
+                "expression": "表情平静，眼神坚定"
+            }
+        ],
+        "background": "府门口，石灯笼",
+        "description_narrative": "中景固定镜头，太子制止冲突，将绿色玉扳指递给赵健，让他去见将军。",
+        "dialogue": "赵健 拿着这东西 去见苏大将军",
+        "speaker": "太子",
+        "emotion": "冷静",
+        "duration": 6.08,
+        "description_visual": "中景平拍镜头；府门口，石灯笼；画面左侧人物，身穿深灰色花纹官服，伸手接物，表情：眉毛微蹙，看着太子；画面右侧人物，身穿米色绿纹长袍，递出玉扳指，表情：表情平静，眼神坚定。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍袖口",
+                "position": "画面中央",
+                "action": "手持绿色玉扳指",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，太子手中拿着绿色玉扳指，特写展示信物，交代身份。",
+        "dialogue": "就说张家后人之子 有要事要见他",
+        "speaker": "太子 (画外音)",
+        "emotion": null,
+        "duration": 6.2,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿米色绿纹长袍袖口，手持绿色玉扳指，表情：不可见。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿纹长袍袖口",
+                "position": "画面右侧",
+                "action": "手持玉扳指",
+                "expression": "不可见"
+            },
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色官服袖口",
+                "position": "画面左侧",
+                "action": "伸手准备接",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头，太子将玉扳指递给赵健，赵健伸手准备接过。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；模糊背景；画面右侧人物，身穿米色绿纹长袍袖口，手持玉扳指，表情：不可见；画面左侧人物，身穿深灰色官服袖口，伸手准备接，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵健",
+                "gender": "男",
+                "clothing": "深灰色花纹官服",
+                "position": "画面中央",
+                "action": "双手接过玉扳指，放入袖中",
+                "expression": "眉毛低垂，神情恭敬"
+            }
+        ],
+        "background": "府门口",
+        "description_narrative": "中近景固定镜头，赵健双手恭敬地接过玉扳指，小心地放入袖中。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恭敬",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；府门口；画面中央人物，身穿深灰色花纹官服，双手接过玉扳指，放入袖中，表情：眉毛低垂，神情恭敬。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "守门人",
+                "gender": "男",
+                "clothing": "灰蓝色布衣，绿色头巾",
+                "position": "画面中央",
+                "action": "手持扫帚，抬头看",
+                "expression": "眉毛上扬，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "府门上方，屋檐",
+        "description_narrative": "中景仰拍镜头，守门人手持扫帚，抬头看着太子和赵健，表情依然 skeptical。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "怀疑",
+        "duration": 1.96,
+        "description_visual": "中景仰拍镜头；府门上方，屋檐；画面中央人物，身穿灰蓝色布衣，绿色头巾，手持扫帚，抬头看，表情：眉毛上扬，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "守门人",
+                "gender": "男",
+                "clothing": "灰蓝色布衣，绿色头巾",
+                "position": "画面中央",
+                "action": "双手握扫帚，威胁",
+                "expression": "眉毛倒竖，眼睛瞪视，嘴巴张开"
+            }
+        ],
+        "background": "府门口",
+        "description_narrative": "中景固定镜头，守门人双手握着扫帚，放狠话威胁两人，等老爷出来再收拾他们。",
+        "dialogue": "等我们家老爷出来 我让你们死无全尸",
+        "speaker": "守门人",
+        "emotion": "凶狠",
+        "duration": 4.6,
+        "description_visual": "中景平拍镜头；府门口；画面中央人物，身穿灰蓝色布衣，绿色头巾，双手握扫帚，威胁，表情：眉毛倒竖，眼睛瞪视，嘴巴张开。"
+    }
+]

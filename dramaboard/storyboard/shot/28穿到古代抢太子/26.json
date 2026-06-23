@@ -1,0 +1,936 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "古色古香的木质走廊，光线柔和，立柱林立",
+        "description_narrative": "全景镜头展示了一座古建筑的木质走廊，阳光透过窗格洒在地板上，画面左侧有白色书法标题叠加。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "全景平拍镜头；古色古香的木质走廊，光线柔和，立柱林立。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [],
+        "background": "黄鹤楼入口处，悬挂着牌匾和白色纱帘",
+        "description_narrative": "镜头向前推进，穿过走廊立柱，聚焦于黄鹤楼的入口，门楣上悬挂着牌匾，门口挂着白色纱帘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头（推进）；黄鹤楼入口处，悬挂着牌匾和白色纱帘。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [],
+        "background": "模糊的室内背景，光线昏暗",
+        "description_narrative": "镜头快速摇过模糊的室内场景，画面主要被前景的暗色物体遮挡，营造出一种窥视或过渡的视觉效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的室内背景，光线昏暗。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍，头戴发冠",
+                "position": "画面中央",
+                "action": "背对镜头，正走向黄鹤楼入口",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黄鹤楼入口，牌匾模糊可见",
+        "description_narrative": "镜头跟随太子背影，他身穿米黄配墨绿长袍，头戴发冠，正迈步走向黄鹤楼入口，步伐坚定。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头（跟拍）；黄鹤楼入口，牌匾模糊可见；画面中央人物，身穿米黄色配墨绿色纹样长袍，头戴发冠，背对镜头，正走向黄鹤楼入口，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面中央",
+                "action": "侧身回头，目光看向身后",
+                "expression": "眉毛微挑，眼睛注视后方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的楼梯和栏杆背景",
+        "description_narrative": "太子停下脚步，侧身回头看向身后，眼神中带着一丝命令的意味，似乎在对跟随者说话。",
+        "dialogue": "你在这等着，本宫一人进去就行。",
+        "speaker": "太子",
+        "emotion": "威严",
+        "duration": 2.36,
+        "description_visual": "近景平拍镜头；模糊的楼梯和栏杆背景；画面中央人物，身穿米黄色配墨绿色纹样长袍，侧身回头，目光看向身后，表情：眉毛微挑，眼睛注视后方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "紫灰色纹样长袍，头戴黑色官帽",
+                "position": "画面中央",
+                "action": "面部表情担忧，嘴唇微动",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张欲言又止"
+            }
+        ],
+        "background": "模糊的室外绿植背景",
+        "description_narrative": "侍卫面露担忧之色，看着太子离去的背影，忍不住出声想要劝阻，神情焦急。",
+        "dialogue": "哎，太子。",
+        "speaker": "侍卫",
+        "emotion": "担忧",
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头；模糊的室外绿植背景；画面中央人物，身穿紫灰色纹样长袍，头戴黑色官帽，面部表情担忧，嘴唇微动，表情：眉毛微蹙，眼睛睁大，嘴巴微张欲言又止。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面左侧",
+                "action": "背对镜头，大步走上台阶",
+                "expression": "不可见"
+            }
+        ],
+        "background": "木质台阶和红色栏杆",
+        "description_narrative": "太子没有理会侍卫的呼喊，背对镜头，提起衣摆大步走上黄鹤楼的台阶，动作果断。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.12,
+        "description_visual": "中景平拍镜头（跟拍）；木质台阶和红色栏杆；画面左侧人物，身穿米黄色配墨绿色纹样长袍，背对镜头，大步走上台阶，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "男",
+                "clothing": "深蓝色长袍",
+                "position": "前景左侧",
+                "action": "坐在桌前低头写字",
+                "expression": "专注"
+            },
+            {
+                "name": "苏雨琪",
+                "gender": "女",
+                "clothing": "白色纱裙",
+                "position": "背景右侧",
+                "action": "坐在屏风后弹奏古琴",
+                "expression": "清冷"
+            }
+        ],
+        "background": "黄鹤楼内部，光线明亮，有屏风和桌椅",
+        "description_narrative": "镜头切入楼内全景，前景一名男子正伏案写字，背景处苏雨琪身穿白裙坐在屏风后弹奏古琴，氛围雅致。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.08,
+        "description_visual": "全景平拍镜头；黄鹤楼内部，光线明亮，有屏风和桌椅；前景左侧人物，身穿深蓝色长袍，坐在桌前低头写字，表情：专注；背景右侧人物，身穿白色纱裙，坐在屏风后弹奏古琴，表情：清冷。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏雨琪",
+                "gender": "女",
+                "clothing": "白色纱裙",
+                "position": "背景",
+                "action": "手部动作模糊，正在拨弄琴弦",
+                "expression": "不可见"
+            }
+        ],
+        "background": "桌面上放置着白色香炉，背景虚化",
+        "description_narrative": "特写镜头聚焦于桌面上的白色镂空香炉，背景中苏雨琪的手部动作模糊可见，正在弹奏。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "特写平拍镜头；桌面上放置着白色香炉，背景虚化；背景人物，身穿白色纱裙，手部动作模糊，正在拨弄琴弦，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏雨琪",
+                "gender": "女",
+                "clothing": "白色纱裙",
+                "position": "画面右侧",
+                "action": "手指在古琴琴弦上滑动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "古琴局部，红色琴边，背景明亮",
+        "description_narrative": "镜头进一步推近，清晰展现苏雨琪纤细的手指在古琴琴弦上轻轻拨动，动作优雅流畅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.72,
+        "description_visual": "特写平拍镜头；古琴局部，红色琴边，背景明亮；画面右侧人物，身穿白色纱裙，手指在古琴琴弦上滑动，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏雨琪",
+                "gender": "女",
+                "clothing": "白色纱裙，发饰精致",
+                "position": "画面中央",
+                "action": "低头专注弹琴，身体微微前倾",
+                "expression": "眉毛低垂，眼睛注视琴弦，嘴唇紧闭"
+            }
+        ],
+        "background": "明亮的窗户背景，光线柔和",
+        "description_narrative": "中近景展示苏雨琪弹琴的侧影，她身穿白色纱裙，发饰精致，神情专注清冷，完全沉浸在琴声中。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "清冷",
+        "duration": 0.64,
+        "description_visual": "中近景平拍镜头；明亮的窗户背景，光线柔和；画面中央人物，身穿白色纱裙，发饰精致，低头专注弹琴，身体微微前倾，表情：眉毛低垂，眼睛注视琴弦，嘴唇紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "画面中央",
+                "action": "双手拿着一根香蕉，正在剥皮",
+                "expression": "眉毛舒展，眼睛看着香蕉，嘴角带笑"
+            }
+        ],
+        "background": "黄鹤楼内部，背景有紫色纱帘",
+        "description_narrative": "齐东强身穿白色长袍站在楼内，手中拿着一根黄色的香蕉，正一边剥皮一边看向苏雨琪，神情轻浮。",
+        "dialogue": "雨琪小姐",
+        "speaker": "齐东强",
+        "emotion": "轻浮",
+        "duration": 5.2,
+        "description_visual": "中景平拍镜头；黄鹤楼内部，背景有紫色纱帘；画面中央人物，身穿白色配浅青色长袍，双手拿着一根香蕉，正在剥皮，表情：眉毛舒展，眼睛看着香蕉，嘴角带笑。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏雨琪",
+                "gender": "女",
+                "clothing": "白色纱裙",
+                "position": "画面中央",
+                "action": "继续弹琴，头微微转向一侧",
+                "expression": "眉毛微蹙，眼睛斜视，嘴唇紧闭显不悦"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "苏雨琪听到声音，弹琴的手指未停，但头微微转向一侧，眼神中流露出明显的厌恶和不耐烦。",
+        "dialogue": "吃个大香蕉吧",
+        "speaker": "齐东强",
+        "emotion": "厌恶",
+        "duration": 2.24,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱裙，继续弹琴，头微微转向一侧，表情：眉毛微蹙，眼睛斜视，嘴唇紧闭显不悦。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "画面中央",
+                "action": "拿着剥好的香蕉，身体前倾",
+                "expression": "眉毛上扬，眼睛盯着前方，嘴巴微张说话"
+            }
+        ],
+        "background": "黄鹤楼内部，光线明亮",
+        "description_narrative": "齐东强拿着剥好的香蕉，身体前倾试图靠近，脸上带着戏谑的笑容，言语轻佻地调戏苏雨琪。",
+        "dialogue": "齐东强，离我远点。要是再骚扰我，我就让我爹卸你条胳膊。",
+        "speaker": "苏雨琪",
+        "emotion": "愤怒",
+        "duration": 7.4,
+        "description_visual": "中近景平拍镜头；黄鹤楼内部，光线明亮；画面中央人物，身穿白色配浅青色长袍，拿着剥好的香蕉，身体前倾，表情：眉毛上扬，眼睛盯着前方，嘴巴微张说话。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "画面中央",
+                "action": "手持香蕉，身体后仰，一脸无赖",
+                "expression": "眉毛挑动，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "黄鹤楼内部，背景有木质结构",
+        "description_narrative": "齐东强对苏雨琪的威胁毫不在意，反而一脸无赖地拿着香蕉，嘴里说着荒唐的话，神情无耻。",
+        "dialogue": "哎，本宫有三条腿。卸条腿不碍事的。无耻。",
+        "speaker": "齐东强",
+        "emotion": "无耻",
+        "duration": 5.52,
+        "description_visual": "中景平拍镜头；黄鹤楼内部，背景有木质结构；画面中央人物，身穿白色配浅青色长袍，手持香蕉，身体后仰，一脸无赖，表情：眉毛挑动，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面左侧",
+                "action": "快速从楼梯走上来，衣摆飘动",
+                "expression": "不可见"
+            },
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面右侧",
+                "action": "站立，手持书卷",
+                "expression": "平静"
+            }
+        ],
+        "background": "黄鹤楼内部，紫色纱帘飘动",
+        "description_narrative": "镜头摇向楼梯口，太子身穿米黄长袍快速走上楼来，衣摆随风飘动，右侧灰衣男子手持书卷站立。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.76,
+        "description_visual": "全景平拍镜头（摇镜）；黄鹤楼内部，紫色纱帘飘动；画面左侧人物，身穿米黄色配墨绿色纹样长袍，快速从楼梯走上来，衣摆飘动，表情：不可见；画面右侧人物，身穿灰色长袍，站立，手持书卷，表情：平静。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面中央",
+                "action": "站定，目光严厉地扫视前方",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "黄鹤楼内部，背景虚化",
+        "description_narrative": "太子站定在楼内，目光严厉地扫视着眼前奢靡的场景，脸上带着明显的怒意，开始斥责。",
+        "dialogue": "京中灾民哀号遍野。",
+        "speaker": "太子",
+        "emotion": "愤怒",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；黄鹤楼内部，背景虚化；画面中央人物，身穿米黄色配墨绿色纹样长袍，站定，目光严厉地扫视前方，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面左侧",
+                "action": "手指握拳，身体紧绷",
+                "expression": "眉毛竖起，眼睛怒视，嘴巴张开"
+            },
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面右侧",
+                "action": "站立，低头看书",
+                "expression": "漠不关心"
+            }
+        ],
+        "background": "黄鹤楼内部，有木质栏杆",
+        "description_narrative": "太子情绪激动，手指握拳，指责众人在灾民受苦时在此享乐，旁边的灰衣男子却低头看书，毫不在意。",
+        "dialogue": "你们却在这奢靡享乐，有良心吗？",
+        "speaker": "太子",
+        "emotion": "愤怒",
+        "duration": 2.84,
+        "description_visual": "中景平拍镜头；黄鹤楼内部，有木质栏杆；画面左侧人物，身穿米黄色配墨绿色纹样长袍，手指握拳，身体紧绷，表情：眉毛竖起，眼睛怒视，嘴巴张开；画面右侧人物，身穿灰色长袍，站立，低头看书，表情：漠不关心。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "前景左侧",
+                "action": "背对镜头，面向屋内众人",
+                "expression": "不可见"
+            },
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "背景右侧",
+                "action": "转身看向太子",
+                "expression": "疑惑"
+            },
+            {
+                "name": "苏雨琪",
+                "gender": "女",
+                "clothing": "白色纱裙",
+                "position": "背景中央",
+                "action": "坐在琴前",
+                "expression": "平静"
+            }
+        ],
+        "background": "黄鹤楼内部，装饰华丽",
+        "description_narrative": "全景镜头展示太子背对镜头站在屋内，面对齐东强和苏雨琪，齐东强转身疑惑地看着这个不速之客。",
+        "dialogue": "你是谁啊？哎。",
+        "speaker": "齐东强",
+        "emotion": "疑惑",
+        "duration": 3.0,
+        "description_visual": "全景平拍镜头；黄鹤楼内部，装饰华丽；前景左侧人物，身穿米黄色配墨绿色纹样长袍，背对镜头，面向屋内众人，表情：不可见；背景右侧人物，身穿白色配浅青色长袍，转身看向太子，表情：疑惑；背景中央人物，身穿白色纱裙，坐在琴前，表情：平静。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "前景左侧",
+                "action": "站立不动",
+                "expression": "不可见"
+            },
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "背景右侧",
+                "action": "向太子走近一步",
+                "expression": "打量"
+            }
+        ],
+        "background": "黄鹤楼内部，纱帘垂下",
+        "description_narrative": "齐东强上下打量着太子，觉得面生，一边说着一边向太子走近，手中还拿着那根香蕉。",
+        "dialogue": "这位公子看着面生啊",
+        "speaker": "齐东强",
+        "emotion": "审视",
+        "duration": 2.04,
+        "description_visual": "全景平拍镜头；黄鹤楼内部，纱帘垂下；前景左侧人物，身穿米黄色配墨绿色纹样长袍，站立不动，表情：不可见；背景右侧人物，身穿白色配浅青色长袍，向太子走近一步，表情：打量。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "画面中央",
+                "action": "咀嚼香蕉，眼神轻蔑",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴咀嚼"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "齐东强近景，他嘴里嚼着香蕉，眼神轻蔑地看着太子，似乎在评估对方的身份和来意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "轻蔑",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色配浅青色长袍，咀嚼香蕉，眼神轻蔑，表情：眉毛微挑，眼睛斜视，嘴巴咀嚼。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面中央",
+                "action": "双手背在身后，低头不语",
+                "expression": "眉毛低垂，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "黄鹤楼内部，光线柔和",
+        "description_narrative": "太子双手背在身后，低头沉默不语，面对齐东强的询问，他神情淡然，似乎在思考如何回应。",
+        "dialogue": "不知是朝中哪位大臣的公子啊？",
+        "speaker": "齐东强",
+        "emotion": "傲慢",
+        "duration": 2.52,
+        "description_visual": "中近景平拍镜头；黄鹤楼内部，光线柔和；画面中央人物，身穿米黄色配墨绿色纹样长袍，双手背在身后，低头不语，表情：眉毛低垂，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "画面中央",
+                "action": "手持香蕉，歪着头",
+                "expression": "眉毛皱起，眼睛疑惑，嘴巴微张"
+            }
+        ],
+        "background": "模糊的木质背景",
+        "description_narrative": "齐东强听到太子的回答后感到意外，歪着头看着太子，手中的香蕉停在半空，表情疑惑。",
+        "dialogue": "我们家没有做官的。",
+        "speaker": "太子",
+        "emotion": "平静",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；模糊的木质背景；画面中央人物，身穿白色配浅青色长袍，手持香蕉，歪着头，表情：眉毛皱起，眼睛疑惑，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏雨琪",
+                "gender": "女",
+                "clothing": "白色纱裙",
+                "position": "画面中央",
+                "action": "抬头直视前方，神情冷傲",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇紧抿"
+            }
+        ],
+        "background": "模糊的紫色纱帘背景",
+        "description_narrative": "苏雨琪抬起头，眼神冷傲地看向太子，语气不善地让他离开，表示这里没有他的位置。",
+        "dialogue": "边上呆着去，这儿没你位置。",
+        "speaker": "苏雨琪",
+        "emotion": "冷漠",
+        "duration": 2.88,
+        "description_visual": "近景平拍镜头；模糊的紫色纱帘背景；画面中央人物，身穿白色纱裙，抬头直视前方，神情冷傲，表情：眉毛微蹙，眼睛直视，嘴唇紧抿。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面左侧",
+                "action": "侧身站立，目光看向苏雨琪",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "背景右侧",
+                "action": "双臂交叉站立",
+                "expression": "冷漠"
+            }
+        ],
+        "background": "黄鹤楼内部，木质结构",
+        "description_narrative": "太子侧身站立，目光锁定在苏雨琪身上，似乎认出了她，嘴里念出她的名字，神情复杂。",
+        "dialogue": "你是。",
+        "speaker": "太子",
+        "emotion": "惊讶",
+        "duration": 2.12,
+        "description_visual": "中景平拍镜头；黄鹤楼内部，木质结构；画面左侧人物，身穿米黄色配墨绿色纹样长袍，侧身站立，目光看向苏雨琪，表情：眉毛微挑，眼睛注视，嘴巴微张；背景右侧人物，身穿灰色长袍，双臂交叉站立，表情：冷漠。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色长袍，头戴银色发冠",
+                "position": "画面中央",
+                "action": "瞪大眼睛，身体前倾",
+                "expression": "眉毛竖起，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "模糊的窗户背景",
+        "description_narrative": "灰衣男子听到太子直呼苏雨琪大名，顿时大怒，瞪大眼睛斥责太子大胆，神情嚣张。",
+        "dialogue": "苏雨琪。大胆。",
+        "speaker": "灰衣男子",
+        "emotion": "愤怒",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；模糊的窗户背景；画面中央人物，身穿灰色长袍，头戴银色发冠，瞪大眼睛，身体前倾，表情：眉毛竖起，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面中央",
+                "action": "闭上眼睛，神情不屑",
+                "expression": "眉毛舒展，眼睛闭合，嘴角下撇"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "太子对灰衣男子的斥责不屑一顾，闭上眼睛冷哼一声，反问对方竟敢直呼苏小姐大名。",
+        "dialogue": "苏小姐的大名，你也敢叫？",
+        "speaker": "太子",
+        "emotion": "不屑",
+        "duration": 2.12,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿米黄色配墨绿色纹样长袍，闭上眼睛，神情不屑，表情：眉毛舒展，眼睛闭合，嘴角下撇。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面中央",
+                "action": "转头看向灰衣男子",
+                "expression": "眉毛紧锁，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "太子转头冷冷地看向灰衣男子，眼神中带着威胁，质问对方是不是活腻了。",
+        "dialogue": "是不是活腻歪了？",
+        "speaker": "灰衣男子",
+        "emotion": "威胁",
+        "duration": 3.08,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米黄色配墨绿色纹样长袍，转头看向灰衣男子，表情：眉毛紧锁，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面中央",
+                "action": "面部表情愤怒，眼神凶狠",
+                "expression": "眉毛倒竖，眼睛怒视，嘴巴张开"
+            }
+        ],
+        "background": "模糊的窗户背景",
+        "description_narrative": "灰衣男子被太子的话激怒，指着太子骂他是疯狗，质问主人没说话，轮不到他乱吠。",
+        "dialogue": "主人没说话，你一个疯狗在乱吠什么呀？",
+        "speaker": "太子",
+        "emotion": "愤怒",
+        "duration": 3.64,
+        "description_visual": "特写平拍镜头；模糊的窗户背景；画面中央人物，身穿灰色长袍，面部表情愤怒，眼神凶狠，表情：眉毛倒竖，眼睛怒视，嘴巴张开。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面左侧",
+                "action": "侧脸，目光锐利",
+                "expression": "眉毛紧蹙，眼睛瞪视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "太子听到自己被骂作疯狗，侧过脸来，目光锐利地盯着灰衣男子，反问对方竟敢骂自己是疯狗。",
+        "dialogue": "你敢骂我是疯狗？",
+        "speaker": "灰衣男子",
+        "emotion": "震惊",
+        "duration": 2.44,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面左侧人物，身穿米黄色配墨绿色纹样长袍，侧脸，目光锐利，表情：眉毛紧蹙，眼睛瞪视，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面中央",
+                "action": "面无表情，眼神轻蔑",
+                "expression": "眉毛平展，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "灰衣男子毫不示弱，冷冷地纠正说不是敢不敢，而是说太子就是疯狗，语气充满挑衅。",
+        "dialogue": "不敢。说你是疯狗。",
+        "speaker": "太子",
+        "emotion": "挑衅",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿灰色长袍，面无表情，眼神轻蔑，表情：眉毛平展，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣男子",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面中央",
+                "action": "眼神凶狠，咬牙切齿",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "灰衣男子继续辱骂，说太子连疯狗都不如，是个狗东西，神情极度嚣张，似乎随时要动手。",
+        "dialogue": "污辱了疯狗。狗东西。",
+        "speaker": "太子",
+        "emotion": "极度愤怒",
+        "duration": 4.0,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿灰色长袍，眼神凶狠，咬牙切齿，表情：眉毛紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "前景左侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "背景右侧",
+                "action": "挥舞手臂，似乎要冲过来",
+                "expression": "愤怒"
+            }
+        ],
+        "background": "黄鹤楼内部，纱帘飘动",
+        "description_narrative": "灰衣男子被彻底激怒，大喊着要弄死太子，齐东强在一旁也挥舞着手臂，场面一度失控。",
+        "dialogue": "我弄死你。",
+        "speaker": "灰衣男子",
+        "emotion": "暴怒",
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；黄鹤楼内部，纱帘飘动；前景左侧人物，身穿米黄色配墨绿色纹样长袍，背对镜头，表情：不可见；背景右侧人物，身穿白色配浅青色长袍，挥舞手臂，似乎要冲过来，表情：愤怒。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "画面右侧",
+                "action": "伸手拦住灰衣男子",
+                "expression": "严肃"
+            }
+        ],
+        "background": "黄鹤楼内部，装饰华丽",
+        "description_narrative": "齐东强见状，伸手拦住冲动的灰衣男子，大声喝止，表示够了，试图控制局面。",
+        "dialogue": "够了。",
+        "speaker": "齐东强",
+        "emotion": "严肃",
+        "duration": 1.28,
+        "description_visual": "全景平拍镜头；黄鹤楼内部，装饰华丽；画面右侧人物，身穿白色配浅青色长袍，伸手拦住灰衣男子，表情：严肃。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "画面中央",
+                "action": "看着太子，神情质问",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "齐东强转头看向太子，神情变得严肃，质问太子到底是谁，为何要来这里捣乱。",
+        "dialogue": "阁下，到底是谁？",
+        "speaker": "齐东强",
+        "emotion": "质问",
+        "duration": 2.96,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色配浅青色长袍，看着太子，神情质问，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐东强",
+                "gender": "男",
+                "clothing": "白色配浅青色长袍",
+                "position": "画面中央",
+                "action": "手指指着太子，语气威胁",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴张开"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "齐东强手指着太子，语气变得强硬，警告太子如果是来捣乱的，就别怪他动粗了。",
+        "dialogue": "若是来捣乱的话，",
+        "speaker": "齐东强",
+        "emotion": "威胁",
+        "duration": 3.04,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色配浅青色长袍，手指指着太子，语气威胁，表情：眉毛上扬，眼睛眯起，嘴巴张开。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面中央",
+                "action": "双手抱胸，神情淡定",
+                "expression": "眉毛舒展，眼睛平视，嘴角微扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "面对齐东强的威胁，太子双手抱胸，神情淡定自若，完全没有被吓到，反而带着一丝笑意。",
+        "dialogue": "就别怪我动粗了。",
+        "speaker": "齐东强",
+        "emotion": "威胁",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；模糊的室内背景；画面中央人物，身穿米黄色配墨绿色纹样长袍，双手抱胸，神情淡定，表情：眉毛舒展，眼睛平视，嘴角微扬。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏雨琪",
+                "gender": "女",
+                "clothing": "白色纱裙",
+                "position": "画面中央",
+                "action": "端坐，目光直视前方",
+                "expression": "眉毛微蹙，眼睛注视，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "苏雨琪端坐在琴前，目光直视前方，听到太子的话，神情微微一愣，似乎没想到他会这么说。",
+        "dialogue": "我是来找我媳妇的。",
+        "speaker": "太子",
+        "emotion": "霸气",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱裙，端坐，目光直视前方，表情：眉毛微蹙，眼睛注视，嘴唇紧闭。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米黄色配墨绿色纹样长袍",
+                "position": "画面中央",
+                "action": "站立，目光坚定",
+                "expression": "眉毛舒展，眼睛注视，嘴角微扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "太子说完后，目光坚定地看向苏雨琪，脸上带着自信的笑容，全场瞬间安静下来。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "自信",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；模糊的室内背景；画面中央人物，身穿米黄色配墨绿色纹样长袍，站立，目光坚定，表情：眉毛舒展，眼睛注视，嘴角微扬。"
+    }
+]

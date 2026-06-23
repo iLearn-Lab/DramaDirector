@@ -1,0 +1,232 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕过渡，无具体场景。",
+        "description_narrative": "白色屏幕过渡画面，持续3.84秒，无可见人物或动作，作为场景起始。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；白色屏幕过渡，无具体场景。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "灰色衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "身体前倾，右手轻轻握住左侧老人的手腕，神情专注。",
+                "expression": "眉毛微蹙，眼睛视线下移注视手腕，嘴巴紧闭。"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "白色中式上衣，黑色长裤",
+                "position": "画面左侧",
+                "action": "坐在沙发上，左臂伸出搭在沙发扶手上，任由青年男子握持。",
+                "expression": "眉毛舒展，眼睛微闭或视线下垂，嘴巴自然闭合。"
+            }
+        ],
+        "background": "室内客厅，米色沙发，白色窗帘，暖色调光线。",
+        "description_narrative": "中景固定镜头，青年男子坐在沙发右侧，身体前倾，专注地握住左侧老爷子的左手腕进行诊脉或施针准备，老爷子身穿白色中式上衣，安静地坐在沙发左侧配合，背景是米色沙发和白色窗帘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.2,
+        "description_visual": "中景平拍镜头；室内客厅，米色沙发，白色窗帘，暖色调光线。；画面右侧人物，身穿灰色衬衫，黑色长裤，身体前倾，右手轻轻握住左侧老人的手腕，神情专注。，表情：眉毛微蹙，眼睛视线下移注视手腕，嘴巴紧闭。；画面左侧人物，身穿白色中式上衣，黑色长裤，坐在沙发上，左臂伸出搭在沙发扶手上，任由青年男子握持。，表情：眉毛舒展，眼睛微闭或视线下垂，嘴巴自然闭合。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "灰色衬衫",
+                "position": "画面上方",
+                "action": "手指轻轻按压在老人手腕皮肤上，动作轻柔。",
+                "expression": "不可见。"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "白色中式上衣",
+                "position": "画面下方",
+                "action": "手腕平放，皮肤纹理清晰可见。",
+                "expression": "不可见。"
+            }
+        ],
+        "background": "老人手腕皮肤特写，背景虚化。",
+        "description_narrative": "特写俯拍镜头，聚焦于青年男子的手指轻轻按压在老爷子手腕皮肤上的动作，展示诊脉或施针的细节，背景虚化突出手部动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.32,
+        "description_visual": "特写俯拍镜头；老人手腕皮肤特写，背景虚化。；画面上方人物，身穿灰色衬衫，手指轻轻按压在老人手腕皮肤上，动作轻柔。，表情：不可见。；画面下方人物，身穿白色中式上衣，手腕平放，皮肤纹理清晰可见。，表情：不可见。。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "灰色衬衫",
+                "position": "画面右侧",
+                "action": "身体微侧，低头注视下方，双手在身前操作。",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张正在说话。"
+            }
+        ],
+        "background": "室内背景，深色柜体，上方有装饰盆景，暖光。",
+        "description_narrative": "中近景固定镜头，青年男子身穿灰色衬衫，身体微侧坐在沙发上，低头注视手中动作，神情专注且恭敬，正在向老爷子解释病情。",
+        "dialogue": "老爷子，你身体里的毒素正在一点点的铲除，这是个漫长的过程。",
+        "speaker": "青年男子",
+        "emotion": "专注，恭敬",
+        "duration": 6.84,
+        "description_visual": "中近景平拍镜头；室内背景，深色柜体，上方有装饰盆景，暖光。；画面右侧人物，身穿灰色衬衫，身体微侧，低头注视下方，双手在身前操作。，表情：眉毛微蹙，眼睛视线下移，嘴巴微张正在说话。。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "白色中式上衣",
+                "position": "画面中央",
+                "action": "头部微侧，面向青年男子方向，面部表情平和。",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微扬带笑。"
+            }
+        ],
+        "background": "浅色墙面背景，光线柔和。",
+        "description_narrative": "特写固定镜头，老爷子面部占据画面，他身穿白色中式上衣，头发花白，面带微笑看着青年男子，言语中透着对家族延续的期盼。",
+        "dialogue": "没事，我不着急。我着急的是我什么时候才能抱上重外孙。",
+        "speaker": "老爷子",
+        "emotion": "宽慰，期盼",
+        "duration": 6.24,
+        "description_visual": "特写平拍镜头；浅色墙面背景，光线柔和。；画面中央人物，身穿白色中式上衣，头部微侧，面向青年男子方向，面部表情平和。，表情：眉毛舒展，眼睛注视对方，嘴角微扬带笑。。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "灰色衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "双手交握放在腿上，身体微向前倾，认真倾听或回应。",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张。"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "白色中式上衣，黑色长裤",
+                "position": "画面左侧",
+                "action": "坐在沙发上，手部有轻微动作。",
+                "expression": "眉毛微挑，眼睛注视青年男子，嘴巴开合说话。"
+            }
+        ],
+        "background": "室内客厅，米色沙发，白色窗帘，暖色调光线。",
+        "description_narrative": "中景固定镜头，两人对坐沙发，青年男子在右侧双手交握，认真回应老爷子的催婚，老爷子在左侧感慨家族企业不易并警告内部势力，气氛严肃。",
+        "dialogue": "现在公司还在持续发展中，妙妙不能分心。等忙完这一阵再说吧。我这一辈子为了公司啊，把整个人生付出去了。妙妙也同我一样，妙妙也不想你的心血毁在她的手上，才会这么拼的。现在啊公司里面的周氏，也要小心点啊。",
+        "speaker": "青年男子",
+        "emotion": "认真，担忧",
+        "duration": 25.48,
+        "description_visual": "中景平拍镜头；室内客厅，米色沙发，白色窗帘，暖色调光线。；画面右侧人物，身穿灰色衬衫，黑色长裤，双手交握放在腿上，身体微向前倾，认真倾听或回应。，表情：眉毛微蹙，眼睛注视对方，嘴巴微张。；画面左侧人物，身穿白色中式上衣，黑色长裤，坐在沙发上，手部有轻微动作。，表情：眉毛微挑，眼睛注视青年男子，嘴巴开合说话。。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "灰色衬衫",
+                "position": "画面中央偏右",
+                "action": "身体微侧，点头示意，准备起身或结束对话。",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张回应。"
+            }
+        ],
+        "background": "室内背景，深色柜体，上方有装饰盆景，暖光。",
+        "description_narrative": "中近景固定镜头，青年男子身穿灰色衬衫，点头应承老爷子的嘱咐，并关心老爷子的身体，准备结束对话离开，神情恭敬。",
+        "dialogue": "好，我会告诉妙妙的。人老了，身体需要休息的时间越来越长了，你先回去吧。好的，老爷子，你早点休息。",
+        "speaker": "青年男子",
+        "emotion": "恭敬，顺从",
+        "duration": 14.32,
+        "description_visual": "中近景平拍镜头；室内背景，深色柜体，上方有装饰盆景，暖光。；画面中央偏右人物，身穿灰色衬衫，身体微侧，点头示意，准备起身或结束对话。，表情：眉毛舒展，眼睛注视对方，嘴巴微张回应。。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "灰色衬衫",
+                "position": "画面右侧",
+                "action": "身影在黑暗中逐渐模糊，似乎正在起身离开。",
+                "expression": "不可见。"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "白色中式上衣",
+                "position": "画面左侧",
+                "action": "坐在沙发上，身影在黑暗中。",
+                "expression": "不可见。"
+            }
+        ],
+        "background": "室内光线变暗，场景逐渐隐入黑暗。",
+        "description_narrative": "中景固定镜头，室内光线迅速变暗，两人身影在黑暗中逐渐模糊，暗示对话结束，青年男子即将离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头；室内光线变暗，场景逐渐隐入黑暗。；画面右侧人物，身穿灰色衬衫，身影在黑暗中逐渐模糊，似乎正在起身离开。，表情：不可见。；画面左侧人物，身穿白色中式上衣，坐在沙发上，身影在黑暗中。，表情：不可见。。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "灰色衬衫",
+                "position": "画面中央",
+                "action": "在昏暗光线下，面部轮廓隐约可见，神情凝重。",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+            }
+        ],
+        "background": "昏暗的室内背景，几乎全黑。",
+        "description_narrative": "中近景固定镜头，画面几乎全黑，仅能隐约看到青年男子的面部轮廓，他神情凝重地坐在黑暗中，似乎在思考刚才的对话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重，沉思",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；昏暗的室内背景，几乎全黑。；画面中央人物，身穿灰色衬衫，在昏暗光线下，面部轮廓隐约可见，神情凝重。，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。。"
+    }
+]

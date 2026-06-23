@@ -1,0 +1,484 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景，白色文字",
+        "description_narrative": "黑色背景中央显示白色大字“第一集”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；黑色背景，白色文字。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "海边岩石，远处雪山，阴天",
+        "description_narrative": "远景镜头展现海浪拍打岩石，远处有雪山，天空阴沉。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.1,
+        "description_visual": "远景平拍镜头；海边岩石，远处雪山，阴天。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫内搭黑色背心，黑色短裤",
+                "position": "画面左侧",
+                "action": "趴在沙滩上，身体静止",
+                "expression": "双眼紧闭，面部放松"
+            },
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝白配色制服裙装，黑色丝袜",
+                "position": "画面右侧",
+                "action": "趴在沙滩上，紧贴男子",
+                "expression": "双眼紧闭，无意识状态"
+            }
+        ],
+        "background": "沙滩边缘，浅水区",
+        "description_narrative": "俯拍全景，白衣男子和制服女子并排躺在沙滩浅水区，一动不动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.77,
+        "description_visual": "全景俯拍镜头；沙滩边缘，浅水区；画面左侧人物，身穿白色衬衫内搭黑色背心，黑色短裤，趴在沙滩上，身体静止，表情：双眼紧闭，面部放松；画面右侧人物，身穿蓝白配色制服裙装，黑色丝袜，趴在沙滩上，紧贴男子，表情：双眼紧闭，无意识状态。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色短裤",
+                "position": "画面右侧前景",
+                "action": "趴在沙滩上，头部埋入沙中",
+                "expression": "不可见"
+            },
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝白制服，黑色丝袜",
+                "position": "画面左侧背景",
+                "action": "趴在男子背上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙滩，水面",
+        "description_narrative": "中景镜头，两人趴在沙滩上，男子在右女子在左，身体部分浸在浅水中。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.13,
+        "description_visual": "中景平拍镜头；沙滩，水面；画面右侧前景人物，身穿白色衬衫，黑色短裤，趴在沙滩上，头部埋入沙中，表情：不可见；画面左侧背景人物，身穿蓝白制服，黑色丝袜，趴在男子背上，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面下方",
+                "action": "趴在地上，手臂伸展",
+                "expression": "不可见"
+            },
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝色制服裙",
+                "position": "画面上方",
+                "action": "趴在男子身上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙地",
+        "description_narrative": "近景俯拍，女子趴在男子背上，两人均无意识。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.27,
+        "description_visual": "近景俯拍镜头；沙地；画面下方人物，身穿白色衬衫，趴在地上，手臂伸展，表情：不可见；画面上方人物，身穿蓝色制服裙，趴在男子身上，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "黑色丝袜，深蓝色裙摆",
+                "position": "画面中央",
+                "action": "双腿交叠，静止躺在沙地上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙地，女子腿部",
+        "description_narrative": "特写镜头聚焦女子穿着黑色丝袜的双腿，静止躺在沙地上。",
+        "dialogue": "(画外音) 我爱着你。",
+        "speaker": null,
+        "emotion": null,
+        "duration": 5.47,
+        "description_visual": "特写俯拍镜头；沙地，女子腿部；画面中央人物，身穿黑色丝袜，深蓝色裙摆，双腿交叠，静止躺在沙地上，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "流水，岩石",
+        "description_narrative": "特写镜头展示清澈的水流流过岩石表面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.93,
+        "description_visual": "特写俯拍镜头；流水，岩石。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "侧脸贴在沙地上，脸上沾满沙粒",
+                "expression": "双眼紧闭，眉头微蹙"
+            }
+        ],
+        "background": "沙地",
+        "description_narrative": "特写镜头，白衣男子侧脸贴在沙地上，脸上沾满沙粒，双眼紧闭。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.6,
+        "description_visual": "特写平拍镜头；沙地；画面中央人物，身穿白色衬衫，侧脸贴在沙地上，脸上沾满沙粒，表情：双眼紧闭，眉头微蹙。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面前景",
+                "action": "头部埋在沙里",
+                "expression": "不可见"
+            },
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝色制服",
+                "position": "画面背景",
+                "action": "躺在后方",
+                "expression": "双眼紧闭"
+            }
+        ],
+        "background": "沙滩",
+        "description_narrative": "近景镜头，男子头部在前景，女子躺在后方，两人均无动静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.63,
+        "description_visual": "近景平拍镜头；沙滩；画面前景人物，身穿白色衬衫，头部埋在沙里，表情：不可见；画面背景人物，身穿蓝色制服，躺在后方，表情：双眼紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色背心",
+                "position": "画面右侧",
+                "action": "突然抬头，双手撑沙，身体撑起",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "沙滩",
+        "description_narrative": "近景镜头，白衣男子突然抬头，双手撑沙，表情困惑迷茫。",
+        "dialogue": "这什么",
+        "speaker": "白衣男子",
+        "emotion": "困惑",
+        "duration": 3.53,
+        "description_visual": "近景平拍镜头；沙滩；画面右侧人物，身穿白色衬衫，黑色背心，突然抬头，双手撑沙，身体撑起，表情：眉毛紧锁，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "深蓝色裙摆，黑色丝袜",
+                "position": "画面中央",
+                "action": "静止躺在沙地上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙地，女子裙摆",
+        "description_narrative": "特写镜头展示女子深蓝色裙摆和黑色丝袜，静止不动。",
+        "dialogue": "对不起对不起",
+        "speaker": "白衣男子",
+        "emotion": "愧疚",
+        "duration": 2.3,
+        "description_visual": "特写俯拍镜头；沙地，女子裙摆；画面中央人物，身穿深蓝色裙摆，黑色丝袜，静止躺在沙地上，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝白制服，彩色领结",
+                "position": "画面中央",
+                "action": "仰面躺在沙地上，长发散乱",
+                "expression": "双眼紧闭，嘴唇微启"
+            }
+        ],
+        "background": "沙地",
+        "description_narrative": "俯拍近景，女子仰面躺在沙地上，双眼紧闭，长发散乱。",
+        "dialogue": "还活着吗这",
+        "speaker": "白衣男子",
+        "emotion": "担忧",
+        "duration": 1.97,
+        "description_visual": "近景俯拍镜头；沙地；画面中央人物，身穿蓝白制服，彩色领结，仰面躺在沙地上，长发散乱，表情：双眼紧闭，嘴唇微启。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色短裤",
+                "position": "画面右侧",
+                "action": "跪在沙滩上，低头看向女子",
+                "expression": "眉头紧皱，眼神焦急"
+            },
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝色制服",
+                "position": "画面左侧",
+                "action": "躺在地上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙滩，远处植被",
+        "description_narrative": "中景镜头，白衣男子跪在沙滩上，低头看着躺在地上的制服女子。",
+        "dialogue": "先活着，我操。",
+        "speaker": "白衣男子",
+        "emotion": "焦急",
+        "duration": 2.1,
+        "description_visual": "中景平拍镜头；沙滩，远处植被；画面右侧人物，身穿白色衬衫，黑色短裤，跪在沙滩上，低头看向女子，表情：眉头紧皱，眼神焦急；画面左侧人物，身穿蓝色制服，躺在地上，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "伸手探向女子颈部",
+                "expression": "神情专注"
+            },
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝色制服",
+                "position": "画面左侧",
+                "action": "躺在地上一动不动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙滩",
+        "description_narrative": "中近景，白衣男子伸手探向女子颈部，检查生命体征。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "中近景平拍镜头；沙滩；画面右侧人物，身穿白色衬衫，伸手探向女子颈部，表情：神情专注；画面左侧人物，身穿蓝色制服，躺在地上一动不动，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "手悬在女子上方，身体前倾",
+                "expression": "眉毛舒展，眼神微动"
+            }
+        ],
+        "background": "沙滩",
+        "description_narrative": "近景镜头，白衣男子确认女子有气息后，眼神微动，手悬在女子上方。",
+        "dialogue": "啊，还活着就好。那我就。",
+        "speaker": "白衣男子",
+        "emotion": "释然",
+        "duration": 4.8,
+        "description_visual": "近景平拍镜头；沙滩；画面右侧人物，身穿白色衬衫，手悬在女子上方，身体前倾，表情：眉毛舒展，眼神微动。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫袖口",
+                "position": "画面上方",
+                "action": "双手放置在女子胸口位置",
+                "expression": "不可见"
+            },
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝色制服，彩色领结",
+                "position": "画面下方",
+                "action": "胸部被按压",
+                "expression": "不可见"
+            }
+        ],
+        "background": "女子胸前",
+        "description_narrative": "特写镜头，白衣男子的双手放置在制服女子的胸口位置。",
+        "dialogue": "不好意思了",
+        "speaker": "白衣男子",
+        "emotion": "尴尬",
+        "duration": 5.1,
+        "description_visual": "特写俯拍镜头；女子胸前；画面上方人物，身穿白色衬衫袖口，双手放置在女子胸口位置，表情：不可见；画面下方人物，身穿蓝色制服，彩色领结，胸部被按压，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "黑色丝袜（破损）",
+                "position": "画面中央",
+                "action": "双腿交叠，静止",
+                "expression": "不可见"
+            }
+        ],
+        "background": "女子腿部",
+        "description_narrative": "特写镜头再次聚焦女子穿着破损丝袜的双腿，沙粒附着。",
+        "dialogue": "不好意思啊，反正是为了救你。",
+        "speaker": "白衣男子",
+        "emotion": "自我辩解",
+        "duration": 3.27,
+        "description_visual": "特写俯拍镜头；女子腿部；画面中央人物，身穿黑色丝袜（破损），双腿交叠，静止，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色背心",
+                "position": "画面上方",
+                "action": "双手交叠在女子胸口进行按压",
+                "expression": "眉头紧锁，嘴唇紧闭"
+            },
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝色制服",
+                "position": "画面下方",
+                "action": "仰面躺着，接受按压",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙滩",
+        "description_narrative": "高角度中近景，白衣男子双手交叠在女子胸口进行按压，表情专注。",
+        "dialogue": "怎么没反应啊？",
+        "speaker": "白衣男子",
+        "emotion": "疑惑",
+        "duration": 6.93,
+        "description_visual": "中近景高角度镜头；沙滩；画面上方人物，身穿白色衬衫，黑色背心，双手交叠在女子胸口进行按压，表情：眉头紧锁，嘴唇紧闭；画面下方人物，身穿蓝色制服，仰面躺着，接受按压，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "持续进行胸部按压，身体前倾用力",
+                "expression": "表情严肃，眼神向下"
+            },
+            {
+                "name": "制服女子",
+                "gender": "女",
+                "clothing": "蓝色制服",
+                "position": "画面左侧",
+                "action": "躺在地上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙滩",
+        "description_narrative": "侧拍中景，白衣男子持续进行胸部按压，身体前倾用力。",
+        "dialogue": "这，对不起。",
+        "speaker": "白衣男子",
+        "emotion": "歉意",
+        "duration": 8.97,
+        "description_visual": "中景侧拍镜头；沙滩；画面右侧人物，身穿白色衬衫，持续进行胸部按压，身体前倾用力，表情：表情严肃，眼神向下；画面左侧人物，身穿蓝色制服，躺在地上，表情：不可见。"
+    }
+]

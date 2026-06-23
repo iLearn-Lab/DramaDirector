@@ -1,0 +1,492 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体，光线全黑。",
+        "description_narrative": "画面全黑，持续3.28秒，作为场景过渡或开场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.28,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体，光线全黑。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "身体前倾，双手手指交叉紧扣，眼神警惕地看向右前方。",
+                "expression": "眉毛微蹙，眼睛凝视，嘴巴紧闭。"
+            },
+            {
+                "name": "沈经理",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧",
+                "action": "坐在黑衣男子身旁，身体微侧，面带微笑看向前方。",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬。"
+            }
+        ],
+        "background": "室内客厅，背景有蓝色窗帘和吊灯，光线柔和。",
+        "description_narrative": "中景镜头，黑衣男子与沈经理并排而坐，黑衣男子神情严肃警惕，沈经理面带微笑，黑衣男子低声说话。",
+        "dialogue": "这小子没安好心",
+        "speaker": "黑衣男子",
+        "emotion": "警惕",
+        "duration": 3.24,
+        "description_visual": "中景平拍镜头；室内客厅，背景有蓝色窗帘和吊灯，光线柔和。；画面左侧人物，身穿黑色衬衫，身体前倾，双手手指交叉紧扣，眼神警惕地看向右前方。，表情：眉毛微蹙，眼睛凝视，嘴巴紧闭。；画面右侧人物，身穿白色上衣，坐在黑衣男子身旁，身体微侧，面带微笑看向前方。，表情：眉毛舒展，眼睛微眯，嘴角上扬。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈经理",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "低头看着下方，双手放在腿上，神情略显忧虑。",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张。"
+            }
+        ],
+        "background": "室内背景，蓝色窗帘虚化，光线集中在人物面部。",
+        "description_narrative": "特写镜头聚焦沈经理，她低头沉思，表情从微笑转为担忧，似乎在思考黑衣男子的话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "忧虑",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；室内背景，蓝色窗帘虚化，光线集中在人物面部。；画面中央人物，身穿白色上衣，低头看着下方，双手放在腿上，神情略显忧虑。，表情：眉毛微垂，眼睛下视，嘴巴微张。。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "男",
+                "clothing": "条纹西装，蓝色领带",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体后仰，一只手搭在沙发扶手上，姿态放松。",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴闭合。"
+            }
+        ],
+        "background": "室内沙发区，深蓝色背景帘，光线较暗。",
+        "description_narrative": "中景镜头展示苏总坐在对面沙发上，姿态傲慢放松，静静地看着对面的两人。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "傲慢",
+        "duration": 1.24,
+        "description_visual": "中景平拍镜头；室内沙发区，深蓝色背景帘，光线较暗。；画面中央人物，身穿条纹西装，蓝色领带，坐在沙发上，身体后仰，一只手搭在沙发扶手上，姿态放松。，表情：眉毛平展，眼睛直视前方，嘴巴闭合。。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈经理",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "低头看着桌面，双手交叠，神情顺从。",
+                "expression": "眉毛微垂，眼睛下视，嘴唇涂着红色口红。"
+            }
+        ],
+        "background": "室内环境，蓝色窗帘背景，光线柔和。",
+        "description_narrative": "特写镜头再次给到沈经理，她低头准备签署文件，此时传来苏总的声音。",
+        "dialogue": "那咱们就签字吧",
+        "speaker": "苏总",
+        "emotion": "顺从",
+        "duration": 3.92,
+        "description_visual": "特写平拍镜头；室内环境，蓝色窗帘背景，光线柔和。；画面中央人物，身穿白色上衣，低头看着桌面，双手交叠，神情顺从。，表情：眉毛微垂，眼睛下视，嘴唇涂着红色口红。。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "男",
+                "clothing": "条纹西装，蓝色领带",
+                "position": "画面中央",
+                "action": "身体微前倾，面带笑意，开口说话。",
+                "expression": "眉毛上扬，眼睛微眯，嘴巴张开露齿。"
+            }
+        ],
+        "background": "深蓝色背景帘，光线集中在人物上半身。",
+        "description_narrative": "中景镜头，苏总面带讥讽的笑容，发出感叹词，似乎在催促或调侃。",
+        "dialogue": "哎",
+        "speaker": "苏总",
+        "emotion": "讥讽",
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；深蓝色背景帘，光线集中在人物上半身。；画面中央人物，身穿条纹西装，蓝色领带，身体微前倾，面带笑意，开口说话。，表情：眉毛上扬，眼睛微眯，嘴巴张开露齿。。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "侧头看向苏总方向，手部动作放松。",
+                "expression": "眉毛平展，眼睛侧视，嘴巴微张。"
+            },
+            {
+                "name": "沈经理",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧",
+                "action": "面带微笑看向前方，身体姿态放松。",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角上扬。"
+            }
+        ],
+        "background": "室内客厅，吊灯在上方，蓝色窗帘背景。",
+        "description_narrative": "中近景镜头，黑衣男子和沈经理看向苏总，黑衣男子语气平和地回应，似乎在附和。",
+        "dialogue": "苏总早这样决定",
+        "speaker": "黑衣男子",
+        "emotion": "平和",
+        "duration": 2.72,
+        "description_visual": "中近景平拍镜头；室内客厅，吊灯在上方，蓝色窗帘背景。；画面左侧人物，身穿黑色衬衫，侧头看向苏总方向，手部动作放松。，表情：眉毛平展，眼睛侧视，嘴巴微张。；画面右侧人物，身穿白色上衣，面带微笑看向前方，身体姿态放松。，表情：眉毛舒展，眼睛注视前方，嘴角上扬。。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "男",
+                "clothing": "条纹西装，蓝色领带",
+                "position": "画面中央",
+                "action": "低头看着下方，面带得意的笑容。",
+                "expression": "眉毛舒展，眼睛下视，嘴巴张开大笑。"
+            }
+        ],
+        "background": "深蓝色背景，光线柔和。",
+        "description_narrative": "中景镜头，苏总低头大笑，显得十分得意，对黑衣男子的附和感到满意。",
+        "dialogue": "早这样决定不就好了吗",
+        "speaker": "苏总",
+        "emotion": "得意",
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；深蓝色背景，光线柔和。；画面中央人物，身穿条纹西装，蓝色领带，低头看着下方，面带得意的笑容。，表情：眉毛舒展，眼睛下视，嘴巴张开大笑。。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "身体前倾，手伸向桌面上的文件。",
+                "expression": "眉毛微蹙，眼睛注视文件，嘴巴微张。"
+            },
+            {
+                "name": "沈经理",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧",
+                "action": "手伸向文件，准备签字。",
+                "expression": "眉毛微垂，眼睛下视，嘴巴闭合。"
+            }
+        ],
+        "background": "木质桌面，文件放在桌上，背景虚化。",
+        "description_narrative": "中近景镜头，两人同时伸手去拿桌上的文件准备签字，苏总声音传来催促。",
+        "dialogue": "签字吧",
+        "speaker": "苏总",
+        "emotion": "催促",
+        "duration": 3.16,
+        "description_visual": "中近景平拍镜头；木质桌面，文件放在桌上，背景虚化。；画面左侧人物，身穿黑色衬衫，身体前倾，手伸向桌面上的文件。，表情：眉毛微蹙，眼睛注视文件，嘴巴微张。；画面右侧人物，身穿白色上衣，手伸向文件，准备签字。，表情：眉毛微垂，眼睛下视，嘴巴闭合。。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "男",
+                "clothing": "条纹西装，蓝色领带",
+                "position": "画面中央",
+                "action": "身体后仰靠在沙发上，闭眼微笑，姿态慵懒。",
+                "expression": "眉毛舒展，眼睛闭合，嘴角上扬。"
+            }
+        ],
+        "background": "深蓝色背景帘，光线较暗。",
+        "description_narrative": "中景镜头，苏总后仰闭眼，显得胜券在握，此时突然传来阻止的声音。",
+        "dialogue": "等等",
+        "speaker": "黑衣男子",
+        "emotion": "慵懒",
+        "duration": 2.08,
+        "description_visual": "中景平拍镜头；深蓝色背景帘，光线较暗。；画面中央人物，身穿条纹西装，蓝色领带，身体后仰靠在沙发上，闭眼微笑，姿态慵懒。，表情：眉毛舒展，眼睛闭合，嘴角上扬。。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "手指按在文件上，阻止签字，神情严肃。",
+                "expression": "眉毛紧蹙，眼睛凝视文件，嘴巴微张。"
+            },
+            {
+                "name": "沈经理",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧",
+                "action": "手停在半空，表情疑惑担忧。",
+                "expression": "眉毛紧皱，眼睛看向黑衣男子，嘴巴微张。"
+            }
+        ],
+        "background": "木质桌面，文件特写，背景虚化。",
+        "description_narrative": "中近景镜头，黑衣男子突然按住文件阻止签字，沈经理一脸错愕，黑衣男子语气坚决。",
+        "dialogue": "不能签",
+        "speaker": "黑衣男子",
+        "emotion": "坚决",
+        "duration": 6.28,
+        "description_visual": "中近景平拍镜头；木质桌面，文件特写，背景虚化。；画面左侧人物，身穿黑色衬衫，手指按在文件上，阻止签字，神情严肃。，表情：眉毛紧蹙，眼睛凝视文件，嘴巴微张。；画面右侧人物，身穿白色上衣，手停在半空，表情疑惑担忧。，表情：眉毛紧皱，眼睛看向黑衣男子，嘴巴微张。。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "男",
+                "clothing": "条纹西装，蓝色领带",
+                "position": "画面中央",
+                "action": "手整理领带，眼神斜视，表情不悦。",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴闭合。"
+            }
+        ],
+        "background": "深蓝色背景帘，光线集中在人物上半身。",
+        "description_narrative": "中景镜头，苏总整理领带，眼神不善，此时传来黑衣男子的质问声。",
+        "dialogue": "这抵押合同和担保合同不一样吧",
+        "speaker": "黑衣男子",
+        "emotion": "不悦",
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；深蓝色背景帘，光线集中在人物上半身。；画面中央人物，身穿条纹西装，蓝色领带，手整理领带，眼神斜视，表情不悦。，表情：眉毛微挑，眼睛斜视，嘴巴闭合。。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧前景",
+                "action": "侧脸看向右方，神情专注。",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴闭合。"
+            },
+            {
+                "name": "沈经理",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧",
+                "action": "看向前方，神情紧张。",
+                "expression": "眉毛微皱，眼睛睁大，嘴巴微张。"
+            }
+        ],
+        "background": "室内环境，蓝色窗帘背景。",
+        "description_narrative": "近景镜头，两人神情紧张地看向对面，苏总的声音传来称呼沈经理。",
+        "dialogue": "沈经理",
+        "speaker": "苏总",
+        "emotion": "紧张",
+        "duration": 4.72,
+        "description_visual": "近景平拍镜头；室内环境，蓝色窗帘背景。；画面左侧前景人物，身穿黑色衬衫，侧脸看向右方，神情专注。，表情：眉毛微蹙，眼睛注视，嘴巴闭合。；画面右侧人物，身穿白色上衣，看向前方，神情紧张。，表情：眉毛微皱，眼睛睁大，嘴巴微张。。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "男",
+                "clothing": "条纹西装，蓝色领带",
+                "position": "画面中央",
+                "action": "低头看着下方，表情疑惑。",
+                "expression": "眉毛微皱，眼睛下视，嘴巴微张。"
+            }
+        ],
+        "background": "深蓝色背景帘，光线柔和。",
+        "description_narrative": "中景镜头，苏总低头装傻，此时传来黑衣男子连续的质问声。",
+        "dialogue": "咱们说好的担保合同怎么就变成抵押合同呢",
+        "speaker": "黑衣男子",
+        "emotion": "疑惑",
+        "duration": 2.8,
+        "description_visual": "中景平拍镜头；深蓝色背景帘，光线柔和。；画面中央人物，身穿条纹西装，蓝色领带，低头看着下方，表情疑惑。，表情：眉毛微皱，眼睛下视，嘴巴微张。。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "沈经理",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "面部表情震惊，身体僵硬。",
+                "expression": "眉毛紧皱，眼睛睁大，嘴巴微张。"
+            }
+        ],
+        "background": "室内背景，蓝色窗帘虚化。",
+        "description_narrative": "特写镜头，沈经理满脸震惊，此时传来苏总愤怒的反问声。",
+        "dialogue": "什么抵押合同 你们还想不想贷款了",
+        "speaker": "苏总",
+        "emotion": "震惊",
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；室内背景，蓝色窗帘虚化。；画面中央人物，身穿白色上衣，面部表情震惊，身体僵硬。，表情：眉毛紧皱，眼睛睁大，嘴巴微张。。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "男",
+                "clothing": "条纹西装，蓝色领带",
+                "position": "画面中央",
+                "action": "身体前倾，表情愤怒，语气强硬。",
+                "expression": "眉毛倒竖，眼睛瞪视，嘴巴张开。"
+            }
+        ],
+        "background": "深蓝色背景帘，光线较暗。",
+        "description_narrative": "中景镜头，苏总情绪激动，身体前倾威胁对方，语气充满压迫感。",
+        "dialogue": "不想贷款就赶紧给我滚",
+        "speaker": "苏总",
+        "emotion": "愤怒",
+        "duration": 4.32,
+        "description_visual": "中景平拍镜头；深蓝色背景帘，光线较暗。；画面中央人物，身穿条纹西装，蓝色领带，身体前倾，表情愤怒，语气强硬。，表情：眉毛倒竖，眼睛瞪视，嘴巴张开。。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧",
+                "action": "低头大笑，身体放松。",
+                "expression": "眉毛舒展，眼睛下视，嘴巴张开大笑。"
+            },
+            {
+                "name": "沈经理",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧",
+                "action": "坐在一旁，表情严肃。",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴闭合。"
+            }
+        ],
+        "background": "室内客厅，吊灯在上方，蓝色窗帘背景。",
+        "description_narrative": "中近景镜头，黑衣男子突然大笑，似乎识破了骗局，语气轻松。",
+        "dialogue": "我还不想担这个责任呢",
+        "speaker": "黑衣男子",
+        "emotion": "轻松",
+        "duration": 3.68,
+        "description_visual": "中近景平拍镜头；室内客厅，吊灯在上方，蓝色窗帘背景。；画面左侧人物，身穿黑色衬衫，低头大笑，身体放松。，表情：眉毛舒展，眼睛下视，嘴巴张开大笑。；画面右侧人物，身穿白色上衣，坐在一旁，表情严肃。，表情：眉毛平展，眼睛注视前方，嘴巴闭合。。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏总",
+                "gender": "男",
+                "clothing": "条纹西装，蓝色领带",
+                "position": "画面中央",
+                "action": "表情严肃，眼神冰冷地看着对方。",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴闭合。"
+            }
+        ],
+        "background": "深蓝色背景帘，光线集中在人物面部。",
+        "description_narrative": "中景镜头，苏总表情瞬间变得严肃冰冷，此时传来黑衣男子继续的笑声和话语。",
+        "dialogue": "哈哈哈 先不说担责不担责",
+        "speaker": "黑衣男子",
+        "emotion": "冰冷",
+        "duration": 3.0,
+        "description_visual": "中景平拍镜头；深蓝色背景帘，光线集中在人物面部。；画面中央人物，身穿条纹西装，蓝色领带，表情严肃，眼神冰冷地看着对方。，表情：眉毛紧锁，眼睛直视，嘴巴闭合。。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，手指指向对方，眼神犀利。",
+                "expression": "眉毛紧蹙，眼睛瞪视，嘴巴张开说话。"
+            }
+        ],
+        "background": "室内环境，背景虚化，光线集中在人物面部。",
+        "description_narrative": "近景镜头，黑衣男子身体前倾，直指苏总，语气严厉地揭露对方的行为。",
+        "dialogue": "你故意在合同上做手脚",
+        "speaker": "黑衣男子",
+        "emotion": "严厉",
+        "duration": 4.68,
+        "description_visual": "近景平拍镜头；室内环境，背景虚化，光线集中在人物面部。；画面中央人物，身穿黑色衬衫，身体前倾，手指指向对方，眼神犀利。，表情：眉毛紧蹙，眼睛瞪视，嘴巴张开说话。。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景，强光过曝，无可见物体。",
+        "description_narrative": "画面瞬间过曝变为全白，作为场景结束或转场，伴随黑衣男子的质问画外音。",
+        "dialogue": "做阴阳合同 你是不是有什么阴谋啊",
+        "speaker": "黑衣男子",
+        "emotion": null,
+        "duration": 3.48,
+        "description_visual": "全景平拍镜头；纯白背景，强光过曝，无可见物体。。"
+    }
+]

@@ -1,0 +1,573 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白屏幕，无具体场景",
+        "description_narrative": "画面为纯白色背景，无任何人物或物体，持续3.84秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "远景平拍镜头；纯白屏幕，无具体场景。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "模糊的厨房台面，白色瓷砖墙面，台面上有笔记本支架和绿植",
+        "description_narrative": "镜头聚焦于模糊的厨房场景，白色台面上放置着一个木质笔记本支架，后方有绿色植物盆栽，光线柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 8.92,
+        "description_visual": "中景平拍镜头；模糊的厨房台面，白色瓷砖墙面，台面上有笔记本支架和绿植。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "打开的笔记本页面，手写中文菜单",
+        "description_narrative": "镜头特写笔记本内页，纸上用黑色墨水手写着“佛跳墙”、“西湖醉鱼”等菜名，字迹清晰。",
+        "dialogue": "啊。",
+        "speaker": "男子",
+        "emotion": "惊讶",
+        "duration": 5.56,
+        "description_visual": "特写俯拍镜头；打开的笔记本页面，手写中文菜单。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊的百叶窗和灯光",
+        "description_narrative": "男子身穿白色立领衬衫，黑色短发，头部微低，眼神深沉地看向下方，面部表情严肃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 5.52,
+        "description_visual": "特写平拍镜头；室内背景，模糊的百叶窗和灯光；画面中央人物，身穿白色立领衬衫，头部微低，视线向下，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，身体微侧",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "厨房区域，白色瓷砖墙面，不锈钢水龙头",
+        "description_narrative": "男子站在厨房水槽旁，双臂交叉抱在胸前，身体微微侧向一边，神情若有所思。",
+        "dialogue": "我曾问过你。",
+        "speaker": "男子",
+        "emotion": "深沉",
+        "duration": 5.4,
+        "description_visual": "中近景平拍镜头；厨房区域，白色瓷砖墙面，不锈钢水龙头；画面中央人物，身穿白色立领衬衫，双臂交叉抱在胸前，身体微侧，表情：眉毛舒展，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉，身体静止",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "厨房区域，白色瓷砖墙面",
+        "description_narrative": "男子保持双臂交叉的姿势，站在厨房中，目光低垂，似乎在思考或等待。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；厨房区域，白色瓷砖墙面；画面中央人物，身穿白色立领衬衫，双臂交叉，身体静止，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "坐在床上，身体微前倾",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "昏暗的卧室，床头板有竖条纹装饰",
+        "description_narrative": "光线昏暗的卧室中，女子身穿黑色吊带裙坐在床上，长发披肩，神情略显惊恐或担忧。",
+        "dialogue": "嗯。",
+        "speaker": "女子",
+        "emotion": "担忧",
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；昏暗的卧室，床头板有竖条纹装饰；画面中央人物，身穿黑色吊带裙，坐在床上，身体微前倾，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "头部微抬，视线向前",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张说话"
+            }
+        ],
+        "background": "卧室背景，墙上有装饰画",
+        "description_narrative": "女子坐在床上，神情焦急，嘴巴微张正在询问，眼神中充满关切。",
+        "dialogue": "我爷爷。",
+        "speaker": "女子",
+        "emotion": "焦急",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；卧室背景，墙上有装饰画；画面中央人物，身穿黑色吊带裙，头部微抬，视线向前，表情：眉毛紧锁，眼睛直视，嘴巴微张说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧",
+                "action": "头部转向右侧，视线向上",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，右侧可见男子白色衬衫衣袖",
+        "description_narrative": "女子转头看向右侧站立的男子，眼神急切，似乎在追问某人的情况。",
+        "dialogue": "情况怎么样了？",
+        "speaker": "女子",
+        "emotion": "急切",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；卧室背景，右侧可见男子白色衬衫衣袖；画面左侧人物，身穿黑色吊带裙，头部转向右侧，视线向上，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面的房间，左侧有玻璃门",
+        "description_narrative": "男子站在木质墙面前，身穿白色衬衫，神情平静，似乎正在安抚对方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 0.92,
+        "description_visual": "中景平拍镜头；木质墙面的房间，左侧有玻璃门；画面中央人物，身穿白色立领衬衫，站立，双手自然下垂，表情：眉毛舒展，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，墙上有装饰画",
+        "description_narrative": "女子坐在床上，神情依然担忧，似乎在倾听男子的安慰。",
+        "dialogue": "别担心，老爷子一定会没事的。",
+        "speaker": "男子",
+        "emotion": "安抚",
+        "duration": 3.76,
+        "description_visual": "近景平拍镜头；卧室背景，墙上有装饰画；画面左侧人物，身穿黑色吊带裙，头部微侧，视线向前，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面右侧",
+                "action": "站立，视线向下看女子",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "木质墙面，左侧可见女子背影",
+        "description_narrative": "男子低头看着面前的女子，神情略显复杂，似乎在思考如何回应她的请求。",
+        "dialogue": "我明天想去看看我爷爷。",
+        "speaker": "女子",
+        "emotion": "请求",
+        "duration": 3.4,
+        "description_visual": "中近景平拍镜头；木质墙面，左侧可见女子背影；画面右侧人物，身穿白色立领衬衫，站立，视线向下看女子，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧",
+                "action": "头部微抬，视线向前",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景，墙上有装饰画",
+        "description_narrative": "女子神情焦虑，眼神中带着不解和担忧，似乎在反驳或解释什么。",
+        "dialogue": "公司的问题，现在有很多。",
+        "speaker": "男子",
+        "emotion": "解释",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；卧室背景，墙上有装饰画；画面左侧人物，身穿黑色吊带裙，头部微抬，视线向前，表情：眉毛紧锁，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张说话"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "男子站在女子面前，语气平缓地解释着公司的状况，试图说服她。",
+        "dialogue": "需要你去处理。",
+        "speaker": "男子",
+        "emotion": "严肃",
+        "duration": 2.48,
+        "description_visual": "中近景平拍镜头；木质墙面；画面中央人物，身穿白色立领衬衫，站立，头部微侧，表情：眉毛舒展，眼睛微闭，嘴巴微张说话。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面左侧",
+                "action": "头部微侧，视线向上",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "卧室背景",
+        "description_narrative": "女子眉头紧皱，眼神中透着坚持和担忧，似乎对男子的安排不满意。",
+        "dialogue": "明天我去吧。",
+        "speaker": "女子",
+        "emotion": "坚持",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；卧室背景；画面左侧人物，身穿黑色吊带裙，头部微侧，视线向上，表情：眉毛紧锁，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面右侧",
+                "action": "站立，视线看向女子",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "木质墙面",
+        "description_narrative": "男子看着女子，神情严肃，似乎在陈述一个事实以阻止她。",
+        "dialogue": "今天小许都没有进去我爷爷的病房。",
+        "speaker": "女子",
+        "emotion": "质疑",
+        "duration": 3.44,
+        "description_visual": "中近景平拍镜头；木质墙面；画面右侧人物，身穿白色立领衬衫，站立，视线看向女子，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "右手按在腹部",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑色衣物背景",
+        "description_narrative": "镜头特写女子的右手，手指修长，指甲有装饰，正紧紧按在腹部位置。",
+        "dialogue": "你能进得去吗？相信我。",
+        "speaker": "女子",
+        "emotion": "痛苦",
+        "duration": 8.08,
+        "description_visual": "特写俯拍镜头；黑色衣物背景；画面中央人物，身穿黑色吊带裙，右手按在腹部，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "右手按在腹部，手指微曲",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑色衣物背景",
+        "description_narrative": "女子的手依然按在腹部，动作显示出身体的不适和疼痛感。",
+        "dialogue": "啊，肚子痛。",
+        "speaker": "女子",
+        "emotion": "痛苦",
+        "duration": 1.0,
+        "description_visual": "特写俯拍镜头；黑色衣物背景；画面中央人物，身穿黑色吊带裙，右手按在腹部，手指微曲，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，快速移动",
+                "expression": "眉毛紧锁，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "男子见状迅速做出反应，身体前倾，动作带有明显的动态模糊，似乎要上前搀扶。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头（跟拍）；模糊的室内背景；画面中央人物，身穿白色立领衬衫，身体前倾，快速移动，表情：眉毛紧锁，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面左侧",
+                "action": "弯腰，手臂伸出",
+                "expression": "眉毛紧锁，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "木质墙面，床头柜",
+        "description_narrative": "男子弯腰伸手，动作迅速地将女子抱起或扶住，画面因快速运动而模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "急切",
+        "duration": 6.0,
+        "description_visual": "中景平拍镜头（跟拍）；木质墙面，床头柜；画面左侧人物，身穿白色立领衬衫，弯腰，手臂伸出，表情：眉毛紧锁，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "低头，身体前倾",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "男子低头看着怀中的女子，神情专注且带有担忧，动作轻柔。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "担忧",
+        "duration": 0.68,
+        "description_visual": "近景平拍镜头（跟拍）；模糊的室内背景；画面中央人物，身穿白色立领衬衫，低头，身体前倾，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "躺在床上，闭眼",
+                "expression": "眉毛微蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "白色枕头，床单",
+        "description_narrative": "女子躺在白色的枕头上，双眼紧闭，眉头微皱，显得十分虚弱痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 3.16,
+        "description_visual": "特写俯拍镜头；白色枕头，床单；画面中央人物，身穿黑色吊带裙，躺在床上，闭眼，表情：眉毛微蹙，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面右侧",
+                "action": "站立，右手握住女子左手",
+                "expression": "眉毛微蹙，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面，床头柜上的台灯",
+        "description_narrative": "男子站在床边，右手轻轻握住女子伸出的左手，神情复杂，似乎在低声诉说。",
+        "dialogue": "我们之间有太多。",
+        "speaker": "男子",
+        "emotion": "复杂",
+        "duration": 3.84,
+        "description_visual": "中景平拍镜头；木质墙面，床头柜上的台灯；画面右侧人物，身穿白色立领衬衫，站立，右手握住女子左手，表情：眉毛微蹙，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "站立，头部后仰，闭眼",
+                "expression": "眉毛舒展，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "木质墙面，右侧可见卫生间马桶",
+        "description_narrative": "男子站在床边，头部微微后仰，双眼紧闭，似乎在压抑情绪或感到疲惫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疲惫",
+        "duration": 1.96,
+        "description_visual": "中景平拍镜头；木质墙面，右侧可见卫生间马桶；画面中央人物，身穿白色立领衬衫，站立，头部后仰，闭眼，表情：眉毛舒展，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "躺在床上，闭眼",
+                "expression": "眉毛微蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "白色枕头",
+        "description_narrative": "女子安静地躺在床上，双眼紧闭，睫毛清晰，脸上带着痛苦后的平静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "虚弱",
+        "duration": 1.76,
+        "description_visual": "特写俯拍镜头；白色枕头；画面中央人物，身穿黑色吊带裙，躺在床上，闭眼，表情：眉毛微蹙，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "画面中央",
+                "action": "躺在床上，闭眼",
+                "expression": "眉毛微蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "白色枕头",
+        "description_narrative": "镜头持续聚焦在女子脸上，她依然闭目躺在枕头上，呼吸平稳。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "虚弱",
+        "duration": 1.76,
+        "description_visual": "特写俯拍镜头；白色枕头；画面中央人物，身穿黑色吊带裙，躺在床上，闭眼，表情：眉毛微蹙，眼睛紧闭，嘴巴微张。"
+    }
+]

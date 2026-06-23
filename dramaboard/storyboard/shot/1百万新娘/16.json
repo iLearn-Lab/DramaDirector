@@ -1,0 +1,999 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "模糊的户外小径，光线柔和，色调偏冷。",
+        "description_narrative": "远景镜头，画面模糊，展示了一条户外小径，光线柔和，色调偏冷，营造朦胧氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.22,
+        "description_visual": "远景平拍镜头；模糊的户外小径，光线柔和，色调偏冷。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色T恤搭配蓝色牛仔背带裤",
+                "position": "画面中央",
+                "action": "身体前倾，面带灿烂笑容，伸手递出物品",
+                "expression": "眉毛舒展，眼睛弯成月牙，嘴角上扬露出牙齿"
+            }
+        ],
+        "background": "户外岩石背景，光线自然。",
+        "description_narrative": "中近景，尘非身穿白色T恤和蓝色背带裤，身体前倾，面带灿烂笑容，伸手递出物品，背景为户外岩石。",
+        "dialogue": "给姐姐零花钱，尘非喜欢仙子姐姐。",
+        "speaker": "尘非",
+        "emotion": "开心",
+        "duration": 3.02,
+        "description_visual": "中近景平拍镜头；户外岩石背景，光线自然。；画面中央人物，身穿白色T恤搭配蓝色牛仔背带裤，身体前倾，面带灿烂笑容，伸手递出物品，表情：眉毛舒展，眼睛弯成月牙，嘴角上扬露出牙齿。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "星染",
+                "gender": "女",
+                "clothing": "白色开衫搭配白色连衣裙",
+                "position": "画面左侧",
+                "action": "低头看着手中的卡片，神情专注",
+                "expression": "眉毛微垂，眼睛视线下移，嘴巴微闭"
+            }
+        ],
+        "background": "户外庭院，背景有绿植和建筑。",
+        "description_narrative": "中近景，星染身穿白色开衫和白裙，低头看着手中的卡片，神情专注，背景为户外庭院。",
+        "dialogue": "你。",
+        "speaker": "星染",
+        "emotion": "疑惑",
+        "duration": 2.5,
+        "description_visual": "中近景平拍镜头；户外庭院，背景有绿植和建筑。；画面左侧人物，身穿白色开衫搭配白色连衣裙，低头看着手中的卡片，神情专注，表情：眉毛微垂，眼睛视线下移，嘴巴微闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "拉远",
+        "subjects": [],
+        "background": "高档住宅区，红砖别墅，绿树环绕，阳光明媚。",
+        "description_narrative": "远景俯拍镜头，展示高档住宅区，红砖别墅错落有致，绿树环绕，阳光明媚。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.16,
+        "description_visual": "远景俯拍镜头（拉远）；高档住宅区，红砖别墅，绿树环绕，阳光明媚。。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面右侧",
+                "action": "站立，双手交叠在身前，面向左侧女子",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            },
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面左侧背对镜头",
+                "action": "站立，背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "中式客厅，红木家具，墙上挂有山水画。",
+        "description_narrative": "中景，大嫂身穿米色旗袍站立，双手交叠，面向左侧背对镜头的厉云舒，神情严肃，背景为中式客厅。",
+        "dialogue": "云舒，她是尘非的未婚妻。",
+        "speaker": "大嫂",
+        "emotion": "严肃",
+        "duration": 2.34,
+        "description_visual": "中景平拍镜头；中式客厅，红木家具，墙上挂有山水画。；画面右侧人物，身穿米色花纹旗袍，站立，双手交叠在身前，面向左侧女子，表情：眉毛微蹙，眼睛注视对方，嘴巴微张；画面左侧背对镜头人物，身穿黑色丝绒深V长裙，站立，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面中央",
+                "action": "头部微转，眼神坚定",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张说话"
+            }
+        ],
+        "background": "室内背景模糊，可见木质门窗。",
+        "description_narrative": "特写镜头，大嫂面部表情严肃，头部微转，眼神坚定，强调话语内容。",
+        "dialogue": "她是尘非的未婚妻",
+        "speaker": "大嫂",
+        "emotion": "坚定",
+        "duration": 1.76,
+        "description_visual": "特写平拍镜头；室内背景模糊，可见木质门窗。；画面中央人物，身穿米色花纹旗袍，头部微转，眼神坚定，表情：眉毛微蹙，眼睛睁大，嘴巴微张说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，身体微侧",
+                "expression": "眉毛上扬，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，可见博古架和装饰品。",
+        "description_narrative": "中近景，厉云舒身穿黑色丝绒长裙，双臂交叉抱胸，身体微侧，表情傲慢不屑。",
+        "dialogue": "你可以另外换个房间住",
+        "speaker": "厉云舒",
+        "emotion": "傲慢",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；室内背景，可见博古架和装饰品。；画面中央人物，身穿黑色丝绒深V长裙，双臂交叉抱在胸前，身体微侧，表情：眉毛上扬，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面中央",
+                "action": "双臂交叉，头部微仰",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开说话"
+            }
+        ],
+        "background": "室内背景，博古架模糊可见。",
+        "description_narrative": "中近景，厉云舒双臂交叉，头部微仰，表情愤怒地质问，画面右侧出现金色文字特效。",
+        "dialogue": "凭什么婚都没订成？",
+        "speaker": "厉云舒",
+        "emotion": "愤怒",
+        "duration": 0.54,
+        "description_visual": "中近景平拍镜头；室内背景，博古架模糊可见。；画面中央人物，身穿黑色丝绒深V长裙，双臂交叉，头部微仰，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面右侧",
+                "action": "站立，双手交叠",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面左侧背对镜头",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "中式客厅，前景有模糊的木椅背。",
+        "description_narrative": "中景，大嫂与背对镜头的厉云舒对峙，前景木椅背虚化，字幕显示“算什么未婚妻”。",
+        "dialogue": "算什么未婚妻？",
+        "speaker": "厉云舒",
+        "emotion": "轻蔑",
+        "duration": 2.58,
+        "description_visual": "中景平拍镜头；中式客厅，前景有模糊的木椅背。；画面右侧人物，身穿米色花纹旗袍，站立，双手交叠，表情：表情严肃；画面左侧背对镜头人物，身穿黑色丝绒深V长裙，站立，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面中央",
+                "action": "手指向前方，语气强硬",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴张开命令"
+            }
+        ],
+        "background": "室内背景，木质门窗。",
+        "description_narrative": "特写镜头，大嫂手指向前方，语气强硬地命令，表情严厉。",
+        "dialogue": "立刻把她的东西给我搬走",
+        "speaker": "大嫂",
+        "emotion": "严厉",
+        "duration": 2.44,
+        "description_visual": "特写平拍镜头；室内背景，木质门窗。；画面中央人物，身穿米色花纹旗袍，手指向前方，语气强硬，表情：眉毛紧锁，眼睛瞪视，嘴巴张开命令。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面右侧走入",
+                "action": "迈步走进客厅，看向两位女性",
+                "expression": "表情平静"
+            },
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "看向司霆"
+            },
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "看向司霆"
+            }
+        ],
+        "background": "宽敞的中式客厅，天花板有彩绘，红木家具。",
+        "description_narrative": "全景镜头，司霆身穿深蓝色西装从右侧走入客厅，看向大嫂和厉云舒，询问情况。",
+        "dialogue": "三姐，你怎么突然回国了？",
+        "speaker": "司霆",
+        "emotion": "平静",
+        "duration": 2.24,
+        "description_visual": "全景平拍镜头（跟拍）；宽敞的中式客厅，天花板有彩绘，红木家具。；画面右侧走入人物，身穿深蓝色西装，迈步走进客厅，看向两位女性，表情：表情平静；画面左侧人物，身穿米色花纹旗袍，站立，表情：看向司霆；画面左侧人物，身穿黑色丝绒深V长裙，站立，表情：看向司霆。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面中央",
+                "action": "双臂交叉，转头看向司霆",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，博古架。",
+        "description_narrative": "中近景，厉云舒双臂交叉，转头看向司霆，表情略带委屈和质问。",
+        "dialogue": "司霆，我才出国多久？",
+        "speaker": "厉云舒",
+        "emotion": "委屈",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；室内背景，博古架。；画面中央人物，身穿黑色丝绒深V长裙，双臂交叉，转头看向司霆，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面中央",
+                "action": "站立，眼神无奈",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，木质门窗。",
+        "description_narrative": "特写镜头，大嫂站立，眼神无奈，似乎在解释房间被占用的情况。",
+        "dialogue": "我的房间就让别人住了。",
+        "speaker": "厉云舒",
+        "emotion": "不满",
+        "duration": 2.38,
+        "description_visual": "特写平拍镜头；室内背景，木质门窗。；画面中央人物，身穿米色花纹旗袍，站立，眼神无奈，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "星染",
+                "gender": "女",
+                "clothing": "棕色高领衫搭配白色开衫",
+                "position": "画面中央",
+                "action": "站立，神情淡漠",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，光线较亮。",
+        "description_narrative": "特写镜头，星染身穿棕色高领衫和白色开衫，站立神情淡漠，背景光线明亮。",
+        "dialogue": "星染怎么说也是尘非的未婚妻",
+        "speaker": "大嫂",
+        "emotion": "维护",
+        "duration": 2.9,
+        "description_visual": "特写平拍镜头；室内背景，光线较亮。；画面中央人物，身穿棕色高领衫搭配白色开衫，站立，神情淡漠，表情：眉毛平展，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面右侧",
+                "action": "站立，双手交叠",
+                "expression": "表情无奈"
+            },
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面左侧",
+                "action": "站立，侧身",
+                "expression": "表情不悦"
+            }
+        ],
+        "background": "中式客厅，前景木椅背虚化。",
+        "description_narrative": "中景，大嫂站立解释，厉云舒侧身站立表情不悦，前景木椅背虚化。",
+        "dialogue": "她住云舒的房间，没什么大事。",
+        "speaker": "大嫂",
+        "emotion": "无奈",
+        "duration": 2.64,
+        "description_visual": "中景平拍镜头；中式客厅，前景木椅背虚化。；画面右侧人物，身穿米色花纹旗袍，站立，双手交叠，表情：表情无奈；画面左侧人物，身穿黑色丝绒深V长裙，站立，侧身，表情：表情不悦。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面中央",
+                "action": "双臂交叉，眉头紧锁",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，博古架。",
+        "description_narrative": "中近景，厉云舒双臂交叉，眉头紧锁，表情愤怒地反驳。",
+        "dialogue": "可是云舒偏要计较",
+        "speaker": "大嫂",
+        "emotion": "责备",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；室内背景，博古架。；画面中央人物，身穿黑色丝绒深V长裙，双臂交叉，眉头紧锁，表情：眉毛紧蹙，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "低头，手插口袋",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，可见门和花瓶。",
+        "description_narrative": "中近景，司霆身穿深蓝色西装，低头手插口袋，出声制止争吵。",
+        "dialogue": "大嫂你说谁计较呢？行了。",
+        "speaker": "厉云舒，司霆",
+        "emotion": "不耐烦",
+        "duration": 2.8,
+        "description_visual": "中近景平拍镜头；室内背景，可见门和花瓶。；画面中央人物，身穿深蓝色西装，低头，手插口袋，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面中央",
+                "action": "眼神惊讶，嘴巴微张",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，木质门窗。",
+        "description_narrative": "特写镜头，大嫂眼神惊讶，嘴巴微张，对司霆的提议感到意外。",
+        "dialogue": "让她住霆苑，把房间还给三姐。",
+        "speaker": "司霆",
+        "emotion": "惊讶",
+        "duration": 5.54,
+        "description_visual": "特写平拍镜头；室内背景，木质门窗。；画面中央人物，身穿米色花纹旗袍，眼神惊讶，嘴巴微张，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面中央",
+                "action": "双臂交叉，表情赞同",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，博古架。",
+        "description_narrative": "中近景，厉云舒双臂交叉，表情赞同地点头，表示支持大嫂的观点。",
+        "dialogue": "那怎么行？她住霆苑这不合礼数啊。",
+        "speaker": "大嫂",
+        "emotion": "反对",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；室内背景，博古架。；画面中央人物，身穿黑色丝绒深V长裙，双臂交叉，表情赞同，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "站立，手插口袋",
+                "expression": "表情平静，眼神坚定"
+            }
+        ],
+        "background": "室内背景，门和花瓶。",
+        "description_narrative": "中近景，司霆站立，手插口袋，表情平静地表示赞同。",
+        "dialogue": "我也觉得不好。",
+        "speaker": "司霆",
+        "emotion": "平静",
+        "duration": 2.26,
+        "description_visual": "中近景平拍镜头；室内背景，门和花瓶。；画面中央人物，身穿深蓝色西装，站立，手插口袋，表情：表情平静，眼神坚定。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒深V长裙",
+                "position": "画面中央",
+                "action": "双臂交叉，表情得意",
+                "expression": "眉毛舒展，眼睛斜视，嘴角微扬"
+            }
+        ],
+        "background": "室内背景，博古架。",
+        "description_narrative": "中近景，厉云舒双臂交叉，表情得意地提出解决方案。",
+        "dialogue": "那就让她继续住三姐的房间",
+        "speaker": "厉云舒",
+        "emotion": "得意",
+        "duration": 1.06,
+        "description_visual": "中近景平拍镜头；室内背景，博古架。；画面中央人物，身穿黑色丝绒深V长裙，双臂交叉，表情得意，表情：眉毛舒展，眼睛斜视，嘴角微扬。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "侧脸，眼神冷峻",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，光线明亮。",
+        "description_narrative": "特写侧拍镜头，司霆侧脸，眼神冷峻地拒绝。",
+        "dialogue": "不行。",
+        "speaker": "司霆",
+        "emotion": "冷峻",
+        "duration": 2.7,
+        "description_visual": "特写侧拍镜头；室内背景，光线明亮。；画面中央人物，身穿深蓝色西装，侧脸，眼神冷峻，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面右侧",
+                "action": "转身看向星染",
+                "expression": "表情温和"
+            },
+            {
+                "name": "星染",
+                "gender": "女",
+                "clothing": "白色开衫搭配牛仔裤",
+                "position": "画面左侧",
+                "action": "手提行李箱，看向司霆",
+                "expression": "表情疑惑"
+            }
+        ],
+        "background": "室内走廊，可见雕塑。",
+        "description_narrative": "中景跟拍，司霆转身看向手提行李箱的星染，邀请她跟自己走。",
+        "dialogue": "这没房间了，星染跟我走吧。",
+        "speaker": "司霆",
+        "emotion": "温和",
+        "duration": 1.14,
+        "description_visual": "中景平拍镜头（跟拍）；室内走廊，可见雕塑。；画面右侧人物，身穿深蓝色西装，转身看向星染，表情：表情温和；画面左侧人物，身穿白色开衫搭配牛仔裤，手提行李箱，看向司霆，表情：表情疑惑。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "头部微转",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，圆形灯光模糊。",
+        "description_narrative": "特写镜头，司霆头部微转，听到星染的称呼。",
+        "dialogue": "小叔。",
+        "speaker": "星染",
+        "emotion": "犹豫",
+        "duration": 2.3,
+        "description_visual": "特写平拍镜头；室内背景，圆形灯光模糊。；画面中央人物，身穿深蓝色西装，头部微转，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "星染",
+                "gender": "女",
+                "clothing": "白色开衫搭配棕色高领衫",
+                "position": "画面左侧",
+                "action": "皱眉，看向司霆",
+                "expression": "眉毛紧蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，白色墙壁。",
+        "description_narrative": "过肩中近景，星染皱眉看向司霆，提出去住他那里。",
+        "dialogue": "我去住你那里。",
+        "speaker": "星染",
+        "emotion": "坚定",
+        "duration": 1.48,
+        "description_visual": "中近景过肩镜头；室内背景，白色墙壁。；画面左侧人物，身穿白色开衫搭配棕色高领衫，皱眉，看向司霆，表情：眉毛紧蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛平展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，花瓶模糊。",
+        "description_narrative": "中近景，司霆站立，表情严肃地表示担忧。",
+        "dialogue": "恐怕不太妥当吧。",
+        "speaker": "星染",
+        "emotion": "担忧",
+        "duration": 3.02,
+        "description_visual": "中近景平拍镜头；室内背景，花瓶模糊。；画面中央人物，身穿深蓝色西装，站立，表情严肃，表情：眉毛平展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "眼神坚定，解释安排",
+                "expression": "眉毛微挑，眼睛注视，嘴巴张开说话"
+            }
+        ],
+        "background": "室内背景，圆形灯光。",
+        "description_narrative": "特写镜头，司霆眼神坚定，解释分层居住的安排。",
+        "dialogue": "没什么不妥的，你住三楼，我住二楼。",
+        "speaker": "司霆",
+        "emotion": "坚定",
+        "duration": 3.12,
+        "description_visual": "特写平拍镜头；室内背景，圆形灯光。；画面中央人物，身穿深蓝色西装，眼神坚定，解释安排，表情：眉毛微挑，眼睛注视，嘴巴张开说话。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "星染",
+                "gender": "女",
+                "clothing": "白色开衫搭配牛仔裤",
+                "position": "画面左侧",
+                "action": "站立，手提行李箱",
+                "expression": "表情平静"
+            },
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面右侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内走廊，可见中式门窗。",
+        "description_narrative": "中景，星染手提行李箱站立，司霆背对镜头，星染表示不用担心。",
+        "dialogue": "各自一方天地，没什么好担心的。",
+        "speaker": "司霆",
+        "emotion": "安抚",
+        "duration": 2.92,
+        "description_visual": "中景平拍镜头；室内走廊，可见中式门窗。；画面左侧人物，身穿白色开衫搭配牛仔裤，站立，手提行李箱，表情：表情平静；画面右侧人物，身穿深蓝色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "星染",
+                "gender": "女",
+                "clothing": "白色开衫搭配棕色高领衫",
+                "position": "画面中央",
+                "action": "侧身站立，眼神看向一侧",
+                "expression": "眉毛平展，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，木质家具。",
+        "description_narrative": "中近景，星染侧身站立，眼神看向一侧，神情若有所思。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 3.18,
+        "description_visual": "中近景平拍镜头；室内背景，木质家具。；画面中央人物，身穿白色开衫搭配棕色高领衫，侧身站立，眼神看向一侧，表情：眉毛平展，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "尘非",
+                "gender": "男",
+                "clothing": "白色T恤搭配蓝色背带裤",
+                "position": "画面左侧",
+                "action": "坐在餐桌旁",
+                "expression": "抬头"
+            },
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面左侧",
+                "action": "坐在餐桌旁",
+                "expression": "看向司霆"
+            },
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面右侧",
+                "action": "坐在餐桌旁",
+                "expression": "看向家人"
+            },
+            {
+                "name": "星染",
+                "gender": "女",
+                "clothing": "白色开衫",
+                "position": "画面右下",
+                "action": "坐在餐桌旁",
+                "expression": "低头"
+            },
+            {
+                "name": "厉云舒",
+                "gender": "女",
+                "clothing": "黑色丝绒长裙",
+                "position": "画面右侧",
+                "action": "坐在餐桌旁",
+                "expression": "看向司霆"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央后",
+                "action": "坐在餐桌旁",
+                "expression": "看向司霆"
+            },
+            {
+                "name": "家人",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面中央左",
+                "action": "坐在餐桌旁",
+                "expression": "看向司霆"
+            }
+        ],
+        "background": "餐厅，圆形餐桌，天花板彩绘，吊灯。",
+        "description_narrative": "全景俯拍，一家人围坐在圆形餐桌旁用餐，有人询问司霆为何晚归。",
+        "dialogue": "司霆你最近都忙到这么晚啊。",
+        "speaker": "家人",
+        "emotion": "关心",
+        "duration": 2.74,
+        "description_visual": "全景俯拍镜头；餐厅，圆形餐桌，天花板彩绘，吊灯。；画面左侧人物，身穿白色T恤搭配蓝色背带裤，坐在餐桌旁，表情：抬头；画面左侧人物，身穿米色花纹旗袍，坐在餐桌旁，表情：看向司霆；画面右侧人物，身穿深蓝色西装，坐在餐桌旁，表情：看向家人；画面右下人物，身穿白色开衫，坐在餐桌旁，表情：低头；画面右侧人物，身穿黑色丝绒长裙，坐在餐桌旁，表情：看向司霆；画面中央后人物，身穿黑色上衣，坐在餐桌旁，表情：看向司霆；画面中央左人物，身穿深色西装，坐在餐桌旁，表情：看向司霆。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "手持筷子，侧头解释",
+                "expression": "眉毛微蹙，眼睛侧视，嘴巴微张"
+            }
+        ],
+        "background": "餐桌旁，背景模糊。",
+        "description_narrative": "中近景，司霆手持筷子，侧头解释秘书休产假导致忙碌。",
+        "dialogue": "之前那个秘书休产假了，现在只剩下一个秘书，实在是忙不过来。",
+        "speaker": "司霆",
+        "emotion": "无奈",
+        "duration": 4.66,
+        "description_visual": "中近景平拍镜头；餐桌旁，背景模糊。；画面中央人物，身穿深蓝色西装，手持筷子，侧头解释，表情：眉毛微蹙，眼睛侧视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "手持勺子，建议",
+                "expression": "眉毛平展，眼睛微眯，嘴巴微张"
+            }
+        ],
+        "background": "餐桌旁，背景模糊。",
+        "description_narrative": "中近景，奶奶手持勺子，建议再找一个秘书。",
+        "dialogue": "那就再找一个，也不能什么事都自己处理的吧。",
+        "speaker": "奶奶",
+        "emotion": "慈祥",
+        "duration": 3.86,
+        "description_visual": "中近景平拍镜头；餐桌旁，背景模糊。；画面中央人物，身穿黑色上衣，手持勺子，建议，表情：眉毛平展，眼睛微眯，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "手持筷子，看向星染",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "餐桌旁。",
+        "description_narrative": "中近景，司霆手持筷子，看向星染，提起她的专业。",
+        "dialogue": "好像星染大学。",
+        "speaker": "奶奶",
+        "emotion": "提议",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；餐桌旁。；画面中央人物，身穿深蓝色西装，手持筷子，看向星染，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "星染",
+                "gender": "女",
+                "clothing": "白色开衫搭配棕色高领衫",
+                "position": "画面中央",
+                "action": "手持碗筷，神情平静",
+                "expression": "眉毛平展，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "餐桌旁。",
+        "description_narrative": "中近景，星染手持碗筷，神情平静地听着。",
+        "dialogue": "学就是这个专业。",
+        "speaker": "奶奶",
+        "emotion": "平静",
+        "duration": 1.84,
+        "description_visual": "中近景平拍镜头；餐桌旁。；画面中央人物，身穿白色开衫搭配棕色高领衫，手持碗筷，神情平静，表情：眉毛平展，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "司霆",
+                "gender": "男",
+                "clothing": "深蓝色西装",
+                "position": "画面中央",
+                "action": "手持筷子，提议",
+                "expression": "眉毛微挑，眼睛注视，嘴巴张开说话"
+            }
+        ],
+        "background": "餐桌旁。",
+        "description_narrative": "中近景，司霆手持筷子，提议让星染帮忙。",
+        "dialogue": "反正她在家里没什么事情，不如让她去帮我的忙。",
+        "speaker": "司霆",
+        "emotion": "提议",
+        "duration": 2.34,
+        "description_visual": "中近景平拍镜头；餐桌旁。；画面中央人物，身穿深蓝色西装，手持筷子，提议，表情：眉毛微挑，眼睛注视，嘴巴张开说话。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "星染",
+                "gender": "女",
+                "clothing": "白色开衫搭配棕色高领衫",
+                "position": "画面中央",
+                "action": "手持碗筷，看向司霆",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "餐桌旁。",
+        "description_narrative": "中近景，星染手持碗筷，看向司霆，表情略显惊讶。",
+        "dialogue": "不行。",
+        "speaker": "大嫂",
+        "emotion": "反对",
+        "duration": 1.32,
+        "description_visual": "中近景平拍镜头；餐桌旁。；画面中央人物，身穿白色开衫搭配棕色高领衫，手持碗筷，看向司霆，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面中央",
+                "action": "坐在餐桌旁，摆手",
+                "expression": "眉毛紧蹙，眼睛注视，嘴巴张开拒绝"
+            }
+        ],
+        "background": "餐桌旁。",
+        "description_narrative": "中近景，大嫂坐在餐桌旁，摆手拒绝，表示星染需要陪尘非。",
+        "dialogue": "星染还得在家陪尘非呢。",
+        "speaker": "大嫂",
+        "emotion": "坚决",
+        "duration": 2.64,
+        "description_visual": "中近景平拍镜头；餐桌旁。；画面中央人物，身穿米色花纹旗袍，坐在餐桌旁，摆手，表情：眉毛紧蹙，眼睛注视，嘴巴张开拒绝。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面中央",
+                "action": "表情严肃",
+                "expression": "眉毛平展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "餐桌旁，光线过曝。",
+        "description_narrative": "特写镜头，大嫂表情严肃，画面光线过曝，转场效果。",
+        "dialogue": "嗯。",
+        "speaker": "星染",
+        "emotion": "顺从",
+        "duration": 0.34,
+        "description_visual": "特写平拍镜头；餐桌旁，光线过曝。；画面中央人物，身穿米色花纹旗袍，表情严肃，表情：眉毛平展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色背景，光线强烈。",
+        "description_narrative": "特写镜头，画面全白，光线强烈，作为转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.22,
+        "description_visual": "特写平拍镜头；白色背景，光线强烈。。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "大嫂",
+                "gender": "女",
+                "clothing": "米色花纹旗袍",
+                "position": "画面中央",
+                "action": "坐在餐桌旁，表情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "餐桌旁，右侧有金色文字特效。",
+        "description_narrative": "中近景，大嫂坐在餐桌旁，表情惊讶，画面右侧出现“未完待续”金色文字特效。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 0.52,
+        "description_visual": "中近景平拍镜头；餐桌旁，右侧有金色文字特效。；画面中央人物，身穿米色花纹旗袍，坐在餐桌旁，表情惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    }
+]

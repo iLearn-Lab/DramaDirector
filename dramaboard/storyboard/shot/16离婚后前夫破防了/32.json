@@ -1,0 +1,867 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "背景右侧站立",
+                "action": "站立并面向众人",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            },
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面左侧 seated",
+                "action": "坐在会议桌旁",
+                "expression": "表情平静，目视前方"
+            },
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面左侧 seated",
+                "action": "坐在灰衣女子旁边",
+                "expression": "低头，神情凝重"
+            },
+            {
+                "name": "光头男子",
+                "gender": "男",
+                "clothing": "黑色长袖衫",
+                "position": "画面左侧 seated",
+                "action": "坐在桌旁",
+                "expression": "侧脸，神情专注"
+            }
+        ],
+        "background": "现代化会议室，长桌，暖色灯光，墙上有音箱",
+        "description_narrative": "全景镜头展示会议室，西装男子站在背景右侧向大家宣布图纸泄露的消息，灰衣女子、米衣女子和光头男子等人坐在长桌旁聆听，气氛紧张。",
+        "dialogue": "璀璨系列首发的图纸泄露了。",
+        "speaker": "西装男子",
+        "emotion": "严肃",
+        "duration": 1.76,
+        "description_visual": "全景平拍镜头；现代化会议室，长桌，暖色灯光，墙上有音箱；背景右侧站立人物，身穿黑色双排扣西装，站立并面向众人，表情：眉毛微蹙，眼神严肃，嘴巴微张；画面左侧 seated人物，身穿灰色衬衫内搭黑色高领衫，坐在会议桌旁，表情：表情平静，目视前方；画面左侧 seated人物，身穿米色针织开衫，坐在灰衣女子旁边，表情：低头，神情凝重；画面左侧 seated人物，身穿黑色长袖衫，坐在桌旁，表情：侧脸，神情专注。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "低头看着桌上的图纸",
+                "expression": "眉毛微垂，眼神下移，嘴唇紧闭"
+            }
+        ],
+        "background": "会议室桌面，放有设计图纸",
+        "description_narrative": "镜头切至灰衣女子近景，她低头看着桌上的图纸，神情专注，此时画外音响起继续描述泄露情况。",
+        "dialogue": "我看传的到处都是。",
+        "speaker": "西装男子 (画外音)",
+        "emotion": "冷静",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；会议室桌面，放有设计图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，低头看着桌上的图纸，表情：眉毛微垂，眼神下移，嘴唇紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "身体前倾，双手撑在桌上或膝盖上",
+                "expression": "眉头紧锁，眼神凌厉，嘴巴微张"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "镜头低角度拍摄西装男子，他身体前倾，表情愤怒地质问众人。",
+        "dialogue": "你们干什么吃的？",
+        "speaker": "西装男子",
+        "emotion": "愤怒",
+        "duration": 1.24,
+        "description_visual": "中近景低角度镜头（推进）；会议室浅色墙壁；画面中央人物，身穿黑色双排扣西装，身体前倾，双手撑在桌上或膝盖上，表情：眉头紧锁，眼神凌厉，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "双手交握放在桌上，低头",
+                "expression": "眉毛低垂，眼神躲闪，嘴唇紧闭"
+            }
+        ],
+        "background": "会议室浅色墙壁，米色椅子",
+        "description_narrative": "镜头给到米衣女子近景，她双手交握，低头不语，显得有些心虚或沉重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉重",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；会议室浅色墙壁，米色椅子；画面中央人物，身穿米色针织开衫，双手交握放在桌上，低头，表情：眉毛低垂，眼神躲闪，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面左侧站立",
+                "action": "站起身来，面向众人",
+                "expression": "表情严肃，嘴巴微张"
+            },
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面右侧 seated",
+                "action": "坐在桌旁",
+                "expression": "看着米衣女子"
+            }
+        ],
+        "background": "会议室长桌，绿植，纸巾盒",
+        "description_narrative": "全景镜头，米衣女子站起身来，神情激动地强调璀璨系列的重要性。",
+        "dialogue": "璀璨系列，是我们两家的心血。",
+        "speaker": "米衣女子",
+        "emotion": "激动",
+        "duration": 2.52,
+        "description_visual": "全景平拍镜头；会议室长桌，绿植，纸巾盒；画面左侧站立人物，身穿米色针织开衫，站起身来，面向众人，表情：表情严肃，嘴巴微张；画面右侧 seated人物，身穿黑色双排扣西装，坐在桌旁，表情：看着米衣女子。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "坐在桌前，手扶图纸",
+                "expression": "眉毛微挑，眼神直视前方，嘴唇微张"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "镜头切回灰衣女子，她神情冷静，画外音传来米衣女子的指责，询问后果。",
+        "dialogue": "现在图纸泄露，损失千万。这后果你承担得起吗？",
+        "speaker": "米衣女子 (画外音)",
+        "emotion": "冷静",
+        "duration": 4.32,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，坐在桌前，手扶图纸，表情：眉毛微挑，眼神直视前方，嘴唇微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "低头整理图纸，手指轻触纸面",
+                "expression": "眉毛舒展，眼神下移，嘴唇微动"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子低头否认泄露，画外音中米衣女子反驳说只有她知道密码，灰衣女子随即建议调记录。",
+        "dialogue": "不是我。图纸是绝密文件，只有你知道密码。那不是你能是谁呢？可以去调记录。",
+        "speaker": "灰衣女子",
+        "emotion": "镇定",
+        "duration": 7.52,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，低头整理图纸，手指轻触纸面，表情：眉毛舒展，眼神下移，嘴唇微动。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "光头男子",
+                "gender": "男",
+                "clothing": "黑色长袖衫",
+                "position": "画面中央",
+                "action": "双手交叉放在桌上，身体微侧",
+                "expression": "眉毛平直，眼神看向一侧，嘴唇紧闭"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "光头男子汇报调查结果，表示记录已被删除。",
+        "dialogue": "调过了，都被删除了。",
+        "speaker": "光头男子",
+        "emotion": "严肃",
+        "duration": 2.0,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿黑色长袖衫，双手交叉放在桌上，身体微侧，表情：眉毛平直，眼神看向一侧，嘴唇紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，侧身",
+                "expression": "眉毛微蹙，眼神斜视，嘴角微撇"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "米衣女子双臂交叉，神情不屑，画外音传来灰衣女子的声音，表示怀疑可以但要有理由。",
+        "dialogue": "哼，你们怀疑我可以。",
+        "speaker": "灰衣女子 (画外音)",
+        "emotion": "不屑",
+        "duration": 3.36,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，双臂交叉抱在胸前，侧身，表情：眉毛微蹙，眼神斜视，嘴角微撇。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "单手抬起做手势，身体微前倾",
+                "expression": "眉毛上扬，眼神坚定，嘴巴微张"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子抬手反问大家，字幕显示“我有什么理由”。",
+        "dialogue": "但是我想请问大家。",
+        "speaker": "灰衣女子",
+        "emotion": "质问",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，单手抬起做手势，身体微前倾，表情：眉毛上扬，眼神坚定，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "双臂交叉，低头",
+                "expression": "眉毛低垂，眼神下移，嘴唇紧闭"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "镜头给到米衣女子，她双臂交叉低头，画外音继续灰衣女子的反问，质问自己有何理由做损人不利己的事。",
+        "dialogue": "我有必要去做这种损人不利己的事情呢？",
+        "speaker": "灰衣女子 (画外音)",
+        "emotion": "理直气壮",
+        "duration": 2.8,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，双臂交叉，低头，表情：眉毛低垂，眼神下移，嘴唇紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "手扶图纸，身体微侧",
+                "expression": "眉毛微蹙，眼神看向一侧，嘴唇微张"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子看着对方，画外音传来米衣女子的反问“怎么不利己了”。",
+        "dialogue": "怎么不利己了",
+        "speaker": "米衣女子 (画外音)",
+        "emotion": "质疑",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，手扶图纸，身体微侧，表情：眉毛微蹙，眼神看向一侧，嘴唇微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "双手微抬，身体前倾",
+                "expression": "眉毛上扬，眼神直视，嘴巴微张"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "米衣女子身体前倾，指责灰衣女子本来就跟她有仇。",
+        "dialogue": "你本来就跟我有仇。",
+        "speaker": "米衣女子",
+        "emotion": "指责",
+        "duration": 1.44,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，双手微抬，身体前倾，表情：眉毛上扬，眼神直视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "手扶图纸，眼神坚定",
+                "expression": "眉毛平直，眼神直视，嘴唇微闭"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子神情冷静，画外音传来米衣女子的指控，说她趁机报复，害苏家损失。",
+        "dialogue": "你现在趁机报复。",
+        "speaker": "米衣女子 (画外音)",
+        "emotion": "冷静",
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，手扶图纸，眼神坚定，表情：眉毛平直，眼神直视，嘴唇微闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "身体站立，微微前倾",
+                "expression": "眉毛微蹙，眼神犀利，嘴巴微张"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "米衣女子站着继续指责，说害苏家蒙受损失。",
+        "dialogue": "害我们苏家蒙受损失。",
+        "speaker": "米衣女子",
+        "emotion": "愤怒",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，身体站立，微微前倾，表情：眉毛微蹙，眼神犀利，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "双手交叉放在桌上",
+                "expression": "眉毛舒展，眼神平静，嘴唇微张"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子双手交叉，神情淡然，画外音传来米衣女子说“也不是不可能”。",
+        "dialogue": "也不是不可能。",
+        "speaker": "米衣女子 (画外音)",
+        "emotion": "淡然",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，双手交叉放在桌上，表情：眉毛舒展，眼神平静，嘴唇微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "双手交叉，身体微前倾",
+                "expression": "眉毛微挑，眼神锐利，嘴巴微张"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子反击，说也可以指控对方骗取违约金，贼喊捉贼。",
+        "dialogue": "那我也可以说，你是在骗取九州之星的违约金，贼喊捉贼。",
+        "speaker": "灰衣女子",
+        "emotion": "反击",
+        "duration": 4.92,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，双手交叉，身体微前倾，表情：眉毛微挑，眼神锐利，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "身体微侧，表情惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "米衣女子被指控后，表情惊讶地反驳说“你胡说”。",
+        "dialogue": "你胡说。",
+        "speaker": "米衣女子",
+        "emotion": "惊讶",
+        "duration": 1.12,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，身体微侧，表情惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "双手交叉，眼神坚定",
+                "expression": "眉毛平直，眼神直视，嘴唇微动"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子冷静回应，说谁在胡说对方心里清楚。",
+        "dialogue": "谁在胡说，你自己心里清楚。",
+        "speaker": "灰衣女子",
+        "emotion": "坚定",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，双手交叉，眼神坚定，表情：眉毛平直，眼神直视，嘴唇微动。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "手扶图纸，身体微侧",
+                "expression": "眉毛舒展，眼神自信，嘴巴微张"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子继续说，况且就算要对付对方。",
+        "dialogue": "况且，就算我要对付你。",
+        "speaker": "灰衣女子",
+        "emotion": "自信",
+        "duration": 2.32,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，手扶图纸，身体微侧，表情：眉毛舒展，眼神自信，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "身体微侧，表情震惊",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "米衣女子表情震惊，画外音传来灰衣女子的话“我会用这种低级的手段吗”。",
+        "dialogue": "我会用这种低级的手段吗？",
+        "speaker": "灰衣女子 (画外音)",
+        "emotion": "震惊",
+        "duration": 2.04,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，身体微侧，表情震惊，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "身体前倾，手指微动",
+                "expression": "眉毛紧蹙，眼神愤怒，嘴巴微张"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "米衣女子愤怒地质问，说对方居然说国际顶尖大师夜先生的设计低级。",
+        "dialogue": "你居然说，国际顶尖大师夜先生的设计低级。",
+        "speaker": "米衣女子",
+        "emotion": "愤怒",
+        "duration": 3.4,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，身体前倾，手指微动，表情：眉毛紧蹙，眼神愤怒，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "手扶图纸，眼神平静",
+                "expression": "眉毛舒展，眼神下移，嘴唇微闭"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子神情平静，画外音传来米衣女子的质问“你知不知道”。",
+        "dialogue": "你知不知道？",
+        "speaker": "米衣女子 (画外音)",
+        "emotion": "平静",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，手扶图纸，眼神平静，表情：眉毛舒展，眼神下移，嘴唇微闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "身体微侧，表情得意",
+                "expression": "眉毛上扬，眼神自信，嘴巴微张"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "米衣女子得意地说好几个外国政要都发邮件向夜先生求手稿。",
+        "dialogue": "好几个外国政要，都亲自发邮件向他求手稿。",
+        "speaker": "米衣女子",
+        "emotion": "得意",
+        "duration": 3.08,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，身体微侧，表情得意，表情：眉毛上扬，眼神自信，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "双手交叉，嘴角微扬",
+                "expression": "眉毛舒展，眼神含笑，嘴唇微闭"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子嘴角微扬，画外音传来米衣女子的话“你以为你和夜先生”。",
+        "dialogue": "你以为你和夜先生",
+        "speaker": "米衣女子 (画外音)",
+        "emotion": "微笑",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，双手交叉，嘴角微扬，表情：眉毛舒展，眼神含笑，嘴唇微闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "双臂交叉，身体微侧",
+                "expression": "眉毛微蹙，眼神轻蔑，嘴巴微张"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "米衣女子双臂交叉，说签了独家就可以有恃无恐了。",
+        "dialogue": "签了独家，就可以有恃无恐了。",
+        "speaker": "米衣女子",
+        "emotion": "轻蔑",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，双臂交叉，身体微侧，表情：眉毛微蹙，眼神轻蔑，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "双手交叉，眼神坚定",
+                "expression": "眉毛平直，眼神直视，嘴唇微闭"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子神情坚定，画外音传来米衣女子的警告，说这样做只会让夜先生对九州失望。",
+        "dialogue": "我告诉你，你这么做，只会让他对九州失望。",
+        "speaker": "米衣女子 (画外音)",
+        "emotion": "坚定",
+        "duration": 2.56,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，双手交叉，眼神坚定，表情：眉毛平直，眼神直视，嘴唇微闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "手翻动图纸",
+                "expression": "眉毛舒展，眼神下移，嘴巴微张"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子翻动图纸，淡淡地说“你言重了”。",
+        "dialogue": "你言重了。",
+        "speaker": "灰衣女子",
+        "emotion": "淡然",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，手翻动图纸，表情：眉毛舒展，眼神下移，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "双手交叉放在腿上，身体微侧",
+                "expression": "眉毛平直，眼神看向一侧，嘴唇微闭"
+            }
+        ],
+        "background": "会议室木门",
+        "description_narrative": "西装男子开口，说“这样的手稿”。",
+        "dialogue": "这样的手稿。",
+        "speaker": "西装男子",
+        "emotion": "平静",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；会议室木门；画面中央人物，身穿黑色双排扣西装，双手交叉放在腿上，身体微侧，表情：眉毛平直，眼神看向一侧，嘴唇微闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "双手交叉，身体端正",
+                "expression": "眉毛舒展，眼神平静，嘴唇微动"
+            }
+        ],
+        "background": "会议室木门",
+        "description_narrative": "西装男子继续说“我还有很多”，暗示自己才是设计师。",
+        "dialogue": "我还有很多。",
+        "speaker": "西装男子",
+        "emotion": "自信",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；会议室木门；画面中央人物，身穿黑色双排扣西装，双手交叉，身体端正，表情：眉毛舒展，眼神平静，嘴唇微动。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米衣女子",
+                "gender": "女",
+                "clothing": "米色针织开衫",
+                "position": "画面中央",
+                "action": "身体微侧，嘴角上扬",
+                "expression": "眉毛舒展，眼神轻蔑，嘴角上扬"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "米衣女子不以为然，说大不了再选一款生产就好了。",
+        "dialogue": "大不了再选一款，生产就好了。",
+        "speaker": "米衣女子",
+        "emotion": "轻蔑",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿米色针织开衫，身体微侧，嘴角上扬，表情：眉毛舒展，眼神轻蔑，嘴角上扬。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰衣女子",
+                "gender": "女",
+                "clothing": "灰色衬衫内搭黑色高领衫",
+                "position": "画面中央",
+                "action": "手扶桌面，眼神锐利",
+                "expression": "眉毛微蹙，眼神直视，嘴唇微张"
+            }
+        ],
+        "background": "会议室桌面，图纸",
+        "description_narrative": "灰衣女子反问，说“你以为，什么阿猫阿狗的设计”。",
+        "dialogue": "你以为，什么阿猫阿狗的设计，",
+        "speaker": "灰衣女子",
+        "emotion": "反问",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；会议室桌面，图纸；画面中央人物，身穿灰色衬衫内搭黑色高领衫，手扶桌面，眼神锐利，表情：眉毛微蹙，眼神直视，嘴唇微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "双手交叉，低头",
+                "expression": "眉毛低垂，眼神下移，嘴唇微闭"
+            }
+        ],
+        "background": "会议室桌面",
+        "description_narrative": "西装男子低头，画外音传来灰衣女子的话“都能来碰瓷夜先生”，字幕显示“是吗”。",
+        "dialogue": "都能来碰瓷夜先生。",
+        "speaker": "灰衣女子 (画外音)",
+        "emotion": "质疑",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；会议室桌面；画面中央人物，身穿黑色双排扣西装，双手交叉，低头，表情：眉毛低垂，眼神下移，嘴唇微闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "双手交叉，抬头",
+                "expression": "眉毛舒展，眼神直视，嘴巴微张"
+            }
+        ],
+        "background": "会议室桌面",
+        "description_narrative": "西装男子抬头说“是吗？建议你先看看图纸”。",
+        "dialogue": "是吗？建议你先看看图纸。",
+        "speaker": "西装男子",
+        "emotion": "自信",
+        "duration": 1.76,
+        "description_visual": "中近景平拍镜头；会议室桌面；画面中央人物，身穿黑色双排扣西装，双手交叉，抬头，表情：眉毛舒展，眼神直视，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "画面转为白色，无内容。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；白色屏幕。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色双排扣西装",
+                "position": "画面中央",
+                "action": "双手交叉，神情沉稳",
+                "expression": "眉毛平直，眼神平静，嘴唇紧闭"
+            }
+        ],
+        "background": "会议室浅色墙壁",
+        "description_narrative": "镜头切回西装男子，他神情沉稳地坐在桌前。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉稳",
+        "duration": 0.68,
+        "description_visual": "中近景平拍镜头；会议室浅色墙壁；画面中央人物，身穿黑色双排扣西装，双手交叉，神情沉稳，表情：眉毛平直，眼神平静，嘴唇紧闭。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "画面转为白色，结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "特写平拍镜头；白色屏幕。"
+    }
+]

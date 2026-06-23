@@ -1,0 +1,764 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面中央",
+                "action": "跪姿，手被牵着",
+                "expression": "表情平静"
+            },
+            {
+                "name": "白上衣女子",
+                "gender": "女",
+                "clothing": "黄色上衣白色短裙",
+                "position": "画面右侧",
+                "action": "站立，牵手",
+                "expression": "表情高冷"
+            },
+            {
+                "name": "黑西装女子",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面左后侧",
+                "action": "站立",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "未知",
+                "gender": "女",
+                "clothing": "绿色连衣裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "表情自然"
+            }
+        ],
+        "background": "虚化的城市夜景灯光，带有标题文字特效",
+        "description_narrative": "全景镜头，画面中央显示剧集标题《都市极品保安》，西装男跪在中央被众女环绕，背景为虚化的霓虹灯光。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.08,
+        "description_visual": "全景平拍镜头；虚化的城市夜景灯光，带有标题文字特效；画面中央人物，身穿深色西装，跪姿，手被牵着，表情：表情平静；画面右侧人物，身穿黄色上衣白色短裙，站立，牵手，表情：表情高冷；画面左后侧人物，身穿黑色上衣，站立，表情：表情严肃；画面左侧人物，身穿绿色连衣裙，站立，表情：表情自然。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫小弟",
+                "gender": "男",
+                "clothing": "白色衬衫黑色裤子",
+                "position": "画面左侧",
+                "action": "站立，双手插兜",
+                "expression": "表情木讷"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫墨镜",
+                "position": "画面右侧",
+                "action": "倚靠墙壁，抽烟",
+                "expression": "嘴角下撇，眼神透过墨镜向上看"
+            }
+        ],
+        "background": "绿色波纹铁皮墙，自然光",
+        "description_narrative": "中景镜头，花衬衫男倚靠在绿色铁皮墙边抽烟，白衬衫小弟站在一旁，花衬衫男发出一声叹息。",
+        "dialogue": "哎",
+        "speaker": "花衬衫男",
+        "emotion": "不耐烦",
+        "duration": 0.72,
+        "description_visual": "中景平拍镜头；绿色波纹铁皮墙，自然光；画面左侧人物，身穿白色衬衫黑色裤子，站立，双手插兜，表情：表情木讷；画面右侧人物，身穿浅蓝色印花衬衫墨镜，倚靠墙壁，抽烟，表情：嘴角下撇，眼神透过墨镜向上看。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "手持香烟靠近嘴边",
+                "expression": "嘴唇微张，准备吸烟"
+            }
+        ],
+        "background": "绿色墙壁与天空交界处",
+        "description_narrative": "特写镜头，低角度拍摄花衬衫男面部，他正将香烟送入口中，烟雾缭绕。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.28,
+        "description_visual": "特写仰拍镜头；绿色墙壁与天空交界处；画面中央人物，身穿浅蓝色印花衬衫，手持香烟靠近嘴边，表情：嘴唇微张，准备吸烟。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫小弟",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧前景",
+                "action": "伸手为花衬衫男点烟",
+                "expression": "专注"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面右侧",
+                "action": "低头凑近火源",
+                "expression": "享受"
+            }
+        ],
+        "background": "绿色铁皮墙",
+        "description_narrative": "中近景镜头，白衬衫小弟伸手为花衬衫男点燃香烟，汇报有人来了。",
+        "dialogue": "老大，他们来了。几个人？三个人。",
+        "speaker": "白衬衫小弟",
+        "emotion": "恭敬",
+        "duration": 3.96,
+        "description_visual": "中近景平拍镜头；绿色铁皮墙；画面左侧前景人物，身穿白色衬衫，伸手为花衬衫男点烟，表情：专注；画面右侧人物，身穿浅蓝色印花衬衫，低头凑近火源，表情：享受。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装白衬衫",
+                "position": "画面左侧",
+                "action": "大步行走",
+                "expression": "目光直视前方"
+            },
+            {
+                "name": "白上衣女子",
+                "gender": "女",
+                "clothing": "白色长袖上衣粉色长裙",
+                "position": "画面中央",
+                "action": "行走",
+                "expression": "神情淡定"
+            },
+            {
+                "name": "黑西装女子",
+                "gender": "女",
+                "clothing": "黑色西装套裙",
+                "position": "画面右侧",
+                "action": "行走",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "城市人行道，左侧绿色围挡，远处高楼",
+        "description_narrative": "全景跟拍镜头，西装男带领两名女子在人行道上行走，画外音描述他们是一男两女。",
+        "dialogue": "一男两女。",
+        "speaker": "白衬衫小弟",
+        "emotion": null,
+        "duration": 1.96,
+        "description_visual": "全景平拍镜头（跟拍）；城市人行道，左侧绿色围挡，远处高楼；画面左侧人物，身穿黑色西装白衬衫，大步行走，表情：目光直视前方；画面中央人物，身穿白色长袖上衣粉色长裙，行走，表情：神情淡定；画面右侧人物，身穿黑色西装套裙，行走，表情：表情严肃。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面右侧",
+                "action": "抽烟，歪头",
+                "expression": "嘴角带笑，轻蔑"
+            },
+            {
+                "name": "白衬衫小弟",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立旁观",
+                "expression": "面无表情"
+            }
+        ],
+        "background": "绿色铁皮墙",
+        "description_narrative": "中近景镜头，花衬衫男听到人数后露出不屑的笑容，吐出一口烟圈。",
+        "dialogue": "三个人也敢来。",
+        "speaker": "花衬衫男",
+        "emotion": "轻蔑",
+        "duration": 4.6,
+        "description_visual": "中近景平拍镜头；绿色铁皮墙；画面右侧人物，身穿浅蓝色印花衬衫，抽烟，歪头，表情：嘴角带笑，轻蔑；画面左侧人物，身穿白色衬衫，站立旁观，表情：面无表情。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "手持香烟，头部后仰",
+                "expression": "露齿笑，得意"
+            }
+        ],
+        "background": "绿色墙壁",
+        "description_narrative": "特写镜头，花衬衫男仰头大笑，觉得这钱赚得太容易，下令动手。",
+        "dialogue": "这钱也太好赚了。上。",
+        "speaker": "花衬衫男",
+        "emotion": "得意",
+        "duration": 4.24,
+        "description_visual": "特写仰拍镜头；绿色墙壁；画面中央人物，身穿浅蓝色印花衬衫，手持香烟，头部后仰，表情：露齿笑，得意。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫小弟",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "看着老大"
+            },
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面右侧",
+                "action": "身体前倾，准备行动",
+                "expression": "表情嚣张"
+            }
+        ],
+        "background": "绿色铁皮墙",
+        "description_narrative": "中景镜头，花衬衫男说完话后身体前倾，做出准备拦截的姿态。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.08,
+        "description_visual": "中景平拍镜头；绿色铁皮墙；画面左侧人物，身穿白色衬衫，站立，表情：看着老大；画面右侧人物，身穿浅蓝色印花衬衫，身体前倾，准备行动，表情：表情嚣张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "继续行走",
+                "expression": "目视前方"
+            },
+            {
+                "name": "白上衣女子",
+                "gender": "女",
+                "clothing": "白色上衣粉色裙子",
+                "position": "画面中央",
+                "action": "行走",
+                "expression": "目光坚定"
+            },
+            {
+                "name": "黑西装女子",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "行走",
+                "expression": "警惕"
+            }
+        ],
+        "background": "人行道，绿色围挡",
+        "description_narrative": "全景镜头，三人继续向前行走，并未因前方的威胁而停下脚步。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "全景平拍镜头（跟拍）；人行道，绿色围挡；画面左侧人物，身穿黑色西装，继续行走，表情：目视前方；画面中央人物，身穿白色上衣粉色裙子，行走，表情：目光坚定；画面右侧人物，身穿黑色西装，行走，表情：警惕。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "伸手指向前方",
+                "expression": "大声喝止"
+            }
+        ],
+        "background": "街道背景虚化",
+        "description_narrative": "中景镜头，花衬衫男走到路中间，伸手指着前方的人喝令站住。",
+        "dialogue": "站住",
+        "speaker": "花衬衫男",
+        "emotion": "凶狠",
+        "duration": 0.68,
+        "description_visual": "中景平拍镜头；街道背景虚化；画面中央人物，身穿浅蓝色印花衬衫，伸手指向前方，表情：大声喝止。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装女子",
+                "gender": "女",
+                "clothing": "黑色西装白衬衫",
+                "position": "画面中央",
+                "action": "停下脚步",
+                "expression": "眉头微蹙，眼神冷冽"
+            }
+        ],
+        "background": "绿色围挡",
+        "description_narrative": "近景镜头，黑西装女子停下脚步，面无表情地看向对方，画外音响起抢劫的台词。",
+        "dialogue": "此路是我开",
+        "speaker": "花衬衫男",
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；绿色围挡；画面中央人物，身穿黑色西装白衬衫，停下脚步，表情：眉头微蹙，眼神冷冽。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "手持香烟，摇头晃脑",
+                "expression": "得意洋洋"
+            }
+        ],
+        "background": "街道树木虚化",
+        "description_narrative": "中景镜头，花衬衫男继续念着打油诗，表情滑稽而嚣张。",
+        "dialogue": "此树是我栽",
+        "speaker": "花衬衫男",
+        "emotion": "嚣张",
+        "duration": 1.92,
+        "description_visual": "中景平拍镜头；街道树木虚化；画面中央人物，身穿浅蓝色印花衬衫，手持香烟，摇头晃脑，表情：得意洋洋。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "冷漠注视"
+            },
+            {
+                "name": "白上衣女子",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "皱眉"
+            }
+        ],
+        "background": "绿色围挡",
+        "description_narrative": "中近景镜头，西装男和白上衣女子站在原地，冷冷地看着正在念诗的混混。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；绿色围挡；画面左侧人物，身穿黑色西装，站立，表情：冷漠注视；画面右侧人物，身穿白色上衣，站立，表情：皱眉。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "手持香烟比划",
+                "expression": "嘴角上扬"
+            }
+        ],
+        "background": "街道背景",
+        "description_narrative": "中景镜头，花衬衫男继续念着打油诗的下一句，神态轻浮。",
+        "dialogue": "要想从此过",
+        "speaker": "花衬衫男",
+        "emotion": "轻浮",
+        "duration": 3.52,
+        "description_visual": "中景平拍镜头；街道背景；画面中央人物，身穿浅蓝色印花衬衫，手持香烟比划，表情：嘴角上扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装女子",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "侧头倾听",
+                "expression": "眼神厌恶"
+            }
+        ],
+        "background": "绿色围挡",
+        "description_narrative": "近景镜头，黑西装女子听到对方要求留下女性，露出厌恶的表情。",
+        "dialogue": "把妞留下来",
+        "speaker": "花衬衫男",
+        "emotion": null,
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；绿色围挡；画面中央人物，身穿黑色西装，侧头倾听，表情：眼神厌恶。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白上衣女子",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "转头看向对方",
+                "expression": "嘴巴微张，惊讶愤怒"
+            }
+        ],
+        "background": "绿色围挡",
+        "description_narrative": "近景镜头，白上衣女子难以置信地质问对方竟敢光天化日拦路抢劫。",
+        "dialogue": "光天化日之下，竟敢还有人拦路抢劫。",
+        "speaker": "白上衣女子",
+        "emotion": "愤怒",
+        "duration": 3.4,
+        "description_visual": "近景平拍镜头；绿色围挡；画面中央人物，身穿白色上衣，转头看向对方，表情：嘴巴微张，惊讶愤怒。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "歪头，手持香烟",
+                "expression": "一脸无赖相"
+            }
+        ],
+        "background": "街道背景",
+        "description_narrative": "中景镜头，花衬衫男毫不在意地表示自己是财色兼收，什么都敢干。",
+        "dialogue": "你二爷啥不敢干。财色兼收。",
+        "speaker": "花衬衫男",
+        "emotion": "无赖",
+        "duration": 5.16,
+        "description_visual": "中景平拍镜头；街道背景；画面中央人物，身穿浅蓝色印花衬衫，歪头，手持香烟，表情：一脸无赖相。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "微微抬头",
+                "expression": "眼神冰冷，嘴唇微动"
+            }
+        ],
+        "background": "绿色围挡",
+        "description_narrative": "近景镜头，西装男面无表情地让对方再说一遍，语气中透着危险。",
+        "dialogue": "你再说一遍",
+        "speaker": "西装男",
+        "emotion": "冰冷",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；绿色围挡；画面中央人物，身穿黑色西装，微微抬头，表情：眼神冰冷，嘴唇微动。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "身体前倾",
+                "expression": "挑衅"
+            }
+        ],
+        "background": "街道背景",
+        "description_narrative": "中近景镜头，花衬衫男不仅没收敛，反而重复要求留下两个女人。",
+        "dialogue": "我说。这俩小娘们留下来。",
+        "speaker": "花衬衫男",
+        "emotion": "挑衅",
+        "duration": 4.24,
+        "description_visual": "中近景平拍镜头；街道背景；画面中央人物，身穿浅蓝色印花衬衫，身体前倾，表情：挑衅。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "手指指向对方",
+                "expression": "不耐烦"
+            }
+        ],
+        "background": "街道背景",
+        "description_narrative": "中景镜头，花衬衫男指着西装男，让他赶紧滚蛋。",
+        "dialogue": "你啊。赶快滚。",
+        "speaker": "花衬衫男",
+        "emotion": "不耐烦",
+        "duration": 2.12,
+        "description_visual": "中景平拍镜头；街道背景；画面中央人物，身穿浅蓝色印花衬衫，手指指向对方，表情：不耐烦。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "仰头吸烟",
+                "expression": "眯眼"
+            }
+        ],
+        "background": "街道背景",
+        "description_narrative": "中近景镜头，花衬衫男深吸一口烟，发出声音。",
+        "dialogue": "啊",
+        "speaker": "花衬衫男",
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；街道背景；画面中央人物，身穿浅蓝色印花衬衫，仰头吸烟，表情：眯眼。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "闭眼后睁开",
+                "expression": "冷哼一声"
+            }
+        ],
+        "background": "绿色围挡",
+        "description_narrative": "近景镜头，西装男发出一声轻蔑的冷哼。",
+        "dialogue": "哼",
+        "speaker": "西装男",
+        "emotion": "轻蔑",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；绿色围挡；画面中央人物，身穿黑色西装，闭眼后睁开，表情：冷哼一声。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "转头看向女子",
+                "expression": "似笑非笑"
+            },
+            {
+                "name": "白上衣女子",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧",
+                "action": "看向西装男",
+                "expression": "疑惑"
+            }
+        ],
+        "background": "绿色围挡",
+        "description_narrative": "中近景镜头，西装男转头问身边的女子有没有听到狗叫声。",
+        "dialogue": "你们有没有听到狗叫声啊。",
+        "speaker": "西装男",
+        "emotion": "嘲讽",
+        "duration": 2.72,
+        "description_visual": "中近景平拍镜头；绿色围挡；画面左侧人物，身穿黑色西装，转头看向女子，表情：似笑非笑；画面右侧人物，身穿白色上衣，看向西装男，表情：疑惑。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衬衫小弟",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "愣住",
+                "expression": "眼神发直，嘴巴微张"
+            }
+        ],
+        "background": "绿色铁皮墙",
+        "description_narrative": "近景镜头，白衬衫小弟听到这话愣住了，意识到是在骂老大。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "震惊",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；绿色铁皮墙；画面中央人物，身穿白色衬衫，愣住，表情：眼神发直，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面左侧",
+                "action": "吸烟",
+                "expression": "没反应过来"
+            }
+        ],
+        "background": "街道背景",
+        "description_narrative": "中近景镜头，画外音响起，小弟告诉老大他们在骂他是狗。",
+        "dialogue": "老大他们说你是狗。",
+        "speaker": "白衬衫小弟",
+        "emotion": null,
+        "duration": 2.56,
+        "description_visual": "中近景平拍镜头；街道背景；画面左侧人物，身穿浅蓝色印花衬衫，吸烟，表情：没反应过来。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "整理西装扣子",
+                "expression": "眼神凌厉"
+            }
+        ],
+        "background": "绿色围挡",
+        "description_narrative": "中景镜头，西装男整理了一下西装，画外音响起攻击的命令。",
+        "dialogue": "给我弄他",
+        "speaker": "花衬衫男",
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "中景平拍镜头；绿色围挡；画面中央人物，身穿黑色西装，整理西装扣子，表情：眼神凌厉。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "侧脸吸烟",
+                "expression": "吐烟圈"
+            }
+        ],
+        "background": "绿色墙壁",
+        "description_narrative": "特写镜头，花衬衫男吐出一口烟，放话说一会也让对方爽一爽。",
+        "dialogue": "一会叫你也爽一爽。",
+        "speaker": "花衬衫男",
+        "emotion": "猥琐",
+        "duration": 2.76,
+        "description_visual": "特写仰拍镜头；绿色墙壁；画面中央人物，身穿浅蓝色印花衬衫，侧脸吸烟，表情：吐烟圈。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "花衬衫男",
+                "gender": "男",
+                "clothing": "浅蓝色印花衬衫",
+                "position": "画面中央",
+                "action": "抬头看天",
+                "expression": "张嘴喊叫"
+            }
+        ],
+        "background": "天空",
+        "description_narrative": "特写镜头，花衬衫男抬头大喊一声“上”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.12,
+        "description_visual": "特写仰拍镜头；天空；画面中央人物，身穿浅蓝色印花衬衫，抬头看天，表情：张嘴喊叫。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色背景",
+        "description_narrative": "画面转为白色，画外音传来“上”的命令。",
+        "dialogue": "上",
+        "speaker": "花衬衫男",
+        "emotion": null,
+        "duration": 3.16,
+        "description_visual": "全景平拍镜头；白色背景。"
+    }
+]

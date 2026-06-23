@@ -1,0 +1,996 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "中央前景",
+                "action": "身穿黄色外卖服，戴着头盔，手指向前方",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "左后景",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            },
+            {
+                "name": "粉裙女孩",
+                "gender": "女",
+                "clothing": "白色上衣，粉色短裙",
+                "position": "中央后景",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            },
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "红色礼服",
+                "position": "右后景",
+                "action": "站立，手抚摸头发",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴角上扬"
+            }
+        ],
+        "background": "彩色渐变背景，带有光效和金币元素，底部有城市剪影",
+        "description_narrative": "全景镜头，固定机位。画面中央是身穿黄色外卖服的外卖小哥，手指向前方，表情坚定。背景中有势利柜姐、粉裙女孩和王姐，她们分别穿着黑色西装、白色上衣粉色短裙和红色礼服，表情各异。背景是彩色渐变，带有光效和金币元素，底部有城市剪影，画面下方有大字标题“原来是首富”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.7,
+        "description_visual": "全景平拍镜头；彩色渐变背景，带有光效和金币元素，底部有城市剪影；中央前景人物，身穿黄色美团外卖制服，身穿黄色外卖服，戴着头盔，手指向前方，表情：眉毛微挑，眼睛直视前方，嘴巴紧闭；左后景人物，身穿黑色西装，站立，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭；中央后景人物，身穿白色上衣，粉色短裙，站立，表情：眉毛舒展，眼睛直视前方，嘴巴微张；右后景人物，身穿红色礼服，站立，手抚摸头发，表情：眉毛舒展，眼睛看向一侧，嘴角上扬。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "中央",
+                "action": "站立，头部微转",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，上有模糊文字",
+        "description_narrative": "近景镜头，固定机位。外卖小哥身穿黄色美团外卖制服，站在白色墙壁前，头部微转，眉毛微蹙，眼睛睁大，嘴巴微张，神情显得有些惊讶和困惑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 1.77,
+        "description_visual": "近景平拍镜头；白色墙壁，上有模糊文字；中央人物，身穿黄色美团外卖制服，站立，头部微转，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微挑，眼睛看向一侧，嘴巴微张，正在说话，神情傲慢。",
+        "dialogue": "王姐可是我们VIP客户",
+        "speaker": "势利柜姐",
+        "emotion": "傲慢",
+        "duration": 1.8,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中近景镜头，固定机位。王姐身穿深蓝色丝绒礼服，下摆是亮片裙，佩戴珍珠项链和耳环，双臂交叉抱在胸前，眉毛舒展，眼睛视线下移，嘴巴紧闭，神情显得不屑和优越。",
+        "dialogue": "每年消费上百万元",
+        "speaker": "王姐",
+        "emotion": "不屑",
+        "duration": 1.73,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微蹙，眼睛看向一侧，嘴巴微张，继续说话，神情刻薄。",
+        "dialogue": "连我们家",
+        "speaker": "势利柜姐",
+        "emotion": "刻薄",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "中央",
+                "action": "站立，头部微转",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中近景镜头，固定机位。外卖小哥身穿黄色美团外卖制服，站在白色墙壁前，头部微转，眉毛微蹙，眼睛看向一侧，嘴巴紧闭，神情显得有些无奈和隐忍。",
+        "dialogue": "铜卡会员都没有",
+        "speaker": "势利柜姐",
+        "emotion": "无奈",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服；中央人物，身穿黄色美团外卖制服，站立，头部微转，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微挑，眼睛看向一侧，嘴巴微张，继续嘲讽，神情轻蔑。",
+        "dialogue": "还想买至尊版礼服",
+        "speaker": "势利柜姐",
+        "emotion": "轻蔑",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中近景镜头，固定机位。王姐身穿深蓝色丝绒礼服，下摆是亮片裙，佩戴珍珠项链和耳环，双臂交叉抱在胸前，眉毛舒展，眼睛看向一侧，嘴巴微张，正在说话，神情带着笑意和嘲讽。",
+        "dialogue": "我当是谁呢",
+        "speaker": "王姐",
+        "emotion": "嘲讽",
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉裙女孩",
+                "gender": "女",
+                "clothing": "白色上衣，粉色百褶裙",
+                "position": "画面左侧",
+                "action": "双手交握在身前，低头",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            },
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "画面右侧",
+                "action": "站立，侧身",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中景镜头，固定机位。粉裙女孩身穿白色上衣和粉色百褶裙，双手交握在身前，低头，眉毛微蹙，眼睛视线下移，嘴巴紧闭，显得有些局促。外卖小哥身穿黄色美团外卖制服，站在她身旁，侧身，眉毛微蹙，眼睛看向一侧，嘴巴紧闭，神情严肃。",
+        "dialogue": "还以为是什么暴发户",
+        "speaker": "王姐",
+        "emotion": "局促",
+        "duration": 1.97,
+        "description_visual": "中景平拍镜头；白色墙壁，有人体模型展示礼服；画面左侧人物，身穿白色上衣，粉色百褶裙，双手交握在身前，低头，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭；画面右侧人物，身穿黄色美团外卖制服，站立，侧身，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中近景镜头，固定机位。王姐身穿深蓝色丝绒礼服，下摆是亮片裙，佩戴珍珠项链和耳环，双臂交叉抱在胸前，眉毛舒展，眼睛看向一侧，嘴巴微张，继续说话，神情带着不屑。",
+        "dialogue": "原来这两个连奢侈品店",
+        "speaker": "王姐",
+        "emotion": "不屑",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微蹙，眼睛看向一侧，嘴巴微张，正在说话，神情严厉。",
+        "dialogue": "这种人你们是",
+        "speaker": "势利柜姐",
+        "emotion": "严厉",
+        "duration": 2.33,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "前景",
+                "action": "转身，伸手推外卖小哥",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            },
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "中央",
+                "action": "被推，身体微晃",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "粉裙女孩",
+                "gender": "女",
+                "clothing": "白色上衣，粉色百褶裙",
+                "position": "左后景",
+                "action": "站立，看着前方",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中景镜头，跟拍。势利柜姐身穿黑色西装，转身伸手推外卖小哥，眉毛微蹙，眼睛看向一侧，嘴巴微张，动作粗鲁。外卖小哥身穿黄色美团外卖制服，被推得身体微晃，眉毛微蹙，眼睛睁大，嘴巴微张，神情惊讶。粉裙女孩站在左后景，看着前方，眉毛微蹙，眼睛看向一侧，嘴巴紧闭。",
+        "dialogue": "你们快滚快滚",
+        "speaker": "势利柜姐",
+        "emotion": "愤怒",
+        "duration": 1.67,
+        "description_visual": "中景平拍镜头（跟拍）；白色墙壁，有人体模型展示礼服；前景人物，身穿黑色西装，转身，伸手推外卖小哥，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张；中央人物，身穿黄色美团外卖制服，被推，身体微晃，表情：眉毛微蹙，眼睛睁大，嘴巴微张；左后景人物，身穿白色上衣，粉色百褶裙，站立，看着前方，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微挑，眼睛看向一侧，嘴巴微张，神情激动。",
+        "dialogue": "王姐可是我们VIP客户",
+        "speaker": "势利柜姐",
+        "emotion": "激动",
+        "duration": 2.7,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中近景镜头，固定机位。王姐身穿深蓝色丝绒礼服，下摆是亮片裙，佩戴珍珠项链和耳环，双臂交叉抱在胸前，眉毛舒展，眼睛视线下移，嘴巴紧闭，神情得意。",
+        "dialogue": "每年消费上百万元",
+        "speaker": "势利柜姐",
+        "emotion": "得意",
+        "duration": 2.4,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微蹙，眼睛看向一侧，嘴巴微张，神情轻蔑。",
+        "dialogue": "你们是什么东西",
+        "speaker": "势利柜姐",
+        "emotion": "轻蔑",
+        "duration": 1.17,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            },
+            {
+                "name": "粉裙女孩",
+                "gender": "女",
+                "clothing": "白色上衣，粉色百褶裙",
+                "position": "画面中央",
+                "action": "站立，双手交握在身前",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            },
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "画面右侧",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "全景镜头，固定机位。外卖小哥身穿黄色美团外卖制服，站在画面左侧，眉毛微蹙，眼睛看向一侧，嘴巴紧闭。粉裙女孩站在画面中央，双手交握在身前，眉毛微蹙，眼睛看向一侧，嘴巴紧闭。王姐站在画面右侧，双臂交叉抱在胸前，眉毛舒展，眼睛视线下移，嘴巴紧闭。",
+        "dialogue": "连我们家",
+        "speaker": "势利柜姐",
+        "emotion": null,
+        "duration": 1.63,
+        "description_visual": "全景平拍镜头；白色墙壁，有人体模型展示礼服；画面左侧人物，身穿黄色美团外卖制服，站立，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭；画面中央人物，身穿白色上衣，粉色百褶裙，站立，双手交握在身前，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭；画面右侧人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微挑，眼睛看向一侧，嘴巴微张，继续嘲讽。",
+        "dialogue": "还想买限定版礼服",
+        "speaker": "势利柜姐",
+        "emotion": "嘲讽",
+        "duration": 1.3,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "画面左侧",
+                "action": "站立，低头",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            },
+            {
+                "name": "粉裙女孩",
+                "gender": "女",
+                "clothing": "白色上衣，粉色百褶裙",
+                "position": "画面右侧",
+                "action": "站立，双手交握在身前",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中景镜头，固定机位。外卖小哥身穿黄色美团外卖制服，站在画面左侧，低头，眉毛微蹙，眼睛视线下移，嘴巴紧闭。粉裙女孩站在画面右侧，双手交握在身前，眉毛微蹙，眼睛看向一侧，嘴巴紧闭。",
+        "dialogue": "还想买限定版礼服",
+        "speaker": "势利柜姐",
+        "emotion": null,
+        "duration": 1.7,
+        "description_visual": "中景平拍镜头；白色墙壁，有人体模型展示礼服；画面左侧人物，身穿黄色美团外卖制服，站立，低头，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭；画面右侧人物，身穿白色上衣，粉色百褶裙，站立，双手交握在身前，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雨",
+                "gender": "女",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "双手交握在身前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "店内环境，有礼服展示",
+        "description_narrative": "中近景镜头，固定机位。小雨身穿黑色西装和白衬衫，双手交握在身前，眉毛舒展，眼睛看向一侧，嘴巴微张，正在说话，神情温和。",
+        "dialogue": "我带您去看看其他礼服",
+        "speaker": "小雨",
+        "emotion": "温和",
+        "duration": 1.43,
+        "description_visual": "中近景平拍镜头；店内环境，有礼服展示；中央人物，身穿黑色西装，白衬衫，双手交握在身前，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微蹙，眼睛看向一侧，嘴巴微张，神情不悦。",
+        "dialogue": "我带您去看看其他礼服",
+        "speaker": "小雨",
+        "emotion": "不悦",
+        "duration": 1.93,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雨",
+                "gender": "女",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "双手交握在身前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "店内环境，有礼服展示",
+        "description_narrative": "中近景镜头，固定机位。小雨身穿黑色西装和白衬衫，双手交握在身前，眉毛舒展，眼睛看向一侧，嘴巴微张，继续说话，神情友善。",
+        "dialogue": "不合适的话",
+        "speaker": "小雨",
+        "emotion": "友善",
+        "duration": 1.33,
+        "description_visual": "中近景平拍镜头；店内环境，有礼服展示；中央人物，身穿黑色西装，白衬衫，双手交握在身前，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雨",
+                "gender": "女",
+                "clothing": "黑色西装，白衬衫",
+                "position": "画面左侧",
+                "action": "站立，看着外卖小哥",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            },
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "画面中央",
+                "action": "站立，看着小雨",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            },
+            {
+                "name": "粉裙女孩",
+                "gender": "女",
+                "clothing": "白色上衣，粉色百褶裙",
+                "position": "画面右侧",
+                "action": "站立，看着小雨",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "店内环境，有礼服展示",
+        "description_narrative": "全景镜头，固定机位。小雨站在画面左侧，看着外卖小哥，眉毛舒展，眼睛看向一侧，嘴巴微张。外卖小哥站在画面中央，看着小雨，眉毛微蹙，眼睛看向一侧，嘴巴紧闭。粉裙女孩站在画面右侧，看着小雨，眉毛舒展，眼睛看向一侧，嘴巴紧闭。",
+        "dialogue": "不买也没关系",
+        "speaker": "小雨",
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "全景平拍镜头；店内环境，有礼服展示；画面左侧人物，身穿黑色西装，白衬衫，站立，看着外卖小哥，表情：眉毛舒展，眼睛看向一侧，嘴巴微张；画面中央人物，身穿黄色美团外卖制服，站立，看着小雨，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭；画面右侧人物，身穿白色上衣，粉色百褶裙，站立，看着小雨，表情：眉毛舒展，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微挑，眼睛看向一侧，嘴巴微张，神情讥讽。",
+        "dialogue": "哎呦小雨",
+        "speaker": "势利柜姐",
+        "emotion": "讥讽",
+        "duration": 0.83,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雨",
+                "gender": "女",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "伸手拉外卖小哥",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "店内环境，有礼服展示",
+        "description_narrative": "中近景镜头，固定机位。小雨身穿黑色西装和白衬衫，伸手拉外卖小哥，眉毛舒展，眼睛看向一侧，嘴巴微张，神情热情。",
+        "dialogue": "哎呦小雨",
+        "speaker": "势利柜姐",
+        "emotion": "热情",
+        "duration": 1.73,
+        "description_visual": "中近景平拍镜头；店内环境，有礼服展示；中央人物，身穿黑色西装，白衬衫，伸手拉外卖小哥，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微蹙，眼睛看向一侧，嘴巴微张，继续训斥。",
+        "dialogue": "你看看他们",
+        "speaker": "势利柜姐",
+        "emotion": "训斥",
+        "duration": 2.0,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "中央",
+                "action": "站立，头部微转",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "店内环境，有礼服展示",
+        "description_narrative": "中近景镜头，固定机位。外卖小哥身穿黄色美团外卖制服，站在店内，头部微转，眉毛微蹙，眼睛看向一侧，嘴巴紧闭，神情平静。",
+        "dialogue": "这副穷酸样子",
+        "speaker": "势利柜姐",
+        "emotion": "平静",
+        "duration": 2.03,
+        "description_visual": "中近景平拍镜头；店内环境，有礼服展示；中央人物，身穿黄色美团外卖制服，站立，头部微转，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛微挑，眼睛看向一侧，嘴巴微张，继续嘲讽。",
+        "dialogue": "你啊怪不得",
+        "speaker": "势利柜姐",
+        "emotion": "嘲讽",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中近景镜头，固定机位。王姐身穿深蓝色丝绒礼服，下摆是亮片裙，佩戴珍珠项链和耳环，双臂交叉抱在胸前，眉毛微蹙，眼睛看向一侧，嘴巴微张，神情不耐烦。",
+        "dialogue": "行了别跟他废话了",
+        "speaker": "王姐",
+        "emotion": "不耐烦",
+        "duration": 0.63,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装，蓝白条纹衬衫，花纹丝巾",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁，光线明亮",
+        "description_narrative": "特写镜头，固定机位。势利柜姐身穿黑色西装，内搭蓝白条纹衬衫和花纹丝巾，双臂交叉抱在胸前，眉毛舒展，眼睛看向一侧，嘴巴紧闭，神情顺从。",
+        "dialogue": "行了别跟他废话了",
+        "speaker": "王姐",
+        "emotion": "顺从",
+        "duration": 0.97,
+        "description_visual": "特写平拍镜头；白色墙壁，光线明亮；中央人物，身穿黑色西装，蓝白条纹衬衫，花纹丝巾，双臂交叉抱在胸前，表情：眉毛舒展，眼睛看向一侧，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中近景镜头，固定机位。王姐身穿深蓝色丝绒礼服，下摆是亮片裙，佩戴珍珠项链和耳环，双臂交叉抱在胸前，眉毛舒展，眼睛视线下移，嘴巴微张，下达指令。",
+        "dialogue": "赶紧把衣服包起来吧",
+        "speaker": "王姐",
+        "emotion": "命令",
+        "duration": 1.23,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小雨",
+                "gender": "女",
+                "clothing": "黑色西装，白衬衫",
+                "position": "画面左侧",
+                "action": "站立，双手交握在身前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴紧闭"
+            },
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴紧闭"
+            },
+            {
+                "name": "粉裙女孩",
+                "gender": "女",
+                "clothing": "白色上衣，粉色百褶裙",
+                "position": "画面中央偏右",
+                "action": "站立，双手交握在身前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴紧闭"
+            },
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "画面右侧",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微张"
+            },
+            {
+                "name": "势利柜姐",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "站立，看着王姐",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "店内环境，有礼服展示",
+        "description_narrative": "全景镜头，固定机位。小雨站在画面左侧，双手交握在身前，眉毛舒展，眼睛看向一侧，嘴巴紧闭。外卖小哥站在画面中央，眉毛微蹙，眼睛看向一侧，嘴巴紧闭。粉裙女孩站在画面中央偏右，双手交握在身前，眉毛舒展，眼睛看向一侧，嘴巴紧闭。王姐站在画面右侧，双臂交叉抱在胸前，眉毛舒展，眼睛视线下移，嘴巴微张。势利柜姐站在王姐身旁，看着王姐，眉毛舒展，眼睛看向一侧，嘴巴微张。",
+        "dialogue": "赶紧把衣服包起来吧",
+        "speaker": "王姐",
+        "emotion": null,
+        "duration": 1.77,
+        "description_visual": "全景平拍镜头；店内环境，有礼服展示；画面左侧人物，身穿黑色西装，白衬衫，站立，双手交握在身前，表情：眉毛舒展，眼睛看向一侧，嘴巴紧闭；画面中央人物，身穿黄色美团外卖制服，站立，表情：眉毛微蹙，眼睛看向一侧，嘴巴紧闭；画面中央偏右人物，身穿白色上衣，粉色百褶裙，站立，双手交握在身前，表情：眉毛舒展，眼睛看向一侧，嘴巴紧闭；画面右侧人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛视线下移，嘴巴微张；画面右侧人物，身穿黑色西装，站立，看着王姐，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "中央",
+                "action": "站立，头部微转",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "店内环境，有礼服展示",
+        "description_narrative": "中近景镜头，固定机位。外卖小哥身穿黄色美团外卖制服，站在店内，头部微转，眉毛微蹙，眼睛看向一侧，嘴巴微张，正在说话。",
+        "dialogue": "等一下不是就破衣服吗",
+        "speaker": "外卖小哥",
+        "emotion": "疑惑",
+        "duration": 1.23,
+        "description_visual": "中近景平拍镜头；店内环境，有礼服展示；中央人物，身穿黄色美团外卖制服，站立，头部微转，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外卖小哥",
+                "gender": "男",
+                "clothing": "黄色美团外卖制服",
+                "position": "中央",
+                "action": "站立，抬头",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "店内环境，有礼服展示",
+        "description_narrative": "中近景镜头，固定机位。外卖小哥身穿黄色美团外卖制服，站在店内，抬头，眉毛舒展，眼睛看向一侧，嘴巴微张，宣布决定。",
+        "dialogue": "我买了",
+        "speaker": "外卖小哥",
+        "emotion": "坚定",
+        "duration": 0.9,
+        "description_visual": "中近景平拍镜头；店内环境，有礼服展示；中央人物，身穿黄色美团外卖制服，站立，抬头，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中近景镜头，固定机位。王姐身穿深蓝色丝绒礼服，下摆是亮片裙，佩戴珍珠项链和耳环，双臂交叉抱在胸前，眉毛微挑，眼睛看向一侧，嘴巴微张，神情惊讶。",
+        "dialogue": "什么",
+        "speaker": "王姐",
+        "emotion": "惊讶",
+        "duration": 0.67,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉裙女孩",
+                "gender": "女",
+                "clothing": "白色上衣，粉色百褶裙",
+                "position": "中央",
+                "action": "站立，头部微转",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "店内环境，有礼服展示",
+        "description_narrative": "特写镜头，固定机位。粉裙女孩身穿白色上衣和粉色百褶裙，站在店内，头部微转，眉毛微蹙，眼睛视线下移，嘴巴紧闭，神情疑惑。",
+        "dialogue": "什么我没听错吧你要了",
+        "speaker": "粉裙女孩",
+        "emotion": "疑惑",
+        "duration": 1.03,
+        "description_visual": "特写平拍镜头；店内环境，有礼服展示；中央人物，身穿白色上衣，粉色百褶裙，站立，头部微转，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服",
+        "description_narrative": "中近景镜头，固定机位。王姐身穿深蓝色丝绒礼服，下摆是亮片裙，佩戴珍珠项链和耳环，双臂交叉抱在胸前，眉毛舒展，眼睛看向一侧，嘴巴微张，神情带着笑意和不可置信。",
+        "dialogue": "什么我没听错吧你要了",
+        "speaker": "粉裙女孩",
+        "emotion": "不可置信",
+        "duration": 0.9,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色背景，画面过曝",
+        "description_narrative": "特写镜头，固定机位。画面过曝，王姐的身影模糊可见，身穿深蓝色丝绒礼服，双臂交叉抱在胸前，眉毛舒展，眼睛看向一侧，嘴巴微张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.53,
+        "description_visual": "特写平拍镜头；白色背景，画面过曝；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王姐",
+                "gender": "女",
+                "clothing": "深蓝色丝绒礼服，亮片裙摆",
+                "position": "中央",
+                "action": "双臂交叉抱在胸前",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，有人体模型展示礼服，黑白画面",
+        "description_narrative": "中近景镜头，固定机位。黑白画面。王姐身穿深蓝色丝绒礼服，下摆是亮片裙，佩戴珍珠项链和耳环，双臂交叉抱在胸前，眉毛舒展，眼睛看向一侧，嘴巴微张，神情定格在惊讶和笑意中。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.17,
+        "description_visual": "中近景平拍镜头；白色墙壁，有人体模型展示礼服，黑白画面；中央人物，身穿深蓝色丝绒礼服，亮片裙摆，双臂交叉抱在胸前，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    }
+]

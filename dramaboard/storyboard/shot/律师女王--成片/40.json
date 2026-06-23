@@ -1,0 +1,993 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "明亮的办公楼走廊，地面光洁如镜，远处有玻璃门和电梯，光线充足。",
+        "description_narrative": "全景镜头展示了一个空旷明亮的办公楼走廊，地面反射着天花板的灯光，远处是玻璃门和电梯间，营造出一种现代、冷清的氛围。",
+        "dialogue": "师父，李全都招了，就是因为他赌博。",
+        "speaker": "青年男子",
+        "emotion": "陈述",
+        "duration": 4.18,
+        "description_visual": "全景平拍镜头；明亮的办公楼走廊，地面光洁如镜，远处有玻璃门和电梯，光线充足。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套，黑框眼镜",
+                "position": "画面中央",
+                "action": "微微低头，眼神向下，表情严肃",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公楼走廊背景，虚化处理，可见部分玻璃隔断。",
+        "description_narrative": "中近景镜头对准中年男子，他身穿蓝色衬衫和黑色西装，戴着黑框眼镜，微微低头，神情凝重，似乎在思考或倾听。",
+        "dialogue": "所以才联合周翠，演了这么一出戏。",
+        "speaker": "青年男子",
+        "emotion": "分析",
+        "duration": 2.42,
+        "description_visual": "中近景平拍镜头；办公楼走廊背景，虚化处理，可见部分玻璃隔断。；画面中央人物，身穿蓝色衬衫，黑色西装外套，黑框眼镜，微微低头，眼神向下，表情严肃，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装连衣短裙，黑色高领打底，金色耳环",
+                "position": "画面右侧",
+                "action": "侧身站立，目光看向左侧，嘴唇微张",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张似在说话"
+            }
+        ],
+        "background": "浅色木纹墙面背景，光线柔和。",
+        "description_narrative": "中近景镜头转向秦迦，她身穿黑色西装裙，扎着马尾，戴着金色耳环，侧身站立，目光坚定地看着旁边的人，嘴唇微动。",
+        "dialogue": "我觉得，干脆就把他抓了。",
+        "speaker": "秦迦",
+        "emotion": "果断",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；浅色木纹墙面背景，光线柔和。；画面右侧人物，身穿黑色西装连衣短裙，黑色高领打底，金色耳环，侧身站立，目光看向左侧，嘴唇微张，表情：眉毛舒展，眼睛注视前方，嘴巴微张似在说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "低头沉思，表情沉重",
+                "expression": "眉毛紧锁，眼睛下视，嘴角下垂"
+            }
+        ],
+        "background": "模糊的走廊背景，光斑散落。",
+        "description_narrative": "特写镜头聚焦中年男子的面部，他眉头紧锁，眼神低垂，表情显得十分沉重和无奈。",
+        "dialogue": "这样呢，还他们一家人一个清白。",
+        "speaker": "秦迦",
+        "emotion": "期望",
+        "duration": 2.74,
+        "description_visual": "特写平拍镜头；模糊的走廊背景，光斑散落。；画面中央人物，身穿蓝色衬衫，黑色西装外套，低头沉思，表情沉重，表情：眉毛紧锁，眼睛下视，嘴角下垂。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克，黑色T恤，黑色裤子，白色运动鞋",
+                "position": "画面左侧",
+                "action": "双手插兜，站立，看向中间",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴闭合"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "双手背在身后，站立",
+                "expression": "表情严肃，目光看向右侧"
+            },
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装连衣短裙",
+                "position": "画面右侧",
+                "action": "手持蓝色文件夹，站立，看向中间",
+                "expression": "表情认真，目光专注"
+            }
+        ],
+        "background": "办公楼走廊，地面反光，背景有玻璃门和蓝色海报。",
+        "description_narrative": "全景镜头展示三人站在走廊中，青年男子在左，中年男子居中，秦迦在右手持文件夹，三人呈三角站位，气氛严肃。",
+        "dialogue": "好。",
+        "speaker": "中年男子",
+        "emotion": "同意",
+        "duration": 1.6,
+        "description_visual": "全景平拍镜头；办公楼走廊，地面反光，背景有玻璃门和蓝色海报。；画面左侧人物，身穿米色工装夹克，黑色T恤，黑色裤子，白色运动鞋，双手插兜，站立，看向中间，表情：眉毛平展，眼睛注视前方，嘴巴闭合；画面中央人物，身穿蓝色衬衫，黑色西装外套，双手背在身后，站立，表情：表情严肃，目光看向右侧；画面右侧人物，身穿黑色西装连衣短裙，手持蓝色文件夹，站立，看向中间，表情：表情认真，目光专注。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装，黑色高领打底，金色项链",
+                "position": "画面中央",
+                "action": "微微抬头，目光看向左前方",
+                "expression": "眉毛微挑，眼睛明亮，嘴角微扬"
+            }
+        ],
+        "background": "模糊的室内背景，光线明亮。",
+        "description_narrative": "特写镜头对准秦迦的面部，她微微抬头，眼神中流露出一丝期待和坚定，嘴角带着浅浅的笑意。",
+        "dialogue": "那当年的案子。",
+        "speaker": "中年男子",
+        "emotion": "询问",
+        "duration": 2.16,
+        "description_visual": "特写平拍镜头；模糊的室内背景，光线明亮。；画面中央人物，身穿黑色西装，黑色高领打底，金色项链，微微抬头，目光看向左前方，表情：眉毛微挑，眼睛明亮，嘴角微扬。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "侧头看向右侧，嘴唇微张",
+                "expression": "眉毛微蹙，眼睛注视侧面，嘴巴微张"
+            }
+        ],
+        "background": "模糊的走廊背景，可见蓝色海报一角。",
+        "description_narrative": "中近景镜头拍摄中年男子，他侧头看向旁边，似乎在询问关于当年案子的情况，神情专注。",
+        "dialogue": "他怎么说？",
+        "speaker": "中年男子",
+        "emotion": "追问",
+        "duration": 1.84,
+        "description_visual": "中近景平拍镜头；模糊的走廊背景，可见蓝色海报一角。；画面中央人物，身穿蓝色衬衫，黑色西装外套，侧头看向右侧，嘴唇微张，表情：眉毛微蹙，眼睛注视侧面，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装，金色耳环",
+                "position": "画面中央",
+                "action": "直视前方，表情严肃",
+                "expression": "眉毛平展，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室内背景，光线柔和。",
+        "description_narrative": "中近景镜头对准秦迦，她直视前方，表情严肃，似乎在等待回答或思考。",
+        "dialogue": "不管我怎么问他。",
+        "speaker": "青年男子",
+        "emotion": "无奈",
+        "duration": 1.46,
+        "description_visual": "中近景平拍镜头；模糊的室内背景，光线柔和。；画面中央人物，身穿黑色西装，金色耳环，直视前方，表情严肃，表情：眉毛平展，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克，黑色T恤，银色项链",
+                "position": "画面中央",
+                "action": "双手插在裤兜，身体微侧",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴闭合"
+            }
+        ],
+        "background": "走廊背景，可见电梯门。",
+        "description_narrative": "中景镜头拍摄青年男子，他身穿米色夹克，双手插兜，身体微侧，表情显得有些无奈和不满。",
+        "dialogue": "他都不肯开口。",
+        "speaker": "青年男子",
+        "emotion": " frustration",
+        "duration": 2.32,
+        "description_visual": "中景平拍镜头；走廊背景，可见电梯门。；画面中央人物，身穿米色工装夹克，黑色T恤，银色项链，双手插在裤兜，身体微侧，表情：眉毛微蹙，眼睛看向右侧，嘴巴闭合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "侧头看向左侧，表情平静",
+                "expression": "眉毛舒展，眼睛注视侧面，嘴巴闭合"
+            }
+        ],
+        "background": "模糊的走廊背景，光斑柔和。",
+        "description_narrative": "中近景镜头拍摄中年男子，他侧头看向青年男子，表情平静，似乎在解释什么。",
+        "dialogue": "我给你发的录音。",
+        "speaker": "中年男子",
+        "emotion": "提示",
+        "duration": 2.38,
+        "description_visual": "中近景平拍镜头；模糊的走廊背景，光斑柔和。；画面中央人物，身穿蓝色衬衫，黑色西装外套，侧头看向左侧，表情平静，表情：眉毛舒展，眼睛注视侧面，嘴巴闭合。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装，金色耳环",
+                "position": "画面中央",
+                "action": "看向左侧，嘴唇微张",
+                "expression": "眉毛微挑，眼睛注视侧面，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景。",
+        "description_narrative": "中近景镜头对准秦迦，她看向左侧，似乎在询问是否听了录音，神情专注。",
+        "dialogue": "你听了吗？我现在听。",
+        "speaker": "中年男子",
+        "emotion": "催促",
+        "duration": 3.64,
+        "description_visual": "中近景平拍镜头；模糊的室内背景。；画面中央人物，身穿黑色西装，金色耳环，看向左侧，嘴唇微张，表情：眉毛微挑，眼睛注视侧面，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装袖口",
+                "position": "画面中央",
+                "action": "双手持手机，手指在屏幕上操作",
+                "expression": "N/A"
+            }
+        ],
+        "background": "模糊的地面或桌面背景。",
+        "description_narrative": "特写镜头展示一双手持手机，屏幕上显示录音界面，波形图在跳动，时间显示为00:00.00。",
+        "dialogue": "温羡。",
+        "speaker": "录音声音",
+        "emotion": "强硬",
+        "duration": 2.5,
+        "description_visual": "特写俯拍镜头；模糊的地面或桌面背景。；画面中央人物，身穿黑色西装袖口，双手持手机，手指在屏幕上操作，表情：N/A。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装连衣短裙",
+                "position": "画面中央",
+                "action": "低头看手机，手指在屏幕上滑动",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "走廊背景，光线明亮。",
+        "description_narrative": "中景镜头拍摄秦迦，她低头专注地看着手机，手指在屏幕上操作，神情严肃。",
+        "dialogue": "我不管你用什么办法，就算不惜一切代价。",
+        "speaker": "录音声音",
+        "emotion": "命令",
+        "duration": 3.82,
+        "description_visual": "中景平拍镜头；走廊背景，光线明亮。；画面中央人物，身穿黑色西装连衣短裙，低头看手机，手指在屏幕上滑动，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面左侧",
+                "action": "侧身站立，目光看向右侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴闭合"
+            }
+        ],
+        "background": "走廊背景，可见电梯门。",
+        "description_narrative": "中景镜头拍摄青年男子，他侧身站立，目光看向右侧，似乎在听录音内容，表情凝重。",
+        "dialogue": "这一百万，绝对不能给。",
+        "speaker": "录音声音",
+        "emotion": "坚决",
+        "duration": 3.82,
+        "description_visual": "中景平拍镜头；走廊背景，可见电梯门。；画面左侧人物，身穿米色工装夹克，侧身站立，目光看向右侧，表情：眉毛微蹙，眼睛注视前方，嘴巴闭合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "低头，手持黑色物体（可能是录音笔或手机）",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的走廊背景。",
+        "description_narrative": "中近景镜头拍摄中年男子，他低头看着手中的物品，表情严肃，似乎在强调录音的重要性。",
+        "dialogue": "小秦，这段时间。",
+        "speaker": "中年男子",
+        "emotion": "严肃",
+        "duration": 2.42,
+        "description_visual": "中近景平拍镜头；模糊的走廊背景。；画面中央人物，身穿蓝色衬衫，黑色西装外套，低头，手持黑色物体（可能是录音笔或手机），表情：眉毛紧锁，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装连衣短裙",
+                "position": "画面中央",
+                "action": "手持手机，抬头看向左侧",
+                "expression": "眉毛微挑，眼睛注视侧面，嘴巴微张"
+            }
+        ],
+        "background": "走廊背景，光线明亮。",
+        "description_narrative": "中景镜头拍摄秦迦，她手持手机，抬头看向左侧，似乎对中年男子的话感到惊讶。",
+        "dialogue": "你先停下，你手头上的工作，都交给冯明。",
+        "speaker": "中年男子",
+        "emotion": "命令",
+        "duration": 4.04,
+        "description_visual": "中景平拍镜头；走廊背景，光线明亮。；画面中央人物，身穿黑色西装连衣短裙，手持手机，抬头看向左侧，表情：眉毛微挑，眼睛注视侧面，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面左侧",
+                "action": "侧身站立，看向右侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "走廊背景。",
+        "description_narrative": "中景镜头拍摄青年男子，他侧身站立，看向右侧，似乎对中年男子的决定感到不满。",
+        "dialogue": "老头。",
+        "speaker": "青年男子",
+        "emotion": "不满",
+        "duration": 2.2,
+        "description_visual": "中景平拍镜头；走廊背景。；画面左侧人物，身穿米色工装夹克，侧身站立，看向右侧，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面右侧",
+                "action": "侧身站立，手持蓝色文件夹",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴闭合"
+            }
+        ],
+        "background": "白色墙面背景。",
+        "description_narrative": "中近景侧拍镜头展示中年男子，他侧身站立，手持蓝色文件夹，表情平静。",
+        "dialogue": "凭什么呀？秦迦又没做错什么事情。",
+        "speaker": "青年男子",
+        "emotion": "质问",
+        "duration": 2.7,
+        "description_visual": "中近景侧拍镜头；白色墙面背景。；画面右侧人物，身穿蓝色衬衫，黑色西装外套，侧身站立，手持蓝色文件夹，表情：眉毛平展，眼睛注视前方，嘴巴闭合。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面中央",
+                "action": "双手叉腰，身体微侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "走廊背景。",
+        "description_narrative": "中景镜头拍摄青年男子，他双手叉腰，身体微侧，表情激动地质问。",
+        "dialogue": "你凭什么停她职啊？",
+        "speaker": "青年男子",
+        "emotion": "愤怒",
+        "duration": 1.3,
+        "description_visual": "中景平拍镜头；走廊背景。；画面中央人物，身穿米色工装夹克，双手叉腰，身体微侧，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面右侧",
+                "action": "面对青年男子，表情严肃",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴闭合"
+            }
+        ],
+        "background": "白色墙面背景。",
+        "description_narrative": "过肩镜头拍摄中年男子，他面对青年男子，表情严肃，似乎在解释原因。",
+        "dialogue": "这是权宜之计。",
+        "speaker": "中年男子",
+        "emotion": "解释",
+        "duration": 2.74,
+        "description_visual": "中近景过肩镜头；白色墙面背景。；画面右侧人物，身穿蓝色衬衫，黑色西装外套，面对青年男子，表情严肃，表情：眉毛微蹙，眼睛注视对方，嘴巴闭合。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面左侧",
+                "action": "面对中年男子",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "面对青年男子",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装连衣短裙",
+                "position": "画面右侧",
+                "action": "站立，手持手机",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "办公楼走廊，地面反光。",
+        "description_narrative": "全景镜头展示三人站在走廊中，气氛紧张，中年男子正在解释当前的形势。",
+        "dialogue": "现在的形势，对秦迦很不利。",
+        "speaker": "中年男子",
+        "emotion": "担忧",
+        "duration": 2.74,
+        "description_visual": "全景平拍镜头；办公楼走廊，地面反光。；画面左侧人物，身穿米色工装夹克，面对中年男子，表情：表情严肃；画面中央人物，身穿蓝色衬衫，黑色西装外套，面对青年男子，表情：表情严肃；画面右侧人物，身穿黑色西装连衣短裙，站立，手持手机，表情：表情严肃。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "低头，双手交握",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的室内背景。",
+        "description_narrative": "中近景镜头对准秦迦，她低头，双手交握，表情显得有些失落和无奈。",
+        "dialogue": "就算这个官司她打赢了，又能怎么样？",
+        "speaker": "中年男子",
+        "emotion": "无奈",
+        "duration": 2.36,
+        "description_visual": "中近景平拍镜头；模糊的室内背景。；画面中央人物，身穿黑色西装，低头，双手交握，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "面对青年男子，手持蓝色文件夹",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "白色墙面背景。",
+        "description_narrative": "中近景镜头拍摄中年男子，他面对青年男子，手持蓝色文件夹，表情严肃地解释流言的影响。",
+        "dialogue": "流言已经散出去了。",
+        "speaker": "中年男子",
+        "emotion": "严肃",
+        "duration": 2.3,
+        "description_visual": "中近景平拍镜头；白色墙面背景。；画面中央人物，身穿蓝色衬衫，黑色西装外套，面对青年男子，手持蓝色文件夹，表情：眉毛微蹙，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面中央",
+                "action": "双手叉腰，身体微侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "走廊背景。",
+        "description_narrative": "中景镜头拍摄青年男子，他双手叉腰，身体微侧，表情不满地听着中年男子的解释。",
+        "dialogue": "全网都在骂她。",
+        "speaker": "中年男子",
+        "emotion": "陈述",
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；走廊背景。；画面中央人物，身穿米色工装夹克，双手叉腰，身体微侧，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "低头，表情沉重",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的走廊背景。",
+        "description_narrative": "中近景镜头拍摄中年男子，他低头，表情沉重，似乎在担心秦迦的安全。",
+        "dialogue": "她的安全。",
+        "speaker": "中年男子",
+        "emotion": "担忧",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；模糊的走廊背景。；画面中央人物，身穿蓝色衬衫，黑色西装外套，低头，表情沉重，表情：眉毛紧锁，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面中央",
+                "action": "双手叉腰，低头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "走廊背景。",
+        "description_narrative": "中景镜头拍摄青年男子，他双手叉腰，低头，似乎在思考中年男子的话。",
+        "dialogue": "你能保证吗？",
+        "speaker": "青年男子",
+        "emotion": "质疑",
+        "duration": 1.36,
+        "description_visual": "中景平拍镜头；走廊背景。；画面中央人物，身穿米色工装夹克，双手叉腰，低头，表情：眉毛微蹙，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面中央",
+                "action": "转身，动作幅度较大",
+                "expression": "眉毛微蹙，眼睛注视侧面，嘴巴微张"
+            }
+        ],
+        "background": "走廊背景。",
+        "description_narrative": "中景镜头拍摄青年男子，他突然转身，动作幅度较大，显得非常激动。",
+        "dialogue": "那你也不能把。",
+        "speaker": "青年男子",
+        "emotion": "激动",
+        "duration": 0.48,
+        "description_visual": "中景平拍镜头；走廊背景。；画面中央人物，身穿米色工装夹克，转身，动作幅度较大，表情：眉毛微蹙，眼睛注视侧面，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面右侧",
+                "action": "面对青年男子，表情严肃",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴闭合"
+            }
+        ],
+        "background": "白色墙面背景。",
+        "description_narrative": "过肩镜头拍摄中年男子，他面对青年男子，表情严肃，似乎在坚持自己的决定。",
+        "dialogue": "她的案子给冯明啊。",
+        "speaker": "青年男子",
+        "emotion": "不满",
+        "duration": 1.42,
+        "description_visual": "中近景过肩镜头；白色墙面背景。；画面右侧人物，身穿蓝色衬衫，黑色西装外套，面对青年男子，表情严肃，表情：眉毛微蹙，眼睛注视对方，嘴巴闭合。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面中央",
+                "action": "侧身站立，看向右侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "走廊背景。",
+        "description_narrative": "中景镜头拍摄青年男子，他侧身站立，看向右侧，表情不屑地反驳。",
+        "dialogue": "为什么不行？冯明有这个能力。",
+        "speaker": "中年男子",
+        "emotion": "辩护",
+        "duration": 2.92,
+        "description_visual": "中景平拍镜头；走廊背景。；画面中央人物，身穿米色工装夹克，侧身站立，看向右侧，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面左侧",
+                "action": "手持蓝色文件夹，站立",
+                "expression": "表情不屑"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "双手背在身后",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装连衣短裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "办公楼走廊。",
+        "description_narrative": "全景镜头展示三人站在走廊中，青年男子手持蓝色文件夹，表情不屑地反驳中年男子。",
+        "dialogue": "他有个屁啊他。",
+        "speaker": "青年男子",
+        "emotion": "愤怒",
+        "duration": 2.16,
+        "description_visual": "全景平拍镜头；办公楼走廊。；画面左侧人物，身穿米色工装夹克，手持蓝色文件夹，站立，表情：表情不屑；画面中央人物，身穿蓝色衬衫，黑色西装外套，双手背在身后，表情：表情严肃；画面右侧人物，身穿黑色西装连衣短裙，站立，表情：表情严肃。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "侧头看向左侧，嘴唇微张",
+                "expression": "眉毛微挑，眼睛注视侧面，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景。",
+        "description_narrative": "中近景镜头对准秦迦，她侧头看向左侧，似乎在叫师父，神情复杂。",
+        "dialogue": "师父。",
+        "speaker": "秦迦",
+        "emotion": "无奈",
+        "duration": 0.94,
+        "description_visual": "中近景平拍镜头；模糊的室内背景。；画面中央人物，身穿黑色西装，侧头看向左侧，嘴唇微张，表情：眉毛微挑，眼睛注视侧面，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面右侧",
+                "action": "侧身站立，低头",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴闭合"
+            }
+        ],
+        "background": "白色墙面背景。",
+        "description_narrative": "中近景侧拍镜头展示中年男子，他侧身站立，低头，表情沉重。",
+        "dialogue": "我都听所里的安排。",
+        "speaker": "秦迦",
+        "emotion": "顺从",
+        "duration": 1.46,
+        "description_visual": "中近景侧拍镜头；白色墙面背景。；画面右侧人物，身穿蓝色衬衫，黑色西装外套，侧身站立，低头，表情：眉毛紧锁，眼睛下视，嘴巴闭合。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面左侧",
+                "action": "手持蓝色文件夹，站立",
+                "expression": "表情惊讶"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "双手背在身后",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装连衣短裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "办公楼走廊，地面反光。",
+        "description_narrative": "全景镜头展示三人站在走廊中，秦迦表示服从安排，青年男子显得惊讶。",
+        "dialogue": "这个案子，就交给冯律吧。",
+        "speaker": "秦迦",
+        "emotion": "决定",
+        "duration": 4.06,
+        "description_visual": "全景平拍镜头；办公楼走廊，地面反光。；画面左侧人物，身穿米色工装夹克，手持蓝色文件夹，站立，表情：表情惊讶；画面中央人物，身穿蓝色衬衫，黑色西装外套，双手背在身后，表情：表情严肃；画面右侧人物，身穿黑色西装连衣短裙，站立，表情：表情平静。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温主任",
+                "gender": "男",
+                "clothing": "灰色西装马甲，条纹衬衫，棕色领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "微笑，看向左侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "白色墙面背景，可见部分文字。",
+        "description_narrative": "中近景镜头拍摄温主任，他身穿灰色马甲，戴着金丝眼镜，面带微笑，看起来斯文但有些虚伪。",
+        "dialogue": "温主任。",
+        "speaker": "青年男子",
+        "emotion": "惊讶",
+        "duration": 2.56,
+        "description_visual": "中近景平拍镜头；白色墙面背景，可见部分文字。；画面中央人物，身穿灰色西装马甲，条纹衬衫，棕色领带，金丝眼镜，微笑，看向左侧，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面左侧",
+                "action": "站立，看向右侧",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "蓝色衬衫，黑色西装外套",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "表情严肃"
+            },
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "黑色西装连衣短裙",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "表情严肃"
+            }
+        ],
+        "background": "办公楼走廊。",
+        "description_narrative": "全景镜头展示三人站在走廊中，温主任的话让他们感到意外，气氛变得微妙。",
+        "dialogue": "我在想，如果秦迦还担任组长的话。",
+        "speaker": "温主任",
+        "emotion": "暗示",
+        "duration": 3.46,
+        "description_visual": "全景平拍镜头；办公楼走廊。；画面左侧人物，身穿米色工装夹克，站立，看向右侧，表情：表情严肃；画面中央人物，身穿蓝色衬衫，黑色西装外套，站立，表情：表情严肃；画面右侧人物，身穿黑色西装连衣短裙，站立，表情：表情严肃。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温主任",
+                "gender": "男",
+                "clothing": "灰色西装马甲",
+                "position": "画面中央",
+                "action": "闭眼微笑，头微侧",
+                "expression": "眉毛舒展，眼睛闭合，嘴角上扬"
+            }
+        ],
+        "background": "白色墙面背景。",
+        "description_narrative": "中近景镜头拍摄温主任，他闭眼微笑，头微侧，显得胸有成竹，言语中带着刺。",
+        "dialogue": "对我们所里的名声，会不会不太好啊。",
+        "speaker": "温主任",
+        "emotion": "讽刺",
+        "duration": 3.64,
+        "description_visual": "中近景平拍镜头；白色墙面背景。；画面中央人物，身穿灰色西装马甲，闭眼微笑，头微侧，表情：眉毛舒展，眼睛闭合，嘴角上扬。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面中央",
+                "action": "侧身站立，看向右侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "走廊背景。",
+        "description_narrative": "中景镜头拍摄青年男子，他侧身站立，看向右侧，表情愤怒，似乎要爆发。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 1.18,
+        "description_visual": "中景平拍镜头；走廊背景。；画面中央人物，身穿米色工装夹克，侧身站立，看向右侧，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面中央",
+                "action": "面对温主任，表情愤怒",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "背景变为粉红色灯光，气氛紧张。",
+        "description_narrative": "中近景镜头拍摄青年男子，背景变为粉红色灯光，他面对温主任，表情愤怒地质问。",
+        "dialogue": "你什么意思？",
+        "speaker": "青年男子",
+        "emotion": "愤怒",
+        "duration": 1.78,
+        "description_visual": "中近景平拍镜头；背景变为粉红色灯光，气氛紧张。；画面中央人物，身穿米色工装夹克，面对温主任，表情愤怒，表情：眉毛紧锁，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面中央",
+                "action": "侧身站立，看向右侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴闭合"
+            }
+        ],
+        "background": "背景变为绿色灯光，气氛诡异。",
+        "description_narrative": "中近景镜头拍摄青年男子，背景变为绿色灯光，他侧身站立，看向右侧，表情凝重。",
+        "dialogue": "嗯。",
+        "speaker": "温主任",
+        "emotion": "轻蔑",
+        "duration": 0.52,
+        "description_visual": "中近景平拍镜头；背景变为绿色灯光，气氛诡异。；画面中央人物，身穿米色工装夹克，侧身站立，看向右侧，表情：眉毛微蹙，眼睛注视前方，嘴巴闭合。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "青年男子",
+                "gender": "男",
+                "clothing": "米色工装夹克",
+                "position": "画面中央",
+                "action": "侧身站立，看向右侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴闭合"
+            }
+        ],
+        "background": "背景变为绿色灯光，气氛诡异。",
+        "description_narrative": "中近景镜头拍摄青年男子，背景保持绿色灯光，他侧身站立，看向右侧，气氛剑拔弩张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 1.28,
+        "description_visual": "中近景平拍镜头；背景变为绿色灯光，气氛诡异。；画面中央人物，身穿米色工装夹克，侧身站立，看向右侧，表情：眉毛微蹙，眼睛注视前方，嘴巴闭合。"
+    }
+]

@@ -1,0 +1,955 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙配薄纱外套",
+                "position": "画面中央",
+                "action": "双臂展开，身体旋转跳舞",
+                "expression": "眉毛舒展，眼睛微闭，嘴角上扬微笑"
+            }
+        ],
+        "background": "室内走廊，米色墙壁，光线柔和",
+        "description_narrative": "全景固定镜头，苏莉身穿白色蕾丝连衣裙配薄纱外套，在画面中央双臂展开旋转跳舞，表情愉悦。",
+        "dialogue": "好看吗",
+        "speaker": "苏莉",
+        "emotion": "开心",
+        "duration": 2.56,
+        "description_visual": "全景平拍镜头；室内走廊，米色墙壁，光线柔和；画面中央人物，身穿白色蕾丝连衣裙配薄纱外套，双臂展开，身体旋转跳舞，表情：眉毛舒展，眼睛微闭，嘴角上扬微笑。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体微前倾，双手自然下垂",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内客厅，白色几何纹理墙面，灰色沙发",
+        "description_narrative": "中景固定镜头，陈风身穿卡其色立领衬衫坐在沙发上，身体微前倾，神情关切地看着前方。",
+        "dialogue": "苏莉姐，你欠那些人多少钱？我和他们已经说了，你的钱由我来扛。",
+        "speaker": "陈风",
+        "emotion": "关切",
+        "duration": 5.56,
+        "description_visual": "中景平拍镜头；室内客厅，白色几何纹理墙面，灰色沙发；画面中央人物，身穿卡其色立领衬衫，黑色长裤，坐在沙发上，身体微前倾，双手自然下垂，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面右侧",
+                "action": "双手手指交叉放在白色茶几边缘",
+                "expression": "侧脸，眼神专注"
+            }
+        ],
+        "background": "白色茶几，上面有书籍和橙色装饰品",
+        "description_narrative": "特写俯拍镜头，陈风的双手手指交叉放在白色茶几边缘，桌上有书籍和橙色装饰品。",
+        "dialogue": "这个先拿着吧",
+        "speaker": "陈风",
+        "emotion": "诚恳",
+        "duration": 1.52,
+        "description_visual": "特写俯拍镜头；白色茶几，上面有书籍和橙色装饰品；画面右侧人物，身穿卡其色立领衬衫，双手手指交叉放在白色茶几边缘，表情：侧脸，眼神专注。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙配薄纱外套",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂，身体微侧",
+                "expression": "眉毛微蹙，眼神躲闪，嘴巴微张似在推辞"
+            }
+        ],
+        "background": "室内走廊，米色门框",
+        "description_narrative": "中景固定镜头，苏莉身穿白色蕾丝裙站在走廊中，双手下垂，表情犹豫推辞。",
+        "dialogue": "这我怎么好意思呢",
+        "speaker": "苏莉",
+        "emotion": "为难",
+        "duration": 1.7,
+        "description_visual": "中景平拍镜头；室内走廊，米色门框；画面中央人物，身穿白色蕾丝连衣裙配薄纱外套，站立，双手自然下垂，身体微侧，表情：眉毛微蹙，眼神躲闪，嘴巴微张似在推辞。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面左前景",
+                "action": "坐在沙发上，背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙配薄纱外套",
+                "position": "画面右侧",
+                "action": "站立，面向陈风",
+                "expression": "眉毛微挑，眼神询问"
+            }
+        ],
+        "background": "客厅，餐桌椅，环形吊灯",
+        "description_narrative": "全景过肩镜头，陈风背对镜头坐在左侧，苏莉站在右侧面向他，两人正在对话。",
+        "dialogue": "陈风你女朋友不是跟你要",
+        "speaker": "苏莉",
+        "emotion": "试探",
+        "duration": 5.7,
+        "description_visual": "全景过肩镜头；客厅，餐桌椅，环形吊灯；画面左前景人物，身穿卡其色立领衬衫，坐在沙发上，背对镜头，表情：不可见；画面右侧人物，身穿白色蕾丝连衣裙配薄纱外套，站立，面向陈风，表情：眉毛微挑，眼神询问。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙配薄纱外套",
+                "position": "画面中央",
+                "action": "身体前倾，靠近电视柜",
+                "expression": "眉毛微蹙，眼神关切，嘴巴微张"
+            }
+        ],
+        "background": "电视柜，黑色电视屏幕",
+        "description_narrative": "中近景固定镜头，苏莉身体前倾靠近电视柜，神情关切地询问。",
+        "dialogue": "你是不是没有攒到",
+        "speaker": "苏莉",
+        "emotion": "关切",
+        "duration": 2.22,
+        "description_visual": "中近景平拍镜头；电视柜，黑色电视屏幕；画面中央人物，身穿白色蕾丝连衣裙配薄纱外套，身体前倾，靠近电视柜，表情：眉毛微蹙，眼神关切，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面右侧",
+                "action": "坐在沙发上，双手放在膝盖上",
+                "expression": "眉毛低垂，眼神下移，表情落寞"
+            }
+        ],
+        "background": "沙发，橙色抱枕，白色几何墙面",
+        "description_narrative": "中景固定镜头，陈风坐在沙发上，双手放在膝盖上，眼神低垂，表情略显落寞。",
+        "dialogue": "他才跟你分手的呀",
+        "speaker": "苏莉",
+        "emotion": "同情",
+        "duration": 0.74,
+        "description_visual": "中景平拍镜头；沙发，橙色抱枕，白色几何墙面；画面右侧人物，身穿卡其色立领衬衫，坐在沙发上，双手放在膝盖上，表情：眉毛低垂，眼神下移，表情落寞。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面右侧",
+                "action": "坐在沙发上，身体微动",
+                "expression": "眉毛舒展，眼神看向侧方，嘴巴微动"
+            }
+        ],
+        "background": "沙发，白色几何墙面",
+        "description_narrative": "中景固定镜头，陈风坐在沙发上，身体微动，似乎在安慰对方。",
+        "dialogue": "没事的",
+        "speaker": "陈风",
+        "emotion": "安慰",
+        "duration": 0.36,
+        "description_visual": "中景平拍镜头；沙发，白色几何墙面；画面右侧人物，身穿卡其色立领衬衫，坐在沙发上，身体微动，表情：眉毛舒展，眼神看向侧方，嘴巴微动。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面右侧",
+                "action": "坐在沙发上，身体前倾",
+                "expression": "眉毛微蹙，眼神坚定"
+            }
+        ],
+        "background": "沙发，白色几何墙面，前景有白色遮挡物",
+        "description_narrative": "中景固定镜头，前景有白色遮挡物，陈风坐在沙发上身体前倾，表情坚定。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "中景平拍镜头；沙发，白色几何墙面，前景有白色遮挡物；画面右侧人物，身穿卡其色立领衬衫，坐在沙发上，身体前倾，表情：眉毛微蹙，眼神坚定。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "从沙发上站起，身体前倾",
+                "expression": "眉毛微蹙，眼神专注"
+            }
+        ],
+        "background": "沙发，白色几何墙面",
+        "description_narrative": "中景跟拍镜头，陈风从沙发上站起，身体前倾，动作略显急切。",
+        "dialogue": "没事的姐拿着吧",
+        "speaker": "陈风",
+        "emotion": "坚持",
+        "duration": 1.14,
+        "description_visual": "中景平拍镜头（跟拍）；沙发，白色几何墙面；画面中央人物，身穿卡其色立领衬衫，从沙发上站起，身体前倾，表情：眉毛微蹙，眼神专注。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面右侧",
+                "action": "手递出一张银行卡",
+                "expression": "不可见"
+            },
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙",
+                "position": "画面左侧",
+                "action": "手抬起似在拒绝",
+                "expression": "不可见"
+            }
+        ],
+        "background": "电视柜，黑色电视屏幕",
+        "description_narrative": "特写固定镜头，陈风的手递出一张银行卡，苏莉的手抬起似在拒绝。",
+        "dialogue": "没事的姐拿着吧",
+        "speaker": "陈风",
+        "emotion": "坚持",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；电视柜，黑色电视屏幕；画面右侧人物，身穿卡其色立领衬衫，手递出一张银行卡，表情：不可见；画面左侧人物，身穿白色蕾丝连衣裙，手抬起似在拒绝，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面左侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙配薄纱外套",
+                "position": "画面右侧",
+                "action": "站立，面对陈风",
+                "expression": "眉毛微蹙，眼神复杂"
+            }
+        ],
+        "background": "客厅，餐桌，环形吊灯",
+        "description_narrative": "中景过肩镜头，陈风背对镜头站立，苏莉面对他，两人对峙。",
+        "dialogue": "不好意思",
+        "speaker": "苏莉",
+        "emotion": "尴尬",
+        "duration": 3.2,
+        "description_visual": "中景过肩镜头；客厅，餐桌，环形吊灯；画面左侧人物，身穿卡其色立领衬衫，背对镜头站立，表情：不可见；画面右侧人物，身穿白色蕾丝连衣裙配薄纱外套，站立，面对陈风，表情：眉毛微蹙，眼神复杂。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙配薄纱外套",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "眉毛舒展，眼神看向侧上方，嘴巴微张"
+            }
+        ],
+        "background": "室内走廊，米色门框",
+        "description_narrative": "中景固定镜头，苏莉站立，身体微侧，眼神看向侧上方，试图转移话题。",
+        "dialogue": "算了，咱不提那些不开心的事情了。",
+        "speaker": "苏莉",
+        "emotion": "轻松",
+        "duration": 2.7,
+        "description_visual": "中景平拍镜头；室内走廊，米色门框；画面中央人物，身穿白色蕾丝连衣裙配薄纱外套，站立，身体微侧，表情：眉毛舒展，眼神看向侧上方，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙配薄纱外套",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛微挑，眼神期待"
+            }
+        ],
+        "background": "室内走廊，米色门框",
+        "description_narrative": "中近景固定镜头，苏莉站立，双手下垂，眼神期待地发出邀请。",
+        "dialogue": "那些不开心的事情了",
+        "speaker": "苏莉",
+        "emotion": "轻松",
+        "duration": 2.24,
+        "description_visual": "中近景平拍镜头；室内走廊，米色门框；画面中央人物，身穿白色蕾丝连衣裙配薄纱外套，站立，双手自然下垂，表情：眉毛微挑，眼神期待。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙配薄纱外套",
+                "position": "画面中央",
+                "action": "站立，身体微前倾",
+                "expression": "眉毛舒展，嘴角上扬"
+            }
+        ],
+        "background": "室内走廊，米色门框",
+        "description_narrative": "中近景固定镜头，苏莉站立，身体微前倾，微笑着发出邀请。",
+        "dialogue": "我待会有个网红聚会，你陪我一起去参加吧。",
+        "speaker": "苏莉",
+        "emotion": "邀请",
+        "duration": 4.08,
+        "description_visual": "中近景平拍镜头；室内走廊，米色门框；画面中央人物，身穿白色蕾丝连衣裙配薄纱外套，站立，身体微前倾，表情：眉毛舒展，嘴角上扬。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向下方",
+                "expression": "眉毛微蹙，眼神犹豫，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，陈风头部微侧，眼神犹豫，似乎在考虑。",
+        "dialogue": "你陪我一起去参加吧",
+        "speaker": "苏莉",
+        "emotion": "期待",
+        "duration": 0.32,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿卡其色立领衬衫，头部微侧，眼神看向下方，表情：眉毛微蹙，眼神犹豫，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "点头",
+                "expression": "眉毛舒展，眼神温和"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "中近景固定镜头，陈风点头同意，表情温和。",
+        "dialogue": "嗯，好。",
+        "speaker": "陈风",
+        "emotion": "答应",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；室内背景模糊；画面中央人物，身穿卡其色立领衬衫，点头，表情：眉毛舒展，眼神温和。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色蕾丝连衣裙",
+                "position": "画面左侧",
+                "action": "手指指向电视方向",
+                "expression": "不可见"
+            },
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面右侧",
+                "action": "站立，手臂自然下垂",
+                "expression": "不可见"
+            }
+        ],
+        "background": "电视柜，黑色电视屏幕",
+        "description_narrative": "中景固定镜头，苏莉手指指向电视方向，陈风站立在旁。",
+        "dialogue": "稍等一下我先换个衣服",
+        "speaker": "苏莉",
+        "emotion": "自然",
+        "duration": 3.26,
+        "description_visual": "中景平拍镜头；电视柜，黑色电视屏幕；画面左侧人物，身穿白色蕾丝连衣裙，手指指向电视方向，表情：不可见；画面右侧人物，身穿卡其色立领衬衫，站立，手臂自然下垂，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色衣物",
+                "position": "画面左侧",
+                "action": "走动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内环境",
+        "description_narrative": "全景摇镜镜头，画面模糊，苏莉走动准备换衣服。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "全景平拍镜头（摇镜）；模糊的室内环境；画面左侧人物，身穿白色衣物，走动，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "白色衣物",
+                "position": "画面左侧",
+                "action": "手部动作",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内环境",
+        "description_narrative": "特写固定镜头，画面模糊，苏莉的手部动作。",
+        "dialogue": "嗯。",
+        "speaker": "陈风",
+        "emotion": "等待",
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；模糊的室内环境；画面左侧人物，身穿白色衣物，手部动作，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面左侧",
+                "action": "行走",
+                "expression": "表情平静"
+            },
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面右侧",
+                "action": "行走，裙摆飘动",
+                "expression": "表情自信"
+            }
+        ],
+        "background": "宴会厅入口，米色墙壁，蓝色柜子",
+        "description_narrative": "全景跟拍镜头，陈风和换上亮片礼服的苏莉并肩走入宴会厅。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.38,
+        "description_visual": "全景平拍镜头（跟拍）；宴会厅入口，米色墙壁，蓝色柜子；画面左侧人物，身穿卡其色立领衬衫，行走，表情：表情平静；画面右侧人物，身穿亮片挂脖礼服，行走，裙摆飘动，表情：表情自信。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面右侧",
+                "action": "头部微转，眼神注视前方",
+                "expression": "眉毛微蹙，眼神警惕"
+            }
+        ],
+        "background": "米色墙壁",
+        "description_narrative": "特写固定镜头，陈风头部微转，眼神警惕地注视前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "警惕",
+        "duration": 4.36,
+        "description_visual": "特写平拍镜头；米色墙壁；画面右侧人物，身穿卡其色立领衬衫，头部微转，眼神注视前方，表情：眉毛微蹙，眼神警惕。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "站立，双手插兜",
+                "expression": "眉毛微蹙，眼神疑惑"
+            }
+        ],
+        "background": "宴会厅，灯光柔和",
+        "description_narrative": "中景固定镜头，陈风站立，双手插兜，表情疑惑。",
+        "dialogue": "可算来了，好久不见了，坐吧。",
+        "speaker": "三少",
+        "emotion": "热情",
+        "duration": 1.92,
+        "description_visual": "中景平拍镜头；宴会厅，灯光柔和；画面中央人物，身穿卡其色立领衬衫，站立，双手插兜，表情：眉毛微蹙，眼神疑惑。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "站立，双手插兜",
+                "expression": "眉毛微蹙，眼神疑惑"
+            }
+        ],
+        "background": "宴会厅，灯光柔和",
+        "description_narrative": "中景固定镜头，陈风站立，双手插兜，表情疑惑。",
+        "dialogue": "好久不见了 坐吧",
+        "speaker": "三少",
+        "emotion": "热情",
+        "duration": 6.78,
+        "description_visual": "中景平拍镜头；宴会厅，灯光柔和；画面中央人物，身穿卡其色立领衬衫，站立，双手插兜，表情：眉毛微蹙，眼神疑惑。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "闭眼微笑，双手交叉抱胸",
+                "expression": "眉毛舒展，眼睛闭合，嘴角上扬"
+            }
+        ],
+        "background": "宴会厅，灯光柔和",
+        "description_narrative": "中近景固定镜头，陈风闭眼微笑，双手交叉抱胸，似乎在回应问候。",
+        "dialogue": "是呀，好久没见了。",
+        "speaker": "陈风",
+        "emotion": "礼貌",
+        "duration": 3.34,
+        "description_visual": "中近景平拍镜头；宴会厅，灯光柔和；画面中央人物，身穿卡其色立领衬衫，闭眼微笑，双手交叉抱胸，表情：眉毛舒展，眼睛闭合，嘴角上扬。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "侧脸，闭眼",
+                "expression": "眉毛舒展，眼睛闭合"
+            }
+        ],
+        "background": "宴会厅，灯光柔和",
+        "description_narrative": "特写侧拍镜头，陈风侧脸闭眼，表情享受。",
+        "dialogue": "你呀越来越漂亮了。",
+        "speaker": "三少",
+        "emotion": "赞美",
+        "duration": 2.44,
+        "description_visual": "特写侧拍镜头；宴会厅，灯光柔和；画面中央人物，身穿卡其色立领衬衫，侧脸，闭眼，表情：眉毛舒展，眼睛闭合。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面中央",
+                "action": "微笑，头部微侧",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            }
+        ],
+        "background": "宴会厅，墙上挂画",
+        "description_narrative": "中近景固定镜头，苏莉身穿亮片礼服，微笑头部微侧，回应赞美。",
+        "dialogue": "对了我给你介绍一下。",
+        "speaker": "苏莉",
+        "emotion": "开心",
+        "duration": 3.24,
+        "description_visual": "中近景平拍镜头；宴会厅，墙上挂画；画面中央人物，身穿亮片挂脖礼服，微笑，头部微侧，表情：眉毛舒展，眼睛含笑，嘴角上扬。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面右侧",
+                "action": "坐在桌边，双手交叠",
+                "expression": "眉毛舒展，嘴角上扬"
+            }
+        ],
+        "background": "餐桌，白色餐具",
+        "description_narrative": "中近景固定镜头，苏莉坐在桌边，双手交叠，微笑着介绍。",
+        "dialogue": "是呀好久没见了",
+        "speaker": "苏莉",
+        "emotion": "寒暄",
+        "duration": 3.96,
+        "description_visual": "中近景平拍镜头；餐桌，白色餐具；画面右侧人物，身穿亮片挂脖礼服，坐在桌边，双手交叠，表情：眉毛舒展，嘴角上扬。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面右侧",
+                "action": "坐在桌边，手部动作",
+                "expression": "眉毛舒展，嘴角上扬"
+            }
+        ],
+        "background": "餐桌，白色餐具",
+        "description_narrative": "中近景固定镜头，苏莉坐在桌边，手部动作，继续介绍。",
+        "dialogue": "这位是我朋友陈风。",
+        "speaker": "苏莉",
+        "emotion": "介绍",
+        "duration": 1.94,
+        "description_visual": "中近景平拍镜头；餐桌，白色餐具；画面右侧人物，身穿亮片挂脖礼服，坐在桌边，手部动作，表情：眉毛舒展，嘴角上扬。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面中央",
+                "action": "手捂嘴笑",
+                "expression": "眉毛舒展，眼睛眯起，嘴角上扬"
+            }
+        ],
+        "background": "宴会厅背景",
+        "description_narrative": "特写固定镜头，苏莉手捂嘴笑，表情俏皮。",
+        "dialogue": "够帅吧。",
+        "speaker": "苏莉",
+        "emotion": "炫耀",
+        "duration": 3.82,
+        "description_visual": "特写平拍镜头；宴会厅背景；画面中央人物，身穿亮片挂脖礼服，手捂嘴笑，表情：眉毛舒展，眼睛眯起，嘴角上扬。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面中央",
+                "action": "手捂嘴笑",
+                "expression": "眉毛舒展，眼睛眯起"
+            }
+        ],
+        "background": "宴会厅背景",
+        "description_narrative": "特写固定镜头，苏莉手捂嘴笑，继续介绍。",
+        "dialogue": "这位是我朋友陈风",
+        "speaker": "苏莉",
+        "emotion": "介绍",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；宴会厅背景；画面中央人物，身穿亮片挂脖礼服，手捂嘴笑，表情：眉毛舒展，眼睛眯起。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面中央",
+                "action": "手捂嘴笑",
+                "expression": "眉毛舒展，眼睛眯起"
+            }
+        ],
+        "background": "宴会厅背景",
+        "description_narrative": "特写固定镜头，苏莉手捂嘴笑，夸赞陈风。",
+        "dialogue": "他呀出手很阔绰的。",
+        "speaker": "苏莉",
+        "emotion": "夸赞",
+        "duration": 2.14,
+        "description_visual": "特写平拍镜头；宴会厅背景；画面中央人物，身穿亮片挂脖礼服，手捂嘴笑，表情：眉毛舒展，眼睛眯起。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，手部动作",
+                "expression": "眉毛微蹙，眼神看向侧方"
+            }
+        ],
+        "background": "餐桌，白色餐具",
+        "description_narrative": "中景固定镜头，陈风坐在椅子上，手部动作，表情略显无奈。",
+        "dialogue": "一天能赚三十多万",
+        "speaker": "苏莉",
+        "emotion": "夸张",
+        "duration": 4.8,
+        "description_visual": "中景平拍镜头；餐桌，白色餐具；画面中央人物，身穿卡其色立领衬衫，坐在椅子上，手部动作，表情：眉毛微蹙，眼神看向侧方。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，手部动作",
+                "expression": "眉毛微蹙，眼神看向侧方"
+            }
+        ],
+        "background": "餐桌，白色餐具",
+        "description_narrative": "中景固定镜头，陈风坐在椅子上，手部动作，表情略显无奈。",
+        "dialogue": "一天能赚三十多万",
+        "speaker": "苏莉",
+        "emotion": "夸张",
+        "duration": 4.42,
+        "description_visual": "中景平拍镜头；餐桌，白色餐具；画面中央人物，身穿卡其色立领衬衫，坐在椅子上，手部动作，表情：眉毛微蹙，眼神看向侧方。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面中央",
+                "action": "坐在桌边，微笑",
+                "expression": "眉毛舒展，嘴角上扬"
+            }
+        ],
+        "background": "餐桌，白色餐具",
+        "description_narrative": "中近景固定镜头，苏莉坐在桌边，微笑，话题转折。",
+        "dialogue": "对了。",
+        "speaker": "陈风",
+        "emotion": "疑问",
+        "duration": 4.2,
+        "description_visual": "中近景平拍镜头；餐桌，白色餐具；画面中央人物，身穿亮片挂脖礼服，坐在桌边，微笑，表情：眉毛舒展，嘴角上扬。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，眼神疑惑",
+                "expression": "眉毛微蹙，眼神看向侧方"
+            }
+        ],
+        "background": "餐桌，白色餐具",
+        "description_narrative": "中景固定镜头，陈风坐在椅子上，眼神疑惑地询问。",
+        "dialogue": "你不是说还有一位朋友吗？",
+        "speaker": "陈风",
+        "emotion": "疑问",
+        "duration": 3.08,
+        "description_visual": "中景平拍镜头；餐桌，白色餐具；画面中央人物，身穿卡其色立领衬衫，坐在椅子上，眼神疑惑，表情：眉毛微蹙，眼神看向侧方。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈风",
+                "gender": "男",
+                "clothing": "卡其色立领衬衫",
+                "position": "画面中央",
+                "action": "坐在椅子上，眼神疑惑",
+                "expression": "眉毛微蹙，眼神看向侧方"
+            }
+        ],
+        "background": "餐桌，白色餐具",
+        "description_narrative": "中景固定镜头，陈风坐在椅子上，眼神疑惑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.5,
+        "description_visual": "中景平拍镜头；餐桌，白色餐具；画面中央人物，身穿卡其色立领衬衫，坐在椅子上，眼神疑惑，表情：眉毛微蹙，眼神看向侧方。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "牛仔衣女子",
+                "gender": "女",
+                "clothing": "牛仔抹胸上衣",
+                "position": "画面左侧",
+                "action": "坐在桌边，表情冷漠",
+                "expression": "眉毛平直，眼神直视前方"
+            },
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面右侧",
+                "action": "坐在桌边，微笑",
+                "expression": "眉毛舒展，嘴角上扬"
+            }
+        ],
+        "background": "餐桌，白色餐具",
+        "description_narrative": "中景固定镜头，牛仔衣女子和苏莉坐在桌边，表情各异。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；餐桌，白色餐具；画面左侧人物，身穿牛仔抹胸上衣，坐在桌边，表情冷漠，表情：眉毛平直，眼神直视前方；画面右侧人物，身穿亮片挂脖礼服，坐在桌边，微笑，表情：眉毛舒展，嘴角上扬。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "牛仔衣女子",
+                "gender": "女",
+                "clothing": "牛仔抹胸上衣",
+                "position": "画面左侧",
+                "action": "坐在桌边，转头",
+                "expression": "眉毛微挑，眼神惊讶"
+            },
+            {
+                "name": "苏莉",
+                "gender": "女",
+                "clothing": "亮片挂脖礼服",
+                "position": "画面右侧",
+                "action": "坐在桌边，转头",
+                "expression": "眉毛微挑，眼神惊讶"
+            }
+        ],
+        "background": "餐桌，白色餐具",
+        "description_narrative": "中景固定镜头，牛仔衣女子和苏莉同时转头，表情惊讶。",
+        "dialogue": "呦",
+        "speaker": "三少",
+        "emotion": "惊讶",
+        "duration": 2.0,
+        "description_visual": "中景平拍镜头；餐桌，白色餐具；画面左侧人物，身穿牛仔抹胸上衣，坐在桌边，转头，表情：眉毛微挑，眼神惊讶；画面右侧人物，身穿亮片挂脖礼服，坐在桌边，转头，表情：眉毛微挑，眼神惊讶。"
+    }
+]

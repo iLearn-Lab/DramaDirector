@@ -1,0 +1,584 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体。",
+        "description_narrative": "画面全黑，无可见人物或场景细节，持续1.7秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.7,
+        "description_visual": "全景平拍镜头；纯黑背景，无可见物体。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面右侧，坐在床边",
+                "action": "背对镜头，身体前倾，低头看书",
+                "expression": "眉毛舒展，眼睛注视书本，嘴巴紧闭"
+            }
+        ],
+        "background": "现代卧室，白色墙壁，床头有装饰画和绿植，光线明亮。",
+        "description_narrative": "高角度俯拍镜头，男子身穿黑色衬衫和长裤，背对镜头坐在床边，低头专注地看着手中的书。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.07,
+        "description_visual": "全景俯拍镜头；现代卧室，白色墙壁，床头有装饰画和绿植，光线明亮。；画面右侧，坐在床边人物，身穿黑色衬衫，黑色长裤，背对镜头，身体前倾，低头看书，表情：眉毛舒展，眼睛注视书本，嘴巴紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙，黑色蕾丝渔网袜",
+                "position": "画面中央，从门口走进",
+                "action": "右手高举黑色皮鞭，左手拿着银色手铐，身体微侧",
+                "expression": "眉毛微挑，眼睛直视前方，嘴角微扬"
+            }
+        ],
+        "background": "卧室门口，白色墙壁，可见部分室内灯光。",
+        "description_narrative": "低角度仰拍，十三娘身穿黑色吊带裙和渔网袜，手持皮鞭和手铐闯入房间，神情自信且带有挑衅意味。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.5,
+        "description_visual": "中景低角度镜头（推进）；卧室门口，白色墙壁，可见部分室内灯光。；画面中央，从门口走进人物，身穿黑色吊带长裙，黑色蕾丝渔网袜，右手高举黑色皮鞭，左手拿着银色手铐，身体微侧，表情：眉毛微挑，眼睛直视前方，嘴角微扬。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面左侧",
+                "action": "身体前倾，靠近男子",
+                "expression": "眉毛舒展，眼睛注视男子，嘴巴微张说话"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧前景（背影）",
+                "action": "转头看向十三娘",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "卧室内部，白色墙壁。",
+        "description_narrative": "过肩镜头，男子转头惊讶地看着靠近的十三娘，询问她在做什么。",
+        "dialogue": "十三娘你这是干什么",
+        "speaker": "男子",
+        "emotion": "困惑",
+        "duration": 2.77,
+        "description_visual": "近景平拍镜头；卧室内部，白色墙壁。；画面左侧人物，身穿黑色吊带长裙，身体前倾，靠近男子，表情：眉毛舒展，眼睛注视男子，嘴巴微张说话；画面右侧前景（背影）人物，身穿黑色衬衫，转头看向十三娘，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面左侧",
+                "action": "双手抓住男子的衣领",
+                "expression": "眉毛微挑，眼睛盯着男子，嘴巴紧闭"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧",
+                "action": "身体后仰，双手抬起",
+                "expression": "眉毛紧锁，眼睛闭起，嘴巴微张"
+            }
+        ],
+        "background": "卧室床边，光线柔和。",
+        "description_narrative": "十三娘双手抓住男子的衣领，男子闭眼后仰，似乎在被强行制服。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.67,
+        "description_visual": "中近景过肩镜头（跟拍）；卧室床边，光线柔和。；画面左侧人物，身穿黑色吊带长裙，双手抓住男子的衣领，表情：眉毛微挑，眼睛盯着男子，嘴巴紧闭；画面右侧人物，身穿黑色衬衫，身体后仰，双手抬起，表情：眉毛紧锁，眼睛闭起，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "斜角",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "身体向后倒在床上，手臂张开",
+                "expression": "眼睛紧闭，嘴巴微张，表情痛苦"
+            }
+        ],
+        "background": "卧室床铺，灰色床单，绿色枕头。",
+        "description_narrative": "镜头快速晃动，男子被推倒在床上，身体呈现放松但被动的姿态。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "中景斜角镜头（摇镜）；卧室床铺，灰色床单，绿色枕头。；画面中央人物，身穿黑色衬衫，黑色长裤，身体向后倒在床上，手臂张开，表情：眼睛紧闭，嘴巴微张，表情痛苦。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色长裤",
+                "position": "画面下方",
+                "action": "腿部躺在灰色毯子上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "灰色人字纹毯子，木质地板。",
+        "description_narrative": "特写镜头聚焦在男子的腿部和床边的灰色毯子，暗示他已被按倒在床上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.27,
+        "description_visual": "特写俯拍镜头；灰色人字纹毯子，木质地板。；画面下方人物，身穿黑色长裤，腿部躺在灰色毯子上，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面中央",
+                "action": "右手举起手铐，左手抚摸头发",
+                "expression": "眉毛舒展，眼睛微闭，嘴角上扬"
+            }
+        ],
+        "background": "卧室天花板，圆形吊灯。",
+        "description_narrative": "低角度仰拍，十三娘手持手铐，面带微笑，神情愉悦且掌控全局。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.1,
+        "description_visual": "中近景低角度镜头；卧室天花板，圆形吊灯。；画面中央人物，身穿黑色吊带长裙，右手举起手铐，左手抚摸头发，表情：眉毛舒展，眼睛微闭，嘴角上扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "不可见",
+                "position": "画面左侧",
+                "action": "双手正在给男子戴手铐",
+                "expression": "不可见"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "不可见",
+                "position": "画面右侧",
+                "action": "手腕被抓住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的室内背景。",
+        "description_narrative": "特写镜头展示十三娘的双手正在将银色手铐扣在男子的手腕上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.97,
+        "description_visual": "特写平拍镜头；模糊的室内背景。；画面左侧人物，身穿不可见，双手正在给男子戴手铐，表情：不可见；画面右侧人物，身穿不可见，手腕被抓住，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "晃动",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "双手被铐住，正在挣扎",
+                "expression": "嘴巴微张，表情模糊"
+            }
+        ],
+        "background": "灰色床单。",
+        "description_narrative": "镜头晃动模糊，男子躺在床上，双手被铐住，身体轻微扭动。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头（晃动）；灰色床单。；画面中央人物，身穿黑色衬衫，双手被铐住，正在挣扎，表情：嘴巴微张，表情模糊。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面上方",
+                "action": "双手拉着男子被铐住的手",
+                "expression": "眉毛舒展，眼睛向下看，嘴角微笑"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面下方（躺姿）",
+                "action": "双手被举起",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室，圆形吊灯，白色墙壁。",
+        "description_narrative": "十三娘站在床边，双手拉着被铐住的男子的手腕，低头看着他，面带得意的微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.1,
+        "description_visual": "中景仰拍镜头；卧室，圆形吊灯，白色墙壁。；画面上方人物，身穿黑色吊带长裙，双手拉着男子被铐住的手，表情：眉毛舒展，眼睛向下看，嘴角微笑；画面下方（躺姿）人物，身穿黑色衬衫，双手被举起，表情：不可见。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面中央",
+                "action": "右手拿着皮鞭，身体微晃",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴张开笑"
+            }
+        ],
+        "background": "卧室，白色墙壁，装饰画。",
+        "description_narrative": "十三娘手持皮鞭，身体轻轻晃动，脸上带着戏谑的笑容。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.43,
+        "description_visual": "中景平拍镜头；卧室，白色墙壁，装饰画。；画面中央人物，身穿黑色吊带长裙，右手拿着皮鞭，身体微晃，表情：眉毛舒展，眼睛微闭，嘴巴张开笑。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面中央",
+                "action": "低头看着下方，手持皮鞭",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张说话"
+            }
+        ],
+        "background": "白色墙壁，天花板空调出风口。",
+        "description_narrative": "十三娘低头看着床上的男子，语气中带着失望和嘲讽，说他原本以为他老实。",
+        "dialogue": "没想到啊，本来以为你忠厚老实，没有花花肠子。",
+        "speaker": "十三娘",
+        "emotion": "失望",
+        "duration": 6.53,
+        "description_visual": "近景仰拍镜头；白色墙壁，天花板空调出风口。；画面中央人物，身穿黑色吊带长裙，低头看着下方，手持皮鞭，表情：眉毛微蹙，眼睛向下看，嘴巴微张说话。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面左侧",
+                "action": "挥动皮鞭打向男子",
+                "expression": "眉毛紧锁，眼睛注视男子，嘴巴微张"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面右侧（躺姿）",
+                "action": "躺在床上，双手被铐在头顶",
+                "expression": "眼睛紧闭，嘴巴张开喊叫"
+            }
+        ],
+        "background": "卧室床铺，灰色床单，书桌背景。",
+        "description_narrative": "十三娘挥动皮鞭抽打男子，男子躺在床上发出叫声，十三娘指责他和其他女人玩得很开。",
+        "dialogue": "没想到你和那个小贱人玩的很开嘛。",
+        "speaker": "十三娘",
+        "emotion": "愤怒",
+        "duration": 5.8,
+        "description_visual": "中景平拍镜头（跟拍）；卧室床铺，灰色床单，书桌背景。；画面左侧人物，身穿黑色吊带长裙，挥动皮鞭打向男子，表情：眉毛紧锁，眼睛注视男子，嘴巴微张；画面右侧（躺姿）人物，身穿黑色衬衫，躺在床上，双手被铐在头顶，表情：眼睛紧闭，嘴巴张开喊叫。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "晃动",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "双手被铐在头顶，身体挣扎",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴大喊"
+            },
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面左侧（手臂）",
+                "action": "手持皮鞭",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室床铺。",
+        "description_narrative": "男子剧烈挣扎，大喊说十三娘疯了。",
+        "dialogue": "啊，你疯了。",
+        "speaker": "男子",
+        "emotion": "惊恐",
+        "duration": 1.9,
+        "description_visual": "近景平拍镜头（晃动）；卧室床铺。；画面中央人物，身穿黑色衬衫，双手被铐在头顶，身体挣扎，表情：眉毛紧锁，眼睛睁大，嘴巴大喊；画面左侧（手臂）人物，身穿黑色吊带长裙，手持皮鞭，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面中央",
+                "action": "身体微侧，手持皮鞭",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "白色墙壁，天花板。",
+        "description_narrative": "十三娘面带微笑，眼神中带着玩味，继续看着男子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.1,
+        "description_visual": "近景仰拍镜头；白色墙壁，天花板。；画面中央人物，身穿黑色吊带长裙，身体微侧，手持皮鞭，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央（躺姿）",
+                "action": "双手被铐在头顶，躺在灰色床单上",
+                "expression": "眼睛微闭，嘴巴微张，表情无奈"
+            }
+        ],
+        "background": "灰色床单，模糊的室内背景。",
+        "description_narrative": "男子躺在床上一脸无奈，十三娘画外音询问他小皮鞭好不好玩。",
+        "dialogue": "怎么样小皮鞭好玩吗？",
+        "speaker": "十三娘",
+        "emotion": "戏谑",
+        "duration": 4.63,
+        "description_visual": "中景俯拍镜头；灰色床单，模糊的室内背景。；画面中央（躺姿）人物，身穿黑色衬衫，双手被铐在头顶，躺在灰色床单上，表情：眼睛微闭，嘴巴微张，表情无奈。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面中央",
+                "action": "手持皮鞭靠近脸部",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "白色墙壁。",
+        "description_narrative": "十三娘拿着皮鞭，男子画外音辩解称自己被污蔑，没玩过皮鞭。",
+        "dialogue": "我说了他在污蔑我，我根本没跟他玩过什么皮鞭。",
+        "speaker": "男子",
+        "emotion": "急切",
+        "duration": 4.07,
+        "description_visual": "近景平拍镜头；白色墙壁。；画面中央人物，身穿黑色吊带长裙，手持皮鞭靠近脸部，表情：眉毛微挑，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央（躺姿）",
+                "action": "双手被铐在头顶，抬头看",
+                "expression": "眉毛微蹙，眼睛注视上方，嘴巴微张"
+            }
+        ],
+        "background": "灰色床单，背景模糊。",
+        "description_narrative": "男子躺在床上抬头看着十三娘，十三娘画外音质疑他说的是不是真的。",
+        "dialogue": "你说的是真的。",
+        "speaker": "十三娘",
+        "emotion": "怀疑",
+        "duration": 1.67,
+        "description_visual": "近景俯拍镜头；灰色床单，背景模糊。；画面中央（躺姿）人物，身穿黑色衬衫，双手被铐在头顶，抬头看，表情：眉毛微蹙，眼睛注视上方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面中央",
+                "action": "手持皮鞭，身体后仰",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，天花板。",
+        "description_narrative": "十三娘拿着皮鞭，男子画外音回答说他嫌对方脏。",
+        "dialogue": "我嫌他脏。",
+        "speaker": "男子",
+        "emotion": "嫌弃",
+        "duration": 2.77,
+        "description_visual": "中景仰拍镜头；白色墙壁，天花板。；画面中央人物，身穿黑色吊带长裙，手持皮鞭，身体后仰，表情：眉毛舒展，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面中央",
+                "action": "右手拿着黑色物体（皮带扣？）",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张说话"
+            }
+        ],
+        "background": "白色墙壁，天花板。",
+        "description_narrative": "十三娘拿着物品，男子画外音问为什么要打他。",
+        "dialogue": "你打我干什么？",
+        "speaker": "男子",
+        "emotion": "委屈",
+        "duration": 2.93,
+        "description_visual": "近景平拍镜头；白色墙壁，天花板。；画面中央人物，身穿黑色吊带长裙，右手拿着黑色物体（皮带扣？），表情：眉毛微蹙，眼睛注视前方，嘴巴微张说话。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "模糊",
+        "subjects": [],
+        "background": "白色模糊背景，带有彩色光晕。",
+        "description_narrative": "画面模糊泛白，十三娘画外音进行长篇威胁，提醒男子要负责，否则阉了他。",
+        "dialogue": "我是在提醒你，既然跟我睡了就要对我负责。如果以后再让我发现你跟其他人有什么暧昧，小心我阉了你。",
+        "speaker": "十三娘",
+        "emotion": "威胁",
+        "duration": 11.6,
+        "description_visual": "全景平拍镜头（模糊）；白色模糊背景，带有彩色光晕。。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面中央",
+                "action": "头部微侧",
+                "expression": "眉毛舒展，眼睛注视镜头，嘴巴微张"
+            }
+        ],
+        "background": "黑白滤镜，白色墙壁。",
+        "description_narrative": "画面转为黑白，十三娘面部特写，眼神犀利地看着镜头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "特写仰拍镜头；黑白滤镜，白色墙壁。；画面中央人物，身穿黑色吊带长裙，头部微侧，表情：眉毛舒展，眼睛注视镜头，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "十三娘",
+                "gender": "女",
+                "clothing": "黑色吊带长裙",
+                "position": "画面中央",
+                "action": "头部微侧，眼神坚定",
+                "expression": "眉毛微挑，眼睛注视镜头，嘴巴紧闭"
+            }
+        ],
+        "background": "黑白滤镜，白色墙壁。",
+        "description_narrative": "黑白画面持续，十三娘保持凝视，神情冷峻。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.9,
+        "description_visual": "特写仰拍镜头；黑白滤镜，白色墙壁。；画面中央人物，身穿黑色吊带长裙，头部微侧，眼神坚定，表情：眉毛微挑，眼睛注视镜头，嘴巴紧闭。"
+    }
+]

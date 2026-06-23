@@ -1,0 +1,607 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅蓝金色纹样长袍",
+                "position": "画面左侧/后方",
+                "action": "从后方环抱女子，下巴靠近女子肩膀",
+                "expression": "眉毛舒展，眼睛微闭，嘴角含笑"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "浅蓝金色纹样长袍",
+                "position": "画面右侧/前方",
+                "action": "被男子环抱，身体微侧",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "深色木质屏风背景，上有金色装饰，光线柔和",
+        "description_narrative": "中景固定镜头，王爷身穿浅蓝金色长袍从后方环抱身穿同色长袍的王妃，背景为深色雕花屏风，画面上方有粉色标题字“替嫁娇妻”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色木质屏风背景，上有金色装饰，光线柔和；画面左侧/后方人物，身穿浅蓝金色纹样长袍，从后方环抱女子，下巴靠近女子肩膀，表情：眉毛舒展，眼睛微闭，嘴角含笑；画面右侧/前方人物，身穿浅蓝金色纹样长袍，被男子环抱，身体微侧，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面中央",
+                "action": "头部微侧，视线向右下方偏移",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴唇紧抿显出不悦"
+            }
+        ],
+        "background": "室内背景模糊，可见深色书架或柜子，光线较暗",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣，眉头紧锁，眼神不悦地看向右下方，背景为模糊的室内陈设。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": " Annoyed",
+        "duration": 1.44,
+        "description_visual": "特写平拍镜头；室内背景模糊，可见深色书架或柜子，光线较暗；画面中央人物，身穿红色嫁衣，头部微侧，视线向右下方偏移，表情：眉毛紧蹙，眼睛斜视，嘴唇紧抿显出不悦。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "红色喜袍，头戴金冠",
+                "position": "画面中央",
+                "action": "头部微侧，眼神锐利地看向一侧",
+                "expression": "眉毛微挑，眼睛直视，嘴唇微张似在说话"
+            }
+        ],
+        "background": "红色帷幔背景，光线集中在人物面部",
+        "description_narrative": "特写固定镜头，王爷身穿红色喜袍头戴金冠，侧脸对着镜头，眼神锐利，嘴唇微动，背景为红色帷幔。",
+        "dialogue": "袖中藏刀，这是要行刺本王。",
+        "speaker": "王爷",
+        "emotion": "Suspicious",
+        "duration": 2.64,
+        "description_visual": "特写平拍镜头；红色帷幔背景，光线集中在人物面部；画面中央人物，身穿红色喜袍，头戴金冠，头部微侧，眼神锐利地看向一侧，表情：眉毛微挑，眼睛直视，嘴唇微张似在说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景模糊，可见深色家具",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣，低头看向下方，神情略显委屈但倔强，背景模糊。",
+        "dialogue": "这是我防身用的，再说你还用得着刀吗？",
+        "speaker": "王妃",
+        "emotion": "Defensive",
+        "duration": 5.8,
+        "description_visual": "特写平拍镜头；室内背景模糊，可见深色家具；画面中央人物，身穿红色嫁衣，头部微低，视线向下，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "红色喜袍，头戴金冠",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛舒展，眼睛下视，嘴角微扬带笑意"
+            }
+        ],
+        "background": "红色帷幔背景，光线柔和",
+        "description_narrative": "特写固定镜头，王爷身穿红色喜袍，低头看着下方，嘴角带着一丝戏谑的笑意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "Amused",
+        "duration": 2.88,
+        "description_visual": "特写平拍镜头；红色帷幔背景，光线柔和；画面中央人物，身穿红色喜袍，头戴金冠，头部微低，视线向下，表情：眉毛舒展，眼睛下视，嘴角微扬带笑意。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣，低头不语，神情略显沉闷。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "Resigned",
+        "duration": 2.44,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿红色嫁衣，头部微低，视线向下，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "红色喜袍，头戴金冠",
+                "position": "画面中央偏下",
+                "action": "坐在床边，手中把玩一把短刀",
+                "expression": "低头看着手中的刀，神情专注"
+            }
+        ],
+        "background": "雕花床榻，蓝色床幔，红色喜绸悬挂上方",
+        "description_narrative": "中景俯拍镜头，王爷身穿红色喜袍坐在床边，手中拿着一把短刀低头查看，背景是雕花床榻和蓝色床幔。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "Contemplative",
+        "duration": 4.64,
+        "description_visual": "中景俯拍镜头；雕花床榻，蓝色床幔，红色喜绸悬挂上方；画面中央偏下人物，身穿红色喜袍，头戴金冠，坐在床边，手中把玩一把短刀，表情：低头看着手中的刀，神情专注。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面中央",
+                "action": "头部微低，视线向下",
+                "expression": "眉毛紧蹙，眼睛下视，嘴唇微张"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣，眉头紧锁，低头看着下方，似乎在听对方说话。",
+        "dialogue": "去给我睡地板",
+        "speaker": "王爷",
+        "emotion": "Shocked",
+        "duration": 0.84,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿红色嫁衣，头部微低，视线向下，表情：眉毛紧蹙，眼睛下视，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "红色喜袍，头戴金冠",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛微挑，眼睛直视，嘴唇微张"
+            }
+        ],
+        "background": "深色背景，光线集中在面部",
+        "description_narrative": "特写固定镜头，王爷身穿红色喜袍，表情严肃地看着前方，下达命令。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "Commanding",
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头；深色背景，光线集中在面部；画面中央人物，身穿红色喜袍，头戴金冠，头部微侧，视线向前，表情：眉毛微挑，眼睛直视，嘴唇微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面中央",
+                "action": "头部微侧，视线向右",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴唇微张似在抱怨"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣，侧头看向右方，眉头紧锁，神情不满。",
+        "dialogue": "大婚当晚。",
+        "speaker": "王妃",
+        "emotion": "Indignant",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿红色嫁衣，头部微侧，视线向右，表情：眉毛紧蹙，眼睛斜视，嘴唇微张似在抱怨。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面中央",
+                "action": "头部微侧，视线向右",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴唇微张"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣，继续侧头抱怨，神情委屈。",
+        "dialogue": "你竟然让我睡地板",
+        "speaker": "王妃",
+        "emotion": "Indignant",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿红色嫁衣，头部微侧，视线向右，表情：眉毛紧蹙，眼睛斜视，嘴唇微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "红色喜袍，头戴金冠",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛微挑，眼睛直视，嘴角微扬"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "特写固定镜头，王爷身穿红色喜袍，看着前方，神情戏谑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "Teasing",
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头；深色背景；画面中央人物，身穿红色喜袍，头戴金冠，头部微侧，视线向前，表情：眉毛微挑，眼睛直视，嘴角微扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面中央",
+                "action": "头部微侧，视线向右",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣，侧头听着，神情不悦。",
+        "dialogue": "王妃就这么想和本王睡觉",
+        "speaker": "王爷",
+        "emotion": "Teasing",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿红色嫁衣，头部微侧，视线向右，表情：眉毛紧蹙，眼睛斜视，嘴唇紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "红色喜袍，头戴金冠",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛微挑，眼睛直视，嘴角微扬"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "特写固定镜头，王爷身穿红色喜袍，看着前方，神情戏谑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "Teasing",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；深色背景；画面中央人物，身穿红色喜袍，头戴金冠，头部微侧，视线向前，表情：眉毛微挑，眼睛直视，嘴角微扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣，抱着枕头",
+                "position": "画面中央",
+                "action": "抱着枕头，头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇微张似在否认"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣抱着枕头，低头急忙否认，神情慌乱。",
+        "dialogue": "不，不，不。",
+        "speaker": "王妃",
+        "emotion": "Panicked",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿红色嫁衣，抱着枕头，抱着枕头，头部微低，表情：眉毛微蹙，眼睛下视，嘴唇微张似在否认。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "红色喜袍，头戴金冠",
+                "position": "画面中央",
+                "action": "头部微侧，视线向前",
+                "expression": "眉毛微挑，眼睛直视，神情玩味"
+            }
+        ],
+        "background": "深色背景",
+        "description_narrative": "特写固定镜头，王爷身穿红色喜袍，看着前方，听着对方的解释。",
+        "dialogue": "我还是很喜欢睡地板的。",
+        "speaker": "王妃",
+        "emotion": "Reluctant",
+        "duration": 2.48,
+        "description_visual": "特写平拍镜头；深色背景；画面中央人物，身穿红色喜袍，头戴金冠，头部微侧，视线向前，表情：眉毛微挑，眼睛直视，神情玩味。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣，抱着枕头",
+                "position": "画面中央",
+                "action": "抱着枕头，头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣抱着枕头，低头认命，神情无奈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "Resigned",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿红色嫁衣，抱着枕头，抱着枕头，头部微低，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣，抱着枕头",
+                "position": "画面中央",
+                "action": "抱着枕头，头部微低",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣抱着枕头，低头准备去睡地板。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "Resigned",
+        "duration": 2.72,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿红色嫁衣，抱着枕头，抱着枕头，头部微低，表情：眉毛微蹙，眼睛下视，嘴唇紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣，抱着枕头",
+                "position": "画面下方",
+                "action": "蹲在地上，抱着枕头",
+                "expression": "低头看着枕头，神情委屈"
+            }
+        ],
+        "background": "雕花床柱，红色帷幔",
+        "description_narrative": "中景固定镜头，王妃身穿红色嫁衣抱着枕头蹲在床边的地上，背景是雕花床柱和红色帷幔。",
+        "dialogue": "臭男人，小气鬼。",
+        "speaker": "王妃",
+        "emotion": "Angry",
+        "duration": 3.6,
+        "description_visual": "中景平拍镜头；雕花床柱，红色帷幔；画面下方人物，身穿红色嫁衣，抱着枕头，蹲在地上，抱着枕头，表情：低头看着枕头，神情委屈。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣，抱着枕头",
+                "position": "画面中央",
+                "action": "抱着枕头，头部微低",
+                "expression": "眉毛紧蹙，眼睛下视，嘴唇微动"
+            }
+        ],
+        "background": "红色背景",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣抱着枕头，低头小声咒骂，神情不满。",
+        "dialogue": "竟然让我睡地板。",
+        "speaker": "王妃",
+        "emotion": "Angry",
+        "duration": 5.88,
+        "description_visual": "特写平拍镜头；红色背景；画面中央人物，身穿红色嫁衣，抱着枕头，抱着枕头，头部微低，表情：眉毛紧蹙，眼睛下视，嘴唇微动。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑背景",
+        "description_narrative": "黑屏画面，只有左侧白色文字提示。",
+        "dialogue": "小姐，小姐，你快醒醒，出大事了，小姐。",
+        "speaker": "丫鬟",
+        "emotion": "Urgent",
+        "duration": 4.04,
+        "description_visual": "特写平拍镜头；全黑背景。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣，抱着枕头",
+                "position": "画面中央",
+                "action": "抬头向上看，眼神迷茫",
+                "expression": "眉毛微蹙，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，王妃身穿红色嫁衣抱着枕头，被叫醒后抬头向上看，眼神迷茫。",
+        "dialogue": "何事 现在已经是巳时了",
+        "speaker": "王妃",
+        "emotion": "Confused",
+        "duration": 2.56,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿红色嫁衣，抱着枕头，抬头向上看，眼神迷茫，表情：眉毛微蹙，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉白相间侍女服",
+                "position": "画面中央",
+                "action": "身体前倾，焦急地看着前方",
+                "expression": "眉毛紧蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊",
+        "description_narrative": "特写固定镜头，丫鬟身穿粉白相间侍女服，身体前倾，神情焦急地催促。",
+        "dialogue": "我们不是在丞相府 还要去请安敬茶呢",
+        "speaker": "丫鬟",
+        "emotion": "Urgent",
+        "duration": 2.76,
+        "description_visual": "特写平拍镜头；室内背景模糊；画面中央人物，身穿粉白相间侍女服，身体前倾，焦急地看着前方，表情：眉毛紧蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面左侧",
+                "action": "坐在地上，抱着枕头",
+                "expression": "低头看着地面，神情恍惚"
+            },
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉白相间侍女服",
+                "position": "画面右侧",
+                "action": "蹲在地上，伸手拉着王妃",
+                "expression": "眉头紧锁，嘴巴微张，神情焦急"
+            }
+        ],
+        "background": "雕花床柱，蓝色床幔",
+        "description_narrative": "中景固定镜头，王妃身穿红色嫁衣坐在地上，丫鬟身穿粉白侍女服蹲在旁边拉着她，背景是雕花床柱。",
+        "dialogue": "你怎么坐地上了 巳时了",
+        "speaker": "丫鬟",
+        "emotion": "Urgent",
+        "duration": 2.88,
+        "description_visual": "中景平拍镜头；雕花床柱，蓝色床幔；画面左侧人物，身穿红色嫁衣，坐在地上，抱着枕头，表情：低头看着地面，神情恍惚；画面右侧人物，身穿粉白相间侍女服，蹲在地上，伸手拉着王妃，表情：眉头紧锁，嘴巴微张，神情焦急。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面下方",
+                "action": "低头看着地面",
+                "expression": "眉毛紧蹙，眼睛下视，嘴唇微张"
+            }
+        ],
+        "background": "地面/地毯纹理",
+        "description_narrative": "特写俯拍镜头，王妃身穿红色嫁衣低头看着地面，神情震惊。",
+        "dialogue": "巳时了",
+        "speaker": "王妃",
+        "emotion": "Shocked",
+        "duration": 1.36,
+        "description_visual": "特写俯拍镜头；地面/地毯纹理；画面下方人物，身穿红色嫁衣，低头看着地面，表情：眉毛紧蹙，眼睛下视，嘴唇微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "红色嫁衣",
+                "position": "画面左侧",
+                "action": "手部动作，似乎在整理衣物或起身",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色布料特写",
+        "description_narrative": "特写固定镜头，红色嫁衣袖口或布料特写，有人伸手拉扯，动作急促。",
+        "dialogue": "快走。",
+        "speaker": "丫鬟",
+        "emotion": "Urgent",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；红色布料特写；画面左侧人物，身穿红色嫁衣，手部动作，似乎在整理衣物或起身，表情：不可见。"
+    }
+]

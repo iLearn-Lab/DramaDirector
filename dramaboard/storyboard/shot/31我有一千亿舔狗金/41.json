@@ -1,0 +1,615 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色房门，银色门把手，室内光线明亮",
+        "description_narrative": "镜头固定对准一扇紧闭的白色房门，门把手呈银色，画面安静，暗示门内正在发生重要事情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.3,
+        "description_visual": "中景平拍镜头；白色房门，银色门把手，室内光线明亮。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面左侧",
+                "action": "快速从镜头前走过，身影模糊",
+                "expression": "眉毛微蹙，嘴巴微张，神情焦急"
+            }
+        ],
+        "background": "白色墙壁，室内环境",
+        "description_narrative": "柳小姐身穿黑色连衣裙，焦急地从镜头左侧快速走过，身影因运动而模糊，她急切地询问母亲的状况。",
+        "dialogue": "妈，爷爷的",
+        "speaker": "柳小姐",
+        "emotion": "焦急",
+        "duration": 1.3,
+        "description_visual": "中近景平拍镜头（跟拍）；白色墙壁，室内环境；画面左侧人物，身穿黑色刺绣连衣裙，快速从镜头前走过，身影模糊，表情：眉毛微蹙，嘴巴微张，神情焦急。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "红色毛衣，灰色高领打底",
+                "position": "画面中央",
+                "action": "双手交握在胸前，身体微侧",
+                "expression": "眉毛微蹙，眼神担忧，嘴唇紧闭"
+            }
+        ],
+        "background": "白色墙壁，室内光线柔和",
+        "description_narrative": "母亲身穿红色毛衣，双手紧张地交握在胸前，神情忧虑地看向一侧，听着女儿的询问。",
+        "dialogue": "病怎么样了？",
+        "speaker": "柳小姐",
+        "emotion": "担忧",
+        "duration": 1.07,
+        "description_visual": "中近景平拍镜头；白色墙壁，室内光线柔和；画面中央人物，身穿红色毛衣，灰色高领打底，双手交握在胸前，身体微侧，表情：眉毛微蹙，眼神担忧，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "红色毛衣，灰色高领打底",
+                "position": "画面中央",
+                "action": "举起右手食指放在唇边，做出噤声手势",
+                "expression": "眉毛上扬，眼神警惕，嘴巴微张示意安静"
+            }
+        ],
+        "background": "白色墙壁，室内光线柔和",
+        "description_narrative": "母亲神情紧张，举起食指放在唇边示意女儿小声，告知她陈大夫正在诊治。",
+        "dialogue": "嘘，陈大夫正在诊治呢。",
+        "speaker": "母亲",
+        "emotion": "紧张",
+        "duration": 2.53,
+        "description_visual": "中近景平拍镜头；白色墙壁，室内光线柔和；画面中央人物，身穿红色毛衣，灰色高领打底，举起右手食指放在唇边，做出噤声手势，表情：眉毛上扬，眼神警惕，嘴巴微张示意安静。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装，蓝色医用口罩",
+                "position": "画面左侧前景",
+                "action": "低头专注查看病人，身体前倾",
+                "expression": "眼神专注向下，眉毛被口罩遮挡"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "红色毛衣",
+                "position": "画面右侧背景",
+                "action": "双手交握站立",
+                "expression": "神情担忧"
+            }
+        ],
+        "background": "室内，模糊的红色床铺",
+        "description_narrative": "陈大夫戴着蓝色口罩，身穿黑色唐装，正低头专注地为病人诊治，母亲在背景中焦急等待。",
+        "dialogue": "陈大夫正在诊治呢",
+        "speaker": "母亲",
+        "emotion": "专注",
+        "duration": 6.63,
+        "description_visual": "近景侧拍镜头；室内，模糊的红色床铺；画面左侧前景人物，身穿黑色唐装，蓝色医用口罩，低头专注查看病人，身体前倾，表情：眼神专注向下，眉毛被口罩遮挡；画面右侧背景人物，身穿红色毛衣，双手交握站立，表情：神情担忧。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "微摇",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装，蓝色医用口罩",
+                "position": "画面左侧",
+                "action": "抬头看向一侧，眼神锐利",
+                "expression": "眼神直视前方，眉毛微挑"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "红色毛衣",
+                "position": "画面右侧背景",
+                "action": "站立等待",
+                "expression": "神情紧张"
+            },
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色连衣裙",
+                "position": "画面左后景",
+                "action": "站立",
+                "expression": "神情关注"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "陈大夫诊治间隙抬头看向一侧，目光锐利，背景中母亲和柳小姐都在关注着他的动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 0.5,
+        "description_visual": "近景侧拍镜头（微摇）；室内，白色墙壁；画面左侧人物，身穿黑色唐装，蓝色医用口罩，抬头看向一侧，眼神锐利，表情：眼神直视前方，眉毛微挑；画面右侧背景人物，身穿红色毛衣，站立等待，表情：神情紧张；画面左后景人物，身穿黑色连衣裙，站立，表情：神情关注。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装，蓝色医用口罩",
+                "position": "画面中央",
+                "action": "身体移动，调整姿势",
+                "expression": "眼神向下，专注于手头动作"
+            }
+        ],
+        "background": "室内，模糊背景",
+        "description_narrative": "陈大夫身体微动，调整诊治姿势，镜头跟随其动作轻微晃动，保持对医生动作的关注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 0.57,
+        "description_visual": "近景侧拍镜头（跟拍）；室内，模糊背景；画面中央人物，身穿黑色唐装，蓝色医用口罩，身体移动，调整姿势，表情：眼神向下，专注于手头动作。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装",
+                "position": "画面中央",
+                "action": "手臂动作，似乎在按压或检查",
+                "expression": "不可见，头部低垂"
+            }
+        ],
+        "background": "白色天花板，灯光",
+        "description_narrative": "镜头仰拍陈大夫的手臂动作，他身穿黑色唐装，正用力进行某种检查或治疗动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.1,
+        "description_visual": "特写仰拍镜头；白色天花板，灯光；画面中央人物，身穿黑色唐装，手臂动作，似乎在按压或检查，表情：不可见，头部低垂。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装，蓝色医用口罩",
+                "position": "画面中央",
+                "action": "低头查看，眼神专注",
+                "expression": "眼神向下，眉毛微蹙"
+            }
+        ],
+        "background": "白色墙壁，室内灯光",
+        "description_narrative": "陈大夫低头专注查看病人情况，蓝色口罩遮住半张脸，眼神中流露出严肃和凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 0.53,
+        "description_visual": "近景平拍镜头；白色墙壁，室内灯光；画面中央人物，身穿黑色唐装，蓝色医用口罩，低头查看，眼神专注，表情：眼神向下，眉毛微蹙。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装，蓝色医用口罩",
+                "position": "画面中央",
+                "action": "继续低头检查，手部动作",
+                "expression": "眼神专注，眉头紧锁"
+            }
+        ],
+        "background": "白色床单，模糊前景",
+        "description_narrative": "陈大夫继续低头为病人检查，前景有白色床单遮挡，营造出紧张的医疗氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "凝重",
+        "duration": 1.33,
+        "description_visual": "近景平拍镜头；白色床单，模糊前景；画面中央人物，身穿黑色唐装，蓝色医用口罩，继续低头检查，手部动作，表情：眼神专注，眉头紧锁。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面中央",
+                "action": "侧身站立，双手交握",
+                "expression": "眼神看向右侧，嘴唇微抿，神情担忧"
+            }
+        ],
+        "background": "白色墙壁，室内光线",
+        "description_narrative": "柳小姐侧身站立，身穿黑色刺绣连衣裙，双手交握在身前，眼神焦急地等待着诊断结果。",
+        "dialogue": "陈大夫，我爷爷的情况怎么样了？",
+        "speaker": "柳小姐",
+        "emotion": "焦急",
+        "duration": 3.07,
+        "description_visual": "中近景平拍镜头；白色墙壁，室内光线；画面中央人物，身穿黑色刺绣连衣裙，侧身站立，双手交握，表情：眼神看向右侧，嘴唇微抿，神情担忧。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装，蓝色医用口罩",
+                "position": "画面右侧",
+                "action": "侧身站立，头部微低",
+                "expression": "眼神向下，神情严肃"
+            }
+        ],
+        "background": "白色墙壁，简洁背景",
+        "description_narrative": "陈大夫侧身站立，戴着蓝色口罩，神情严肃地告知家属诊断结果，气氛凝重。",
+        "dialogue": "情况很不乐观。",
+        "speaker": "陈大夫",
+        "emotion": "严肃",
+        "duration": 2.33,
+        "description_visual": "近景侧拍镜头；白色墙壁，简洁背景；画面右侧人物，身穿黑色唐装，蓝色医用口罩，侧身站立，头部微低，表情：眼神向下，神情严肃。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "红色毛衣，灰色高领打底",
+                "position": "画面中央",
+                "action": "双手交握在胸前，身体微侧",
+                "expression": "眉毛微蹙，眼神震惊，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，室内光线",
+        "description_narrative": "母亲听到诊断结果后震惊不已，双手紧紧交握在胸前，不敢相信顶尖专家也束手无策。",
+        "dialogue": "陈大夫，你可是全国顶尖的脑科专家，你都没办法。",
+        "speaker": "母亲",
+        "emotion": "震惊",
+        "duration": 7.33,
+        "description_visual": "中近景侧拍镜头；白色墙壁，室内光线；画面中央人物，身穿红色毛衣，灰色高领打底，双手交握在胸前，身体微侧，表情：眉毛微蹙，眼神震惊，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面中央",
+                "action": "侧身站立，双手交握",
+                "expression": "眼神看向右侧，眉头微蹙，神情无助"
+            }
+        ],
+        "background": "白色墙壁，部分西装肩膀可见",
+        "description_narrative": "柳小姐听到专家的诊断后感到无助，侧身询问接下来该怎么办，身旁站着身穿西装的张东。",
+        "dialogue": "那我们该怎么办呢",
+        "speaker": "柳小姐",
+        "emotion": "无助",
+        "duration": 1.7,
+        "description_visual": "中近景平拍镜头；白色墙壁，部分西装肩膀可见；画面中央人物，身穿黑色刺绣连衣裙，侧身站立，双手交握，表情：眼神看向右侧，眉头微蹙，神情无助。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面中央",
+                "action": "转头看向左侧，眼神坚定",
+                "expression": "眉毛舒展，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "白色墙壁，部分西装肩膀可见",
+        "description_narrative": "柳小姐转头看向身旁的张东，眼神中流露出一丝希望，此时张东的声音传来，表示专家并非绝对权威。",
+        "dialogue": "顶尖专家也不是绝对权威",
+        "speaker": "张东",
+        "emotion": "自信",
+        "duration": 1.8,
+        "description_visual": "中近景平拍镜头；白色墙壁，部分西装肩膀可见；画面中央人物，身穿黑色刺绣连衣裙，转头看向左侧，眼神坚定，表情：眉毛舒展，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装，蓝色医用口罩",
+                "position": "画面右侧",
+                "action": "侧身站立，头部微转",
+                "expression": "眼神看向左侧，眉毛微挑"
+            }
+        ],
+        "background": "白色墙壁，简洁背景",
+        "description_narrative": "陈大夫侧身站立，听到张东的话后微微转头，眼神中流露出一丝不屑，张东继续自信地表示只要有病就能治。",
+        "dialogue": "只要是病，他总能治嘛。",
+        "speaker": "张东",
+        "emotion": "自信",
+        "duration": 4.0,
+        "description_visual": "近景侧拍镜头；白色墙壁，简洁背景；画面右侧人物，身穿黑色唐装，蓝色医用口罩，侧身站立，头部微转，表情：眼神看向左侧，眉毛微挑。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面中央",
+                "action": "侧身站立，看向左侧",
+                "expression": "嘴巴微张，眼神惊讶"
+            }
+        ],
+        "background": "白色墙壁，部分西装肩膀可见",
+        "description_narrative": "柳小姐惊讶地看向左侧，此时母亲的声音传来，质问张东是谁，场面一度紧张。",
+        "dialogue": "你是谁啊？",
+        "speaker": "母亲",
+        "emotion": "疑惑",
+        "duration": 2.9,
+        "description_visual": "中近景平拍镜头；白色墙壁，部分西装肩膀可见；画面中央人物，身穿黑色刺绣连衣裙，侧身站立，看向左侧，表情：嘴巴微张，眼神惊讶。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装，蓝色医用口罩",
+                "position": "画面右侧",
+                "action": "侧身站立，头部微转",
+                "expression": "眼神看向左侧，神情平静"
+            }
+        ],
+        "background": "白色墙壁，简洁背景",
+        "description_narrative": "陈大夫侧身站立，柳小姐的声音传来，向母亲介绍张东是她专门请来的神医。",
+        "dialogue": "妈，他是我专门请来的神医",
+        "speaker": "柳小姐",
+        "emotion": "坚定",
+        "duration": 2.53,
+        "description_visual": "近景侧拍镜头；白色墙壁，简洁背景；画面右侧人物，身穿黑色唐装，蓝色医用口罩，侧身站立，头部微转，表情：眼神看向左侧，神情平静。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面中央",
+                "action": "侧身站立，双手交握",
+                "expression": "眼神坚定，嘴唇微动，正在解释"
+            }
+        ],
+        "background": "白色墙壁，部分西装肩膀可见",
+        "description_narrative": "柳小姐侧身站立，向母亲解释张东刚刚治好了她的病，试图证明张东的实力。",
+        "dialogue": "就是他，刚刚治好了我的病。",
+        "speaker": "柳小姐",
+        "emotion": "确信",
+        "duration": 3.17,
+        "description_visual": "中近景平拍镜头；白色墙壁，部分西装肩膀可见；画面中央人物，身穿黑色刺绣连衣裙，侧身站立，双手交握，表情：眼神坚定，嘴唇微动，正在解释。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "红色毛衣，灰色高领打底",
+                "position": "画面中央",
+                "action": "双手交握在胸前，身体微侧",
+                "expression": "眉毛微蹙，眼神怀疑，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，室内光线",
+        "description_narrative": "母亲双手交握，神情怀疑地看着女儿，让她继续说下去，似乎不太相信这个说法。",
+        "dialogue": "你说。",
+        "speaker": "母亲",
+        "emotion": "怀疑",
+        "duration": 1.37,
+        "description_visual": "中近景平拍镜头；白色墙壁，室内光线；画面中央人物，身穿红色毛衣，灰色高领打底，双手交握在胸前，身体微侧，表情：眉毛微蹙，眼神怀疑，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "红色毛衣，灰色高领打底",
+                "position": "画面中央",
+                "action": "双手交握在胸前，身体微侧",
+                "expression": "眉毛上扬，眼神惊讶，嘴巴微张"
+            }
+        ],
+        "background": "白色墙壁，室内光线",
+        "description_narrative": "母亲惊讶地确认女儿的意思，询问是否真的是张东治好了她的心脏病，神情中带着不可思议。",
+        "dialogue": "是他治好了你的心脏病",
+        "speaker": "母亲",
+        "emotion": "惊讶",
+        "duration": 1.47,
+        "description_visual": "中近景平拍镜头；白色墙壁，室内光线；画面中央人物，身穿红色毛衣，灰色高领打底，双手交握在胸前，身体微侧，表情：眉毛上扬，眼神惊讶，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面中央",
+                "action": "侧身站立，点头确认",
+                "expression": "眼神坚定，嘴唇微动，正在解释"
+            }
+        ],
+        "background": "白色墙壁，部分西装肩膀可见",
+        "description_narrative": "柳小姐点头确认，并进一步解释自己刚刚一路小跑过来完全没有不适，像正常人一样。",
+        "dialogue": "对。",
+        "speaker": "柳小姐",
+        "emotion": "坚定",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；白色墙壁，部分西装肩膀可见；画面中央人物，身穿黑色刺绣连衣裙，侧身站立，点头确认，表情：眼神坚定，嘴唇微动，正在解释。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈大夫",
+                "gender": "男",
+                "clothing": "黑色唐装，蓝色医用口罩",
+                "position": "画面右侧",
+                "action": "侧身站立，头部微转",
+                "expression": "眼神看向左侧，神情平静"
+            }
+        ],
+        "background": "白色墙壁，简洁背景",
+        "description_narrative": "陈大夫侧身站立，听着柳小姐的描述，柳小姐继续表示相信张东能救回爷爷。",
+        "dialogue": "我们刚刚一路小跑过来，我完全没有胸闷气短，像正常人一模一样。妈，我相信张东一定能救回爷爷的。",
+        "speaker": "柳小姐",
+        "emotion": "急切",
+        "duration": 9.33,
+        "description_visual": "近景侧拍镜头；白色墙壁，简洁背景；画面右侧人物，身穿黑色唐装，蓝色医用口罩，侧身站立，头部微转，表情：眼神看向左侧，神情平静。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面中央",
+                "action": "侧身站立，双手交握",
+                "expression": "眼神看向左侧，神情严肃"
+            }
+        ],
+        "background": "白色墙壁，部分西装肩膀可见",
+        "description_narrative": "柳小姐侧身站立，陈大夫的声音传来，警告她不要急病乱投医，小心被骗。",
+        "dialogue": "柳小姐，你可不要急病乱投医啊，特别是有些来历不明的骗子。",
+        "speaker": "陈大夫",
+        "emotion": "警告",
+        "duration": 6.93,
+        "description_visual": "中近景平拍镜头；白色墙壁，部分西装肩膀可见；画面中央人物，身穿黑色刺绣连衣裙，侧身站立，双手交握，表情：眼神看向左侧，神情严肃。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面中央",
+                "action": "转头看向左侧，眼神坚定",
+                "expression": "眉毛微挑，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "白色墙壁，部分西装肩膀可见",
+        "description_narrative": "柳小姐转头看向张东，此时张东自信的声音传来，表示陈大夫做不到不代表他也做不到。",
+        "dialogue": "你做不到不代表我。",
+        "speaker": "张东",
+        "emotion": "自信",
+        "duration": 3.53,
+        "description_visual": "中近景平拍镜头；白色墙壁，部分西装肩膀可见；画面中央人物，身穿黑色刺绣连衣裙，转头看向左侧，眼神坚定，表情：眉毛微挑，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "柳小姐",
+                "gender": "女",
+                "clothing": "黑色刺绣连衣裙",
+                "position": "画面中央",
+                "action": "侧身站立，双手交握",
+                "expression": "眼神看向左侧，神情期待"
+            }
+        ],
+        "background": "白色墙壁，部分西装肩膀可见",
+        "description_narrative": "柳小姐侧身站立，眼神期待地看着张东，张东继续自信地表示陈大夫治不了。",
+        "dialogue": "做不到啊。",
+        "speaker": "张东",
+        "emotion": "自信",
+        "duration": 1.63,
+        "description_visual": "中近景平拍镜头；白色墙壁，部分西装肩膀可见；画面中央人物，身穿黑色刺绣连衣裙，侧身站立，双手交握，表情：眼神看向左侧，神情期待。"
+    }
+]

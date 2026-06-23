@@ -1,0 +1,681 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "户外金属边缘，雨滴悬挂，背景虚化呈绿色调",
+        "description_narrative": "特写镜头固定拍摄金属边缘，几滴雨水悬挂欲滴，背景是模糊的绿色植被和光斑，营造潮湿氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；户外金属边缘，雨滴悬挂，背景虚化呈绿色调。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "昏暗的室内地面，反光材质，光线极弱",
+        "description_narrative": "俯拍视角展示昏暗的室内地面，光线微弱，仅右侧有微弱反光，环境压抑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.12,
+        "description_visual": "全景俯拍镜头；昏暗的室内地面，反光材质，光线极弱。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面中央",
+                "action": "靠在床头，双手持书阅读",
+                "expression": "眉毛舒展，眼睛注视书本，嘴巴微闭"
+            }
+        ],
+        "background": "卧室床头，灰色软包靠背，墙上装饰画，暖色灯光",
+        "description_narrative": "中景镜头，季斯年身穿深蓝色格纹睡衣靠在床头，神情专注地阅读手中的书籍，背景是带有装饰画的床头板。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "中景平拍镜头；卧室床头，灰色软包靠背，墙上装饰画，暖色灯光；画面中央人物，身穿深蓝色格纹睡衣，靠在床头，双手持书阅读，表情：眉毛舒展，眼睛注视书本，嘴巴微闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "昏暗的走廊或门口，地面铺有地砖，光线暗淡",
+        "description_narrative": "固定镜头拍摄昏暗的走廊区域，地面地砖反光微弱，右侧门框隐约可见，氛围寂静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.04,
+        "description_visual": "全景平拍镜头；昏暗的走廊或门口，地面铺有地砖，光线暗淡。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "大特写",
+        "camera_angle": "斜角",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "书页特写，文字清晰可见，标题“死火”",
+        "description_narrative": "大特写镜头聚焦在翻开的书页上，清晰显示标题“死火”及正文文字，光线柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.84,
+        "description_visual": "大特写斜角镜头；书页特写，文字清晰可见，标题“死火”。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面中央",
+                "action": "抬头看向画面左侧，身体微倾",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，灰色靠枕，光线柔和",
+        "description_narrative": "近景镜头，季斯年突然从书中抬头，眼神惊讶地看向左侧，似乎听到了什么声音，嘴巴微张。",
+        "dialogue": "这么晚了还不睡。",
+        "speaker": "季斯年",
+        "emotion": "惊讶",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；卧室床头，灰色靠枕，光线柔和；画面中央人物，身穿深蓝色格纹睡衣，抬头看向画面左侧，身体微倾，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "粉色丝绸睡袍",
+                "position": "画面中央偏左",
+                "action": "背对镜头走向床边",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室内部，深色墙面装饰画，床铺",
+        "description_narrative": "镜头跟随安溪的背影，她身穿粉色丝绸睡袍，头发盘起，正走向床边，动作略显迟缓。",
+        "dialogue": "安溪。",
+        "speaker": "季斯年",
+        "emotion": null,
+        "duration": 3.6,
+        "description_visual": "中景平拍镜头（跟拍）；卧室内部，深色墙面装饰画，床铺；画面中央偏左人物，身穿粉色丝绸睡袍，背对镜头走向床边，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面左侧",
+                "action": "坐在床上，转头看向右侧",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，灰色靠枕",
+        "description_narrative": "近景镜头，季斯年坐在床上，转头看向走进来的安溪，眼神中带着疑惑和关切，轻声呼唤她的名字。",
+        "dialogue": "安溪。",
+        "speaker": "季斯年",
+        "emotion": "疑惑",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；卧室床头，灰色靠枕；画面左侧人物，身穿深蓝色格纹睡衣，坐在床上，转头看向右侧，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "粉色丝绸睡袍",
+                "position": "画面左侧",
+                "action": "站在床边，面向季斯年",
+                "expression": "不可见"
+            },
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面右侧床上",
+                "action": "坐在床上，抬头看安溪",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，深色墙面装饰画，床头柜",
+        "description_narrative": "中景镜头，安溪站在床边背对镜头，季斯年坐在床上抬头看着她，两人对视，气氛微妙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；卧室，深色墙面装饰画，床头柜；画面左侧人物，身穿粉色丝绸睡袍，站在床边，面向季斯年，表情：不可见；画面右侧床上人物，身穿深蓝色格纹睡衣，坐在床上，抬头看安溪，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "粉色丝绸睡袍",
+                "position": "画面中央",
+                "action": "闭着眼睛，头部微垂",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "室内天花板或墙壁，光线柔和",
+        "description_narrative": "仰拍特写，安溪闭着双眼，神情恍惚，头部微微垂下，似乎处于半梦半醒的状态。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恍惚",
+        "duration": 1.44,
+        "description_visual": "特写仰拍镜头；室内天花板或墙壁，光线柔和；画面中央人物，身穿粉色丝绸睡袍，闭着眼睛，头部微垂，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面左侧",
+                "action": "坐在床上，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，模糊的前景（安溪的手臂）",
+        "description_narrative": "近景镜头，季斯年身体前倾，眼神专注地看着前方的安溪，表情中带着担忧，前景有模糊的手臂遮挡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "担忧",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；卧室床头，模糊的前景（安溪的手臂）；画面左侧人物，身穿深蓝色格纹睡衣，坐在床上，身体前倾，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "粉色丝绸睡袍",
+                "position": "画面左侧",
+                "action": "身体前倾，伸手向床",
+                "expression": "不可见"
+            },
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面右侧床上",
+                "action": "坐在床上，伸手准备接",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "卧室，深色墙面装饰画",
+        "description_narrative": "中景镜头，安溪身体前倾似乎要倒下，伸出手臂，季斯年坐在床上伸手准备接住她，动作紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.96,
+        "description_visual": "中景平拍镜头；卧室，深色墙面装饰画；画面左侧人物，身穿粉色丝绸睡袍，身体前倾，伸手向床，表情：不可见；画面右侧床上人物，身穿深蓝色格纹睡衣，坐在床上，伸手准备接，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面左侧",
+                "action": "俯身按住倒在床上的安溪",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴紧闭"
+            },
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "粉色丝绸睡袍",
+                "position": "画面中央床上",
+                "action": "倒在床上，身体被按住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室床铺，灰色床单",
+        "description_narrative": "中近景镜头，安溪倒在床上，季斯年俯身用手按住她的肩膀，防止她乱动，动作轻柔但坚定。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；卧室床铺，灰色床单；画面左侧人物，身穿深蓝色格纹睡衣，俯身按住倒在床上的安溪，表情：眉毛微蹙，眼睛向下看，嘴巴紧闭；画面中央床上人物，身穿粉色丝绸睡袍，倒在床上，身体被按住，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面中央",
+                "action": "侧身摇晃安溪",
+                "expression": "眉毛微蹙，嘴巴微张说话"
+            }
+        ],
+        "background": "卧室床头，灰色靠枕",
+        "description_narrative": "近景侧拍，季斯年侧身轻轻摇晃着床上的安溪，试图唤醒她，口中说着“醒醒”。",
+        "dialogue": "醒醒。",
+        "speaker": "季斯年",
+        "emotion": "急切",
+        "duration": 5.36,
+        "description_visual": "近景侧拍镜头；卧室床头，灰色靠枕；画面中央人物，身穿深蓝色格纹睡衣，侧身摇晃安溪，表情：眉毛微蹙，嘴巴微张说话。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面左侧",
+                "action": "看着床上的安溪，手放在被子上",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微闭"
+            },
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "粉色丝绸睡袍",
+                "position": "画面右侧床上",
+                "action": "躺在床上不动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室床铺，光线变暗",
+        "description_narrative": "中近景镜头，季斯年看着床上不再动弹的安溪，确认她已经睡着，轻声自语“睡着了”。",
+        "dialogue": "睡着了。",
+        "speaker": "季斯年",
+        "emotion": "无奈",
+        "duration": 4.64,
+        "description_visual": "中近景平拍镜头；卧室床铺，光线变暗；画面左侧人物，身穿深蓝色格纹睡衣，看着床上的安溪，手放在被子上，表情：眉毛舒展，眼睛注视，嘴巴微闭；画面右侧床上人物，身穿粉色丝绸睡袍，躺在床上不动，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "深蓝色格纹睡衣",
+                "position": "画面左侧",
+                "action": "伸手拉过被子盖在安溪身上",
+                "expression": "不可见"
+            },
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "粉色丝绸睡袍",
+                "position": "画面中央床上",
+                "action": "躺在床上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室床铺，光线昏暗",
+        "description_narrative": "中景镜头，光线昏暗，季斯年伸手拉过被子盖在安溪身上，动作温柔，随后画面渐暗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.24,
+        "description_visual": "中景平拍镜头；卧室床铺，光线昏暗；画面左侧人物，身穿深蓝色格纹睡衣，伸手拉过被子盖在安溪身上，表情：不可见；画面中央床上人物，身穿粉色丝绸睡袍，躺在床上，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "黑色丝绒西装外套，黑色网纱内搭",
+                "position": "画面左侧玻璃门后",
+                "action": "站在玻璃门后，侧身",
+                "expression": "不可见"
+            }
+        ],
+        "background": "建筑物入口，玻璃门，室外光线",
+        "description_narrative": "全景镜头，透过玻璃门看到安溪站在室内，身穿黑色西装，侧身站立，季斯年在画外呼唤“安溪”。",
+        "dialogue": "安溪。",
+        "speaker": "季斯年",
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "全景平拍镜头；建筑物入口，玻璃门，室外光线；画面左侧玻璃门后人物，身穿黑色丝绒西装外套，黑色网纱内搭，站在玻璃门后，侧身，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "黑色针织衫，佩戴金属框眼镜",
+                "position": "画面中央",
+                "action": "站立，面向前方说话",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴张开说话"
+            }
+        ],
+        "background": "室外建筑物前，光线明亮",
+        "description_narrative": "近景镜头，季斯年身穿黑色针织衫，戴着眼镜，站在室外，表情略带不耐烦地质问对方。",
+        "dialogue": "我说你又是闹哪出啊",
+        "speaker": "季斯年",
+        "emotion": "不耐烦",
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；室外建筑物前，光线明亮；画面中央人物，身穿黑色针织衫，佩戴金属框眼镜，站立，面向前方说话，表情：眉毛微蹙，眼睛注视，嘴巴张开说话。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "黑色针织衫，佩戴金属框眼镜",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室外建筑物前，光线明亮",
+        "description_narrative": "近景镜头，季斯年听到对方叫自己的名字，表情严肃，眼神中带着质问，画外传来安溪的声音。",
+        "dialogue": "季斯年。",
+        "speaker": "安溪",
+        "emotion": "严肃",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；室外建筑物前，光线明亮；画面中央人物，身穿黑色针织衫，佩戴金属框眼镜，站立，表情严肃，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "黑色丝绒西装外套，黑色网纱内搭",
+                "position": "画面中央",
+                "action": "站立，抬头说话",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开说话"
+            }
+        ],
+        "background": "室外街道，路灯，树木",
+        "description_narrative": "近景镜头，安溪身穿黑色丝绒西装，表情愤怒地抬头指责季斯年，称他为“衣冠禽兽”。",
+        "dialogue": "你这个衣冠禽兽",
+        "speaker": "安溪",
+        "emotion": "愤怒",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；室外街道，路灯，树木；画面中央人物，身穿黑色丝绒西装外套，黑色网纱内搭，站立，抬头说话，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开说话。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "黑色丝绒西装外套，黑色网纱内搭",
+                "position": "画面中央",
+                "action": "站立，表情疑惑",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室外街道，路灯，树木",
+        "description_narrative": "近景镜头，安溪表情疑惑地看着对方，画外传来季斯年询问昨晚发生了什么的声音。",
+        "dialogue": "昨晚发生了什么？",
+        "speaker": "季斯年",
+        "emotion": "疑惑",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；室外街道，路灯，树木；画面中央人物，身穿黑色丝绒西装外套，黑色网纱内搭，站立，表情疑惑，表情：眉毛微挑，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "黑色针织衫，佩戴金属框眼镜",
+                "position": "画面中央",
+                "action": "站立，侧头说话",
+                "expression": "眉毛微挑，眼睛看向侧面，嘴巴张开说话"
+            }
+        ],
+        "background": "室外建筑物前，光线明亮",
+        "description_narrative": "近景镜头，季斯年侧头看向安溪，画外传来安溪反问是否需要帮他回忆的声音，表情略带挑衅。",
+        "dialogue": "还需要我再帮你回忆一遍吗",
+        "speaker": "安溪",
+        "emotion": "挑衅",
+        "duration": 2.88,
+        "description_visual": "近景平拍镜头；室外建筑物前，光线明亮；画面中央人物，身穿黑色针织衫，佩戴金属框眼镜，站立，侧头说话，表情：眉毛微挑，眼睛看向侧面，嘴巴张开说话。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "黑色丝绒西装外套，黑色网纱内搭",
+                "position": "画面中央",
+                "action": "站立，表情不屑",
+                "expression": "眉毛微蹙，眼睛斜视，嘴巴紧闭"
+            }
+        ],
+        "background": "室外街道，路灯，树木",
+        "description_narrative": "近景镜头，安溪表情不屑地看着季斯年，画外传来季斯年辩解说是安溪主动跑到他床上的声音。",
+        "dialogue": "昨晚是你跑到我床上来的。",
+        "speaker": "季斯年",
+        "emotion": "辩解",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；室外街道，路灯，树木；画面中央人物，身穿黑色丝绒西装外套，黑色网纱内搭，站立，表情不屑，表情：眉毛微蹙，眼睛斜视，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "黑色针织衫，佩戴金属框眼镜",
+                "position": "画面中央",
+                "action": "站立，摊手说话",
+                "expression": "眉毛微蹙，眼睛闭合，嘴巴张开说话"
+            }
+        ],
+        "background": "室外建筑物前，光线明亮",
+        "description_narrative": "近景镜头，季斯年无奈地摊手，画外传来安溪反问“好不好”的声音，他似乎在妥协。",
+        "dialogue": "好不好？",
+        "speaker": "安溪",
+        "emotion": "无奈",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；室外建筑物前，光线明亮；画面中央人物，身穿黑色针织衫，佩戴金属框眼镜，站立，摊手说话，表情：眉毛微蹙，眼睛闭合，嘴巴张开说话。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "黑色针织衫，棕色长裤",
+                "position": "画面左侧",
+                "action": "站立，伸手拉行李箱",
+                "expression": "眉毛微蹙，嘴巴微张说话"
+            },
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "黑色丝绒西装外套，黑色层叠裙",
+                "position": "画面右侧",
+                "action": "站立，手扶行李箱",
+                "expression": "眉毛微蹙，嘴巴紧闭"
+            }
+        ],
+        "background": "建筑物入口，红色地毯，银色行李箱",
+        "description_narrative": "全景镜头，季斯年和安溪站在建筑物入口，中间放着一个银色行李箱，季斯年伸手拉住行李箱，请求原谅。",
+        "dialogue": "算我错了，行不行？",
+        "speaker": "季斯年",
+        "emotion": "妥协",
+        "duration": 0.64,
+        "description_visual": "全景平拍镜头；建筑物入口，红色地毯，银色行李箱；画面左侧人物，身穿黑色针织衫，棕色长裤，站立，伸手拉行李箱，表情：眉毛微蹙，嘴巴微张说话；画面右侧人物，身穿黑色丝绒西装外套，黑色层叠裙，站立，手扶行李箱，表情：眉毛微蹙，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "季斯年",
+                "gender": "男",
+                "clothing": "黑色针织衫，佩戴金属框眼镜",
+                "position": "画面中央",
+                "action": "站立，微笑说话",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室外建筑物前，光线明亮",
+        "description_narrative": "近景镜头，季斯年表情缓和，带着微笑提出补偿方案，眼神中带着试探。",
+        "dialogue": "这样。",
+        "speaker": "季斯年",
+        "emotion": "试探",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；室外建筑物前，光线明亮；画面中央人物，身穿黑色针织衫，佩戴金属框眼镜，站立，微笑说话，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "黑色丝绒西装外套，黑色网纱内搭",
+                "position": "画面中央",
+                "action": "站立，闭眼思考",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微闭"
+            }
+        ],
+        "background": "室外街道，路灯，树木",
+        "description_narrative": "近景镜头，安溪闭着眼睛似乎在思考，画外传来季斯年询问她想要什么补偿的声音。",
+        "dialogue": "你要什么补偿？",
+        "speaker": "季斯年",
+        "emotion": null,
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；室外街道，路灯，树木；画面中央人物，身穿黑色丝绒西装外套，黑色网纱内搭，站立，闭眼思考，表情：眉毛舒展，眼睛闭合，嘴巴微闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "黑色丝绒西装外套，黑色网纱内搭",
+                "position": "画面中央",
+                "action": "睁眼，眼神坚定",
+                "expression": "眉毛微挑，眼睛注视，嘴巴微张说话"
+            }
+        ],
+        "background": "室外街道，模糊背景",
+        "description_narrative": "特写镜头，安溪睁开眼，眼神坚定地抓住季斯年的话柄，确认这是他说的。",
+        "dialogue": "这可是你说的。",
+        "speaker": "安溪",
+        "emotion": "坚定",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景；画面中央人物，身穿黑色丝绒西装外套，黑色网纱内搭，睁眼，眼神坚定，表情：眉毛微挑，眼睛注视，嘴巴微张说话。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安溪",
+                "gender": "女",
+                "clothing": "黑色丝绒西装外套，黑色网纱内搭",
+                "position": "画面中央",
+                "action": "微微点头",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微闭"
+            }
+        ],
+        "background": "室外街道，模糊背景",
+        "description_narrative": "特写镜头，安溪微微点头，眼神中带着一丝狡黠，似乎已经想好了补偿的要求，画面结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "狡黠",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；室外街道，模糊背景；画面中央人物，身穿黑色丝绒西装外套，黑色网纱内搭，微微点头，表情：眉毛舒展，眼睛注视，嘴巴微闭。"
+    }
+]

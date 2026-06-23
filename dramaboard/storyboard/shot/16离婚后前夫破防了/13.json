@@ -1,0 +1,1242 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面右侧",
+                "action": "站立，身体微侧向左，看着温晚和霍总",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            },
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂，看着傅总",
+                "expression": "眉毛舒展，眼神平静，嘴巴闭合"
+            },
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "灰色流苏针织开衫，黑色T恤",
+                "position": "画面左侧",
+                "action": "站立，侧身对着傅总",
+                "expression": "眉毛微挑，眼神直视傅总，嘴巴闭合"
+            },
+            {
+                "name": "秘书长",
+                "gender": "男",
+                "clothing": "深灰色外套，白色内搭",
+                "position": "左前景",
+                "action": "坐着，双手在笔记本电脑键盘上打字",
+                "expression": "眉毛低垂，眼神看屏幕，嘴巴闭合"
+            },
+            {
+                "name": "财务总监",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "右前景",
+                "action": "坐着，低头看桌面",
+                "expression": "眉毛低垂，眼神向下，嘴巴闭合"
+            }
+        ],
+        "background": "酒店房间/会议室，暖色调灯光，背景有门和墙壁",
+        "description_narrative": "全景镜头，固定机位。傅总身穿棕色西装站在右侧，温晚身穿棕色套裙站在中间，霍总身穿灰色开衫站在左侧。前景秘书长在打字，财务总监低头。傅总看向温晚和霍总，开口说话。",
+        "dialogue": "霍总",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 1.6,
+        "description_visual": "全景平拍镜头；酒店房间/会议室，暖色调灯光，背景有门和墙壁；画面右侧人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，身体微侧向左，看着温晚和霍总，表情：眉毛微蹙，眼神严肃，嘴巴微张；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，双手自然下垂，看着傅总，表情：眉毛舒展，眼神平静，嘴巴闭合；画面左侧人物，身穿灰色流苏针织开衫，黑色T恤，站立，侧身对着傅总，表情：眉毛微挑，眼神直视傅总，嘴巴闭合；左前景人物，身穿深灰色外套，白色内搭，坐着，双手在笔记本电脑键盘上打字，表情：眉毛低垂，眼神看屏幕，嘴巴闭合；右前景人物，身穿浅蓝色衬衫，坐着，低头看桌面，表情：眉毛低垂，眼神向下，嘴巴闭合。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，身体微侧，头部转向左侧",
+                "expression": "眉毛微蹙，眼神看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总身穿棕色西装，表情略带愧疚，看向左侧的霍总方向，开口道歉。",
+        "dialogue": "霍总 对不起",
+        "speaker": "傅总",
+        "emotion": "愧疚",
+        "duration": 2.2,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，身体微侧，头部转向左侧，表情：眉毛微蹙，眼神看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "灰色流苏针织开衫，黑色T恤",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛平展，眼神平静，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，木门框",
+        "description_narrative": "近景镜头，固定机位。霍总身穿灰色开衫，表情平静，听着傅总的道歉。",
+        "dialogue": "对不起，是我误会了。",
+        "speaker": "傅总",
+        "emotion": "平静",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；米色墙壁，木门框；画面中央人物，身穿灰色流苏针织开衫，黑色T恤，站立，头部微侧，眼神看向右侧，表情：眉毛平展，眼神平静，嘴巴闭合。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，嘴角微扬",
+                "expression": "眉毛微挑，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情转为略带嘲讽的微笑，似乎在反问。",
+        "dialogue": "误会就可以打人了",
+        "speaker": "霍总",
+        "emotion": "嘲讽",
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，嘴角微扬，表情：眉毛微挑，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼神略带不满，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情严肃，看向右侧，似乎在陈述事实。",
+        "dialogue": "你看到你自己的老婆。",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼神略带不满，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总继续说话，表情严肃，强调自己的观点。",
+        "dialogue": "和别人来宾馆",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神严肃，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，嘴角微扬",
+                "expression": "眉毛舒展，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情略带讽刺，反问傅总。",
+        "dialogue": "你会不会误会啊？",
+        "speaker": "温晚",
+        "emotion": "讽刺",
+        "duration": 1.52,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，嘴角微扬，表情：眉毛舒展，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神疑惑，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情疑惑，似乎没听懂温晚的话。",
+        "dialogue": "你瞎说什么呢？",
+        "speaker": "温晚",
+        "emotion": "疑惑",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神疑惑，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼神认真，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情认真，开始解释原因。",
+        "dialogue": "我是因为脚崴了",
+        "speaker": "温晚",
+        "emotion": "认真",
+        "duration": 1.72,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼神认真，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总听着温晚的解释，表情严肃。",
+        "dialogue": "霍总才扶着我来开会。",
+        "speaker": "温晚",
+        "emotion": "严肃",
+        "duration": 2.76,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神严肃，嘴巴闭合。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，嘴角微扬",
+                "expression": "眉毛舒展，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情略带笑意，反问傅总。",
+        "dialogue": "九州之星为什么会来这儿开会？",
+        "speaker": "傅总",
+        "emotion": "疑问",
+        "duration": 2.48,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，嘴角微扬，表情：眉毛舒展，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微低，眼神向下",
+                "expression": "眉毛微蹙，眼神低垂，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总低头，似乎在思考或感到尴尬。",
+        "dialogue": "我的工作需要向你汇报吗？",
+        "speaker": "温晚",
+        "emotion": "冷淡",
+        "duration": 3.84,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微低，眼神向下，表情：眉毛微蹙，眼神低垂，嘴巴闭合。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，嘴角微扬",
+                "expression": "眉毛舒展，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情略带笑意，似乎在接受傅总的道歉。",
+        "dialogue": "对不起，是我唐突了。",
+        "speaker": "傅总",
+        "emotion": "歉意",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，嘴角微扬，表情：眉毛舒展，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情严肃，看着温晚。",
+        "dialogue": "倒是傅总，你来这里做什么？",
+        "speaker": "温晚",
+        "emotion": "疑问",
+        "duration": 4.68,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神严肃，嘴巴闭合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情严肃，听着傅总说话。",
+        "dialogue": "离婚协议 我已经签好了。",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 2.68,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼神严肃，嘴巴闭合。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，嘴角微扬",
+                "expression": "眉毛微挑，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情略带得意，继续说话。",
+        "dialogue": "过来送给你 协议呢",
+        "speaker": "傅总",
+        "emotion": "得意",
+        "duration": 3.24,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，嘴角微扬，表情：眉毛微挑，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼神略带尴尬，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情略带尴尬，解释自己忘带协议。",
+        "dialogue": "那个，我出门太着急了",
+        "speaker": "温晚",
+        "emotion": "尴尬",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼神略带尴尬，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情严肃，继续说话。",
+        "dialogue": "忘了带。",
+        "speaker": "温晚",
+        "emotion": "无奈",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神严肃，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面右侧",
+                "action": "站立，身体微侧向左，看着温晚和霍总",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            },
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂，看着傅总",
+                "expression": "眉毛舒展，眼神平静，嘴巴闭合"
+            },
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "灰色流苏针织开衫，黑色T恤",
+                "position": "画面左侧",
+                "action": "站立，侧身对着傅总",
+                "expression": "眉毛微挑，眼神直视傅总，嘴巴闭合"
+            },
+            {
+                "name": "秘书长",
+                "gender": "男",
+                "clothing": "深灰色外套，白色内搭",
+                "position": "左前景",
+                "action": "坐着，双手在笔记本电脑键盘上打字",
+                "expression": "眉毛低垂，眼神看屏幕，嘴巴闭合"
+            },
+            {
+                "name": "财务总监",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "右前景",
+                "action": "坐着，低头看桌面",
+                "expression": "眉毛低垂，眼神向下，嘴巴闭合"
+            }
+        ],
+        "background": "酒店房间/会议室，暖色调灯光，背景有门和墙壁",
+        "description_narrative": "全景镜头，固定机位。傅总看向温晚和霍总，开口说话，试图缓和气氛。",
+        "dialogue": "大家不都是要开会吗",
+        "speaker": "傅总",
+        "emotion": "缓和",
+        "duration": 1.88,
+        "description_visual": "全景平拍镜头；酒店房间/会议室，暖色调灯光，背景有门和墙壁；画面右侧人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，身体微侧向左，看着温晚和霍总，表情：眉毛微蹙，眼神严肃，嘴巴微张；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，双手自然下垂，看着傅总，表情：眉毛舒展，眼神平静，嘴巴闭合；画面左侧人物，身穿灰色流苏针织开衫，黑色T恤，站立，侧身对着傅总，表情：眉毛微挑，眼神直视傅总，嘴巴闭合；左前景人物，身穿深灰色外套，白色内搭，坐着，双手在笔记本电脑键盘上打字，表情：眉毛低垂，眼神看屏幕，嘴巴闭合；右前景人物，身穿浅蓝色衬衫，坐着，低头看桌面，表情：眉毛低垂，眼神向下，嘴巴闭合。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，身体侧向左侧，头部转向左侧",
+                "expression": "眉毛微蹙，眼神看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总侧身，似乎准备离开，被温晚叫住。",
+        "dialogue": "哎 傅总",
+        "speaker": "温晚",
+        "emotion": "急切",
+        "duration": 1.4,
+        "description_visual": "近景侧拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，身体侧向左侧，头部转向左侧，表情：眉毛微蹙，眼神看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情严肃，叫住傅总。",
+        "dialogue": "别着急走啊。",
+        "speaker": "温晚",
+        "emotion": "严肃",
+        "duration": 1.64,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼神严肃，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，嘴角微扬",
+                "expression": "眉毛微挑，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情略带笑意，看着温晚。",
+        "dialogue": "这打印机电脑都在",
+        "speaker": "温晚",
+        "emotion": "自信",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，嘴角微扬，表情：眉毛微挑，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼神自信，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情自信，提出现场拟协议。",
+        "dialogue": "现场拟一份就好了",
+        "speaker": "温晚",
+        "emotion": "自信",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，眼神看向右侧，表情：眉毛舒展，眼神自信，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微低，嘴角微扬",
+                "expression": "眉毛微挑，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情略带笑意，似乎觉得温晚的想法很有趣。",
+        "dialogue": "就好了。",
+        "speaker": "温晚",
+        "emotion": "轻松",
+        "duration": 2.96,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微低，嘴角微扬，表情：眉毛微挑，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "灰色流苏针织开衫，黑色T恤",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛微蹙，眼神略带尴尬，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，木门框",
+        "description_narrative": "近景镜头，固定机位。霍总表情略带尴尬，似乎觉得占用傅总时间不好意思。",
+        "dialogue": "这怎么好意思？",
+        "speaker": "霍总",
+        "emotion": "尴尬",
+        "duration": 3.36,
+        "description_visual": "近景平拍镜头；米色墙壁，木门框；画面中央人物，身穿灰色流苏针织开衫，黑色T恤，站立，头部微侧，眼神看向右侧，表情：眉毛微蹙，眼神略带尴尬，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，嘴角微扬",
+                "expression": "眉毛微挑，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情略带笑意，回应霍总。",
+        "dialogue": "占用霍总的时间呢 傅总说哪里话",
+        "speaker": "霍总",
+        "emotion": "客气",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，嘴角微扬，表情：眉毛微挑，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "灰色流苏针织开衫，黑色T恤",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼神平静，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，木门框",
+        "description_narrative": "近景镜头，固定机位。霍总表情平静，继续说话。",
+        "dialogue": "我们这些做企业的",
+        "speaker": "霍总",
+        "emotion": "平静",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；米色墙壁，木门框；画面中央人物，身穿灰色流苏针织开衫，黑色T恤，站立，头部微侧，眼神看向右侧，表情：眉毛舒展，眼神平静，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，手部伸出指向右侧",
+                "expression": "眉毛舒展，眼神自信，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚手指向右侧，介绍自己的团队。",
+        "dialogue": "员工的需求",
+        "speaker": "霍总",
+        "emotion": "认真",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，手部伸出指向右侧，表情：眉毛舒展，眼神自信，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，嘴角微扬",
+                "expression": "眉毛微挑，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情略带笑意，听着霍总说话。",
+        "dialogue": "是第一位。",
+        "speaker": "霍总",
+        "emotion": "认真",
+        "duration": 4.04,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，嘴角微扬，表情：眉毛微挑，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "灰色流苏针织开衫，黑色T恤",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛舒展，眼神平静，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，木门框",
+        "description_narrative": "近景镜头，固定机位。霍总双手抱胸，表情平静，继续说话。",
+        "dialogue": "也是 不过",
+        "speaker": "傅总",
+        "emotion": "转折",
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；米色墙壁，木门框；画面中央人物，身穿灰色流苏针织开衫，黑色T恤，站立，双手交叉抱胸，表情：眉毛舒展，眼神平静，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情严肃，提出离婚协议复杂。",
+        "dialogue": "离婚协议很复杂。",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神严肃，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面右侧",
+                "action": "站立，身体微侧向左，看着温晚和霍总",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            },
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂，看着傅总",
+                "expression": "眉毛舒展，眼神平静，嘴巴闭合"
+            },
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "灰色流苏针织开衫，黑色T恤",
+                "position": "画面左侧",
+                "action": "站立，侧身对着傅总",
+                "expression": "眉毛微挑，眼神直视傅总，嘴巴闭合"
+            },
+            {
+                "name": "秘书长",
+                "gender": "男",
+                "clothing": "深灰色外套，白色内搭",
+                "position": "左前景",
+                "action": "坐着，双手在笔记本电脑键盘上打字",
+                "expression": "眉毛低垂，眼神看屏幕，嘴巴闭合"
+            },
+            {
+                "name": "财务总监",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "右前景",
+                "action": "坐着，低头看桌面",
+                "expression": "眉毛低垂，眼神向下，嘴巴闭合"
+            }
+        ],
+        "background": "酒店房间/会议室，暖色调灯光，背景有门和墙壁",
+        "description_narrative": "全景镜头，固定机位。傅总继续说话，质疑温晚能否拟出协议。",
+        "dialogue": "我不认为",
+        "speaker": "傅总",
+        "emotion": "质疑",
+        "duration": 2.24,
+        "description_visual": "全景平拍镜头；酒店房间/会议室，暖色调灯光，背景有门和墙壁；画面右侧人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，身体微侧向左，看着温晚和霍总，表情：眉毛微蹙，眼神严肃，嘴巴微张；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，双手自然下垂，看着傅总，表情：眉毛舒展，眼神平静，嘴巴闭合；画面左侧人物，身穿灰色流苏针织开衫，黑色T恤，站立，侧身对着傅总，表情：眉毛微挑，眼神直视傅总，嘴巴闭合；左前景人物，身穿深灰色外套，白色内搭，坐着，双手在笔记本电脑键盘上打字，表情：眉毛低垂，眼神看屏幕，嘴巴闭合；右前景人物，身穿浅蓝色衬衫，坐着，低头看桌面，表情：眉毛低垂，眼神向下，嘴巴闭合。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秘书长",
+                "gender": "男",
+                "clothing": "深灰色外套，黑色内搭",
+                "position": "画面中央",
+                "action": "坐着，低头看文件",
+                "expression": "眉毛低垂，眼神看文件，嘴巴闭合"
+            }
+        ],
+        "background": "暗色背景，暖色调灯光",
+        "description_narrative": "特写镜头，固定机位。秘书长低头看文件，表情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；暗色背景，暖色调灯光；画面中央人物，身穿深灰色外套，黑色内搭，坐着，低头看文件，表情：眉毛低垂，眼神看文件，嘴巴闭合。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情严肃，继续质疑。",
+        "dialogue": "你能拟的出来啊。",
+        "speaker": "傅总",
+        "emotion": "质疑",
+        "duration": 3.76,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神严肃，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向右侧",
+                "expression": "眉毛舒展，眼神自信，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚表情自信，表示秘书长会帮她。",
+        "dialogue": "秘书长会帮我的。",
+        "speaker": "温晚",
+        "emotion": "自信",
+        "duration": 3.36,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，头部微侧，眼神看向右侧，表情：眉毛舒展，眼神自信，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "法务人员",
+                "gender": "男",
+                "clothing": "浅蓝色条纹衬衫，白色高领内搭",
+                "position": "画面中央",
+                "action": "坐着，低头看文件",
+                "expression": "眉毛低垂，眼神看文件，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。法务人员低头看文件，表情专注。",
+        "dialogue": "法律文书很严谨。",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿浅蓝色条纹衬衫，白色高领内搭，坐着，低头看文件，表情：眉毛低垂，眼神看文件，嘴巴闭合。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微低，嘴角微扬",
+                "expression": "眉毛微挑，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情略带笑意，继续说话。",
+        "dialogue": "不能只看文字啊 那个戴眼镜的。",
+        "speaker": "傅总",
+        "emotion": "嘲讽",
+        "duration": 4.72,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微低，嘴角微扬，表情：眉毛微挑，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "法务人员",
+                "gender": "男",
+                "clothing": "浅蓝色条纹衬衫，白色高领内搭",
+                "position": "画面中央",
+                "action": "坐着，低头看文件",
+                "expression": "眉毛低垂，眼神看文件，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。法务人员低头看文件，表情专注。",
+        "dialogue": "就是我们公司的法务。",
+        "speaker": "温晚",
+        "emotion": "介绍",
+        "duration": 4.44,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿浅蓝色条纹衬衫，白色高领内搭，坐着，低头看文件，表情：眉毛低垂，眼神看文件，嘴巴闭合。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微低，嘴角微扬",
+                "expression": "眉毛微挑，眼神带笑意，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情略带笑意，听着温晚介绍。",
+        "dialogue": "我需要专业的团队。",
+        "speaker": "温晚",
+        "emotion": "自信",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微低，嘴角微扬，表情：眉毛微挑，眼神带笑意，嘴巴微张。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛舒展，眼神自信，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚双手抱胸，表情自信，继续介绍团队。",
+        "dialogue": "来设计 财产分割的方案 我们公司的财务总监。",
+        "speaker": "温晚",
+        "emotion": "自信",
+        "duration": 3.12,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，双手交叉抱胸，表情：眉毛舒展，眼神自信，嘴巴微张。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "财务总监",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "画面左侧",
+                "action": "坐着，低头看文件",
+                "expression": "眉毛低垂，眼神看文件，嘴巴闭合"
+            },
+            {
+                "name": "法务人员",
+                "gender": "男",
+                "clothing": "浅蓝色条纹衬衫，白色高领内搭",
+                "position": "画面右侧背景",
+                "action": "坐着，低头看文件",
+                "expression": "眉毛低垂，眼神看文件，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。财务总监和法务人员低头看文件，表情专注。",
+        "dialogue": "有两个博士头衔。",
+        "speaker": "温晚",
+        "emotion": "自豪",
+        "duration": 1.76,
+        "description_visual": "近景侧拍镜头；米色墙壁，暖色调灯光；画面左侧人物，身穿浅蓝色衬衫，坐着，低头看文件，表情：眉毛低垂，眼神看文件，嘴巴闭合；画面右侧背景人物，身穿浅蓝色条纹衬衫，白色高领内搭，坐着，低头看文件，表情：眉毛低垂，眼神看文件，嘴巴闭合。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情严肃，叫温晚的名字。",
+        "dialogue": "温晚。",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神严肃，嘴巴微张。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛舒展，眼神自信，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚双手抱胸，表情自信，看着傅总。",
+        "dialogue": "商议离婚。",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，双手交叉抱胸，表情：眉毛舒展，眼神自信，嘴巴闭合。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微侧，眼神看向左侧",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情严肃，强调离婚不是商业谈判。",
+        "dialogue": "不是商业谈判。",
+        "speaker": "傅总",
+        "emotion": "严肃",
+        "duration": 2.96,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微侧，眼神看向左侧，表情：眉毛微蹙，眼神严肃，嘴巴微张。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面右侧",
+                "action": "站立，身体微侧向左，看着温晚和霍总",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴微张"
+            },
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸，看着傅总",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴闭合"
+            },
+            {
+                "name": "霍总",
+                "gender": "男",
+                "clothing": "灰色流苏针织开衫，黑色T恤",
+                "position": "画面左侧",
+                "action": "站立，侧身对着傅总",
+                "expression": "眉毛微挑，眼神直视傅总，嘴巴闭合"
+            },
+            {
+                "name": "秘书长",
+                "gender": "男",
+                "clothing": "深灰色外套，白色内搭",
+                "position": "左前景",
+                "action": "坐着，双手在笔记本电脑键盘上打字",
+                "expression": "眉毛低垂，眼神看屏幕，嘴巴闭合"
+            },
+            {
+                "name": "财务总监",
+                "gender": "女",
+                "clothing": "浅蓝色衬衫",
+                "position": "右前景",
+                "action": "坐着，低头看桌面",
+                "expression": "眉毛低垂，眼神向下，嘴巴闭合"
+            }
+        ],
+        "background": "酒店房间/会议室，暖色调灯光，背景有门和墙壁",
+        "description_narrative": "全景镜头，固定机位。傅总继续说话，质疑温晚找来的团队。",
+        "dialogue": "你以为你找来这么多",
+        "speaker": "傅总",
+        "emotion": "质疑",
+        "duration": 2.2,
+        "description_visual": "全景平拍镜头；酒店房间/会议室，暖色调灯光，背景有门和墙壁；画面右侧人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，身体微侧向左，看着温晚和霍总，表情：眉毛微蹙，眼神严肃，嘴巴微张；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，双手交叉抱胸，看着傅总，表情：眉毛微蹙，眼神严肃，嘴巴闭合；画面左侧人物，身穿灰色流苏针织开衫，黑色T恤，站立，侧身对着傅总，表情：眉毛微挑，眼神直视傅总，嘴巴闭合；左前景人物，身穿深灰色外套，白色内搭，坐着，双手在笔记本电脑键盘上打字，表情：眉毛低垂，眼神看屏幕，嘴巴闭合；右前景人物，身穿浅蓝色衬衫，坐着，低头看桌面，表情：眉毛低垂，眼神向下，嘴巴闭合。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚双手抱胸，表情严肃，听着傅总说话。",
+        "dialogue": "专业的职称 就不会出现问题吗？",
+        "speaker": "傅总",
+        "emotion": "质疑",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，双手交叉抱胸，表情：眉毛微蹙，眼神严肃，嘴巴闭合。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温晚",
+                "gender": "女",
+                "clothing": "棕色粗花呢西装套裙，黑色高领衫",
+                "position": "画面中央",
+                "action": "站立，双手交叉抱胸",
+                "expression": "眉毛微蹙，眼神严肃，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。温晚双手抱胸，表情严肃，看着傅总。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.68,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色粗花呢西装套裙，黑色高领衫，站立，双手交叉抱胸，表情：眉毛微蹙，眼神严肃，嘴巴闭合。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "棕色双排扣西装，黑色衬衫，灰色领带",
+                "position": "画面中央",
+                "action": "站立，头部微低，嘴角微扬",
+                "expression": "眉毛微挑，眼神带笑意，嘴巴闭合"
+            }
+        ],
+        "background": "米色墙壁，暖色调灯光",
+        "description_narrative": "近景镜头，固定机位。傅总表情略带笑意，看着温晚。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；米色墙壁，暖色调灯光；画面中央人物，身穿棕色双排扣西装，黑色衬衫，灰色领带，站立，头部微低，嘴角微扬，表情：眉毛微挑，眼神带笑意，嘴巴闭合。"
+    }
+]

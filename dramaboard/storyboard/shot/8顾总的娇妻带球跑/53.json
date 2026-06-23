@@ -1,0 +1,604 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面左侧床上",
+                "action": "躺在病床上，头部转向右侧",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面右侧床边",
+                "action": "站立，身体微向前倾，手扶着女儿",
+                "expression": "眉毛微蹙，眼睛注视母亲，嘴巴闭合"
+            },
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面右侧慕青青身旁",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛舒展，眼睛看向病床，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色床单，木质床头板，光线明亮",
+        "description_narrative": "全景固定镜头，医院病房内，母亲躺在左侧病床上，身穿条纹病号服，头部转向右侧。慕青青身穿绿色开衫站在床边，手扶着身旁的女儿朝朝。朝朝身穿浅蓝色连衣裙，乖巧地站在母亲身边。",
+        "dialogue": "外婆朝朝来看你了",
+        "speaker": "慕青青",
+        "emotion": "温柔",
+        "duration": 2.47,
+        "description_visual": "全景平拍镜头；医院病房，白色床单，木质床头板，光线明亮；画面左侧床上人物，身穿条纹病号服，躺在病床上，头部转向右侧，表情：眉毛舒展，眼睛注视前方，嘴巴微张；画面右侧床边人物，身穿白色内搭，绿色开衫，站立，身体微向前倾，手扶着女儿，表情：眉毛微蹙，眼睛注视母亲，嘴巴闭合；画面右侧慕青青身旁人物，身穿浅蓝色连衣裙，站立，双手自然下垂，表情：眉毛舒展，眼睛看向病床，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面左侧",
+                "action": "低头看向女儿，手放在女儿肩上",
+                "expression": "眉毛舒展，眼睛视线下移，嘴角微扬"
+            },
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面右侧",
+                "action": "抬头看向病床方向",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房，窗帘，窗户，光线柔和",
+        "description_narrative": "中景固定镜头，慕青青低头看着女儿朝朝，手轻轻放在女儿肩上。朝朝抬头看向病床方向，嘴巴微张正在说话，神情关切。",
+        "dialogue": "外婆，你今天还难受吗？",
+        "speaker": "朝朝",
+        "emotion": "关切",
+        "duration": 3.12,
+        "description_visual": "中景平拍镜头；医院病房，窗帘，窗户，光线柔和；画面左侧人物，身穿白色内搭，绿色开衫，低头看向女儿，手放在女儿肩上，表情：眉毛舒展，眼睛视线下移，嘴角微扬；画面右侧人物，身穿浅蓝色连衣裙，抬头看向病床方向，表情：眉毛微挑，眼睛睁大，嘴巴微张说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面中央",
+                "action": "躺在枕头上，头部微侧",
+                "expression": "眉毛微蹙，眼睛看向右上方，嘴巴张开说话"
+            }
+        ],
+        "background": "医院病房，木质床头，白色枕头",
+        "description_narrative": "特写仰拍镜头，母亲躺在枕头上，面部特写。她眉毛微蹙，眼睛看向右上方，嘴巴张开正在说话，神情略显虚弱但带着笑意。",
+        "dialogue": "外婆没事，看到你们",
+        "speaker": "母亲",
+        "emotion": "欣慰",
+        "duration": 2.87,
+        "description_visual": "特写仰拍镜头；医院病房，木质床头，白色枕头；画面中央人物，身穿条纹病号服，躺在枕头上，头部微侧，表情：眉毛微蹙，眼睛看向右上方，嘴巴张开说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面左侧",
+                "action": "双手端着白色碗，递向病床",
+                "expression": "眉毛舒展，眼睛注视碗，嘴角上扬"
+            },
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面右侧",
+                "action": "站立，看向母亲",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色床单，窗帘",
+        "description_narrative": "中近景固定镜头，慕青青双手端着一个白色碗，递向病床方向，面带微笑。朝朝站在一旁，看着母亲，神情专注。",
+        "dialogue": "什么病都好了",
+        "speaker": "慕青青",
+        "emotion": "安慰",
+        "duration": 1.3,
+        "description_visual": "中近景平拍镜头；医院病房，白色床单，窗帘；画面左侧人物，身穿白色内搭，绿色开衫，双手端着白色碗，递向病床，表情：眉毛舒展，眼睛注视碗，嘴角上扬；画面右侧人物，身穿浅蓝色连衣裙，站立，看向母亲，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面中央",
+                "action": "躺在枕头上，头部微侧",
+                "expression": "眉毛微蹙，眼睛看向右上方，嘴巴张开说话"
+            }
+        ],
+        "background": "医院病房，木质床头，白色枕头",
+        "description_narrative": "特写仰拍镜头，母亲躺在枕头上，面部特写。她眉毛微蹙，眼睛看向右上方，嘴巴张开正在说话，神情带着自责和难过。",
+        "dialogue": "是妈拖累了你",
+        "speaker": "母亲",
+        "emotion": "自责",
+        "duration": 1.53,
+        "description_visual": "特写仰拍镜头；医院病房，木质床头，白色枕头；画面中央人物，身穿条纹病号服，躺在枕头上，头部微侧，表情：眉毛微蹙，眼睛看向右上方，嘴巴张开说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面中央",
+                "action": "低头看向下方",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，窗帘，光线柔和",
+        "description_narrative": "特写平拍镜头，慕青青低头看向下方，神情悲伤。她眉毛微蹙，眼睛视线下移，嘴巴紧闭，似乎在强忍泪水。",
+        "dialogue": "看到你这么瘦",
+        "speaker": "母亲",
+        "emotion": "心疼",
+        "duration": 2.07,
+        "description_visual": "特写平拍镜头；医院病房，窗帘，光线柔和；画面中央人物，身穿白色内搭，绿色开衫，低头看向下方，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面中央",
+                "action": "躺在枕头上，头部微侧",
+                "expression": "眉毛微蹙，眼睛看向右上方，嘴巴张开说话"
+            }
+        ],
+        "background": "医院病房，木质床头，白色枕头",
+        "description_narrative": "特写仰拍镜头，母亲躺在枕头上，面部特写。她眉毛微蹙，眼睛看向右上方，嘴巴张开正在说话，神情痛苦。",
+        "dialogue": "妈，心里难受啊",
+        "speaker": "母亲",
+        "emotion": "痛苦",
+        "duration": 1.62,
+        "description_visual": "特写仰拍镜头；医院病房，木质床头，白色枕头；画面中央人物，身穿条纹病号服，躺在枕头上，头部微侧，表情：眉毛微蹙，眼睛看向右上方，嘴巴张开说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面左侧床上",
+                "action": "半坐起，看向慕青青",
+                "expression": "眉毛微蹙，眼睛注视慕青青，嘴巴微张"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面右侧床边",
+                "action": "坐着，手持碗，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视母亲，嘴巴张开说话"
+            },
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面右侧慕青青身旁",
+                "action": "站立，看向母亲",
+                "expression": "眉毛舒展，眼睛注视母亲，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色床单，木质床头板，光线明亮",
+        "description_narrative": "全景固定镜头，母亲半坐在病床上，看向慕青青。慕青青坐在床边，手持碗，身体前倾，正在急切地说话安慰母亲。朝朝站在一旁看着。",
+        "dialogue": "妈怎么能这么说呢？有妈的孩子才叫幸福。我一点都不辛苦，以后不准再说这话了。我知道。",
+        "speaker": "慕青青",
+        "emotion": "急切",
+        "duration": 11.12,
+        "description_visual": "全景平拍镜头；医院病房，白色床单，木质床头板，光线明亮；画面左侧床上人物，身穿条纹病号服，半坐起，看向慕青青，表情：眉毛微蹙，眼睛注视慕青青，嘴巴微张；画面右侧床边人物，身穿白色内搭，绿色开衫，坐着，手持碗，身体前倾，表情：眉毛微蹙，眼睛注视母亲，嘴巴张开说话；画面右侧慕青青身旁人物，身穿浅蓝色连衣裙，站立，看向母亲，表情：眉毛舒展，眼睛注视母亲，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面中央",
+                "action": "闭眼，用嘴接触白色碗边缘喝水",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴接触碗沿"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "绿色开衫",
+                "position": "画面前景右侧",
+                "action": "手持碗喂母亲",
+                "expression": "眉毛舒展，眼睛注视母亲"
+            }
+        ],
+        "background": "医院病房，蓝色窗帘，木质床头",
+        "description_narrative": "特写平拍镜头，母亲闭着眼睛，嘴唇接触白色碗边缘正在喝水。慕青青的手持碗在前景，绿色衣袖可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.58,
+        "description_visual": "特写平拍镜头；医院病房，蓝色窗帘，木质床头；画面中央人物，身穿条纹病号服，闭眼，用嘴接触白色碗边缘喝水，表情：眉毛舒展，眼睛闭合，嘴巴接触碗沿；画面前景右侧人物，身穿绿色开衫，手持碗喂母亲，表情：眉毛舒展，眼睛注视母亲。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面左侧床上",
+                "action": "躺下，头部转向右侧",
+                "expression": "眉毛微蹙，眼睛注视慕青青，嘴巴微张"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面右侧床边",
+                "action": "坐着，手持碗，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视母亲，嘴巴微张"
+            },
+            {
+                "name": "朝朝",
+                "gender": "女",
+                "clothing": "浅蓝色连衣裙",
+                "position": "画面右侧慕青青身旁",
+                "action": "站立，看向母亲",
+                "expression": "眉毛微蹙，眼睛注视母亲，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，白色床单，木质床头板，光线明亮",
+        "description_narrative": "全景固定镜头，母亲躺在病床上，看向慕青青。慕青青坐在床边，手持碗，身体前倾，神情担忧。朝朝站在一旁看着。",
+        "dialogue": "怎么了？",
+        "speaker": "慕青青",
+        "emotion": "担忧",
+        "duration": 1.63,
+        "description_visual": "全景平拍镜头；医院病房，白色床单，木质床头板，光线明亮；画面左侧床上人物，身穿条纹病号服，躺下，头部转向右侧，表情：眉毛微蹙，眼睛注视慕青青，嘴巴微张；画面右侧床边人物，身穿白色内搭，绿色开衫，坐着，手持碗，身体前倾，表情：眉毛微蹙，眼睛注视母亲，嘴巴微张；画面右侧慕青青身旁人物，身穿浅蓝色连衣裙，站立，看向母亲，表情：眉毛微蹙，眼睛注视母亲，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面中央",
+                "action": "躺在枕头上，头部微侧",
+                "expression": "眉毛微蹙，眼睛看向右上方，嘴巴微张，面部有红疹"
+            }
+        ],
+        "background": "医院病房，木质床头，白色枕头",
+        "description_narrative": "特写仰拍镜头，母亲躺在枕头上，面部特写。她脸上出现明显的红色皮疹，眉毛微蹙，眼睛看向右上方，嘴巴微张，神情痛苦。",
+        "dialogue": "妈",
+        "speaker": "慕青青",
+        "emotion": "惊恐",
+        "duration": 0.62,
+        "description_visual": "特写仰拍镜头；医院病房，木质床头，白色枕头；画面中央人物，身穿条纹病号服，躺在枕头上，头部微侧，表情：眉毛微蹙，眼睛看向右上方，嘴巴微张，面部有红疹。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面中央",
+                "action": "低头看向下方",
+                "expression": "眉毛紧锁，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "医院病房，窗帘，光线柔和",
+        "description_narrative": "特写平拍镜头，慕青青低头看向下方，神情焦急疑惑。她眉毛紧锁，眼睛视线下移，嘴巴微张正在询问。",
+        "dialogue": "你最近是吃过什么东西？",
+        "speaker": "慕青青",
+        "emotion": "焦急",
+        "duration": 2.13,
+        "description_visual": "特写平拍镜头；医院病房，窗帘，光线柔和；画面中央人物，身穿白色内搭，绿色开衫，低头看向下方，表情：眉毛紧锁，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "条纹病号服",
+                "position": "画面中央",
+                "action": "躺在枕头上，头部微侧",
+                "expression": "眉毛微蹙，眼睛看向右上方，嘴巴微张，面部有红疹"
+            }
+        ],
+        "background": "医院病房，木质床头，白色枕头",
+        "description_narrative": "特写仰拍镜头，母亲躺在枕头上，面部特写。她脸上红疹明显，眉毛微蹙，眼睛看向右上方，嘴巴微张，神情虚弱。",
+        "dialogue": "或者见过什么人吗",
+        "speaker": "慕青青",
+        "emotion": "怀疑",
+        "duration": 1.07,
+        "description_visual": "特写仰拍镜头；医院病房，木质床头，白色枕头；画面中央人物，身穿条纹病号服，躺在枕头上，头部微侧，表情：眉毛微蹙，眼睛看向右上方，嘴巴微张，面部有红疹。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面中央",
+                "action": "侧脸，视线下移",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "医院病房，窗帘，光线柔和",
+        "description_narrative": "特写侧拍镜头，慕青青侧脸，视线下移，神情凝重。她眉毛微蹙，嘴巴紧闭，似乎在回忆或思考。",
+        "dialogue": "外公和奶奶来过",
+        "speaker": "慕青青",
+        "emotion": " realization",
+        "duration": 1.57,
+        "description_visual": "特写侧拍镜头；医院病房，窗帘，光线柔和；画面中央人物，身穿白色内搭，绿色开衫，侧脸，视线下移，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面中央",
+                "action": "侧脸，视线下移",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "黑色背景",
+        "description_narrative": "特写侧拍镜头，慕青青侧脸，视线下移，神情凝重。画面转为黑色背景，字幕显示“等那个老太婆一死啊”。",
+        "dialogue": "是啊",
+        "speaker": "慕青青",
+        "emotion": " realization",
+        "duration": 1.75,
+        "description_visual": "特写侧拍镜头；黑色背景；画面中央人物，身穿白色内搭，绿色开衫，侧脸，视线下移，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外公",
+                "gender": "男",
+                "clothing": "黑色中山装",
+                "position": "画面左侧",
+                "action": "坐在沙发上，身体微侧",
+                "expression": "眉毛舒展，眼睛注视右侧，嘴角微扬"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "红色旗袍，珍珠项链",
+                "position": "画面右侧",
+                "action": "坐在沙发上，双手交叠",
+                "expression": "眉毛舒展，眼睛注视左侧，嘴角上扬"
+            }
+        ],
+        "background": "室内，沙发，茶几，窗户，光线明亮",
+        "description_narrative": "中景固定镜头，外公身穿黑色中山装坐在左侧沙发上，奶奶身穿红色旗袍坐在右侧。两人面带笑容，似乎在密谋。",
+        "dialogue": "等那个老太婆一死啊",
+        "speaker": "奶奶",
+        "emotion": "阴险",
+        "duration": 1.43,
+        "description_visual": "中景平拍镜头；室内，沙发，茶几，窗户，光线明亮；画面左侧人物，身穿黑色中山装，坐在沙发上，身体微侧，表情：眉毛舒展，眼睛注视右侧，嘴角微扬；画面右侧人物，身穿红色旗袍，珍珠项链，坐在沙发上，双手交叠，表情：眉毛舒展，眼睛注视左侧，嘴角上扬。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面中央",
+                "action": "站立，身体前倾",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内，窗户，光线明亮",
+        "description_narrative": "中景固定镜头，慕青青站立，身体前倾，神情震惊愤怒。她眉毛紧锁，眼睛睁大，嘴巴微张。",
+        "dialogue": "我们就",
+        "speaker": "奶奶",
+        "emotion": "阴险",
+        "duration": 3.03,
+        "description_visual": "中景平拍镜头；室内，窗户，光线明亮；画面中央人物，身穿白色内搭，绿色开衫，站立，身体前倾，表情：眉毛紧锁，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外公",
+                "gender": "男",
+                "clothing": "黑色中山装",
+                "position": "画面左侧",
+                "action": "坐在沙发上，身体后仰",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "红色旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "坐在沙发上，身体后仰",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面右侧前景",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内，沙发，茶几，窗户，光线明亮",
+        "description_narrative": "中景固定镜头，外公和奶奶坐在沙发上，身体后仰，神情惊讶。慕青青背对镜头站在前景。",
+        "dialogue": "慕青青你疯了你",
+        "speaker": "奶奶",
+        "emotion": "愤怒",
+        "duration": 3.48,
+        "description_visual": "中景平拍镜头；室内，沙发，茶几，窗户，光线明亮；画面左侧人物，身穿黑色中山装，坐在沙发上，身体后仰，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面中央人物，身穿红色旗袍，珍珠项链，坐在沙发上，身体后仰，表情：眉毛微蹙，眼睛注视前方，嘴巴微张；画面右侧前景人物，身穿白色内搭，绿色开衫，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "外公",
+                "gender": "男",
+                "clothing": "黑色中山装",
+                "position": "画面中央",
+                "action": "坐在沙发上，头部微侧",
+                "expression": "眉毛微蹙，眼睛注视左上方，嘴巴微张"
+            }
+        ],
+        "background": "室内，窗户，光线明亮",
+        "description_narrative": "特写平拍镜头，外公坐在沙发上，头部微侧。他眉毛微蹙，眼睛注视左上方，嘴巴微张，神情冷漠。",
+        "dialogue": "我是疯了，被你们逼疯的",
+        "speaker": "慕青青",
+        "emotion": "愤怒",
+        "duration": 1.58,
+        "description_visual": "特写平拍镜头；室内，窗户，光线明亮；画面中央人物，身穿黑色中山装，坐在沙发上，头部微侧，表情：眉毛微蹙，眼睛注视左上方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面中央",
+                "action": "站立，身体前倾",
+                "expression": "眉毛紧锁，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "室内，窗户，光线明亮",
+        "description_narrative": "特写平拍镜头，慕青青站立，身体前倾，神情愤怒悲伤。她眉毛紧锁，眼睛含泪，嘴巴微张正在质问。",
+        "dialogue": "你们对我妈做了什么",
+        "speaker": "慕青青",
+        "emotion": "愤怒",
+        "duration": 1.58,
+        "description_visual": "特写平拍镜头；室内，窗户，光线明亮；画面中央人物，身穿白色内搭，绿色开衫，站立，身体前倾，表情：眉毛紧锁，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面中央",
+                "action": "站立，身体前倾",
+                "expression": "眉毛紧锁，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "室内，窗户，光线明亮",
+        "description_narrative": "特写平拍镜头，慕青青站立，身体前倾，神情愤怒悲伤。她眉毛紧锁，眼睛含泪，嘴巴微张正在哭诉。",
+        "dialogue": "她被你们害的还不够惨",
+        "speaker": "慕青青",
+        "emotion": "悲痛",
+        "duration": 2.95,
+        "description_visual": "特写平拍镜头；室内，窗户，光线明亮；画面中央人物，身穿白色内搭，绿色开衫，站立，身体前倾，表情：眉毛紧锁，眼睛含泪，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕青青",
+                "gender": "女",
+                "clothing": "白色内搭，绿色开衫",
+                "position": "画面中央",
+                "action": "站立，身体前倾",
+                "expression": "眉毛紧锁，眼睛含泪，嘴巴微张"
+            }
+        ],
+        "background": "白色闪光",
+        "description_narrative": "特写平拍镜头，画面转为白色闪光，慕青青的身影在闪光中模糊。",
+        "dialogue": "你们为什么不放过她？",
+        "speaker": "慕青青",
+        "emotion": "绝望",
+        "duration": 3.08,
+        "description_visual": "特写平拍镜头；白色闪光；画面中央人物，身穿白色内搭，绿色开衫，站立，身体前倾，表情：眉毛紧锁，眼睛含泪，嘴巴微张。"
+    }
+]

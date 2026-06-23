@@ -1,0 +1,613 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "蓝天白云，左上角可见建筑塔吊局部，下方为杂草丛生的土坡。",
+        "description_narrative": "远景仰拍镜头，画面展示晴朗的蓝天和白云，左上角露出建筑塔吊的一角，下方是长满杂草的土坡，营造开阔的建筑工地氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.96,
+        "description_visual": "远景仰拍镜头；蓝天白云，左上角可见建筑塔吊局部，下方为杂草丛生的土坡。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑画面。",
+        "description_narrative": "黑屏过渡，伴随画外音质问声，为下一场冲突做铺垫。",
+        "dialogue": "谁能证明？你能证明还是他们能证明？你们听到了吗？",
+        "speaker": "黑西装男子",
+        "emotion": "愤怒",
+        "duration": 6.6,
+        "description_visual": "特写平拍镜头；全黑画面。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "全景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "工人",
+                "gender": "男",
+                "clothing": "橙色反光背心，黄色安全帽",
+                "position": "前景左侧",
+                "action": "背对镜头站立，身体微侧",
+                "expression": "不可见"
+            },
+            {
+                "name": "工人",
+                "gender": "男",
+                "clothing": "橙色反光背心，黄色安全帽",
+                "position": "前景右侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装，绿色条纹领带",
+                "position": "中景左侧",
+                "action": "手持黑伞站立",
+                "expression": "平静"
+            },
+            {
+                "name": "安小姐",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "中景中央",
+                "action": "双手抱胸站立",
+                "expression": "自信"
+            },
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中景右侧",
+                "action": "面对众人站立",
+                "expression": "严肃"
+            }
+        ],
+        "background": "建筑工地，地面泥泞，远处有高楼和青山。",
+        "description_narrative": "过肩全景镜头，透过两名工人的背影，看到中景处的安小姐、白西装男子和黑西装男子在工地上对峙，背景是高楼和青山。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.16,
+        "description_visual": "全景过肩镜头；建筑工地，地面泥泞，远处有高楼和青山。；前景左侧人物，身穿橙色反光背心，黄色安全帽，背对镜头站立，身体微侧，表情：不可见；前景右侧人物，身穿橙色反光背心，黄色安全帽，背对镜头站立，表情：不可见；中景左侧人物，身穿白色西装，绿色条纹领带，手持黑伞站立，表情：平静；中景中央人物，身穿白色衬衫，浅蓝色短裙，双手抱胸站立，表情：自信；中景右侧人物，身穿黑色西装，面对众人站立，表情：严肃。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "工人",
+                "gender": "男",
+                "clothing": "橙色反光背心，黑色T恤，黄色安全帽",
+                "position": "画面中央",
+                "action": "手持红色铲子柄，眉头紧锁",
+                "expression": "眉毛微蹙，眼睛疑惑，嘴巴微张"
+            }
+        ],
+        "background": "工地土坡，后方有绿色防尘网。",
+        "description_narrative": "近景平拍镜头，一名工人面对镜头，手持红色铲子柄，表情困惑地质问土地归属问题。",
+        "dialogue": "这块地明明是顾家的，金矿也是顾家的，怎么可能是安小姐的？",
+        "speaker": "工人",
+        "emotion": "困惑",
+        "duration": 5.72,
+        "description_visual": "近景平拍镜头；工地土坡，后方有绿色防尘网。；画面中央人物，身穿橙色反光背心，黑色T恤，黄色安全帽，手持红色铲子柄，眉头紧锁，表情：眉毛微蹙，眼睛疑惑，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "前景左侧",
+                "action": "侧身站立，看向安小姐",
+                "expression": "眉毛紧锁，眼神愤怒"
+            },
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "中景左侧",
+                "action": "手持黑伞",
+                "expression": "微笑"
+            },
+            {
+                "name": "安小姐",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "中景右侧",
+                "action": "手指轻触下巴，看向黑西装男子",
+                "expression": "眉毛舒展，嘴角上扬，眼神挑衅"
+            }
+        ],
+        "background": "工地泥泞地面，远处有积水。",
+        "description_narrative": "中近景镜头，安小姐面带得意微笑，手指轻触下巴，嘲讽地看向黑西装男子，称听到了群众的声音。",
+        "dialogue": "听到了吗？群众的声音。",
+        "speaker": "安小姐",
+        "emotion": "得意",
+        "duration": 3.6,
+        "description_visual": "中近景平拍镜头；工地泥泞地面，远处有积水。；前景左侧人物，身穿黑色西装，侧身站立，看向安小姐，表情：眉毛紧锁，眼神愤怒；中景左侧人物，身穿白色西装，手持黑伞，表情：微笑；中景右侧人物，身穿白色衬衫，手指轻触下巴，看向黑西装男子，表情：眉毛舒展，嘴角上扬，眼神挑衅。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "身体前倾，表情愤怒",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴紧闭"
+            },
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "前景右侧",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "工地杂草和土坡。",
+        "description_narrative": "过肩近景镜头，黑西装男子身体前倾，表情愤怒地警告安小姐不要得意太早。",
+        "dialogue": "小可爱，别得意得太早。",
+        "speaker": "黑西装男子",
+        "emotion": "愤怒",
+        "duration": 2.16,
+        "description_visual": "近景过肩镜头；工地杂草和土坡。；画面中央人物，身穿黑色西装，身体前倾，表情愤怒，表情：眉毛紧蹙，眼睛瞪大，嘴巴紧闭；前景右侧人物，身穿白色西装，背影，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "伸出手指指向对方，表情激动",
+                "expression": "眉毛紧锁，眼睛怒视，嘴巴张开"
+            },
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "前景右侧",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "工地背景虚化。",
+        "description_narrative": "特写推进镜头，黑西装男子伸出手指指向对方，激动地质问威胁是否有用，并扬言要说出去。",
+        "dialogue": "你这样威胁我，能改变了什么？我一定会说出去啊。",
+        "speaker": "黑西装男子",
+        "emotion": "激动",
+        "duration": 3.04,
+        "description_visual": "特写平拍镜头（推进）；工地背景虚化。；画面左侧人物，身穿黑色西装，伸出手指指向对方，表情激动，表情：眉毛紧锁，眼睛怒视，嘴巴张开；前景右侧人物，身穿白色西装，背影，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "侧身站立，看向安小姐",
+                "expression": "表情不屑"
+            },
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面中央",
+                "action": "手持黑伞，微笑",
+                "expression": "嘴角含笑"
+            },
+            {
+                "name": "安小姐",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "画面右侧",
+                "action": "双手抱胸，抬头说话",
+                "expression": "眉毛微挑，眼神自信，嘴巴微张"
+            }
+        ],
+        "background": "工地，远处有白色建筑。",
+        "description_narrative": "中景镜头，安小姐双手抱胸，自信地回应黑西装男子，表明自己与顾家是利益共同体。",
+        "dialogue": "说出去啊，谁不知道我跟顾家是利益共同体，一荣俱荣，一损俱损。",
+        "speaker": "安小姐",
+        "emotion": "自信",
+        "duration": 6.16,
+        "description_visual": "中景平拍镜头；工地，远处有白色建筑。；画面左侧人物，身穿黑色西装，侧身站立，看向安小姐，表情：表情不屑；画面中央人物，身穿白色西装，手持黑伞，微笑，表情：嘴角含笑；画面右侧人物，身穿白色衬衫，浅蓝色短裙，双手抱胸，抬头说话，表情：眉毛微挑，眼神自信，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "表情扭曲，似乎在撒娇或愤怒",
+                "expression": "眉毛紧蹙，眼睛眯起，嘴巴咧开"
+            },
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "前景右侧",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "工地土坡和杂草。",
+        "description_narrative": "过肩近景镜头，黑西装男子表情夸张，带着怒意和无奈地指责安小姐坏。",
+        "dialogue": "你这个小可爱，怎么那么坏呀啊？",
+        "speaker": "黑西装男子",
+        "emotion": "恼怒",
+        "duration": 1.92,
+        "description_visual": "近景过肩镜头；工地土坡和杂草。；画面左侧人物，身穿黑色西装，表情扭曲，似乎在撒娇或愤怒，表情：眉毛紧蹙，眼睛眯起，嘴巴咧开；前景右侧人物，身穿白色西装，背影，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "抬头看向对方，表情疑惑",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            },
+            {
+                "name": "安小姐",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "前景左侧",
+                "action": "背影",
+                "expression": "不可见"
+            },
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "前景右侧",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "工地土坡。",
+        "description_narrative": "过肩中近景镜头，黑西装男子抬头疑惑地询问对方想干什么。",
+        "dialogue": "你想干什么？",
+        "speaker": "黑西装男子",
+        "emotion": "疑惑",
+        "duration": 1.0,
+        "description_visual": "中近景过肩镜头；工地土坡。；画面中央人物，身穿黑色西装，抬头看向对方，表情疑惑，表情：眉毛微挑，眼睛睁大，嘴巴微张；前景左侧人物，身穿白色衬衫，背影，表情：不可见；前景右侧人物，身穿白色西装，背影，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "手持黑伞，微笑看着前方",
+                "expression": "嘴角含笑"
+            },
+            {
+                "name": "安小姐",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "双手抱胸，抬头看向远方",
+                "expression": "眉毛舒展，眼神高傲，嘴角微扬"
+            }
+        ],
+        "background": "工地，远处有建筑。",
+        "description_narrative": "中景镜头，安小姐双手抱胸，高傲地回应没带保镖，让对方走着瞧。",
+        "dialogue": "我想干什么？今天没有带保镖，走着瞧。",
+        "speaker": "安小姐",
+        "emotion": "高傲",
+        "duration": 8.8,
+        "description_visual": "中景平拍镜头；工地，远处有建筑。；画面左侧人物，身穿白色西装，手持黑伞，微笑看着前方，表情：嘴角含笑；画面右侧人物，身穿白色衬衫，双手抱胸，抬头看向远方，表情：眉毛舒展，眼神高傲，嘴角微扬。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安小姐",
+                "gender": "女",
+                "clothing": "白色衬衫，浅蓝色短裙",
+                "position": "前景左侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "前景中央",
+                "action": "手持黑伞，背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "工人",
+                "gender": "男",
+                "clothing": "橙色反光背心",
+                "position": "背景右侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "工人",
+                "gender": "男",
+                "clothing": "橙色反光背心",
+                "position": "背景右侧",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "工地土坡，叠加蓝色全息系统界面。",
+        "description_narrative": "全景镜头，安小姐和白西装男子背对镜头，画面叠加蓝色全息系统界面，显示资产排名信息，伴随系统提示音。",
+        "dialogue": "等着你哦，恭喜宿主成功激活金矿，总资产累计达到两百亿，江城",
+        "speaker": "安小姐 / 系统",
+        "emotion": "平静",
+        "duration": 7.72,
+        "description_visual": "全景平拍镜头；工地土坡，叠加蓝色全息系统界面。；前景左侧人物，身穿白色衬衫，浅蓝色短裙，背对镜头站立，表情：不可见；前景中央人物，身穿白色西装，手持黑伞，背对镜头，表情：不可见；背景右侧人物，身穿橙色反光背心，站立，表情：不可见；背景右侧人物，身穿橙色反光背心，站立，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白西装男子",
+                "gender": "男",
+                "clothing": "白色西装",
+                "position": "画面左侧",
+                "action": "手持黑伞，微笑",
+                "expression": "嘴角含笑"
+            },
+            {
+                "name": "安小姐",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "双手抱胸，微笑",
+                "expression": "眉毛舒展，眼神满意，嘴角上扬"
+            }
+        ],
+        "background": "工地背景。",
+        "description_narrative": "中近景镜头，安小姐和白西装男子面带微笑，系统语音继续播报资产排名和剩余时间。",
+        "dialogue": "总资产排名第二名，距离任务结束还剩十二天。",
+        "speaker": "系统",
+        "emotion": "满意",
+        "duration": 4.56,
+        "description_visual": "中近景平拍镜头；工地背景。；画面左侧人物，身穿白色西装，手持黑伞，微笑，表情：嘴角含笑；画面右侧人物，身穿白色衬衫，双手抱胸，微笑，表情：眉毛舒展，眼神满意，嘴角上扬。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣助手",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左侧",
+                "action": "手持黑伞，搀扶老人",
+                "expression": "担忧"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "深色西装，蓝色领带",
+                "position": "画面右侧",
+                "action": "手捂胸口，表情痛苦",
+                "expression": "眉毛紧锁，眼睛紧闭，嘴巴张开"
+            }
+        ],
+        "background": "工地土坡，绿色防尘网。",
+        "description_narrative": "中景镜头，老爷子突然手捂胸口表情痛苦，黑衣助手急忙搀扶并呼喊。",
+        "dialogue": "老爷子",
+        "speaker": "黑衣助手",
+        "emotion": "惊慌",
+        "duration": 2.72,
+        "description_visual": "中景平拍镜头；工地土坡，绿色防尘网。；画面左侧人物，身穿深色西装，手持黑伞，搀扶老人，表情：担忧；画面右侧人物，身穿深色西装，蓝色领带，手捂胸口，表情痛苦，表情：眉毛紧锁，眼睛紧闭，嘴巴张开。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣助手",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左侧",
+                "action": "跪地搀扶老人",
+                "expression": "表情焦急，嘴巴张大"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面中央",
+                "action": "躺在地上，手捂胸口",
+                "expression": "眼睛紧闭，表情痛苦"
+            }
+        ],
+        "background": "工地沙石地面，杂草。",
+        "description_narrative": "俯拍中景镜头，老爷子晕倒在地上，黑衣助手跪地焦急地摇晃并呼喊他。",
+        "dialogue": "老爷子，老爷子，你怎么了？老爷子，老爷子。",
+        "speaker": "黑衣助手",
+        "emotion": "焦急",
+        "duration": 4.24,
+        "description_visual": "中景俯拍镜头；工地沙石地面，杂草。；画面左侧人物，身穿深色西装，跪地搀扶老人，表情：表情焦急，嘴巴张大；画面中央人物，身穿深色西装，躺在地上，手捂胸口，表情：眼睛紧闭，表情痛苦。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣助手",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左侧",
+                "action": "跪地，抬头呼救",
+                "expression": "表情惊恐，嘴巴张开"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面中央",
+                "action": "躺在地上不动",
+                "expression": "眼睛紧闭"
+            }
+        ],
+        "background": "工地沙石地面。",
+        "description_narrative": "俯拍中景镜头，黑衣助手抬头向周围呼救，说老爷子不行了。",
+        "dialogue": "快来人啊，老爷子不。",
+        "speaker": "黑衣助手",
+        "emotion": "惊恐",
+        "duration": 1.56,
+        "description_visual": "中景俯拍镜头；工地沙石地面。；画面左侧人物，身穿深色西装，跪地，抬头呼救，表情：表情惊恐，嘴巴张开；画面中央人物，身穿深色西装，躺在地上不动，表情：眼睛紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣助手",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左侧",
+                "action": "跪地，低头看老人",
+                "expression": "表情绝望"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面中央",
+                "action": "躺在地上",
+                "expression": "无反应"
+            }
+        ],
+        "background": "工地沙石地面。",
+        "description_narrative": "俯拍中景镜头，黑衣助手绝望地说出“不行”。",
+        "dialogue": "不行。",
+        "speaker": "黑衣助手",
+        "emotion": "绝望",
+        "duration": 0.6,
+        "description_visual": "中景俯拍镜头；工地沙石地面。；画面左侧人物，身穿深色西装，跪地，低头看老人，表情：表情绝望；画面中央人物，身穿深色西装，躺在地上，表情：无反应。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣助手",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左侧",
+                "action": "跪地，摇晃老人",
+                "expression": "表情悲痛"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面中央",
+                "action": "躺在地上",
+                "expression": "无反应"
+            }
+        ],
+        "background": "工地沙石地面。",
+        "description_narrative": "俯拍中景镜头，黑衣助手继续悲痛地呼喊老爷子。",
+        "dialogue": "老爷子",
+        "speaker": "黑衣助手",
+        "emotion": "悲痛",
+        "duration": 0.84,
+        "description_visual": "中景俯拍镜头；工地沙石地面。；画面左侧人物，身穿深色西装，跪地，摇晃老人，表情：表情悲痛；画面中央人物，身穿深色西装，躺在地上，表情：无反应。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣助手",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面左侧",
+                "action": "跪地，抱住老人",
+                "expression": "表情崩溃"
+            },
+            {
+                "name": "老爷子",
+                "gender": "男",
+                "clothing": "深色西装",
+                "position": "画面中央",
+                "action": "躺在地上",
+                "expression": "无反应"
+            }
+        ],
+        "background": "工地沙石地面。",
+        "description_narrative": "俯拍中景镜头，黑衣助手崩溃地持续呼喊老爷子。",
+        "dialogue": "老爷子",
+        "speaker": "黑衣助手",
+        "emotion": "崩溃",
+        "duration": 4.44,
+        "description_visual": "中景俯拍镜头；工地沙石地面。；画面左侧人物，身穿深色西装，跪地，抱住老人，表情：表情崩溃；画面中央人物，身穿深色西装，躺在地上，表情：无反应。"
+    }
+]

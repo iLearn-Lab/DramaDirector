@@ -1,0 +1,293 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "金色光斑背景，带有剧名标题文字",
+        "description_narrative": "静态全景镜头，画面中央显示剧名标题“大佬别跑 闪个婚”，背景为模糊的金色光斑，营造浪漫氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.84,
+        "description_visual": "全景平拍镜头；金色光斑背景，带有剧名标题文字。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "粉色格纹睡衣",
+                "position": "画面中央偏左",
+                "action": "侧身站立，双手捂住嘴巴，身体微缩",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴被手遮住"
+            }
+        ],
+        "background": "卧室门口，白色房门，光线柔和",
+        "description_narrative": "中景固定镜头，女人身穿粉色格纹睡衣侧身站在卧室门口，双手紧紧捂住嘴巴，似乎刚做完什么惊讶或后悔的动作，身体微微蜷缩。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶/后悔",
+        "duration": 2.24,
+        "description_visual": "中景平拍镜头；卧室门口，白色房门，光线柔和；画面中央偏左人物，身穿粉色格纹睡衣，侧身站立，双手捂住嘴巴，身体微缩，表情：眉毛微蹙，眼睛睁大，嘴巴被手遮住。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "粉色格纹睡衣",
+                "position": "画面左侧",
+                "action": "双手揉搓脸颊，身体微晃",
+                "expression": "眉毛皱起，眼睛微闭，嘴巴微张"
+            },
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色丝绸睡衣",
+                "position": "画面右前景",
+                "action": "背影模糊，躺在床上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室内部，米色墙壁，白色房门",
+        "description_narrative": "过肩中近景镜头，前景是男人模糊的背影，焦点在女人身上。女人身穿粉色睡衣，双手用力揉搓自己的脸颊，表情有些委屈和疼痛，似乎刚打了自己。",
+        "dialogue": "那不是你自己脸吗？这么使劲。要你管。",
+        "speaker": "男人",
+        "emotion": "委屈/倔强",
+        "duration": 8.68,
+        "description_visual": "中近景过肩镜头；卧室内部，米色墙壁，白色房门；画面左侧人物，身穿粉色格纹睡衣，双手揉搓脸颊，身体微晃，表情：眉毛皱起，眼睛微闭，嘴巴微张；画面右前景人物，身穿棕色丝绸睡衣，背影模糊，躺在床上，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色丝绸睡衣",
+                "position": "画面右侧床上",
+                "action": "半躺在床上，双手交叠放在腹部",
+                "expression": "眼睛微闭，嘴巴微张，神情无奈"
+            }
+        ],
+        "background": "卧室床头，米色花纹壁纸，挂画",
+        "description_narrative": "中景固定镜头，男人身穿棕色丝绸睡衣半躺在床上，双手交叠，闭着眼睛似乎在忍受或无奈地回应女人的质问，神情疲惫。",
+        "dialogue": "我们不闹了行吗？你现在是不是嫌我烦了？你是不是觉得我无理取闹了？是不是？",
+        "speaker": "女人",
+        "emotion": "无奈/试探",
+        "duration": 8.76,
+        "description_visual": "中景平拍镜头；卧室床头，米色花纹壁纸，挂画；画面右侧床上人物，身穿棕色丝绸睡衣，半躺在床上，双手交叠放在腹部，表情：眼睛微闭，嘴巴微张，神情无奈。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色丝绸睡衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向一侧",
+                "expression": "眉毛舒展，眼睛微眯，嘴角带笑"
+            }
+        ],
+        "background": "米色墙壁，模糊背景",
+        "description_narrative": "特写镜头，男人面部特写，他微微侧头，眼神宠溺地看着女人方向，嘴角上扬，正在用温柔的语气哄劝女人。",
+        "dialogue": "怎么可能呢？我老婆怎么会无理取闹呢？我老婆什么时候都有理。",
+        "speaker": "男人",
+        "emotion": "宠溺/安抚",
+        "duration": 4.44,
+        "description_visual": "特写平拍镜头；米色墙壁，模糊背景；画面中央人物，身穿棕色丝绸睡衣，头部微侧，眼神看向一侧，表情：眉毛舒展，眼睛微眯，嘴角带笑。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "粉色格纹睡衣",
+                "position": "画面中央",
+                "action": "头部微歪，眼神斜视",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的卧室背景",
+        "description_narrative": "特写镜头，女人面部特写，她头发盘起，眼神略带怀疑地斜视，嘴巴微张，似乎对男人的话表示不信或正在打断他。",
+        "dialogue": "你。",
+        "speaker": "女人",
+        "emotion": "怀疑/嗔怪",
+        "duration": 1.76,
+        "description_visual": "特写平拍镜头；模糊的卧室背景；画面中央人物，身穿粉色格纹睡衣，头部微歪，眼神斜视，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "粉色格纹睡衣",
+                "position": "画面左侧",
+                "action": "坐在床上，双手放在腿上",
+                "expression": "眉毛微蹙，嘴巴微张，神情认真"
+            },
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色丝绸睡衣",
+                "position": "画面右侧",
+                "action": "半躺在床上，侧身看向女人",
+                "expression": "眉毛舒展，眼神专注"
+            }
+        ],
+        "background": "卧室大床，白色床单，米色壁纸",
+        "description_narrative": "中景固定镜头，两人坐在床上。女人身穿粉色睡衣坐在左侧，神情认真地看向男人；男人身穿棕色睡衣半躺在右侧，侧身倾听，氛围转为严肃。",
+        "dialogue": "好了，老婆，我们最近怎么了？",
+        "speaker": "男人",
+        "emotion": "关切/认真",
+        "duration": 6.16,
+        "description_visual": "中景平拍镜头；卧室大床，白色床单，米色壁纸；画面左侧人物，身穿粉色格纹睡衣，坐在床上，双手放在腿上，表情：眉毛微蹙，嘴巴微张，神情认真；画面右侧人物，身穿棕色丝绸睡衣，半躺在床上，侧身看向女人，表情：眉毛舒展，眼神专注。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色丝绸睡衣",
+                "position": "画面中央",
+                "action": "眼神直视前方，嘴唇微动",
+                "expression": "眉毛微蹙，眼神深邃，嘴巴微张"
+            }
+        ],
+        "background": "模糊的卧室背景",
+        "description_narrative": "特写镜头，男人面部特写，他眼神深邃，眉头微蹙，正在提出一个严肃的问题，引导女人思考最近的关系状况。",
+        "dialogue": "你有没有觉得我们最近一直被别人牵着鼻子走？",
+        "speaker": "男人",
+        "emotion": "严肃/思考",
+        "duration": 5.32,
+        "description_visual": "特写平拍镜头；模糊的卧室背景；画面中央人物，身穿棕色丝绸睡衣，眼神直视前方，嘴唇微动，表情：眉毛微蹙，眼神深邃，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "粉色格纹睡衣",
+                "position": "画面左侧",
+                "action": "抬头看向男人，眼神思考",
+                "expression": "眉毛舒展，眼睛上视，嘴巴微闭"
+            }
+        ],
+        "background": "模糊的卧室背景",
+        "description_narrative": "仰拍特写镜头，女人抬头看向身边的男人，眼神中流露出思考的神色，似乎正在消化男人刚才提出的问题，表情逐渐变得认同。",
+        "dialogue": "你这么一说，好像也是。",
+        "speaker": "女人",
+        "emotion": "思考/认同",
+        "duration": 5.96,
+        "description_visual": "特写仰拍镜头；模糊的卧室背景；画面左侧人物，身穿粉色格纹睡衣，抬头看向男人，眼神思考，表情：眉毛舒展，眼睛上视，嘴巴微闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色丝绸睡衣",
+                "position": "画面右侧",
+                "action": "低头看向女人，眼神坚定",
+                "expression": "眉毛微蹙，眼神下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的卧室背景",
+        "description_narrative": "特写镜头，男人低头看着女人，眼神变得坚定而严肃，确认了两人被外部势力操控的事实，氛围变得凝重。",
+        "dialogue": "有人不想让我们好过。",
+        "speaker": "男人",
+        "emotion": "坚定/严肃",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；模糊的卧室背景；画面右侧人物，身穿棕色丝绸睡衣，低头看向女人，眼神坚定，表情：眉毛微蹙，眼神下视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "粉色格纹睡衣",
+                "position": "画面左侧",
+                "action": "靠在男人怀里，表情委屈转为平静",
+                "expression": "眉毛舒展，眼神低垂，嘴巴微抿"
+            },
+            {
+                "name": "男人",
+                "gender": "男",
+                "clothing": "棕色丝绸睡衣",
+                "position": "画面右侧",
+                "action": "搂着女人，手轻拍女人手臂",
+                "expression": "眉毛舒展，眼神温柔，嘴巴微动"
+            }
+        ],
+        "background": "卧室大床，白色被子，温馨光线",
+        "description_narrative": "中景固定镜头，两人依偎在床上。男人搂着女人，轻轻拍着她的手臂进行安抚和道歉，女人靠在男人怀里，表情从委屈转为平静，两人达成和解。",
+        "dialogue": "你还自己打自己脸，傻不傻？还不是被你气的。好了，我错了。今天是我不冷静了。行，就暂时原谅你了。",
+        "speaker": "男人",
+        "emotion": "安抚/和解",
+        "duration": 12.64,
+        "description_visual": "中景平拍镜头；卧室大床，白色被子，温馨光线；画面左侧人物，身穿粉色格纹睡衣，靠在男人怀里，表情委屈转为平静，表情：眉毛舒展，眼神低垂，嘴巴微抿；画面右侧人物，身穿棕色丝绸睡衣，搂着女人，手轻拍女人手臂，表情：眉毛舒展，眼神温柔，嘴巴微动。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女人",
+                "gender": "女",
+                "clothing": "粉色格纹睡衣",
+                "position": "画面中央",
+                "action": "抬头看向远方，眼神坚定",
+                "expression": "眉毛微挑，眼神上视，嘴角微扬"
+            }
+        ],
+        "background": "模糊的卧室背景",
+        "description_narrative": "特写镜头，女人面部特写，她抬起头，眼神中不再是委屈，而是充满了坚定和斗志，嘴角微微上扬，决定不再被动承受，要主动反击。",
+        "dialogue": "不过，他们要是想玩，那咱们就陪她好好玩玩。",
+        "speaker": "女人",
+        "emotion": "坚定/自信",
+        "duration": 6.88,
+        "description_visual": "特写平拍镜头；模糊的卧室背景；画面中央人物，身穿粉色格纹睡衣，抬头看向远方，眼神坚定，表情：眉毛微挑，眼神上视，嘴角微扬。"
+    }
+]

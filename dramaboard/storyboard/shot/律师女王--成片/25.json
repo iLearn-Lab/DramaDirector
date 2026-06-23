@@ -1,0 +1,2042 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色三件套西装，红领带",
+                "position": "画面左侧",
+                "action": "双手叉腰站立",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            },
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装，黑衬衫，金项链",
+                "position": "画面中央",
+                "action": "侧身站立，看向右侧",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套，黑裙子",
+                "position": "画面右后景",
+                "action": "从右侧跑入画面",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴张开呼喊"
+            }
+        ],
+        "background": "现代风格室内大厅，有绿植景观，光线明亮",
+        "description_narrative": "全景镜头，眼镜男和薛贵站在大厅中央，母亲从右侧背景焦急地跑入画面，似乎在大声质问。",
+        "dialogue": "什么？",
+        "speaker": "母亲",
+        "emotion": "焦急",
+        "duration": 1.32,
+        "description_visual": "全景平拍镜头；现代风格室内大厅，有绿植景观，光线明亮；画面左侧人物，身穿灰色三件套西装，红领带，双手叉腰站立，表情：眉毛微挑，眼睛注视前方，嘴巴微张；画面中央人物，身穿棕色西装，黑衬衫，金项链，侧身站立，看向右侧，表情：眉毛舒展，眼睛看向右侧，嘴巴微张；画面右后景人物，身穿绿色粗花呢外套，黑裙子，从右侧跑入画面，表情：眉毛紧锁，眼睛睁大，嘴巴张开呼喊。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装，黑衬衫，金项链",
+                "position": "画面中央",
+                "action": "被母亲抓住衣领，身体微后仰",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张显露惊讶"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面前景右侧",
+                "action": "双手紧紧抓住薛贵的西装领口",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，蓝色窗帘模糊可见",
+        "description_narrative": "特写镜头，薛贵面露惊愕，母亲的双手紧紧揪住他的衣领，质问孩子下落。",
+        "dialogue": "你把孩子给我弄走了",
+        "speaker": "母亲",
+        "emotion": "愤怒",
+        "duration": 1.08,
+        "description_visual": "特写平拍镜头；室内背景，蓝色窗帘模糊可见；画面中央人物，身穿棕色西装，黑衬衫，金项链，被母亲抓住衣领，身体微后仰，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张显露惊讶；画面前景右侧人物，身穿绿色粗花呢外套，双手紧紧抓住薛贵的西装领口，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "身体前倾，抬头质问",
+                "expression": "眉毛上扬，眼睛直视对方，嘴巴张开大声说话"
+            }
+        ],
+        "background": "室内背景，模糊的绿植",
+        "description_narrative": "低角度近景，母亲情绪激动，抬头大声指责薛贵弄走了孩子。",
+        "dialogue": "你把孩子给我弄走了",
+        "speaker": "母亲",
+        "emotion": "愤怒",
+        "duration": 0.6,
+        "description_visual": "近景低角度镜头；室内背景，模糊的绿植；画面中央人物，身穿绿色粗花呢外套，身体前倾，抬头质问，表情：眉毛上扬，眼睛直视对方，嘴巴张开大声说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "头部微侧，继续质问",
+                "expression": "眉毛紧锁，眼睛盯着对方，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，模糊的绿植",
+        "description_narrative": "近景镜头，母亲继续逼问孩子被弄到哪里去了。",
+        "dialogue": "弄哪去了说",
+        "speaker": "母亲",
+        "emotion": "焦急",
+        "duration": 0.3,
+        "description_visual": "近景低角度镜头；室内背景，模糊的绿植；画面中央人物，身穿绿色粗花呢外套，头部微侧，继续质问，表情：眉毛紧锁，眼睛盯着对方，嘴巴张开。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "头部微侧，继续质问",
+                "expression": "眉毛紧锁，眼睛盯着对方，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，模糊的绿植",
+        "description_narrative": "近景镜头，母亲继续逼问孩子被弄到哪里去了。",
+        "dialogue": "弄哪去了说",
+        "speaker": "母亲",
+        "emotion": "焦急",
+        "duration": 0.4,
+        "description_visual": "近景低角度镜头；室内背景，模糊的绿植；画面中央人物，身穿绿色粗花呢外套，头部微侧，继续质问，表情：眉毛紧锁，眼睛盯着对方，嘴巴张开。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "头部微侧，继续质问",
+                "expression": "眉毛紧锁，眼睛盯着对方，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，模糊的绿植",
+        "description_narrative": "近景镜头，母亲继续逼问孩子被弄到哪里去了。",
+        "dialogue": "弄哪去了说",
+        "speaker": "母亲",
+        "emotion": "焦急",
+        "duration": 0.48,
+        "description_visual": "近景低角度镜头；室内背景，模糊的绿植；画面中央人物，身穿绿色粗花呢外套，头部微侧，继续质问，表情：眉毛紧锁，眼睛盯着对方，嘴巴张开。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "头部微侧，继续质问",
+                "expression": "眉毛紧锁，眼睛盯着对方，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，模糊的绿植",
+        "description_narrative": "近景镜头，母亲继续逼问孩子被弄到哪里去了。",
+        "dialogue": "说",
+        "speaker": "母亲",
+        "emotion": "愤怒",
+        "duration": 0.5,
+        "description_visual": "近景低角度镜头；室内背景，模糊的绿植；画面中央人物，身穿绿色粗花呢外套，头部微侧，继续质问，表情：眉毛紧锁，眼睛盯着对方，嘴巴张开。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装，黑衬衫，金项链",
+                "position": "画面中央",
+                "action": "皱眉看着对方，手指微抬",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴紧闭"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面前景右侧",
+                "action": "手指指着薛贵",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，蓝色窗帘",
+        "description_narrative": "特写镜头，薛贵一脸不耐烦，母亲的手指指着他，指责孩子是他带走的。",
+        "dialogue": "孩子是你带的",
+        "speaker": "母亲",
+        "emotion": "指责",
+        "duration": 3.22,
+        "description_visual": "特写平拍镜头；室内背景，蓝色窗帘；画面中央人物，身穿棕色西装，黑衬衫，金项链，皱眉看着对方，手指微抬，表情：眉毛紧蹙，眼睛斜视，嘴巴紧闭；画面前景右侧人物，身穿绿色粗花呢外套，手指指着薛贵，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装，黑衬衫，金项链",
+                "position": "画面中央",
+                "action": "双手抓着衣领，身体微动",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开反驳"
+            }
+        ],
+        "background": "室内背景，蓝色窗帘",
+        "description_narrative": "特写镜头，薛贵激动地反驳，表示孩子丢了跟他没关系。",
+        "dialogue": "丢了跟我有什么关系",
+        "speaker": "薛贵",
+        "emotion": "愤怒",
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头；室内背景，蓝色窗帘；画面中央人物，身穿棕色西装，黑衬衫，金项链，双手抓着衣领，身体微动，表情：眉毛紧锁，眼睛瞪大，嘴巴张开反驳。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面右侧",
+                "action": "看着薛贵，表情难以置信",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊的绿植",
+        "description_narrative": "过肩镜头，母亲难以置信地看着薛贵，薛贵继续推卸责任。",
+        "dialogue": "丢了跟我有什么关系",
+        "speaker": "薛贵",
+        "emotion": "冷漠",
+        "duration": 1.46,
+        "description_visual": "过肩平拍镜头；室内背景，模糊的绿植；画面左侧前景人物，身穿棕色西装，背对镜头，表情：不可见；画面右侧人物，身穿绿色粗花呢外套，看着薛贵，表情难以置信，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装，黑衬衫，金项链",
+                "position": "画面中央",
+                "action": "表情严肃",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，蓝色窗帘",
+        "description_narrative": "特写镜头，薛贵表情严肃，母亲画外音说自己亲耳听到的。",
+        "dialogue": "我亲耳听到",
+        "speaker": "母亲",
+        "emotion": "坚定",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；室内背景，蓝色窗帘；画面中央人物，身穿棕色西装，黑衬衫，金项链，表情严肃，表情：眉毛紧锁，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面右侧",
+                "action": "手指指着薛贵，表情肯定",
+                "expression": "眉毛微扬，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊的绿植",
+        "description_narrative": "过肩镜头，母亲指着薛贵，肯定地说是他把孩子藏起来了。",
+        "dialogue": "是你把孩子藏起来了",
+        "speaker": "母亲",
+        "emotion": "指责",
+        "duration": 1.88,
+        "description_visual": "过肩平拍镜头；室内背景，模糊的绿植；画面左侧前景人物，身穿棕色西装，背对镜头，表情：不可见；画面右侧人物，身穿绿色粗花呢外套，手指指着薛贵，表情肯定，表情：眉毛微扬，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面左侧",
+                "action": "站立不动，表情冷漠",
+                "expression": "眉毛平展，眼睛微闭，嘴巴紧闭"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面右侧",
+                "action": "抬手欲打薛贵",
+                "expression": "眉毛紧锁，眼睛眯起，嘴巴张开大喊"
+            }
+        ],
+        "background": "室内大厅，绿植背景",
+        "description_narrative": "中景镜头，母亲情绪失控抬手要打薛贵，大喊着要他还孩子。",
+        "dialogue": "你还我孩子",
+        "speaker": "母亲",
+        "emotion": "崩溃",
+        "duration": 2.12,
+        "description_visual": "中景平拍镜头；室内大厅，绿植背景；画面左侧人物，身穿棕色西装，站立不动，表情冷漠，表情：眉毛平展，眼睛微闭，嘴巴紧闭；画面右侧人物，身穿绿色粗花呢外套，抬手欲打薛贵，表情：眉毛紧锁，眼睛眯起，嘴巴张开大喊。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "黑色大衣，红领带",
+                "position": "画面左侧",
+                "action": "伸手拉住薛贵",
+                "expression": "眉毛微蹙，眼睛看向母亲，嘴巴微张"
+            },
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面中央",
+                "action": "被拉住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内大厅",
+        "description_narrative": "中近景镜头，眼镜男伸手拉住薛贵，母亲继续喊着要孩子。",
+        "dialogue": "你还我孩子",
+        "speaker": "母亲",
+        "emotion": "崩溃",
+        "duration": 3.74,
+        "description_visual": "中近景平拍镜头；室内大厅；画面左侧人物，身穿黑色大衣，红领带，伸手拉住薛贵，表情：眉毛微蹙，眼睛看向母亲，嘴巴微张；画面中央人物，身穿棕色西装，被拉住，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "黑色大衣",
+                "position": "画面左侧",
+                "action": "伸手阻拦",
+                "expression": "不可见"
+            },
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面左侧中央",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面右侧",
+                "action": "身体前倾，激动",
+                "expression": "不可见"
+            },
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面右后景",
+                "action": "走入画面",
+                "expression": "不可见"
+            },
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面右后景",
+                "action": "走入画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内大厅，绿植背景",
+        "description_narrative": "全景镜头，眼镜男劝架，女律师和温羡从右侧背景走入现场。",
+        "dialogue": "别打了，有话好好说",
+        "speaker": "眼镜男",
+        "emotion": "劝解",
+        "duration": 1.64,
+        "description_visual": "全景平拍镜头；室内大厅，绿植背景；画面左侧人物，身穿黑色大衣，伸手阻拦，表情：不可见；画面左侧中央人物，身穿棕色西装，站立，表情：不可见；画面右侧人物，身穿绿色粗花呢外套，身体前倾，激动，表情：不可见；画面右后景人物，身穿米色夹克，走入画面，表情：不可见；画面右后景人物，身穿黑色大衣，走入画面，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装，金项链",
+                "position": "画面右侧",
+                "action": "侧身，表情不悦",
+                "expression": "眉毛紧锁，眼睛斜视，嘴巴紧闭"
+            },
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "黑色大衣",
+                "position": "画面左侧",
+                "action": "手指指向薛贵",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，蓝色窗帘",
+        "description_narrative": "特写镜头，薛贵一脸不悦，眼镜男的手指着他劝别打了。",
+        "dialogue": "别打了",
+        "speaker": "眼镜男",
+        "emotion": "劝解",
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头；室内背景，蓝色窗帘；画面右侧人物，身穿棕色西装，金项链，侧身，表情不悦，表情：眉毛紧锁，眼睛斜视，嘴巴紧闭；画面左侧人物，身穿黑色大衣，手指指向薛贵，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "黑色大衣，红领带",
+                "position": "画面左侧",
+                "action": "侧脸看着薛贵",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "薛贵",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "画面右侧",
+                "action": "背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，蓝色窗帘",
+        "description_narrative": "近景镜头，眼镜男侧脸看着薛贵，似乎在安抚或示意。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.86,
+        "description_visual": "近景平拍镜头；室内背景，蓝色窗帘；画面左侧人物，身穿黑色大衣，红领带，侧脸看着薛贵，表情：眉毛微蹙，眼睛注视，嘴巴微张；画面右侧人物，身穿棕色西装，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "被拉住，手指向前方",
+                "expression": "眉毛紧锁，眼睛看向左侧，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "中景镜头，母亲被人拉住，焦急地指着前方，担心孩子怎么办。",
+        "dialogue": "他走了我孩子怎么办",
+        "speaker": "母亲",
+        "emotion": "焦虑",
+        "duration": 0.9,
+        "description_visual": "中景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿绿色粗花呢外套，被拉住，手指向前方，表情：眉毛紧锁，眼睛看向左侧，嘴巴张开。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "被拉住，手指向前方",
+                "expression": "眉毛紧锁，眼睛看向左侧，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "中景镜头，母亲被人拉住，焦急地指着前方，担心孩子怎么办。",
+        "dialogue": "他走了我孩子怎么办",
+        "speaker": "母亲",
+        "emotion": "焦虑",
+        "duration": 0.44,
+        "description_visual": "中景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿绿色粗花呢外套，被拉住，手指向前方，表情：眉毛紧锁，眼睛看向左侧，嘴巴张开。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色西装，红领带",
+                "position": "画面右侧",
+                "action": "拉住母亲",
+                "expression": "眉毛微蹙，眼睛看向母亲，嘴巴微张"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面左侧",
+                "action": "被拉住",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师拉住母亲，母亲继续哭诉孩子怎么办。",
+        "dialogue": "他走了我孩子怎么办",
+        "speaker": "母亲",
+        "emotion": "焦虑",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面右侧人物，身穿黑色西装，红领带，拉住母亲，表情：眉毛微蹙，眼睛看向母亲，嘴巴微张；画面左侧人物，身穿绿色粗花呢外套，被拉住，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克，黑T恤",
+                "position": "画面中央",
+                "action": "看着母亲",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，绿植",
+        "description_narrative": "近景镜头，温羡看着母亲，劝她先别着急。",
+        "dialogue": "您先别着急",
+        "speaker": "温羡",
+        "emotion": "安抚",
+        "duration": 1.8,
+        "description_visual": "近景平拍镜头；室内背景，绿植；画面中央人物，身穿米色夹克，黑T恤，看着母亲，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "抬头看着律师",
+                "expression": "眉毛微扬，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "中近景镜头，母亲抬头看着律师，担忧地说现在没有证据。",
+        "dialogue": "我们现在也没有证据",
+        "speaker": "母亲",
+        "emotion": "担忧",
+        "duration": 2.56,
+        "description_visual": "中近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿绿色粗花呢外套，抬头看着律师，表情：眉毛微扬，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色西装，红领带",
+                "position": "画面中央",
+                "action": "低头看着母亲",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师低头看着母亲，说没用的，让她先听自己说。",
+        "dialogue": "没用的，你先听我说",
+        "speaker": "女律师",
+        "emotion": "冷静",
+        "duration": 3.6,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿黑色西装，红领带，低头看着母亲，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色西装，红领带",
+                "position": "画面中央",
+                "action": "看着母亲",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师告诉母亲现在最重要的是什么。",
+        "dialogue": "现在最重要的",
+        "speaker": "女律师",
+        "emotion": "专业",
+        "duration": 3.46,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿黑色西装，红领带，看着母亲，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "被律师拉着",
+                "expression": "不可见"
+            },
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面右侧",
+                "action": "拉着母亲",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内大厅，绿植背景",
+        "description_narrative": "全景镜头，三人站在大厅，女律师建议申请行为保全。",
+        "dialogue": "再申请保全行为",
+        "speaker": "女律师",
+        "emotion": "专业",
+        "duration": 0.72,
+        "description_visual": "全景平拍镜头；室内大厅，绿植背景；画面左侧人物，身穿米色夹克，站立，表情：不可见；画面中央人物，身穿绿色粗花呢外套，被律师拉着，表情：不可见；画面右侧人物，身穿黑色大衣，拉着母亲，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "抓着律师的手",
+                "expression": "眉毛微蹙，眼睛看着律师，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "中近景镜头，母亲抓着律师的手，律师画外音说剩下的交给她。",
+        "dialogue": "剩下的就都交给我吧",
+        "speaker": "女律师",
+        "emotion": "承诺",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿绿色粗花呢外套，抓着律师的手，表情：眉毛微蹙，眼睛看着律师，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "抓着律师的手",
+                "expression": "眉毛微蹙，眼睛看着律师，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，母亲抓着律师的手，急切地称呼对方。",
+        "dialogue": "你",
+        "speaker": "母亲",
+        "emotion": "急切",
+        "duration": 1.66,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿绿色粗花呢外套，抓着律师的手，表情：眉毛微蹙，眼睛看着律师，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面中央",
+                "action": "双手抓着律师的手",
+                "expression": "眉毛紧锁，眼睛看着律师，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "中近景镜头，母亲双手抓着律师，恳求对方一定要帮自己。",
+        "dialogue": "你一定要帮我",
+        "speaker": "母亲",
+        "emotion": "恳求",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿绿色粗花呢外套，双手抓着律师的手，表情：眉毛紧锁，眼睛看着律师，嘴巴张开。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色西装，红领带",
+                "position": "画面中央",
+                "action": "看着母亲",
+                "expression": "眉毛舒展，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师看着母亲，表情坚定。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.58,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿黑色西装，红领带，看着母亲，表情：眉毛舒展，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "母亲",
+                "gender": "女",
+                "clothing": "绿色粗花呢外套",
+                "position": "画面左侧",
+                "action": "抓着律师的手",
+                "expression": "眉毛微蹙，眼睛看着律师，嘴巴张开"
+            },
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "被抓住手",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "中近景镜头，母亲抓着律师的手，请求帮忙找回孩子小逸。",
+        "dialogue": "帮我找回孩子，找回小逸",
+        "speaker": "母亲",
+        "emotion": "恳求",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；室内背景，白色墙壁；画面左侧人物，身穿绿色粗花呢外套，抓着律师的手，表情：眉毛微蹙，眼睛看着律师，嘴巴张开；画面右侧人物，身穿黑色西装，被抓住手，表情：不可见。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色西装，红领带",
+                "position": "画面中央",
+                "action": "看着母亲",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师安慰母亲说放心。",
+        "dialogue": "你放心",
+        "speaker": "女律师",
+        "emotion": "安抚",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿黑色西装，红领带，看着母亲，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色西装，红领带",
+                "position": "画面中央",
+                "action": "看着母亲",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师承诺一定帮母亲把孩子找回来。",
+        "dialogue": "我一定帮你把孩子找回来",
+        "speaker": "女律师",
+        "emotion": "坚定",
+        "duration": 0.58,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿黑色西装，红领带，看着母亲，表情：眉毛舒展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色西装，红领带",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，光线变暗",
+        "description_narrative": "近景镜头，女律师低头沉思，光线逐渐变暗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 2.28,
+        "description_visual": "近景平拍镜头；室内背景，光线变暗；画面中央人物，身穿黑色西装，红领带，低头，表情：眉毛低垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市高架桥，车流密集，阳光照射",
+        "description_narrative": "远景俯拍镜头，展示城市高架桥上密集的车流，阳光洒在路面上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.5,
+        "description_visual": "远景俯拍镜头；城市高架桥，车流密集，阳光照射。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克，黑裤子",
+                "position": "画面左侧",
+                "action": "行走",
+                "expression": "不可见"
+            },
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣，黑裙子",
+                "position": "画面右侧",
+                "action": "行走",
+                "expression": "不可见"
+            }
+        ],
+        "background": "小区外部走廊，白色墙壁",
+        "description_narrative": "全景跟拍镜头，女律师和温羡走在小区走廊上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.84,
+        "description_visual": "全景平拍镜头（跟拍）；小区外部走廊，白色墙壁；画面左侧人物，身穿米色夹克，黑裤子，行走，表情：不可见；画面右侧人物，身穿黑色大衣，黑裙子，行走，表情：不可见。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面右侧门后",
+                "action": "从门后探出头",
+                "expression": "眉毛微挑，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "小区门口，蓝色门",
+        "description_narrative": "中景镜头，保安从门后探出头，询问是谁。",
+        "dialogue": "谁啊",
+        "speaker": "保安",
+        "emotion": "警惕",
+        "duration": 1.6,
+        "description_visual": "中景平拍镜头；小区门口，蓝色门；画面右侧门后人物，身穿黑色保安制服，帽子，从门后探出头，表情：眉毛微挑，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面右侧",
+                "action": "伸手打招呼",
+                "expression": "不可见"
+            },
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服",
+                "position": "画面左侧边缘",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "小区走廊，白色墙壁",
+        "description_narrative": "中景镜头，女律师和温羡走向保安，律师笑着打招呼。",
+        "dialogue": "你好",
+        "speaker": "女律师",
+        "emotion": "礼貌",
+        "duration": 1.5,
+        "description_visual": "中景平拍镜头；小区走廊，白色墙壁；画面左侧人物，身穿米色夹克，站立，表情：不可见；画面右侧人物，身穿黑色大衣，伸手打招呼，表情：不可见；画面左侧边缘人物，身穿黑色保安制服，站立，表情：不可见。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛眯起笑，嘴巴张开露齿"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师微笑着说有个案子需要调查。",
+        "dialogue": "你好，我们有个案子",
+        "speaker": "女律师",
+        "emotion": "礼貌",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿黑色大衣，微笑，表情：眉毛舒展，眼睛眯起笑，嘴巴张开露齿。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "看着对方",
+                "expression": "眉毛平展，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "小区门口，蓝色门",
+        "description_narrative": "近景镜头，保安听着律师说需要调查。",
+        "dialogue": "需要调查一下",
+        "speaker": "女律师",
+        "emotion": "专业",
+        "duration": 2.26,
+        "description_visual": "近景平拍镜头；小区门口，蓝色门；画面中央人物，身穿黑色保安制服，帽子，看着对方，表情：眉毛平展，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "看着保安",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师说明要查昨天的监控。",
+        "dialogue": "昨天的监控",
+        "speaker": "女律师",
+        "emotion": "认真",
+        "duration": 1.62,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿黑色大衣，看着保安，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "看着对方",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴张开"
+            }
+        ],
+        "background": "小区门口，蓝色门",
+        "description_narrative": "近景镜头，保安推脱说不是不给视频。",
+        "dialogue": "不是我不给你们视频",
+        "speaker": "保安",
+        "emotion": "推脱",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；小区门口，蓝色门；画面中央人物，身穿黑色保安制服，帽子，看着对方，表情：眉毛微蹙，眼睛注视，嘴巴张开。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "抬头看",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，温羡听着保安说监控坏了。",
+        "dialogue": "关键是我们监控坏了",
+        "speaker": "保安",
+        "emotion": "敷衍",
+        "duration": 2.34,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿米色夹克，抬头看，表情：眉毛微挑，眼睛向上看，嘴巴紧闭。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "看着保安",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师听着保安说还没修好。",
+        "dialogue": "到现在还没修好呢",
+        "speaker": "保安",
+        "emotion": "敷衍",
+        "duration": 3.42,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿黑色大衣，看着保安，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "看着保安",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，女律师询问其他地方有没有监控。",
+        "dialogue": "其他地方有监控吗",
+        "speaker": "女律师",
+        "emotion": "追问",
+        "duration": 1.78,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿黑色大衣，看着保安，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "看着对方",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，竖条纹墙壁",
+        "description_narrative": "近景镜头，保安不耐烦地问还有没有事。",
+        "dialogue": "还有事没啊",
+        "speaker": "保安",
+        "emotion": "不耐烦",
+        "duration": 0.88,
+        "description_visual": "近景平拍镜头；室内背景，竖条纹墙壁；画面中央人物，身穿黑色保安制服，帽子，看着对方，表情：眉毛微蹙，眼睛注视，嘴巴张开。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "看着保安",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，温羡听着保安说要换班了。",
+        "dialogue": "还有事没啊，没事赶紧走，我着急换班了",
+        "speaker": "保安",
+        "emotion": "不耐烦",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿米色夹克，看着保安，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "看着对方",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，竖条纹墙壁",
+        "description_narrative": "近景镜头，保安继续催促，温羡画外音指责他没素质。",
+        "dialogue": "不是你这个人，怎么这么没有素质啊",
+        "speaker": "温羡",
+        "emotion": "愤怒",
+        "duration": 0.88,
+        "description_visual": "近景平拍镜头；室内背景，竖条纹墙壁；画面中央人物，身穿黑色保安制服，帽子，看着对方，表情：眉毛微蹙，眼睛注视，嘴巴张开。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "抬头看",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，温羡抬头说自己问题还没问完。",
+        "dialogue": "我问题都没有问完呢",
+        "speaker": "温羡",
+        "emotion": "不满",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿米色夹克，抬头看，表情：眉毛微挑，眼睛向上看，嘴巴张开。"
+    },
+    {
+        "index": 48,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，竖条纹墙壁",
+        "description_narrative": "近景镜头，保安低头说自己要走了。",
+        "dialogue": "我现在走吧",
+        "speaker": "保安",
+        "emotion": "敷衍",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；室内背景，竖条纹墙壁；画面中央人物，身穿黑色保安制服，帽子，低头，表情：眉毛低垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 49,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，竖条纹墙壁",
+        "description_narrative": "近景镜头，保安催促他们走吧。",
+        "dialogue": "走吧走吧",
+        "speaker": "保安",
+        "emotion": "敷衍",
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；室内背景，竖条纹墙壁；画面中央人物，身穿黑色保安制服，帽子，低头，表情：眉毛低垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 50,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服",
+                "position": "画面左侧",
+                "action": "推搡",
+                "expression": "不可见"
+            },
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "被推",
+                "expression": "不可见"
+            },
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面右侧",
+                "action": "被推",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "中景镜头，保安推着两人让他们走。",
+        "dialogue": "走走走",
+        "speaker": "保安",
+        "emotion": "粗鲁",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；室内背景，白色墙壁；画面左侧人物，身穿黑色保安制服，推搡，表情：不可见；画面中央人物，身穿米色夹克，被推，表情：不可见；画面右侧人物，身穿黑色大衣，被推，表情：不可见。"
+    },
+    {
+        "index": 51,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服",
+                "position": "画面左侧",
+                "action": "推搡",
+                "expression": "不可见"
+            },
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "被推",
+                "expression": "不可见"
+            },
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面右侧",
+                "action": "被推",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "中景镜头，保安继续推着两人离开。",
+        "dialogue": "走走走",
+        "speaker": "保安",
+        "emotion": "粗鲁",
+        "duration": 3.14,
+        "description_visual": "中景平拍镜头；室内背景，白色墙壁；画面左侧人物，身穿黑色保安制服，推搡，表情：不可见；画面中央人物，身穿米色夹克，被推，表情：不可见；画面右侧人物，身穿黑色大衣，被推，表情：不可见。"
+    },
+    {
+        "index": 52,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服",
+                "position": "画面左侧",
+                "action": "走开",
+                "expression": "不可见"
+            },
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面右侧",
+                "action": "被推着走",
+                "expression": "不可见"
+            },
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面右侧",
+                "action": "被推着走",
+                "expression": "不可见"
+            }
+        ],
+        "background": "小区走廊，水池倒影",
+        "description_narrative": "全景镜头，保安走开，律师和温羡被赶走，温羡画外音说问题还没问完。",
+        "dialogue": "我问题还没",
+        "speaker": "温羡",
+        "emotion": "不满",
+        "duration": 0.52,
+        "description_visual": "全景平拍镜头；小区走廊，水池倒影；画面左侧人物，身穿黑色保安制服，走开，表情：不可见；画面右侧人物，身穿黑色大衣，被推着走，表情：不可见；画面右侧人物，身穿米色夹克，被推着走，表情：不可见。"
+    },
+    {
+        "index": 53,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "侧身",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，灰色墙壁",
+        "description_narrative": "近景镜头，保安侧身，律师画外音说这人怎么这么没素质。",
+        "dialogue": "这么没素质",
+        "speaker": "女律师",
+        "emotion": "不满",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；室内背景，灰色墙壁；画面中央人物，身穿黑色保安制服，帽子，侧身，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 54,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面右侧",
+                "action": "手搭在保安肩上",
+                "expression": "不可见"
+            },
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服",
+                "position": "画面左侧",
+                "action": "被搭肩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "特写镜头，一只手搭在保安肩上，律师画外音说去找他。",
+        "dialogue": "我去找他去",
+        "speaker": "女律师",
+        "emotion": "决定",
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；室内背景，白色墙壁；画面右侧人物，身穿灰色西装，手搭在保安肩上，表情：不可见；画面左侧人物，身穿黑色保安制服，被搭肩，表情：不可见。"
+    },
+    {
+        "index": 55,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面右侧墙后",
+                "action": "探头",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "小区外部，木质墙面",
+        "description_narrative": "中景镜头，女律师从墙后探头，叫温羡的名字。",
+        "dialogue": "温羡",
+        "speaker": "女律师",
+        "emotion": "呼唤",
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头；小区外部，木质墙面；画面右侧墙后人物，身穿黑色大衣，探头，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 56,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面左侧",
+                "action": "行走",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "小区外部，灰色墙壁",
+        "description_narrative": "中近景镜头，温羡走着，画外音说这人怎么这样。",
+        "dialogue": "他这个人怎么",
+        "speaker": "温羡",
+        "emotion": "疑惑",
+        "duration": 4.32,
+        "description_visual": "中近景平拍镜头；小区外部，灰色墙壁；画面左侧人物，身穿米色夹克，行走，表情：眉毛微蹙，眼睛看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 57,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "小区外部，木质墙面",
+        "description_narrative": "中近景镜头，女律师说去找他。",
+        "dialogue": "我去找他去",
+        "speaker": "女律师",
+        "emotion": "决定",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；小区外部，木质墙面；画面中央人物，身穿黑色大衣，站立，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 58,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "小区外部，灰色墙壁",
+        "description_narrative": "中近景镜头，女律师画外音让温羡去调查薛贵和情妇的事。",
+        "dialogue": "你去帮我调查一下，薛贵不是和他的情妇",
+        "speaker": "女律师",
+        "emotion": "指令",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；小区外部，灰色墙壁；画面中央人物，身穿米色夹克，站立，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 59,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "小区外部，木质墙面",
+        "description_narrative": "中近景镜头，女律师问是不是已经有了儿子。",
+        "dialogue": "已经有了儿子吗",
+        "speaker": "女律师",
+        "emotion": "疑问",
+        "duration": 1.62,
+        "description_visual": "中近景平拍镜头；小区外部，木质墙面；画面中央人物，身穿黑色大衣，站立，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 60,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "小区外部，灰色墙壁",
+        "description_narrative": "中近景镜头，女律师画外音问那为什么还要。",
+        "dialogue": "那为什么还要",
+        "speaker": "女律师",
+        "emotion": "疑问",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；小区外部，灰色墙壁；画面中央人物，身穿米色夹克，站立，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 61,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "小区外部，木质墙面",
+        "description_narrative": "中近景镜头，女律师问为什么还要薛逸的抚养权。",
+        "dialogue": "那为什么还要薛逸的抚养权",
+        "speaker": "女律师",
+        "emotion": "疑问",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；小区外部，木质墙面；画面中央人物，身穿黑色大衣，站立，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 62,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "小区外部，灰色墙壁",
+        "description_narrative": "中近景镜头，温羡说觉得这事有蹊跷。",
+        "dialogue": "我觉得这事有蹊跷",
+        "speaker": "温羡",
+        "emotion": "怀疑",
+        "duration": 0.72,
+        "description_visual": "中近景平拍镜头；小区外部，灰色墙壁；画面中央人物，身穿米色夹克，站立，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 63,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女律师",
+                "gender": "女",
+                "clothing": "黑色大衣",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "小区外部，木质墙面",
+        "description_narrative": "中近景镜头，女律师说包在她身上。",
+        "dialogue": "包在我身上",
+        "speaker": "女律师",
+        "emotion": "自信",
+        "duration": 0.96,
+        "description_visual": "中近景平拍镜头；小区外部，木质墙面；画面中央人物，身穿黑色大衣，站立，表情：眉毛舒展，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 64,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "小区外部，灰色墙壁",
+        "description_narrative": "中近景镜头，温羡说包在他身上，走。",
+        "dialogue": "包在我身上，走",
+        "speaker": "温羡",
+        "emotion": "自信",
+        "duration": 0.46,
+        "description_visual": "中近景平拍镜头；小区外部，灰色墙壁；画面中央人物，身穿米色夹克，站立，表情：眉毛舒展，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 65,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "米色夹克",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "小区外部，灰色墙壁",
+        "description_narrative": "中近景镜头，温羡准备离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "中近景平拍镜头；小区外部，灰色墙壁；画面中央人物，身穿米色夹克，站立，表情：眉毛舒展，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 66,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "小区门口，灰色墙壁",
+        "description_narrative": "近景镜头，保安低头说您来了您放心。",
+        "dialogue": "您来了您放心",
+        "speaker": "保安",
+        "emotion": "恭敬",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；小区门口，灰色墙壁；画面中央人物，身穿黑色保安制服，帽子，低头，表情：眉毛低垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 67,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面中央",
+                "action": "看着保安",
+                "expression": "眉毛舒展，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，眼镜男看着保安，保安画外音说您放心。",
+        "dialogue": "您来了您放心",
+        "speaker": "保安",
+        "emotion": "恭敬",
+        "duration": 1.9,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿灰色西装，看着保安，表情：眉毛舒展，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 68,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "小区门口，灰色墙壁",
+        "description_narrative": "近景镜头，保安低头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；小区门口，灰色墙壁；画面中央人物，身穿黑色保安制服，帽子，低头，表情：眉毛低垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 69,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面左侧",
+                "action": "手递东西",
+                "expression": "不可见"
+            },
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服",
+                "position": "画面右侧",
+                "action": "手接东西",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "特写镜头，眼镜男递给保安一个U盘，画外音说事情办得妥妥的。",
+        "dialogue": "事情办得妥妥的",
+        "speaker": "眼镜男",
+        "emotion": "满意",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；室内背景，白色墙壁；画面左侧人物，身穿灰色西装，手递东西，表情：不可见；画面右侧人物，身穿黑色保安制服，手接东西，表情：不可见。"
+    },
+    {
+        "index": 70,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面中央",
+                "action": "拿着U盘",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，眼镜男拿着U盘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿灰色西装，拿着U盘，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 71,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面中央",
+                "action": "拿着U盘",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，眼镜男拿着U盘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿灰色西装，拿着U盘，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 72,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面右侧",
+                "action": "手臂伸出",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "特写镜头，眼镜男的手臂，画外音说这个你先拿着。",
+        "dialogue": "这个你先拿着",
+        "speaker": "眼镜男",
+        "emotion": "贿赂",
+        "duration": 2.18,
+        "description_visual": "特写平拍镜头；室内背景，白色墙壁；画面右侧人物，身穿灰色西装，手臂伸出，表情：不可见。"
+    },
+    {
+        "index": 73,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "看着对方",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "小区门口，灰色墙壁",
+        "description_narrative": "近景镜头，保安看着对方，画外音说这个先拿着。",
+        "dialogue": "这个你先拿着",
+        "speaker": "眼镜男",
+        "emotion": "贿赂",
+        "duration": 2.74,
+        "description_visual": "近景平拍镜头；小区门口，灰色墙壁；画面中央人物，身穿黑色保安制服，帽子，看着对方，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 74,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面左侧",
+                "action": "手持卡片",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头，眼镜男手持一张蓝色银行卡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面左侧人物，身穿灰色西装，手持卡片，表情：不可见。"
+    },
+    {
+        "index": 75,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "看着对方",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "小区门口，灰色墙壁",
+        "description_narrative": "近景镜头，保安看着对方，眼镜男画外音提醒他一句。",
+        "dialogue": "我提醒你一句",
+        "speaker": "眼镜男",
+        "emotion": "警告",
+        "duration": 0.76,
+        "description_visual": "近景平拍镜头；小区门口，灰色墙壁；画面中央人物，身穿黑色保安制服，帽子，看着对方，表情：眉毛微蹙，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 76,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面中央",
+                "action": "侧脸",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，眼镜男侧脸警告不该说的别说。",
+        "dialogue": "不该说的别说",
+        "speaker": "眼镜男",
+        "emotion": "警告",
+        "duration": 0.82,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿灰色西装，侧脸，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 77,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "保安",
+                "gender": "男",
+                "clothing": "黑色保安制服，帽子",
+                "position": "画面中央",
+                "action": "看着对方",
+                "expression": "眉毛舒展，眼睛注视，嘴巴张开"
+            }
+        ],
+        "background": "小区门口，灰色墙壁",
+        "description_narrative": "近景镜头，保安说自己机灵着呢。",
+        "dialogue": "您放心我机灵着呢",
+        "speaker": "保安",
+        "emotion": "讨好",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；小区门口，灰色墙壁；画面中央人物，身穿黑色保安制服，帽子，看着对方，表情：眉毛舒展，眼睛注视，嘴巴张开。"
+    },
+    {
+        "index": 78,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "眼镜男",
+                "gender": "男",
+                "clothing": "灰色西装",
+                "position": "画面中央",
+                "action": "手持卡片",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，白色墙壁",
+        "description_narrative": "近景镜头，眼镜男手持卡片，微笑着。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.86,
+        "description_visual": "近景平拍镜头；室内背景，白色墙壁；画面中央人物，身穿灰色西装，手持卡片，表情：眉毛舒展，眼睛下视，嘴巴微张。"
+    }
+]

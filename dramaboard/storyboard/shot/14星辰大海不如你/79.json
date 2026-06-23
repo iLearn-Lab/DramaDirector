@@ -1,0 +1,1071 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫，浅蓝色牛仔裤",
+                "position": "画面右侧站立",
+                "action": "双手捧着碗，低头向碗中吹气",
+                "expression": "眉毛微蹙，眼睛注视碗中，嘴巴微张吹气"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧床上坐着",
+                "action": "背对镜头，身体微微前倾",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房，白色双开门，光线柔和偏冷",
+        "description_narrative": "全景镜头，医院病房内，白衣男子站在床边双手捧碗吹气，病床女子身穿条纹病号服坐在床沿，背对镜头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "全景平拍镜头；医院病房，白色双开门，光线柔和偏冷；画面右侧站立人物，身穿白色衬衫，浅蓝色牛仔裤，双手捧着碗，低头向碗中吹气，表情：眉毛微蹙，眼睛注视碗中，嘴巴微张吹气；画面左侧床上坐着人物，身穿蓝白条纹病号服，背对镜头，身体微微前倾，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "身体前倾，靠近女子",
+                "expression": "眉毛舒展，眼睛向下看，嘴巴微张说话"
+            }
+        ],
+        "background": "医院病房背景虚化",
+        "description_narrative": "镜头推进至白衣男子中近景，他身体前倾靠近女子，神情关切地开口说话。",
+        "dialogue": "来冉冉趁热喝了吧",
+        "speaker": "白衣男子",
+        "emotion": "关切",
+        "duration": 1.87,
+        "description_visual": "中近景平拍镜头（推进）；医院病房背景虚化；画面右侧人物，身穿白色衬衫，身体前倾，靠近女子，表情：眉毛舒展，眼睛向下看，嘴巴微张说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "抬头注视前方",
+                "expression": "眉毛微挑，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊的病房背景",
+        "description_narrative": "特写镜头聚焦病床女子面部，她抬头注视着递过来的碗，眼神中带着些许迟疑。",
+        "dialogue": "来冉冉趁热喝了吧",
+        "speaker": "白衣男子",
+        "emotion": "迟疑",
+        "duration": 3.73,
+        "description_visual": "特写平拍镜头；模糊的病房背景；画面中央人物，身穿蓝白条纹病号服，抬头注视前方，表情：眉毛微挑，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "注视着女子",
+                "expression": "眉毛微蹙，眼睛专注，嘴巴微张"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧前景",
+                "action": "手持碗",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房门背景",
+        "description_narrative": "过肩镜头，白衣男子注视着女子手中的碗，神情专注而紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.07,
+        "description_visual": "过肩平拍镜头；病房门背景；画面右侧人物，身穿白色衬衫，注视着女子，表情：眉毛微蹙，眼睛专注，嘴巴微张；画面左侧前景人物，身穿蓝白条纹病号服，手持碗，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧床上",
+                "action": "双手捧碗，身体微缩",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧床边",
+                "action": "伸手握住女子的手",
+                "expression": "眉毛紧锁，眼睛直视女子，嘴巴微张"
+            }
+        ],
+        "background": "医院病床，白色床单",
+        "description_narrative": "中景镜头，两人坐在床上，白衣男子伸手握住女子捧碗的手，身体前倾询问。",
+        "dialogue": "冉冉",
+        "speaker": "白衣男子",
+        "emotion": "急切",
+        "duration": 1.73,
+        "description_visual": "中景平拍镜头；医院病床，白色床单；画面左侧床上人物，身穿蓝白条纹病号服，双手捧碗，身体微缩，表情：不可见；画面右侧床边人物，身穿白色衬衫，伸手握住女子的手，表情：眉毛紧锁，眼睛直视女子，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "低头看着碗",
+                "expression": "眉毛下垂，眼睛视线下移，嘴唇微抿"
+            }
+        ],
+        "background": "模糊的碗和手部",
+        "description_narrative": "俯拍特写，女子低头看着碗中的液体，神情恍惚，似乎在回忆。",
+        "dialogue": "你是不是想起了什么",
+        "speaker": "白衣男子",
+        "emotion": "恍惚",
+        "duration": 3.07,
+        "description_visual": "特写俯拍镜头；模糊的碗和手部；画面中央人物，身穿蓝白条纹病号服，低头看着碗，表情：眉毛下垂，眼睛视线下移，嘴唇微抿。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "坐着不动",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "额头贴近女子额头",
+                "expression": "眼睛微闭，神情压抑"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "镜头推进，白衣男子将额头抵在女子额头上，动作亲密却带有压迫感。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "中近景平拍镜头（推进）；病房背景；画面左侧人物，身穿蓝白条纹病号服，坐着不动，表情：不可见；画面右侧人物，身穿白色衬衫，额头贴近女子额头，表情：眼睛微闭，神情压抑。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "眼神游离",
+                "expression": "眉毛微蹙，眼睛看向侧下方，嘴唇微动"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "女子面部特写，她眼神游离，嘴唇微动，开始低声叙述。",
+        "dialogue": "我好像想起了",
+        "speaker": "病床女子",
+        "emotion": "恐惧",
+        "duration": 3.37,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿蓝白条纹病号服，眼神游离，表情：眉毛微蹙，眼睛看向侧下方，嘴唇微动。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "注视女子",
+                "expression": "眉毛紧锁，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "病房墙壁",
+        "description_narrative": "过肩镜头拍摄白衣男子，他听到女子的话后神情变得紧张震惊。",
+        "dialogue": "一些可怕的事情",
+        "speaker": "病床女子",
+        "emotion": "震惊",
+        "duration": 2.63,
+        "description_visual": "近景过肩镜头；病房墙壁；画面右侧人物，身穿白色衬衫，注视女子，表情：眉毛紧锁，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "转头看向侧面",
+                "expression": "眉毛上扬，眼睛惊恐地睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "女子侧脸特写，她惊恐地转头看向侧面，仿佛看到了当时的场景。",
+        "dialogue": "有两个人",
+        "speaker": "病床女子",
+        "emotion": "惊恐",
+        "duration": 1.8,
+        "description_visual": "特写侧拍镜头；模糊背景；画面中央人物，身穿蓝白条纹病号服，转头看向侧面，表情：眉毛上扬，眼睛惊恐地睁大，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "低头看着女子",
+                "expression": "眉毛紧皱，眼神复杂，嘴唇紧闭"
+            }
+        ],
+        "background": "病房门背景",
+        "description_narrative": "白衣男子低头看着女子，听到“推下河”时表情凝重。",
+        "dialogue": "推下河的",
+        "speaker": "病床女子",
+        "emotion": "凝重",
+        "duration": 3.2,
+        "description_visual": "近景过肩镜头；病房门背景；画面右侧人物，身穿白色衬衫，低头看着女子，表情：眉毛紧皱，眼神复杂，嘴唇紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "眼神颤抖",
+                "expression": "眉毛颤抖，眼睛含泪，嘴唇哆嗦"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "女子面部特写，她回忆起窒息感，眼神颤抖，充满恐惧。",
+        "dialogue": "那种窒息感 太可怕了",
+        "speaker": "病床女子",
+        "emotion": "极度恐惧",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿蓝白条纹病号服，眼神颤抖，表情：眉毛颤抖，眼睛含泪，嘴唇哆嗦。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "拥抱女子，手拍女子背部",
+                "expression": "眼睛微闭，嘴巴安抚地开合"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "靠在男子怀里",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "白衣男子伸手紧紧抱住女子，手拍着她的背部轻声安抚。",
+        "dialogue": "好了好了好了",
+        "speaker": "白衣男子",
+        "emotion": "安抚",
+        "duration": 0.5,
+        "description_visual": "近景侧拍镜头（跟拍）；病房背景；画面右侧人物，身穿白色衬衫，拥抱女子，手拍女子背部，表情：眼睛微闭，嘴巴安抚地开合；画面左侧人物，身穿蓝白条纹病号服，靠在男子怀里，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "手抚摸女子后脑",
+                "expression": "眼睛注视女子头顶，嘴巴微动"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "头埋在男子肩头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写镜头，男子手抚摸女子后脑，继续轻声重复安抚的话语。",
+        "dialogue": "好了好了好了",
+        "speaker": "白衣男子",
+        "emotion": "安抚",
+        "duration": 2.6,
+        "description_visual": "特写侧拍镜头；模糊背景；画面右侧人物，身穿白色衬衫，手抚摸女子后脑，表情：眼睛注视女子头顶，嘴巴微动；画面左侧人物，身穿蓝白条纹病号服，头埋在男子肩头，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "脸埋在男子肩膀",
+                "expression": "眼睛睁开，眼神空洞"
+            }
+        ],
+        "background": "白色衬衫布料",
+        "description_narrative": "女子脸埋在男子肩头，只露出一只眼睛，眼神空洞。",
+        "dialogue": "会让你很痛苦的话",
+        "speaker": "白衣男子",
+        "emotion": "空洞",
+        "duration": 1.2,
+        "description_visual": "特写侧拍镜头；白色衬衫布料；画面左侧人物，身穿蓝白条纹病号服，脸埋在男子肩膀，表情：眼睛睁开，眼神空洞。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "手抚摸女子头发",
+                "expression": "眉毛微蹙，眼睛注视女子，嘴巴说话"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "男子手抚摸女子头发，低头在她耳边低语，试图引导她遗忘。",
+        "dialogue": "会让你很痛苦的话",
+        "speaker": "白衣男子",
+        "emotion": "诱导",
+        "duration": 1.6,
+        "description_visual": "近景侧拍镜头；病房背景；画面右侧人物，身穿白色衬衫，手抚摸女子头发，表情：眉毛微蹙，眼睛注视女子，嘴巴说话。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "闭眼靠在肩头",
+                "expression": "眼睛微闭，睫毛颤动"
+            }
+        ],
+        "background": "白色衬衫",
+        "description_narrative": "女子闭眼靠在男子肩头，似乎在听从他的建议不再去想。",
+        "dialogue": "你就不想它了好吗",
+        "speaker": "白衣男子",
+        "emotion": "顺从",
+        "duration": 1.47,
+        "description_visual": "特写侧拍镜头；白色衬衫；画面左侧人物，身穿蓝白条纹病号服，闭眼靠在肩头，表情：眼睛微闭，睫毛颤动。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "手轻抚女子头发",
+                "expression": "眉毛舒展，眼神温柔，嘴巴微动"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "男子温柔地抚摸着女子的头发，轻声说着“乖”。",
+        "dialogue": "乖",
+        "speaker": "白衣男子",
+        "emotion": "温柔",
+        "duration": 1.6,
+        "description_visual": "近景侧拍镜头；病房背景；画面右侧人物，身穿白色衬衫，手轻抚女子头发，表情：眉毛舒展，眼神温柔，嘴巴微动。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "抱着女子",
+                "expression": "不可见"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "被抱着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "镜头轻微摇动，两人保持拥抱姿势，画面略显模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.6,
+        "description_visual": "中近景侧拍镜头（摇镜）；模糊背景；画面右侧人物，身穿白色衬衫，抱着女子，表情：不可见；画面左侧人物，身穿蓝白条纹病号服，被抱着，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "低头说话",
+                "expression": "眉毛微垂，眼睛向下，嘴巴微张"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "男子低头看着怀中的女子，轻声建议她再睡一会。",
+        "dialogue": "再睡会吧",
+        "speaker": "白衣男子",
+        "emotion": "温和",
+        "duration": 1.6,
+        "description_visual": "近景侧拍镜头；病房背景；画面右侧人物，身穿白色衬衫，低头说话，表情：眉毛微垂，眼睛向下，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛低垂，眼睛向下看，嘴唇紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "女子低头，顺从地准备躺下，男子在手边辅助。",
+        "dialogue": "来",
+        "speaker": "白衣男子",
+        "emotion": "顺从",
+        "duration": 1.33,
+        "description_visual": "特写俯拍镜头；模糊背景；画面中央人物，身穿蓝白条纹病号服，低头，表情：眉毛低垂，眼睛向下看，嘴唇紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "慢慢躺下",
+                "expression": "眉毛舒展，眼睛微闭，表情平静"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "女子慢慢躺下，神情逐渐平静下来。",
+        "dialogue": "慢点",
+        "speaker": "白衣男子",
+        "emotion": "平静",
+        "duration": 1.2,
+        "description_visual": "特写俯拍镜头；模糊背景；画面中央人物，身穿蓝白条纹病号服，慢慢躺下，表情：眉毛舒展，眼睛微闭，表情平静。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "低头看着女子",
+                "expression": "眉毛微蹙，眼神专注"
+            }
+        ],
+        "background": "病房背景",
+        "description_narrative": "男子低头看着躺下的女子，确认她安稳后。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "近景侧拍镜头；病房背景；画面右侧人物，身穿白色衬衫，低头看着女子，表情：眉毛微蹙，眼神专注。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "拉远",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "帮女子盖被子",
+                "expression": "神情温柔"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧床上",
+                "action": "躺下",
+                "expression": "闭眼"
+            }
+        ],
+        "background": "医院病床",
+        "description_narrative": "镜头拉远，男子帮女子盖好被子，轻声称呼她“思思”，暗示身份认知的混乱。",
+        "dialogue": "你醒了思思",
+        "speaker": "白衣男子",
+        "emotion": "温柔",
+        "duration": 4.23,
+        "description_visual": "中景平拍镜头（拉远）；医院病床；画面右侧人物，身穿白色衬衫，帮女子盖被子，表情：神情温柔；画面左侧床上人物，身穿蓝白条纹病号服，躺下，表情：闭眼。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "城市夜景，高楼林立，车流如织，路灯明亮",
+        "description_narrative": "城市夜景航拍，车流在道路上行驶，灯光闪烁，作为时间或场景转换的空镜。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.77,
+        "description_visual": "远景俯拍镜头；城市夜景，高楼林立，车流如织，路灯明亮。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装，白色衬衫，条纹领带",
+                "position": "画面右侧坐在椅子上",
+                "action": "身体前倾看着床上",
+                "expression": "眉毛上扬，嘴巴微张，神情惊讶"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧床上躺着",
+                "action": "躺着不动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "医院病房，蓝色椅子",
+        "description_narrative": "场景切换，西装男子坐在床边椅子上，惊讶地看着床上的女子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.37,
+        "description_visual": "中景平拍镜头；医院病房，蓝色椅子；画面右侧坐在椅子上人物，身穿黑色西装，白色衬衫，条纹领带，身体前倾看着床上，表情：眉毛上扬，嘴巴微张，神情惊讶；画面左侧床上躺着人物，身穿蓝白条纹病号服，躺着不动，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "伸展手臂",
+                "expression": "眉毛微蹙，眼睛向下看，嘴唇紧闭"
+            }
+        ],
+        "background": "病房墙壁",
+        "description_narrative": "西装男子伸展手臂，似乎在活动筋骨或整理衣物。",
+        "dialogue": "我做了一点",
+        "speaker": "西装男子",
+        "emotion": "自然",
+        "duration": 2.27,
+        "description_visual": "近景平拍镜头；病房墙壁；画面中央人物，身穿黑色西装，伸展手臂，表情：眉毛微蹙，眼睛向下看，嘴唇紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "闭眼躺着",
+                "expression": "眉毛舒展，眼睛闭合，表情安详"
+            }
+        ],
+        "background": "白色枕头",
+        "description_narrative": "女子闭眼躺在枕头上，呼吸平稳，似乎还在休息。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.33,
+        "description_visual": "特写俯拍镜头；白色枕头；画面中央人物，身穿蓝白条纹病号服，闭眼躺着，表情：眉毛舒展，眼睛闭合，表情安详。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "俯身靠近女子",
+                "expression": "眉毛微挑，眼睛注视女子，嘴巴说话"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "躺着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房，蓝色椅子",
+        "description_narrative": "西装男子俯身靠近女子，轻声提起她喜欢喝鱼汤的事。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.53,
+        "description_visual": "中景平拍镜头；病房，蓝色椅子；画面右侧人物，身穿黑色西装，俯身靠近女子，表情：眉毛微挑，眼睛注视女子，嘴巴说话；画面左侧人物，身穿蓝白条纹病号服，躺着，表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "睁眼微笑",
+                "expression": "眉毛舒展，眼睛睁开，嘴角上扬"
+            }
+        ],
+        "background": "白色枕头",
+        "description_narrative": "女子睁开眼，听到鱼汤后露出淡淡的微笑。",
+        "dialogue": "上次你说你喜欢喝鱼汤",
+        "speaker": "西装男子",
+        "emotion": "愉悦",
+        "duration": 1.6,
+        "description_visual": "特写仰拍镜头；白色枕头；画面中央人物，身穿蓝白条纹病号服，睁眼微笑，表情：眉毛舒展，眼睛睁开，嘴角上扬。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "手持饭盒",
+                "expression": "眉毛微蹙，眼神温柔"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "躺着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房",
+        "description_narrative": "西装男子手持饭盒，继续说着让她尝尝的话。",
+        "dialogue": "上次你说你喜欢喝鱼汤",
+        "speaker": "西装男子",
+        "emotion": "温柔",
+        "duration": 1.93,
+        "description_visual": "中景平拍镜头；病房；画面右侧人物，身穿黑色西装，手持饭盒，表情：眉毛微蹙，眼神温柔；画面左侧人物，身穿蓝白条纹病号服，躺着，表情：不可见。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "眼神看向侧面",
+                "expression": "眉毛微挑，眼睛看向右上方，嘴唇微抿"
+            }
+        ],
+        "background": "白色枕头",
+        "description_narrative": "女子眼神看向侧面，似乎在思考或等待。",
+        "dialogue": "一会你尝尝",
+        "speaker": "西装男子",
+        "emotion": "期待",
+        "duration": 0.77,
+        "description_visual": "特写仰拍镜头；白色枕头；画面中央人物，身穿蓝白条纹病号服，眼神看向侧面，表情：眉毛微挑，眼睛看向右上方，嘴唇微抿。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "门缝后",
+                "action": "从门缝窥视",
+                "expression": "不可见"
+            }
+        ],
+        "background": "门框，模糊的室内",
+        "description_narrative": "镜头透过门缝，白衣男子在门外窥视，此时画外音响起建议出去逛逛。",
+        "dialogue": "一会出去逛逛吧",
+        "speaker": "西装男子",
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；门框，模糊的室内；门缝后人物，身穿白色衬衫，从门缝窥视，表情：不可见。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "抬头说话",
+                "expression": "眉毛舒展，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "白色枕头",
+        "description_narrative": "女子抬头，开心地答应了出去逛逛的提议。",
+        "dialogue": "好呀",
+        "speaker": "病床女子",
+        "emotion": "开心",
+        "duration": 1.8,
+        "description_visual": "特写仰拍镜头；白色枕头；画面中央人物，身穿蓝白条纹病号服，抬头说话，表情：眉毛舒展，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "点头说话",
+                "expression": "眉毛微挑，眼睛注视，嘴巴开合"
+            }
+        ],
+        "background": "病房墙壁",
+        "description_narrative": "西装男子点头附和，说着溜达溜达。",
+        "dialogue": "溜达溜达",
+        "speaker": "西装男子",
+        "emotion": "宠溺",
+        "duration": 2.07,
+        "description_visual": "近景平拍镜头；病房墙壁；画面中央人物，身穿黑色西装，点头说话，表情：眉毛微挑，眼睛注视，嘴巴开合。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "伸手按摩女子腿部",
+                "expression": "眉毛低垂，神情专注"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "躺着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房，蓝色椅子",
+        "description_narrative": "西装男子伸手按摩女子的腿部，说是为了活血。",
+        "dialogue": "给你按一按 活血",
+        "speaker": "西装男子",
+        "emotion": "专注",
+        "duration": 1.63,
+        "description_visual": "中景平拍镜头；病房，蓝色椅子；画面右侧人物，身穿黑色西装，伸手按摩女子腿部，表情：眉毛低垂，神情专注；画面左侧人物，身穿蓝白条纹病号服，躺着，表情：不可见。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面中央",
+                "action": "低头按摩",
+                "expression": "眉毛低垂，眼睛向下看，嘴唇微动"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "男子低头继续按摩，重复着活血的话。",
+        "dialogue": "活血",
+        "speaker": "西装男子",
+        "emotion": "专注",
+        "duration": 1.93,
+        "description_visual": "特写俯拍镜头；模糊背景；画面中央人物，身穿黑色西装，低头按摩，表情：眉毛低垂，眼睛向下看，嘴唇微动。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "微笑",
+                "expression": "眉毛舒展，眼睛含笑，露齿微笑"
+            }
+        ],
+        "background": "白色枕头",
+        "description_narrative": "女子躺在床上，露出舒适满意的微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.73,
+        "description_visual": "特写仰拍镜头；白色枕头；画面中央人物，身穿蓝白条纹病号服，微笑，表情：眉毛舒展，眼睛含笑，露齿微笑。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "门后",
+                "action": "低头站立",
+                "expression": "眉毛紧锁，眼神阴郁"
+            }
+        ],
+        "background": "门框",
+        "description_narrative": "门后的白衣男子低头站立，神情阴郁地看着屋内。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.07,
+        "description_visual": "近景侧拍镜头；门框；门后人物，身穿白色衬衫，低头站立，表情：眉毛紧锁，眼神阴郁。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "笑着看向女子",
+                "expression": "眉毛舒展，嘴角上扬"
+            },
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面左侧",
+                "action": "躺着",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣男子",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "背景门口",
+                "action": "站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "病房，门口有人影",
+        "description_narrative": "西装男子笑着照顾女子，背景门口站着白衣男子，形成三角对峙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.03,
+        "description_visual": "中景平拍镜头；病房，门口有人影；画面右侧人物，身穿黑色西装，笑着看向女子，表情：眉毛舒展，嘴角上扬；画面左侧人物，身穿蓝白条纹病号服，躺着，表情：不可见；背景门口人物，身穿白色衬衫，站立，表情：不可见。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "被白光笼罩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色强光",
+        "description_narrative": "画面逐渐被白光笼罩，过渡到下一个场景或回忆。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.27,
+        "description_visual": "特写平拍镜头；白色强光；画面中央人物，身穿蓝白条纹病号服，被白光笼罩，表情：不可见。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "模糊",
+        "subjects": [
+            {
+                "name": "病床女子",
+                "gender": "女",
+                "clothing": "蓝白条纹病号服",
+                "position": "画面中央",
+                "action": "模糊影像",
+                "expression": "不可见"
+            }
+        ],
+        "background": "粉紫色光晕",
+        "description_narrative": "画面呈现粉紫色光晕，女子的影像模糊不清，暗示意识模糊或梦境。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.27,
+        "description_visual": "特写平拍镜头（模糊）；粉紫色光晕；画面中央人物，身穿蓝白条纹病号服，模糊影像，表情：不可见。"
+    }
+]

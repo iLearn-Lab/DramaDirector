@@ -1,0 +1,509 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "深色西装袖口",
+                "position": "画面左侧",
+                "action": "手握拳敲击门板",
+                "expression": "无"
+            }
+        ],
+        "background": "深色木纹门板，光线较暗",
+        "description_narrative": "特写镜头，一只穿着深色西装的手握拳敲击在深色木纹门板上，动作有力。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.7,
+        "description_visual": "特写平拍镜头；深色木纹门板，光线较暗；画面左侧人物，身穿深色西装袖口，手握拳敲击门板，表情：无。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，白色拖鞋",
+                "position": "画面右侧",
+                "action": "背对镜头走向门口，伸手开门",
+                "expression": "无"
+            }
+        ],
+        "background": "公寓玄关，深色大门，地面大理石纹，前景有模糊的红色果实装饰",
+        "description_narrative": "中景跟拍，陈思思身穿白色宽松衬衫和拖鞋，背对镜头走向深色大门，伸手准备开门，前景有模糊的红色果实。",
+        "dialogue": "啊，你好，是严太太吧？",
+        "speaker": "张律师",
+        "emotion": "疑惑",
+        "duration": 4.47,
+        "description_visual": "中景平拍镜头（跟拍）；公寓玄关，深色大门，地面大理石纹，前景有模糊的红色果实装饰；画面右侧人物，身穿白色宽松衬衫，白色拖鞋，背对镜头走向门口，伸手开门，表情：无。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面中央",
+                "action": "面部微侧，眼神疑惑",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "近景固定镜头，陈思思面部微侧，眼神中充满疑惑，眉毛微蹙，嘴巴微张，似乎在思考对方的称呼。",
+        "dialogue": "请问严总在吗？啊，不是，这里没有严太太。怎么都叫我严太太？不会昨天干的丑事全世界都知道了吧？严祁，你这个卑鄙小人。",
+        "speaker": "陈思思",
+        "emotion": "困惑/愤怒",
+        "duration": 11.2,
+        "description_visual": "近景平拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿白色宽松衬衫，面部微侧，眼神疑惑，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色Polo衫，胸前金色标志",
+                "position": "画面中央",
+                "action": "双手整理衣领",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内走廊，背景有画作，光线明亮",
+        "description_narrative": "中近景固定镜头，严祁身穿黑色Polo衫，双手正在整理衣领，表情随意，眼神直视前方。",
+        "dialogue": "张律师",
+        "speaker": "陈思思",
+        "emotion": "惊讶",
+        "duration": 1.27,
+        "description_visual": "中近景平拍镜头；室内走廊，背景有画作，光线明亮；画面中央人物，身穿黑色Polo衫，胸前金色标志，双手整理衣领，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫，白色拖鞋",
+                "position": "画面左侧",
+                "action": "侧身站立，看向门口",
+                "expression": "无"
+            },
+            {
+                "name": "张律师",
+                "gender": "男",
+                "clothing": "黑色西装，蓝条纹领带",
+                "position": "门口",
+                "action": "手持蓝色文件夹和粉色礼盒，站立",
+                "expression": "表情专业"
+            }
+        ],
+        "background": "公寓门口，门外光线明亮，可见绿植",
+        "description_narrative": "全景固定镜头，陈思思侧身站在门内，张律师站在门口，手持蓝色文件夹和粉色礼盒，表情专业。",
+        "dialogue": "进来吧，啊，早啊，严总。",
+        "speaker": "严祁",
+        "emotion": "随意",
+        "duration": 2.23,
+        "description_visual": "全景平拍镜头；公寓门口，门外光线明亮，可见绿植；画面左侧人物，身穿白色宽松衬衫，白色拖鞋，侧身站立，看向门口，表情：无；门口人物，身穿黑色西装，蓝条纹领带，手持蓝色文件夹和粉色礼盒，站立，表情：表情专业。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面左侧",
+                "action": "转身看向律师",
+                "expression": "无"
+            },
+            {
+                "name": "张律师",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "走进门，手持物品",
+                "expression": "微笑"
+            }
+        ],
+        "background": "公寓玄关，前景有模糊的红色果实",
+        "description_narrative": "中景推进镜头，张律师走进门，面带微笑向严祁问好，陈思思转身看向他。",
+        "dialogue": "早啊严总",
+        "speaker": "张律师",
+        "emotion": "恭敬",
+        "duration": 1.13,
+        "description_visual": "中景平拍镜头（推进）；公寓玄关，前景有模糊的红色果实；画面左侧人物，身穿白色宽松衬衫，转身看向律师，表情：无；画面右侧人物，身穿黑色西装，走进门，手持物品，表情：微笑。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色Polo衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱胸",
+                "expression": "眉毛微挑，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景模糊，光线柔和",
+        "description_narrative": "中近景固定镜头，严祁双臂交叉抱胸，眉毛微挑，眼神略带玩味地视线下移，嘴巴紧闭。",
+        "dialogue": "这是您要的协议和早饭",
+        "speaker": "张律师",
+        "emotion": "平静",
+        "duration": 2.47,
+        "description_visual": "中近景平拍镜头；室内背景模糊，光线柔和；画面中央人物，身穿黑色Polo衫，双臂交叉抱胸，表情：眉毛微挑，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张律师",
+                "gender": "男",
+                "clothing": "黑色西装，蓝条纹领带",
+                "position": "画面中央",
+                "action": "手持物品，面向严祁",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，有镜框装饰",
+        "description_narrative": "近景固定镜头，张律师手持物品，面向严祁，表情专业，正在汇报带来的物品。",
+        "dialogue": "还有一些小蛋糕",
+        "speaker": "张律师",
+        "emotion": "专业",
+        "duration": 2.03,
+        "description_visual": "近景平拍镜头；室内背景，有镜框装饰；画面中央人物，身穿黑色西装，蓝条纹领带，手持物品，面向严祁，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色Polo衫",
+                "position": "画面中央",
+                "action": "双臂交叉，头部微侧",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景固定镜头，严祁双臂交叉，头部微侧，眼神看向一侧，似乎在示意律师询问陈思思。",
+        "dialogue": "这个你问问",
+        "speaker": "严祁",
+        "emotion": "随意",
+        "duration": 1.13,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿黑色Polo衫，双臂交叉，头部微侧，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面中央",
+                "action": "面部正对镜头，眼神惊讶",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，有台灯",
+        "description_narrative": "近景固定镜头，陈思思面部正对镜头，眼神惊讶，眉毛微蹙，嘴巴微张，对“严太太”的称呼感到不满。",
+        "dialogue": "严太太满不满意",
+        "speaker": "严祁",
+        "emotion": "挑衅",
+        "duration": 1.13,
+        "description_visual": "近景平拍镜头；室内背景，有台灯；画面中央人物，身穿白色宽松衬衫，面部正对镜头，眼神惊讶，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色Polo衫",
+                "position": "画面中央",
+                "action": "双臂交叉，头部微侧",
+                "expression": "眉毛舒展，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景固定镜头，严祁双臂交叉，头部微侧，眼神看向一侧，随意地表示要去洗澡。",
+        "dialogue": "我先去洗个澡",
+        "speaker": "严祁",
+        "emotion": "随意",
+        "duration": 1.77,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面中央人物，身穿黑色Polo衫，双臂交叉，头部微侧，表情：眉毛舒展，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张律师",
+                "gender": "男",
+                "clothing": "黑色西装，蓝条纹领带",
+                "position": "画面中央",
+                "action": "手持蓝色文件夹",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，有镜框",
+        "description_narrative": "近景固定镜头，张律师手持蓝色文件夹，表情专业，正在等待严祁的进一步指示。",
+        "dialogue": "你把这个协议",
+        "speaker": "严祁",
+        "emotion": "命令",
+        "duration": 3.17,
+        "description_visual": "近景平拍镜头；室内背景，有镜框；画面中央人物，身穿黑色西装，蓝条纹领带，手持蓝色文件夹，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面中央",
+                "action": "面部微侧，表情愤怒",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，有台灯",
+        "description_narrative": "近景固定镜头，陈思思面部微侧，表情愤怒，眉毛微蹙，嘴巴张开，严词纠正对方的称呼。",
+        "dialogue": "好好的给严太太介绍一下，严祁。不许叫我严太太",
+        "speaker": "陈思思",
+        "emotion": "愤怒",
+        "duration": 1.47,
+        "description_visual": "近景平拍镜头；室内背景，有台灯；画面中央人物，身穿白色宽松衬衫，面部微侧，表情愤怒，表情：眉毛微蹙，眼睛睁大，嘴巴张开。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严祁",
+                "gender": "男",
+                "clothing": "黑色Polo衫",
+                "position": "画面右侧",
+                "action": "双臂交叉，面带微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内背景，光线柔和",
+        "description_narrative": "中近景固定镜头，严祁双臂交叉，面带微笑，似乎在重复陈思思的话，带有调侃意味。",
+        "dialogue": "不许叫我严太太",
+        "speaker": "严祁",
+        "emotion": "调侃",
+        "duration": 1.23,
+        "description_visual": "中近景平拍镜头；室内背景，光线柔和；画面右侧人物，身穿黑色Polo衫，双臂交叉，面带微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张律师",
+                "gender": "男",
+                "clothing": "黑色西装，蓝条纹领带",
+                "position": "画面中央",
+                "action": "手持蓝色文件夹",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，张律师手持蓝色文件夹，表情略显尴尬，似乎在犹豫该如何称呼。",
+        "dialogue": "呃严太太",
+        "speaker": "张律师",
+        "emotion": "尴尬",
+        "duration": 0.83,
+        "description_visual": "近景平拍镜头；室内背景，光线明亮；画面中央人物，身穿黑色西装，蓝条纹领带，手持蓝色文件夹，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面中央",
+                "action": "面部微侧，表情严肃",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，有台灯",
+        "description_narrative": "近景固定镜头，陈思思面部微侧，表情严肃，眉毛微蹙，再次强调自己的要求。",
+        "dialogue": "我说了",
+        "speaker": "陈思思",
+        "emotion": "严肃",
+        "duration": 2.07,
+        "description_visual": "近景平拍镜头；室内背景，有台灯；画面中央人物，身穿白色宽松衬衫，面部微侧，表情严肃，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张律师",
+                "gender": "男",
+                "clothing": "黑色西装，蓝条纹领带",
+                "position": "画面中央",
+                "action": "手持蓝色文件夹",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，张律师手持蓝色文件夹，表情专业，试图转移话题，让陈思思看协议。",
+        "dialogue": "哦夫人您看一下",
+        "speaker": "张律师",
+        "emotion": "专业",
+        "duration": 1.57,
+        "description_visual": "近景平拍镜头；室内背景，光线明亮；画面中央人物，身穿黑色西装，蓝条纹领带，手持蓝色文件夹，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面中央",
+                "action": "面部微侧，微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内背景，有台灯",
+        "description_narrative": "近景固定镜头，陈思思面部微侧，露出微笑，眉毛舒展，嘴角上扬，告诉对方自己的名字。",
+        "dialogue": "叫我陈思思",
+        "speaker": "陈思思",
+        "emotion": "微笑",
+        "duration": 2.3,
+        "description_visual": "近景平拍镜头；室内背景，有台灯；画面中央人物，身穿白色宽松衬衫，面部微侧，微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面右侧",
+                "action": "转身走向桌子",
+                "expression": "无"
+            },
+            {
+                "name": "张律师",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧背景",
+                "action": "手持物品，站立",
+                "expression": "无"
+            }
+        ],
+        "background": "餐厅区域，有餐桌和装饰植物",
+        "description_narrative": "中景跟拍镜头，陈思思转身走向餐桌，张律师站在背景中，手持物品，准备介绍协议和早餐。",
+        "dialogue": "思思小姐，呃，您看一下这个协议，和严总让我给您带的早餐。",
+        "speaker": "张律师",
+        "emotion": "恭敬",
+        "duration": 7.97,
+        "description_visual": "中景平拍镜头（跟拍）；餐厅区域，有餐桌和装饰植物；画面右侧人物，身穿白色宽松衬衫，转身走向桌子，表情：无；画面左侧背景人物，身穿黑色西装，手持物品，站立，表情：无。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，看向早餐盒",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "餐桌，粉色礼盒",
+        "description_narrative": "近景固定镜头，陈思思坐在桌前，眼神视线下移看向粉色礼盒，表情平静，似乎在思考。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；餐桌，粉色礼盒；画面中央人物，身穿白色宽松衬衫，坐在桌前，看向早餐盒，表情：眉毛舒展，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "陈思思",
+                "gender": "女",
+                "clothing": "白色宽松衬衫",
+                "position": "画面中央",
+                "action": "坐在桌前，看向镜头",
+                "expression": "眉毛舒展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "餐桌，粉色滤镜效果",
+        "description_narrative": "近景固定镜头，画面笼罩在粉色滤镜中，陈思思坐在桌前，眼神直视镜头，表情神秘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "神秘",
+        "duration": 2.23,
+        "description_visual": "近景平拍镜头；餐桌，粉色滤镜效果；画面中央人物，身穿白色宽松衬衫，坐在桌前，看向镜头，表情：眉毛舒展，眼睛直视，嘴巴紧闭。"
+    }
+]

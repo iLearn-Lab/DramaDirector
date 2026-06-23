@@ -1,0 +1,270 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白背景，无具体场景元素，光线均匀明亮",
+        "description_narrative": "画面为纯白屏幕，无具体人物或场景，作为转场或片头存在，光线均匀充满整个画面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；纯白背景，无具体场景元素，光线均匀明亮。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色连衣裙，黑色高跟鞋",
+                "position": "画面中央",
+                "action": "双手插兜，低头缓慢从建筑物大门走出，脚步略显沉重",
+                "expression": "眉毛微蹙，视线向下，嘴唇紧闭"
+            }
+        ],
+        "background": "夜晚建筑物门口，室内暖光透过玻璃门射出，门外色调偏冷紫",
+        "description_narrative": "夜晚，林妙身穿米色西装外套和黑色连衣裙，双手插在口袋里，神情低落地从亮着暖光的建筑物大门走出，脚步缓慢沉重，门外环境光线偏冷紫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "忧虑",
+        "duration": 3.4,
+        "description_visual": "全景平拍镜头；夜晚建筑物门口，室内暖光透过玻璃门射出，门外色调偏冷紫；画面中央人物，身穿米色西装外套，黑色连衣裙，黑色高跟鞋，双手插兜，低头缓慢从建筑物大门走出，脚步略显沉重，表情：眉毛微蹙，视线向下，嘴唇紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "米色西装外套，银色项链",
+                "position": "画面中央",
+                "action": "抬头注视前方，身体静止",
+                "expression": "眉毛紧锁，眼神焦急且充满担忧，嘴唇微张欲言又止"
+            }
+        ],
+        "background": "夜晚室外背景虚化，可见模糊的建筑物轮廓和灯光",
+        "description_narrative": "镜头推进至林妙面部特写，她停下脚步，眉头紧锁，眼神中充满焦急与担忧，微微张嘴询问爷爷的情况。",
+        "dialogue": "我爷爷怎么样了？",
+        "speaker": "林妙",
+        "emotion": "焦急",
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头；夜晚室外背景虚化，可见模糊的建筑物轮廓和灯光；画面中央人物，身穿米色西装外套，银色项链，抬头注视前方，身体静止，表情：眉毛紧锁，眼神焦急且充满担忧，嘴唇微张欲言又止。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衬衫男",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "站立面对镜头方向，眼神直视对方",
+                "expression": "眉毛平展但眼神深沉，目光直视，嘴唇轻抿后缓缓张开"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊的树木和暖色灯光点缀",
+        "description_narrative": "条纹衬衫男面对林妙，神情严肃而关切，眼神深沉地注视着对方，缓缓告知老爷子的状况。",
+        "dialogue": "老爷子没有醒来",
+        "speaker": "条纹衬衫男",
+        "emotion": "严肃",
+        "duration": 2.56,
+        "description_visual": "近景平拍镜头；夜晚户外，背景有模糊的树木和暖色灯光点缀；画面中央人物，身穿黑白竖条纹衬衫，站立面对镜头方向，眼神直视对方，表情：眉毛平展但眼神深沉，目光直视，嘴唇轻抿后缓缓张开。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "米色西装外套，银色项链",
+                "position": "画面中央",
+                "action": "身体微倾，专注倾听",
+                "expression": "眉毛微挑，眼睛睁大显出紧张，嘴唇紧闭等待下文"
+            }
+        ],
+        "background": "夜晚建筑物门口，背景虚化，光线柔和偏暗",
+        "description_nargative": "林妙听到消息后神情紧张，身体微微前倾专注倾听，条纹衬衫男的声音继续传来，告知病情稳定但公司陷入危机。",
+        "dialogue": "不过身体情况已经稳住了，最近公司因为我爷爷的事陷入了风口中。",
+        "speaker": "条纹衬衫男",
+        "emotion": "紧张",
+        "duration": 6.52,
+        "description_visual": "近景平拍镜头；夜晚建筑物门口，背景虚化，光线柔和偏暗；画面中央人物，身穿米色西装外套，银色项链，身体微倾，专注倾听，表情：眉毛微挑，眼睛睁大显出紧张，嘴唇紧闭等待下文。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衬衫男",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫，黑色长裤",
+                "position": "画面左侧",
+                "action": "侧身站立，面向林妙，双手自然下垂",
+                "expression": "眉毛微蹙，眼神关切地看向林妙，嘴巴开合说话"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "米色西装外套，黑色连衣裙",
+                "position": "画面右侧",
+                "action": "正面站立，双手垂在身侧，身体略微僵硬",
+                "expression": "眉头紧锁，眼神忧虑，嘴唇微张"
+            }
+        ],
+        "background": "夜晚建筑物门口，玻璃门透出室内暖光，地面有红色地毯",
+        "description_narrative": "全景镜头展示两人对峙，条纹衬衫男侧身告知林妙合作商都在打听情况，林妙面露难色，气氛凝重。",
+        "dialogue": "很多合作商都过来打听情况。",
+        "speaker": "条纹衬衫男",
+        "emotion": "凝重",
+        "duration": 1.88,
+        "description_visual": "中景平拍镜头；夜晚建筑物门口，玻璃门透出室内暖光，地面有红色地毯；画面左侧人物，身穿黑白竖条纹衬衫，黑色长裤，侧身站立，面向林妙，双手自然下垂，表情：眉毛微蹙，眼神关切地看向林妙，嘴巴开合说话；画面右侧人物，身穿米色西装外套，黑色连衣裙，正面站立，双手垂在身侧，身体略微僵硬，表情：眉头紧锁，眼神忧虑，嘴唇微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "深色外套男",
+                "gender": "男",
+                "clothing": "深色外套",
+                "position": "画面左前景",
+                "action": "背对镜头，头部微侧，似乎在远处窥视",
+                "expression": "无法看清面部表情，头部姿态显示在关注远处"
+            },
+            {
+                "name": "条纹衬衫男",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "背景右侧",
+                "action": "模糊可见站立姿态",
+                "expression": "模糊不可辨"
+            },
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "米色西装外套",
+                "position": "背景右侧",
+                "action": "模糊可见站立姿态",
+                "expression": "模糊不可辨"
+            }
+        ],
+        "background": "夜晚户外，前景有植物遮挡，背景是亮灯的建筑物门口",
+        "description_narrative": "镜头越过深色外套男的肩膀，他在暗处窥视着远处交谈的两人，背景中两人的对话声隐约可闻，气氛诡秘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "阴沉",
+        "duration": 2.56,
+        "description_visual": "中景过肩镜头；夜晚户外，前景有植物遮挡，背景是亮灯的建筑物门口；画面左前景人物，身穿深色外套，背对镜头，头部微侧，似乎在远处窥视，表情：无法看清面部表情，头部姿态显示在关注远处；背景右侧人物，身穿黑白竖条纹衬衫，模糊可见站立姿态，表情：模糊不可辨；背景右侧人物，身穿米色西装外套，模糊可见站立姿态，表情：模糊不可辨。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "条纹衬衫男",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面中央",
+                "action": "眼神向下微垂，随后抬起看向对方",
+                "expression": "眉毛舒展，眼神看似真诚实则深藏算计，嘴角微动"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊的树木和灯光",
+        "description_narrative": "条纹衬衫男继续安抚林妙，表示爷爷那边交给他，眼神看似真诚地鼓励林妙解决公司问题。",
+        "dialogue": "老爷子那边你就放心交给我好了，公司那边你一定有办法解决的。",
+        "speaker": "条纹衬衫男",
+        "emotion": "伪善",
+        "duration": 5.56,
+        "description_visual": "近景平拍镜头；夜晚户外，背景有模糊的树木和灯光；画面中央人物，身穿黑白竖条纹衬衫，眼神向下微垂，随后抬起看向对方，表情：眉毛舒展，眼神看似真诚实则深藏算计，嘴角微动。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "条纹衬衫男",
+                "gender": "男",
+                "clothing": "黑白竖条纹衬衫",
+                "position": "画面右侧",
+                "action": "侧身转身，迈步向建筑物内走去",
+                "expression": "侧脸轮廓清晰，嘴巴微张说话，神情自然"
+            }
+        ],
+        "background": "夜晚户外，背景有模糊的树木和暖色光斑",
+        "description_narrative": "条纹衬衫男说完话后转身，示意林妙进屋，镜头跟随他的动作轻微移动，背景光斑闪烁。",
+        "dialogue": "嗯，我们先进屋吧。",
+        "speaker": "条纹衬衫男",
+        "emotion": "平静",
+        "duration": 5.44,
+        "description_visual": "中近景平拍镜头（跟拍）；夜晚户外，背景有模糊的树木和暖色光斑；画面右侧人物，身穿黑白竖条纹衬衫，侧身转身，迈步向建筑物内走去，表情：侧脸轮廓清晰，嘴巴微张说话，神情自然。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "深色外套男",
+                "gender": "男",
+                "clothing": "深色外套",
+                "position": "画面左侧",
+                "action": "侧身站立，低头看着手中的手机屏幕",
+                "expression": "侧脸阴沉，目光聚焦在手机屏幕上，嘴角下撇"
+            }
+        ],
+        "background": "夜晚建筑物外，背景虚化，光线昏暗",
+        "description_narrative": "深色外套男独自站在暗处，低头专注地看着手机屏幕，神情阴沉，似乎在等待或确认信息。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "阴险",
+        "duration": 3.4,
+        "description_visual": "中近景平拍镜头；夜晚建筑物外，背景虚化，光线昏暗；画面左侧人物，身穿深色外套，侧身站立，低头看着手中的手机屏幕，表情：侧脸阴沉，目光聚焦在手机屏幕上，嘴角下撇。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "深色外套男",
+                "gender": "男",
+                "clothing": "深色外套",
+                "position": "画面左侧",
+                "action": "将手机举到耳边，嘴巴开合正在通话",
+                "expression": "眉毛压低，眼神狠厉，嘴角露出一丝冷笑"
+            }
+        ],
+        "background": "夜晚户外，背景建筑物窗户透出微弱灯光",
+        "description_narrative": "深色外套男拨通电话，贴在耳边低声密谋，语气急促阴狠，策划着趁老爷子病危夺取公司的阴谋。",
+        "dialogue": "姓王的那个小子今天去医院看了。有事快说。这个老不死的一直没醒，估计是醒不过来了。那赶快实施对林妙的计划，准备将公司拿下。会不会太快了会被人怀疑的？快刀斩乱麻，趁他病要他命。好，我知道了。",
+        "speaker": "深色外套男",
+        "emotion": "狠毒",
+        "duration": 34.4,
+        "description_visual": "近景平拍镜头；夜晚户外，背景建筑物窗户透出微弱灯光；画面左侧人物，身穿深色外套，将手机举到耳边，嘴巴开合正在通话，表情：眉毛压低，眼神狠厉，嘴角露出一丝冷笑。"
+    }
+]

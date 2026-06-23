@@ -1,0 +1,793 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面中央偏右，坐在白色沙发上",
+                "action": "手持拐杖，身体微侧",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央，站在温老爷子身后",
+                "action": "低头站立，双手自然下垂",
+                "expression": "眉毛舒展，眼睛下视，嘴巴微闭"
+            },
+            {
+                "name": "林染",
+                "gender": "女",
+                "clothing": "粉色背带裙，白色衬衫",
+                "position": "画面左侧",
+                "action": "双手交握在身前，站立",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "女管家",
+                "gender": "女",
+                "clothing": "灰色制服",
+                "position": "画面右侧背景",
+                "action": "站立，双手交叠",
+                "expression": "表情平静"
+            }
+        ],
+        "background": "明亮的室内，落地窗，白色窗帘，现代风格装修",
+        "description_narrative": "全景镜头，温家豪宅客厅内，温老爷子坐在沙发上，西装青年站在其后，林染和女管家分列两侧。温老爷子神情严肃，似乎正在谈论重要事宜。",
+        "dialogue": "温家和林家的婚约",
+        "speaker": "温老爷子",
+        "emotion": "严肃",
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；明亮的室内，落地窗，白色窗帘，现代风格装修；画面中央偏右，坐在白色沙发上人物，身穿棕色中式唐装，手持拐杖，身体微侧，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面中央，站在温老爷子身后人物，身穿灰色格纹西装，黑色领带，低头站立，双手自然下垂，表情：眉毛舒展，眼睛下视，嘴巴微闭；画面左侧人物，身穿粉色背带裙，白色衬衫，双手交握在身前，站立，表情：眉毛平展，眼睛注视前方，嘴巴紧闭；画面右侧背景人物，身穿灰色制服，站立，双手交叠，表情：表情平静。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "低头，身体微前倾",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景，光线柔和",
+        "description_narrative": "近景镜头聚焦西装青年，他低着头，神情恭顺，似乎在回应老爷子的话。",
+        "dialogue": "也该履行了。",
+        "speaker": "西装青年",
+        "emotion": "恭顺",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；白色窗帘背景，光线柔和；画面中央人物，身穿灰色格纹西装，黑色领带，低头，身体微前倾，表情：眉毛微垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林染",
+                "gender": "女",
+                "clothing": "粉色背带裙，白色衬衫",
+                "position": "画面中央",
+                "action": "双手交握在身前，站立",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "中景镜头给到林染，她神情有些紧张和温顺，双手紧紧交握。",
+        "dialogue": "这样的话",
+        "speaker": "西装青年",
+        "emotion": "紧张",
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；室内背景，模糊；画面中央人物，身穿粉色背带裙，白色衬衫，双手交握在身前，站立，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "抬头，直视前方",
+                "expression": "眉毛舒展，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "镜头切回西装青年，他抬起头，眼神坚定，开始阐述理由。",
+        "dialogue": "一来可以",
+        "speaker": "西装青年",
+        "emotion": "坚定",
+        "duration": 1.84,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，抬头，直视前方，表情：眉毛舒展，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面中央",
+                "action": "坐着，头部微转",
+                "expression": "眉毛微蹙，眼睛注视侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头给到温老爷子，他神情威严，静静听着年轻人的分析。",
+        "dialogue": "让温氏利益最大化。",
+        "speaker": "西装青年",
+        "emotion": "威严",
+        "duration": 1.48,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿棕色中式唐装，坐着，头部微转，表情：眉毛微蹙，眼睛注视侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "眼神微垂，继续说话",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "镜头回到西装青年，他继续陈述第二个理由，表情深沉。",
+        "dialogue": "二来，他有了牵挂，",
+        "speaker": "西装青年",
+        "emotion": "深沉",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，眼神微垂，继续说话，表情：眉毛微垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面中央",
+                "action": "闭眼点头",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微抿"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "温老爷子闭上眼睛，似乎在思考或表示赞同，神情若有所思。",
+        "dialogue": "就不会再胡来了。",
+        "speaker": "西装青年",
+        "emotion": "若有所思",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿棕色中式唐装，闭眼点头，表情：眉毛舒展，眼睛闭合，嘴巴微抿。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "直视前方，表情平静",
+                "expression": "眉毛平展，眼睛平视，嘴巴微闭"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年听到老爷子的回应，表情平静，等待进一步的指示。",
+        "dialogue": "也好。那就把止墨的婚期，",
+        "speaker": "温老爷子",
+        "emotion": "平静",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，直视前方，表情平静，表情：眉毛平展，眼睛平视，嘴巴微闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林染",
+                "gender": "女",
+                "clothing": "粉色背带裙，白色衬衫",
+                "position": "画面中央",
+                "action": "低头，双手交握",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "镜头给到林染，她低着头，似乎对即将到来的安排感到不安或顺从。",
+        "dialogue": "订在你的婚期之后",
+        "speaker": "温老爷子",
+        "emotion": "不安",
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；室内背景，模糊；画面中央人物，身穿粉色背带裙，白色衬衫，低头，双手交握，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面中央",
+                "action": "张嘴说话",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "温老爷子继续下达指令，神情果断，不容置疑。",
+        "dialogue": "等他回来了，就让他",
+        "speaker": "温老爷子",
+        "emotion": "果断",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿棕色中式唐装，张嘴说话，表情：眉毛微蹙，眼睛注视前方，嘴巴张开。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "眼神微动，似乎想说话",
+                "expression": "眉毛微挑，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年听到这里，眼神微动，似乎想插话或确认。",
+        "dialogue": "去给林染求婚。",
+        "speaker": "温老爷子",
+        "emotion": "试探",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，眼神微动，似乎想说话，表情：眉毛微挑，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "开口称呼",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年终于开口，称呼了一声爷爷，语气中带着询问。",
+        "dialogue": "爷爷",
+        "speaker": "西装青年",
+        "emotion": "询问",
+        "duration": 2.72,
+        "description_visual": "近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，开口称呼，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面中央",
+                "action": "眼神严厉",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "温老爷子眼神严厉，似乎对年轻人的犹豫感到不满。",
+        "dialogue": "您确定不跟止墨商量一下吗",
+        "speaker": "西装青年",
+        "emotion": "严厉",
+        "duration": 4.68,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿棕色中式唐装，眼神严厉，表情：眉毛紧蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "低头，嘴角微动",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年低下头，似乎在重复老爷子的话或表示顺从。",
+        "dialogue": "我还没死呢，",
+        "speaker": "温老爷子",
+        "emotion": "顺从",
+        "duration": 1.6,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，低头，嘴角微动，表情：眉毛微垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林染",
+                "gender": "女",
+                "clothing": "粉色背带裙，白色衬衫",
+                "position": "画面中央",
+                "action": "站立，双手交握",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "镜头给到林染，她静静地站着，听着大人们的安排。",
+        "dialogue": "我能够做得了他的主。全听爷爷的。染染，",
+        "speaker": "温老爷子",
+        "emotion": "平静",
+        "duration": 2.28,
+        "description_visual": "中景平拍镜头；室内背景，模糊；画面中央人物，身穿粉色背带裙，白色衬衫，站立，双手交握，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "抬头，看向侧方",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年转头看向林染，开始吩咐她做事。",
+        "dialogue": "你去楼下，给爷爷端碗燕窝上来。",
+        "speaker": "西装青年",
+        "emotion": "吩咐",
+        "duration": 3.28,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，抬头，看向侧方，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "继续说话",
+                "expression": "眉毛舒展，眼睛平视，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年继续强调指令，语气平和但坚定。",
+        "dialogue": "给爷爷端碗燕窝上来",
+        "speaker": "西装青年",
+        "emotion": "坚定",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，继续说话，表情：眉毛舒展，眼睛平视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林染",
+                "gender": "女",
+                "clothing": "粉色背带裙，白色衬衫",
+                "position": "画面中央",
+                "action": "微微点头",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "林染听到指令，微微点头表示明白，准备离开。",
+        "dialogue": "爷爷刚吃完药。",
+        "speaker": "西装青年",
+        "emotion": "顺从",
+        "duration": 1.32,
+        "description_visual": "中景平拍镜头；室内背景，模糊；画面中央人物，身穿粉色背带裙，白色衬衫，微微点头，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林染",
+                "gender": "女",
+                "clothing": "粉色背带裙，白色衬衫",
+                "position": "画面中央",
+                "action": "转身准备离开",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "林染轻声应好，转身准备去执行任务。",
+        "dialogue": "需要吃点东西。好。",
+        "speaker": "西装青年",
+        "emotion": "温顺",
+        "duration": 3.52,
+        "description_visual": "中景平拍镜头；室内背景，模糊；画面中央人物，身穿粉色背带裙，白色衬衫，转身准备离开，表情：眉毛平展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "目送林染离开",
+                "expression": "眉毛舒展，眼睛注视侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年目送林染离开，眼神变得深邃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "深邃",
+        "duration": 3.32,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，目送林染离开，表情：眉毛舒展，眼睛注视侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "林染",
+                "gender": "女",
+                "clothing": "粉色背带裙，白色衬衫",
+                "position": "画面中央偏左",
+                "action": "背对镜头走向门口",
+                "expression": "不可见"
+            }
+        ],
+        "background": "走廊，门",
+        "description_narrative": "镜头跟随林染的背影，她走向门口，离开了房间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.28,
+        "description_visual": "中景平拍镜头（跟拍）；走廊，门；画面中央偏左人物，身穿粉色背带裙，白色衬衫，背对镜头走向门口，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面中央",
+                "action": "看着林染离开的方向",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "温老爷子看着林染离开的方向，眼神中带着探究。",
+        "dialogue": "她的记忆，恢复得怎么样了？",
+        "speaker": "温老爷子",
+        "emotion": "探究",
+        "duration": 1.84,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿棕色中式唐装，看着林染离开的方向，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "转头看向老爷子",
+                "expression": "眉毛舒展，眼睛注视老爷子，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年转头看向老爷子，准备回答这个问题。",
+        "dialogue": "恢复得怎么样了",
+        "speaker": "温老爷子",
+        "emotion": "平静",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，转头看向老爷子，表情：眉毛舒展，眼睛注视老爷子，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面中央",
+                "action": "等待回答",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "温老爷子神情严肃，等待着年轻人的保证。",
+        "dialogue": "爷爷放心，有我在，她不会恢复记忆的。",
+        "speaker": "西装青年",
+        "emotion": "严肃",
+        "duration": 1.76,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿棕色中式唐装，等待回答，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "眼神坚定",
+                "expression": "眉毛微垂，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年眼神坚定，向老爷子做出承诺。",
+        "dialogue": "她不会恢复记忆的",
+        "speaker": "西装青年",
+        "emotion": "坚定",
+        "duration": 2.08,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，眼神坚定，表情：眉毛微垂，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面左侧",
+                "action": "站立，低头",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面右侧，坐着",
+                "action": "手持拐杖，侧头说话",
+                "expression": "眉毛舒展，眼睛注视青年，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "两人同框，老爷子侧头看着年轻人，开始评价他。",
+        "dialogue": "说起来，",
+        "speaker": "温老爷子",
+        "emotion": "评价",
+        "duration": 5.6,
+        "description_visual": "中景平拍镜头；白色窗帘背景；画面左侧人物，身穿灰色格纹西装，黑色领带，站立，低头，表情：眉毛微垂，眼睛下视，嘴巴紧闭；画面右侧，坐着人物，身穿棕色中式唐装，手持拐杖，侧头说话，表情：眉毛舒展，眼睛注视青年，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "低头聆听",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年低头聆听老爷子的评价，神情谦卑。",
+        "dialogue": "你比止墨果断多了。",
+        "speaker": "温老爷子",
+        "emotion": "谦卑",
+        "duration": 2.96,
+        "description_visual": "近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，低头聆听，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "继续聆听",
+                "expression": "眉毛微垂，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年继续保持谦卑的姿态，没有反驳。",
+        "dialogue": "你比止墨果断多了",
+        "speaker": "温老爷子",
+        "emotion": "谦卑",
+        "duration": 2.16,
+        "description_visual": "近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，继续聆听，表情：眉毛微垂，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面中央",
+                "action": "眼神轻蔑",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "温老爷子提到另一个人，眼神中流露出一丝轻蔑。",
+        "dialogue": "那小子，",
+        "speaker": "温老爷子",
+        "emotion": "轻蔑",
+        "duration": 2.48,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿棕色中式唐装，眼神轻蔑，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "开口劝解",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年听到老爷子贬低止墨，开口劝解。",
+        "dialogue": "就是心软。",
+        "speaker": "温老爷子",
+        "emotion": "劝解",
+        "duration": 2.24,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，开口劝解，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "再次称呼爷爷",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年再次称呼爷爷，试图缓和气氛。",
+        "dialogue": "爷爷",
+        "speaker": "西装青年",
+        "emotion": "缓和",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，再次称呼爷爷，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温老爷子",
+                "gender": "男",
+                "clothing": "棕色中式唐装",
+                "position": "画面中央",
+                "action": "冷哼一声",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "温老爷子冷哼一声，显然对止墨很不满。",
+        "dialogue": "爷爷，止墨毕竟是温家名正言顺的继承人，您这样说他会不开心的。",
+        "speaker": "西装青年",
+        "emotion": "不满",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿棕色中式唐装，冷哼一声，表情：眉毛紧蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "西装青年",
+                "gender": "男",
+                "clothing": "灰色格纹西装，黑色领带",
+                "position": "画面中央",
+                "action": "继续劝解",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "西装青年继续为 stop 墨说话，表情诚恳。",
+        "dialogue": "您这样说他会不开心的",
+        "speaker": "西装青年",
+        "emotion": "诚恳",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；白色窗帘背景；画面中央人物，身穿灰色格纹西装，黑色领带，继续劝解，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色欧式建筑外观，周围有绿树，光线明亮。",
+        "description_narrative": "远景俯拍镜头，展示了一栋白色的多层欧式建筑，周围环绕着绿树，环境安静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.04,
+        "description_visual": "远景俯拍镜头；白色欧式建筑外观，周围有绿树，光线明亮。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "闪白",
+        "subjects": [],
+        "background": "画面过曝呈白色，隐约可见建筑轮廓。",
+        "description_narrative": "画面瞬间过曝呈白色，作为转场效果，伴随画外音传来指责声。",
+        "dialogue": "你个不要脸的。",
+        "speaker": "安然婆婆",
+        "emotion": "愤怒",
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头（闪白）；画面过曝呈白色，隐约可见建筑轮廓。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央偏下",
+                "action": "跪在地上，身体前倾，头发凌乱",
+                "expression": "低头，面部模糊，身体因动作而模糊"
+            }
+        ],
+        "background": "室内大厅地面，背景有站立的人群腿部。",
+        "description_narrative": "高角度镜头，安然跪在地上，身体前倾，画面带有动态模糊，背景可见周围人的腿部。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "狼狈",
+        "duration": 0.88,
+        "description_visual": "中景高角度镜头（摇镜）；室内大厅地面，背景有站立的人群腿部。；画面中央偏下人物，身穿浅蓝色开衫，灰色长裤，跪在地上，身体前倾，头发凌乱，表情：低头，面部模糊，身体因动作而模糊。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，身体微向前倾，低头看着下方",
+                "expression": "眉毛紧锁，眼睛瞪大，嘴巴张开正在说话"
+            }
+        ],
+        "background": "室内大厅，顶部有灯光，背景有模糊人影。",
+        "description_narrative": "低角度镜头对着安然婆婆，她身穿橙红色花纹连衣裙，表情愤怒地低头指责，嘴巴张开。",
+        "dialogue": "亏我儿子对你，他才死了不到三年。",
+        "speaker": "安然婆婆",
+        "emotion": "愤怒",
+        "duration": 5.88,
+        "description_visual": "中近景低角度镜头；室内大厅，顶部有灯光，背景有模糊人影。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，身体微向前倾，低头看着下方，表情：眉毛紧锁，眼睛瞪大，嘴巴张开正在说话。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，手指指向下方（画外）",
+                "expression": "眉头紧皱，眼神严厉，嘴巴张开"
+            }
+        ],
+        "background": "室内大厅，顶部有灯光。",
+        "description_narrative": "镜头保持对安然婆婆的中近景，她继续愤怒地指责，表情刻薄。",
+        "dialogue": "你偷汉子都到我家门口了。",
+        "speaker": "安然婆婆",
+        "emotion": "愤怒",
+        "duration": 2.08,
+        "description_visual": "中近景低角度镜头；室内大厅，顶部有灯光。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，手指指向下方（画外），表情：眉头紧皱，眼神严厉，嘴巴张开。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，抬头向上看",
+                "expression": "眼神委屈，嘴巴微张，眼眶湿润"
+            }
+        ],
+        "background": "室内地面，背景有站立的男性腿部。",
+        "description_narrative": "高角度镜头拍摄跪在地上的安然，她抬头向上看，神情委屈无助。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "委屈",
+        "duration": 2.56,
+        "description_visual": "中景高角度镜头；室内地面，背景有站立的男性腿部。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，抬头向上看，表情：眼神委屈，嘴巴微张，眼眶湿润。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，身体微侧",
+                "expression": "抬头，眼神渴望被相信"
+            }
+        ],
+        "background": "室内地面，背景模糊。",
+        "description_narrative": "镜头推进，聚焦于跪在地上的安然，她抬头望着上方，画面出现名字标签。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无助",
+        "duration": 0.96,
+        "description_visual": "中景高角度镜头（推进）；室内地面，背景模糊。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，身体微侧，表情：抬头，眼神渴望被相信。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，嘴唇紧闭，眼神冷漠"
+            }
+        ],
+        "background": "室内大厅，顶部灯光。",
+        "description_narrative": "镜头切回安然婆婆，她面无表情地看着下方，继续训斥。",
+        "dialogue": "我们李家的脸。",
+        "speaker": "安然婆婆",
+        "emotion": "冷漠",
+        "duration": 2.2,
+        "description_visual": "中近景低角度镜头；室内大厅，顶部灯光。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，表情严肃，表情：眉毛微蹙，嘴唇紧闭，眼神冷漠。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，身体微动",
+                "expression": "眉毛上扬，嘴巴张开说话"
+            }
+        ],
+        "background": "室内大厅。",
+        "description_narrative": "安然婆婆继续说着，表情嫌弃，强调家族名誉受损。",
+        "dialogue": "都被你丢尽了。",
+        "speaker": "安然婆婆",
+        "emotion": "嫌弃",
+        "duration": 1.04,
+        "description_visual": "中近景低角度镜头；室内大厅。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，身体微动，表情：眉毛上扬，嘴巴张开说话。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，抬头",
+                "expression": "嘴巴微张，眼神惊恐"
+            }
+        ],
+        "background": "室内地面，背景有人腿。",
+        "description_narrative": "镜头切回安然，她听到指责后抬头，神情惊恐。",
+        "dialogue": "你怎么这么",
+        "speaker": "安然婆婆",
+        "emotion": "惊恐",
+        "duration": 0.84,
+        "description_visual": "中景高角度镜头；室内地面，背景有人腿。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，抬头，表情：嘴巴微张，眼神惊恐。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，表情愤怒",
+                "expression": "眉头紧锁，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "室内大厅。",
+        "description_narrative": "安然婆婆情绪激动，继续辱骂，表情狰狞。",
+        "dialogue": "不要脸，你没有男人会死吗？",
+        "speaker": "安然婆婆",
+        "emotion": "愤怒",
+        "duration": 2.68,
+        "description_visual": "中近景低角度镜头；室内大厅。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，表情愤怒，表情：眉头紧锁，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，伸手向前",
+                "expression": "嘴巴张开喊叫，眼神急切"
+            }
+        ],
+        "background": "室内地面，背景有人群。",
+        "description_narrative": "安然跪在地上，伸手想要抓住什么，急切地喊了一声“妈”。",
+        "dialogue": "妈。",
+        "speaker": "安然",
+        "emotion": "急切",
+        "duration": 1.12,
+        "description_visual": "中景高角度镜头；室内地面，背景有人群。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，伸手向前，表情：嘴巴张开喊叫，眼神急切。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，低头",
+                "expression": "眼神怀疑，嘴巴微闭"
+            }
+        ],
+        "background": "室内大厅。",
+        "description_narrative": "镜头对着安然婆婆，她一脸不信地看着下方，此时画外传来安然的辩解声。",
+        "dialogue": "我没有。",
+        "speaker": "安然",
+        "emotion": "怀疑",
+        "duration": 1.92,
+        "description_visual": "中近景低角度镜头；室内大厅。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，低头，表情：眼神怀疑，嘴巴微闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，伸手抓住对方衣角",
+                "expression": "抬头哭诉，嘴巴张开"
+            }
+        ],
+        "background": "室内地面，背景有人群腿部。",
+        "description_narrative": "安然跪在地上，伸手抓住安然婆婆的衣角，抬头哭诉请求相信。",
+        "dialogue": "你相信我，我真的没有。",
+        "speaker": "安然",
+        "emotion": "哭诉",
+        "duration": 2.0,
+        "description_visual": "中景高角度镜头；室内地面，背景有人群腿部。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，伸手抓住对方衣角，表情：抬头哭诉，嘴巴张开。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "身体晃动，模糊",
+                "expression": "面部模糊，似乎在挣扎"
+            }
+        ],
+        "background": "室内地面，模糊。",
+        "description_narrative": "画面变得模糊，安然似乎在挣扎或被推开，画外传来婆婆的拒绝声。",
+        "dialogue": "你别叫我妈。",
+        "speaker": "安然婆婆",
+        "emotion": "抗拒",
+        "duration": 1.08,
+        "description_visual": "中景高角度镜头（摇镜）；室内地面，模糊。；画面中央人物，身穿浅蓝色开衫，灰色长裤，身体晃动，模糊，表情：面部模糊，似乎在挣扎。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，身体微侧",
+                "expression": "表情厌恶，嘴巴微张"
+            }
+        ],
+        "background": "室内大厅。",
+        "description_narrative": "安然婆婆一脸厌恶地侧身，表示听不下去。",
+        "dialogue": "我听着恶心。",
+        "speaker": "安然婆婆",
+        "emotion": "厌恶",
+        "duration": 1.2,
+        "description_visual": "中近景低角度镜头；室内大厅。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，身体微侧，表情：表情厌恶，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，抬头",
+                "expression": "眼神震惊，嘴巴微张"
+            }
+        ],
+        "background": "室内地面。",
+        "description_narrative": "安然听到婆婆的话，震惊地抬头，画外传来婆婆揭露真相的声音。",
+        "dialogue": "人家赵老板什么都跟我说了。",
+        "speaker": "安然婆婆",
+        "emotion": "震惊",
+        "duration": 3.28,
+        "description_visual": "中景高角度镜头；室内地面。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，抬头，表情：眼神震惊，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，闭眼摇头",
+                "expression": "眼睛紧闭，嘴巴张开说话"
+            }
+        ],
+        "background": "室内大厅。",
+        "description_narrative": "安然婆婆闭着眼睛摇头，转述赵老板的话。",
+        "dialogue": "他说你趁没人。",
+        "speaker": "安然婆婆",
+        "emotion": "不屑",
+        "duration": 1.84,
+        "description_visual": "中近景低角度镜头；室内大厅。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，闭眼摇头，表情：眼睛紧闭，嘴巴张开说话。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，抬头",
+                "expression": "嘴巴张开，眼神难以置信"
+            }
+        ],
+        "background": "室内地面。",
+        "description_narrative": "安然听到污蔑，震惊地张着嘴，画外继续传来婆婆的指责。",
+        "dialogue": "勾引他想上位。",
+        "speaker": "安然婆婆",
+        "emotion": "难以置信",
+        "duration": 1.36,
+        "description_visual": "中景高角度镜头；室内地面。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，抬头，表情：嘴巴张开，眼神难以置信。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，表情严肃",
+                "expression": "眉毛微蹙，嘴巴张开"
+            }
+        ],
+        "background": "室内大厅。",
+        "description_narrative": "安然婆婆继续转述，表情严肃认真。",
+        "dialogue": "人家不愿意。",
+        "speaker": "安然婆婆",
+        "emotion": "严肃",
+        "duration": 1.84,
+        "description_visual": "中近景低角度镜头；室内大厅。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，表情严肃，表情：眉毛微蹙，嘴巴张开。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，抬头",
+                "expression": "嘴巴微张，眼神委屈"
+            }
+        ],
+        "background": "室内地面。",
+        "description_narrative": "安然委屈地看着上方，画外传来婆婆进一步的指责。",
+        "dialogue": "你还把人家打伤了。",
+        "speaker": "安然婆婆",
+        "emotion": "委屈",
+        "duration": 0.8,
+        "description_visual": "中景高角度镜头；室内地面。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，抬头，表情：嘴巴微张，眼神委屈。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然婆婆",
+                "gender": "女",
+                "clothing": "橙红色佩斯利花纹连衣裙",
+                "position": "画面中央",
+                "action": "站立，表情愤怒",
+                "expression": "眉毛紧锁，嘴巴张开"
+            }
+        ],
+        "background": "室内大厅。",
+        "description_narrative": "安然婆婆愤怒地指责安然还妄想逃跑。",
+        "dialogue": "还妄想逃跑。",
+        "speaker": "安然婆婆",
+        "emotion": "愤怒",
+        "duration": 1.36,
+        "description_visual": "中近景低角度镜头；室内大厅。；画面中央人物，身穿橙红色佩斯利花纹连衣裙，站立，表情愤怒，表情：眉毛紧锁，嘴巴张开。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，抬头",
+                "expression": "表情痛苦，嘴巴微张"
+            }
+        ],
+        "background": "室内地面。",
+        "description_narrative": "安然痛苦地听着，画外传来婆婆最后的辱骂。",
+        "dialogue": "你怎么这么不要脸啊。",
+        "speaker": "安然婆婆",
+        "emotion": "痛苦",
+        "duration": 1.76,
+        "description_visual": "中景高角度镜头；室内地面。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，抬头，表情：表情痛苦，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "赵老板",
+                "gender": "男",
+                "clothing": "灰色西装，白衬衫",
+                "position": "画面左侧",
+                "action": "站立，表情冷漠",
+                "expression": "戴眼镜，面无表情"
+            },
+            {
+                "name": "未知女性",
+                "gender": "女",
+                "clothing": "紫色连衣裙",
+                "position": "画面右侧",
+                "action": "站立，表情严肃",
+                "expression": "面无表情，直视前方"
+            }
+        ],
+        "background": "室内，有吊灯，窗外有绿树。",
+        "description_narrative": "画面切换到赵老板和一名穿紫色连衣裙的女性，他们站着，画外传来安然的辩解声。",
+        "dialogue": "我没有勾引他，是他在撒谎。",
+        "speaker": "安然",
+        "emotion": "冷静",
+        "duration": 2.8,
+        "description_visual": "中景平拍镜头；室内，有吊灯，窗外有绿树。；画面左侧人物，身穿灰色西装，白衬衫，站立，表情冷漠，表情：戴眼镜，面无表情；画面右侧人物，身穿紫色连衣裙，站立，表情严肃，表情：面无表情，直视前方。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，抬头",
+                "expression": "嘴巴张开大喊，眼神坚定"
+            }
+        ],
+        "background": "室内地面。",
+        "description_narrative": "镜头切回安然，她大声否认，表情激动。",
+        "dialogue": "我没有。",
+        "speaker": "安然",
+        "emotion": "激动",
+        "duration": 1.48,
+        "description_visual": "中景高角度镜头；室内地面。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，抬头，表情：嘴巴张开大喊，眼神坚定。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "高角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "安然",
+                "gender": "女",
+                "clothing": "浅蓝色开衫，灰色长裤",
+                "position": "画面中央",
+                "action": "跪在地上，抬头哭诉",
+                "expression": "嘴巴张开，情绪激动"
+            }
+        ],
+        "background": "室内地面。",
+        "description_narrative": "安然情绪崩溃，大声喊出真相，描述被强暴的经过和反抗。",
+        "dialogue": "是他想强暴我。赵老板，你要干什么？赵老板，放开我，我要报警了。",
+        "speaker": "安然",
+        "emotion": "崩溃",
+        "duration": 24.08,
+        "description_visual": "中景高角度镜头；室内地面。；画面中央人物，身穿浅蓝色开衫，灰色长裤，跪在地上，抬头哭诉，表情：嘴巴张开，情绪激动。"
+    }
+]

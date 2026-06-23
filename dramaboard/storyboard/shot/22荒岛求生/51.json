@@ -1,0 +1,648 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑色背景，白色文字标题",
+        "description_narrative": "黑色背景上显示白色文字“第五十二集”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "远景平拍镜头；黑色背景，白色文字标题。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林若溪",
+                "gender": "女",
+                "clothing": "白色衬衫，灰色短裙",
+                "position": "画面中央",
+                "action": "蹲在沙地上，低头微笑，双手放在膝盖附近",
+                "expression": "眉毛舒展，眼睛视线下移，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "沙滩场景，背景有模糊的植被，光线明亮",
+        "description_narrative": "林若溪蹲在沙地上，身穿白色衬衫和灰色短裙，扎着双马尾，低头露出灿烂的笑容。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "开心",
+        "duration": 1.93,
+        "description_visual": "中近景平拍镜头；沙滩场景，背景有模糊的植被，光线明亮；画面中央人物，身穿白色衬衫，灰色短裙，蹲在沙地上，低头微笑，双手放在膝盖附近，表情：眉毛舒展，眼睛视线下移，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心，白色衬衫敞开，黑色短裤",
+                "position": "画面中央",
+                "action": "坐在沙地上，身体后仰，双手撑地，闭眼微笑",
+                "expression": "眉毛放松，眼睛闭合，嘴巴微张露齿笑"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "深蓝色背心校服，彩色丝巾",
+                "position": "周正身后",
+                "action": "双手搭在周正肩膀上",
+                "expression": "眼睛视线下移，嘴巴微闭"
+            }
+        ],
+        "background": "沙滩场景，背景有绿色植被，光线自然",
+        "description_narrative": "周正坐在沙地上，身穿黑色背心和敞开的白衬衫，闭眼享受地后仰。若溪站在他身后，双手搭在他的肩膀上。",
+        "dialogue": "哎呀，好了，我去拿只烤鱼和椰子，看看曼凝怎么样。那下午她的腿又在疼，曼凝的运气也太差了。哎呀，谁说不是呢？你们继续烤火，我去看看曼凝，别让它灭了呀。",
+        "speaker": "周正",
+        "emotion": "轻松",
+        "duration": 14.47,
+        "description_visual": "中景平拍镜头；沙滩场景，背景有绿色植被，光线自然；画面中央人物，身穿黑色背心，白色衬衫敞开，黑色短裤，坐在沙地上，身体后仰，双手撑地，闭眼微笑，表情：眉毛放松，眼睛闭合，嘴巴微张露齿笑；周正身后人物，身穿深蓝色背心校服，彩色丝巾，双手搭在周正肩膀上，表情：眼睛视线下移，嘴巴微闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心，白色衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微侧，低头看向下方",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微闭"
+            }
+        ],
+        "background": "户外沙滩背景，光线明亮",
+        "description_narrative": "周正站立着，身穿黑色背心和白衬衫，低头看向下方，表情平静。",
+        "dialogue": "放心吧，我和林若溪会看着呢。",
+        "speaker": "若溪",
+        "emotion": "安心",
+        "duration": 1.7,
+        "description_visual": "中近景平拍镜头；户外沙滩背景，光线明亮；画面中央人物，身穿黑色背心，白色衬衫，站立，身体微侧，低头看向下方，表情：眉毛微蹙，眼睛视线下移，嘴巴微闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "深蓝色背心校服，彩色丝巾",
+                "position": "画面左侧",
+                "action": "坐着，双手拿着绿色果实，抬头看向前方",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴微闭"
+            },
+            {
+                "name": "林若溪",
+                "gender": "女",
+                "clothing": "白色衬衫，灰色短裙",
+                "position": "画面右侧",
+                "action": "坐着，身体微侧",
+                "expression": "眉毛微挑，眼睛看向若溪，嘴巴微张"
+            }
+        ],
+        "background": "沙滩场景，背景有绿色植被",
+        "description_narrative": "若溪和林若溪坐在沙滩上，若溪手中拿着绿色果实，两人正在交谈。",
+        "dialogue": "若溪。你们一上岛就和周正在一起了吗？嗯。是周正把我和曼凝救了。哦，他还懂一些野外生存的知识呢。可我怎么感觉，周正好像对齐曼凝图谋不轨呢？曼凝是被蛇咬了。他又不是意识不清。啊，被蛇咬了？嗯，对。哦，柴快没了，你快去找些木头吧。好，我这就去。",
+        "speaker": "若溪, 林若溪",
+        "emotion": "疑惑",
+        "duration": 27.6,
+        "description_visual": "中景平拍镜头；沙滩场景，背景有绿色植被；画面左侧人物，身穿深蓝色背心校服，彩色丝巾，坐着，双手拿着绿色果实，抬头看向前方，表情：眉毛平展，眼睛直视前方，嘴巴微闭；画面右侧人物，身穿白色衬衫，灰色短裙，坐着，身体微侧，表情：眉毛微挑，眼睛看向若溪，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "林若溪",
+                "gender": "女",
+                "clothing": "灰色短裙，白色蕾丝长袜",
+                "position": "画面前景",
+                "action": "站立，腿部可见，准备离开",
+                "expression": "不可见"
+            },
+            {
+                "name": "若溪",
+                "gender": "女",
+                "clothing": "深蓝色背心校服",
+                "position": "画面背景",
+                "action": "坐着，抬头看",
+                "expression": "眼睛注视前方"
+            }
+        ],
+        "background": "沙滩场景，光线明亮",
+        "description_narrative": "镜头聚焦于林若溪的腿部和若溪手中的果实，林若溪准备起身离开。",
+        "dialogue": "曼凝。",
+        "speaker": "周正",
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "特写低角度镜头（跟拍）；沙滩场景，光线明亮；画面前景人物，身穿灰色短裙，白色蕾丝长袜，站立，腿部可见，准备离开，表情：不可见；画面背景人物，身穿深蓝色背心校服，坐着，抬头看，表情：眼睛注视前方。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "林若溪",
+                "gender": "女",
+                "clothing": "灰色短裙，白色蕾丝长袜",
+                "position": "画面中央",
+                "action": "行走，腿部迈步",
+                "expression": "不可见"
+            }
+        ],
+        "background": "沙滩场景，背景模糊",
+        "description_narrative": "林若溪穿着白色蕾丝长袜和灰色短裙，迈步走开，镜头跟随其腿部动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.77,
+        "description_visual": "特写低角度镜头（跟拍）；沙滩场景，背景模糊；画面中央人物，身穿灰色短裙，白色蕾丝长袜，行走，腿部迈步，表情：不可见。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面右侧",
+                "action": "在草丛中穿行，身体前倾",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微闭"
+            }
+        ],
+        "background": "夜晚草丛，光线昏暗",
+        "description_narrative": "夜晚，周正身穿黑色背心，在昏暗的草丛中小心穿行，寻找着什么。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "警惕",
+        "duration": 0.83,
+        "description_visual": "中景平拍镜头（跟拍）；夜晚草丛，光线昏暗；画面右侧人物，身穿黑色背心，在草丛中穿行，身体前倾，表情：眉毛微蹙，眼睛注视前方，嘴巴微闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面中央",
+                "action": "弯腰，手臂伸展",
+                "expression": "眉毛微蹙，眼睛注视下方，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草丛，光线昏暗",
+        "description_narrative": "周正在草丛中弯腰，似乎在拨开植被，表情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "专注",
+        "duration": 0.7,
+        "description_visual": "近景平拍镜头（跟拍）；夜晚草丛，光线昏暗；画面中央人物，身穿黑色背心，弯腰，手臂伸展，表情：眉毛微蹙，眼睛注视下方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色短裤",
+                "position": "画面左侧",
+                "action": "腿部可见，走向躺在地上的人",
+                "expression": "不可见"
+            },
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "躺在草地上，身体蜷缩",
+                "expression": "眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "周正走近躺在草地上的齐曼凝，她身穿黑色上衣和白色长裙，看起来身体虚弱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "虚弱",
+        "duration": 0.5,
+        "description_visual": "中景俯拍镜头；夜晚草地，光线昏暗；画面左侧人物，身穿黑色短裤，腿部可见，走向躺在地上的人，表情：不可见；画面右侧人物，身穿黑色上衣，白色长裙，躺在草地上，身体蜷缩，表情：眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心，黑色短裤",
+                "position": "画面左侧",
+                "action": "蹲下，伸手触碰齐曼凝",
+                "expression": "眉毛微蹙，眼睛注视齐曼凝，嘴巴微张"
+            },
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "躺在地上，头部微抬",
+                "expression": "眼睛微睁，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "周正蹲在齐曼凝身边，伸手轻触她，告诉她钓到了鱼。",
+        "dialogue": "我们钓到鱼了，有烤鱼可以吃。",
+        "speaker": "周正",
+        "emotion": "关切",
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；夜晚草地，光线昏暗；画面左侧人物，身穿黑色背心，黑色短裤，蹲下，伸手触碰齐曼凝，表情：眉毛微蹙，眼睛注视齐曼凝，嘴巴微张；画面右侧人物，身穿黑色上衣，白色长裙，躺在地上，头部微抬，表情：眼睛微睁，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "手持烤鱼，递向齐曼凝",
+                "expression": "眉毛舒展，眼睛注视齐曼凝，嘴巴微张"
+            },
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "躺在地上，抬头看鱼",
+                "expression": "眉毛微蹙，眼睛注视鱼，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "周正手持烤鱼递给齐曼凝，齐曼凝看着鱼，表情有些犹豫。",
+        "dialogue": "鱼。",
+        "speaker": "齐曼凝",
+        "emotion": "犹豫",
+        "duration": 0.6,
+        "description_visual": "中近景平拍镜头；夜晚草地，光线昏暗；画面左侧人物，身穿黑色背心，手持烤鱼，递向齐曼凝，表情：眉毛舒展，眼睛注视齐曼凝，嘴巴微张；画面右侧人物，身穿黑色上衣，躺在地上，抬头看鱼，表情：眉毛微蹙，眼睛注视鱼，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "手持烤鱼，递向齐曼凝",
+                "expression": "眉毛舒展，眼睛注视齐曼凝，嘴巴微张"
+            },
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "躺在地上，摇头",
+                "expression": "眉毛微蹙，眼睛看向别处，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "周正继续递鱼，齐曼凝表示不喜欢吃鱼。",
+        "dialogue": "我最不喜欢吃鱼了。",
+        "speaker": "齐曼凝",
+        "emotion": "拒绝",
+        "duration": 0.67,
+        "description_visual": "中近景平拍镜头；夜晚草地，光线昏暗；画面左侧人物，身穿黑色背心，手持烤鱼，递向齐曼凝，表情：眉毛舒展，眼睛注视齐曼凝，嘴巴微张；画面右侧人物，身穿黑色上衣，躺在地上，摇头，表情：眉毛微蹙，眼睛看向别处，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "坐着，手持鱼",
+                "expression": "眉毛微蹙，眼睛注视鱼，嘴巴微张"
+            },
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "坐起，看着鱼",
+                "expression": "眉毛微蹙，眼睛注视鱼，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "周正解释鱼里面有刺，齐曼凝坐起来看着鱼。",
+        "dialogue": "里面有刺。",
+        "speaker": "周正",
+        "emotion": "解释",
+        "duration": 0.8,
+        "description_visual": "中景平拍镜头；夜晚草地，光线昏暗；画面左侧人物，身穿黑色背心，坐着，手持鱼，表情：眉毛微蹙，眼睛注视鱼，嘴巴微张；画面右侧人物，身穿黑色上衣，白色长裙，坐起，看着鱼，表情：眉毛微蹙，眼睛注视鱼，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "坐着，手持鱼",
+                "expression": "眉毛舒展，眼睛注视齐曼凝，嘴巴微张"
+            },
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣，白色长裙",
+                "position": "画面右侧",
+                "action": "坐着，低头看鱼",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "周正劝说齐曼凝这是熟食，齐曼凝低头看着鱼，表情犹豫。",
+        "dialogue": "可这是熟食啊。",
+        "speaker": "周正",
+        "emotion": "劝说",
+        "duration": 5.27,
+        "description_visual": "中景平拍镜头；夜晚草地，光线昏暗；画面左侧人物，身穿黑色背心，坐着，手持鱼，表情：眉毛舒展，眼睛注视齐曼凝，嘴巴微张；画面右侧人物，身穿黑色上衣，白色长裙，坐着，低头看鱼，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "周正",
+                "gender": "男",
+                "clothing": "黑色背心",
+                "position": "画面左侧",
+                "action": "手持鱼，递向齐曼凝",
+                "expression": "眉毛舒展，眼睛注视齐曼凝，嘴巴微张"
+            },
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "伸手接鱼",
+                "expression": "眉毛微蹙，眼睛注视鱼，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "周正劝齐曼凝吃一点，齐曼凝伸手接过鱼。",
+        "dialogue": "你要吃一点吧。",
+        "speaker": "周正",
+        "emotion": "关切",
+        "duration": 2.33,
+        "description_visual": "中近景平拍镜头；夜晚草地，光线昏暗；画面左侧人物，身穿黑色背心，手持鱼，递向齐曼凝，表情：眉毛舒展，眼睛注视齐曼凝，嘴巴微张；画面右侧人物，身穿黑色上衣，伸手接鱼，表情：眉毛微蹙，眼睛注视鱼，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "双手拿着鱼，低头看",
+                "expression": "眉毛紧蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "齐曼凝双手拿着鱼，低头看着，表情有些痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 0.73,
+        "description_visual": "特写平拍镜头；夜晚草地，光线昏暗；画面中央人物，身穿黑色上衣，双手拿着鱼，低头看，表情：眉毛紧蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "手捂嘴，咀嚼",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "齐曼凝手捂着嘴，似乎在咀嚼食物，表情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；夜晚草地，光线昏暗；画面中央人物，身穿黑色上衣，手捂嘴，咀嚼，表情：眉毛紧蹙，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "手捂嘴，皱眉",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "齐曼凝继续捂着嘴，眉头紧锁，看起来很不舒服。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；夜晚草地，光线昏暗；画面中央人物，身穿黑色上衣，手捂嘴，皱眉，表情：眉毛紧蹙，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "手捂嘴，低头",
+                "expression": "眉毛紧蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "齐曼凝低头捂着嘴，表情痛苦加剧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；夜晚草地，光线昏暗；画面中央人物，身穿黑色上衣，手捂嘴，低头，表情：眉毛紧蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "手捂嘴，侧头",
+                "expression": "眉毛紧蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "齐曼凝侧头捂着嘴，似乎被什么东西卡住了。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；夜晚草地，光线昏暗；画面中央人物，身穿黑色上衣，手捂嘴，侧头，表情：眉毛紧蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "低头，手放下",
+                "expression": "眉毛紧蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "齐曼凝低头，发出轻微的声音，表情依然痛苦。",
+        "dialogue": "嗯。",
+        "speaker": "齐曼凝",
+        "emotion": "痛苦",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；夜晚草地，光线昏暗；画面中央人物，身穿黑色上衣，低头，手放下，表情：眉毛紧蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "抬头，看向前方",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "齐曼凝抬头看向前方，周正询问她怎么了。",
+        "dialogue": "怎么了？",
+        "speaker": "周正",
+        "emotion": "关切",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；夜晚草地，光线昏暗；画面中央人物，身穿黑色上衣，抬头，看向前方，表情：眉毛紧蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "低头，手捂嘴",
+                "expression": "眉毛紧蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "齐曼凝低头捂着嘴，周正询问是否有鱼刺。",
+        "dialogue": "有鱼刺吗？",
+        "speaker": "周正",
+        "emotion": "担忧",
+        "duration": 0.6,
+        "description_visual": "特写平拍镜头；夜晚草地，光线昏暗；画面中央人物，身穿黑色上衣，低头，手捂嘴，表情：眉毛紧蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐曼凝",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面中央",
+                "action": "低头，手放下",
+                "expression": "眉毛紧蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "夜晚草地，光线昏暗",
+        "description_narrative": "齐曼凝低头不语，表情痛苦，似乎默认了有鱼刺。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "痛苦",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头；夜晚草地，光线昏暗；画面中央人物，身穿黑色上衣，低头，手放下，表情：眉毛紧蹙，眼睛视线下移，嘴巴紧闭。"
+    }
+]

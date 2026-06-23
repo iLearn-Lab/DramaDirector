@@ -1,0 +1,731 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯白/灰色背景，无具体场景元素。",
+        "description_narrative": "画面为纯白或浅灰色背景，无可见人物或物体，持续3.84秒，作为片段起始或转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "全景平拍镜头；纯白/灰色背景，无具体场景元素。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面左侧，坐在桌后",
+                "action": "低头阅读手中文件",
+                "expression": "眉毛微蹙，眼睛注视文件，嘴巴紧闭"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色西裤",
+                "position": "画面右侧，站立",
+                "action": "身体微倾，右手伸向桌面",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "办公室场景，红木茶桌，茶具，绿植，白色墙壁。",
+        "description_narrative": "全景镜头，妙妙坐在左侧红木茶桌后阅读文件，王林身穿白衬衫站在右侧，身体微倾向桌面，似乎准备交谈。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.88,
+        "description_visual": "全景平拍镜头；办公室场景，红木茶桌，茶具，绿植，白色墙壁。；画面左侧，坐在桌后人物，身穿灰色西装外套，低头阅读手中文件，表情：眉毛微蹙，眼睛注视文件，嘴巴紧闭；画面右侧，站立人物，身穿白色衬衫，黑色西裤，身体微倾，右手伸向桌面，表情：眉毛舒展，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央",
+                "action": "手持文件，抬头说话",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室背景，模糊的茶壶和文件。",
+        "description_narrative": "近景镜头聚焦妙妙，她手持文件，抬头看向对面，嘴唇微动开始说话。",
+        "dialogue": "爷爷说你的能力",
+        "speaker": "妙妙",
+        "emotion": "平静",
+        "duration": 3.92,
+        "description_visual": "近景平拍镜头；办公室背景，模糊的茶壶和文件。；画面中央人物，身穿灰色西装外套，手持文件，抬头说话，表情：眉毛微挑，眼睛注视对方，嘴巴张开说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "站立，微微低头",
+                "expression": "眉毛平展，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "办公室背景，玻璃门，模糊的室内陈设。",
+        "description_narrative": "中近景镜头对准王林，他身穿白衬衫，微微低头倾听，神情沉稳。",
+        "dialogue": "你可以这么认为。好啊。",
+        "speaker": "王林",
+        "emotion": "顺从",
+        "duration": 3.0,
+        "description_visual": "中近景平拍镜头；办公室背景，玻璃门，模糊的室内陈设。；画面中央人物，身穿白色衬衫，站立，微微低头，表情：眉毛平展，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央",
+                "action": "坐着，身体微前倾",
+                "expression": "眉毛微扬，眼睛直视，嘴巴张开说话"
+            }
+        ],
+        "background": "办公室背景，茶壶，文件。",
+        "description_narrative": "近景镜头回到妙妙，她身体微前倾，继续说明情况。",
+        "dialogue": "我这边现在刚好缺了一个重要的",
+        "speaker": "妙妙",
+        "emotion": "认真",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；办公室背景，茶壶，文件。；画面中央人物，身穿灰色西装外套，坐着，身体微前倾，表情：眉毛微扬，眼睛直视，嘴巴张开说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "站立，双手自然下垂",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室背景，玻璃门。",
+        "description_narrative": "中近景镜头对准王林，他静静站立，听着妙妙的安排。",
+        "dialogue": "一个重要的岗位",
+        "speaker": "妙妙",
+        "emotion": "期待",
+        "duration": 2.88,
+        "description_visual": "中近景平拍镜头；办公室背景，玻璃门。；画面中央人物，身穿白色衬衫，站立，双手自然下垂，表情：眉毛平展，眼睛注视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面左侧，坐在桌后",
+                "action": "放下文件，看着王林",
+                "expression": "眉毛舒展，眼睛微笑，嘴巴微张"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧，站立",
+                "action": "点头",
+                "expression": "眉毛微动，眼睛注视，嘴巴闭合"
+            }
+        ],
+        "background": "办公室全景，茶桌，绿植。",
+        "description_narrative": "全景镜头，妙妙放下文件叮嘱王林，王林站在桌边点头回应。",
+        "dialogue": "岗位，你一定要做好哦。",
+        "speaker": "妙妙",
+        "emotion": "叮嘱",
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；办公室全景，茶桌，绿植。；画面左侧，坐在桌后人物，身穿灰色西装外套，放下文件，看着王林，表情：眉毛舒展，眼睛微笑，嘴巴微张；画面右侧，站立人物，身穿白色衬衫，点头，表情：眉毛微动，眼睛注视，嘴巴闭合。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "双手接过衣物",
+                "expression": "不可见"
+            }
+        ],
+        "background": "模糊的衣物特写。",
+        "description_narrative": "特写镜头聚焦双手，王林接过一件棕色和黑色的衣物。",
+        "dialogue": "呐",
+        "speaker": "妙妙",
+        "emotion": "随意",
+        "duration": 1.56,
+        "description_visual": "特写平拍镜头；模糊的衣物特写。；画面中央人物，身穿白色衬衫，双手接过衣物，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "双手抱着衣物",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室背景，玻璃门。",
+        "description_narrative": "中近景镜头，王林低头看着怀里的衣物，神情略显复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 2.12,
+        "description_visual": "中近景平拍镜头；办公室背景，玻璃门。；画面中央人物，身穿白色衬衫，双手抱着衣物，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央",
+                "action": "坐着，抬头微笑",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            }
+        ],
+        "background": "办公室背景，茶壶，文件。",
+        "description_narrative": "近景镜头，妙妙抬头看着王林，脸上带着一丝意味深长的微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "戏谑",
+        "duration": 2.32,
+        "description_visual": "近景平拍镜头；办公室背景，茶壶，文件。；画面中央人物，身穿灰色西装外套，坐着，抬头微笑，表情：眉毛舒展，眼睛含笑，嘴角上扬。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面左侧，坐在桌后",
+                "action": "坐着说话",
+                "expression": "眉毛微扬，眼睛注视，嘴巴张开"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧，站立",
+                "action": "抱着衣物站立",
+                "expression": "眉毛平展，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室全景，茶桌，绿植。",
+        "description_narrative": "全景镜头，妙妙坐在桌后强调卫生的重要性，王林抱着衣物站在一旁。",
+        "dialogue": "干净卫生可太",
+        "speaker": "妙妙",
+        "emotion": "强调",
+        "duration": 1.72,
+        "description_visual": "全景平拍镜头；办公室全景，茶桌，绿植。；画面左侧，坐在桌后人物，身穿灰色西装外套，坐着说话，表情：眉毛微扬，眼睛注视，嘴巴张开；画面右侧，站立人物，身穿白色衬衫，抱着衣物站立，表情：眉毛平展，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "低头看手中衣物",
+                "expression": "眉毛微蹙，眼睛注视衣物，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室背景，玻璃门。",
+        "description_narrative": "中近景镜头，王林低头看着手中的工作服，听着妙妙的解释。",
+        "dialogue": "重要了，这是一个公司的",
+        "speaker": "妙妙",
+        "emotion": "严肃",
+        "duration": 3.24,
+        "description_visual": "中近景平拍镜头；办公室背景，玻璃门。；画面中央人物，身穿白色衬衫，低头看手中衣物，表情：眉毛微蹙，眼睛注视衣物，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央",
+                "action": "坐着，身体后仰",
+                "expression": "眉毛微挑，眼睛斜视，嘴角含笑"
+            }
+        ],
+        "background": "办公室背景，茶壶，文件。",
+        "description_narrative": "近景镜头，妙妙身体后仰，带着笑意告诉王林要从基层做起。",
+        "dialogue": "脸面，而且你刚来，从基层干起",
+        "speaker": "妙妙",
+        "emotion": "得意",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头；办公室背景，茶壶，文件。；画面中央人物，身穿灰色西装外套，坐着，身体后仰，表情：眉毛微挑，眼睛斜视，嘴角含笑。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "整理手中衣物",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微动"
+            }
+        ],
+        "background": "办公室背景，玻璃门。",
+        "description_narrative": "中近景镜头，王林整理着衣物，面无表情地听着。",
+        "dialogue": "没意见吧",
+        "speaker": "妙妙",
+        "emotion": "询问",
+        "duration": 1.8,
+        "description_visual": "中近景平拍镜头；办公室背景，玻璃门。；画面中央人物，身穿白色衬衫，整理手中衣物，表情：眉毛平展，眼睛注视前方，嘴巴微动。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面左侧，坐在桌后",
+                "action": "坐着",
+                "expression": "眉毛舒展，眼睛注视，嘴巴微张"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧，站立",
+                "action": "双臂交叉抱衣",
+                "expression": "眉毛平展，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "办公室全景，茶桌，绿植。",
+        "description_narrative": "全景镜头，王林双臂交叉抱着衣物，妙妙坐在桌后示意他离开。",
+        "dialogue": "好。",
+        "speaker": "王林",
+        "emotion": "接受",
+        "duration": 2.88,
+        "description_visual": "全景平拍镜头；办公室全景，茶桌，绿植。；画面左侧，坐在桌后人物，身穿灰色西装外套，坐着，表情：眉毛舒展，眼睛注视，嘴巴微张；画面右侧，站立人物，身穿白色衬衫，双臂交叉抱衣，表情：眉毛平展，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "转身走向门口",
+                "expression": "不可见"
+            }
+        ],
+        "background": "办公室门口，玻璃门。",
+        "description_narrative": "中景跟拍镜头，王林转身抱着衣物走向门口，背影挺拔。",
+        "dialogue": "你去吧。",
+        "speaker": "妙妙",
+        "emotion": "打发",
+        "duration": 2.04,
+        "description_visual": "中景平拍镜头（跟拍）；办公室门口，玻璃门。；画面中央人物，身穿白色衬衫，转身走向门口，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面中央",
+                "action": "坐着，目送",
+                "expression": "眉毛舒展，眼睛注视前方，嘴角微扬"
+            }
+        ],
+        "background": "办公室背景，茶壶，文件。",
+        "description_narrative": "近景镜头，妙妙坐在桌后，目送王林离开，脸上带着满意的微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "满意",
+        "duration": 1.88,
+        "description_visual": "近景平拍镜头；办公室背景，茶壶，文件。；画面中央人物，身穿灰色西装外套，坐着，目送，表情：眉毛舒展，眼睛注视前方，嘴角微扬。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "灰色西装外套",
+                "position": "画面右侧",
+                "action": "坐着",
+                "expression": "不可见"
+            }
+        ],
+        "background": "分屏画面，左侧为酒店大堂水晶帘，右侧为妙妙。",
+        "description_narrative": "分屏镜头，左侧展示酒店大堂的水晶帘装饰，右侧是妙妙坐在办公室的画面，暗示场景转换。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.0,
+        "description_visual": "全景平拍镜头；分屏画面，左侧为酒店大堂水晶帘，右侧为妙妙。；画面右侧人物，身穿灰色西装外套，坐着，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "深蓝色中式外套，条纹衬衫",
+                "position": "画面中央",
+                "action": "低头说话",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴张开"
+            }
+        ],
+        "background": "酒店大堂背景，模糊的灯光。",
+        "description_narrative": "近景镜头，一名身穿中式外套的中年男子低头，神情惊讶且关切地说话。",
+        "dialogue": "哎呀，小林，你怎么能干保洁",
+        "speaker": "中年男子",
+        "emotion": "震惊",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；酒店大堂背景，模糊的灯光。；画面中央人物，身穿深蓝色中式外套，条纹衬衫，低头说话，表情：眉毛紧锁，眼睛下视，嘴巴张开。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作服",
+                "position": "画面中央",
+                "action": "站立，抬头说话",
+                "expression": "眉毛平展，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂背景，栏杆。",
+        "description_narrative": "中近景镜头，王林已换上棕色保洁工作服，抬头看着中年男子，平静地回应。",
+        "dialogue": "这妙妙怎么安排的",
+        "speaker": "王林",
+        "emotion": "淡然",
+        "duration": 3.96,
+        "description_visual": "中近景平拍镜头；酒店大堂背景，栏杆。；画面中央人物，身穿棕色双排扣工作服，站立，抬头说话，表情：眉毛平展，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "深蓝色中式外套",
+                "position": "画面中央",
+                "action": "侧身站立，倾听",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂背景，模糊的灯光。",
+        "description_narrative": "近景镜头，中年男子侧身站立，听着王林的解释，神情依然不解。",
+        "dialogue": "没事，我刚来，从基层做起，快速的了解公司。",
+        "speaker": "王林",
+        "emotion": "解释",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；酒店大堂背景，模糊的灯光。；画面中央人物，身穿深蓝色中式外套，侧身站立，倾听，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作服",
+                "position": "画面中央",
+                "action": "站立，微笑",
+                "expression": "眉毛舒展，眼睛含笑，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂背景，栏杆。",
+        "description_narrative": "中近景镜头，王林面带微笑，继续安抚中年男子。",
+        "dialogue": "你这能力这么出众，怎么能做这种工作？",
+        "speaker": "中年男子",
+        "emotion": "惋惜",
+        "duration": 1.64,
+        "description_visual": "中近景平拍镜头；酒店大堂背景，栏杆。；画面中央人物，身穿棕色双排扣工作服，站立，微笑，表情：眉毛舒展，眼睛含笑，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "深蓝色中式外套",
+                "position": "画面左侧",
+                "action": "转身欲走",
+                "expression": "不可见"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作服",
+                "position": "画面右侧",
+                "action": "手持拖把站立",
+                "expression": "眉毛平展，眼睛注视，嘴巴微动"
+            }
+        ],
+        "background": "酒店大堂全景，水晶帘，栏杆。",
+        "description_narrative": "全景镜头，中年男子转身欲去找妙妙理论，王林手持拖把站在一旁。",
+        "dialogue": "哎呀，真是。",
+        "speaker": "中年男子",
+        "emotion": "无奈",
+        "duration": 1.12,
+        "description_visual": "全景平拍镜头；酒店大堂全景，水晶帘，栏杆。；画面左侧人物，身穿深蓝色中式外套，转身欲走，表情：不可见；画面右侧人物，身穿棕色双排扣工作服，手持拖把站立，表情：眉毛平展，眼睛注视，嘴巴微动。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作服",
+                "position": "画面中央",
+                "action": "抬头说话",
+                "expression": "眉毛微扬，眼睛注视，嘴巴张开"
+            }
+        ],
+        "background": "酒店大堂背景，水晶帘。",
+        "description_narrative": "近景镜头，王林抬头看着中年男子离开的方向，似乎在回应。",
+        "dialogue": "我去跟妙妙说一下",
+        "speaker": "中年男子",
+        "emotion": "急切",
+        "duration": 3.36,
+        "description_visual": "近景平拍镜头；酒店大堂背景，水晶帘。；画面中央人物，身穿棕色双排扣工作服，抬头说话，表情：眉毛微扬，眼睛注视，嘴巴张开。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作服",
+                "position": "画面中央",
+                "action": "手握拖把杆",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店大堂栏杆，模糊背景。",
+        "description_narrative": "特写镜头聚焦王林的手，紧紧握着红色手柄的拖把杆。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；酒店大堂栏杆，模糊背景。；画面中央人物，身穿棕色双排扣工作服，手握拖把杆，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "深蓝色中式外套",
+                "position": "画面左侧，躲在柱后",
+                "action": "探头观察",
+                "expression": "眉毛紧锁，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "走廊背景，白色窗帘。",
+        "description_narrative": "近景镜头，中年男子躲在柱子后，神情严肃地观察着远处。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "担忧",
+        "duration": 2.44,
+        "description_visual": "近景平拍镜头；走廊背景，白色窗帘。；画面左侧，躲在柱后人物，身穿深蓝色中式外套，探头观察，表情：眉毛紧锁，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作服",
+                "position": "画面中央",
+                "action": "弯腰拖地",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店走廊，玻璃栏杆。",
+        "description_narrative": "中景镜头，王林弯腰在走廊上拖地，动作认真。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；酒店走廊，玻璃栏杆。；画面中央人物，身穿棕色双排扣工作服，弯腰拖地，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "深蓝色中式外套",
+                "position": "画面左侧，躲在柱后",
+                "action": "探头观察",
+                "expression": "眉毛紧锁，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "走廊背景，白色窗帘。",
+        "description_narrative": "近景镜头，中年男子依然躲在柱后，目光紧紧锁定王林。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "关切",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；走廊背景，白色窗帘。；画面左侧，躲在柱后人物，身穿深蓝色中式外套，探头观察，表情：眉毛紧锁，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "叠化",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "棕色双排扣工作服",
+                "position": "画面中央",
+                "action": "拖地动作（半透明）",
+                "expression": "不可见"
+            },
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "深蓝色中式外套",
+                "position": "画面左侧",
+                "action": "观察（半透明）",
+                "expression": "不可见"
+            }
+        ],
+        "background": "叠化效果，走廊与柱子背景混合。",
+        "description_narrative": "叠化镜头，王林拖地的身影与中年男子观察的身影重叠，表现两人的关联。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头（叠化）；叠化效果，走廊与柱子背景混合。；画面中央人物，身穿棕色双排扣工作服，拖地动作（半透明），表情：不可见；画面左侧人物，身穿深蓝色中式外套，观察（半透明），表情：不可见。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年男子",
+                "gender": "男",
+                "clothing": "深蓝色中式外套",
+                "position": "画面左侧，躲在柱后",
+                "action": "探头观察",
+                "expression": "眉毛紧锁，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "走廊背景，白色窗帘。",
+        "description_narrative": "近景镜头，中年男子继续躲在柱后观察，神情凝重。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "深思",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；走廊背景，白色窗帘。；画面左侧，躲在柱后人物，身穿深蓝色中式外套，探头观察，表情：眉毛紧锁，眼睛注视，嘴巴紧闭。"
+    }
+]

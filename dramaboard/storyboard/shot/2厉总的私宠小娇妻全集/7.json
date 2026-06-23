@@ -1,0 +1,371 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面右侧",
+                "action": "身体微侧，右手抬起做出手势，头部转向女子",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴张开大笑"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅黄色泡泡袖连衣裙",
+                "position": "画面左侧",
+                "action": "站立，身体正对男子，双手自然下垂",
+                "expression": "眉毛微蹙，眼睛直视男子，嘴巴微张"
+            }
+        ],
+        "background": "室内卧室门口，暖色调灯光，背景有木质门框",
+        "description_narrative": "中景固定镜头，暖色调卧室内，慎行身穿黑色衬衫站在右侧，正对着左侧身穿浅黄色连衣裙的女子大笑，女子表情疑惑地看着他。",
+        "dialogue": "哈哈哈。",
+        "speaker": "慎行",
+        "emotion": "mocking",
+        "duration": 1.12,
+        "description_visual": "中景平拍镜头；室内卧室门口，暖色调灯光，背景有木质门框；画面右侧人物，身穿黑色衬衫，黑色长裤，身体微侧，右手抬起做出手势，头部转向女子，表情：眉毛舒展，眼睛微眯，嘴巴张开大笑；画面左侧人物，身穿浅黄色泡泡袖连衣裙，站立，身体正对男子，双手自然下垂，表情：眉毛微蹙，眼睛直视男子，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅黄色连衣裙",
+                "position": "画面下方/前景",
+                "action": "身体快速向后倒在床上，手臂挥舞",
+                "expression": "无法清晰辨认，伴随动作的模糊影像"
+            }
+        ],
+        "background": "白色床单，枕头，床头柜上的相框",
+        "description_narrative": "俯拍摇镜，画面快速晃动，女子身穿浅黄色连衣裙被推倒在白色床单上，背景可见床头柜和相框。",
+        "dialogue": "慎行，你要做什么？",
+        "speaker": "女子",
+        "emotion": "panic",
+        "duration": 3.24,
+        "description_visual": "特写俯拍镜头（摇镜）；白色床单，枕头，床头柜上的相框；画面下方/前景人物，身穿浅黄色连衣裙，身体快速向后倒在床上，手臂挥舞，表情：无法清晰辨认，伴随动作的模糊影像。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央/前景",
+                "action": "身体前倾压在镜头上方，双手撑在床两侧",
+                "expression": "眉毛微挑，眼睛直视下方，嘴巴微张说话"
+            }
+        ],
+        "background": "卧室天花板灯光，模糊的背景墙面",
+        "description_narrative": "低角度推进镜头，慎行身穿黑色衬衫俯身压在镜头上方，神情强势地看着下方的女子。",
+        "dialogue": "你陪我睡一晚，我就给你钱。",
+        "speaker": "慎行",
+        "emotion": "aggressive",
+        "duration": 3.08,
+        "description_visual": "近景低角度镜头（推进）；卧室天花板灯光，模糊的背景墙面；画面中央/前景人物，身穿黑色衬衫，身体前倾压在镜头上方，双手撑在床两侧，表情：眉毛微挑，眼睛直视下方，嘴巴微张说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅黄色连衣裙",
+                "position": "画面中央",
+                "action": "半躺在床上，双手抓着床单，身体后仰",
+                "expression": "眉毛紧锁，眼睛睁大惊恐，嘴巴张开拒绝"
+            },
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面左侧前景",
+                "action": "背影模糊，肩膀遮挡部分画面",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色枕头，床头软包背景",
+        "description_narrative": "过肩固定镜头，女子半躺在床上，神情惊恐地拒绝，慎行的黑色背影在左侧前景。",
+        "dialogue": "不行，你不能这样。",
+        "speaker": "女子",
+        "emotion": "distress",
+        "duration": 2.32,
+        "description_visual": "中近景过肩镜头；白色枕头，床头软包背景；画面中央人物，身穿浅黄色连衣裙，半躺在床上，双手抓着床单，身体后仰，表情：眉毛紧锁，眼睛睁大惊恐，嘴巴张开拒绝；画面左侧前景人物，身穿黑色衬衫，背影模糊，肩膀遮挡部分画面，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "低头俯视，身体前倾",
+                "expression": "眉毛下压，眼神锐利，嘴巴紧闭"
+            }
+        ],
+        "background": "天花板灯带，模糊的室内背景",
+        "description_narrative": "仰拍特写镜头，慎行低头俯视，面部表情严肃冷峻，光线从上方打下。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "intense",
+        "duration": 1.28,
+        "description_visual": "特写仰拍镜头；天花板灯带，模糊的室内背景；画面中央人物，身穿黑色衬衫，低头俯视，身体前倾，表情：眉毛下压，眼神锐利，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅黄色连衣裙",
+                "position": "画面中央",
+                "action": "躺在枕头上，头部微侧，视线向下",
+                "expression": "眉毛舒展但眼神黯淡，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "白色枕头，柔和的暖光",
+        "description_narrative": "俯拍特写镜头，女子躺在枕头上，眼神低垂，神情悲伤无助，佩戴珍珠耳环。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "sadness",
+        "duration": 6.04,
+        "description_visual": "特写俯拍镜头；白色枕头，柔和的暖光；画面中央人物，身穿浅黄色连衣裙，躺在枕头上，头部微侧，视线向下，表情：眉毛舒展但眼神黯淡，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "拉远",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "身体向后撤，直起腰身",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "卧室天花板，灯带，模糊的墙面",
+        "description_narrative": "低角度拉远镜头，慎行直起身体向后退，表情略显不耐烦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "annoyed",
+        "duration": 2.68,
+        "description_visual": "中景低角度镜头（拉远）；卧室天花板，灯带，模糊的墙面；画面中央人物，身穿黑色衬衫，身体向后撤，直起腰身，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "站立，单手插兜或自然下垂，另一只手微抬",
+                "expression": "眉毛上扬，眼神轻蔑，嘴巴开合说话"
+            }
+        ],
+        "background": "卧室墙面，挂画一角，暖色灯光",
+        "description_narrative": "低角度固定镜头，慎行站立俯视，神情傲慢地发表侮辱性言论。",
+        "dialogue": "如果这是你欲擒故纵勾引男人的把戏，那你顶多算及格。我倒是忘了，你已经不干净了，20 万",
+        "speaker": "慎行",
+        "emotion": "contempt",
+        "duration": 10.08,
+        "description_visual": "中景低角度镜头；卧室墙面，挂画一角，暖色灯光；画面中央人物，身穿黑色衬衫，黑色长裤，站立，单手插兜或自然下垂，另一只手微抬，表情：眉毛上扬，眼神轻蔑，嘴巴开合说话。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "站立，手指做出数钱或指示动作",
+                "expression": "嘴角下撇，眼神冷漠，嘴巴闭合后微张"
+            }
+        ],
+        "background": "卧室门口，柜子一角，暖色灯光",
+        "description_narrative": "平拍固定镜头，慎行站立，语气冰冷地补充说完最后一句侮辱的话。",
+        "dialogue": "你也就值这个价了。",
+        "speaker": "慎行",
+        "emotion": "cold",
+        "duration": 3.84,
+        "description_visual": "中景平拍镜头；卧室门口，柜子一角，暖色灯光；画面中央人物，身穿黑色衬衫，黑色长裤，站立，手指做出数钱或指示动作，表情：嘴角下撇，眼神冷漠，嘴巴闭合后微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅黄色连衣裙",
+                "position": "画面中央",
+                "action": "侧躺，双手抓紧胸前衣领",
+                "expression": "眉毛紧蹙，眼睛含泪，嘴巴微张颤抖"
+            }
+        ],
+        "background": "白色枕头，柔和模糊的背景",
+        "description_narrative": "侧拍特写镜头，女子侧躺在床上，双手紧抓衣领，眼中含泪，神情极度痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "heartbroken",
+        "duration": 7.8,
+        "description_visual": "特写侧拍镜头；白色枕头，柔和模糊的背景；画面中央人物，身穿浅黄色连衣裙，侧躺，双手抓紧胸前衣领，表情：眉毛紧蹙，眼睛含泪，嘴巴微张颤抖。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅黄色连衣裙",
+                "position": "画面中央",
+                "action": "头部后仰，双手握拳放在胸前",
+                "expression": "双眼紧闭，眉头紧锁，嘴角下撇哭泣"
+            }
+        ],
+        "background": "白色床品，虚化的背景",
+        "description_narrative": "仰拍特写镜头，女子闭眼哭泣，面部表情扭曲，显示出内心的崩溃。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "despair",
+        "duration": 7.84,
+        "description_visual": "特写仰拍镜头；白色床品，虚化的背景；画面中央人物，身穿浅黄色连衣裙，头部后仰，双手握拳放在胸前，表情：双眼紧闭，眉头紧锁，嘴角下撇哭泣。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "白色衣物",
+                "position": "背景/床上",
+                "action": "腿部可见，躺在床上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室门缝视角，可见床和台灯",
+        "description_narrative": "透过门缝的固定镜头，视角狭窄，可见卧室内床上有人躺着，台灯亮着。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "中景平拍镜头；卧室门缝视角，可见床和台灯；背景/床上人物，身穿白色衣物，腿部可见，躺在床上，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "低头沉思，头部微晃",
+                "expression": "眉毛紧锁，眼神游离，嘴巴微张"
+            }
+        ],
+        "background": "模糊的地毯纹理，暖色光线",
+        "description_narrative": "俯拍摇镜，画面略显模糊，慎行低头回忆，神情困惑，似乎在回想刚才的细节。",
+        "dialogue": "刚刚那一幕，那眼神还有他身上的味道，都和昨晚的女人极其相似。莫非是我认错人了，错把贝贝当成了他，而且",
+        "speaker": "慎行 (画外音)",
+        "emotion": "confused",
+        "duration": 10.0,
+        "description_visual": "特写俯拍镜头（摇镜）；模糊的地毯纹理，暖色光线；画面中央人物，身穿黑色衬衫，低头沉思，头部微晃，表情：眉毛紧锁，眼神游离，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "浅黄色连衣裙",
+                "position": "画面中央",
+                "action": "躺在床上，画面呈现红色滤镜效果",
+                "expression": "表情痛苦，嘴巴微张"
+            },
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "左侧前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红色滤镜覆盖的卧室场景",
+        "description_narrative": "过肩固定镜头，画面笼罩在红色滤镜中，闪回女子之前痛苦挣扎的画面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "memory",
+        "duration": 2.24,
+        "description_visual": "中近景过肩镜头；红色滤镜覆盖的卧室场景；画面中央人物，身穿浅黄色连衣裙，躺在床上，画面呈现红色滤镜效果，表情：表情痛苦，嘴巴微张；左侧前景人物，身穿黑色衬衫，背影，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慎行",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向远方",
+                "expression": "眉毛微挑，眼神疑惑，嘴巴微闭"
+            }
+        ],
+        "background": "模糊的墙面挂画，暖色室内光",
+        "description_narrative": "侧拍特写镜头，慎行神情迟疑，眼神中流露出后悔和不确定，似乎在自我反思。",
+        "dialogue": "他刚刚对我的抗拒不像是装的，难道是我误会了？",
+        "speaker": "慎行 (画外音)",
+        "emotion": "regretful",
+        "duration": 9.12,
+        "description_visual": "特写侧拍镜头；模糊的墙面挂画，暖色室内光；画面中央人物，身穿黑色衬衫，头部微侧，眼神看向远方，表情：眉毛微挑，眼神疑惑，嘴巴微闭。"
+    }
+]

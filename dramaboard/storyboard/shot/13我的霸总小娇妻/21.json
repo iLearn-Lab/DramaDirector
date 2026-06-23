@@ -1,0 +1,440 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面中央",
+                "action": "闭眼躺在床上，头部枕在白色枕头上，呼吸平稳",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "卧室床上，白色枕头和被子，光线柔和",
+        "description_narrative": "特写俯拍镜头，女子闭眼躺在白色枕头上，黑色长发散开，身穿黑色吊带睡衣，表情平静正在熟睡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "特写俯拍镜头；卧室床上，白色枕头和被子，光线柔和；画面中央人物，身穿黑色吊带睡衣，闭眼躺在床上，头部枕在白色枕头上，呼吸平稳，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "脸埋在枕头里，身体趴在床上",
+                "expression": "眉毛不可见，眼睛闭合，嘴巴被枕头遮挡"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面左侧",
+                "action": "手部可见，似乎刚醒来或正在推搡",
+                "expression": "不可见"
+            }
+        ],
+        "background": "卧室床上，白色床单，背景模糊",
+        "description_narrative": "特写镜头，王林脸朝下趴在床上，身穿白色衬衫，女子在旁醒来，愤怒地指责王林。",
+        "dialogue": "王林你个王八蛋，吃我豆腐啊",
+        "speaker": "女子",
+        "emotion": "愤怒",
+        "duration": 4.2,
+        "description_visual": "特写平拍镜头；卧室床上，白色床单，背景模糊；画面中央人物，身穿白色衬衫，脸埋在枕头里，身体趴在床上，表情：眉毛不可见，眼睛闭合，嘴巴被枕头遮挡；画面左侧人物，身穿黑色吊带睡衣，手部可见，似乎刚醒来或正在推搡，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "正在起身，动作模糊",
+                "expression": "表情困惑，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面左侧",
+                "action": "躺在床上，手臂伸出",
+                "expression": "表情愤怒"
+            }
+        ],
+        "background": "卧室床上，白色被子，动态模糊",
+        "description_narrative": "中景摇镜，画面动态模糊，王林正在起身，身穿白色衬衫，困惑地回应女子的指责。",
+        "dialogue": "啊，什么吃豆腐啊",
+        "speaker": "王林",
+        "emotion": "困惑",
+        "duration": 3.04,
+        "description_visual": "中景平拍镜头（摇镜）；卧室床上，白色被子，动态模糊；画面右侧人物，身穿白色衬衫，正在起身，动作模糊，表情：表情困惑，嘴巴微张；画面左侧人物，身穿黑色吊带睡衣，躺在床上，手臂伸出，表情：表情愤怒。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面左侧",
+                "action": "手臂挥动，似乎在扔东西",
+                "expression": "不可见"
+            }
+        ],
+        "background": "白色被子，动态模糊",
+        "description_narrative": "特写跟拍，女子手臂挥动，白色被子或枕头被扬起，伴随一声惊呼。",
+        "dialogue": "哎",
+        "speaker": "王林",
+        "emotion": "惊讶",
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头（跟拍）；白色被子，动态模糊；画面左侧人物，身穿黑色吊带睡衣，手臂挥动，似乎在扔东西，表情：不可见。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面左侧床上",
+                "action": "坐起，抱着白色被子护在胸前",
+                "expression": "表情警惕"
+            },
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫，黑色长裤",
+                "position": "画面右侧门口",
+                "action": "弯腰从门口进入，手扶着门框",
+                "expression": "表情慌张"
+            }
+        ],
+        "background": "卧室全景，木质衣柜，卫生间门口",
+        "description_narrative": "全景固定镜头，女子坐在床上抱着被子，王林站在卫生间门口，身穿白衬衫黑裤子，试图靠近解释。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.96,
+        "description_visual": "全景平拍镜头；卧室全景，木质衣柜，卫生间门口；画面左侧床上人物，身穿黑色吊带睡衣，坐起，抱着白色被子护在胸前，表情：表情警惕；画面右侧门口人物，身穿白色衬衫，黑色长裤，弯腰从门口进入，手扶着门框，表情：表情慌张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面中央",
+                "action": "抱着被子，身体后仰",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴张开大声说话"
+            }
+        ],
+        "background": "卧室床头，木质条纹背景墙",
+        "description_narrative": "近景固定镜头，女子坐在床上，表情愤怒，拒绝听王林解释，大声让他闭嘴。",
+        "dialogue": "哎别，你听我解释，不是你想的那样。(画外音) 我不听，我听你解释个鬼。",
+        "speaker": "王林",
+        "emotion": "焦急/愤怒",
+        "duration": 5.64,
+        "description_visual": "近景平拍镜头；卧室床头，木质条纹背景墙；画面中央人物，身穿黑色吊带睡衣，抱着被子，身体后仰，表情：眉毛紧蹙，眼睛瞪大，嘴巴张开大声说话。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "双手抱着一个白色枕头",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "卫生间门口，绿色大理石墙面",
+        "description_narrative": "中近景固定镜头，王林站在卫生间门口，双手抱着白色枕头，无奈地表示事实摆在眼前。",
+        "dialogue": "事实已经摆在眼前了。",
+        "speaker": "女子",
+        "emotion": "无奈",
+        "duration": 2.52,
+        "description_visual": "中近景平拍镜头；卫生间门口，绿色大理石墙面；画面中央人物，身穿白色衬衫，双手抱着一个白色枕头，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面中央",
+                "action": "抱着被子，手指捏着被角",
+                "expression": "眉毛紧蹙，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，木质条纹背景墙",
+        "description_narrative": "近景固定镜头，女子坐在床上，表情怀疑，王林在画外音中喊冤并询问她是否记得昨天肚子疼。",
+        "dialogue": "我冤枉，你还记得昨天你肚子疼吗",
+        "speaker": "王林",
+        "emotion": "委屈",
+        "duration": 4.04,
+        "description_visual": "近景平拍镜头；卧室床头，木质条纹背景墙；画面中央人物，身穿黑色吊带睡衣，抱着被子，手指捏着被角，表情：眉毛紧蹙，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "双手抱着白色枕头",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "卫生间门口，绿色大理石墙面",
+        "description_narrative": "中近景固定镜头，王林抱着枕头站在门口，画外音中女子回忆说记得疼，但后来不记得发生什么了。",
+        "dialogue": "我记得啊，疼着疼着就不记得发生什么了。",
+        "speaker": "女子",
+        "emotion": "回忆",
+        "duration": 3.68,
+        "description_visual": "中近景平拍镜头；卫生间门口，绿色大理石墙面；画面中央人物，身穿白色衬衫，双手抱着白色枕头，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面中央",
+                "action": "抱着被子，手指捏着被角",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，木质条纹背景墙",
+        "description_narrative": "近景固定镜头，女子坐在床上，表情疑惑，王林在画外音中解释昨天给她走针控制肚子疼。",
+        "dialogue": "我昨天给你走针，控制住你肚子疼。",
+        "speaker": "王林",
+        "emotion": "解释",
+        "duration": 3.52,
+        "description_visual": "近景平拍镜头；卧室床头，木质条纹背景墙；画面中央人物，身穿黑色吊带睡衣，抱着被子，手指捏着被角，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面中央",
+                "action": "抱着被子，双手紧握",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，木质条纹背景墙",
+        "description_narrative": "近景固定镜头，女子坐在床上，表情愤怒地指责王林后来把她拽倒了。",
+        "dialogue": "后来你就把我拽倒了",
+        "speaker": "女子",
+        "emotion": "愤怒",
+        "duration": 3.32,
+        "description_visual": "近景平拍镜头；卧室床头，木质条纹背景墙；画面中央人物，身穿黑色吊带睡衣，抱着被子，双手紧握，表情：眉毛紧蹙，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "双手抱着白色枕头",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "卫生间门口，绿色大理石墙面",
+        "description_narrative": "中近景固定镜头，王林抱着枕头，画外音中女子质问他在撒谎，逼问昨天到底做了什么，王林解释说是因为太费精力才倒下的。",
+        "dialogue": "你怎么可能你撒谎？昨天到底对我做了什么，你赶紧说呀。(画外音) 昨天我就给你走针，后来太费精力，你就把我拽倒了。",
+        "speaker": "女子",
+        "emotion": "质问/解释",
+        "duration": 10.08,
+        "description_visual": "中近景平拍镜头；卫生间门口，绿色大理石墙面；画面中央人物，身穿白色衬衫，双手抱着白色枕头，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面中央",
+                "action": "抱着被子，眼神斜视",
+                "expression": "眉毛微挑，眼睛斜视，嘴巴微张"
+            }
+        ],
+        "background": "卧室床头，木质条纹背景墙",
+        "description_narrative": "近景固定镜头，女子坐在床上，画外音中王林说夫妻睡床上没问题，女子 sarcastic 地反问是不是还得谢谢他。",
+        "dialogue": "再说咱们俩夫妻睡床上，没问题吧？(画外音) 那我还得谢谢你呗。",
+        "speaker": "王林",
+        "emotion": "调情/讽刺",
+        "duration": 7.0,
+        "description_visual": "近景平拍镜头；卧室床头，木质条纹背景墙；画面中央人物，身穿黑色吊带睡衣，抱着被子，眼神斜视，表情：眉毛微挑，眼睛斜视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "身体微倾，面带微笑",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "卫生间门口，绿色大理石墙面",
+        "description_narrative": "中近景固定镜头，王林面带微笑，画外音中女子哼了一声说谢谢不要了，王林顺势说那就以身相许。",
+        "dialogue": "哼，谢谢就不要了。(画外音) 以身相许吧。",
+        "speaker": "女子",
+        "emotion": "傲娇/调情",
+        "duration": 3.44,
+        "description_visual": "中近景平拍镜头；卫生间门口，绿色大理石墙面；画面中央人物，身穿白色衬衫，身体微倾，面带微笑，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面中央",
+                "action": "抱着被子，身体准备动作",
+                "expression": "眉毛紧蹙，眼睛瞪大，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头，木质条纹背景墙",
+        "description_narrative": "近景固定镜头，女子坐在床上，听到王林的调情后，表情变得愤怒，准备扔枕头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；卧室床头，木质条纹背景墙；画面中央人物，身穿黑色吊带睡衣，抱着被子，身体准备动作，表情：眉毛紧蹙，眼睛瞪大，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑色吊带睡衣",
+                "position": "画面中央",
+                "action": "用力将白色枕头扔向画面外",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴张开"
+            }
+        ],
+        "background": "卧室床头，木质条纹背景墙，动态模糊",
+        "description_narrative": "近景跟拍，女子愤怒地将白色枕头用力扔向王林，动作幅度大，画面动态模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "愤怒",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头（跟拍）；卧室床头，木质条纹背景墙，动态模糊；画面中央人物，身穿黑色吊带睡衣，用力将白色枕头扔向画面外，表情：眉毛紧蹙，眼睛紧闭，嘴巴张开。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "抱着枕头，身体微侧",
+                "expression": "眉毛微挑，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "卫生间门口，绿色大理石墙面",
+        "description_narrative": "中近景固定镜头，王林抱着枕头站在门口，画外音中女子大声让他出去。",
+        "dialogue": "出去",
+        "speaker": "女子",
+        "emotion": "命令",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头；卫生间门口，绿色大理石墙面；画面中央人物，身穿白色衬衫，抱着枕头，身体微侧，表情：眉毛微挑，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "抱着枕头，转身准备离开",
+                "expression": "眉毛舒展，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "卫生间门口，绿色大理石墙面",
+        "description_narrative": "中近景固定镜头，王林抱着枕头，无奈地转身准备离开房间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "无奈",
+        "duration": 2.76,
+        "description_visual": "中近景平拍镜头；卫生间门口，绿色大理石墙面；画面中央人物，身穿白色衬衫，抱着枕头，转身准备离开，表情：眉毛舒展，眼睛下视，嘴巴紧闭。"
+    }
+]

@@ -1,0 +1,517 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蒙面人",
+                "gender": "男",
+                "clothing": "黑色衣物，黑色面罩",
+                "position": "画面中央",
+                "action": "头部微侧，双眼直视前方",
+                "expression": "眉毛被面罩遮挡，眼睛眯起，嘴巴被面罩遮挡"
+            }
+        ],
+        "background": "黑暗环境，无明显背景细节，光线极暗",
+        "description_narrative": "特写镜头，固定机位。黑暗中，蒙面人身穿黑衣，头戴黑色面罩只露出双眼，眼神阴冷地直视前方，处于阴影之中。",
+        "dialogue": "你就是冯磊，这么年轻，哈哈，可惜了。",
+        "speaker": "蒙面人",
+        "emotion": "阴险",
+        "duration": 6.2,
+        "description_visual": "特写平拍镜头；黑暗环境，无明显背景细节，光线极暗；画面中央人物，身穿黑色衣物，黑色面罩，头部微侧，双眼直视前方，表情：眉毛被面罩遮挡，眼睛眯起，嘴巴被面罩遮挡。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面中央",
+                "action": "快速行走，身体因运动产生模糊",
+                "expression": "面部模糊不清，无法辨识具体表情"
+            }
+        ],
+        "background": "室外街道或庭院，背景有模糊的建筑和盆栽，色调偏冷",
+        "description_narrative": "中景镜头，摇镜跟随。叶柔身穿黄色波点连衣裙在室外快速行走，画面因运动产生强烈的动态模糊，背景为冷色调的建筑和盆栽。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.17,
+        "description_visual": "中景平拍镜头（摇镜）；室外街道或庭院，背景有模糊的建筑和盆栽，色调偏冷；画面中央人物，身穿黄色波点连衣裙，快速行走，身体因运动产生模糊，表情：面部模糊不清，无法辨识具体表情。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "侧身站立，双手交叠在身前，头部微转",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张似在说话"
+            }
+        ],
+        "background": "门口区域，白色砖墙，室内光线较暗，室外阳光强烈",
+        "description_narrative": "中近景镜头，固定机位。叶柔站在门口，阳光洒在黄色连衣裙上，她侧身站立，眉头微蹙，神情担忧地看向一侧，似乎在询问某人。",
+        "dialogue": "他怎么还没回来，磊哥。",
+        "speaker": "叶柔",
+        "emotion": "担忧",
+        "duration": 2.63,
+        "description_visual": "中近景平拍镜头；门口区域，白色砖墙，室内光线较暗，室外阳光强烈；画面左侧人物，身穿黄色波点连衣裙，侧身站立，双手交叠在身前，头部微转，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张似在说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面右侧",
+                "action": "低头，视线向下",
+                "expression": "眉毛微皱，眼睛下视，嘴巴微闭"
+            }
+        ],
+        "background": "室内背景，模糊的蓝色调，可能有窗户或家具",
+        "description_narrative": "特写镜头，固定机位。磊哥身穿黄色花衬衫，低头看向下方，神情似乎在思考或寻找什么，背景为模糊的冷色调室内环境。",
+        "dialogue": "冯磊。",
+        "speaker": "磊哥",
+        "emotion": "疑惑",
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；室内背景，模糊的蓝色调，可能有窗户或家具；画面右侧人物，身穿黄色花衬衫，白色内搭，低头，视线向下，表情：眉毛微皱，眼睛下视，嘴巴微闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面中央",
+                "action": "抬头看向侧方，嘴巴张开",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴张开呈询问状"
+            }
+        ],
+        "background": "室内背景，模糊的蓝色调",
+        "description_narrative": "近景镜头，固定机位。磊哥突然抬头，眼神急切地看向侧方，嘴巴张开大声询问，表情显得不耐烦。",
+        "dialogue": "房里人呢？让他出来，找他有事。",
+        "speaker": "磊哥",
+        "emotion": "急躁",
+        "duration": 4.1,
+        "description_visual": "近景平拍镜头；室内背景，模糊的蓝色调；画面中央人物，身穿黄色花衬衫，白色内搭，抬头看向侧方，嘴巴张开，表情：眉毛上扬，眼睛睁大，嘴巴张开呈询问状。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "双手交握垂在身前，身体正对前方",
+                "expression": "眉毛舒展，眼神平静略带警惕，嘴巴紧闭"
+            }
+        ],
+        "background": "门口区域，白色砖墙，室内昏暗",
+        "description_narrative": "中景镜头，固定机位。叶柔站在门口光亮处，双手交握，神情平静但略带警惕地看着对面的人，阳光勾勒出她的轮廓。",
+        "dialogue": "你怎么来了？",
+        "speaker": "叶柔",
+        "emotion": "警惕",
+        "duration": 4.7,
+        "description_visual": "中景平拍镜头；门口区域，白色砖墙，室内昏暗；画面左侧人物，身穿黄色波点连衣裙，双手交握垂在身前，身体正对前方，表情：眉毛舒展，眼神平静略带警惕，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面中央",
+                "action": "抬头向上看，眼神游移",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊的蓝色调",
+        "description_narrative": "近景镜头，固定机位。磊哥抬头向上看，眼神中带着探究和一丝恶意，嘴巴微张似乎在追问某人的下落。",
+        "dialogue": "他昨天一晚上没回来，你知道他去哪了吗？",
+        "speaker": "磊哥",
+        "emotion": "探究",
+        "duration": 3.8,
+        "description_visual": "近景平拍镜头；室内背景，模糊的蓝色调；画面中央人物，身穿黄色花衬衫，白色内搭，抬头向上看，眼神游移，表情：眉毛微挑，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面右侧",
+                "action": "低头，手部有模糊动作",
+                "expression": "眉毛下垂，眼睛下视，嘴巴微抿"
+            }
+        ],
+        "background": "室内背景，模糊的蓝色调",
+        "description_narrative": "近景镜头，固定机位。磊哥低下头，视线向下，手部有模糊的动作，似乎在自言自语或思考，表情变得阴沉。",
+        "dialogue": "他一晚上没回来。",
+        "speaker": "磊哥",
+        "emotion": "阴沉",
+        "duration": 4.7,
+        "description_visual": "近景平拍镜头；室内背景，模糊的蓝色调；画面右侧人物，身穿黄色花衬衫，白色内搭，低头，手部有模糊动作，表情：眉毛下垂，眼睛下视，嘴巴微抿。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面中央",
+                "action": "抬头，嘴角微扬",
+                "expression": "眉毛舒展，眼睛斜视，嘴角上扬露出恶意笑容"
+            }
+        ],
+        "background": "室内背景，模糊的蓝色调",
+        "description_narrative": "近景镜头，固定机位。磊哥抬起头，嘴角上扬露出一丝恶意的笑容，眼神斜视，语气轻浮地揣测他人的遭遇。",
+        "dialogue": "八成啊不是掉到河里淹死了",
+        "speaker": "磊哥",
+        "emotion": "恶意",
+        "duration": 3.7,
+        "description_visual": "近景平拍镜头；室内背景，模糊的蓝色调；画面中央人物，身穿黄色花衬衫，白色内搭，抬头，嘴角微扬，表情：眉毛舒展，眼睛斜视，嘴角上扬露出恶意笑容。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面中央",
+                "action": "身体微侧，头部转向说话者",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张表示惊讶和愤怒"
+            }
+        ],
+        "background": "门口区域，白色砖墙，室内背景模糊",
+        "description_narrative": "中近景镜头，固定机位。叶柔听到恶毒的揣测后，眉头紧蹙，眼神中充满愤怒和不可置信，嘴巴微张准备反驳。",
+        "dialogue": "你胡说什么呢？你。",
+        "speaker": "叶柔",
+        "emotion": "愤怒",
+        "duration": 1.8,
+        "description_visual": "中近景平拍镜头；门口区域，白色砖墙，室内背景模糊；画面中央人物，身穿黄色波点连衣裙，身体微侧，头部转向说话者，表情：眉毛微蹙，眼睛睁大，嘴巴微张表示惊讶和愤怒。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面中央",
+                "action": "低头，眼神向下",
+                "expression": "眉毛微皱，眼睛下视，嘴巴微动"
+            }
+        ],
+        "background": "室内背景，模糊的蓝色调",
+        "description_narrative": "近景镜头，固定机位。磊哥低下头，眼神变得暧昧且带有威胁性，提起当年的旧事，表情显得洋洋自得。",
+        "dialogue": "叶柔，当年你悔婚，不知道你有没有想过今天呀？",
+        "speaker": "磊哥",
+        "emotion": "威胁",
+        "duration": 6.43,
+        "description_visual": "近景平拍镜头；室内背景，模糊的蓝色调；画面中央人物，身穿黄色花衬衫，白色内搭，低头，眼神向下，表情：眉毛微皱，眼睛下视，嘴巴微动。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "站立，头部微垂",
+                "expression": "眉毛舒展，眼睛微闭或下视，嘴角略带苦笑或无奈"
+            }
+        ],
+        "background": "门口区域，白色砖墙",
+        "description_narrative": "中近景镜头，固定机位。叶柔听着对方的言语骚扰，微微垂下头，嘴角带着一丝无奈或轻蔑的笑意，没有立即回应。",
+        "dialogue": "叶柔啊。",
+        "speaker": "磊哥",
+        "emotion": "轻浮",
+        "duration": 1.93,
+        "description_visual": "中近景平拍镜头；门口区域，白色砖墙；画面左侧人物，身穿黄色波点连衣裙，站立，头部微垂，表情：眉毛舒展，眼睛微闭或下视，嘴角略带苦笑或无奈。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "直视前方，身体紧绷",
+                "expression": "眉毛微蹙，眼神坚定，嘴巴紧闭"
+            },
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫",
+                "position": "右前景",
+                "action": "身体前倾，靠近叶柔",
+                "expression": "不可见"
+            }
+        ],
+        "background": "门口区域，白色砖墙",
+        "description_narrative": "中近景镜头，过肩视角。磊哥的身影出现在右前景，逼近叶柔。叶柔站在左侧，眼神坚定地直视对方，身体微微紧绷，面对对方的无理要求。",
+        "dialogue": "要是冯磊没了 不如你嫁给我 我一个人好好爱你。把手给我拿下来。",
+        "speaker": "磊哥",
+        "emotion": "骚扰",
+        "duration": 9.4,
+        "description_visual": "中近景过肩镜头；门口区域，白色砖墙；画面左侧人物，身穿黄色波点连衣裙，直视前方，身体紧绷，表情：眉毛微蹙，眼神坚定，嘴巴紧闭；右前景人物，身穿黄色花衬衫，身体前倾，靠近叶柔，表情：不可见。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面中央",
+                "action": "头部微侧，嘴巴张开",
+                "expression": "眉毛上扬，眼睛看侧方，嘴巴张开说话"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头，固定机位。磊哥侧着头，嘴巴张开继续说着什么，表情显得急切且自以为是。",
+        "dialogue": "我。",
+        "speaker": "磊哥",
+        "emotion": "急切",
+        "duration": 0.7,
+        "description_visual": "特写平拍镜头；室内背景，模糊；画面中央人物，身穿黄色花衬衫，白色内搭，头部微侧，嘴巴张开，表情：眉毛上扬，眼睛看侧方，嘴巴张开说话。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面右侧",
+                "action": "侧脸，视线向前",
+                "expression": "眉毛微皱，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头，侧拍。磊哥侧着脸，视线向前，表情突然变得有些疑惑或停顿，似乎在等待对方的反应。",
+        "dialogue": "嗯。",
+        "speaker": "磊哥",
+        "emotion": "疑惑",
+        "duration": 0.6,
+        "description_visual": "特写侧拍镜头；室内背景，模糊；画面右侧人物，身穿黄色花衬衫，白色内搭，侧脸，视线向前，表情：眉毛微皱，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面右侧",
+                "action": "侧脸，视线向右上方",
+                "expression": "眉毛舒展，眼睛向右上方看，嘴巴微闭"
+            }
+        ],
+        "background": "室内背景，模糊",
+        "description_narrative": "特写镜头，侧拍。磊哥保持侧脸姿势，视线突然转向右上方，似乎注意到了什么异常情况，表情开始发生变化。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "察觉",
+        "duration": 1.07,
+        "description_visual": "特写侧拍镜头；室内背景，模糊；画面右侧人物，身穿黄色花衬衫，白色内搭，侧脸，视线向右上方，表情：眉毛舒展，眼睛向右上方看，嘴巴微闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面左侧",
+                "action": "头部急转，嘴巴张大",
+                "expression": "眉毛高挑，眼睛瞪大，嘴巴张大呈惊恐状"
+            }
+        ],
+        "background": "室外建筑墙面，模糊",
+        "description_narrative": "特写镜头，侧拍。磊哥头部急转，眼睛瞪大，嘴巴张开呈O型，脸上露出极度惊恐的表情，仿佛看到了不可思议的东西。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊恐",
+        "duration": 0.6,
+        "description_visual": "特写侧拍镜头；室外建筑墙面，模糊；画面左侧人物，身穿黄色花衬衫，白色内搭，头部急转，嘴巴张大，表情：眉毛高挑，眼睛瞪大，嘴巴张大呈惊恐状。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面左侧",
+                "action": "侧脸，嘴巴张开",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴张开发出声音"
+            }
+        ],
+        "background": "门口区域，室内背景昏暗",
+        "description_narrative": "近景镜头，侧拍。磊哥侧着脸，依然保持着惊恐的表情，嘴巴张开发出惊呼声，身体似乎向后仰。",
+        "dialogue": "哎。",
+        "speaker": "磊哥",
+        "emotion": "惊吓",
+        "duration": 1.0,
+        "description_visual": "近景侧拍镜头；门口区域，室内背景昏暗；画面左侧人物，身穿黄色花衬衫，白色内搭，侧脸，嘴巴张开，表情：眉毛紧锁，眼睛瞪视，嘴巴张开发出声音。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "站立，低头",
+                "expression": "眉毛微蹙，眼睛下视，表情平静"
+            },
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面右侧",
+                "action": "站立，身体后仰，手指向前",
+                "expression": "眉毛高挑，眼睛瞪大，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，背景有家具和窗户",
+        "description_narrative": "中景镜头，固定机位。叶柔低头站在左侧，神情平静。磊哥站在右侧，身体后仰，手指向前方，脸上满是惊恐和难以置信。",
+        "dialogue": "嗯。",
+        "speaker": "磊哥",
+        "emotion": "恐惧",
+        "duration": 0.67,
+        "description_visual": "中景平拍镜头；室内房间，背景有家具和窗户；画面左侧人物，身穿黄色波点连衣裙，站立，低头，表情：眉毛微蹙，眼睛下视，表情平静；画面右侧人物，身穿黄色花衬衫，白色内搭，站立，身体后仰，手指向前，表情：眉毛高挑，眼睛瞪大，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "站立，侧脸",
+                "expression": "眉毛舒展，眼神看向前方，表情淡然"
+            },
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面右侧",
+                "action": "伸出手指指向前方，身体颤抖",
+                "expression": "眉毛紧锁，眼睛瞪圆，嘴巴大张"
+            }
+        ],
+        "background": "室内房间，背景模糊",
+        "description_narrative": "中景镜头，固定机位。磊哥伸出颤抖的手指指向前方，眼睛瞪圆，嘴巴大张地质问。叶柔站在一旁，表情淡然地看着前方。",
+        "dialogue": "你是人是鬼",
+        "speaker": "磊哥",
+        "emotion": "极度恐惧",
+        "duration": 2.8,
+        "description_visual": "中景平拍镜头；室内房间，背景模糊；画面左侧人物，身穿黄色波点连衣裙，站立，侧脸，表情：眉毛舒展，眼神看向前方，表情淡然；画面右侧人物，身穿黄色花衬衫，白色内搭，伸出手指指向前方，身体颤抖，表情：眉毛紧锁，眼睛瞪圆，嘴巴大张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色波点连衣裙",
+                "position": "画面左侧",
+                "action": "站立",
+                "expression": "面部部分可见，眼神看向前方"
+            },
+            {
+                "name": "磊哥",
+                "gender": "男",
+                "clothing": "黄色花衬衫，白色内搭",
+                "position": "画面右侧",
+                "action": "站立，手指指向前方",
+                "expression": "表情惊恐，嘴巴微张"
+            }
+        ],
+        "background": "室内房间，光线明亮",
+        "description_narrative": "中景镜头，固定机位。画面略显模糊，磊哥依然保持着指向的动作，表情惊恐未消。叶柔站在左侧，两人对峙，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.47,
+        "description_visual": "中景平拍镜头；室内房间，光线明亮；画面左侧人物，身穿黄色波点连衣裙，站立，表情：面部部分可见，眼神看向前方；画面右侧人物，身穿黄色花衬衫，白色内搭，站立，手指指向前方，表情：表情惊恐，嘴巴微张。"
+    }
+]

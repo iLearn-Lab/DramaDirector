@@ -1,0 +1,620 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "蓝衣中年男子",
+                "gender": "男",
+                "clothing": "浅蓝色短袖衬衫，黑色长裤",
+                "position": "画面中央",
+                "action": "坐在木桌旁，身体微侧，左手搭在桌沿，抬头向右上方看",
+                "expression": "眉毛微挑，眼睛看向斜上方，嘴巴微张正在说话"
+            }
+        ],
+        "background": "红砖墙背景，光线自然，桌上有酒杯",
+        "description_narrative": "中景固定镜头，蓝衣中年男子坐在户外木桌旁，身穿浅蓝色短袖衬衫，身体微侧，左手搭在桌沿，抬头向右上方看去，嘴巴微张说道：“我还有点事，你们玩。”",
+        "dialogue": "我还有点事，你们玩。",
+        "speaker": "蓝衣中年男子",
+        "emotion": "随意",
+        "duration": 2.6,
+        "description_visual": "中景平拍镜头；红砖墙背景，光线自然，桌上有酒杯；画面中央人物，身穿浅蓝色短袖衬衫，黑色长裤，坐在木桌旁，身体微侧，左手搭在桌沿，抬头向右上方看，表情：眉毛微挑，眼睛看向斜上方，嘴巴微张正在说话。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套，白色背心",
+                "position": "画面右侧",
+                "action": "坐在桌边，抬头看向站立的蓝衣男子，右手微抬",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张面带微笑"
+            },
+            {
+                "name": "蓝衣中年男子",
+                "gender": "男",
+                "clothing": "浅蓝色短袖衬衫",
+                "position": "画面左侧前景",
+                "action": "站立，背对镜头，只露出部分身体",
+                "expression": "不可见"
+            }
+        ],
+        "background": "庭院背景，有红色门框和植物",
+        "description_narrative": "低角度中近景，成功坐在桌边，身穿棕色夹克内搭白色背心，抬头看向面前站立的蓝衣中年男子，右手微抬，面带微笑客气地说道：“您先走。”",
+        "dialogue": "您先走。",
+        "speaker": "成功",
+        "emotion": "客气",
+        "duration": 0.56,
+        "description_visual": "中近景低角度镜头；庭院背景，有红色门框和植物；画面右侧人物，身穿棕色夹克外套，白色背心，坐在桌边，抬头看向站立的蓝衣男子，右手微抬，表情：眉毛舒展，眼睛注视对方，嘴巴微张面带微笑；画面左侧前景人物，身穿浅蓝色短袖衬衫，站立，背对镜头，只露出部分身体，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "蓝衣中年男子",
+                "gender": "男",
+                "clothing": "浅蓝色短袖衬衫，黑色长裤",
+                "position": "画面前景",
+                "action": "转身向画面右侧走去，背影占据大部分画面",
+                "expression": "不可见"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色吊带背心",
+                "position": "画面左后景",
+                "action": "坐在桌边，目光跟随蓝衣男子",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微闭"
+            }
+        ],
+        "background": "红砖墙，桌上有酒瓶和食物",
+        "description_narrative": "跟拍中景，蓝衣中年男子转身向右侧走去，背影占据前景，后景中白衣女子坐在桌边，目光跟随其移动，桌上摆放着酒瓶和食物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.04,
+        "description_visual": "中景平拍镜头（跟拍）；红砖墙，桌上有酒瓶和食物；画面前景人物，身穿浅蓝色短袖衬衫，黑色长裤，转身向画面右侧走去，背影占据大部分画面，表情：不可见；画面左后景人物，身穿白色吊带背心，坐在桌边，目光跟随蓝衣男子，表情：眉毛平展，眼睛注视前方，嘴巴微闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色吊带背心",
+                "position": "画面左侧",
+                "action": "身体前倾，靠近成功，左手搭在成功肩颈处，嘴贴近成功耳边",
+                "expression": "眼睛微闭，嘴巴嘟起似乎在亲吻或耳语"
+            },
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套",
+                "position": "画面右侧",
+                "action": "头部微低，眼神向下，表情冷漠",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "红砖墙背景，虚化",
+        "description_narrative": "特写固定镜头，白衣女子身体前倾靠近成功，左手搭在其肩颈处，嘴贴近成功耳边似乎在亲吻或低语，成功头部微低，眼神向下，表情冷漠。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "亲密/冷漠",
+        "duration": 2.02,
+        "description_visual": "特写平拍镜头；红砖墙背景，虚化；画面左侧人物，身穿白色吊带背心，身体前倾，靠近成功，左手搭在成功肩颈处，嘴贴近成功耳边，表情：眼睛微闭，嘴巴嘟起似乎在亲吻或耳语；画面右侧人物，身穿棕色夹克外套，头部微低，眼神向下，表情冷漠，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色吊带背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "坐在桌边，身体转向成功，目光注视",
+                "expression": "眉毛微蹙，眼睛注视成功，嘴巴微闭神情担忧"
+            },
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套，白色背心",
+                "position": "画面右侧",
+                "action": "坐在桌边，双手放在桌上，目视前方",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，桌上有酒瓶和小龙虾",
+        "description_narrative": "中景固定镜头，白衣女子坐在桌边转向成功，目光担忧地注视着他，成功双手放在桌上，目视前方，桌上摆放着酒瓶和一盘小龙虾。",
+        "dialogue": "你不要走。",
+        "speaker": "白衣女子",
+        "emotion": "担忧",
+        "duration": 3.78,
+        "description_visual": "中景平拍镜头；户外庭院，桌上有酒瓶和小龙虾；画面左侧人物，身穿白色吊带背心，黑色长裤，坐在桌边，身体转向成功，目光注视，表情：眉毛微蹙，眼睛注视成功，嘴巴微闭神情担忧；画面右侧人物，身穿棕色夹克外套，白色背心，坐在桌边，双手放在桌上，目视前方，表情：眉毛平展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色吊带背心，黑色长裤",
+                "position": "画面左侧",
+                "action": "站立，左手抓住成功的右臂，抬头看他",
+                "expression": "眉毛微蹙，眼睛向上看，嘴巴微张带着恳求"
+            },
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套",
+                "position": "画面右侧",
+                "action": "站立，身体微侧，准备离开",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "红砖墙背景",
+        "description_narrative": "中近景固定镜头，白衣女子站立着，左手紧紧抓住成功的右臂，抬头看着他，神情恳求地问道：“是我不好看吗？”成功身体微侧，准备离开。",
+        "dialogue": "是我不好看吗？",
+        "speaker": "白衣女子",
+        "emotion": "恳求",
+        "duration": 1.62,
+        "description_visual": "中近景平拍镜头；红砖墙背景；画面左侧人物，身穿白色吊带背心，黑色长裤，站立，左手抓住成功的右臂，抬头看他，表情：眉毛微蹙，眼睛向上看，嘴巴微张带着恳求；画面右侧人物，身穿棕色夹克外套，站立，身体微侧，准备离开，表情：眉毛微蹙，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色吊带背心，黑色长裤",
+                "position": "画面左后景",
+                "action": "站立，左手拉着成功的手臂",
+                "expression": "眉毛微蹙，眼睛注视成功，嘴巴微张"
+            },
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套，白色背心，牛仔裤",
+                "position": "画面右前景",
+                "action": "站立，身体前倾，右手下垂，试图挣脱",
+                "expression": "眉毛微蹙，眼睛微闭，嘴巴微张"
+            }
+        ],
+        "background": "户外庭院，桌上有食物",
+        "description_narrative": "中景固定镜头，白衣女子站在左后景拉着成功的手臂，成功站在右前景，身体前倾，右手下垂，试图挣脱并冷漠地回答：“跟你没关系。”",
+        "dialogue": "跟你没关系。",
+        "speaker": "成功",
+        "emotion": "冷漠",
+        "duration": 1.64,
+        "description_visual": "中景平拍镜头；户外庭院，桌上有食物；画面左后景人物，身穿白色吊带背心，黑色长裤，站立，左手拉着成功的手臂，表情：眉毛微蹙，眼睛注视成功，嘴巴微张；画面右前景人物，身穿棕色夹克外套，白色背心，牛仔裤，站立，身体前倾，右手下垂，试图挣脱，表情：眉毛微蹙，眼睛微闭，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色吊带背心",
+                "position": "画面中央",
+                "action": "站立，身体微僵，目光看向右前方",
+                "expression": "眉毛平展，眼睛看向侧方，嘴巴紧闭神情失落"
+            }
+        ],
+        "background": "红砖墙背景，虚化",
+        "description_narrative": "近景固定镜头，白衣女子站立在画面中央，身体微僵，目光看向右前方，嘴巴紧闭，神情失落。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "失落",
+        "duration": 3.04,
+        "description_visual": "近景平拍镜头；红砖墙背景，虚化；画面中央人物，身穿白色吊带背心，站立，身体微僵，目光看向右前方，表情：眉毛平展，眼睛看向侧方，嘴巴紧闭神情失落。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色吊带背心",
+                "position": "画面中央",
+                "action": "抬头向上看，身体微前倾",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴微张带着绝望"
+            }
+        ],
+        "background": "户外背景，有竹椅",
+        "description_narrative": "仰拍近景，白衣女子抬头向上看，身体微前倾，嘴巴微张，绝望地恳求道：“我求求你了，你别走好不好？要是孙厂长知道我没伺候好你，我儿子就完了。”",
+        "dialogue": "我求求你了，你别走好不好？要是孙厂长知道我没伺候好你，我儿子就完了。",
+        "speaker": "白衣女子",
+        "emotion": "绝望",
+        "duration": 10.78,
+        "description_visual": "近景仰拍镜头；户外背景，有竹椅；画面中央人物，身穿白色吊带背心，抬头向上看，身体微前倾，表情：眉毛微挑，眼睛向上看，嘴巴微张带着绝望。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套",
+                "position": "画面中央",
+                "action": "头部低垂，侧脸对着镜头",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "侧拍特写，成功头部低垂，侧脸对着镜头，眉毛微蹙，此时画外传来声音：“孙厂长。天都快黑了。”",
+        "dialogue": "孙厂长。天都快黑了。",
+        "speaker": "持扇中年男子(画外音)",
+        "emotion": "沉重",
+        "duration": 4.66,
+        "description_visual": "特写侧拍镜头；模糊背景；画面中央人物，身穿棕色夹克外套，头部低垂，侧脸对着镜头，表情：眉毛微蹙，眼睛向下看，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "持扇中年男子",
+                "gender": "男",
+                "clothing": "白色T恤，黑色卷边裤",
+                "position": "画面左侧",
+                "action": "坐在木凳上，手持蒲扇，嘴里叼着烟",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴叼着烟"
+            },
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面右后景",
+                "action": "站立在门口，手提编织篮",
+                "expression": "眉毛平展，眼睛看向前方，嘴巴微闭"
+            }
+        ],
+        "background": "红砖墙，木门",
+        "description_narrative": "中景固定镜头，持扇中年男子坐在木凳上，身穿白色T恤，手持蒲扇，嘴里叼着烟，看向右侧说道：“成功还没来。哎。”叶柔身穿黄色连衣裙站在右后景门口。",
+        "dialogue": "成功还没来。哎。",
+        "speaker": "持扇中年男子",
+        "emotion": "等待",
+        "duration": 5.4,
+        "description_visual": "中景平拍镜头；红砖墙，木门；画面左侧人物，身穿白色T恤，黑色卷边裤，坐在木凳上，手持蒲扇，嘴里叼着烟，表情：眉毛微蹙，眼睛看向右侧，嘴巴叼着烟；画面右后景人物，身穿黄色碎花连衣裙，站立在门口，手提编织篮，表情：眉毛平展，眼睛看向前方，嘴巴微闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面中央",
+                "action": "手提彩色编织篮，低头行走",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微闭"
+            }
+        ],
+        "background": "红砖墙，木门",
+        "description_narrative": "全景固定镜头，叶柔身穿黄色碎花连衣裙，手提彩色编织篮，低头在院子里行走。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "低落",
+        "duration": 1.24,
+        "description_visual": "全景平拍镜头；红砖墙，木门；画面中央人物，身穿黄色碎花连衣裙，手提彩色编织篮，低头行走，表情：眉毛微蹙，眼睛向下看，嘴巴微闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "持扇中年男子",
+                "gender": "男",
+                "clothing": "白色T恤，黑色卷边裤",
+                "position": "画面左侧",
+                "action": "坐在木凳上，手持蒲扇，转头看向右侧",
+                "expression": "眉毛微挑，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "红砖墙，木门",
+        "description_narrative": "中景固定镜头，持扇中年男子坐在木凳上，手持蒲扇，转头看向右侧，大声喊道：“站住，你去哪啊？”",
+        "dialogue": "站住，你去哪啊？",
+        "speaker": "持扇中年男子",
+        "emotion": "询问",
+        "duration": 2.42,
+        "description_visual": "中景平拍镜头；红砖墙，木门；画面左侧人物，身穿白色T恤，黑色卷边裤，坐在木凳上，手持蒲扇，转头看向右侧，表情：眉毛微挑，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "持扇中年男子",
+                "gender": "男",
+                "clothing": "白色T恤，黑色卷边裤",
+                "position": "画面中央",
+                "action": "坐在长木桌旁，手持蒲扇，抬头向上看",
+                "expression": "眉毛微挑，眼睛向上看，嘴巴微张"
+            }
+        ],
+        "background": "红砖墙，庭院植物",
+        "description_narrative": "低角度中景，持扇中年男子坐在长木桌旁，手持蒲扇，抬头向上看，继续问道：“这么晚了，去哪啊？”",
+        "dialogue": "这么晚了，去哪啊？",
+        "speaker": "持扇中年男子",
+        "emotion": "疑惑",
+        "duration": 1.64,
+        "description_visual": "中景低角度镜头；红砖墙，庭院植物；画面中央人物，身穿白色T恤，黑色卷边裤，坐在长木桌旁，手持蒲扇，抬头向上看，表情：眉毛微挑，眼睛向上看，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "背拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套，黑色长裤",
+                "position": "画面中央",
+                "action": "骑着自行车，背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红砖墙，梯子",
+        "description_narrative": "背拍中景，成功身穿棕色夹克，骑着自行车背对镜头，此时画外传来持扇中年男子的声音：“叶柔，叶柔。”",
+        "dialogue": "叶柔，叶柔。",
+        "speaker": "持扇中年男子(画外音)",
+        "emotion": "急切",
+        "duration": 2.48,
+        "description_visual": "中景背拍镜头（跟拍）；红砖墙，梯子；画面中央人物，身穿棕色夹克外套，黑色长裤，骑着自行车，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "持扇中年男子",
+                "gender": "男",
+                "clothing": "白色T恤，黑色长裤",
+                "position": "画面左侧",
+                "action": "从座位上站起，身体前倾，手持蒲扇",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张惊讶"
+            },
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面右侧",
+                "action": "站立，手提编织篮，看着前方",
+                "expression": "眉毛平展，眼睛注视前方，嘴巴微闭"
+            }
+        ],
+        "background": "红砖墙，木门",
+        "description_narrative": "中景固定镜头，持扇中年男子从座位上站起，身体前倾，手持蒲扇，惊讶地喊道：“成功来了。哎呀。”叶柔站在右侧看着前方。",
+        "dialogue": "成功来了。哎呀。",
+        "speaker": "持扇中年男子",
+        "emotion": "惊讶",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；红砖墙，木门；画面左侧人物，身穿白色T恤，黑色长裤，从座位上站起，身体前倾，手持蒲扇，表情：眉毛上扬，眼睛睁大，嘴巴微张惊讶；画面右侧人物，身穿黄色碎花连衣裙，站立，手提编织篮，看着前方，表情：眉毛平展，眼睛注视前方，嘴巴微闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套，白色背心",
+                "position": "画面中央",
+                "action": "站在自行车旁，侧身看向持扇男子",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "树木，红砖墙",
+        "description_narrative": "中近景固定镜头，成功站在自行车旁，身穿棕色夹克，侧身看向持扇男子，疑惑地问道：“哎怎么是你啊”",
+        "dialogue": "哎怎么是你啊",
+        "speaker": "成功",
+        "emotion": "疑惑",
+        "duration": 3.26,
+        "description_visual": "中近景平拍镜头；树木，红砖墙；画面中央人物，身穿棕色夹克外套，白色背心，站在自行车旁，侧身看向持扇男子，表情：眉毛微蹙，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "持扇中年男子",
+                "gender": "男",
+                "clothing": "白色T恤，黑色长裤",
+                "position": "画面左侧",
+                "action": "站立，手持蒲扇，看着成功",
+                "expression": "眉毛微挑，眼睛注视成功，嘴巴微张"
+            },
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面右侧",
+                "action": "站立，双手提着编织篮",
+                "expression": "眉毛平展，眼睛注视成功，嘴巴微闭"
+            }
+        ],
+        "background": "庭院，树木，红砖墙",
+        "description_narrative": "全景固定镜头，持扇中年男子和叶柔并排站立，持扇男子手持蒲扇看着成功，叶柔双手提着编织篮，两人均注视着成功。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "注视",
+        "duration": 1.72,
+        "description_visual": "全景平拍镜头；庭院，树木，红砖墙；画面左侧人物，身穿白色T恤，黑色长裤，站立，手持蒲扇，看着成功，表情：眉毛微挑，眼睛注视成功，嘴巴微张；画面右侧人物，身穿黄色碎花连衣裙，站立，双手提着编织篮，表情：眉毛平展，眼睛注视成功，嘴巴微闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "持扇中年男子",
+                "gender": "男",
+                "clothing": "白色T恤",
+                "position": "画面左前景",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套",
+                "position": "画面右侧",
+                "action": "伸手去接叶柔手中的篮子",
+                "expression": "眉毛平展，眼睛看着篮子，嘴巴微闭"
+            },
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面中央",
+                "action": "站立，被成功接过篮子",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红砖墙，树木",
+        "description_narrative": "过肩中景，持扇中年男子背对镜头站在左前景，成功站在右侧，伸手去接叶柔手中的篮子，说道：“叶柔，我来接你回家。”",
+        "dialogue": "叶柔，我来接你回家。",
+        "speaker": "成功",
+        "emotion": "坚定",
+        "duration": 4.18,
+        "description_visual": "中景过肩镜头；红砖墙，树木；画面左前景人物，身穿白色T恤，背对镜头站立，表情：不可见；画面右侧人物，身穿棕色夹克外套，伸手去接叶柔手中的篮子，表情：眉毛平展，眼睛看着篮子，嘴巴微闭；画面中央人物，身穿黄色碎花连衣裙，站立，被成功接过篮子，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面左侧",
+                "action": "手提编织篮，放在自行车后座",
+                "expression": "不可见"
+            },
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套",
+                "position": "画面中央",
+                "action": "手扶自行车，准备离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红砖墙",
+        "description_narrative": "侧拍特写，叶柔手提彩色编织篮，成功手扶自行车，篮子被放在车后座附近，两人准备离开。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.42,
+        "description_visual": "特写侧拍镜头；红砖墙；画面左侧人物，身穿黄色碎花连衣裙，手提编织篮，放在自行车后座，表情：不可见；画面中央人物，身穿棕色夹克外套，手扶自行车，准备离开，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "背拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套",
+                "position": "画面左侧",
+                "action": "推着自行车，背对镜头",
+                "expression": "不可见"
+            },
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面右侧",
+                "action": "跟在自行车旁，背对镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红砖墙，光影斑驳",
+        "description_narrative": "背拍中景，成功推着自行车，叶柔跟在旁边，两人背对镜头向远处走去，画面带有光晕效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.42,
+        "description_visual": "中景背拍镜头（跟拍）；红砖墙，光影斑驳；画面左侧人物，身穿棕色夹克外套，推着自行车，背对镜头，表情：不可见；画面右侧人物，身穿黄色碎花连衣裙，跟在自行车旁，背对镜头，表情：不可见。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "背拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "成功",
+                "gender": "男",
+                "clothing": "棕色夹克外套",
+                "position": "画面左侧",
+                "action": "推着自行车，背对镜头行走",
+                "expression": "不可见"
+            },
+            {
+                "name": "叶柔",
+                "gender": "女",
+                "clothing": "黄色碎花连衣裙",
+                "position": "画面右侧",
+                "action": "跟在自行车旁，背对镜头行走",
+                "expression": "不可见"
+            }
+        ],
+        "background": "红砖墙，庭院",
+        "description_narrative": "背拍中景，成功推着自行车，叶柔跟在旁边，两人背对镜头并排向远处走去，逐渐离开画面。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.9,
+        "description_visual": "中景背拍镜头（跟拍）；红砖墙，庭院；画面左侧人物，身穿棕色夹克外套，推着自行车，背对镜头行走，表情：不可见；画面右侧人物，身穿黄色碎花连衣裙，跟在自行车旁，背对镜头行走，表情：不可见。"
+    }
+]

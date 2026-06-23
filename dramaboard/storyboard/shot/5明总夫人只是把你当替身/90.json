@@ -1,0 +1,559 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "远景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "纯黑背景，无可见物体。",
+        "description_narrative": "画面全黑，无可见人物或场景细节，持续4.12秒。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.12,
+        "description_visual": "远景平拍镜头；纯黑背景，无可见物体。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "深色背景，带有金色粒子特效和剧名标题文字。",
+        "description_narrative": "深色背景上浮现金色粒子，显示剧集标题“第九十集”及剧名，无角色出现。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "全景平拍镜头；深色背景，带有金色粒子特效和剧名标题文字。。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "明皓",
+                "gender": "男",
+                "clothing": "黑色衬衫搭配灰色马甲",
+                "position": "画面右侧",
+                "action": "背对镜头站立，右手持手机贴在耳边，左手插兜，身体微侧。",
+                "expression": "眉毛微蹙，眼神焦急地看向手机屏幕，嘴巴微张正在说话。"
+            }
+        ],
+        "background": "现代风格客厅，浅蓝色墙面，挂有装饰画，灰色沙发，光线明亮。",
+        "description_narrative": "中景镜头跟随明皓，他身穿黑色衬衫和灰色马甲，背对镜头站在客厅中，正焦急地打电话命令下属调查监控寻找小芯。",
+        "dialogue": "王源，调查所有的监控，派人挨个去查。小芯啊，你去哪了？",
+        "speaker": "明皓",
+        "emotion": "焦急",
+        "duration": 11.6,
+        "description_visual": "中景平拍镜头（跟拍）；现代风格客厅，浅蓝色墙面，挂有装饰画，灰色沙发，光线明亮。；画面右侧人物，身穿黑色衬衫搭配灰色马甲，背对镜头站立，右手持手机贴在耳边，左手插兜，身体微侧。，表情：眉毛微蹙，眼神焦急地看向手机屏幕，嘴巴微张正在说话。。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小芯",
+                "gender": "女",
+                "clothing": "蓝色蕾丝睡袍",
+                "position": "画面中央",
+                "action": "被绳索捆绑在椅子上，身体无法动弹，头部微低。",
+                "expression": "眉头紧锁，眼神痛苦且迷茫，嘴唇微张，呼吸急促。"
+            }
+        ],
+        "background": "昏暗的室内环境，背景有模糊的城市夜景灯光，光线集中在人物身上。",
+        "description_narrative": "镜头切至小芯，她身穿蓝色蕾丝睡袍被绑在椅子上，神情痛苦，此时画外音响起梓睿的回忆独白。",
+        "dialogue": "记得小时候。",
+        "speaker": "梓睿(画外音)",
+        "emotion": "痛苦",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；昏暗的室内环境，背景有模糊的城市夜景灯光，光线集中在人物身上。；画面中央人物，身穿蓝色蕾丝睡袍，被绳索捆绑在椅子上，身体无法动弹，头部微低。，表情：眉头紧锁，眼神痛苦且迷茫，嘴唇微张，呼吸急促。。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "坐在地上，身体前倾，双手自然垂放，头部微低。",
+                "expression": "眉毛舒展，眼神向下看，表情沉浸在回忆中，嘴巴微动。"
+            }
+        ],
+        "background": "昏暗的室内地面，背景模糊，光线柔和偏暖。",
+        "description_narrative": "梓睿坐在地上，身穿棕色衬衫，低头回忆往事，讲述第一次见到小芯时的情景。",
+        "dialogue": "第一次见你的时候，当时。",
+        "speaker": "梓睿",
+        "emotion": "怀念",
+        "duration": 4.76,
+        "description_visual": "中景低角度镜头；昏暗的室内地面，背景模糊，光线柔和偏暖。；画面中央人物，身穿棕色衬衫，坐在地上，身体前倾，双手自然垂放，头部微低。，表情：眉毛舒展，眼神向下看，表情沉浸在回忆中，嘴巴微动。。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "头部微抬，视线看向侧前方，身体保持坐姿。",
+                "expression": "眉毛微挑，眼神略带伤感，嘴角下垂，正在倾诉。"
+            }
+        ],
+        "background": "昏暗背景，焦点集中在人物面部。",
+        "description_narrative": "镜头推进至梓睿面部特写，他讲述小时候被欺负只有小芯愿意和他玩的往事。",
+        "dialogue": "小朋友都来欺负我，只有你愿意跟我玩，跟我说话。",
+        "speaker": "梓睿",
+        "emotion": "伤感",
+        "duration": 5.64,
+        "description_visual": "特写平拍镜头（推进）；昏暗背景，焦点集中在人物面部。；画面中央人物，身穿棕色衬衫，头部微抬，视线看向侧前方，身体保持坐姿。，表情：眉毛微挑，眼神略带伤感，嘴角下垂，正在倾诉。。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小芯",
+                "gender": "女",
+                "clothing": "蓝色蕾丝睡袍",
+                "position": "画面中央",
+                "action": "被绑在椅子上，身体微微颤抖，头部低垂。",
+                "expression": "眉头紧蹙，眼神向下躲闪，嘴唇紧闭，表情痛苦。"
+            }
+        ],
+        "background": "昏暗室内，背景有模糊光斑。",
+        "description_narrative": "镜头切回小芯，她听着梓睿的告白，称她是自己当时的光，神情依旧痛苦抗拒。",
+        "dialogue": "你是我当时",
+        "speaker": "梓睿(画外音)",
+        "emotion": "痛苦",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；昏暗室内，背景有模糊光斑。；画面中央人物，身穿蓝色蕾丝睡袍，被绑在椅子上，身体微微颤抖，头部低垂。，表情：眉头紧蹙，眼神向下躲闪，嘴唇紧闭，表情痛苦。。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "坐在地上，双手放在膝盖上，身体前倾，抬头看向前方。",
+                "expression": "眉毛微扬，眼神专注且深情，嘴巴微张说完句子。"
+            }
+        ],
+        "background": "昏暗室内地面，光线集中在人物身上。",
+        "description_narrative": "梓睿坐在地上，深情地称小芯是他黑暗生活中的一束光。",
+        "dialogue": "黑暗生活中的一束光",
+        "speaker": "梓睿",
+        "emotion": "深情",
+        "duration": 1.84,
+        "description_visual": "中景低角度镜头；昏暗室内地面，光线集中在人物身上。；画面中央人物，身穿棕色衬衫，坐在地上，双手放在膝盖上，身体前倾，抬头看向前方。，表情：眉毛微扬，眼神专注且深情，嘴巴微张说完句子。。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神直视前方（小芯方向）。",
+                "expression": "眉毛舒展，眼神坚定，嘴唇微闭，表情严肃。"
+            }
+        ],
+        "background": "昏暗背景，面部光线清晰。",
+        "description_narrative": "梓睿面部特写，他继续劝说小芯，提到顾桐对她的伤害。",
+        "dialogue": "小芯，顾桐都这么伤害你了，我不想你执迷不悟啊。",
+        "speaker": "梓睿",
+        "emotion": "急切",
+        "duration": 6.6,
+        "description_visual": "特写平拍镜头；昏暗背景，面部光线清晰。；画面中央人物，身穿棕色衬衫，头部微侧，眼神直视前方（小芯方向）。，表情：眉毛舒展，眼神坚定，嘴唇微闭，表情严肃。。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小芯",
+                "gender": "女",
+                "clothing": "蓝色蕾丝睡袍",
+                "position": "画面中央",
+                "action": "被绑在椅子上，头部微低，眼睛闭合。",
+                "expression": "眉头紧锁，双眼紧闭，嘴唇微张，似乎在忍受痛苦或拒绝倾听。"
+            }
+        ],
+        "background": "昏暗室内，背景光斑模糊。",
+        "description_narrative": "小芯闭眼不愿面对，梓睿在画外音中呼唤她的名字。",
+        "dialogue": "小芯。",
+        "speaker": "梓睿(画外音)",
+        "emotion": "痛苦",
+        "duration": 1.88,
+        "description_visual": "中近景平拍镜头；昏暗室内，背景光斑模糊。；画面中央人物，身穿蓝色蕾丝睡袍，被绑在椅子上，头部微低，眼睛闭合。，表情：眉头紧锁，双眼紧闭，嘴唇微张，似乎在忍受痛苦或拒绝倾听。。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向侧方，嘴巴微张。",
+                "expression": "眉毛微蹙，眼神恳切，嘴唇微动，似乎在再次呼唤。"
+            }
+        ],
+        "background": "昏暗背景，面部光线柔和。",
+        "description_narrative": "梓睿再次呼唤小芯的名字，试图引起她的注意，准备提出带她走的请求。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "恳切",
+        "duration": 1.16,
+        "description_visual": "特写平拍镜头；昏暗背景，面部光线柔和。；画面中央人物，身穿棕色衬衫，头部微侧，眼神看向侧方，嘴巴微张。，表情：眉毛微蹙，眼神恳切，嘴唇微动，似乎在再次呼唤。。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "身体前倾，眼神直视前方，表情认真。",
+                "expression": "眉毛微扬，眼神充满期待，嘴巴微张正在说话。"
+            }
+        ],
+        "background": "昏暗背景，焦点在人物上半身。",
+        "description_narrative": "梓睿请求小芯跟他一起走，承诺会比顾桐对她更好。",
+        "dialogue": "你跟我一起走吧，我一定会比顾桐对你更好的。",
+        "speaker": "梓睿",
+        "emotion": "期待",
+        "duration": 4.08,
+        "description_visual": "近景平拍镜头；昏暗背景，焦点在人物上半身。；画面中央人物，身穿棕色衬衫，身体前倾，眼神直视前方，表情认真。，表情：眉毛微扬，眼神充满期待，嘴巴微张正在说话。。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "面部特写，眼神极度专注，头部微动。",
+                "expression": "眉毛舒展，眼神炽热，嘴唇微张，描绘着未来的愿景。"
+            }
+        ],
+        "background": "极暗背景，完全聚焦于面部表情。",
+        "description_narrative": "镜头推进至梓睿面部大特写，他提议一起去环游旅行，看大海和沙漠。",
+        "dialogue": "我们一起去环游旅行，去看大海，去看沙漠，好吗？",
+        "speaker": "梓睿",
+        "emotion": "狂热",
+        "duration": 4.64,
+        "description_visual": "大特写平拍镜头（推进）；极暗背景，完全聚焦于面部表情。；画面中央人物，身穿棕色衬衫，面部特写，眼神极度专注，头部微动。，表情：眉毛舒展，眼神炽热，嘴唇微张，描绘着未来的愿景。。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小芯",
+                "gender": "女",
+                "clothing": "蓝色蕾丝睡袍",
+                "position": "画面中央",
+                "action": "被绑在椅子上，头部微抬，视线向下。",
+                "expression": "眉毛微蹙，眼神冷淡，嘴唇紧闭，表情决绝。"
+            }
+        ],
+        "background": "昏暗室内，背景光斑清晰。",
+        "description_narrative": "小芯冷漠地拒绝梓睿，直言两人之间不可能。",
+        "dialogue": "梓睿，我们之间不可能。",
+        "speaker": "小芯",
+        "emotion": "决绝",
+        "duration": 4.96,
+        "description_visual": "中近景平拍镜头；昏暗室内，背景光斑清晰。；画面中央人物，身穿蓝色蕾丝睡袍，被绑在椅子上，头部微抬，视线向下。，表情：眉毛微蹙，眼神冷淡，嘴唇紧闭，表情决绝。。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小芯",
+                "gender": "女",
+                "clothing": "蓝色蕾丝睡袍",
+                "position": "画面中央",
+                "action": "头部微侧，眼神直视前方，表情严肃。",
+                "expression": "眉毛紧蹙，眼神坚定，嘴唇微张，清晰地说出拒绝的理由。"
+            }
+        ],
+        "background": "昏暗背景，面部光线清晰。",
+        "description_narrative": "小芯特写，她明确表示一直把梓睿当弟弟，不可能爱上自己的弟弟。",
+        "dialogue": "我一直都把你当弟弟，我怎么可能爱上自己的弟弟呢？",
+        "speaker": "小芯",
+        "emotion": "坚定",
+        "duration": 4.12,
+        "description_visual": "特写平拍镜头；昏暗背景，面部光线清晰。；画面中央人物，身穿蓝色蕾丝睡袍，头部微侧，眼神直视前方，表情严肃。，表情：眉毛紧蹙，眼神坚定，嘴唇微张，清晰地说出拒绝的理由。。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "身体模糊，似乎正在站起或移动，动作幅度较大。",
+                "expression": "面部模糊，隐约可见嘴巴微张，似乎在发出单音节。"
+            }
+        ],
+        "background": "昏暗背景，画面因运动而模糊。",
+        "description_narrative": "梓睿受到打击，身体动作模糊，似乎正在起身，口中发出“我”的声音。",
+        "dialogue": "我。",
+        "speaker": "梓睿",
+        "emotion": "震惊",
+        "duration": 1.04,
+        "description_visual": "中景平拍镜头（摇镜）；昏暗背景，画面因运动而模糊。；画面中央人物，身穿棕色衬衫，身体模糊，似乎正在站起或移动，动作幅度较大。，表情：面部模糊，隐约可见嘴巴微张，似乎在发出单音节。。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "身体模糊，处于站立或移动状态，头部微仰。",
+                "expression": "面部模糊，嘴巴微张，表情似乎在消化刚才的话。"
+            }
+        ],
+        "background": "昏暗背景，画面略显模糊。",
+        "description_narrative": "梓睿身影模糊，他似乎明白了什么，口中说出“明白了”。",
+        "dialogue": "明白了。",
+        "speaker": "梓睿",
+        "emotion": "醒悟",
+        "duration": 0.6,
+        "description_visual": "中景平拍镜头；昏暗背景，画面略显模糊。；画面中央人物，身穿棕色衬衫，身体模糊，处于站立或移动状态，头部微仰。，表情：面部模糊，嘴巴微张，表情似乎在消化刚才的话。。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神直视前方，表情变得尖锐。",
+                "expression": "眉毛微挑，眼神犀利，嘴唇微张，质问对方。"
+            }
+        ],
+        "background": "昏暗背景，面部光线清晰。",
+        "description_narrative": "梓睿眼神变得锐利，质问小芯是否还是喜欢顾桐。",
+        "dialogue": "你还是喜欢顾桐对吧？",
+        "speaker": "梓睿",
+        "emotion": "质问",
+        "duration": 6.0,
+        "description_visual": "特写平拍镜头；昏暗背景，面部光线清晰。；画面中央人物，身穿棕色衬衫，头部微侧，眼神直视前方，表情变得尖锐。，表情：眉毛微挑，眼神犀利，嘴唇微张，质问对方。。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小芯",
+                "gender": "女",
+                "clothing": "蓝色蕾丝睡袍",
+                "position": "画面中央",
+                "action": "被绑在椅子上，头部微抬，视线向上。",
+                "expression": "眉毛微蹙，眼神惊讶，嘴唇微张，似乎被说中。"
+            }
+        ],
+        "background": "昏暗室内，背景光斑模糊。",
+        "description_narrative": "镜头切至小芯，她神情惊讶，梓睿在画外音中指出她早就知道明皓是顾桐。",
+        "dialogue": "你从一开始就知道明皓是顾桐。",
+        "speaker": "梓睿(画外音)",
+        "emotion": "惊讶",
+        "duration": 2.6,
+        "description_visual": "中近景平拍镜头；昏暗室内，背景光斑模糊。；画面中央人物，身穿蓝色蕾丝睡袍，被绑在椅子上，头部微抬，视线向上。，表情：眉毛微蹙，眼神惊讶，嘴唇微张，似乎被说中。。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "站立，身体微侧，眼神看向侧方。",
+                "expression": "眉毛微蹙，眼神带着嘲讽，嘴角微扬。"
+            }
+        ],
+        "background": "昏暗背景，人物轮廓清晰。",
+        "description_narrative": "梓睿站立着，继续指责小芯因为知道真相才一直留在顾桐身边。",
+        "dialogue": "所以你才一直在他身边，对吧？",
+        "speaker": "梓睿",
+        "emotion": "嘲讽",
+        "duration": 2.16,
+        "description_visual": "中景平拍镜头；昏暗背景，人物轮廓清晰。；画面中央人物，身穿棕色衬衫，站立，身体微侧，眼神看向侧方。，表情：眉毛微蹙，眼神带着嘲讽，嘴角微扬。。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向侧方，表情变得阴狠。",
+                "expression": "眉毛微扬，眼神凶狠，嘴巴微张，露出牙齿。"
+            }
+        ],
+        "background": "昏暗背景，面部光线强烈。",
+        "description_narrative": "梓睿表情变得阴狠，表示要为小芯做点什么，让她知道顾桐的真面目。",
+        "dialogue": "好，那我要为你做点什么。",
+        "speaker": "梓睿",
+        "emotion": "阴狠",
+        "duration": 4.68,
+        "description_visual": "近景平拍镜头；昏暗背景，面部光线强烈。；画面中央人物，身穿棕色衬衫，头部微侧，眼神看向侧方，表情变得阴狠。，表情：眉毛微扬，眼神凶狠，嘴巴微张，露出牙齿。。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "面部特写，眼神极度专注，嘴巴张大。",
+                "expression": "眉毛紧蹙，眼神疯狂，嘴巴大张，情绪激动。"
+            }
+        ],
+        "background": "极暗背景，完全聚焦于面部。",
+        "description_narrative": "镜头推进至梓睿面部大特写，他激动地表示要让小芯知道顾桐是什么样的人。",
+        "dialogue": "我要让你知道顾桐",
+        "speaker": "梓睿",
+        "emotion": "疯狂",
+        "duration": 0.68,
+        "description_visual": "大特写平拍镜头（推进）；极暗背景，完全聚焦于面部。；画面中央人物，身穿棕色衬衫，面部特写，眼神极度专注，嘴巴张大。，表情：眉毛紧蹙，眼神疯狂，嘴巴大张，情绪激动。。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向侧方，表情冷静下来。",
+                "expression": "眉毛舒展，眼神深邃，嘴唇微闭，表情神秘。"
+            }
+        ],
+        "background": "昏暗背景，人物轮廓清晰。",
+        "description_narrative": "梓睿表情冷静，继续说完句子，询问顾桐到底是什么样的人。",
+        "dialogue": "到底是什么样的人？",
+        "speaker": "梓睿",
+        "emotion": "神秘",
+        "duration": 2.2,
+        "description_visual": "近景平拍镜头；昏暗背景，人物轮廓清晰。；画面中央人物，身穿棕色衬衫，头部微侧，眼神看向侧方，表情冷静下来。，表情：眉毛舒展，眼神深邃，嘴唇微闭，表情神秘。。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向侧方，嘴角微扬。",
+                "expression": "眉毛微挑，眼神自信，嘴唇微张，露出得意的笑容。"
+            }
+        ],
+        "background": "昏暗背景，人物轮廓清晰。",
+        "description_narrative": "梓睿透露已经将定位发给了顾桐，表示要拭目以待，看顾桐的反应。",
+        "dialogue": "我已经把定位发给他了，我们就拭目以待吧。",
+        "speaker": "梓睿",
+        "emotion": "得意",
+        "duration": 9.72,
+        "description_visual": "近景平拍镜头；昏暗背景，人物轮廓清晰。；画面中央人物，身穿棕色衬衫，头部微侧，眼神看向侧方，嘴角微扬。，表情：眉毛微挑，眼神自信，嘴唇微张，露出得意的笑容。。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "梓睿",
+                "gender": "男",
+                "clothing": "棕色衬衫",
+                "position": "画面中央",
+                "action": "身体模糊，似乎正在转身或移动，动作幅度较大。",
+                "expression": "面部模糊，隐约可见表情平静。"
+            }
+        ],
+        "background": "昏暗背景，画面因运动而模糊。",
+        "description_narrative": "梓睿身影模糊，画面在紧张的对峙氛围中结束，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.72,
+        "description_visual": "中景平拍镜头；昏暗背景，画面因运动而模糊。；画面中央人物，身穿棕色衬衫，身体模糊，似乎正在转身或移动，动作幅度较大。，表情：面部模糊，隐约可见表情平静。。"
+    }
+]

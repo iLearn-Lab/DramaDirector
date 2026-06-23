@@ -1,0 +1,721 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "室内走廊，木质门框，白色墙壁，光线柔和",
+        "description_narrative": "中景固定镜头拍摄室内走廊，画面左侧是模糊的植物前景，中央是一扇关闭的深色木门，嵌在浅色木质门框中，右侧白墙上有开关面板。",
+        "dialogue": "救命啊！",
+        "speaker": "徐艺茶",
+        "emotion": "恐惧",
+        "duration": 3.6,
+        "description_visual": "中景平拍镜头；室内走廊，木质门框，白色墙壁，光线柔和。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [],
+        "background": "模糊的白色墙壁，光线明亮",
+        "description_narrative": "特写摇镜掠过模糊的白色墙面，画面晃动剧烈，暗示着混乱或快速的移动。",
+        "dialogue": "啊啊啊！",
+        "speaker": "徐艺茶",
+        "emotion": "痛苦",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头（摇镜）；模糊的白色墙壁，光线明亮。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带，金丝眼镜",
+                "position": "画面中央",
+                "action": "站立，头部微低，眼神冷漠地向下看",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊的窗户或玻璃隔断，冷色调光线",
+        "description_narrative": "中近景固定镜头，林淮远身穿深灰色西装站立，戴着金丝眼镜，表情冷酷傲慢，低头看着地面某处。",
+        "dialogue": "啊啊啊！",
+        "speaker": "徐艺茶",
+        "emotion": "痛苦",
+        "duration": 2.44,
+        "description_visual": "中近景平拍镜头；室内背景，模糊的窗户或玻璃隔断，冷色调光线；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，金丝眼镜，站立，头部微低，眼神冷漠地向下看，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "高角度近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套，黑色长裙",
+                "position": "画面中央偏下",
+                "action": "趴在地板上，长发散乱，双手撑地",
+                "expression": "眉毛紧皱，眼睛痛苦地眯起，嘴巴微张"
+            }
+        ],
+        "background": "浅色大理石地板，背景模糊的家具",
+        "description_narrative": "高角度俯拍近景，徐艺茶趴在地板上，长发遮脸，神情痛苦，字幕显示“你不是很能演吗”。",
+        "dialogue": "你不是很能演吗",
+        "speaker": "林淮远",
+        "emotion": "嘲讽",
+        "duration": 1.64,
+        "description_visual": "高角度近景俯拍镜头；浅色大理石地板，背景模糊的家具；画面中央偏下人物，身穿黑白千鸟格短外套，黑色长裙，趴在地板上，长发散乱，双手撑地，表情：眉毛紧皱，眼睛痛苦地眯起，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "低头说话，表情不屑",
+                "expression": "眉毛下压，眼睛微眯，嘴巴张开说话"
+            }
+        ],
+        "background": "室内背景，模糊的窗户光线",
+        "description_narrative": "近景固定镜头，林淮远低头看着下方，嘴角带着一丝嘲弄，字幕显示“别装啊”。",
+        "dialogue": "别装啊",
+        "speaker": "林淮远",
+        "emotion": "轻蔑",
+        "duration": 1.6,
+        "description_visual": "近景平拍镜头；室内背景，模糊的窗户光线；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，低头说话，表情不屑，表情：眉毛下压，眼睛微眯，嘴巴张开说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "高角度近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "趴在地板上，抬头看向镜头方向",
+                "expression": "眉毛紧锁，眼睛含泪，嘴巴微张喘息"
+            }
+        ],
+        "background": "浅色大理石地板",
+        "description_narrative": "高角度俯拍近景，徐艺茶趴在地板上，头发凌乱，眼神中带着痛苦和倔强，抬头向上看。",
+        "dialogue": "别弄脏地板",
+        "speaker": "林淮远",
+        "emotion": "厌恶",
+        "duration": 1.8,
+        "description_visual": "高角度近景俯拍镜头；浅色大理石地板；画面中央人物，身穿黑白千鸟格短外套，趴在地板上，抬头看向镜头方向，表情：眉毛紧锁，眼睛含泪，嘴巴微张喘息。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "身体前倾，低头命令",
+                "expression": "眉毛挑起，眼睛直视下方，嘴巴张开说话"
+            }
+        ],
+        "background": "室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，林淮远身体微向前倾，表情不耐烦，字幕显示“别弄脏地板快起来”。",
+        "dialogue": "别弄脏地板快起来",
+        "speaker": "林淮远",
+        "emotion": "命令",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；室内背景，光线明亮；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，身体前倾，低头命令，表情：眉毛挑起，眼睛直视下方，嘴巴张开说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "高角度近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "趴在地板上，面部表情痛苦扭曲",
+                "expression": "眉毛紧皱，眼睛紧闭，嘴巴咧开"
+            }
+        ],
+        "background": "浅色大理石地板",
+        "description_narrative": "高角度俯拍近景，徐艺茶趴在地板上，面部因痛苦而扭曲，似乎在挣扎。",
+        "dialogue": "快起来",
+        "speaker": "林淮远",
+        "emotion": "催促",
+        "duration": 1.6,
+        "description_visual": "高角度近景俯拍镜头；浅色大理石地板；画面中央人物，身穿黑白千鸟格短外套，趴在地板上，面部表情痛苦扭曲，表情：眉毛紧皱，眼睛紧闭，嘴巴咧开。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "低头看着下方，嘴唇微动",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，木质墙面",
+        "description_narrative": "近景固定镜头，林淮远低头注视着地面，表情冷漠，似乎在等待对方的反应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.56,
+        "description_visual": "近景平拍镜头；室内背景，木质墙面；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，低头看着下方，嘴唇微动，表情：眉毛舒展，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "高角度中景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "双手撑地，试图起身，表情痛苦",
+                "expression": "眉毛紧蹙，眼睛睁开，嘴巴微张"
+            }
+        ],
+        "background": "浅色大理石地板，背景模糊的家具",
+        "description_narrative": "高角度俯拍中景，徐艺茶双手撑在地板上，身体微微抬起，长发垂落，表情痛苦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.8,
+        "description_visual": "高角度中景俯拍镜头；浅色大理石地板，背景模糊的家具；画面中央人物，身穿黑白千鸟格短外套，双手撑地，试图起身，表情痛苦，表情：眉毛紧蹙，眼睛睁开，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "低头看着下方，表情严肃",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，林淮远低头看着地面，表情严肃，画面右侧有“影视效果 请勿模仿”的水印。",
+        "dialogue": "啊啊",
+        "speaker": "徐艺茶",
+        "emotion": "痛苦",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；室内背景，光线明亮；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，低头看着下方，表情严肃，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "高角度近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面左侧",
+                "action": "侧趴在地板上，头部转向一侧",
+                "expression": "眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "浅色大理石地板，背景模糊的家具",
+        "description_narrative": "高角度俯拍近景，徐艺茶侧趴在地板上，长发散开，画面右侧有“影视效果 请勿模仿”的水印。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.12,
+        "description_visual": "高角度近景俯拍镜头；浅色大理石地板，背景模糊的家具；画面左侧人物，身穿黑白千鸟格短外套，侧趴在地板上，头部转向一侧，表情：眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "手摸领带，表情轻蔑",
+                "expression": "眉毛上扬，眼睛微眯，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊的窗户光线",
+        "description_narrative": "近景固定镜头，林淮远伸手整理领带，表情轻蔑，字幕显示“你不是很能演吗”。",
+        "dialogue": "你不是很能演吗",
+        "speaker": "林淮远",
+        "emotion": "嘲讽",
+        "duration": 2.48,
+        "description_visual": "近景平拍镜头；室内背景，模糊的窗户光线；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，手摸领带，表情轻蔑，表情：眉毛上扬，眼睛微眯，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "高角度近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "趴在地板上，抬头看向镜头",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "浅色大理石地板",
+        "description_narrative": "高角度俯拍近景，徐艺茶趴在地板上，表情痛苦，字幕显示“来继续演啊”。",
+        "dialogue": "来继续演啊",
+        "speaker": "林淮远",
+        "emotion": "挑衅",
+        "duration": 2.32,
+        "description_visual": "高角度近景俯拍镜头；浅色大理石地板；画面中央人物，身穿黑白千鸟格短外套，趴在地板上，抬头看向镜头，表情：眉毛紧皱，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "低头说话，表情严肃",
+                "expression": "眉毛紧蹙，眼睛视线下移，嘴巴张开说话"
+            }
+        ],
+        "background": "室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，林淮远低头说话，神情严肃，字幕显示“你知不知道陆氏集团”。",
+        "dialogue": "你知不知道陆氏集团",
+        "speaker": "林淮远",
+        "emotion": "警告",
+        "duration": 5.24,
+        "description_visual": "近景平拍镜头；室内背景，光线明亮；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，低头说话，表情严肃，表情：眉毛紧蹙，眼睛视线下移，嘴巴张开说话。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "高角度近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "趴在地板上，抬头看向镜头",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "浅色大理石地板",
+        "description_narrative": "高角度俯拍近景，徐艺茶趴在地板上，眼神倔强，字幕显示“能得罪起的吗”。",
+        "dialogue": "能得罪起的吗",
+        "speaker": "林淮远",
+        "emotion": "威胁",
+        "duration": 2.4,
+        "description_visual": "高角度近景俯拍镜头；浅色大理石地板；画面中央人物，身穿黑白千鸟格短外套，趴在地板上，抬头看向镜头，表情：眉毛紧锁，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面左侧",
+                "action": "手扶眼镜，侧脸看向下方",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "室内背景，模糊的窗户光线",
+        "description_narrative": "近景固定镜头，林淮远侧身站立，伸手扶了一下眼镜，表情冷淡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "近景侧拍镜头；室内背景，模糊的窗户光线；画面左侧人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，手扶眼镜，侧脸看向下方，表情：眉毛舒展，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "高角度近景",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "双手撑地，试图起身，表情痛苦",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴咧开"
+            }
+        ],
+        "background": "浅色大理石地板",
+        "description_narrative": "高角度俯拍近景，徐艺茶双手撑在地板上，身体微微抬起，面部表情因痛苦而扭曲。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.76,
+        "description_visual": "高角度近景俯拍镜头；浅色大理石地板；画面中央人物，身穿黑白千鸟格短外套，双手撑地，试图起身，表情痛苦，表情：眉毛紧蹙，眼睛紧闭，嘴巴咧开。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "侧脸微笑，露出牙齿",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴张开大笑"
+            }
+        ],
+        "background": "室内背景，模糊的窗户光线",
+        "description_narrative": "近景固定镜头，林淮远侧脸对着镜头，露出嘲讽的笑容，似乎觉得对方的挣扎很可笑。",
+        "dialogue": "起来了",
+        "speaker": "林淮远",
+        "emotion": "嘲讽",
+        "duration": 2.28,
+        "description_visual": "近景侧拍镜头；室内背景，模糊的窗户光线；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，侧脸微笑，露出牙齿，表情：眉毛舒展，眼睛微眯，嘴巴张开大笑。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "被拉起，身体后仰，表情痛苦",
+                "expression": "眉毛紧皱，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，模糊的家具",
+        "description_narrative": "中近景固定镜头，徐艺茶被外力拉起，身体后仰，长发飞舞，表情痛苦。",
+        "dialogue": "奥斯卡颁奖啦",
+        "speaker": "林淮远",
+        "emotion": "讽刺",
+        "duration": 1.56,
+        "description_visual": "中近景平拍镜头；室内背景，模糊的家具；画面中央人物，身穿黑白千鸟格短外套，被拉起，身体后仰，表情痛苦，表情：眉毛紧皱，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "侧脸大笑，露出牙齿",
+                "expression": "眉毛上扬，眼睛眯起，嘴巴张开大笑"
+            }
+        ],
+        "background": "室内背景，模糊的窗户光线",
+        "description_narrative": "近景固定镜头，林淮远侧脸大笑，表情夸张，字幕显示“奥斯卡颁奖啦”。",
+        "dialogue": "奥斯卡颁奖啦",
+        "speaker": "林淮远",
+        "emotion": "狂笑",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；室内背景，模糊的窗户光线；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，侧脸大笑，露出牙齿，表情：眉毛上扬，眼睛眯起，嘴巴张开大笑。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "过肩中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面右侧",
+                "action": "站立，看着前方的男人，表情愤怒",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面左侧前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，浅色墙壁",
+        "description_narrative": "过肩中景固定镜头，徐艺茶站立着，面对林淮远的背影，表情愤怒且带着泪水。",
+        "dialogue": "林淮远",
+        "speaker": "徐艺茶",
+        "emotion": "愤怒",
+        "duration": 2.96,
+        "description_visual": "过肩中景过肩镜头；室内背景，浅色墙壁；画面右侧人物，身穿黑白千鸟格短外套，站立，看着前方的男人，表情愤怒，表情：眉毛紧锁，眼睛直视，嘴巴微张；画面左侧前景人物，身穿深灰色双排扣西装，背影，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "侧脸看向一旁，表情冷漠",
+                "expression": "眉毛舒展，眼睛视线上移，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，光线明亮",
+        "description_narrative": "近景固定镜头，林淮远侧脸看向一旁，表情冷漠，似乎对徐艺茶的呼喊无动于衷。",
+        "dialogue": "你会后悔的",
+        "speaker": "徐艺茶",
+        "emotion": "警告",
+        "duration": 2.04,
+        "description_visual": "近景平拍镜头；室内背景，光线明亮；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，侧脸看向一旁，表情冷漠，表情：眉毛舒展，眼睛视线上移，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "过肩中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面右侧",
+                "action": "站立，看着前方的男人，表情坚定",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面左侧前景",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，浅色墙壁",
+        "description_narrative": "过肩中景固定镜头，徐艺茶站立着，面对林淮远，表情坚定，字幕显示“你会后悔的”。",
+        "dialogue": "你会后悔的",
+        "speaker": "徐艺茶",
+        "emotion": "坚定",
+        "duration": 6.32,
+        "description_visual": "过肩中景过肩镜头；室内背景，浅色墙壁；画面右侧人物，身穿黑白千鸟格短外套，站立，看着前方的男人，表情坚定，表情：眉毛微蹙，眼睛直视，嘴巴微张；画面左侧前景人物，身穿深灰色双排扣西装，背影，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "过肩近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面左侧",
+                "action": "抓住对方的衣领，表情凶狠",
+                "expression": "眉毛紧蹙，眼睛直视，嘴巴紧闭"
+            },
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面右侧",
+                "action": "背影",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，木质墙面",
+        "description_narrative": "过肩近景固定镜头，林淮远伸手抓住徐艺茶的衣领，表情凶狠，字幕显示“向我忏悔”。",
+        "dialogue": "向我忏悔",
+        "speaker": "林淮远",
+        "emotion": "愤怒",
+        "duration": 2.2,
+        "description_visual": "过肩近景过肩镜头；室内背景，木质墙面；画面左侧人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，抓住对方的衣领，表情凶狠，表情：眉毛紧蹙，眼睛直视，嘴巴紧闭；画面右侧人物，身穿黑白千鸟格短外套，背影，表情：不可见。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "挣扎，双手抓住对方的手臂",
+                "expression": "眉毛紧皱，眼睛紧闭，嘴巴咧开"
+            }
+        ],
+        "background": "室内背景，模糊的床铺",
+        "description_narrative": "中近景跟拍镜头，徐艺茶挣扎着，双手抓住林淮远的手臂，表情痛苦，字幕显示“你真是个疯子”。",
+        "dialogue": "你真是个疯子",
+        "speaker": "徐艺茶",
+        "emotion": "愤怒",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头（跟拍）；室内背景，模糊的床铺；画面中央人物，身穿黑白千鸟格短外套，挣扎，双手抓住对方的手臂，表情：眉毛紧皱，眼睛紧闭，嘴巴咧开。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装",
+                "position": "画面右侧",
+                "action": "转身，动作模糊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "室内背景，模糊的窗户光线",
+        "description_narrative": "近景摇镜，林淮远转身，画面因快速运动而模糊，字幕显示“徐艺茶，你真是个疯子”。",
+        "dialogue": "徐艺茶，你真是个疯子",
+        "speaker": "林淮远",
+        "emotion": "暴怒",
+        "duration": 2.2,
+        "description_visual": "近景平拍镜头（摇镜）；室内背景，模糊的窗户光线；画面右侧人物，身穿深灰色双排扣西装，转身，动作模糊，表情：不可见。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "站立，表情愤怒",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，浅色墙壁",
+        "description_narrative": "中近景固定镜头，徐艺茶站立着，表情愤怒，似乎在呼喊。",
+        "dialogue": "大俊，把她带下去",
+        "speaker": "林淮远",
+        "emotion": "命令",
+        "duration": 1.92,
+        "description_visual": "中近景平拍镜头；室内背景，浅色墙壁；画面中央人物，身穿黑白千鸟格短外套，站立，表情愤怒，表情：眉毛紧锁，眼睛直视，嘴巴张开。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面中央",
+                "action": "摘下眼镜，表情烦躁",
+                "expression": "眉毛紧蹙，眼睛紧闭，嘴巴微张"
+            }
+        ],
+        "background": "室内背景，木质门框",
+        "description_narrative": "近景固定镜头，林淮远伸手摘下眼镜，表情烦躁，字幕显示“关起来，不准让她吃喝”。",
+        "dialogue": "关起来，不准让她吃喝",
+        "speaker": "林淮远",
+        "emotion": "厌恶",
+        "duration": 1.16,
+        "description_visual": "近景平拍镜头；室内背景，木质门框；画面中央人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，摘下眼镜，表情烦躁，表情：眉毛紧蹙，眼睛紧闭，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "徐艺茶",
+                "gender": "女",
+                "clothing": "黑白千鸟格短外套",
+                "position": "画面中央",
+                "action": "被拖拽，身体倾斜，表情愤怒",
+                "expression": "眉毛紧锁，眼睛直视，嘴巴张开"
+            }
+        ],
+        "background": "室内背景，浅色墙壁",
+        "description_narrative": "中近景跟拍镜头，徐艺茶被拖拽，身体倾斜，表情愤怒，字幕显示“你会后悔的”。",
+        "dialogue": "你会后悔的",
+        "speaker": "徐艺茶",
+        "emotion": "愤怒",
+        "duration": 0.72,
+        "description_visual": "中近景平拍镜头（跟拍）；室内背景，浅色墙壁；画面中央人物，身穿黑白千鸟格短外套，被拖拽，身体倾斜，表情愤怒，表情：眉毛紧锁，眼睛直视，嘴巴张开。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林淮远",
+                "gender": "男",
+                "clothing": "深灰色双排扣西装，黑色衬衫，橙色花纹领带",
+                "position": "画面左侧",
+                "action": "转身走开，动作夸张",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "室内走廊，木质门框，书桌，台灯",
+        "description_narrative": "全景固定镜头，林淮远转身走开，动作夸张，似乎对徐艺茶的威胁感到不屑。",
+        "dialogue": "带下去，坏老子多少好事",
+        "speaker": "林淮远",
+        "emotion": "烦躁",
+        "duration": 5.36,
+        "description_visual": "全景平拍镜头；室内走廊，木质门框，书桌，台灯；画面左侧人物，身穿深灰色双排扣西装，黑色衬衫，橙色花纹领带，转身走开，动作夸张，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    }
+]

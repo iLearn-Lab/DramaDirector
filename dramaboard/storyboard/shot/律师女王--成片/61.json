@@ -1,0 +1,747 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "前景右侧",
+                "action": "背对镜头坐在审讯椅上，双手被铐在椅子扶手上",
+                "expression": "不可见"
+            },
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "背景左侧",
+                "action": "站在铁栏后，身体微倾",
+                "expression": "不可见"
+            }
+        ],
+        "background": "看守所审讯室，冷色调灯光，黑色铁栏分隔空间",
+        "description_narrative": "过肩镜头，前景是秦迦的背影，她坐在审讯椅上，背景中温羡站在铁栏后看着她。",
+        "dialogue": "秦迦",
+        "speaker": "温羡",
+        "emotion": "急切",
+        "duration": 0.76,
+        "description_visual": "中景过肩镜头；看守所审讯室，冷色调灯光，黑色铁栏分隔空间；前景右侧人物，身穿白色西装外套，背对镜头坐在审讯椅上，双手被铐在椅子扶手上，表情：不可见；背景左侧人物，身穿白色连帽卫衣，站在铁栏后，身体微倾，表情：不可见。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "坐在审讯椅上，双手交叠放在扶手上，被手铐铐住",
+                "expression": "眉毛微蹙，眼神低垂，嘴唇紧闭"
+            }
+        ],
+        "background": "审讯室背景，灰色墙面，黑色椅子扶手",
+        "description_narrative": "中近景镜头对准秦迦，她神情焦虑，双手被铐在椅子上，目光向下。",
+        "dialogue": "这到底怎么一回事",
+        "speaker": "秦迦",
+        "emotion": "困惑",
+        "duration": 3.04,
+        "description_visual": "中近景平拍镜头；审讯室背景，灰色墙面，黑色椅子扶手；画面中央人物，身穿白色西装外套，坐在审讯椅上，双手交叠放在扶手上，被手铐铐住，表情：眉毛微蹙，眼神低垂，嘴唇紧闭。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "双手紧握铁栏，身体前倾",
+                "expression": "眉毛紧锁，眼神急切，嘴巴微张"
+            }
+        ],
+        "background": "铁栏后，冷蓝色调背景",
+        "description_narrative": "温羡隔着铁栏急切地询问，双手紧紧抓着栏杆，表情焦虑。",
+        "dialogue": "你快说呀，你不说我怎么帮你啊？",
+        "speaker": "温羡",
+        "emotion": "焦急",
+        "duration": 2.44,
+        "description_visual": "中近景平拍镜头；铁栏后，冷蓝色调背景；画面中央人物，身穿白色连帽卫衣，双手紧握铁栏，身体前倾，表情：眉毛紧锁，眼神急切，嘴巴微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "双手手指交叉扣在扶手上，手腕处可见手铐",
+                "expression": "眼神坚定，嘴唇微动，眉头微展"
+            }
+        ],
+        "background": "审讯椅扶手，灰色背景",
+        "description_narrative": "秦迦特写，她解释冯明的死与自己无关，证据在电脑里。",
+        "dialogue": "冯明的死跟我没有关系，在我的电脑里。",
+        "speaker": "秦迦",
+        "emotion": "冷静",
+        "duration": 4.18,
+        "description_visual": "特写平拍镜头；审讯椅扶手，灰色背景；画面中央人物，身穿白色西装外套，双手手指交叉扣在扶手上，手腕处可见手铐，表情：眼神坚定，嘴唇微动，眉头微展。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "双手抓栏，眼神专注倾听",
+                "expression": "眉毛舒展，眼神认真，嘴唇微闭"
+            }
+        ],
+        "background": "铁栏后，冷色调",
+        "description_narrative": "温羡在栏后倾听，秦迦画外音继续说明电脑里有当晚五金店发生的一切。",
+        "dialogue": "有着当天晚上在五金店发生的一切。",
+        "speaker": "秦迦",
+        "emotion": "严肃",
+        "duration": 2.52,
+        "description_visual": "中近景平拍镜头；铁栏后，冷色调；画面中央人物，身穿白色连帽卫衣，双手抓栏，眼神专注倾听，表情：眉毛舒展，眼神认真，嘴唇微闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "双手紧握扶手，身体微前倾",
+                "expression": "眼神锐利，眉毛微挑，嘴唇轻启"
+            }
+        ],
+        "background": "审讯椅，灰色墙面",
+        "description_narrative": "秦迦指示温羡明天审问时把证据交给陈创。",
+        "dialogue": "明天审问。你把他交给陈创。",
+        "speaker": "秦迦",
+        "emotion": "果断",
+        "duration": 1.9,
+        "description_visual": "特写平拍镜头；审讯椅，灰色墙面；画面中央人物，身穿白色西装外套，双手紧握扶手，身体微前倾，表情：眼神锐利，眉毛微挑，嘴唇轻启。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "双手抓栏，微微点头",
+                "expression": "眼神理解，嘴唇紧闭"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "温羡听着指令，神情凝重，没有说话。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 0.84,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿白色连帽卫衣，双手抓栏，微微点头，表情：眼神理解，嘴唇紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "抬头看向温羡方向",
+                "expression": "眼神专注，嘴唇微张"
+            }
+        ],
+        "background": "审讯椅",
+        "description_narrative": "秦迦轻声呼唤温羡的名字。",
+        "dialogue": "温羡",
+        "speaker": "秦迦",
+        "emotion": "柔和",
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；审讯椅；画面中央人物，身穿白色西装外套，抬头看向温羡方向，表情：眼神专注，嘴唇微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "前景右侧",
+                "action": "坐在椅子上，侧身对着铁栏",
+                "expression": "不可见"
+            },
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "背景左侧",
+                "action": "站在栏后，转身欲走又停下",
+                "expression": "不可见"
+            }
+        ],
+        "background": "审讯室全景，铁栏分隔",
+        "description_narrative": "全景镜头，秦迦提到她父亲的案子，温羡在栏后停下脚步。",
+        "dialogue": "我父亲的案子",
+        "speaker": "秦迦",
+        "emotion": "沉重",
+        "duration": 1.22,
+        "description_visual": "全景侧拍镜头；审讯室全景，铁栏分隔；前景右侧人物，身穿白色西装外套，坐在椅子上，侧身对着铁栏，表情：不可见；背景左侧人物，身穿白色连帽卫衣，站在栏后，转身欲走又停下，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眼神探究，眉毛微蹙"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "秦迦询问温羡是否查到了她父亲的案子。",
+        "dialogue": "你查到了吧？",
+        "speaker": "秦迦",
+        "emotion": "试探",
+        "duration": 2.02,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色西装外套，直视前方，表情：眼神探究，眉毛微蹙。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "站在栏后，身体微僵",
+                "expression": "眼神惊讶，眉毛上扬"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "温羡惊讶地反问秦迦怎么知道。",
+        "dialogue": "你怎么知道",
+        "speaker": "温羡",
+        "emotion": "惊讶",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿白色连帽卫衣，站在栏后，身体微僵，表情：眼神惊讶，眉毛上扬。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "双手交叠",
+                "expression": "眼神锐利，嘴角微抿"
+            }
+        ],
+        "background": "审讯椅",
+        "description_narrative": "秦迦点出“正月剪头案”，并指出温羡从外面一回来就有所行动。",
+        "dialogue": "正月剪头案。你从外面",
+        "speaker": "秦迦",
+        "emotion": "洞察",
+        "duration": 2.68,
+        "description_visual": "特写平拍镜头；审讯椅；画面中央人物，身穿白色西装外套，双手交叠，表情：眼神锐利，嘴角微抿。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "手扶铁栏，眼神躲闪",
+                "expression": "眉毛微垂，眼神游移"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "秦迦画外音继续分析，说温羡一回来就点出周翠只要钱的原因。",
+        "dialogue": "一回来就点出周翠为什么只要钱。",
+        "speaker": "秦迦",
+        "emotion": "分析",
+        "duration": 3.06,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿白色连帽卫衣，手扶铁栏，眼神躲闪，表情：眉毛微垂，眼神游移。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "直视前方",
+                "expression": "眼神坚定，眉毛微挑"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "秦迦得出结论，唯一解释就是温羡查到了她父亲的案子。",
+        "dialogue": "唯一可以解释的，就是你查到了我父亲的案子。",
+        "speaker": "秦迦",
+        "emotion": "肯定",
+        "duration": 2.96,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色西装外套，直视前方，表情：眼神坚定，眉毛微挑。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "手扶铁栏，沉默",
+                "expression": "眼神复杂，嘴唇紧闭"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "秦迦画外音补充说温羡还查到了李全。",
+        "dialogue": "并且，也查到了李全。",
+        "speaker": "秦迦",
+        "emotion": "笃定",
+        "duration": 3.06,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿白色连帽卫衣，手扶铁栏，沉默，表情：眼神复杂，嘴唇紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "双手紧握",
+                "expression": "眼神深邃，眉头微蹙"
+            }
+        ],
+        "background": "审讯椅",
+        "description_narrative": "秦迦继续揭露温羡的计划，说他故意带她去李晨的修理店。",
+        "dialogue": "后来你又故意带我去李晨的修理店。",
+        "speaker": "秦迦",
+        "emotion": "揭露",
+        "duration": 3.44,
+        "description_visual": "特写平拍镜头；审讯椅；画面中央人物，身穿白色西装外套，双手紧握，表情：眼神深邃，眉头微蹙。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "手扶铁栏，低头",
+                "expression": "眼神下垂，默认"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "秦迦画外音说温羡让她询问电池的问题。",
+        "dialogue": "让我询问他电池的问题。",
+        "speaker": "秦迦",
+        "emotion": "平静",
+        "duration": 2.18,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿白色连帽卫衣，手扶铁栏，低头，表情：眼神下垂，默认。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "抬头",
+                "expression": "眼神明亮，嘴角微扬"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "秦迦指出温羡的目的是为了让李晨看到她。",
+        "dialogue": "为的是要让他看到我。",
+        "speaker": "秦迦",
+        "emotion": "了然",
+        "duration": 2.62,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色西装外套，抬头，表情：眼神明亮，嘴角微扬。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "手扶铁栏，抬头",
+                "expression": "眼神询问，眉毛微挑"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "秦迦画外音继续解释，是为了看怎么解决。",
+        "dialogue": "是怎么解决",
+        "speaker": "秦迦",
+        "emotion": "解释",
+        "duration": 2.2,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿白色连帽卫衣，手扶铁栏，抬头，表情：眼神询问，眉毛微挑。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "双手交叠",
+                "expression": "眼神自信，嘴唇微动"
+            }
+        ],
+        "background": "审讯椅",
+        "description_narrative": "秦迦解释这样李晨的态度才不会抵触，才会给线索。",
+        "dialogue": "这样他对我的态度不会那么抵触，他们才会把线索给我。",
+        "speaker": "秦迦",
+        "emotion": "自信",
+        "duration": 4.98,
+        "description_visual": "特写平拍镜头；审讯椅；画面中央人物，身穿白色西装外套，双手交叠，表情：眼神自信，嘴唇微动。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "手扶铁栏，身体前倾",
+                "expression": "眼神委屈，眉毛下垂"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "温羡抱怨秦迦从来不告诉他这个案子，查到后也不知道怎么说。",
+        "dialogue": "你从来都不告诉我这个案子，查到之后也不知道怎么去跟你说。",
+        "speaker": "温羡",
+        "emotion": "委屈",
+        "duration": 7.04,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿白色连帽卫衣，手扶铁栏，身体前倾，表情：眼神委屈，眉毛下垂。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "直视温羡",
+                "expression": "眼神恳切，眉毛微展"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "秦迦透露自己有计划抓到凶手，询问温羡是否会帮忙。",
+        "dialogue": "我有计划抓到凶手，你会帮我吗？",
+        "speaker": "秦迦",
+        "emotion": "期待",
+        "duration": 4.82,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色西装外套，直视温羡，表情：眼神恳切，眉毛微展。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "画面中央",
+                "action": "点头，眼神坚定",
+                "expression": "眼神坚决，嘴唇紧闭"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "温羡承诺让秦迦等着他，随后转身离开。",
+        "dialogue": "等着我。",
+        "speaker": "温羡",
+        "emotion": "坚定",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿白色连帽卫衣，点头，眼神坚定，表情：眼神坚决，嘴唇紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "全景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "前景右侧",
+                "action": "坐在椅子上目送",
+                "expression": "不可见"
+            },
+            {
+                "name": "温羡",
+                "gender": "男",
+                "clothing": "白色连帽卫衣",
+                "position": "背景左侧",
+                "action": "转身离开",
+                "expression": "不可见"
+            }
+        ],
+        "background": "审讯室，铁栏",
+        "description_narrative": "温羡离开，秦迦独自坐在椅子上，画面安静。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "落寞",
+        "duration": 1.68,
+        "description_visual": "全景侧拍镜头；审讯室，铁栏；前景右侧人物，身穿白色西装外套，坐在椅子上目送，表情：不可见；背景左侧人物，身穿白色连帽卫衣，转身离开，表情：不可见。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "低头沉思",
+                "expression": "眼神低垂，眉头微蹙"
+            }
+        ],
+        "background": "审讯椅",
+        "description_narrative": "秦迦低头沉思，神情复杂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 1.38,
+        "description_visual": "特写平拍镜头；审讯椅；画面中央人物，身穿白色西装外套，低头沉思，表情：眼神低垂，眉头微蹙。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "全景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "前景右侧",
+                "action": "坐在椅子上",
+                "expression": "不可见"
+            },
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深蓝色警服",
+                "position": "背景门口",
+                "action": "从门口走进来",
+                "expression": "不可见"
+            }
+        ],
+        "background": "审讯室门口",
+        "description_narrative": "一名警察从门口走进审讯室，走向秦迦。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 1.06,
+        "description_visual": "全景侧拍镜头；审讯室门口；前景右侧人物，身穿白色西装外套，坐在椅子上，表情：不可见；背景门口人物，身穿深蓝色警服，从门口走进来，表情：不可见。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深蓝色警服",
+                "position": "画面中央",
+                "action": "站在铁栏后，双手插兜",
+                "expression": "眼神审视，眉毛微挑"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "警察隔着铁栏问秦迦是不是跟那小子说了太多。",
+        "dialogue": "跟那小子说了。",
+        "speaker": "警察",
+        "emotion": "质疑",
+        "duration": 1.24,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿深蓝色警服，站在铁栏后，双手插兜，表情：眼神审视，眉毛微挑。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "抬头看向警察",
+                "expression": "眼神坚定，嘴唇微动"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "秦迦维护温羡，说他查案是为了自己。",
+        "dialogue": "他是为了我才查的案子。",
+        "speaker": "秦迦",
+        "emotion": "维护",
+        "duration": 3.44,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色西装外套，抬头看向警察，表情：眼神坚定，嘴唇微动。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "警察",
+                "gender": "男",
+                "clothing": "深蓝色警服",
+                "position": "画面中央",
+                "action": "低头看着秦迦",
+                "expression": "眼神怀疑，眉毛紧锁"
+            }
+        ],
+        "background": "铁栏后",
+        "description_narrative": "警察质疑秦迦，问是否能相信温羡。",
+        "dialogue": "秦迦，我们能相信他吗？",
+        "speaker": "警察",
+        "emotion": "怀疑",
+        "duration": 2.32,
+        "description_visual": "中近景平拍镜头；铁栏后；画面中央人物，身穿深蓝色警服，低头看着秦迦，表情：眼神怀疑，眉毛紧锁。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "沉默，眼神坚定",
+                "expression": "眼神直视，嘴唇紧闭"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "秦迦没有回答，只是坚定地看着前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "坚定",
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色西装外套，沉默，眼神坚定，表情：眼神直视，嘴唇紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "闪白",
+        "subjects": [
+            {
+                "name": "秦迦",
+                "gender": "女",
+                "clothing": "白色西装外套",
+                "position": "画面中央",
+                "action": "被强光笼罩",
+                "expression": "不可见"
+            }
+        ],
+        "background": "强光/白光",
+        "description_narrative": "画面被强烈的白光笼罩，转为回忆或转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.92,
+        "description_visual": "特写平拍镜头（闪白）；强光/白光；画面中央人物，身穿白色西装外套，被强光笼罩，表情：不可见。"
+    }
+]

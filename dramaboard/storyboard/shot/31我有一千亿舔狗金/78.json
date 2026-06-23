@@ -1,0 +1,570 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冰冰",
+                "gender": "女",
+                "clothing": "白色毛绒外套",
+                "position": "画面中央",
+                "action": "下巴微抬，嘴唇涂着红色口红",
+                "expression": "眉毛舒展，眼睛未完全入画，嘴巴微张"
+            }
+        ],
+        "background": "模糊的暖色调背景，光线柔和",
+        "description_narrative": "特写镜头聚焦在冰冰的下巴和颈部，她穿着白色毛绒外套，涂着红唇，画面静止，展现局部细节。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "特写平拍镜头；模糊的暖色调背景，光线柔和；画面中央人物，身穿白色毛绒外套，下巴微抬，嘴唇涂着红色口红，表情：眉毛舒展，眼睛未完全入画，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色上衣",
+                "position": "画面右侧",
+                "action": "侧脸朝向左侧，头发束起",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张似在发问"
+            }
+        ],
+        "background": "模糊的室内背景，光线较暗",
+        "description_narrative": "近景镜头拍摄紫玫瑰的侧脸，她神情警惕，头发束成马尾，身穿黑色上衣，背景虚化。",
+        "dialogue": "谁？",
+        "speaker": "紫玫瑰",
+        "emotion": "警惕",
+        "duration": 1.44,
+        "description_visual": "近景平拍镜头；模糊的室内背景，光线较暗；画面右侧人物，身穿黑色上衣，侧脸朝向左侧，头发束起，表情：眉毛微蹙，眼睛注视前方，嘴巴微张似在发问。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张京",
+                "gender": "男",
+                "clothing": "蓝色衬衫搭配黑色外套",
+                "position": "画面中央",
+                "action": "头部微侧，眼神凌厉",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴微张说话"
+            }
+        ],
+        "background": "暗调背景，突出人物面部",
+        "description_narrative": "近景镜头对准张京，他身穿蓝色衬衫和黑色外套，表情愤怒且霸道，眼神充满威胁。",
+        "dialogue": "我的女人，你也敢动，你活腻了。",
+        "speaker": "张京",
+        "emotion": "愤怒",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；暗调背景，突出人物面部；画面中央人物，身穿蓝色衬衫搭配黑色外套，头部微侧，眼神凌厉，表情：眉毛紧锁，眼睛瞪视，嘴巴微张说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面右侧",
+                "action": "身体微侧，被一只穿着蓝色袖口的手指着胸口",
+                "expression": "眉毛平展，眼睛看向左侧，嘴巴紧闭"
+            },
+            {
+                "name": "张京",
+                "gender": "男",
+                "clothing": "蓝色衬衫",
+                "position": "画面左侧（仅手部）",
+                "action": "伸出手指指向对方",
+                "expression": "null"
+            }
+        ],
+        "background": "黑色背景，光线集中在人物身上",
+        "description_narrative": "中近景镜头展示紫玫瑰被张京的手指指着胸口，她神情冷峻，张京的蓝色袖口在画面左侧清晰可见。",
+        "dialogue": "冰冰。",
+        "speaker": "张京",
+        "emotion": "冷峻",
+        "duration": 1.68,
+        "description_visual": "中近景平拍镜头；黑色背景，光线集中在人物身上；画面右侧人物，身穿黑色拉链上衣，身体微侧，被一只穿着蓝色袖口的手指着胸口，表情：眉毛平展，眼睛看向左侧，嘴巴紧闭；画面左侧（仅手部）人物，身穿蓝色衬衫，伸出手指指向对方，表情：null。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "冰冰",
+                "gender": "女",
+                "clothing": "白色毛绒外套，粉色内搭",
+                "position": "画面中央",
+                "action": "手抚摸颈部，眼神担忧",
+                "expression": "眉毛微蹙，眼睛看向一侧，嘴巴微张"
+            }
+        ],
+        "background": "模糊的暖色背景",
+        "description_narrative": "中近景镜头拍摄冰冰，她穿着白色毛绒外套，手捂着脖子，神情受惊且担忧，画面下方有字幕。",
+        "dialogue": "没事吧？",
+        "speaker": "张京",
+        "emotion": "担忧",
+        "duration": 1.76,
+        "description_visual": "中近景平拍镜头；模糊的暖色背景；画面中央人物，身穿白色毛绒外套，粉色内搭，手抚摸颈部，眼神担忧，表情：眉毛微蹙，眼睛看向一侧，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面中央",
+                "action": "直视前方，手握拳在胸前",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴涂红唇紧闭"
+            }
+        ],
+        "background": "模糊的暗色背景",
+        "description_narrative": "特写镜头聚焦紫玫瑰的面部，她眼神凌厉，涂着红唇，手握拳置于胸前，表情决绝。",
+        "dialogue": "杀了我吧。",
+        "speaker": "紫玫瑰",
+        "emotion": "决绝",
+        "duration": 1.32,
+        "description_visual": "特写平拍镜头；模糊的暗色背景；画面中央人物，身穿黑色拉链上衣，直视前方，手握拳在胸前，表情：眉毛微挑，眼睛睁大，嘴巴涂红唇紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张京",
+                "gender": "男",
+                "clothing": "蓝色衬衫搭配黑色外套",
+                "position": "画面中央",
+                "action": "侧头看向对方，嘴角微扬",
+                "expression": "眉毛舒展，眼睛微眯，嘴巴微张似在调笑"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "近景镜头拍摄张京，他神情自信且带有一丝玩味，身穿蓝色衬衫，眼神中透着轻蔑。",
+        "dialogue": "这么漂亮的女人，我怎么舍得杀。",
+        "speaker": "张京",
+        "emotion": "玩味",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；暗调背景；画面中央人物，身穿蓝色衬衫搭配黑色外套，侧头看向对方，嘴角微扬，表情：眉毛舒展，眼睛微眯，嘴巴微张似在调笑。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面中央",
+                "action": "直视前方，神情严肃",
+                "expression": "眉毛平展，眼睛注视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的暖色背景",
+        "description_narrative": "特写镜头再次给到紫玫瑰，她神情严肃，似乎想起了什么，准备说话。",
+        "dialogue": "对了。",
+        "speaker": "紫玫瑰",
+        "emotion": "严肃",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；模糊的暖色背景；画面中央人物，身穿黑色拉链上衣，直视前方，神情严肃，表情：眉毛平展，眼睛注视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张京",
+                "gender": "男",
+                "clothing": "蓝色衬衫搭配黑色外套",
+                "position": "画面中央",
+                "action": "低头看向下方，神情淡然",
+                "expression": "眉毛微垂，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "近景镜头拍摄张京低头，神情淡然，似乎在听对方说话，蓝色衬衫领口清晰可见。",
+        "dialogue": "穴位一个小时后就会解除，到时候自己走吧，张京。",
+        "speaker": "紫玫瑰",
+        "emotion": "淡然",
+        "duration": 3.76,
+        "description_visual": "近景平拍镜头；暗调背景；画面中央人物，身穿蓝色衬衫搭配黑色外套，低头看向下方，神情淡然，表情：眉毛微垂，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面中央",
+                "action": "画面模糊，似乎在快速移动或转身",
+                "expression": "模糊不清"
+            }
+        ],
+        "background": "暗色背景，动态模糊",
+        "description_narrative": "特写镜头快速晃动，画面模糊，捕捉到紫玫瑰移动的瞬间，营造紧张感。",
+        "dialogue": "别以为放了我",
+        "speaker": "紫玫瑰",
+        "emotion": "愤怒",
+        "duration": 1.0,
+        "description_visual": "特写平拍镜头（摇镜）；暗色背景，动态模糊；画面中央人物，身穿黑色拉链上衣，画面模糊，似乎在快速移动或转身，表情：模糊不清。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面中央",
+                "action": "直视镜头，眼神凶狠",
+                "expression": "眉毛紧锁，眼睛瞪视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的暖色背景",
+        "description_narrative": "特写镜头清晰捕捉紫玫瑰的面部，她眼神凶狠地发出威胁，画面下方有字幕。",
+        "dialogue": "我就会",
+        "speaker": "紫玫瑰",
+        "emotion": "凶狠",
+        "duration": 0.64,
+        "description_visual": "特写平拍镜头；模糊的暖色背景；画面中央人物，身穿黑色拉链上衣，直视镜头，眼神凶狠，表情：眉毛紧锁，眼睛瞪视，嘴巴紧闭。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张京",
+                "gender": "男",
+                "clothing": "蓝色衬衫搭配黑色外套",
+                "position": "画面中央",
+                "action": "低头闭眼，神情不屑",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微抿"
+            }
+        ],
+        "background": "暗调背景",
+        "description_narrative": "近景镜头拍摄张京，他闭着眼微微低头，对紫玫瑰的威胁表现出不屑一顾的态度。",
+        "dialogue": "饶过你",
+        "speaker": "紫玫瑰",
+        "emotion": "不屑",
+        "duration": 0.64,
+        "description_visual": "近景平拍镜头；暗调背景；画面中央人物，身穿蓝色衬衫搭配黑色外套，低头闭眼，神情不屑，表情：眉毛舒展，眼睛闭合，嘴巴微抿。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面左侧",
+                "action": "侧脸看向右方",
+                "expression": "眉毛平展，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "暗色背景，有光点",
+        "description_narrative": "中近景镜头拍摄紫玫瑰的侧脸，她看着张京和冰冰准备离开，神情复杂。",
+        "dialogue": "冰冰，我们走。",
+        "speaker": "张京",
+        "emotion": "复杂",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；暗色背景，有光点；画面左侧人物，身穿黑色拉链上衣，侧脸看向右方，表情：眉毛平展，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面右侧",
+                "action": "侧脸看向左方，背景黑暗",
+                "expression": "眉毛微蹙，眼睛注视，嘴巴紧闭"
+            }
+        ],
+        "background": "纯黑背景",
+        "description_narrative": "中近景镜头中，紫玫瑰在黑暗背景下侧脸注视，前景有模糊的白色物体（冰冰的外套）掠过。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "注视",
+        "duration": 0.76,
+        "description_visual": "中近景平拍镜头；纯黑背景；画面右侧人物，身穿黑色拉链上衣，侧脸看向左方，背景黑暗，表情：眉毛微蹙，眼睛注视，嘴巴紧闭。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面中央",
+                "action": "正面直视，眼神坚定",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的暖色背景",
+        "description_narrative": "特写镜头聚焦紫玫瑰的面部，她眼神坚定地目送对方离开，表情冷峻。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "坚定",
+        "duration": 0.96,
+        "description_visual": "特写平拍镜头；模糊的暖色背景；画面中央人物，身穿黑色拉链上衣，正面直视，眼神坚定，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面中央",
+                "action": "眼神微动，看向一侧",
+                "expression": "眉毛微挑，眼睛看向右侧，嘴巴紧闭"
+            }
+        ],
+        "background": "红色与暗色混合背景",
+        "description_narrative": "特写镜头中，紫玫瑰眼神微动，背景呈现红色调，前景有模糊遮挡物。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "警惕",
+        "duration": 2.44,
+        "description_visual": "特写平拍镜头；红色与暗色混合背景；画面中央人物，身穿黑色拉链上衣，眼神微动，看向一侧，表情：眉毛微挑，眼睛看向右侧，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "冰冰",
+                "gender": "女",
+                "clothing": "白色鞋子",
+                "position": "画面左侧",
+                "action": "脚部特写，正在行走",
+                "expression": "null"
+            }
+        ],
+        "background": "模糊的地面和门框",
+        "description_narrative": "低角度特写镜头跟随脚步移动，捕捉到一只穿着白色鞋子的脚正在行走，画面动态模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.12,
+        "description_visual": "特写低角度镜头（跟拍）；模糊的地面和门框；画面左侧人物，身穿白色鞋子，脚部特写，正在行走，表情：null。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "低角度",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "张京",
+                "gender": "男",
+                "clothing": "黑色裤子，白色鞋子",
+                "position": "画面中央",
+                "action": "脚部特写，正在行走",
+                "expression": "null"
+            }
+        ],
+        "background": "模糊的地面",
+        "description_narrative": "低角度特写镜头跟随另一双脚，穿着黑色裤子和白色鞋子，步伐稳健地行走。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.16,
+        "description_visual": "特写低角度镜头（跟拍）；模糊的地面；画面中央人物，身穿黑色裤子，白色鞋子，脚部特写，正在行走，表情：null。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "极度模糊的暗色画面",
+                "expression": "null"
+            }
+        ],
+        "background": "全黑或极暗环境",
+        "description_narrative": "画面极度模糊且黑暗，仅能辨认出模糊的肤色或物体轮廓，作为转场。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.24,
+        "description_visual": "特写平拍镜头（摇镜）；全黑或极暗环境；画面中央人物，身穿未知，极度模糊的暗色画面，表情：null。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面中央",
+                "action": "躺在地上，手被按住或抚摸颈部",
+                "expression": "眉毛微蹙，眼睛微睁，嘴巴涂红唇"
+            },
+            {
+                "name": "未知男性",
+                "gender": "男",
+                "clothing": "未知",
+                "position": "画面上方（仅手部）",
+                "action": "手按在紫玫瑰颈部",
+                "expression": "null"
+            }
+        ],
+        "background": "灰色地面",
+        "description_narrative": "俯拍特写镜头，紫玫瑰躺在地上，神情痛苦，一只手按在她的颈部，画外音响起嘲讽。",
+        "dialogue": "想不到杀手界闻名的紫玫瑰，今天会落到这份田地。",
+        "speaker": "未知男性",
+        "emotion": "痛苦",
+        "duration": 6.2,
+        "description_visual": "特写俯拍镜头；灰色地面；画面中央人物，身穿黑色拉链上衣，躺在地上，手被按住或抚摸颈部，表情：眉毛微蹙，眼睛微睁，嘴巴涂红唇；画面上方（仅手部）人物，身穿未知，手按在紫玫瑰颈部，表情：null。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面右侧",
+                "action": "侧脸贴地，眼神不甘",
+                "expression": "眉毛紧锁，眼睛看向下方，嘴巴微张"
+            }
+        ],
+        "background": "灰色地面",
+        "description_narrative": "侧面特写镜头，紫玫瑰侧脸贴地，眼神中流露出不甘，画面下方有字幕。",
+        "dialogue": "输赢就在一念间",
+        "speaker": "未知男性",
+        "emotion": "不甘",
+        "duration": 4.64,
+        "description_visual": "特写侧拍镜头；灰色地面；画面右侧人物，身穿黑色拉链上衣，侧脸贴地，眼神不甘，表情：眉毛紧锁，眼睛看向下方，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面中央",
+                "action": "闭眼躺在地上，手在头部附近",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴微张"
+            }
+        ],
+        "background": "灰色地面",
+        "description_narrative": "俯拍特写镜头，紫玫瑰闭眼躺在地上，似乎已无力反抗，手无力地放在头部附近。",
+        "dialogue": "动手吧。",
+        "speaker": "未知男性",
+        "emotion": "无力",
+        "duration": 3.16,
+        "description_visual": "特写俯拍镜头；灰色地面；画面中央人物，身穿黑色拉链上衣，闭眼躺在地上，手在头部附近，表情：眉毛舒展，眼睛闭合，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "紫玫瑰",
+                "gender": "女",
+                "clothing": "黑色拉链上衣",
+                "position": "画面中央",
+                "action": "闭眼躺在地上，神情平静",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "灰色地面",
+        "description_narrative": "俯拍特写镜头，紫玫瑰闭眼躺在地上，神情平静，等待命运的安排。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "平静",
+        "duration": 4.08,
+        "description_visual": "特写俯拍镜头；灰色地面；画面中央人物，身穿黑色拉链上衣，闭眼躺在地上，神情平静，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "张京",
+                "gender": "男",
+                "clothing": "蓝色衬衫搭配黑色外套",
+                "position": "画面中央",
+                "action": "闭眼后睁开，神情冷傲",
+                "expression": "眉毛微蹙，眼睛睁开，嘴巴微张说话"
+            }
+        ],
+        "background": "模糊的室内背景，有灯光",
+        "description_narrative": "近景镜头拍摄张京，他闭眼后睁开，神情冷傲，直面幕后黑手，说出关键台词。",
+        "dialogue": "我就知道是你们这群废物。",
+        "speaker": "张京",
+        "emotion": "冷傲",
+        "duration": 8.12,
+        "description_visual": "近景平拍镜头；模糊的室内背景，有灯光；画面中央人物，身穿蓝色衬衫搭配黑色外套，闭眼后睁开，神情冷傲，表情：眉毛微蹙，眼睛睁开，嘴巴微张说话。"
+    }
+]

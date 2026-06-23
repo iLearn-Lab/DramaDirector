@@ -1,0 +1,498 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面右侧",
+                "action": "身体前倾，双手在洗手台处动作，似在洗手或洗脸",
+                "expression": "眉毛舒展，眼睛微闭或视线下垂，嘴巴微张"
+            }
+        ],
+        "background": "灰色大理石纹墙面的洗手间，光线明亮冷调",
+        "description_narrative": "中景固定镜头，男子身穿白色立领衬衫，侧身站在灰色大理石墙面的洗手台前，身体前倾，双手在水槽处动作，神情放松。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "中景平拍镜头；灰色大理石纹墙面的洗手间，光线明亮冷调；画面右侧人物，身穿白色立领衬衫，身体前倾，双手在洗手台处动作，似在洗手或洗脸，表情：眉毛舒展，眼睛微闭或视线下垂，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，头部微垂",
+                "expression": "眉毛微蹙，眼睛紧闭，嘴巴紧闭呈不悦状"
+            }
+        ],
+        "background": "室内卧室背景，可见木质条纹墙面和白色床头",
+        "description_narrative": "特写镜头，林妙身穿棕色无袖上衣，佩戴银色项链，双臂交叉抱胸，双眼紧闭，眉头微蹙，神情显得厌烦或疲惫。",
+        "dialogue": "林妙",
+        "speaker": "男子",
+        "emotion": "厌烦",
+        "duration": 2.08,
+        "description_visual": "特写平拍镜头；室内卧室背景，可见木质条纹墙面和白色床头；画面中央人物，身穿棕色无袖上衣，双臂交叉抱在胸前，头部微垂，表情：眉毛微蹙，眼睛紧闭，嘴巴紧闭呈不悦状。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央偏右",
+                "action": "身体转动，头部转向后方，似在回头寻找或呼唤",
+                "expression": "眉毛微挑，眼睛注视侧后方，嘴巴微张似在说话"
+            }
+        ],
+        "background": "灰色大理石纹墙面的洗手间",
+        "description_narrative": "中近景镜头，男子在洗手间内转身，头部回转，眼神看向侧后方，嘴巴微张，似乎在连续呼唤某人的名字。",
+        "dialogue": "林妙 林妙",
+        "speaker": "男子",
+        "emotion": " playful",
+        "duration": 3.92,
+        "description_visual": "中近景平拍镜头（摇镜）；灰色大理石纹墙面的洗手间；画面中央偏右人物，身穿白色立领衬衫，身体转动，头部转向后方，似在回头寻找或呼唤，表情：眉毛微挑，眼睛注视侧后方，嘴巴微张似在说话。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面左侧",
+                "action": "头部微侧，仅露出部分侧脸和长发",
+                "expression": "眼睛未完全可见，面部表情模糊"
+            }
+        ],
+        "background": "模糊的棕色窗帘或墙面背景",
+        "description_narrative": "特写镜头，画面聚焦于林妙的侧脸和长发，背景为模糊的棕色条纹，男子在画外连续使用昵称呼唤。",
+        "dialogue": "小林林 小妙妙 小林妙",
+        "speaker": "男子",
+        "emotion": " playful",
+        "duration": 9.92,
+        "description_visual": "特写平拍镜头；模糊的棕色窗帘或墙面背景；画面左侧人物，身穿棕色无袖上衣，头部微侧，仅露出部分侧脸和长发，表情：眼睛未完全可见，面部表情模糊。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面左侧",
+                "action": "面部靠近镜头，眼睛微闭",
+                "expression": "眉毛舒展，眼睛微闭，嘴巴微张"
+            },
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "未知",
+                "position": "画面右侧",
+                "action": "面部靠近林妙，侧脸对着镜头",
+                "expression": "眉毛舒展，眼睛注视林妙，嘴巴微张似在耳语"
+            }
+        ],
+        "background": "室内模糊背景",
+        "description_narrative": "大特写推进镜头，男子脸庞贴近林妙，在她耳边轻声呼唤“媳妇”，林妙双眼微闭，神情被动。",
+        "dialogue": "媳妇",
+        "speaker": "男子",
+        "emotion": "亲密",
+        "duration": 1.84,
+        "description_visual": "大特写平拍镜头（推进）；室内模糊背景；画面左侧人物，身穿棕色无袖上衣，面部靠近镜头，眼睛微闭，表情：眉毛舒展，眼睛微闭，嘴巴微张；画面右侧人物，身穿未知，面部靠近林妙，侧脸对着镜头，表情：眉毛舒展，眼睛注视林妙，嘴巴微张似在耳语。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面右侧",
+                "action": "头部微侧，面带笑意",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张露齿笑"
+            }
+        ],
+        "background": "木质纹理墙面背景",
+        "description_narrative": "近景镜头，男子身穿白衬衫，面带 playful 的笑容，似乎对林妙的反应感到有趣，画外传来林妙厌烦的声音。",
+        "dialogue": "哎呀你好烦啊",
+        "speaker": "林妙",
+        "emotion": "厌烦",
+        "duration": 1.96,
+        "description_visual": "近景平拍镜头；木质纹理墙面背景；画面右侧人物，身穿白色立领衬衫，头部微侧，面带笑意，表情：眉毛舒展，眼睛注视前方，嘴巴微张露齿笑。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面中央",
+                "action": "头部转向右侧，眼神看向侧方",
+                "expression": "眉毛微蹙，眼睛睁大注视侧方，嘴巴微张似在惊讶或质问"
+            }
+        ],
+        "background": "卧室背景，可见白色床头和木质墙面",
+        "description_narrative": "近景镜头，林妙转头看向右侧，眼神中带着惊讶和质问，嘴巴微张，似乎对刚才的称呼或对话感到意外。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "惊讶",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；卧室背景，可见白色床头和木质墙面；画面中央人物，身穿棕色无袖上衣，头部转向右侧，眼神看向侧方，表情：眉毛微蹙，眼睛睁大注视侧方，嘴巴微张似在惊讶或质问。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向侧方",
+                "expression": "眉毛微挑，眼睛注视侧方，嘴巴闭合神情认真"
+            }
+        ],
+        "background": "木质纹理墙面背景",
+        "description_narrative": "近景镜头，男子神情认真，头部微侧，似乎在反问刚才的称呼有什么问题。",
+        "dialogue": "你刚才叫我什么",
+        "speaker": "男子",
+        "emotion": "认真",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；木质纹理墙面背景；画面中央人物，身穿白色立领衬衫，头部微侧，眼神看向侧方，表情：眉毛微挑，眼睛注视侧方，嘴巴闭合神情认真。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面中央",
+                "action": "头部微仰，眼神看向侧上方",
+                "expression": "眉毛舒展，眼睛注视侧上方，嘴巴闭合神情冷淡"
+            }
+        ],
+        "background": "卧室背景，可见白色床头",
+        "description_narrative": "近景镜头，林妙头部微仰，眼神冷淡地看向侧上方，画外传来男子询问“媳妇哪里不对吗”的声音。",
+        "dialogue": "媳妇哪里不对吗",
+        "speaker": "男子",
+        "emotion": "冷淡",
+        "duration": 1.84,
+        "description_visual": "近景平拍镜头；卧室背景，可见白色床头；画面中央人物，身穿棕色无袖上衣，头部微仰，眼神看向侧上方，表情：眉毛舒展，眼睛注视侧上方，嘴巴闭合神情冷淡。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面中央",
+                "action": "头部转向右侧，眼神犀利",
+                "expression": "眉毛微蹙，眼睛注视右侧，嘴巴微张似在反驳"
+            }
+        ],
+        "background": "卧室背景，可见白色床头",
+        "description_narrative": "近景镜头，林妙转头看向右侧，眼神犀利，嘴巴微张，语气强硬地拒绝“媳妇”这个称呼。",
+        "dialogue": "鬼才是你媳妇",
+        "speaker": "林妙",
+        "emotion": "强硬",
+        "duration": 3.08,
+        "description_visual": "近景平拍镜头；卧室背景，可见白色床头；画面中央人物，身穿棕色无袖上衣，头部转向右侧，眼神犀利，表情：眉毛微蹙，眼睛注视右侧，嘴巴微张似在反驳。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向侧方",
+                "expression": "眉毛微挑，眼睛注视侧方，嘴巴微张似在倾听"
+            }
+        ],
+        "background": "木质纹理墙面背景",
+        "description_narrative": "近景镜头，男子头部微侧，眼神看向侧方，嘴巴微张，正在倾听林妙关于私下称呼的规定。",
+        "dialogue": "咱俩私下不许叫我媳妇",
+        "speaker": "林妙",
+        "emotion": "严肃",
+        "duration": 1.36,
+        "description_visual": "近景平拍镜头；木质纹理墙面背景；画面中央人物，身穿白色立领衬衫，头部微侧，眼神看向侧方，表情：眉毛微挑，眼睛注视侧方，嘴巴微张似在倾听。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面中央",
+                "action": "头部微垂，眼睛闭合",
+                "expression": "眉毛微蹙，眼睛紧闭，嘴巴微张似在思考或无奈"
+            }
+        ],
+        "background": "卧室背景，可见木质墙面",
+        "description_narrative": "特写镜头，林妙双眼紧闭，眉头微蹙，画外传来男子询问私下该叫什么，并试探性地提出“宝贝”。",
+        "dialogue": "那私下叫你什么 宝贝",
+        "speaker": "男子",
+        "emotion": "试探",
+        "duration": 4.84,
+        "description_visual": "特写平拍镜头；卧室背景，可见木质墙面；画面中央人物，身穿棕色无袖上衣，头部微垂，眼睛闭合，表情：眉毛微蹙，眼睛紧闭，嘴巴微张似在思考或无奈。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，头部微垂",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张似在表达不适"
+            }
+        ],
+        "background": "木质纹理墙面背景",
+        "description_narrative": "近景镜头，男子双臂交叉抱胸，头部微垂，眼神下移，画外传来林妙嫌弃的声音“你好恶心啊”。",
+        "dialogue": "你好恶心啊",
+        "speaker": "林妙",
+        "emotion": "嫌弃",
+        "duration": 4.44,
+        "description_visual": "近景平拍镜头；木质纹理墙面背景；画面中央人物，身穿白色立领衬衫，双臂交叉抱在胸前，头部微垂，表情：眉毛微蹙，眼睛视线下移，嘴巴微张似在表达不适。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向侧方",
+                "expression": "眉毛舒展，眼睛注视侧方，嘴巴微张神情严肃"
+            }
+        ],
+        "background": "卧室背景，可见白色床头",
+        "description_narrative": "近景镜头，林妙神情严肃，转头看向侧方，画外传来男子转换话题，询问关于小叔聊天的看法。",
+        "dialogue": "今天你小叔跟你聊天 你怎么看",
+        "speaker": "男子",
+        "emotion": "严肃",
+        "duration": 4.2,
+        "description_visual": "近景平拍镜头；卧室背景，可见白色床头；画面中央人物，身穿棕色无袖上衣，头部微侧，眼神看向侧方，表情：眉毛舒展，眼睛注视侧方，嘴巴微张神情严肃。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "双臂交叉抱在胸前，头部微侧",
+                "expression": "眉毛微蹙，眼睛注视侧方，嘴巴闭合神情凝重"
+            }
+        ],
+        "background": "木质纹理墙面背景",
+        "description_narrative": "近景镜头，男子双臂交叉，神情凝重，讲述爷爷病倒后家族内部有人觊觎位置、明里暗里搞事情的局面。",
+        "dialogue": "爷爷倒下之后 好多人惦记我这个位置 明里暗里的搞事情",
+        "speaker": "男子",
+        "emotion": "凝重",
+        "duration": 6.64,
+        "description_visual": "近景平拍镜头；木质纹理墙面背景；画面中央人物，身穿白色立领衬衫，双臂交叉抱在胸前，头部微侧，表情：眉毛微蹙，眼睛注视侧方，嘴巴闭合神情凝重。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向侧方",
+                "expression": "眉毛微蹙，眼睛注视侧方，嘴巴微张似在提议"
+            }
+        ],
+        "background": "卧室背景，可见白色床头",
+        "description_narrative": "近景镜头，林妙神情严肃，提议抓出内鬼，画外音或她本人讲述虽然家里待对方如家人，但对方却背叛了。",
+        "dialogue": "那要不先把内鬼抓了吧 扫除一个算一个 嗯通过今天早上的事 我心里已经知道是谁了 但我就是不理解 为什么会背叛我们 我们家对他像自己家人一样",
+        "speaker": "林妙",
+        "emotion": "严肃",
+        "duration": 16.64,
+        "description_visual": "近景平拍镜头；卧室背景，可见白色床头；画面中央人物，身穿棕色无袖上衣，头部微侧，眼神看向侧方，表情：眉毛微蹙，眼睛注视侧方，嘴巴微张似在提议。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男子",
+                "gender": "男",
+                "clothing": "白色立领衬衫",
+                "position": "画面中央",
+                "action": "头部微垂，眼神下移",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张神情复杂"
+            }
+        ],
+        "background": "木质纹理墙面背景",
+        "description_narrative": "近景镜头，男子头部微垂，眼神下移，神情复杂，似乎对处理背叛者感到有些不忍心。",
+        "dialogue": "有点不忍心",
+        "speaker": "男子",
+        "emotion": "不忍",
+        "duration": 2.72,
+        "description_visual": "近景平拍镜头；木质纹理墙面背景；画面中央人物，身穿白色立领衬衫，头部微垂，眼神下移，表情：眉毛微蹙，眼睛视线下移，嘴巴微张神情复杂。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面中央",
+                "action": "头部微侧，眼神坚定",
+                "expression": "眉毛微蹙，眼睛注视侧方，嘴巴闭合神情坚决"
+            }
+        ],
+        "background": "卧室背景，可见白色床头",
+        "description_narrative": "近景镜头，林妙眼神坚定，侧头看向一旁，语气坚决地表示不管因为什么，背叛的事实已经成立。",
+        "dialogue": "不管因为什么 他都已经背叛了",
+        "speaker": "林妙",
+        "emotion": "坚决",
+        "duration": 5.32,
+        "description_visual": "近景平拍镜头；卧室背景，可见白色床头；画面中央人物，身穿棕色无袖上衣，头部微侧，眼神坚定，表情：眉毛微蹙，眼睛注视侧方，嘴巴闭合神情坚决。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "无明显动作，画面黑暗",
+                "expression": "不可见"
+            }
+        ],
+        "background": "全黑背景",
+        "description_narrative": "特写镜头，画面全黑，仅显示字幕，画外传来决定“抓现行”的指令。",
+        "dialogue": "抓现行吧",
+        "speaker": "男子",
+        "emotion": "决断",
+        "duration": 2.92,
+        "description_visual": "特写平拍镜头；全黑背景；画面中央人物，身穿未知，无明显动作，画面黑暗，表情：不可见。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "林妙",
+                "gender": "女",
+                "clothing": "棕色无袖上衣",
+                "position": "画面中央",
+                "action": "面部隐没在黑暗中，仅轮廓可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "黑暗环境",
+        "description_narrative": "特写镜头，画面极暗，隐约可见林妙的侧脸轮廓，环境光线极弱。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；黑暗环境；画面中央人物，身穿棕色无袖上衣，面部隐没在黑暗中，仅轮廓可见，表情：不可见。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑背景",
+        "description_narrative": "全景镜头，画面全黑，无可见人物或动作，视频片段结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.0,
+        "description_visual": "全景平拍镜头；全黑背景。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "全黑背景",
+        "description_narrative": "全景镜头，画面全黑，视频结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.64,
+        "description_visual": "全景平拍镜头；全黑背景。"
+    }
+]

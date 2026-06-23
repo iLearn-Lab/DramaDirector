@@ -1,0 +1,1496 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "黄色外卖服，头盔",
+                "position": "中央前景",
+                "action": "看手表，神情严肃",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "左后景",
+                "action": "侧身站立",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            },
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "棕色西装",
+                "position": "右后景",
+                "action": "手插口袋",
+                "expression": "眉毛微挑，眼睛看向镜头，嘴巴紧闭"
+            },
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "红色礼服",
+                "position": "右后景",
+                "action": "手扶头发",
+                "expression": "眉毛舒展，眼睛看向镜头，嘴角上扬"
+            },
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "左后景",
+                "action": "戴眼镜，站立",
+                "expression": "眉毛平直，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "海报背景，金色钱币飞舞，城市夜景，暖色调光效",
+        "description_narrative": "全景固定镜头，海报画面展示主要角色，男主身穿黄色外卖服位于中央前景看手表，女主、反派男女及经理分布于后景，背景为金色钱币与城市夜景，标题“原来是首富”醒目。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.73,
+        "description_visual": "全景平拍镜头；海报背景，金色钱币飞舞，城市夜景，暖色调光效；中央前景人物，身穿黄色外卖服，头盔，看手表，神情严肃，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；左后景人物，身穿黑色吊带裙，侧身站立，表情：眉毛舒展，眼睛看向侧方，嘴巴微张；右后景人物，身穿棕色西装，手插口袋，表情：眉毛微挑，眼睛看向镜头，嘴巴紧闭；右后景人物，身穿红色礼服，手扶头发，表情：眉毛舒展，眼睛看向镜头，嘴角上扬；左后景人物，身穿黑色西装，戴眼镜，站立，表情：眉毛平直，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "中央",
+                "action": "背对镜头行走",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店大堂，条纹天花板，灯光虚化",
+        "description_narrative": "中景跟拍镜头，男主身穿米色西装背对镜头向大堂深处行走，背景为酒店大堂的条纹天花板和虚化灯光。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.77,
+        "description_visual": "中景平拍镜头（跟拍）；酒店大堂，条纹天花板，灯光虚化；中央人物，身穿米色西装，背对镜头行走，表情：不可见。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "黑色衣物",
+                "position": "前景",
+                "action": "快速移动遮挡镜头",
+                "expression": "不可见"
+            }
+        ],
+        "background": "酒店大堂，模糊人影",
+        "description_narrative": "特写摇镜镜头，前景有黑色衣物快速移动遮挡画面，背景模糊可见酒店大堂内的人影。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头（摇镜）；酒店大堂，模糊人影；前景人物，身穿黑色衣物，快速移动遮挡镜头，表情：不可见。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "左侧",
+                "action": "低头看女主",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "右侧",
+                "action": "仰头看男主",
+                "expression": "眉毛舒展，眼睛上视，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，条纹装饰墙",
+        "description_narrative": "近景低角度固定镜头，男主身穿米色西装低头看向女主，女主身穿黑色吊带裙仰头回应，两人距离极近，背景为酒店大堂的条纹装饰墙。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.7,
+        "description_visual": "近景低角度镜头；酒店大堂，条纹装饰墙；左侧人物，身穿米色西装，条纹衬衫，低头看女主，表情：眉毛微蹙，眼睛下视，嘴巴微张；右侧人物，身穿黑色吊带裙，仰头看男主，表情：眉毛舒展，眼睛上视，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "低角度",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "左侧",
+                "action": "搀扶女主",
+                "expression": "眉毛微蹙，眼睛注视女主，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "右侧",
+                "action": "身体后仰，手抬起",
+                "expression": "眉毛舒展，眼睛上视，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，虚化背景",
+        "description_narrative": "中近景低角度固定镜头，男主搀扶身体后仰的女主，女主一手抬起，两人姿态亲密，背景为虚化的酒店大堂。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.33,
+        "description_visual": "中近景低角度镜头；酒店大堂，虚化背景；左侧人物，身穿米色西装，搀扶女主，表情：眉毛微蹙，眼睛注视女主，嘴巴微张；右侧人物，身穿黑色吊带裙，身体后仰，手抬起，表情：眉毛舒展，眼睛上视，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "中央",
+                "action": "头部微侧",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "明亮光斑背景",
+        "description_narrative": "特写仰拍固定镜头，女主头部微侧，眼神略带疑惑，背景为明亮的光斑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.4,
+        "description_visual": "特写仰拍镜头；明亮光斑背景；中央人物，身穿黑色吊带裙，头部微侧，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "左侧",
+                "action": "低头注视",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "明亮光斑背景",
+        "description_narrative": "特写平拍固定镜头，男主低头注视，神情专注，背景为明亮的光斑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.83,
+        "description_visual": "特写平拍镜头；明亮光斑背景；左侧人物，身穿米色西装，条纹衬衫，低头注视，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "中央",
+                "action": "侧脸注视",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "明亮光斑背景",
+        "description_narrative": "特写平拍固定镜头，女主侧脸注视前方，神情平静，背景为明亮的光斑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；明亮光斑背景；中央人物，身穿黑色吊带裙，侧脸注视，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套，黑色内搭",
+                "position": "中央",
+                "action": "低头看手",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "酒店走廊，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派女身穿白色流苏外套低头看手，神情惊讶，背景为酒店走廊。",
+        "dialogue": "哎呀我这珠子",
+        "speaker": "反派女",
+        "emotion": "惊讶",
+        "duration": 1.23,
+        "description_visual": "中近景平拍镜头；酒店走廊，白色墙壁；中央人物，身穿白色流苏外套，黑色内搭，低头看手，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "右侧",
+                "action": "搀扶女主",
+                "expression": "眉毛微蹙，眼睛注视女主"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "右侧",
+                "action": "依靠男主",
+                "expression": "眉毛舒展，眼睛看向侧方"
+            }
+        ],
+        "background": "酒店大堂，大理石地面",
+        "description_narrative": "全景平拍固定镜头，男主搀扶女主站在大堂中央，反派女在旁惊呼珠子断了，地面为大理石材质。",
+        "dialogue": "哎呀我这珠子",
+        "speaker": "反派女",
+        "emotion": "惊讶",
+        "duration": 1.53,
+        "description_visual": "全景平拍镜头；酒店大堂，大理石地面；右侧人物，身穿米色西装，搀扶女主，表情：眉毛微蹙，眼睛注视女主；右侧人物，身穿黑色吊带裙，依靠男主，表情：眉毛舒展，眼睛看向侧方。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套",
+                "position": "中央",
+                "action": "双手交握",
+                "expression": "眉毛紧蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店走廊，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派女双手交握，神情委屈地质问珠子为何断了。",
+        "dialogue": "怎么断了呀",
+        "speaker": "反派女",
+        "emotion": "委屈",
+        "duration": 0.9,
+        "description_visual": "中近景平拍镜头；酒店走廊，白色墙壁；中央人物，身穿白色流苏外套，双手交握，表情：眉毛紧蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "手持红酒杯",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派男手持红酒杯，侧头看向某处，询问这是否是对方的东西。",
+        "dialogue": "这个不是你那个",
+        "speaker": "反派男",
+        "emotion": "疑惑",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁；中央人物，身穿灰色马甲，白衬衫，手持红酒杯，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "站立注视",
+                "expression": "眉毛平直，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主站立注视前方，神情冷峻，画外音响起询问这是否是他送外卖的前男友。",
+        "dialogue": "送外卖的前男友吗",
+        "speaker": "反派男",
+        "emotion": "嘲讽",
+        "duration": 1.57,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，站立注视，表情：眉毛平直，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "手持红酒杯",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派男手持红酒杯，面带讥讽地质问对方为何来此送外卖。",
+        "dialogue": "怎么跑到这来送外卖了",
+        "speaker": "反派男",
+        "emotion": "嘲讽",
+        "duration": 0.9,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁；中央人物，身穿灰色马甲，白衬衫，手持红酒杯，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "手持红酒杯",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派男继续手持红酒杯，重复质问对方为何来此送外卖。",
+        "dialogue": "怎么跑到这来送外卖了",
+        "speaker": "反派男",
+        "emotion": "嘲讽",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁；中央人物，身穿灰色马甲，白衬衫，手持红酒杯，表情：眉毛微挑，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "抬头说话",
+                "expression": "眉毛微蹙，眼睛上视，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主抬头说话，神情严肃，让对方不要装模作样。",
+        "dialogue": "你们别在这装模作样",
+        "speaker": "男主",
+        "emotion": "严肃",
+        "duration": 0.87,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，抬头说话，表情：眉毛微蹙，眼睛上视，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            },
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲",
+                "position": "左侧",
+                "action": "手持酒杯",
+                "expression": "眉毛平直"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛平直"
+            }
+        ],
+        "background": "酒店大堂，立柱，条纹墙",
+        "description_narrative": "全景平拍固定镜头，四人在大堂对峙，男主让对方不要装模作样，反派男女在旁。",
+        "dialogue": "你们别在这装模作样",
+        "speaker": "男主",
+        "emotion": "严肃",
+        "duration": 1.23,
+        "description_visual": "全景平拍镜头；酒店大堂，立柱，条纹墙；左侧人物，身穿白色流苏外套，站立，表情：眉毛微蹙；左侧人物，身穿灰色马甲，手持酒杯，表情：眉毛平直；右侧人物，身穿米色西装，站立，表情：眉毛微蹙；右侧人物，身穿黑色吊带裙，站立，表情：眉毛平直。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "说话",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主神情坚定，指出对方是故意的。",
+        "dialogue": "是你自己故意的",
+        "speaker": "男主",
+        "emotion": "坚定",
+        "duration": 0.53,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，说话，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "手指指向",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主手指指向对方，再次强调是对方故意的。",
+        "dialogue": "是你自己故意的",
+        "speaker": "男主",
+        "emotion": "坚定",
+        "duration": 0.77,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，手指指向，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "说话",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，绿色植物",
+        "description_narrative": "中近景平拍固定镜头，经理身穿黑色西装，面带笑容询问傅少为何到来。",
+        "dialogue": "傅少您怎么来了呀",
+        "speaker": "经理",
+        "emotion": "谄媚",
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；酒店大堂，绿色植物；中央人物，身穿黑色西装，白衬衫，说话，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "站立",
+                "expression": "眉毛平直，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主站立不动，神情淡然，画外音响起经理的询问声。",
+        "dialogue": "傅少您怎么来了呀",
+        "speaker": "经理",
+        "emotion": "谄媚",
+        "duration": 1.33,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，站立，表情：眉毛平直，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "说话",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，绿色植物",
+        "description_narrative": "中近景平拍固定镜头，经理继续说话，表示对方来了。",
+        "dialogue": "您来了",
+        "speaker": "经理",
+        "emotion": "谄媚",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；酒店大堂，绿色植物；中央人物，身穿黑色西装，白衬衫，说话，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "说话，手势",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，绿色植物",
+        "description_narrative": "中近景平拍固定镜头，经理伸手示意，抱怨对方不提前通知。",
+        "dialogue": "也不提前通知我一声",
+        "speaker": "经理",
+        "emotion": "谄媚",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；酒店大堂，绿色植物；中央人物，身穿黑色西装，白衬衫，说话，手势，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "说话，手势",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，绿色植物",
+        "description_narrative": "中近景平拍固定镜头，经理继续说话，表示本应派人去接。",
+        "dialogue": "我好派人出去接您呢",
+        "speaker": "经理",
+        "emotion": "谄媚",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；酒店大堂，绿色植物；中央人物，身穿黑色西装，白衬衫，说话，手势，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "手持红酒杯",
+                "expression": "眉毛平直，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派男手持红酒杯，神情冷淡，画外音响起关于宴会档次的评论。",
+        "dialogue": "你们宴会的档次",
+        "speaker": "反派女",
+        "emotion": "不满",
+        "duration": 2.3,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁；中央人物，身穿灰色马甲，白衬衫，手持红酒杯，表情：眉毛平直，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套",
+                "position": "中央",
+                "action": "双手抱臂",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店走廊，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派女双手抱臂，神情不屑，抱怨宴会档次越来越低。",
+        "dialogue": "真的是越来越低了",
+        "speaker": "反派女",
+        "emotion": "不屑",
+        "duration": 2.77,
+        "description_visual": "中近景平拍镜头；酒店走廊，白色墙壁；中央人物，身穿白色流苏外套，双手抱臂，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "眉毛平直"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            }
+        ],
+        "background": "酒店大堂，喷泉",
+        "description_narrative": "全景平拍固定镜头，男主女主并肩站立，神情严肃，画外音响起关于阿猫阿狗都能进来的抱怨。",
+        "dialogue": "什么阿猫阿狗都能进来",
+        "speaker": "反派女",
+        "emotion": "不屑",
+        "duration": 1.83,
+        "description_visual": "全景平拍镜头；酒店大堂，喷泉；左侧人物，身穿米色西装，站立，表情：眉毛平直；右侧人物，身穿黑色吊带裙，站立，表情：眉毛微蹙。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "说话",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，绿色植物",
+        "description_narrative": "中近景平拍固定镜头，经理附和说什么阿猫阿狗都能进来。",
+        "dialogue": "什么阿猫阿狗都能进来",
+        "speaker": "经理",
+        "emotion": "附和",
+        "duration": 2.3,
+        "description_visual": "中近景平拍镜头；酒店大堂，绿色植物；中央人物，身穿黑色西装，白衬衫，说话，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "手持红酒杯",
+                "expression": "眉毛平直，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派男低头看酒杯，画外音响起道歉声。",
+        "dialogue": "傅少对不起",
+        "speaker": "经理",
+        "emotion": "道歉",
+        "duration": 1.7,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁；中央人物，身穿灰色马甲，白衬衫，手持红酒杯，表情：眉毛平直，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "说话",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，绿色植物",
+        "description_narrative": "中近景平拍固定镜头，经理询问这两个人是谁。",
+        "dialogue": "这两个人是",
+        "speaker": "经理",
+        "emotion": "疑惑",
+        "duration": 1.2,
+        "description_visual": "中近景平拍镜头；酒店大堂，绿色植物；中央人物，身穿黑色西装，白衬衫，说话，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "侧脸说话",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，虚化背景",
+        "description_narrative": "特写侧拍固定镜头，经理侧脸说话，表示也不知道这两人是谁。",
+        "dialogue": "我也不知道",
+        "speaker": "经理",
+        "emotion": "疑惑",
+        "duration": 0.67,
+        "description_visual": "特写侧拍镜头；酒店大堂，虚化背景；中央人物，身穿黑色西装，白衬衫，侧脸说话，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "侧脸说话",
+                "expression": "眉毛舒展，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，虚化背景",
+        "description_narrative": "特写侧拍固定镜头，经理侧脸大声呵斥，让对方滚。",
+        "dialogue": "你们两个 还不赶紧给我滚",
+        "speaker": "经理",
+        "emotion": "愤怒",
+        "duration": 0.67,
+        "description_visual": "特写侧拍镜头；酒店大堂，虚化背景；中央人物，身穿黑色西装，白衬衫，侧脸说话，表情：眉毛舒展，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            },
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲",
+                "position": "左侧",
+                "action": "手持酒杯",
+                "expression": "眉毛平直"
+            },
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立",
+                "expression": "眉毛舒展"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛平直"
+            }
+        ],
+        "background": "酒店大堂，立柱",
+        "description_narrative": "全景平拍固定镜头，众人在大堂对峙，画外音响起男主指责对方看不起人。",
+        "dialogue": "你们也太看不起人了吧",
+        "speaker": "男主",
+        "emotion": "愤怒",
+        "duration": 1.6,
+        "description_visual": "全景平拍镜头；酒店大堂，立柱；左侧人物，身穿白色流苏外套，站立，表情：眉毛微蹙；左侧人物，身穿灰色马甲，手持酒杯，表情：眉毛平直；中央人物，身穿黑色西装，站立，表情：眉毛舒展；右侧人物，身穿米色西装，站立，表情：眉毛微蹙；右侧人物，身穿黑色吊带裙，站立，表情：眉毛平直。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "左侧",
+                "action": "说话",
+                "expression": "眉毛微蹙，嘴巴微张"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            }
+        ],
+        "background": "酒店大堂，喷泉",
+        "description_narrative": "全景平拍固定镜头，男主女主并肩站立，男主表示他们也是来参加晚宴的。",
+        "dialogue": "我们也是来参加晚宴的",
+        "speaker": "男主",
+        "emotion": "严肃",
+        "duration": 1.77,
+        "description_visual": "全景平拍镜头；酒店大堂，喷泉；左侧人物，身穿米色西装，说话，表情：眉毛微蹙，嘴巴微张；右侧人物，身穿黑色吊带裙，站立，表情：眉毛微蹙。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套",
+                "position": "中央",
+                "action": "双手抱臂",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店走廊，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派女双手抱臂，重复男主的话表示不屑。",
+        "dialogue": "我们也是来参加晚宴的",
+        "speaker": "反派女",
+        "emotion": "嘲讽",
+        "duration": 1.77,
+        "description_visual": "中近景平拍镜头；酒店走廊，白色墙壁；中央人物，身穿白色流苏外套，双手抱臂，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "中央",
+                "action": "注视",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "特写平拍固定镜头，女主神情冷峻，画外音响起反派女说知道他们的底细。",
+        "dialogue": "别人不知道 我还不知道你俩的底细",
+        "speaker": "反派女",
+        "emotion": "轻蔑",
+        "duration": 4.4,
+        "description_visual": "特写平拍镜头；酒店大堂，虚化灯光；中央人物，身穿黑色吊带裙，注视，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套",
+                "position": "中央",
+                "action": "双手抱臂",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店走廊，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派女双手抱臂，嘲讽男主是送外卖的穷鬼。",
+        "dialogue": "一个穷鬼送外卖的",
+        "speaker": "反派女",
+        "emotion": "轻蔑",
+        "duration": 2.9,
+        "description_visual": "中近景平拍镜头；酒店走廊，白色墙壁；中央人物，身穿白色流苏外套，双手抱臂，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "站立",
+                "expression": "眉毛平直，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主站立不动，画外音响起反派女说他们加起来也不值钱。",
+        "dialogue": "你们俩上上下下加起来",
+        "speaker": "反派女",
+        "emotion": "轻蔑",
+        "duration": 2.23,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，站立，表情：眉毛平直，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套",
+                "position": "中央",
+                "action": "双手抱臂",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店走廊，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派女继续嘲讽，说他们加起来也不值钱。",
+        "dialogue": "你们俩上上下下加起来",
+        "speaker": "反派女",
+        "emotion": "轻蔑",
+        "duration": 3.3,
+        "description_visual": "中近景平拍镜头；酒店走廊，白色墙壁；中央人物，身穿白色流苏外套，双手抱臂，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "手持红酒杯",
+                "expression": "眉毛平直，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派男手持酒杯，画外音响起说他们不如傅少一根毛值钱。",
+        "dialogue": "还没有 傅少身上一根毛值钱呢",
+        "speaker": "反派女",
+        "emotion": "轻蔑",
+        "duration": 3.2,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁；中央人物，身穿灰色马甲，白衬衫，手持红酒杯，表情：眉毛平直，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            },
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲",
+                "position": "左侧",
+                "action": "手持酒杯",
+                "expression": "眉毛平直"
+            },
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立",
+                "expression": "眉毛舒展"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛平直"
+            }
+        ],
+        "background": "酒店大堂，立柱",
+        "description_narrative": "全景平拍固定镜头，众人在大堂对峙，反派男问女主他说得对吗，女主回答是啊。",
+        "dialogue": "亲爱的你说我说的对吗 是啊",
+        "speaker": "反派男",
+        "emotion": "得意",
+        "duration": 2.27,
+        "description_visual": "全景平拍镜头；酒店大堂，立柱；左侧人物，身穿白色流苏外套，站立，表情：眉毛微蹙；左侧人物，身穿灰色马甲，手持酒杯，表情：眉毛平直；中央人物，身穿黑色西装，站立，表情：眉毛舒展；右侧人物，身穿米色西装，站立，表情：眉毛微蹙；右侧人物，身穿黑色吊带裙，站立，表情：眉毛平直。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "中央",
+                "action": "注视",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "特写平拍固定镜头，女主神情冷峻，画外音响起说没有请柬不能进来。",
+        "dialogue": "这个地方没有请柬",
+        "speaker": "反派男",
+        "emotion": "傲慢",
+        "duration": 2.03,
+        "description_visual": "特写平拍镜头；酒店大堂，虚化灯光；中央人物，身穿黑色吊带裙，注视，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "手持红酒杯，拿红色卡片",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派男手持红酒杯和红色卡片，说不能进来。",
+        "dialogue": "是不能进来的",
+        "speaker": "反派男",
+        "emotion": "傲慢",
+        "duration": 0.77,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁；中央人物，身穿灰色马甲，白衬衫，手持红酒杯，拿红色卡片，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "手持红酒杯，拿红色卡片",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派男继续说有些混吃混喝的废物。",
+        "dialogue": "有些混吃混喝的废物",
+        "speaker": "反派男",
+        "emotion": "傲慢",
+        "duration": 0.73,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁；中央人物，身穿灰色马甲，白衬衫，手持红酒杯，拿红色卡片，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "手持红酒杯，拿红色卡片",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "室内，白色墙壁",
+        "description_narrative": "中近景平拍固定镜头，反派男继续说有些混吃混喝的废物。",
+        "dialogue": "有些混吃混喝的废物",
+        "speaker": "反派男",
+        "emotion": "傲慢",
+        "duration": 0.57,
+        "description_visual": "中近景平拍镜头；室内，白色墙壁；中央人物，身穿灰色马甲，白衬衫，手持红酒杯，拿红色卡片，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "中央",
+                "action": "注视",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "特写平拍固定镜头，女主神情愤怒，画外音响起反派男说混吃混喝的废物。",
+        "dialogue": "有些混吃混喝的废物",
+        "speaker": "反派男",
+        "emotion": "傲慢",
+        "duration": 1.3,
+        "description_visual": "特写平拍镜头；酒店大堂，虚化灯光；中央人物，身穿黑色吊带裙，注视，表情：眉毛微蹙，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "中央",
+                "action": "说话",
+                "expression": "眉毛微蹙，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "特写平拍固定镜头，女主神情愤怒，质问什么请柬。",
+        "dialogue": "什么请柬",
+        "speaker": "女主",
+        "emotion": "愤怒",
+        "duration": 0.83,
+        "description_visual": "特写平拍镜头；酒店大堂，虚化灯光；中央人物，身穿黑色吊带裙，说话，表情：眉毛微蹙，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "说话",
+                "expression": "眉毛舒展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，条纹墙",
+        "description_narrative": "中近景平拍固定镜头，经理神情得意，说早就知道他们没有请柬。",
+        "dialogue": "我就知道你们没有请柬",
+        "speaker": "经理",
+        "emotion": "得意",
+        "duration": 1.4,
+        "description_visual": "中近景平拍镜头；酒店大堂，条纹墙；中央人物，身穿黑色西装，白衬衫，说话，表情：眉毛舒展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 48,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "侧头",
+                "expression": "眉毛平直，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主侧头，画外音响起说都是跑过来骗吃骗喝的。",
+        "dialogue": "都是跑过来",
+        "speaker": "经理",
+        "emotion": "轻蔑",
+        "duration": 1.33,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，侧头，表情：眉毛平直，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 49,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派女",
+                "gender": "女",
+                "clothing": "白色流苏外套",
+                "position": "左侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            },
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲",
+                "position": "左侧",
+                "action": "手持酒杯",
+                "expression": "眉毛平直"
+            },
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "中央",
+                "action": "站立",
+                "expression": "眉毛舒展"
+            },
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛微蹙"
+            },
+            {
+                "name": "女主",
+                "gender": "女",
+                "clothing": "黑色吊带裙",
+                "position": "右侧",
+                "action": "站立",
+                "expression": "眉毛平直"
+            }
+        ],
+        "background": "酒店大堂，立柱",
+        "description_narrative": "全景平拍固定镜头，众人在大堂对峙，画外音响起说是骗吃骗喝的吧。",
+        "dialogue": "骗吃骗喝的吧",
+        "speaker": "经理",
+        "emotion": "轻蔑",
+        "duration": 2.0,
+        "description_visual": "全景平拍镜头；酒店大堂，立柱；左侧人物，身穿白色流苏外套，站立，表情：眉毛微蹙；左侧人物，身穿灰色马甲，手持酒杯，表情：眉毛平直；中央人物，身穿黑色西装，站立，表情：眉毛舒展；右侧人物，身穿米色西装，站立，表情：眉毛微蹙；右侧人物，身穿黑色吊带裙，站立，表情：眉毛平直。"
+    },
+    {
+        "index": 50,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "经理",
+                "gender": "男",
+                "clothing": "黑色西装，白衬衫",
+                "position": "中央",
+                "action": "说话",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "酒店大堂，条纹墙",
+        "description_narrative": "中近景平拍固定镜头，经理神情严厉，让保安把这两个骗吃骗喝的赶出去。",
+        "dialogue": "保安 把这两个骗吃骗喝的",
+        "speaker": "经理",
+        "emotion": "严厉",
+        "duration": 1.23,
+        "description_visual": "中近景平拍镜头；酒店大堂，条纹墙；中央人物，身穿黑色西装，白衬衫，说话，表情：眉毛微蹙，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 51,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "站立",
+                "expression": "眉毛平直，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主站立不动，画外音响起经理说赶紧赶出去。",
+        "dialogue": "赶紧给我赶出去",
+        "speaker": "经理",
+        "emotion": "严厉",
+        "duration": 1.53,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，站立，表情：眉毛平直，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 52,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "侧脸",
+                "expression": "眉毛平直，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，虚化背景",
+        "description_narrative": "中近景平拍固定镜头，反派男侧脸站立，神情冷漠。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.1,
+        "description_visual": "中近景平拍镜头；室内，虚化背景；中央人物，身穿灰色马甲，白衬衫，侧脸，表情：眉毛平直，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 53,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "站立",
+                "expression": "眉毛平直，眼睛看向侧方，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主站立，神情淡然。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，站立，表情：眉毛平直，眼睛看向侧方，嘴巴紧闭。"
+    },
+    {
+        "index": 54,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "反派男",
+                "gender": "男",
+                "clothing": "灰色马甲，白衬衫",
+                "position": "中央",
+                "action": "站立",
+                "expression": "眉毛平直，眼睛直视前方，嘴巴紧闭"
+            }
+        ],
+        "background": "室内，虚化背景",
+        "description_narrative": "中近景平拍固定镜头，反派男正面站立，神情冷漠。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；室内，虚化背景；中央人物，身穿灰色马甲，白衬衫，站立，表情：眉毛平直，眼睛直视前方，嘴巴紧闭。"
+    },
+    {
+        "index": 55,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "男主",
+                "gender": "男",
+                "clothing": "米色西装，条纹衬衫",
+                "position": "中央",
+                "action": "闭眼",
+                "expression": "眉毛舒展，眼睛闭合，嘴巴紧闭"
+            }
+        ],
+        "background": "酒店大堂，虚化灯光",
+        "description_narrative": "中近景平拍固定镜头，男主闭眼，神情隐忍。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中近景平拍镜头；酒店大堂，虚化灯光；中央人物，身穿米色西装，条纹衬衫，闭眼，表情：眉毛舒展，眼睛闭合，嘴巴紧闭。"
+    },
+    {
+        "index": 56,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "全景固定镜头，画面变为白色屏幕。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.73,
+        "description_visual": "全景平拍镜头；白色屏幕。"
+    }
+]

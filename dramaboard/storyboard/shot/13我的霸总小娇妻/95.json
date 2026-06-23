@@ -1,0 +1,498 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色背景，红色与黑色文字标题",
+        "description_narrative": "画面展示剧集标题“都市巅峰狂少 第104集”，红黑字体位于白色背景中央。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.84,
+        "description_visual": "特写平拍镜头；白色背景，红色与黑色文字标题。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "书房背景，模糊的书架，层板灯带发出暖光",
+        "description_narrative": "镜头聚焦于书房背景，深色书架上排列着书籍，层板灯带提供照明，画面略显模糊，营造氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.4,
+        "description_visual": "中景平拍镜头；书房背景，模糊的书架，层板灯带发出暖光。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "低头阅读手中的书本",
+                "expression": "嘴角微扬，眼神专注向下"
+            }
+        ],
+        "background": "明亮的室内，白色窗帘背景",
+        "description_narrative": "小林身穿白色衬衫，坐在明亮处低头阅读一本书，脸上带着淡淡的微笑，神情轻松。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.64,
+        "description_visual": "近景平拍镜头；明亮的室内，白色窗帘背景；画面中央人物，身穿白色衬衫，低头阅读手中的书本，表情：嘴角微扬，眼神专注向下。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "站立，手中盘玩核桃",
+                "expression": "面带笑容，眼神赞许"
+            }
+        ],
+        "background": "书房背景，书架与灯光",
+        "description_narrative": "爷爷身穿绿色唐装站在书架前，手中盘着核桃，面带欣慰的笑容看着前方，开口夸奖小林。",
+        "dialogue": "小林，好样的，你做到了。",
+        "speaker": "爷爷",
+        "emotion": "欣慰",
+        "duration": 2.92,
+        "description_visual": "中景平拍镜头；书房背景，书架与灯光；画面中央人物，身穿绿色中式唐装，站立，手中盘玩核桃，表情：面带笑容，眼神赞许。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "抬头向上看",
+                "expression": "眼神向上，表情谦虚"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "小林抬头看向爷爷的方向，表情谦虚，回应爷爷的夸奖，将功劳归结为对手失误。",
+        "dialogue": "谢谢爷爷夸奖，周浪自己把周氏折腾惨了，才被我抓住机会的。",
+        "speaker": "小林",
+        "emotion": "谦虚",
+        "duration": 5.24,
+        "description_visual": "近景仰拍镜头；白色窗帘背景；画面中央人物，身穿白色衬衫，抬头向上看，表情：眼神向上，表情谦虚。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "手持核桃，微微点头",
+                "expression": "笑容加深，眼神肯定"
+            }
+        ],
+        "background": "书房背景，书架",
+        "description_narrative": "爷爷听着小林的解释，笑着点头，进一步肯定小林的能力很强。",
+        "dialogue": "也就是，你的能力还是很强的。",
+        "speaker": "爷爷",
+        "emotion": "肯定",
+        "duration": 2.56,
+        "description_visual": "中景平拍镜头；书房背景，书架；画面中央人物，身穿绿色中式唐装，手持核桃，微微点头，表情：笑容加深，眼神肯定。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "闭眼微笑，头部微仰",
+                "expression": "眉眼舒展，嘴角上扬"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "小林闭眼笑了笑，显得十分高兴，谦虚地说是侥幸，并提到今天很高兴。",
+        "dialogue": "侥幸侥幸，今天高兴。",
+        "speaker": "小林",
+        "emotion": "高兴",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；白色窗帘背景；画面中央人物，身穿白色衬衫，闭眼微笑，头部微仰，表情：眉眼舒展，嘴角上扬。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "手持核桃，身体微侧",
+                "expression": "感慨地微笑"
+            }
+        ],
+        "background": "书房背景，书架",
+        "description_narrative": "爷爷感慨地说在自己有生之年，还能看到周氏倒下，语气中透着释然。",
+        "dialogue": "在我有生之年。",
+        "speaker": "爷爷",
+        "emotion": "感慨",
+        "duration": 2.36,
+        "description_visual": "中景平拍镜头；书房背景，书架；画面中央人物，身穿绿色中式唐装，手持核桃，身体微侧，表情：感慨地微笑。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "抬头注视",
+                "expression": "眼神专注，表情平静"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "小林静静听着爷爷感慨能看到周氏倒下，爷爷接着邀请小林陪他喝点酒。",
+        "dialogue": "还能看到周氏倒下。",
+        "speaker": "爷爷",
+        "emotion": null,
+        "duration": 2.6,
+        "description_visual": "近景仰拍镜头；白色窗帘背景；画面中央人物，身穿白色衬衫，抬头注视，表情：眼神专注，表情平静。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "伸手做出邀请手势",
+                "expression": "期待地微笑"
+            }
+        ],
+        "background": "书房背景，书架",
+        "description_narrative": "爷爷伸出手，邀请小林陪他喝点酒庆祝，神情期待。",
+        "dialogue": "陪我喝点。",
+        "speaker": "爷爷",
+        "emotion": "期待",
+        "duration": 0.96,
+        "description_visual": "中景平拍镜头；书房背景，书架；画面中央人物，身穿绿色中式唐装，伸手做出邀请手势，表情：期待地微笑。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "闭眼摇头，婉拒",
+                "expression": "嘴角微张，似在解释"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "小林闭眼婉拒了喝酒的邀请，解释说要去见妙妙吃饭。",
+        "dialogue": "我去见妙妙吃饭。",
+        "speaker": "小林",
+        "emotion": "婉拒",
+        "duration": 0.64,
+        "description_visual": "近景平拍镜头；白色窗帘背景；画面中央人物，身穿白色衬衫，闭眼摇头，婉拒，表情：嘴角微张，似在解释。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "微笑点头",
+                "expression": "理解地笑"
+            }
+        ],
+        "background": "书房背景，书架",
+        "description_narrative": "爷爷理解地笑着，挥手示意小林去吧。",
+        "dialogue": "去吧。",
+        "speaker": "爷爷",
+        "emotion": "理解",
+        "duration": 1.68,
+        "description_visual": "中景平拍镜头；书房背景，书架；画面中央人物，身穿绿色中式唐装，微笑点头，表情：理解地笑。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "躺在床上，闭眼休息",
+                "expression": "眉眼低垂，神情慵懒"
+            }
+        ],
+        "background": "卧室，白色床铺",
+        "description_narrative": "场景切换至卧室，妙妙躺在白色床铺上，闭着眼睛，似乎刚睡醒或正在休息。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "慵懒",
+        "duration": 0.6,
+        "description_visual": "特写俯拍镜头；卧室，白色床铺；画面中央人物，身穿白色上衣，躺在床上，闭眼休息，表情：眉眼低垂，神情慵懒。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面右侧",
+                "action": "侧卧，手臂搭在被子上",
+                "expression": "闭眼，表情放松"
+            }
+        ],
+        "background": "卧室，白色床铺",
+        "description_narrative": "妙妙侧卧在床上，黑色长发散落在枕头上，手臂自然搭在被子上，显得十分疲惫。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疲惫",
+        "duration": 2.6,
+        "description_visual": "近景侧拍镜头；卧室，白色床铺；画面右侧人物，身穿白色上衣，侧卧，手臂搭在被子上，表情：闭眼，表情放松。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "手指微动",
+                "expression": "眉头微蹙，似有不适"
+            }
+        ],
+        "background": "卧室，白色床铺",
+        "description_narrative": "镜头特写妙妙的脸部，她眉头微蹙，似乎身体有些不适或疲惫，手指轻轻抓着被子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "不适",
+        "duration": 4.08,
+        "description_visual": "特写俯拍镜头；卧室，白色床铺；画面中央人物，身穿白色上衣，手指微动，表情：眉头微蹙，似有不适。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "手握住妙妙的手",
+                "expression": null
+            },
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "未知",
+                "position": "画面右侧",
+                "action": "手被握住",
+                "expression": null
+            }
+        ],
+        "background": "卧室，床边",
+        "description_narrative": "特写镜头展示小林的手握住了妙妙的手，动作轻柔，显示两人的亲密关系。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.92,
+        "description_visual": "特写平拍镜头；卧室，床边；画面左侧人物，身穿白色衬衫，手握住妙妙的手；画面右侧人物，身穿未知，手被握住。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "睁眼看向前方",
+                "expression": "眼神略带埋怨，嘴唇微张"
+            }
+        ],
+        "background": "卧室，白色床铺",
+        "description_narrative": "妙妙睁开眼，眼神略带埋怨地看着旁边，开口说自己后悔了，骂对方是王八蛋。",
+        "dialogue": "我后悔了，王八蛋。",
+        "speaker": "妙妙",
+        "emotion": "埋怨",
+        "duration": 5.56,
+        "description_visual": "特写俯拍镜头；卧室，白色床铺；画面中央人物，身穿白色上衣，睁眼看向前方，表情：眼神略带埋怨，嘴唇微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "双手枕在脑后，躺着",
+                "expression": "嘴角含笑，眼神戏谑"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "小林双手枕在脑后躺在旁边，笑着问妙妙后悔什么了，神情轻松戏谑。",
+        "dialogue": "后悔什么了？",
+        "speaker": "小林",
+        "emotion": "戏谑",
+        "duration": 1.44,
+        "description_visual": "近景仰拍镜头；白色窗帘背景；画面中央人物，身穿白色衬衫，双手枕在脑后，躺着，表情：嘴角含笑，眼神戏谑。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "闭眼皱眉，手抓被子",
+                "expression": "眉头紧锁，表情痛苦"
+            }
+        ],
+        "background": "卧室，白色床铺",
+        "description_narrative": "妙妙闭着眼皱眉，抱怨说不该给小林，折腾死自己了。",
+        "dialogue": "我就不该给你。",
+        "speaker": "妙妙",
+        "emotion": "抱怨",
+        "duration": 17.72,
+        "description_visual": "特写俯拍镜头；卧室，白色床铺；画面中央人物，身穿白色上衣，闭眼皱眉，手抓被子，表情：眉头紧锁，表情痛苦。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "仰拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "小林",
+                "gender": "男",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "躺着，双手枕后",
+                "expression": "微笑，眼神宠溺"
+            }
+        ],
+        "background": "白色窗帘背景",
+        "description_narrative": "小林调情地承诺下次温柔点，并催促妙妙下楼陪爷爷吃饭，语气亲昵。",
+        "dialogue": "折腾死我了。那下次我温柔点。你还能笑得出来。好啊，老婆大人。下楼陪爷爷吃饭了。",
+        "speaker": "小林",
+        "emotion": "亲昵",
+        "duration": 2.16,
+        "description_visual": "近景仰拍镜头；白色窗帘背景；画面中央人物，身穿白色衬衫，躺着，双手枕后，表情：微笑，眼神宠溺。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "妙妙",
+                "gender": "女",
+                "clothing": "白色上衣",
+                "position": "画面中央",
+                "action": "躺着，手抓被子",
+                "expression": "眼神微睁，略带娇嗔"
+            }
+        ],
+        "background": "卧室，白色床铺",
+        "description_narrative": "妙妙让小林先下去，自己要换身衣服，小林进一步调戏说要看她换，被妙妙笑骂滚。",
+        "dialogue": "你先下去吧。我换身衣服。我看着你换。哎滚。",
+        "speaker": "妙妙",
+        "emotion": "娇嗔",
+        "duration": 1.96,
+        "description_visual": "特写俯拍镜头；卧室，白色床铺；画面中央人物，身穿白色上衣，躺着，手抓被子，表情：眼神微睁，略带娇嗔。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "爷爷",
+                "gender": "男",
+                "clothing": "绿色中式唐装",
+                "position": "画面中央",
+                "action": "站立，手持核桃",
+                "expression": "微笑等待"
+            }
+        ],
+        "background": "书房背景，书架",
+        "description_narrative": "镜头切回书房，爷爷手持核桃站立，面带微笑，似乎在等待小林和妙妙下楼吃饭。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；书房背景，书架；画面中央人物，身穿绿色中式唐装，站立，手持核桃，表情：微笑等待。"
+    }
+]

@@ -1,0 +1,1231 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "背对镜头站立",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "死者",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面左侧",
+                "action": "面对太子站立",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "金色长袍",
+                "position": "画面右侧",
+                "action": "站立",
+                "expression": "眉毛平展，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "古色古香的房间，有屏风和桌椅，光线明亮",
+        "description_narrative": "全景镜头，房间内太子背对镜头站立，面对一名灰衣男子，右侧有侍卫站立，气氛紧张。",
+        "dialogue": "私自调兵。",
+        "speaker": "太子",
+        "emotion": "严肃",
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；古色古香的房间，有屏风和桌椅，光线明亮；画面中央人物，身穿米色绿边长袍，背对镜头站立，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；画面左侧人物，身穿灰色长袍，面对太子站立，表情：眉毛舒展，眼睛直视，嘴巴微张；画面右侧人物，身穿金色长袍，站立，表情：眉毛平展，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "背对镜头站立",
+                "expression": "眉毛微蹙，眼睛直视前方，嘴巴紧闭"
+            },
+            {
+                "name": "死者",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面左侧",
+                "action": "面对太子站立",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，有屏风和桌椅，光线明亮",
+        "description_narrative": "全景镜头，太子继续面对灰衣男子，字幕显示罪同谋反。",
+        "dialogue": "私自调兵罪同谋反",
+        "speaker": "太子",
+        "emotion": "威严",
+        "duration": 1.16,
+        "description_visual": "全景平拍镜头；古色古香的房间，有屏风和桌椅，光线明亮；画面中央人物，身穿米色绿边长袍，背对镜头站立，表情：眉毛微蹙，眼睛直视前方，嘴巴紧闭；画面左侧人物，身穿灰色长袍，面对太子站立，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "死者",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面中央",
+                "action": "被剑抵住脖子",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，灰衣男子被剑抵住脖子，表情惊恐。",
+        "dialogue": "给我就地正法",
+        "speaker": "太子",
+        "emotion": "冷酷",
+        "duration": 2.48,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿灰色长袍，被剑抵住脖子，表情：眉毛微蹙，眼睛睁大，嘴巴紧闭。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色暗纹长袍",
+                "position": "画面中央",
+                "action": "侧身站立",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，齐公子侧身站立，表情惊讶地质问。",
+        "dialogue": "给我就地正法，你敢？",
+        "speaker": "齐公子",
+        "emotion": "震惊",
+        "duration": 3.12,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色暗纹长袍，侧身站立，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "侧身站立",
+                "expression": "眉毛平展，眼睛直视前方，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景侧拍，太子侧脸，表情平静。",
+        "dialogue": "堂堂中郎将的儿子就这么被杀了。",
+        "speaker": "齐公子",
+        "emotion": "平静",
+        "duration": 3.44,
+        "description_visual": "近景侧拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，侧身站立，表情：眉毛平展，眼睛直视前方，嘴巴微张。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "手指前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            },
+            {
+                "name": "死者",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面前景",
+                "action": "倒在地上",
+                "expression": "闭眼，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，地上躺着尸体",
+        "description_narrative": "全景镜头，太子手指前方警告众人，地上躺着灰衣男子的尸体。",
+        "dialogue": "这就是个提醒，以后你们谁敢乱用。",
+        "speaker": "太子",
+        "emotion": "严厉",
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头；古色古香的房间，地上躺着尸体；画面中央人物，身穿米色绿边长袍，手指前方，表情：眉毛微蹙，眼睛直视，嘴巴微张；画面前景人物，身穿灰色长袍，倒在地上，表情：闭眼，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "手指前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，地上躺着尸体",
+        "description_narrative": "全景镜头，太子继续指着前方说话。",
+        "dialogue": "父权。",
+        "speaker": "太子",
+        "emotion": "严厉",
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；古色古香的房间，地上躺着尸体；画面中央人物，身穿米色绿边长袍，手指前方，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "手指前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，地上躺着尸体",
+        "description_narrative": "全景镜头，太子继续警告众人。",
+        "dialogue": "定当格杀。",
+        "speaker": "太子",
+        "emotion": "严厉",
+        "duration": 1.88,
+        "description_visual": "全景平拍镜头；古色古香的房间，地上躺着尸体；画面中央人物，身穿米色绿边长袍，手指前方，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "手指前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，地上躺着尸体",
+        "description_narrative": "全景镜头，太子继续警告众人。",
+        "dialogue": "勿论，严惩不贷。",
+        "speaker": "太子",
+        "emotion": "严厉",
+        "duration": 2.08,
+        "description_visual": "全景平拍镜头；古色古香的房间，地上躺着尸体；画面中央人物，身穿米色绿边长袍，手指前方，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "侧身站立",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景侧拍，太子表情严肃地警告。",
+        "dialogue": "连同你们的父亲。",
+        "speaker": "太子",
+        "emotion": "严厉",
+        "duration": 1.12,
+        "description_visual": "近景侧拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，侧身站立，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "侧身站立",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景侧拍，太子表情凶狠。",
+        "dialogue": "一块杀",
+        "speaker": "太子",
+        "emotion": "凶狠",
+        "duration": 1.8,
+        "description_visual": "近景侧拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，侧身站立，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "正视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，太子表情冷酷。",
+        "dialogue": "一块杀。",
+        "speaker": "太子",
+        "emotion": "冷酷",
+        "duration": 5.12,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，正视前方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "正视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，太子下令带走。",
+        "dialogue": "给我带走。",
+        "speaker": "太子",
+        "emotion": "命令",
+        "duration": 2.32,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，正视前方，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "金色长袍",
+                "position": "画面右侧",
+                "action": "上前",
+                "expression": "眉毛平展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，地上躺着尸体",
+        "description_narrative": "全景镜头，侍卫上前执行命令。",
+        "dialogue": "是。",
+        "speaker": "侍卫",
+        "emotion": "服从",
+        "duration": 2.44,
+        "description_visual": "全景平拍镜头；古色古香的房间，地上躺着尸体；画面右侧人物，身穿金色长袍，上前，表情：眉毛平展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍卫",
+                "gender": "男",
+                "clothing": "金色长袍",
+                "position": "画面右侧",
+                "action": "拖拽",
+                "expression": "眉毛平展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，地上躺着尸体",
+        "description_narrative": "全景镜头，侍卫拖拽尸体离开。",
+        "dialogue": "走，快点。",
+        "speaker": "侍卫",
+        "emotion": "急促",
+        "duration": 1.0,
+        "description_visual": "全景平拍镜头；古色古香的房间，地上躺着尸体；画面右侧人物，身穿金色长袍，拖拽，表情：眉毛平展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色暗纹长袍",
+                "position": "画面中央",
+                "action": "侧身站立",
+                "expression": "眉毛微蹙，眼睛躲闪，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，齐公子表情惊恐，想要离开。",
+        "dialogue": "坏了，我得赶紧回去禀报父亲。",
+        "speaker": "齐公子",
+        "emotion": "惊恐",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色暗纹长袍，侧身站立，表情：眉毛微蹙，眼睛躲闪，嘴巴微张。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "正视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，太子看着齐公子。",
+        "dialogue": "走。",
+        "speaker": "太子",
+        "emotion": "冷漠",
+        "duration": 2.4,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，正视前方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "死者",
+                "gender": "男",
+                "clothing": "灰色长袍",
+                "position": "画面中央",
+                "action": "躺在地上",
+                "expression": "闭眼，嘴巴微张"
+            }
+        ],
+        "background": "木地板，有血迹",
+        "description_narrative": "特写俯拍，死者躺在地上，头部有血迹。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.68,
+        "description_visual": "特写俯拍镜头；木地板，有血迹；画面中央人物，身穿灰色长袍，躺在地上，表情：闭眼，嘴巴微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色暗纹长袍",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中景镜头，齐公子站立，太子画外音叫他。",
+        "dialogue": "齐公子",
+        "speaker": "太子",
+        "emotion": "平静",
+        "duration": 0.64,
+        "description_visual": "中景平拍镜头；模糊的室内背景；画面中央人物，身穿白色暗纹长袍，站立，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "正视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，太子看着齐公子。",
+        "dialogue": "就这么走了，懂了，懂了。",
+        "speaker": "齐公子",
+        "emotion": "讨好",
+        "duration": 4.16,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，正视前方，表情：眉毛微蹙，眼睛直视，嘴巴紧闭。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色暗纹长袍",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，齐公子笑着说话。",
+        "dialogue": "哼哼。",
+        "speaker": "齐公子",
+        "emotion": "尴尬",
+        "duration": 0.96,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色暗纹长袍，站立，表情：眉毛舒展，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色暗纹长袍",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，齐公子继续说话。",
+        "dialogue": "今日多有得罪，改日登门拜访。",
+        "speaker": "齐公子",
+        "emotion": "讨好",
+        "duration": 0.84,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色暗纹长袍，站立，表情：眉毛舒展，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "正视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，太子表情不悦。",
+        "dialogue": "给我。",
+        "speaker": "太子",
+        "emotion": "不悦",
+        "duration": 1.68,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，正视前方，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "正视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，太子大声喝退。",
+        "dialogue": "给我滚",
+        "speaker": "太子",
+        "emotion": "愤怒",
+        "duration": 0.68,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，正视前方，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "正视前方",
+                "expression": "眉毛微蹙，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，太子继续喝退。",
+        "dialogue": "滚。",
+        "speaker": "太子",
+        "emotion": "愤怒",
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，正视前方，表情：眉毛微蹙，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色暗纹长袍",
+                "position": "画面中央",
+                "action": "转身离开",
+                "expression": "眉毛舒展，眼睛躲闪，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中景侧拍，齐公子转身离开，连声答应。",
+        "dialogue": "好好好。",
+        "speaker": "齐公子",
+        "emotion": "惶恐",
+        "duration": 1.4,
+        "description_visual": "中景侧拍镜头；模糊的室内背景；画面中央人物，身穿白色暗纹长袍，转身离开，表情：眉毛舒展，眼睛躲闪，嘴巴微张。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色暗纹长袍",
+                "position": "画面中央",
+                "action": "快速离开",
+                "expression": "眉毛舒展，眼睛躲闪，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中景跟拍，齐公子快速离开。",
+        "dialogue": "对对对。",
+        "speaker": "齐公子",
+        "emotion": "惶恐",
+        "duration": 6.68,
+        "description_visual": "中景侧拍镜头（跟拍）；模糊的室内背景；画面中央人物，身穿白色暗纹长袍，快速离开，表情：眉毛舒展，眼睛躲闪，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "齐公子",
+                "gender": "男",
+                "clothing": "白色暗纹长袍",
+                "position": "画面中央",
+                "action": "快速离开",
+                "expression": "眉毛舒展，眼睛躲闪，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "中景跟拍，齐公子快速离开，发出笑声。",
+        "dialogue": "哈哈。",
+        "speaker": "齐公子",
+        "emotion": "尴尬",
+        "duration": 2.68,
+        "description_visual": "中景侧拍镜头（跟拍）；模糊的室内背景；画面中央人物，身穿白色暗纹长袍，快速离开，表情：眉毛舒展，眼睛躲闪，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛微弯，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐微笑看着太子。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "微笑",
+        "duration": 2.96,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，站立，表情：眉毛舒展，眼睛微弯，嘴角上扬。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "侧身站立",
+                "expression": "眉毛舒展，眼睛微弯，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景侧拍，太子温柔地看着苏小姐。",
+        "dialogue": "苏小姐，我的黄鹤楼，苏小姐可喜欢。",
+        "speaker": "太子",
+        "emotion": "温柔",
+        "duration": 1.72,
+        "description_visual": "近景侧拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，侧身站立，表情：眉毛舒展，眼睛微弯，嘴角上扬。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐看着太子。",
+        "dialogue": "苏小姐可喜欢",
+        "speaker": "太子",
+        "emotion": "温柔",
+        "duration": 0.64,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，站立，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "低头",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，太子低头微笑。",
+        "dialogue": "既然喜欢",
+        "speaker": "太子",
+        "emotion": "温柔",
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，低头，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "手持印章",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，太子手持印章。",
+        "dialogue": "还差一个落款。",
+        "speaker": "太子",
+        "emotion": "温柔",
+        "duration": 0.8,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，手持印章，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "手持玉扳指",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，太子手上的绿色玉扳指。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，手持玉扳指，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "手持印章",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，太子手中的青铜印章。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，手持印章，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "弯腰盖章",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            },
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面右侧",
+                "action": "站立观看",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，有桌案",
+        "description_narrative": "全景镜头，太子在桌案上盖章，苏小姐在一旁观看。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头；古色古香的房间，有桌案；画面中央人物，身穿米色绿边长袍，弯腰盖章，表情：眉毛舒展，眼睛下视，嘴角上扬；画面右侧人物，身穿白色纱质长裙，站立观看，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "弯腰盖章",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "古色古香的房间，有桌案",
+        "description_narrative": "全景镜头，太子盖章的动作。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.8,
+        "description_visual": "全景平拍镜头；古色古香的房间，有桌案；画面中央人物，身穿米色绿边长袍，弯腰盖章，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "弯腰",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景侧拍，太子弯腰盖章。",
+        "dialogue": "这首诗便赠。",
+        "speaker": "太子",
+        "emotion": "温柔",
+        "duration": 4.48,
+        "description_visual": "近景侧拍镜头；模糊的室内背景；画面中央人物，身穿米色绿边长袍，弯腰，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 38,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐看着太子。",
+        "dialogue": "便赠与苏小姐",
+        "speaker": "太子",
+        "emotion": "温柔",
+        "duration": 4.4,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，站立，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 39,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "递卷轴",
+                "expression": "眉毛舒展，眼睛直视，嘴角上扬"
+            },
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面右侧",
+                "action": "接过卷轴",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，有桌案",
+        "description_narrative": "全景镜头，太子将卷轴递给苏小姐。",
+        "dialogue": "与苏小姐，当是定情信物。",
+        "speaker": "太子",
+        "emotion": "温柔",
+        "duration": 3.2,
+        "description_visual": "全景平拍镜头；古色古香的房间，有桌案；画面中央人物，身穿米色绿边长袍，递卷轴，表情：眉毛舒展，眼睛直视，嘴角上扬；画面右侧人物，身穿白色纱质长裙，接过卷轴，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 40,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "太子",
+                "gender": "男",
+                "clothing": "米色绿边长袍",
+                "position": "画面中央",
+                "action": "站立",
+                "expression": "眉毛舒展，眼睛直视，嘴角上扬"
+            },
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面右侧",
+                "action": "手持卷轴",
+                "expression": "眉毛舒展，眼睛直视，嘴巴微张"
+            }
+        ],
+        "background": "古色古香的房间，有桌案",
+        "description_narrative": "全景镜头，两人对视。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.48,
+        "description_visual": "全景平拍镜头；古色古香的房间，有桌案；画面中央人物，身穿米色绿边长袍，站立，表情：眉毛舒展，眼睛直视，嘴角上扬；画面右侧人物，身穿白色纱质长裙，手持卷轴，表情：眉毛舒展，眼睛直视，嘴巴微张。"
+    },
+    {
+        "index": 41,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐看着卷轴。",
+        "dialogue": "嗯。",
+        "speaker": "苏小姐",
+        "emotion": "疑惑",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 42,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐看着卷轴，内心独白。",
+        "dialogue": "说他浪荡吧，他又心怀。",
+        "speaker": "苏小姐",
+        "emotion": "疑惑",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 43,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐继续内心独白。",
+        "dialogue": "他又心怀大义",
+        "speaker": "苏小姐",
+        "emotion": "疑惑",
+        "duration": 3.0,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 44,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐继续内心独白。",
+        "dialogue": "大义，说他故弄玄虚。",
+        "speaker": "苏小姐",
+        "emotion": "疑惑",
+        "duration": 4.0,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 45,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐继续内心独白。",
+        "dialogue": "说他故弄玄虚吧",
+        "speaker": "苏小姐",
+        "emotion": "疑惑",
+        "duration": 6.28,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 46,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐继续内心独白。",
+        "dialogue": "一手文章却当真。",
+        "speaker": "苏小姐",
+        "emotion": "疑惑",
+        "duration": 0.72,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 47,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐继续内心独白。",
+        "dialogue": "却当真盖世无双",
+        "speaker": "苏小姐",
+        "emotion": "疑惑",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 48,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐继续内心独白。",
+        "dialogue": "盖世无双，到底是什么人？",
+        "speaker": "苏小姐",
+        "emotion": "疑惑",
+        "duration": 1.0,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 49,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "特写镜头，卷轴上的印章。",
+        "dialogue": "大夏帝国皇太子",
+        "speaker": "苏小姐",
+        "emotion": "震惊",
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 50,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "苏小姐",
+                "gender": "女",
+                "clothing": "白色纱质长裙",
+                "position": "画面中央",
+                "action": "手持卷轴",
+                "expression": "眉毛微蹙，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的室内背景",
+        "description_narrative": "近景镜头，苏小姐震惊地看着印章。",
+        "dialogue": "他是太子。",
+        "speaker": "苏小姐",
+        "emotion": "震惊",
+        "duration": 3.2,
+        "description_visual": "近景平拍镜头；模糊的室内背景；画面中央人物，身穿白色纱质长裙，手持卷轴，表情：眉毛微蹙，眼睛睁大，嘴巴微张。"
+    }
+]

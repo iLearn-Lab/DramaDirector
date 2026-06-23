@@ -1,0 +1,802 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "绿色印花旗袍外搭棕色流苏披肩",
+                "position": "画面右侧",
+                "action": "站立，低头查看左手绷带",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            },
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套内搭白衬衫和花色长裙",
+                "position": "画面左侧背景",
+                "action": "从楼梯走上来，走向慕母",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "医院或办公楼走廊，背景有蓝色宣传海报和绿植，光线明亮",
+        "description_narrative": "全景镜头，慕母站在走廊右侧低头看手，慕小姐从左侧楼梯走上来，背景有蓝色海报。",
+        "dialogue": "妈，你这手怎么弄的？",
+        "speaker": "慕小姐",
+        "emotion": "关切",
+        "duration": 2.78,
+        "description_visual": "全景平拍镜头；医院或办公楼走廊，背景有蓝色宣传海报和绿植，光线明亮；画面右侧人物，身穿绿色印花旗袍外搭棕色流苏披肩，站立，低头查看左手绷带，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭；画面左侧背景人物，身穿灰色短款外套内搭白衬衫和花色长裙，从楼梯走上来，走向慕母，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "棕色流苏披肩",
+                "position": "画面中央",
+                "action": "左手缠着白色绷带，被另一只手握住",
+                "expression": "无面部表情"
+            },
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色外套白色袖口",
+                "position": "画面左侧",
+                "action": "双手握住慕母的左手",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "模糊的背景，聚焦于手部动作",
+        "description_narrative": "特写镜头，慕小姐的双手握住慕母缠着绷带的左手，画面下方有字幕。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.98,
+        "description_visual": "特写俯拍镜头；模糊的背景，聚焦于手部动作；画面中央人物，身穿棕色流苏披肩，左手缠着白色绷带，被另一只手握住，表情：无面部表情；画面左侧人物，身穿灰色外套白色袖口，双手握住慕母的左手，表情：无面部表情。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "绿色印花旗袍外搭棕色流苏披肩",
+                "position": "画面右侧",
+                "action": "低头看着自己的手，右手轻轻触碰绷带",
+                "expression": "眉毛微垂，眼睛视线下移，嘴巴微张"
+            },
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧前景",
+                "action": "背对镜头，仅露出部分头发和肩膀",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "室内走廊，光线柔和",
+        "description_narrative": "近景镜头，慕母低头看着手上的绷带，神情平淡，慕小姐在左侧倾听。",
+        "dialogue": "哎没事",
+        "speaker": "慕母",
+        "emotion": "敷衍",
+        "duration": 2.48,
+        "description_visual": "近景平拍镜头；室内走廊，光线柔和；画面右侧人物，身穿绿色印花旗袍外搭棕色流苏披肩，低头看着自己的手，右手轻轻触碰绷带，表情：眉毛微垂，眼睛视线下移，嘴巴微张；画面左侧前景人物，身穿灰色短款外套，背对镜头，仅露出部分头发和肩膀，表情：无面部表情。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套内搭白衬衫和花色长裙",
+                "position": "画面左侧",
+                "action": "看着慕母的手，眉头紧锁",
+                "expression": "眉毛紧蹙，眼睛注视手部，嘴巴微抿"
+            },
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "棕色流苏披肩",
+                "position": "画面右侧",
+                "action": "展示受伤的手",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "走廊背景，有蓝色海报",
+        "description_narrative": "过肩镜头，慕小姐面露担忧地看着慕母的手，慕母在右侧解释。",
+        "dialogue": "哎，没事，做饭不小心扎了。",
+        "speaker": "慕母",
+        "emotion": "掩饰",
+        "duration": 5.02,
+        "description_visual": "中景过肩镜头；走廊背景，有蓝色海报；画面左侧人物，身穿灰色短款外套内搭白衬衫和花色长裙，看着慕母的手，眉头紧锁，表情：眉毛紧蹙，眼睛注视手部，嘴巴微抿；画面右侧人物，身穿棕色流苏披肩，展示受伤的手，表情：无面部表情。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "绿色印花旗袍外搭棕色流苏披肩",
+                "position": "画面右侧",
+                "action": "眼神看向别处，左手微微抬起",
+                "expression": "眉毛舒展，眼睛看向左前方，嘴巴紧闭"
+            },
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "室内走廊，光线明亮",
+        "description_narrative": "中近景镜头，慕母眼神飘忽，似乎在思考别的事情，慕小姐在左侧说话。",
+        "dialogue": "对了妈，家里的钱怎么少了那么多，公司的资金链都要断了。",
+        "speaker": "慕小姐",
+        "emotion": "焦虑",
+        "duration": 1.96,
+        "description_visual": "中近景平拍镜头；室内走廊，光线明亮；画面右侧人物，身穿绿色印花旗袍外搭棕色流苏披肩，眼神看向别处，左手微微抬起，表情：眉毛舒展，眼睛看向左前方，嘴巴紧闭；画面左侧前景人物，身穿灰色短款外套，背对镜头，表情：无面部表情。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "绿色印花旗袍外搭棕色流苏披肩",
+                "position": "画面中央",
+                "action": "眼神看向左上方，左手护在胸前",
+                "expression": "眉毛微挑，眼睛视线上移，嘴巴微张"
+            },
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "室内走廊，背景虚化",
+        "description_narrative": "近景镜头，慕母听到资金链断裂，眼神看向别处，表情略显心虚。",
+        "dialogue": "公司的资金链都要断了",
+        "speaker": "慕小姐",
+        "emotion": "震惊",
+        "duration": 4.2,
+        "description_visual": "近景平拍镜头；室内走廊，背景虚化；画面中央人物，身穿绿色印花旗袍外搭棕色流苏披肩，眼神看向左上方，左手护在胸前，表情：眉毛微挑，眼睛视线上移，嘴巴微张；画面左侧前景人物，身穿灰色短款外套，背对镜头，表情：无面部表情。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套内搭白衬衫和花色长裙",
+                "position": "画面左侧",
+                "action": "看着慕母，表情担忧",
+                "expression": "眉毛紧蹙，眼睛注视慕母，嘴巴微张"
+            },
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "棕色流苏披肩",
+                "position": "画面右侧",
+                "action": "右手搭在慕小姐肩上",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "走廊背景，有蓝色海报",
+        "description_narrative": "中景镜头，慕小姐面露难色，慕母将手搭在她肩上安慰。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 11.92,
+        "description_visual": "中景平拍镜头；走廊背景，有蓝色海报；画面左侧人物，身穿灰色短款外套内搭白衬衫和花色长裙，看着慕母，表情担忧，表情：眉毛紧蹙，眼睛注视慕母，嘴巴微张；画面右侧人物，身穿棕色流苏披肩，右手搭在慕小姐肩上，表情：无面部表情。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "绿色印花旗袍外搭棕色流苏披肩",
+                "position": "画面中央",
+                "action": "双手交叉抱胸，眼神怨恨",
+                "expression": "眉毛紧锁，眼睛斜视，嘴巴紧闭"
+            },
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "室内走廊，光线冷调",
+        "description_narrative": "近景镜头，慕母表情变得怨恨，双手抱胸，似乎在盘算着什么。",
+        "dialogue": "难道我们只能眼睁睁的看着她慕星染过好日子，而慕家破产吗？",
+        "speaker": "慕小姐",
+        "emotion": "不甘",
+        "duration": 9.28,
+        "description_visual": "近景平拍镜头；室内走廊，光线冷调；画面中央人物，身穿绿色印花旗袍外搭棕色流苏披肩，双手交叉抱胸，眼神怨恨，表情：眉毛紧锁，眼睛斜视，嘴巴紧闭；画面左侧前景人物，身穿灰色短款外套，背对镜头，表情：无面部表情。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套内搭白衬衫和花色长裙",
+                "position": "画面左侧",
+                "action": "看着慕母，表情急切",
+                "expression": "眉毛微蹙，眼睛注视慕母，嘴巴微张"
+            },
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "棕色流苏披肩",
+                "position": "画面右侧",
+                "action": "侧身站立，倾听",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "走廊背景，有蓝色海报",
+        "description_narrative": "中景镜头，慕小姐急切地向慕母提议，慕母侧身倾听。",
+        "dialogue": "妈，都怪慕星染不给我钱，不然我就能把公款还上了。你去联系厉司霆，把那慕星染跟男人鬼混的照片给他看，到时候。",
+        "speaker": "慕小姐",
+        "emotion": "急切",
+        "duration": 2.08,
+        "description_visual": "中景平拍镜头；走廊背景，有蓝色海报；画面左侧人物，身穿灰色短款外套内搭白衬衫和花色长裙，看着慕母，表情急切，表情：眉毛微蹙，眼睛注视慕母，嘴巴微张；画面右侧人物，身穿棕色流苏披肩，侧身站立，倾听，表情：无面部表情。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕母",
+                "gender": "女",
+                "clothing": "绿色印花旗袍外搭棕色流苏披肩",
+                "position": "画面中央",
+                "action": "嘴角微微上扬，眼神狡黠",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            },
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "室内走廊，光线柔和",
+        "description_narrative": "近景镜头，慕母听到计划后露出狡黠的笑容，慕小姐在左侧担忧地提问。",
+        "dialogue": "可妈，这慕星染失身的事儿，我们可都是知情的。现在才告诉厉司霆，他不会连我们一起怪罪吧？",
+        "speaker": "慕小姐",
+        "emotion": "担忧",
+        "duration": 2.44,
+        "description_visual": "近景平拍镜头；室内走廊，光线柔和；画面中央人物，身穿绿色印花旗袍外搭棕色流苏披肩，嘴角微微上扬，眼神狡黠，表情：眉毛舒展，眼睛微眯，嘴角上扬；画面左侧前景人物，身穿灰色短款外套，背对镜头，表情：无面部表情。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套内搭黑色纱裙和灰色长靴",
+                "position": "画面左侧",
+                "action": "背对镜头，站在中式大门前",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "中式庭院大门，红色门框，挂着红灯笼，光线明亮",
+        "description_narrative": "全景镜头，场景切换到室外，慕小姐背对镜头站在中式大门前等待。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 3.18,
+        "description_visual": "全景平拍镜头；中式庭院大门，红色门框，挂着红灯笼，光线明亮；画面左侧人物，身穿灰色短款外套内搭黑色纱裙和灰色长靴，背对镜头，站在中式大门前，表情：无面部表情。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套内搭白衬衫",
+                "position": "画面中央",
+                "action": "转身微笑，看向右侧",
+                "expression": "眉毛舒展，眼睛含笑，嘴角上扬"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "中近景镜头，慕小姐转身露出微笑，似乎看到了来人。",
+        "dialogue": "什么事？",
+        "speaker": "厉司霆",
+        "emotion": "冷淡",
+        "duration": 1.5,
+        "description_visual": "中近景平拍镜头；红色大门背景，光线自然；画面中央人物，身穿灰色短款外套内搭白衬衫，转身微笑，看向右侧，表情：眉毛舒展，眼睛含笑，嘴角上扬。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面右侧",
+                "action": "低头看着慕小姐",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            },
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧前景",
+                "action": "背对镜头",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "红色大门背景，虚化",
+        "description_narrative": "过肩镜头，厉司霆低头看着慕小姐，表情冷峻。",
+        "dialogue": "厉总。",
+        "speaker": "慕小姐",
+        "emotion": "讨好",
+        "duration": 1.2,
+        "description_visual": "近景过肩镜头；红色大门背景，虚化；画面右侧人物，身穿深色条纹双排扣西装，低头看着慕小姐，表情：眉毛微蹙，眼睛下视，嘴巴紧闭；画面左侧前景人物，身穿灰色短款外套，背对镜头，表情：无面部表情。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧",
+                "action": "侧身站立，看向右侧",
+                "expression": "眉毛舒展，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "侧拍镜头，慕小姐侧身站立，似乎在邀请对方。",
+        "dialogue": "嗯。",
+        "speaker": "厉司霆",
+        "emotion": "敷衍",
+        "duration": 4.04,
+        "description_visual": "中近景侧拍镜头；红色大门背景，光线自然；画面左侧人物，身穿灰色短款外套，侧身站立，看向右侧，表情：眉毛舒展，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面中央",
+                "action": "看着慕小姐，表情严肃",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "近景镜头，厉司霆表情严肃，直接拒绝了对方的提议。",
+        "dialogue": "厉总，我们要不要去喝点东西啊？",
+        "speaker": "慕小姐",
+        "emotion": "试探",
+        "duration": 1.98,
+        "description_visual": "近景平拍镜头；红色大门背景，光线自然；画面中央人物，身穿深色条纹双排扣西装，看着慕小姐，表情严肃，表情：眉毛微蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧",
+                "action": "看着厉司霆，表情略显尴尬",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴紧闭"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "中近景镜头，慕小姐听到拒绝后表情略显尴尬，僵在原地。",
+        "dialogue": "我不是来和你出来喝东西的。",
+        "speaker": "厉司霆",
+        "emotion": "冷硬",
+        "duration": 6.94,
+        "description_visual": "中近景平拍镜头；红色大门背景，光线自然；画面左侧人物，身穿灰色短款外套，看着厉司霆，表情略显尴尬，表情：眉毛微挑，眼睛注视对方，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面中央",
+                "action": "低头看着手中的照片",
+                "expression": "眉毛紧锁，眼睛下视，嘴巴微张"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "近景镜头，厉司霆低头看着手中的照片，神情专注。",
+        "dialogue": "这是",
+        "speaker": "厉司霆",
+        "emotion": "疑惑",
+        "duration": 1.92,
+        "description_visual": "近景平拍镜头；红色大门背景，光线自然；画面中央人物，身穿深色条纹双排扣西装，低头看着手中的照片，表情：眉毛紧锁，眼睛下视，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面右侧",
+                "action": "手持照片",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "模糊的背景，聚焦于照片",
+        "description_narrative": "特写镜头，照片显示一男一女背影，厉司霆的手拿着照片。",
+        "dialogue": "这是那晚。",
+        "speaker": "厉司霆",
+        "emotion": "回忆",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；模糊的背景，聚焦于照片；画面右侧人物，身穿深色条纹双排扣西装，手持照片，表情：无面部表情。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面右侧",
+                "action": "手持照片",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "模糊的背景，聚焦于照片",
+        "description_narrative": "特写镜头，照片内容清晰，厉司霆在思考照片来源。",
+        "dialogue": "她怎么拍到的",
+        "speaker": "厉司霆",
+        "emotion": "思索",
+        "duration": 11.44,
+        "description_visual": "特写平拍镜头；模糊的背景，聚焦于照片；画面右侧人物，身穿深色条纹双排扣西装，手持照片，表情：无面部表情。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧",
+                "action": "看着照片，表情得意",
+                "expression": "眉毛舒展，眼睛注视照片，嘴角微扬"
+            },
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面右侧",
+                "action": "手持照片",
+                "expression": "无面部表情"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "中近景镜头，慕小姐看着照片露出得意的神情，厉司霆在右侧。",
+        "dialogue": "厉总，我知道厉家一向都很重视声誉。你说厉家未来的孙少奶奶婚前私会男人，这个新闻够不够爆炸呀？",
+        "speaker": "慕小姐",
+        "emotion": "威胁",
+        "duration": 2.28,
+        "description_visual": "中近景平拍镜头；红色大门背景，光线自然；画面左侧人物，身穿灰色短款外套，看着照片，表情得意，表情：眉毛舒展，眼睛注视照片，嘴角微扬；画面右侧人物，身穿深色条纹双排扣西装，手持照片，表情：无面部表情。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面中央",
+                "action": "看着慕小姐，眼神锐利",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "近景镜头，厉司霆眼神锐利地看着慕小姐，识破了她的意图。",
+        "dialogue": "你是在威胁我",
+        "speaker": "厉司霆",
+        "emotion": "冷峻",
+        "duration": 3.66,
+        "description_visual": "近景平拍镜头；红色大门背景，光线自然；画面中央人物，身穿深色条纹双排扣西装，看着慕小姐，眼神锐利，表情：眉毛微挑，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧",
+                "action": "看着厉司霆，表情坚定",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "中近景镜头，慕小姐表情坚定，继续阐述自己的条件。",
+        "dialogue": "慕家的情况想必厉总也清楚。",
+        "speaker": "慕小姐",
+        "emotion": "自信",
+        "duration": 2.82,
+        "description_visual": "中近景平拍镜头；红色大门背景，光线自然；画面左侧人物，身穿灰色短款外套，看着厉司霆，表情坚定，表情：眉毛舒展，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面中央",
+                "action": "看着慕小姐，表情冷漠",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴紧闭"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "近景镜头，厉司霆表情冷漠，听着慕小姐的要求。",
+        "dialogue": "我们需要厉总的帮忙。",
+        "speaker": "慕小姐",
+        "emotion": "请求",
+        "duration": 5.18,
+        "description_visual": "近景平拍镜头；红色大门背景，光线自然；画面中央人物，身穿深色条纹双排扣西装，看着慕小姐，表情冷漠，表情：眉毛舒展，眼睛注视对方，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧",
+                "action": "看着厉司霆，表情贪婪",
+                "expression": "眉毛微挑，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "中近景镜头，慕小姐提出进一步的要求，表情贪婪。",
+        "dialogue": "而且，我想让厉总把慕星染开除了。",
+        "speaker": "慕小姐",
+        "emotion": "贪婪",
+        "duration": 2.56,
+        "description_visual": "中近景平拍镜头；红色大门背景，光线自然；画面左侧人物，身穿灰色短款外套，看着厉司霆，表情贪婪，表情：眉毛微挑，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面中央",
+                "action": "嘴角微扬，带着嘲讽",
+                "expression": "眉毛微挑，眼睛注视对方，嘴角上扬"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "近景镜头，厉司霆嘴角带着嘲讽的笑意，回应慕小姐。",
+        "dialogue": "慕小姐，你要求真多啊。",
+        "speaker": "厉司霆",
+        "emotion": "嘲讽",
+        "duration": 1.02,
+        "description_visual": "近景平拍镜头；红色大门背景，光线自然；画面中央人物，身穿深色条纹双排扣西装，嘴角微扬，带着嘲讽，表情：眉毛微挑，眼睛注视对方，嘴角上扬。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧",
+                "action": "看着厉司霆，表情严肃",
+                "expression": "眉毛微蹙，眼睛注视对方，嘴巴紧闭"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "中近景镜头，慕小姐表情严肃，准备应对厉司霆的反应。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.02,
+        "description_visual": "中近景平拍镜头；红色大门背景，光线自然；画面左侧人物，身穿灰色短款外套，看着厉司霆，表情严肃，表情：眉毛微蹙，眼睛注视对方，嘴巴紧闭。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面中央",
+                "action": "看着慕小姐，眼神冰冷",
+                "expression": "眉毛紧锁，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "近景镜头，厉司霆眼神冰冷，说出让慕家一无所有的话。",
+        "dialogue": "不过我也不介意让慕家",
+        "speaker": "厉司霆",
+        "emotion": "威胁",
+        "duration": 5.68,
+        "description_visual": "近景平拍镜头；红色大门背景，光线自然；画面中央人物，身穿深色条纹双排扣西装，看着慕小姐，眼神冰冷，表情：眉毛紧锁，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "慕小姐",
+                "gender": "女",
+                "clothing": "灰色短款外套",
+                "position": "画面左侧",
+                "action": "看着厉司霆，表情疯狂",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "中近景镜头，慕小姐表情疯狂，表示不在乎慕家破产。",
+        "dialogue": "一无所有。如果慕家真的一无所有，那我也不怕让她慕星染身败名裂。",
+        "speaker": "慕小姐",
+        "emotion": "疯狂",
+        "duration": 4.9,
+        "description_visual": "中近景平拍镜头；红色大门背景，光线自然；画面左侧人物，身穿灰色短款外套，看着厉司霆，表情疯狂，表情：眉毛舒展，眼睛注视对方，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面中央",
+                "action": "冷哼一声，看着照片",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "近景镜头，厉司霆冷哼一声，低头看着照片，不屑一顾。",
+        "dialogue": "哼。",
+        "speaker": "厉司霆",
+        "emotion": "不屑",
+        "duration": 0.6,
+        "description_visual": "近景平拍镜头；红色大门背景，光线自然；画面中央人物，身穿深色条纹双排扣西装，冷哼一声，看着照片，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色屏幕",
+        "description_narrative": "画面转为白色，过渡效果。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.06,
+        "description_visual": "全景平拍镜头；白色屏幕。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "厉司霆",
+                "gender": "男",
+                "clothing": "深色条纹双排扣西装",
+                "position": "画面中央",
+                "action": "低头看着照片，画面出现金色文字",
+                "expression": "眉毛微蹙，眼睛下视，嘴巴紧闭"
+            }
+        ],
+        "background": "红色大门背景，光线自然",
+        "description_narrative": "近景镜头，厉司霆低头看着照片，画面右侧出现金色“未完待续”字样。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.58,
+        "description_visual": "近景平拍镜头；红色大门背景，光线自然；画面中央人物，身穿深色条纹双排扣西装，低头看着照片，画面出现金色文字，表情：眉毛微蹙，眼睛下视，嘴巴紧闭。"
+    }
+]

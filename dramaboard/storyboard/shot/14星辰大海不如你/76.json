@@ -1,0 +1,511 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色西装，黑色领带",
+                "position": "画面左侧",
+                "action": "站立，双手交握于身前，身体微向前倾",
+                "expression": "眉毛微蹙，眼睛注视前方，嘴巴紧闭"
+            },
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面右侧",
+                "action": "坐在长椅上，身体侧向左方，双手放在腿上",
+                "expression": "眉毛舒展，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "公园河边，绿树成荫，远处有水面和围栏，光线明亮",
+        "description_narrative": "全景镜头，公园河边长椅旁，助理身穿黑色西装站立在左侧，双手交握，神情恭敬；严总身穿黑色西装坐在右侧长椅上，侧身面向助理，背景是茂密的树木和河流。",
+        "dialogue": "嗯。",
+        "speaker": "严总",
+        "emotion": "平静",
+        "duration": 0.53,
+        "description_visual": "全景平拍镜头；公园河边，绿树成荫，远处有水面和围栏，光线明亮；画面左侧人物，身穿黑色西装，黑色领带，站立，双手交握于身前，身体微向前倾，表情：眉毛微蹙，眼睛注视前方，嘴巴紧闭；画面右侧人物，身穿黑色西装，蓝白条纹领带，坐在长椅上，身体侧向左方，双手放在腿上，表情：眉毛舒展，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色西装，黑色领带",
+                "position": "画面中央",
+                "action": "站立，双手交握于腹部，身体挺直",
+                "expression": "眉毛微抬，眼睛注视对方，嘴巴微张正在说话"
+            }
+        ],
+        "background": "公园绿树背景，虚化，光线自然",
+        "description_narrative": "中景镜头，助理站在绿树背景前，身穿黑色西装，双手交握于身前，神情恭敬地向严总汇报行程，嘴巴微张正在说话。",
+        "dialogue": "严总，按照行程我们要回去了，明天还有个见面会。",
+        "speaker": "助理",
+        "emotion": "恭敬",
+        "duration": 4.4,
+        "description_visual": "中景平拍镜头；公园绿树背景，虚化，光线自然；画面中央人物，身穿黑色西装，黑色领带，站立，双手交握于腹部，身体挺直，表情：眉毛微抬，眼睛注视对方，嘴巴微张正在说话。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面中央",
+                "action": "站立（或坐姿上半身），身体正对前方",
+                "expression": "眉毛平展，眼神坚定直视前方，嘴巴紧闭后微张"
+            }
+        ],
+        "background": "河边树木背景，虚化，色调偏冷",
+        "description_narrative": "近景镜头，严总身穿黑色西装，系蓝白条纹领带，背景是虚化的河边树木，他神情沉稳，眼神坚定，语气平静地吩咐助理。",
+        "dialogue": "帮我推掉吧，你回去帮我安排一下。",
+        "speaker": "严总",
+        "emotion": "果断",
+        "duration": 3.17,
+        "description_visual": "近景平拍镜头；河边树木背景，虚化，色调偏冷；画面中央人物，身穿黑色西装，蓝白条纹领带，站立（或坐姿上半身），身体正对前方，表情：眉毛平展，眼神坚定直视前方，嘴巴紧闭后微张。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色西装，黑色领带",
+                "position": "画面左侧",
+                "action": "站立，双手交握，面对严总",
+                "expression": "眉毛微蹙，眼睛注视严总，嘴巴紧闭"
+            },
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面右侧",
+                "action": "站立，面对助理，双手自然下垂",
+                "expression": "眉毛舒展，眼睛注视助理，嘴巴微张"
+            }
+        ],
+        "background": "公园河边，长椅在旁，树木环绕，光线明亮",
+        "description_narrative": "全景镜头，严总已站起身，与助理面对面站立在长椅旁，背景是河流和树木，严总继续吩咐助理安排事宜。",
+        "dialogue": "这段时间我都会在这。",
+        "speaker": "严总",
+        "emotion": "坚定",
+        "duration": 1.57,
+        "description_visual": "全景平拍镜头；公园河边，长椅在旁，树木环绕，光线明亮；画面左侧人物，身穿黑色西装，黑色领带，站立，双手交握，面对严总，表情：眉毛微蹙，眼睛注视严总，嘴巴紧闭；画面右侧人物，身穿黑色西装，蓝白条纹领带，站立，面对助理，双手自然下垂，表情：眉毛舒展，眼睛注视助理，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "助理",
+                "gender": "男",
+                "clothing": "黑色西装，黑色领带",
+                "position": "画面中央",
+                "action": "站立，双手交握，微微点头",
+                "expression": "眉毛舒展，眼睛注视对方，嘴巴微张回应"
+            }
+        ],
+        "background": "公园绿树背景，虚化",
+        "description_narrative": "中景镜头，助理站在树荫下，身穿黑色西装，双手交握，微微点头表示听从安排，神情恭敬。",
+        "dialogue": "好的严总。",
+        "speaker": "助理",
+        "emotion": "顺从",
+        "duration": 2.33,
+        "description_visual": "中景平拍镜头；公园绿树背景，虚化；画面中央人物，身穿黑色西装，黑色领带，站立，双手交握，微微点头，表情：眉毛舒展，眼睛注视对方，嘴巴微张回应。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面右侧",
+                "action": "站立在长椅旁，双手插兜，侧身望向远方",
+                "expression": "眉毛平展，眼神望向远处，嘴巴紧闭"
+            }
+        ],
+        "background": "公园河边，长椅，树木，水面平静",
+        "description_narrative": "全景镜头，助理离开后，严总独自站在长椅旁，双手插在裤兜里，侧身望向河面，神情若有所思。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉思",
+        "duration": 6.1,
+        "description_visual": "全景平拍镜头；公园河边，长椅，树木，水面平静；画面右侧人物，身穿黑色西装，蓝白条纹领带，站立在长椅旁，双手插兜，侧身望向远方，表情：眉毛平展，眼神望向远处，嘴巴紧闭。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣，深色裙子",
+                "position": "画面右侧长椅上",
+                "action": "坐在长椅上，身体微侧",
+                "expression": "面部因过曝模糊，依稀可见转头动作"
+            }
+        ],
+        "background": "公园河边，画面整体过曝呈白色，隐约可见树木和长椅",
+        "description_narrative": "全景镜头，画面呈现高过曝效果，一片白光中隐约可见一名女子坐在长椅上，她转头看向旁边，询问严总为何来此。",
+        "dialogue": "严总，你怎么来这里了？",
+        "speaker": "女子",
+        "emotion": "惊讶",
+        "duration": 7.1,
+        "description_visual": "全景平拍镜头；公园河边，画面整体过曝呈白色，隐约可见树木和长椅；画面右侧长椅上人物，身穿黑白条纹上衣，深色裙子，坐在长椅上，身体微侧，表情：面部因过曝模糊，依稀可见转头动作。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面左侧",
+                "action": "坐在长椅上，身体转向右侧女子",
+                "expression": "眉毛微挑，眼睛看向女子，嘴巴微张说话"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧前景",
+                "action": "手臂可见，坐在旁边",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园树木背景，虚化",
+        "description_narrative": "近景镜头，严总坐在长椅上，侧身面向右侧的女子，面带微笑，轻松地解释自己是溜达过来的，女子的手臂在前景可见。",
+        "dialogue": "我溜达溜达就过来了。",
+        "speaker": "严总",
+        "emotion": "轻松",
+        "duration": 1.53,
+        "description_visual": "近景平拍镜头；公园树木背景，虚化；画面左侧人物，身穿黑色西装，蓝白条纹领带，坐在长椅上，身体转向右侧女子，表情：眉毛微挑，眼睛看向女子，嘴巴微张说话；画面右侧前景人物，身穿黑白条纹上衣，手臂可见，坐在旁边，表情：不可见。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "坐在长椅上，身体微倾",
+                "expression": "眉毛微扬，眼睛看向严总，嘴角带笑"
+            },
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧前景",
+                "action": "手臂可见，放在腿上",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园河边背景，虚化",
+        "description_narrative": "近景镜头，女子身穿黑白条纹上衣，坐在长椅上，侧头看向严总，带着调侃的笑意说他不会找借口，严总的黑色西装手臂在左侧前景可见。",
+        "dialogue": "你可真不会找借口啊",
+        "speaker": "女子",
+        "emotion": "调侃",
+        "duration": 4.03,
+        "description_visual": "近景平拍镜头；公园河边背景，虚化；画面中央人物，身穿黑白条纹短袖上衣，坐在长椅上，身体微倾，表情：眉毛微扬，眼睛看向严总，嘴角带笑；画面左侧前景人物，身穿黑色西装，手臂可见，放在腿上，表情：不可见。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面左侧",
+                "action": "坐在长椅上，面带笑容",
+                "expression": "眉毛舒展，眼睛微眯笑，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧前景",
+                "action": "头发和肩膀可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园树木背景，虚化",
+        "description_narrative": "近景镜头，严总坐在长椅上，被女子调侃后露出无奈又宠溺的笑容，女子在右侧前景，只露出部分头发和肩膀，继续询问故事。",
+        "dialogue": "那你给我讲讲",
+        "speaker": "女子",
+        "emotion": "好奇",
+        "duration": 2.9,
+        "description_visual": "近景平拍镜头；公园树木背景，虚化；画面左侧人物，身穿黑色西装，蓝白条纹领带，坐在长椅上，面带笑容，表情：眉毛舒展，眼睛微眯笑，嘴巴微张；画面右侧前景人物，身穿黑白条纹上衣，头发和肩膀可见，表情：不可见。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "坐在长椅上，微笑注视对方",
+                "expression": "眉毛弯弯，眼睛明亮，嘴角上扬露齿笑"
+            }
+        ],
+        "background": "公园河边背景，虚化",
+        "description_narrative": "近景镜头，女子坐在长椅上，身穿黑白条纹上衣，侧头微笑，眼神充满期待地让严总讲讲他和太太的故事。",
+        "dialogue": "你跟你太太的故事呗。",
+        "speaker": "女子",
+        "emotion": "期待",
+        "duration": 2.93,
+        "description_visual": "近景平拍镜头；公园河边背景，虚化；画面中央人物，身穿黑白条纹短袖上衣，坐在长椅上，微笑注视对方，表情：眉毛弯弯，眼睛明亮，嘴角上扬露齿笑。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面左侧",
+                "action": "坐在长椅上，点头同意",
+                "expression": "眉毛舒展，眼睛注视女子，嘴巴微张答应"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧前景",
+                "action": "手臂可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园树木背景，虚化",
+        "description_narrative": "近景镜头，严总坐在长椅上，看着女子，微笑着点头答应讲述故事，女子的手臂在右侧前景可见。",
+        "dialogue": "好啊，可以啊。",
+        "speaker": "严总",
+        "emotion": "温柔",
+        "duration": 1.37,
+        "description_visual": "近景平拍镜头；公园树木背景，虚化；画面左侧人物，身穿黑色西装，蓝白条纹领带，坐在长椅上，点头同意，表情：眉毛舒展，眼睛注视女子，嘴巴微张答应；画面右侧前景人物，身穿黑白条纹上衣，手臂可见，表情：不可见。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "坐在长椅上，手托腮或放在腿上",
+                "expression": "眉毛微挑，眼睛注视对方，嘴角含笑"
+            }
+        ],
+        "background": "公园河边背景，虚化",
+        "description_narrative": "近景镜头，女子坐在长椅上，身体微倾，好奇地询问严总的太太是个什么样的人，眼神专注。",
+        "dialogue": "那她是个什么样的人呢？",
+        "speaker": "女子",
+        "emotion": "好奇",
+        "duration": 2.9,
+        "description_visual": "近景平拍镜头；公园河边背景，虚化；画面中央人物，身穿黑白条纹短袖上衣，坐在长椅上，手托腮或放在腿上，表情：眉毛微挑，眼睛注视对方，嘴角含笑。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面左侧",
+                "action": "坐在长椅上，深情注视女子",
+                "expression": "眉毛柔和，眼睛深情注视，嘴巴微张描述"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧前景",
+                "action": "手托着脸颊",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园树木背景，虚化",
+        "description_narrative": "近景镜头，严总坐在长椅上，目光深情地注视着对面的女子，形容太太的眼睛和她一样漂亮，女子的手托着脸颊在右侧前景。",
+        "dialogue": "我太太的眼睛跟你一样漂亮。",
+        "speaker": "严总",
+        "emotion": "深情",
+        "duration": 2.8,
+        "description_visual": "近景平拍镜头；公园树木背景，虚化；画面左侧人物，身穿黑色西装，蓝白条纹领带，坐在长椅上，深情注视女子，表情：眉毛柔和，眼睛深情注视，嘴巴微张描述；画面右侧前景人物，身穿黑白条纹上衣，手托着脸颊，表情：不可见。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "坐在长椅上，手托下巴，倾听",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角微抿"
+            }
+        ],
+        "background": "公园河边背景，虚化",
+        "description_narrative": "近景镜头，女子坐在长椅上，手托着下巴，安静地倾听严总描述太太总是洋溢着笑容，神情专注。",
+        "dialogue": "她脸上总是洋溢着笑容。",
+        "speaker": "严总",
+        "emotion": "怀念",
+        "duration": 2.5,
+        "description_visual": "近景平拍镜头；公园河边背景，虚化；画面中央人物，身穿黑白条纹短袖上衣，坐在长椅上，手托下巴，倾听，表情：眉毛舒展，眼睛注视对方，嘴角微抿。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面左侧",
+                "action": "坐在长椅上，双手交握",
+                "expression": "眉毛微扬，眼睛望向远方，嘴巴微张"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧前景",
+                "action": "手臂可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园树木背景，虚化",
+        "description_narrative": "近景镜头，严总坐在长椅上，双手交握，眼神温柔地形容太太像太阳一样照耀着他，女子的手臂在右侧前景可见。",
+        "dialogue": "她就像太阳一样照耀着我。",
+        "speaker": "严总",
+        "emotion": "幸福",
+        "duration": 4.33,
+        "description_visual": "近景平拍镜头；公园树木背景，虚化；画面左侧人物，身穿黑色西装，蓝白条纹领带，坐在长椅上，双手交握，表情：眉毛微扬，眼睛望向远方，嘴巴微张；画面右侧前景人物，身穿黑白条纹上衣，手臂可见，表情：不可见。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹短袖上衣",
+                "position": "画面中央",
+                "action": "坐在长椅上，微笑回应",
+                "expression": "眉毛弯弯，眼睛笑意盈盈，嘴角上扬"
+            }
+        ],
+        "background": "公园河边背景，虚化",
+        "description_narrative": "近景镜头，女子坐在长椅上，听到严总的描述后露出甜美的笑容，称赞他的太太真是他的天使。",
+        "dialogue": "她可真是你的天使。",
+        "speaker": "女子",
+        "emotion": "赞赏",
+        "duration": 2.67,
+        "description_visual": "近景平拍镜头；公园河边背景，虚化；画面中央人物，身穿黑白条纹短袖上衣，坐在长椅上，微笑回应，表情：眉毛弯弯，眼睛笑意盈盈，嘴角上扬。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面左侧",
+                "action": "坐在长椅上，面带笑意",
+                "expression": "眉毛舒展，眼睛含笑，嘴巴微张讲述"
+            },
+            {
+                "name": "女子",
+                "gender": "女",
+                "clothing": "黑白条纹上衣",
+                "position": "画面右侧前景",
+                "action": "手臂可见",
+                "expression": "不可见"
+            }
+        ],
+        "background": "公园树木背景，虚化",
+        "description_narrative": "近景镜头，严总坐在长椅上，继续笑着讲述太太贪吃爱吃鱼的趣事，提到自己为此专门请教过老师，女子的手臂在右侧前景。",
+        "dialogue": "而且她还很贪吃，特别喜欢吃鱼。为此我还专门请教了老师。",
+        "speaker": "严总",
+        "emotion": "宠溺",
+        "duration": 5.5,
+        "description_visual": "近景平拍镜头；公园树木背景，虚化；画面左侧人物，身穿黑色西装，蓝白条纹领带，坐在长椅上，面带笑意，表情：眉毛舒展，眼睛含笑，嘴巴微张讲述；画面右侧前景人物，身穿黑白条纹上衣，手臂可见，表情：不可见。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "严总",
+                "gender": "男",
+                "clothing": "黑色西装，蓝白条纹领带",
+                "position": "画面中央",
+                "action": "坐在长椅上，身体微侧",
+                "expression": "面部被强光/紫光笼罩，表情柔和"
+            }
+        ],
+        "background": "公园背景，画面呈现紫色/粉色光晕效果",
+        "description_narrative": "近景镜头，画面笼罩在梦幻的紫色光晕中，严总坐在长椅上，似乎沉浸在回忆中，神情柔和。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "沉浸",
+        "duration": 6.73,
+        "description_visual": "近景平拍镜头；公园背景，画面呈现紫色/粉色光晕效果；画面中央人物，身穿黑色西装，蓝白条纹领带，坐在长椅上，身体微侧，表情：面部被强光/紫光笼罩，表情柔和。"
+    }
+]

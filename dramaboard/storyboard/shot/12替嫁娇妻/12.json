@@ -1,0 +1,831 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王爷",
+                "gender": "男",
+                "clothing": "浅蓝色花纹古装",
+                "position": "画面左侧",
+                "action": "从身后环抱王妃，下巴贴近王妃肩膀",
+                "expression": "眉毛舒展，眼睛微闭，嘴角含笑"
+            },
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色刺绣古装",
+                "position": "画面右侧",
+                "action": "身体被环抱，双手自然下垂，头微微低垂",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴唇紧闭"
+            }
+        ],
+        "background": "深色雕花屏风背景，光线柔和，色调偏暗",
+        "description_narrative": "中景固定镜头。王爷身穿浅蓝色花纹古装，从身后环抱着身穿白色刺绣古装的王妃，下巴贴近她的肩膀，面带笑意。王妃头微微低垂，眼神下移，表情略显不悦。背景是深色的雕花屏风。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.0,
+        "description_visual": "中景平拍镜头；深色雕花屏风背景，光线柔和，色调偏暗；画面左侧人物，身穿浅蓝色花纹古装，从身后环抱王妃，下巴贴近王妃肩膀，表情：眉毛舒展，眼睛微闭，嘴角含笑；画面右侧人物，身穿白色刺绣古装，身体被环抱，双手自然下垂，头微微低垂，表情：眉毛微蹙，眼睛视线下移，嘴唇紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装长裙",
+                "position": "画面左侧",
+                "action": "与丫鬟并排走在石板路上，双手交叠在腹前",
+                "expression": "眉毛舒展，眼睛直视前方，嘴角微扬"
+            },
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面右侧",
+                "action": "跟随王妃行走，双手握着粉色手包",
+                "expression": "眉毛微蹙，眼睛看向王妃，嘴巴微张"
+            }
+        ],
+        "background": "户外石板路，两侧绿树成荫，自然光",
+        "description_narrative": "全景跟拍镜头。王妃身穿白色古装长裙，与身穿粉色古装的丫鬟并排走在绿树成荫的石板路上。丫鬟双手握着手包，侧头看向王妃，面露担忧。",
+        "dialogue": "小姐，你别生气了，就王爷那身子。",
+        "speaker": "丫鬟",
+        "emotion": "担忧",
+        "duration": 3.12,
+        "description_visual": "全景平拍镜头（跟拍）；户外石板路，两侧绿树成荫，自然光；画面左侧人物，身穿白色古装长裙，与丫鬟并排走在石板路上，双手交叠在腹前，表情：眉毛舒展，眼睛直视前方，嘴角微扬；画面右侧人物，身穿粉色古装，跟随王妃行走，双手握着粉色手包，表情：眉毛微蹙，眼睛看向王妃，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "头部微侧，眼神看向斜上方",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬露出算计的笑意"
+            }
+        ],
+        "background": "模糊的绿色植物背景",
+        "description_narrative": "特写固定镜头。王妃头部微侧，眼神看向斜上方，嘴角上扬，露出一丝算计且傲慢的笑意，似乎对丫鬟的话不以为然。",
+        "dialogue": "也活不了几日了，你可多想，等他死了，王爷府的家产全是我的。",
+        "speaker": "王妃",
+        "emotion": "算计",
+        "duration": 5.48,
+        "description_visual": "特写平拍镜头；模糊的绿色植物背景；画面中央人物，身穿白色古装，头部微侧，眼神看向斜上方，表情：眉毛舒展，眼睛微眯，嘴角上扬露出算计的笑意。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面中央",
+                "action": "头部微转，眼神惊讶",
+                "expression": "眉毛上扬，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "模糊的绿色背景",
+        "description_narrative": "特写固定镜头。丫鬟听到王妃的话，头部微转，眉毛上扬，眼睛睁大，嘴巴微张，露出震惊的表情。",
+        "dialogue": "只是小姐，这王爷去世了，你就是寡妇了。",
+        "speaker": "丫鬟",
+        "emotion": "震惊",
+        "duration": 3.92,
+        "description_visual": "特写平拍镜头；模糊的绿色背景；画面中央人物，身穿粉色古装，头部微转，眼神惊讶，表情：眉毛上扬，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "视线向下，表情严肃",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴唇紧闭"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "特写固定镜头。王妃视线向下，眉毛微蹙，嘴唇紧闭，表情变得严肃，似乎在思考丫鬟说的话。",
+        "dialogue": "以后再嫁人，恐怕就难了，何况王爷的身体。",
+        "speaker": "丫鬟",
+        "emotion": "严肃",
+        "duration": 3.76,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色古装，视线向下，表情严肃，表情：眉毛微蹙，眼睛视线下移，嘴唇紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面中央",
+                "action": "眉头紧锁，嘴巴张开说话",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴张开"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。丫鬟眉头紧锁，眼睛眯起，嘴巴张开，继续表达担忧，强调王爷身体状况对王妃未来的影响。",
+        "dialogue": "年纪轻轻的就。",
+        "speaker": "丫鬟",
+        "emotion": "担忧",
+        "duration": 2.32,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿粉色古装，眉头紧锁，嘴巴张开说话，表情：眉毛紧皱，眼睛眯起，嘴巴张开。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "视线向下，嘴巴微张",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "特写固定镜头。王妃视线向下，眉毛微蹙，嘴巴微张，似乎在附和丫鬟的话，承认王爷确实年轻体弱。",
+        "dialogue": "他同我年纪相仿，竟然如此体弱。",
+        "speaker": "王妃",
+        "emotion": "思索",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色古装，视线向下，嘴巴微张，表情：眉毛微蹙，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "眼神转动，嘴巴开合",
+                "expression": "眉毛微挑，眼睛看向侧方，嘴巴微张"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "特写固定镜头。王妃眼神转动，眉毛微挑，嘴巴微张，开始提出自己的想法，提到某种强身健体的方法。",
+        "dialogue": "我听说采初晨的朝露，配以绿石斛同食。",
+        "speaker": "王妃",
+        "emotion": "盘算",
+        "duration": 3.72,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色古装，眼神转动，嘴巴开合，表情：眉毛微挑，眼睛看向侧方，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "继续说话，表情认真",
+                "expression": "眉毛舒展，眼睛直视，嘴巴开合"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "特写固定镜头。王妃继续说话，表情认真，强调这种偏方的奇效，眼神中透露出一丝期待。",
+        "dialogue": "有强身健体的奇效。",
+        "speaker": "王妃",
+        "emotion": "认真",
+        "duration": 2.04,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色古装，继续说话，表情认真，表情：眉毛舒展，眼睛直视，嘴巴开合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "低头看手，身体微侧",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴唇微抿"
+            }
+        ],
+        "background": "绿色植物背景",
+        "description_narrative": "中近景固定镜头。王妃低头看着自己的手，身体微侧，似乎在思考去哪里找药，随后抬头询问药房的位置。",
+        "dialogue": "这王府这么大，应该有药房吧？",
+        "speaker": "王妃",
+        "emotion": "询问",
+        "duration": 3.52,
+        "description_visual": "中近景平拍镜头；绿色植物背景；画面中央人物，身穿白色古装，低头看手，身体微侧，表情：眉毛微蹙，眼睛视线下移，嘴唇微抿。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "转头看向丫鬟，嘴巴微张",
+                "expression": "眉毛舒展，眼睛看向侧面，嘴巴微张"
+            }
+        ],
+        "background": "灰色背景",
+        "description_narrative": "特写固定镜头。王妃转头看向身边的丫鬟，眉毛舒展，嘴巴微张，命令丫鬟陪她去找药房。",
+        "dialogue": "你陪我去找找。",
+        "speaker": "王妃",
+        "emotion": "命令",
+        "duration": 1.04,
+        "description_visual": "特写平拍镜头；灰色背景；画面中央人物，身穿白色古装，转头看向丫鬟，嘴巴微张，表情：眉毛舒展，眼睛看向侧面，嘴巴微张。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面右侧",
+                "action": "侧脸，眼神向前",
+                "expression": "眉毛舒展，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。丫鬟侧脸示人，眼神向前，嘴唇紧闭，没有说话，似乎在听从王妃的命令。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.24,
+        "description_visual": "特写平拍镜头；绿色背景；画面右侧人物，身穿粉色古装，侧脸，眼神向前，表情：眉毛舒展，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶妈",
+                "gender": "女",
+                "clothing": "紫色花纹古装",
+                "position": "画面中央",
+                "action": "正面站立，表情严肃",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "绿色柳树背景",
+        "description_narrative": "中近景固定镜头。身穿紫色花纹古装的奶妈正面站立，头插红花，眉毛紧皱，眼睛眯起，表情严肃地喝止她们。",
+        "dialogue": "站住。",
+        "speaker": "奶妈",
+        "emotion": "严厉",
+        "duration": 1.16,
+        "description_visual": "中近景平拍镜头；绿色柳树背景；画面中央人物，身穿紫色花纹古装，正面站立，表情严肃，表情：眉毛紧皱，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面左侧",
+                "action": "背对镜头，准备离开",
+                "expression": "不可见"
+            },
+            {
+                "name": "奶妈",
+                "gender": "女",
+                "clothing": "紫色花纹古装",
+                "position": "画面右侧",
+                "action": "侧身站立，看向王妃",
+                "expression": "眉毛紧皱，眼睛注视王妃"
+            }
+        ],
+        "background": "户外石板路，绿树背景",
+        "description_narrative": "中景固定镜头。王妃背对镜头准备离开，奶妈侧身站立，目光紧紧盯着王妃，画外音响起质问王妃手中物品。",
+        "dialogue": "王妃手中",
+        "speaker": "侍女",
+        "emotion": "质问",
+        "duration": 0.84,
+        "description_visual": "中景平拍镜头；户外石板路，绿树背景；画面左侧人物，身穿白色古装，背对镜头，准备离开，表情：不可见；画面右侧人物，身穿紫色花纹古装，侧身站立，看向王妃，表情：眉毛紧皱，眼睛注视王妃。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面左侧",
+                "action": "站立，双手交叠",
+                "expression": "眉毛微蹙，眼睛直视前方"
+            },
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面右侧",
+                "action": "站立，双手握包",
+                "expression": "眉毛微蹙，眼睛看向前方"
+            }
+        ],
+        "background": "绿树背景",
+        "description_narrative": "全景固定镜头。王妃和丫鬟站在路上，王妃双手交叠，表情略显不悦。画外音继续质问王妃手中拿的是什么。",
+        "dialogue": "拿的是什么？",
+        "speaker": "侍女",
+        "emotion": "质问",
+        "duration": 1.16,
+        "description_visual": "全景平拍镜头；绿树背景；画面左侧人物，身穿白色古装，站立，双手交叠，表情：眉毛微蹙，眼睛直视前方；画面右侧人物，身穿粉色古装，站立，双手握包，表情：眉毛微蹙，眼睛看向前方。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "正面直视，表情冷峻",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。王妃正面直视前方，眉毛微蹙，嘴唇紧闭，表情冷峻，反问对方身份。",
+        "dialogue": "你是谁？",
+        "speaker": "王妃",
+        "emotion": "冷峻",
+        "duration": 1.16,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿白色古装，正面直视，表情冷峻，表情：眉毛微蹙，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶妈",
+                "gender": "女",
+                "clothing": "紫色花纹古装",
+                "position": "画面中央",
+                "action": "面带微笑，眼神自信",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。奶妈面带微笑，眼神自信，画外音介绍她是从小抚养王爷长大的奶妈。",
+        "dialogue": "这是从小抚养",
+        "speaker": "侍女",
+        "emotion": "介绍",
+        "duration": 1.4,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿紫色花纹古装，面带微笑，眼神自信，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "侧身站立，嘴角微扬",
+                "expression": "眉毛舒展，眼睛看向侧面，嘴角微扬"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "中近景固定镜头。王妃侧身站立，嘴角微扬，画外音继续解释奶妈在王府的地位，除了王爷就是她说了算。",
+        "dialogue": "长大的奶妈，在这王府里，除了王爷，也就是奶妈说了算。",
+        "speaker": "侍女",
+        "emotion": "解释",
+        "duration": 4.12,
+        "description_visual": "中近景平拍镜头；绿色背景；画面中央人物，身穿白色古装，侧身站立，嘴角微扬，表情：眉毛舒展，眼睛看向侧面，嘴角微扬。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "露出灿烂笑容",
+                "expression": "眉毛舒展，眼睛弯起，露齿大笑"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。王妃露出灿烂的笑容，眉毛舒展，眼睛弯起，假装客气地称呼对方为明王府的奶妈。",
+        "dialogue": "原来是明王府的奶妈呀。",
+        "speaker": "王妃",
+        "emotion": "假笑",
+        "duration": 2.36,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿白色古装，露出灿烂笑容，表情：眉毛舒展，眼睛弯起，露齿大笑。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "笑容收敛，准备离开",
+                "expression": "眉毛舒展，眼睛微眯，嘴角微扬"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。王妃笑容收敛，表示自己还有事，准备离开。",
+        "dialogue": "今日我还有事",
+        "speaker": "王妃",
+        "emotion": "敷衍",
+        "duration": 2.48,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿白色古装，笑容收敛，准备离开，表情：眉毛舒展，眼睛微眯，嘴角微扬。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面左侧",
+                "action": "转身欲走",
+                "expression": "表情冷淡"
+            },
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面右侧",
+                "action": "跟随王妃",
+                "expression": "表情担忧"
+            }
+        ],
+        "background": "绿树背景",
+        "description_narrative": "全景跟拍镜头。王妃转身欲走，丫鬟跟随。画外音响起王妃说先走了。",
+        "dialogue": "就先走了。",
+        "speaker": "王妃",
+        "emotion": "冷淡",
+        "duration": 1.68,
+        "description_visual": "全景平拍镜头（跟拍）；绿树背景；画面左侧人物，身穿白色古装，转身欲走，表情：表情冷淡；画面右侧人物，身穿粉色古装，跟随王妃，表情：表情担忧。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶妈",
+                "gender": "女",
+                "clothing": "紫色花纹古装",
+                "position": "画面中央",
+                "action": "表情严厉，大声喝止",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴张开"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。奶妈表情严厉，眉毛紧皱，大声喝止王妃，质问谁让她走的。",
+        "dialogue": "谁让你走的？",
+        "speaker": "奶妈",
+        "emotion": "愤怒",
+        "duration": 1.28,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿紫色花纹古装，表情严厉，大声喝止，表情：眉毛紧皱，眼睛眯起，嘴巴张开。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶妈",
+                "gender": "女",
+                "clothing": "紫色花纹古装",
+                "position": "画面中央",
+                "action": "命令式语气",
+                "expression": "眉毛紧皱，眼睛注视前方，嘴巴张开"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。奶妈继续命令，要求王妃交出手中的东西，表情强硬。",
+        "dialogue": "把你手中的东西交出来。",
+        "speaker": "奶妈",
+        "emotion": "强硬",
+        "duration": 2.28,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿紫色花纹古装，命令式语气，表情：眉毛紧皱，眼睛注视前方，嘴巴张开。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面中央",
+                "action": "低头，眼神躲闪",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴唇紧闭"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。丫鬟低头，眼神躲闪，替王妃出头，说这是小姐的东西。",
+        "dialogue": "这是我们小姐的东西。",
+        "speaker": "丫鬟",
+        "emotion": "维护",
+        "duration": 2.2,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿粉色古装，低头，眼神躲闪，表情：眉毛微蹙，眼睛视线下移，嘴唇紧闭。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "浅蓝色古装",
+                "position": "画面右侧",
+                "action": "侧脸，表情愤怒",
+                "expression": "眉毛紧皱，眼睛眯起，嘴巴微张"
+            }
+        ],
+        "background": "模糊的绿色背景",
+        "description_narrative": "特写侧拍镜头。身穿浅蓝色古装的侍女侧脸示人，表情愤怒，斥责丫鬟没有说话的份儿。",
+        "dialogue": "你",
+        "speaker": "侍女",
+        "emotion": "愤怒",
+        "duration": 0.8,
+        "description_visual": "特写侧拍镜头；模糊的绿色背景；画面右侧人物，身穿浅蓝色古装，侧脸，表情愤怒，表情：眉毛紧皱，眼睛眯起，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "浅蓝色古装",
+                "position": "画面中央",
+                "action": "正面怒视",
+                "expression": "眉毛紧皱，眼睛瞪大，嘴巴张开"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头。侍女正面怒视，眉毛紧皱，眼睛瞪大，严厉地告诉丫鬟这里没有她说话的份儿。",
+        "dialogue": "哪有你说话的份儿",
+        "speaker": "侍女",
+        "emotion": "严厉",
+        "duration": 0.76,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿浅蓝色古装，正面怒视，表情：眉毛紧皱，眼睛瞪大，嘴巴张开。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "侧脸，表情惊讶",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写侧拍镜头。王妃侧脸，眉毛微挑，眼睛睁大，嘴巴微张，对侍女的态度感到惊讶，只说了一个“你”字。",
+        "dialogue": "你",
+        "speaker": "王妃",
+        "emotion": "惊讶",
+        "duration": 1.2,
+        "description_visual": "特写侧拍镜头；绿色背景；画面中央人物，身穿白色古装，侧脸，表情惊讶，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面中央",
+                "action": "表情冷峻",
+                "expression": "眉毛微蹙，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。王妃表情冷峻，画外音响起奶妈再次要求交出东西。",
+        "dialogue": "请王妃把手中的东西",
+        "speaker": "奶妈",
+        "emotion": "命令",
+        "duration": 1.64,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿白色古装，表情冷峻，表情：眉毛微蹙，眼睛直视，嘴唇紧闭。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶妈",
+                "gender": "女",
+                "clothing": "紫色花纹古装",
+                "position": "画面中央",
+                "action": "低头，表情严肃",
+                "expression": "眉毛紧皱，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写固定镜头。奶妈低头，表情严肃，画外音响起侍女补充“交出来”。",
+        "dialogue": "交出来",
+        "speaker": "侍女",
+        "emotion": "命令",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；绿色背景；画面中央人物，身穿紫色花纹古装，低头，表情严肃，表情：眉毛紧皱，眼睛视线下移，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "浅蓝色古装",
+                "position": "画面中央",
+                "action": "表情愤怒",
+                "expression": "眉毛紧皱，眼睛瞪大，嘴巴紧闭"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头。侍女表情愤怒，眉毛紧皱，眼睛瞪大，再次强调“交出来”。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿浅蓝色古装，表情愤怒，表情：眉毛紧皱，眼睛瞪大，嘴巴紧闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面左侧",
+                "action": "站立，被侍女伸手阻拦",
+                "expression": "表情冷峻"
+            },
+            {
+                "name": "丫鬟",
+                "gender": "女",
+                "clothing": "粉色古装",
+                "position": "画面中间",
+                "action": "站在王妃身后",
+                "expression": "表情担忧"
+            },
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "浅蓝色古装",
+                "position": "画面右侧",
+                "action": "伸手阻拦王妃",
+                "expression": "表情强硬"
+            }
+        ],
+        "background": "绿树背景",
+        "description_narrative": "中景固定镜头。侍女伸手阻拦王妃，王妃和丫鬟站在原地，气氛紧张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.52,
+        "description_visual": "中景平拍镜头；绿树背景；画面左侧人物，身穿白色古装，站立，被侍女伸手阻拦，表情：表情冷峻；画面中间人物，身穿粉色古装，站在王妃身后，表情：表情担忧；画面右侧人物，身穿浅蓝色古装，伸手阻拦王妃，表情：表情强硬。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "石板地面",
+        "description_narrative": "特写俯拍镜头。镜头对准石板地面，暗示物品掉落或被抢夺的瞬间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "特写俯拍镜头；石板地面。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "特写",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "王妃",
+                "gender": "女",
+                "clothing": "白色古装",
+                "position": "画面右侧",
+                "action": "侧脸，头发飘动",
+                "expression": "不可见"
+            }
+        ],
+        "background": "绿色背景",
+        "description_narrative": "特写侧拍镜头。王妃侧脸，头发飘动，画面模糊，暗示动作迅速。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.44,
+        "description_visual": "特写侧拍镜头；绿色背景；画面右侧人物，身穿白色古装，侧脸，头发飘动，表情：不可见。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "侍女",
+                "gender": "女",
+                "clothing": "浅蓝色古装",
+                "position": "画面中央",
+                "action": "低头看手中之物，表情震惊",
+                "expression": "眉毛紧皱，眼睛视线下移，嘴巴微张"
+            }
+        ],
+        "background": "模糊背景",
+        "description_narrative": "特写固定镜头。侍女低头看着手中之物，眉毛紧皱，眼睛视线下移，嘴巴微张，震惊地指控这是毒药，想谋刺王爷。",
+        "dialogue": "这不是毒药吗？你想谋刺王爷。",
+        "speaker": "侍女",
+        "emotion": "震惊",
+        "duration": 3.28,
+        "description_visual": "特写平拍镜头；模糊背景；画面中央人物，身穿浅蓝色古装，低头看手中之物，表情震惊，表情：眉毛紧皱，眼睛视线下移，嘴巴微张。"
+    }
+]

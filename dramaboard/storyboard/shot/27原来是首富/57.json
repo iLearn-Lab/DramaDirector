@@ -1,0 +1,561 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黄色外卖服",
+                "position": "中央前景",
+                "action": "戴着黄色头盔，身体前倾",
+                "expression": "眼神直视前方，表情严肃"
+            },
+            {
+                "name": "中年女性",
+                "gender": "女",
+                "clothing": "红色礼服",
+                "position": "右后景",
+                "action": "站立微笑",
+                "expression": "嘴角上扬，眼神温和"
+            }
+        ],
+        "background": "电影海报背景，包含多位角色拼贴，色彩绚丽，带有金币特效",
+        "description_narrative": "全景固定镜头展示电影海报，中央是身穿黄色外卖服的年轻男子，周围环绕着其他角色，背景有金币飞舞特效和片名文字。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 2.57,
+        "description_visual": "全景平拍镜头；电影海报背景，包含多位角色拼贴，色彩绚丽，带有金币特效；中央前景人物，身穿黄色外卖服，戴着黄色头盔，身体前倾，表情：眼神直视前方，表情严肃；右后景人物，身穿红色礼服，站立微笑，表情：嘴角上扬，眼神温和。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女佣",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "背景门口",
+                "action": "从门口探身进入",
+                "expression": "眉毛微挑，嘴巴微张"
+            }
+        ],
+        "background": "豪华室内，大理石墙面，欧式沙发，光线柔和",
+        "description_narrative": "全景固定镜头，一名身穿黑色西装的女佣从背景门口探身进入房间，看向室内，画面出现字幕“夫人”。",
+        "dialogue": "夫人",
+        "speaker": "女佣",
+        "emotion": "恭敬",
+        "duration": 1.17,
+        "description_visual": "全景平拍镜头；豪华室内，大理石墙面，欧式沙发，光线柔和；背景门口人物，身穿黑色西装，从门口探身进入，表情：眉毛微挑，嘴巴微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女佣",
+                "gender": "女",
+                "clothing": "黑色西装，白色衬衫",
+                "position": "画面中央",
+                "action": "站立汇报",
+                "expression": "眉毛舒展，眼神专注，嘴巴微动"
+            }
+        ],
+        "background": "室内大理石墙面，光线温暖",
+        "description_narrative": "近景固定镜头，女佣身穿黑色西装内搭白衬衫，表情严肃地汇报情况，字幕显示“二爷醒了”。",
+        "dialogue": "二爷醒了",
+        "speaker": "女佣",
+        "emotion": "严肃",
+        "duration": 0.67,
+        "description_visual": "近景平拍镜头；室内大理石墙面，光线温暖；画面中央人物，身穿黑色西装，白色衬衫，站立汇报，表情：眉毛舒展，眼神专注，嘴巴微动。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "微微侧头",
+                "expression": "眉毛微挑，眼神平静，嘴角微抿"
+            }
+        ],
+        "background": "室内模糊背景，暖色调",
+        "description_narrative": "近景固定镜头，年轻男子身穿黑色衬衫，戴着金边眼镜，听到消息后表情看似平静，字幕显示“哎呀，太好了”（画外音）。",
+        "dialogue": "哎呀，太好了",
+        "speaker": "中年女性",
+        "emotion": "表面关切",
+        "duration": 3.23,
+        "description_visual": "近景平拍镜头；室内模糊背景，暖色调；画面中央人物，身穿黑色衬衫，微微侧头，表情：眉毛微挑，眼神平静，嘴角微抿。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "中年女性",
+                "gender": "女",
+                "clothing": "黑色外套，黄色围巾",
+                "position": "前景左侧",
+                "action": "快速走过",
+                "expression": "表情模糊，动作匆忙"
+            }
+        ],
+        "background": "豪华客厅，欧式沙发，花卉装饰",
+        "description_narrative": "中景跟拍镜头，中年女性身穿黑色外套配黄色围巾，快速从前景走过，画面因运动而模糊。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 1.47,
+        "description_visual": "中景平拍镜头（跟拍）；豪华客厅，欧式沙发，花卉装饰；前景左侧人物，身穿黑色外套，黄色围巾，快速走过，表情：表情模糊，动作匆忙。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "女佣",
+                "gender": "女",
+                "clothing": "黑色西装",
+                "position": "画面右侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            }
+        ],
+        "background": "深色木门，室内一角",
+        "description_narrative": "中景固定镜头，女佣背对镜头站在门口，看着中年女性进入房间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.23,
+        "description_visual": "中景平拍镜头；深色木门，室内一角；画面右侧人物，身穿黑色西装，背对镜头站立，表情：不可见。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "中年女性",
+                "gender": "女",
+                "clothing": "黑色外套，彩色马甲，黄色围巾",
+                "position": "画面中央",
+                "action": "快步走进房间",
+                "expression": "眉头紧锁，嘴巴微张"
+            }
+        ],
+        "background": "室内门口，光线较暗",
+        "description_narrative": "中景跟拍镜头，中年女性穿着彩色马甲和黑色外套，焦急地快步走进房间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "焦急",
+        "duration": 0.6,
+        "description_visual": "中景平拍镜头（跟拍）；室内门口，光线较暗；画面中央人物，身穿黑色外套，彩色马甲，黄色围巾，快步走进房间，表情：眉头紧锁，嘴巴微张。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "中年女性",
+                "gender": "女",
+                "clothing": "黑色外套，彩色马甲，黄色围巾",
+                "position": "画面中央",
+                "action": "走向床边",
+                "expression": "表情痛苦，眼神急切"
+            }
+        ],
+        "background": "室内墙壁，光线柔和",
+        "description_narrative": "中近景跟拍镜头，中年女性继续走向床边，脸上露出痛苦和急切的表情。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲痛",
+        "duration": 0.5,
+        "description_visual": "中近景平拍镜头（跟拍）；室内墙壁，光线柔和；画面中央人物，身穿黑色外套，彩色马甲，黄色围巾，走向床边，表情：表情痛苦，眼神急切。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "舅舅",
+                "gender": "男",
+                "clothing": "粉色被子",
+                "position": "画面中央",
+                "action": "躺在床上",
+                "expression": "眼神空洞，嘴巴紧闭"
+            }
+        ],
+        "background": "卧室床头，粉色床品",
+        "description_narrative": "特写俯拍镜头，舅舅躺在粉色被子下，眼神空洞无法动弹，字幕显示“二弟二弟，你怎么不能动了呀”（画外音）。",
+        "dialogue": "二弟二弟，你怎么不能动了呀",
+        "speaker": "中年女性",
+        "emotion": "惊恐",
+        "duration": 1.97,
+        "description_visual": "特写俯拍镜头；卧室床头，粉色床品；画面中央人物，身穿粉色被子，躺在床上，表情：眼神空洞，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "低头查看",
+                "expression": "眉毛微蹙，眼神下移，假装关切"
+            }
+        ],
+        "background": "室内墙壁，暖色调",
+        "description_narrative": "近景固定镜头，年轻男子低头看向床上的舅舅，眉头微蹙，字幕显示“这是怎么回事啊？”。",
+        "dialogue": "这是怎么回事啊？",
+        "speaker": "年轻男子",
+        "emotion": "假装疑惑",
+        "duration": 2.27,
+        "description_visual": "近景平拍镜头；室内墙壁，暖色调；画面中央人物，身穿黑色衬衫，低头查看，表情：眉毛微蹙，眼神下移，假装关切。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年女性",
+                "gender": "女",
+                "clothing": "黑色外套，黄色围巾",
+                "position": "画面中央",
+                "action": "俯身哭泣",
+                "expression": "眉毛紧皱，眼睛紧闭，嘴巴张大哭泣"
+            }
+        ],
+        "background": "卧室背景，模糊",
+        "description_narrative": "近景固定镜头，中年女性俯身在床边，表情极度悲痛，大声哭泣呼唤，字幕显示“二弟”。",
+        "dialogue": "二弟",
+        "speaker": "中年女性",
+        "emotion": "悲痛",
+        "duration": 1.33,
+        "description_visual": "近景平拍镜头；卧室背景，模糊；画面中央人物，身穿黑色外套，黄色围巾，俯身哭泣，表情：眉毛紧皱，眼睛紧闭，嘴巴张大哭泣。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "侧身安慰",
+                "expression": "眉毛微蹙，眼神看向母亲，嘴巴微张"
+            }
+        ],
+        "background": "室内门框，暖色调",
+        "description_narrative": "近景固定镜头，年轻男子侧身看向母亲，表情看似关切，轻声呼唤，字幕显示“妈”。",
+        "dialogue": "妈",
+        "speaker": "年轻男子",
+        "emotion": "安抚",
+        "duration": 0.93,
+        "description_visual": "近景平拍镜头；室内门框，暖色调；画面中央人物，身穿黑色衬衫，侧身安慰，表情：眉毛微蹙，眼神看向母亲，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年女性",
+                "gender": "女",
+                "clothing": "黑色外套，黄色围巾",
+                "position": "画面中央",
+                "action": "哭泣",
+                "expression": "满脸泪水，表情痛苦"
+            }
+        ],
+        "background": "卧室墙壁，模糊",
+        "description_narrative": "近景固定镜头，中年女性仍在哭泣，年轻男子画外音响起安慰她，字幕显示“你也别太伤心了，舅舅这才刚醒”。",
+        "dialogue": "你也别太伤心了，舅舅这才刚醒",
+        "speaker": "年轻男子",
+        "emotion": "虚伪安慰",
+        "duration": 1.77,
+        "description_visual": "近景平拍镜头；卧室墙壁，模糊；画面中央人物，身穿黑色外套，黄色围巾，哭泣，表情：满脸泪水，表情痛苦。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "说话",
+                "expression": "眉毛舒展，眼神平静，嘴巴微动"
+            }
+        ],
+        "background": "室内墙壁，暖色调",
+        "description_narrative": "近景固定镜头，年轻男子继续劝说母亲，表情冷静，字幕显示“你多给他时间休息”。",
+        "dialogue": "你多给他时间休息",
+        "speaker": "年轻男子",
+        "emotion": "冷静",
+        "duration": 2.9,
+        "description_visual": "近景平拍镜头；室内墙壁，暖色调；画面中央人物，身穿黑色衬衫，说话，表情：眉毛舒展，眼神平静，嘴巴微动。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年女性",
+                "gender": "女",
+                "clothing": "黑色外套，黄色围巾",
+                "position": "画面中央",
+                "action": "抬头流泪",
+                "expression": "眉毛上扬，眼神含泪，嘴巴微张"
+            }
+        ],
+        "background": "室内墙壁，暖色调",
+        "description_narrative": "近景固定镜头，中年女性抬头看着年轻男子，眼中含泪，字幕显示“会好起来的”。",
+        "dialogue": "会好起来的",
+        "speaker": "中年女性",
+        "emotion": "无助",
+        "duration": 1.5,
+        "description_visual": "近景平拍镜头；室内墙壁，暖色调；画面中央人物，身穿黑色外套，黄色围巾，抬头流泪，表情：眉毛上扬，眼神含泪，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "吩咐",
+                "expression": "眉毛微蹙，眼神坚定，嘴巴微动"
+            }
+        ],
+        "background": "室内墙壁，暖色调",
+        "description_narrative": "近景固定镜头，年轻男子看着母亲，语气坚定地进行安排，字幕显示“你就在这”。",
+        "dialogue": "你就在这",
+        "speaker": "年轻男子",
+        "emotion": "指令",
+        "duration": 2.1,
+        "description_visual": "近景平拍镜头；室内墙壁，暖色调；画面中央人物，身穿黑色衬衫，吩咐，表情：眉毛微蹙，眼神坚定，嘴巴微动。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年女性",
+                "gender": "女",
+                "clothing": "黑色外套，黄色围巾",
+                "position": "画面中央",
+                "action": " listening",
+                "expression": "眉毛紧锁，眼神悲伤"
+            }
+        ],
+        "background": "室内墙壁，暖色调",
+        "description_narrative": "近景固定镜头，中年女性听着年轻男子的话，表情悲伤，字幕显示“我公司还有事”（画外音）。",
+        "dialogue": "我公司还有事",
+        "speaker": "年轻男子",
+        "emotion": "借口",
+        "duration": 1.13,
+        "description_visual": "近景平拍镜头；室内墙壁，暖色调；画面中央人物，身穿黑色外套，黄色围巾，listening，表情：眉毛紧锁，眼神悲伤。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "转身准备离开",
+                "expression": "眉毛微挑，眼神冷漠"
+            }
+        ],
+        "background": "室内墙壁，暖色调",
+        "description_narrative": "近景固定镜头，年轻男子说完借口后准备离开，表情冷漠，字幕显示“我先去处理”。",
+        "dialogue": "我先去处理",
+        "speaker": "年轻男子",
+        "emotion": "急切脱身",
+        "duration": 1.27,
+        "description_visual": "近景平拍镜头；室内墙壁，暖色调；画面中央人物，身穿黑色衬衫，转身准备离开，表情：眉毛微挑，眼神冷漠。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年女性",
+                "gender": "女",
+                "clothing": "黑色外套，黄色围巾",
+                "position": "画面中央",
+                "action": "看着儿子离开",
+                "expression": "表情悲伤，嘴唇紧闭"
+            }
+        ],
+        "background": "室内墙壁，暖色调",
+        "description_narrative": "近景固定镜头，中年女性看着年轻男子离去的背影，脸上挂着泪痕，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "悲伤",
+        "duration": 1.33,
+        "description_visual": "近景平拍镜头；室内墙壁，暖色调；画面中央人物，身穿黑色外套，黄色围巾，看着儿子离开，表情：表情悲伤，嘴唇紧闭。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黑色西装",
+                "position": "画面左侧",
+                "action": "背对镜头站立",
+                "expression": "不可见"
+            },
+            {
+                "name": "舅舅",
+                "gender": "男",
+                "clothing": "粉色被子",
+                "position": "画面右侧床上",
+                "action": "躺卧",
+                "expression": "闭眼"
+            }
+        ],
+        "background": "卧室全景，衣柜，床铺",
+        "description_narrative": "全景固定镜头，年轻男子背对镜头站在衣柜前，舅舅躺在床上，房间内光线昏暗。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.17,
+        "description_visual": "全景平拍镜头；卧室全景，衣柜，床铺；画面左侧人物，身穿黑色西装，背对镜头站立，表情：不可见；画面右侧床上人物，身穿粉色被子，躺卧，表情：闭眼。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "回头",
+                "expression": "眼神锐利，嘴角微抿"
+            }
+        ],
+        "background": "室内天花板，暖色调",
+        "description_narrative": "近景固定镜头，年轻男子回头看了一眼，眼神中透露出一丝算计，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "算计",
+        "duration": 0.63,
+        "description_visual": "近景平拍镜头；室内天花板，暖色调；画面中央人物，身穿黑色衬衫，回头，表情：眼神锐利，嘴角微抿。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "舅舅",
+                "gender": "男",
+                "clothing": "白色衬衫，粉色被子",
+                "position": "画面中央",
+                "action": "闭眼躺卧",
+                "expression": "双眼紧闭，表情平静"
+            }
+        ],
+        "background": "床头，粉色枕头",
+        "description_narrative": "特写俯拍镜头，舅舅闭着眼睛躺在粉色枕头上，呼吸平稳，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "昏迷",
+        "duration": 1.2,
+        "description_visual": "特写俯拍镜头；床头，粉色枕头；画面中央人物，身穿白色衬衫，粉色被子，闭眼躺卧，表情：双眼紧闭，表情平静。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "年轻男子",
+                "gender": "男",
+                "clothing": "黑色衬衫",
+                "position": "画面中央",
+                "action": "露出笑容",
+                "expression": "眉毛舒展，眼睛微眯，嘴角上扬"
+            }
+        ],
+        "background": "室内墙壁，暖色调",
+        "description_narrative": "近景固定镜头，年轻男子确认无人后，脸上露出得逞的笑容，字幕显示“太好了”。",
+        "dialogue": "太好了",
+        "speaker": "年轻男子",
+        "emotion": "得逞",
+        "duration": 1.4,
+        "description_visual": "近景平拍镜头；室内墙壁，暖色调；画面中央人物，身穿黑色衬衫，露出笑容，表情：眉毛舒展，眼睛微眯，嘴角上扬。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色背景，带有文字特效",
+        "description_narrative": "特写固定镜头，画面渐白，出现文字特效，无台词。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.7,
+        "description_visual": "特写平拍镜头；白色背景，带有文字特效。"
+    }
+]

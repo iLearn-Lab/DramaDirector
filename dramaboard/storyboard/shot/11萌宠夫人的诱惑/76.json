@@ -1,0 +1,989 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙，水晶项链",
+                "position": "画面中央",
+                "action": "右手托腮，头部微低",
+                "expression": "眉毛微蹙，眼睛视线下移，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华客厅，背景虚化，暖色调灯光",
+        "description_narrative": "特写镜头，粉衣女子身穿浅粉色连衣裙，佩戴水晶项链，右手托腮，头部微低，眉毛微蹙，眼睛视线下移，嘴巴紧闭，神情显得委屈沉思。背景为豪华客厅，暖色调灯光，背景虚化。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "委屈",
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；豪华客厅，背景虚化，暖色调灯光；画面中央人物，身穿浅粉色连衣裙，水晶项链，右手托腮，头部微低，表情：眉毛微蹙，眼睛视线下移，嘴巴紧闭。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "摇镜",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙",
+                "position": "画面中央",
+                "action": "身体微动，画面模糊",
+                "expression": "面部模糊不清"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "特写镜头快速摇动，画面模糊，粉衣女子身体微动，面部细节不可见。背景为豪华客厅，暖色调。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头（摇镜）；豪华客厅，背景虚化；画面中央人物，身穿浅粉色连衣裙，身体微动，画面模糊，表情：面部模糊不清。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙，水晶项链",
+                "position": "画面中央",
+                "action": "低头，头发微乱",
+                "expression": "眉毛低垂，眼睛闭合或下视，嘴巴微抿"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "特写镜头，粉衣女子低头，头发微乱，眉毛低垂，眼睛闭合或下视，嘴巴微抿，神情低落。背景为豪华客厅，暖色调。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "低落",
+        "duration": 0.83,
+        "description_visual": "特写平拍镜头；豪华客厅，背景虚化；画面中央人物，身穿浅粉色连衣裙，水晶项链，低头，头发微乱，表情：眉毛低垂，眼睛闭合或下视，嘴巴微抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色三件套西装，条纹领带",
+                "position": "画面左侧",
+                "action": "站立，双手插兜",
+                "expression": "眉毛微挑，眼睛直视前方，嘴巴微张"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，身体微侧",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘，红色皮沙发",
+        "description_narrative": "中景镜头，灰西装男子身穿灰色三件套西装，站立在画面左侧，双手插兜，眉毛微挑，眼睛直视前方，嘴巴微张。白衣女子身穿白色衬衫，坐在画面右侧，身体微侧，眉毛舒展，眼睛看向左侧，嘴巴紧闭。背景为豪华客厅，花纹窗帘，红色皮沙发。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "严肃",
+        "duration": 0.55,
+        "description_visual": "中景平拍镜头；豪华客厅，花纹窗帘，红色皮沙发；画面左侧人物，身穿灰色三件套西装，条纹领带，站立，双手插兜，表情：眉毛微挑，眼睛直视前方，嘴巴微张；画面右侧人物，身穿白色衬衫，坐着，身体微侧，表情：眉毛舒展，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，头部微转",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘",
+        "description_narrative": "近景侧拍镜头，白衣女子坐在画面右侧，头部微转，眉毛微蹙，眼睛看向左侧，嘴巴紧闭，神情略显紧张。背景为豪华客厅，花纹窗帘。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "紧张",
+        "duration": 0.68,
+        "description_visual": "近景侧拍镜头；豪华客厅，花纹窗帘；画面右侧人物，身穿白色衬衫，坐着，头部微转，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "坐着，身体微前倾",
+                "expression": "眉毛微扬，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发，金色装饰",
+        "description_narrative": "中近景镜头，奶奶身穿深蓝色丝绒旗袍，佩戴珍珠项链，坐在画面中央，身体微前倾，眉毛微扬，眼睛注视前方，嘴巴微张，似乎在询问。背景为豪华客厅，红色皮沙发，金色装饰。",
+        "dialogue": "你们认识",
+        "speaker": "奶奶",
+        "emotion": "疑惑",
+        "duration": 1.57,
+        "description_visual": "中近景平拍镜头；豪华客厅，红色皮沙发，金色装饰；画面中央人物，身穿深蓝色丝绒旗袍，珍珠项链，坐着，身体微前倾，表情：眉毛微扬，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，身体微侧，手部动作",
+                "expression": "眉毛紧蹙，眼睛看向左侧，嘴巴微张说话"
+            },
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面左侧",
+                "action": "站立，手部下垂",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘",
+        "description_narrative": "中近景镜头，白衣女子坐在画面右侧，身体微侧，手部动作，眉毛紧蹙，眼睛看向左侧，嘴巴微张说话，神情焦急。灰西装男子站立在画面左侧，手部下垂，眉毛微蹙，眼睛看向下方，嘴巴紧闭。背景为豪华客厅，花纹窗帘。",
+        "dialogue": "不认识奶奶，盛夏随便找了一个人就来污蔑我。奶奶，您可得为我做主啊！",
+        "speaker": "白衣女子",
+        "emotion": "焦急",
+        "duration": 6.6,
+        "description_visual": "中近景平拍镜头；豪华客厅，花纹窗帘；画面右侧人物，身穿白色衬衫，坐着，身体微侧，手部动作，表情：眉毛紧蹙，眼睛看向左侧，嘴巴微张说话；画面左侧人物，身穿灰色三件套西装，站立，手部下垂，表情：眉毛微蹙，眼睛看向下方，嘴巴紧闭。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "坐着，头部微转",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中近景镜头，奶奶身穿深蓝色丝绒旗袍，佩戴珍珠项链，坐在画面中央，头部微转，眉毛微蹙，眼睛看向左侧，嘴巴微张，似乎在思考。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "那是不是你们",
+        "speaker": "奶奶",
+        "emotion": "疑惑",
+        "duration": 4.17,
+        "description_visual": "中近景平拍镜头；豪华客厅，红色皮沙发；画面中央人物，身穿深蓝色丝绒旗袍，珍珠项链，坐着，头部微转，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "米色西装男子",
+                "gender": "男",
+                "clothing": "米色西装外套，白衬衫",
+                "position": "画面左侧",
+                "action": "坐着，双手交叠",
+                "expression": "眉毛舒展，眼睛看向右侧，嘴巴紧闭"
+            },
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色长袖上衣",
+                "position": "画面右侧",
+                "action": "坐着，手部动作",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中景镜头，米色西装男子身穿米色西装外套，坐在画面左侧，双手交叠，眉毛舒展，眼睛看向右侧，嘴巴紧闭。黑衣女子身穿黑色长袖上衣，坐在画面右侧，手部动作，眉毛微蹙，眼睛看向左侧，嘴巴紧闭。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "不然找一个",
+        "speaker": "米色西装男子",
+        "emotion": "冷静",
+        "duration": 1.8,
+        "description_visual": "中景平拍镜头；豪华客厅，红色皮沙发；画面左侧人物，身穿米色西装外套，白衬衫，坐着，双手交叠，表情：眉毛舒展，眼睛看向右侧，嘴巴紧闭；画面右侧人物，身穿黑色长袖上衣，坐着，手部动作，表情：眉毛微蹙，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "坐着，头部微转",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中近景镜头，奶奶身穿深蓝色丝绒旗袍，佩戴珍珠项链，坐在画面中央，头部微转，眉毛微蹙，眼睛看向左侧，嘴巴微张，神情严肃。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "冒充盛婉的人",
+        "speaker": "奶奶",
+        "emotion": "严肃",
+        "duration": 2.48,
+        "description_visual": "中近景平拍镜头；豪华客厅，红色皮沙发；画面中央人物，身穿深蓝色丝绒旗袍，珍珠项链，坐着，头部微转，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍",
+                "position": "画面中央",
+                "action": "头部微动，画面模糊",
+                "expression": "面部模糊不清"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "特写镜头，画面模糊，奶奶头部微动，面部细节不可见。背景为豪华客厅，暖色调。",
+        "dialogue": "是什么意思",
+        "speaker": "奶奶",
+        "emotion": "疑惑",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；豪华客厅，背景虚化；画面中央人物，身穿深蓝色丝绒旗袍，头部微动，画面模糊，表情：面部模糊不清。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙，水晶项链",
+                "position": "画面左侧",
+                "action": "侧身，头部微转",
+                "expression": "眉毛微扬，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "近景侧拍镜头，粉衣女子身穿浅粉色连衣裙，佩戴水晶项链，侧身在画面左侧，头部微转，眉毛微扬，眼睛看向右侧，嘴巴微张，似乎在回答。背景为豪华客厅，背景虚化。",
+        "dialogue": "那真正的盛婉呢",
+        "speaker": "粉衣女子",
+        "emotion": "坚定",
+        "duration": 1.77,
+        "description_visual": "近景侧拍镜头；豪华客厅，背景虚化；画面左侧人物，身穿浅粉色连衣裙，水晶项链，侧身，头部微转，表情：眉毛微扬，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙，水晶项链",
+                "position": "画面左侧",
+                "action": "侧身，头部微转",
+                "expression": "眉毛微扬，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "近景侧拍镜头，粉衣女子身穿浅粉色连衣裙，佩戴水晶项链，侧身在画面左侧，头部微转，眉毛微扬，眼睛看向右侧，嘴巴微张，神情坚定。背景为豪华客厅，背景虚化。",
+        "dialogue": "我就是一直扮演盛晚的人",
+        "speaker": "粉衣女子",
+        "emotion": "坚定",
+        "duration": 0.43,
+        "description_visual": "近景侧拍镜头；豪华客厅，背景虚化；画面左侧人物，身穿浅粉色连衣裙，水晶项链，侧身，头部微转，表情：眉毛微扬，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙，水晶项链",
+                "position": "画面左侧",
+                "action": "侧身，头部微转",
+                "expression": "眉毛微扬，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "近景侧拍镜头，粉衣女子身穿浅粉色连衣裙，佩戴水晶项链，侧身在画面左侧，头部微转，眉毛微扬，眼睛看向右侧，嘴巴微张，继续说话。背景为豪华客厅，背景虚化。",
+        "dialogue": "盛歆然",
+        "speaker": "粉衣女子",
+        "emotion": "坚定",
+        "duration": 2.0,
+        "description_visual": "近景侧拍镜头；豪华客厅，背景虚化；画面左侧人物，身穿浅粉色连衣裙，水晶项链，侧身，头部微转，表情：眉毛微扬，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面左侧",
+                "action": "站立，手部下垂",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，身体微侧",
+                "expression": "眉毛紧蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘",
+        "description_narrative": "中景镜头，灰西装男子身穿灰色三件套西装，站立在画面左侧，手部下垂，眉毛微蹙，眼睛看向下方，嘴巴紧闭。白衣女子身穿白色衬衫，坐在画面右侧，身体微侧，眉毛紧蹙，眼睛看向左侧，嘴巴微张，神情惊讶。背景为豪华客厅，花纹窗帘。",
+        "dialogue": "盛歆然指使我假扮成盛婉",
+        "speaker": "粉衣女子",
+        "emotion": "指控",
+        "duration": 2.23,
+        "description_visual": "中景平拍镜头；豪华客厅，花纹窗帘；画面左侧人物，身穿灰色三件套西装，站立，手部下垂，表情：眉毛微蹙，眼睛看向下方，嘴巴紧闭；画面右侧人物，身穿白色衬衫，坐着，身体微侧，表情：眉毛紧蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙",
+                "position": "画面左侧",
+                "action": "坐着，身体微前倾",
+                "expression": "眉毛微扬，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "米色西装男子",
+                "gender": "男",
+                "clothing": "米色西装外套",
+                "position": "画面右侧",
+                "action": "坐着，侧身",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "中近景镜头，粉衣女子身穿浅粉色连衣裙，坐在画面左侧，身体微前倾，眉毛微扬，眼睛看向右侧，嘴巴微张，继续指控。米色西装男子身穿米色西装外套，坐在画面右侧，侧身，眉毛舒展，眼睛看向左侧，嘴巴紧闭。背景为豪华客厅，背景虚化。",
+        "dialogue": "去勾引苏先生",
+        "speaker": "粉衣女子",
+        "emotion": "指控",
+        "duration": 4.73,
+        "description_visual": "中近景平拍镜头；豪华客厅，背景虚化；画面左侧人物，身穿浅粉色连衣裙，坐着，身体微前倾，表情：眉毛微扬，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿米色西装外套，坐着，侧身，表情：眉毛舒展，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "坐着，身体微前倾",
+                "expression": "眉毛紧蹙，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中近景镜头，奶奶身穿深蓝色丝绒旗袍，佩戴珍珠项链，坐在画面中央，身体微前倾，眉毛紧蹙，眼睛注视前方，嘴巴微张，神情愤怒。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "你又是个什么东西，敢来离间我们盛家的女儿？",
+        "speaker": "奶奶",
+        "emotion": "愤怒",
+        "duration": 3.6,
+        "description_visual": "中近景平拍镜头；豪华客厅，红色皮沙发；画面中央人物，身穿深蓝色丝绒旗袍，珍珠项链，坐着，身体微前倾，表情：眉毛紧蹙，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙",
+                "position": "画面左侧",
+                "action": "坐着，身体微侧",
+                "expression": "眉毛微扬，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "米色西装男子",
+                "gender": "男",
+                "clothing": "米色西装外套",
+                "position": "画面右侧",
+                "action": "坐着，侧身",
+                "expression": "眉毛舒展，眼睛看向左侧，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "中近景镜头，粉衣女子身穿浅粉色连衣裙，坐在画面左侧，身体微侧，眉毛微扬，眼睛看向右侧，嘴巴微张，正在辩解。米色西装男子身穿米色西装外套，坐在画面右侧，侧身，眉毛舒展，眼睛看向左侧，嘴巴紧闭。背景为豪华客厅，背景虚化。",
+        "dialogue": "不是我挑拨离间",
+        "speaker": "粉衣女子",
+        "emotion": "辩解",
+        "duration": 2.87,
+        "description_visual": "中近景平拍镜头；豪华客厅，背景虚化；画面左侧人物，身穿浅粉色连衣裙，坐着，身体微侧，表情：眉毛微扬，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿米色西装外套，坐着，侧身，表情：眉毛舒展，眼睛看向左侧，嘴巴紧闭。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙",
+                "position": "画面中央",
+                "action": "头部微动，画面模糊",
+                "expression": "面部模糊不清"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "特写镜头，画面模糊，粉衣女子头部微动，面部细节不可见。背景为豪华客厅，暖色调。",
+        "dialogue": "是我替你们盛家办事。",
+        "speaker": "粉衣女子",
+        "emotion": "辩解",
+        "duration": 3.7,
+        "description_visual": "特写平拍镜头；豪华客厅，背景虚化；画面中央人物，身穿浅粉色连衣裙，头部微动，画面模糊，表情：面部模糊不清。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面左侧",
+                "action": "站立，手部下垂",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，身体微侧",
+                "expression": "眉毛紧蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘",
+        "description_narrative": "中景镜头，灰西装男子身穿灰色三件套西装，站立在画面左侧，手部下垂，眉毛微蹙，眼睛看向下方，嘴巴紧闭。白衣女子身穿白色衬衫，坐在画面右侧，身体微侧，眉毛紧蹙，眼睛看向左侧，嘴巴微张，神情震惊。背景为豪华客厅，花纹窗帘。",
+        "dialogue": "盛歆然居然想杀我",
+        "speaker": "粉衣女子",
+        "emotion": "震惊",
+        "duration": 2.27,
+        "description_visual": "中景平拍镜头；豪华客厅，花纹窗帘；画面左侧人物，身穿灰色三件套西装，站立，手部下垂，表情：眉毛微蹙，眼睛看向下方，嘴巴紧闭；画面右侧人物，身穿白色衬衫，坐着，身体微侧，表情：眉毛紧蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面中央",
+                "action": "头部微动，画面模糊",
+                "expression": "面部模糊不清"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "特写镜头，画面模糊，白衣女子头部微动，面部细节不可见。背景为豪华客厅，暖色调。",
+        "dialogue": "你满口胡话",
+        "speaker": "白衣女子",
+        "emotion": "愤怒",
+        "duration": 2.35,
+        "description_visual": "特写平拍镜头；豪华客厅，背景虚化；画面中央人物，身穿白色衬衫，头部微动，画面模糊，表情：面部模糊不清。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色长袖上衣",
+                "position": "画面中央",
+                "action": "坐着，头部微转",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘",
+        "description_narrative": "近景镜头，黑衣女子身穿黑色长袖上衣，坐在画面中央，头部微转，眉毛微蹙，眼睛看向左侧，嘴巴微张，似乎在质问。背景为豪华客厅，花纹窗帘。",
+        "dialogue": "你说我想杀你灭口，你有什么证据？",
+        "speaker": "白衣女子",
+        "emotion": "质问",
+        "duration": 1.82,
+        "description_visual": "近景平拍镜头；豪华客厅，花纹窗帘；画面中央人物，身穿黑色长袖上衣，坐着，头部微转，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面中央",
+                "action": "站立，双手插兜",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴紧闭"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘",
+        "description_narrative": "中近景镜头，灰西装男子身穿灰色三件套西装，站立在画面中央，双手插兜，眉毛微蹙，眼睛看向下方，嘴巴紧闭，神情严肃。背景为豪华客厅，花纹窗帘。",
+        "dialogue": "我来到苏家以后",
+        "speaker": "黑衣女子",
+        "emotion": "冷静",
+        "duration": 3.37,
+        "description_visual": "中近景平拍镜头；豪华客厅，花纹窗帘；画面中央人物，身穿灰色三件套西装，站立，双手插兜，表情：眉毛微蹙，眼睛看向下方，嘴巴紧闭。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "近景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙",
+                "position": "画面左侧",
+                "action": "坐着，身体微侧",
+                "expression": "眉毛微扬，眼睛看向右侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "近景侧拍镜头，粉衣女子身穿浅粉色连衣裙，坐在画面左侧，身体微侧，眉毛微扬，眼睛看向右侧，嘴巴微张，继续陈述。背景为豪华客厅，背景虚化。",
+        "dialogue": "一直都是跟白宇先生",
+        "speaker": "黑衣女子",
+        "emotion": "冷静",
+        "duration": 0.6,
+        "description_visual": "近景侧拍镜头；豪华客厅，背景虚化；画面左侧人物，身穿浅粉色连衣裙，坐着，身体微侧，表情：眉毛微扬，眼睛看向右侧，嘴巴微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面左侧",
+                "action": "站立，手部下垂",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，身体微侧",
+                "expression": "眉毛紧蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘",
+        "description_narrative": "中景镜头，灰西装男子身穿灰色三件套西装，站立在画面左侧，手部下垂，眉毛微蹙，眼睛看向下方，嘴巴紧闭。白衣女子身穿白色衬衫，坐在画面右侧，身体微侧，眉毛紧蹙，眼睛看向左侧，嘴巴微张。背景为豪华客厅，花纹窗帘。",
+        "dialogue": "进行联系的",
+        "speaker": "黑衣女子",
+        "emotion": "冷静",
+        "duration": 1.87,
+        "description_visual": "中景平拍镜头；豪华客厅，花纹窗帘；画面左侧人物，身穿灰色三件套西装，站立，手部下垂，表情：眉毛微蹙，眼睛看向下方，嘴巴紧闭；画面右侧人物，身穿白色衬衫，坐着，身体微侧，表情：眉毛紧蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "粉衣女子",
+                "gender": "女",
+                "clothing": "浅粉色连衣裙",
+                "position": "画面中央",
+                "action": "头部微动，画面模糊",
+                "expression": "面部模糊不清"
+            }
+        ],
+        "background": "豪华客厅，背景虚化",
+        "description_narrative": "特写镜头，画面模糊，粉衣女子头部微动，面部细节不可见。背景为豪华客厅，暖色调。",
+        "dialogue": "我有保留和白宇先生的微信联系记录",
+        "speaker": "黑衣女子",
+        "emotion": "冷静",
+        "duration": 2.53,
+        "description_visual": "特写平拍镜头；豪华客厅，背景虚化；画面中央人物，身穿浅粉色连衣裙，头部微动，画面模糊，表情：面部模糊不清。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "黑衣女子",
+                "gender": "女",
+                "clothing": "黑色长袖上衣",
+                "position": "画面中央",
+                "action": "坐着，头部微转",
+                "expression": "眉毛微蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘",
+        "description_narrative": "近景镜头，黑衣女子身穿黑色长袖上衣，坐在画面中央，头部微转，眉毛微蹙，眼睛看向左侧，嘴巴微张，继续陈述。背景为豪华客厅，花纹窗帘。",
+        "dialogue": "但是和盛小姐",
+        "speaker": "黑衣女子",
+        "emotion": "冷静",
+        "duration": 2.42,
+        "description_visual": "近景平拍镜头；豪华客厅，花纹窗帘；画面中央人物，身穿黑色长袖上衣，坐着，头部微转，表情：眉毛微蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "灰西装男子",
+                "gender": "男",
+                "clothing": "灰色三件套西装",
+                "position": "画面左侧",
+                "action": "站立，手部下垂",
+                "expression": "眉毛微蹙，眼睛看向下方，嘴巴紧闭"
+            },
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面右侧",
+                "action": "坐着，身体微侧",
+                "expression": "眉毛紧蹙，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，花纹窗帘",
+        "description_narrative": "中景镜头，灰西装男子身穿灰色三件套西装，站立在画面左侧，手部下垂，眉毛微蹙，眼睛看向下方，嘴巴紧闭。白衣女子身穿白色衬衫，坐在画面右侧，身体微侧，眉毛紧蹙，眼睛看向左侧，嘴巴微张。背景为豪华客厅，花纹窗帘。",
+        "dialogue": "我还没来得及",
+        "speaker": "黑衣女子",
+        "emotion": "冷静",
+        "duration": 3.65,
+        "description_visual": "中景平拍镜头；豪华客厅，花纹窗帘；画面左侧人物，身穿灰色三件套西装，站立，手部下垂，表情：眉毛微蹙，眼睛看向下方，嘴巴紧闭；画面右侧人物，身穿白色衬衫，坐着，身体微侧，表情：眉毛紧蹙，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍，珍珠项链",
+                "position": "画面中央",
+                "action": "坐着，手部动作",
+                "expression": "眉毛微扬，眼睛注视前方，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中近景镜头，奶奶身穿深蓝色丝绒旗袍，佩戴珍珠项链，坐在画面中央，手部动作，眉毛微扬，眼睛注视前方，嘴巴微张，似乎在回应。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "保留通话记录",
+        "speaker": "黑衣女子",
+        "emotion": "冷静",
+        "duration": 6.17,
+        "description_visual": "中近景平拍镜头；豪华客厅，红色皮沙发；画面中央人物，身穿深蓝色丝绒旗袍，珍珠项链，坐着，手部动作，表情：眉毛微扬，眼睛注视前方，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，手部动作",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "坐着，手部动作",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中景镜头，白衣女子身穿白色衬衫，站立在画面左侧，手部动作，眉毛微蹙，眼睛看向右侧，嘴巴微张。奶奶身穿深蓝色丝绒旗袍，坐在画面右侧，手部动作，眉毛微扬，眼睛看向左侧，嘴巴微张。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "没关系的",
+        "speaker": "白衣女子",
+        "emotion": "安抚",
+        "duration": 3.67,
+        "description_visual": "中景平拍镜头；豪华客厅，红色皮沙发；画面左侧人物，身穿白色衬衫，站立，手部动作，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿深蓝色丝绒旗袍，坐着，手部动作，表情：眉毛微扬，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，握着奶奶的手",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "坐着，被握着的手",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中景镜头，白衣女子身穿白色衬衫，站立在画面左侧，握着奶奶的手，眉毛微蹙，眼睛看向右侧，嘴巴微张。奶奶身穿深蓝色丝绒旗袍，坐在画面右侧，被握着的手，眉毛微扬，眼睛看向左侧，嘴巴微张。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "你愿意出来作证",
+        "speaker": "白衣女子",
+        "emotion": "请求",
+        "duration": 0.75,
+        "description_visual": "中景平拍镜头；豪华客厅，红色皮沙发；画面左侧人物，身穿白色衬衫，站立，握着奶奶的手，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿深蓝色丝绒旗袍，坐着，被握着的手，表情：眉毛微扬，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，握着奶奶的手",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "坐着，被握着的手",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中景镜头，白衣女子身穿白色衬衫，站立在画面左侧，握着奶奶的手，眉毛微蹙，眼睛看向右侧，嘴巴微张。奶奶身穿深蓝色丝绒旗袍，坐在画面右侧，被握着的手，眉毛微扬，眼睛看向左侧，嘴巴微张。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "我已经很满足了谢谢你",
+        "speaker": "白衣女子",
+        "emotion": "感激",
+        "duration": 0.58,
+        "description_visual": "中景平拍镜头；豪华客厅，红色皮沙发；画面左侧人物，身穿白色衬衫，站立，握着奶奶的手，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿深蓝色丝绒旗袍，坐着，被握着的手，表情：眉毛微扬，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，握着奶奶的手",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "坐着，被握着的手",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中景镜头，白衣女子身穿白色衬衫，站立在画面左侧，握着奶奶的手，眉毛微蹙，眼睛看向右侧，嘴巴微张。奶奶身穿深蓝色丝绒旗袍，坐在画面右侧，被握着的手，眉毛微扬，眼睛看向左侧，嘴巴微张。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "那也只能证明是白宇指使你的，和我有什么关系？",
+        "speaker": "白衣女子",
+        "emotion": "推卸",
+        "duration": 0.38,
+        "description_visual": "中景平拍镜头；豪华客厅，红色皮沙发；画面左侧人物，身穿白色衬衫，站立，握着奶奶的手，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿深蓝色丝绒旗袍，坐着，被握着的手，表情：眉毛微扬，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，握着奶奶的手",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "坐着，被握着的手",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中景镜头，白衣女子身穿白色衬衫，站立在画面左侧，握着奶奶的手，眉毛微蹙，眼睛看向右侧，嘴巴微张。奶奶身穿深蓝色丝绒旗袍，坐在画面右侧，被握着的手，眉毛微扬，眼睛看向左侧，嘴巴微张。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "奶奶，白宇做了太多错事",
+        "speaker": "白衣女子",
+        "emotion": "恳求",
+        "duration": 0.27,
+        "description_visual": "中景平拍镜头；豪华客厅，红色皮沙发；画面左侧人物，身穿白色衬衫，站立，握着奶奶的手，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿深蓝色丝绒旗袍，坐着，被握着的手，表情：眉毛微扬，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，握着奶奶的手",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "坐着，被握着的手",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中景镜头，白衣女子身穿白色衬衫，站立在画面左侧，握着奶奶的手，眉毛微蹙，眼睛看向右侧，嘴巴微张。奶奶身穿深蓝色丝绒旗袍，坐在画面右侧，被握着的手，眉毛微扬，眼睛看向左侧，嘴巴微张。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "这回您可不能再向着他了",
+        "speaker": "白衣女子",
+        "emotion": "恳求",
+        "duration": 0.25,
+        "description_visual": "中景平拍镜头；豪华客厅，红色皮沙发；画面左侧人物，身穿白色衬衫，站立，握着奶奶的手，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿深蓝色丝绒旗袍，坐着，被握着的手，表情：眉毛微扬，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，握着奶奶的手",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "坐着，被握着的手",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中景镜头，白衣女子身穿白色衬衫，站立在画面左侧，握着奶奶的手，眉毛微蹙，眼睛看向右侧，嘴巴微张。奶奶身穿深蓝色丝绒旗袍，坐在画面右侧，被握着的手，眉毛微扬，眼睛看向左侧，嘴巴微张。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "嗯。",
+        "speaker": "奶奶",
+        "emotion": "沉思",
+        "duration": 0.25,
+        "description_visual": "中景平拍镜头；豪华客厅，红色皮沙发；画面左侧人物，身穿白色衬衫，站立，握着奶奶的手，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿深蓝色丝绒旗袍，坐着，被握着的手，表情：眉毛微扬，眼睛看向左侧，嘴巴微张。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "白衣女子",
+                "gender": "女",
+                "clothing": "白色衬衫",
+                "position": "画面左侧",
+                "action": "站立，握着奶奶的手",
+                "expression": "眉毛微蹙，眼睛看向右侧，嘴巴微张"
+            },
+            {
+                "name": "奶奶",
+                "gender": "女",
+                "clothing": "深蓝色丝绒旗袍",
+                "position": "画面右侧",
+                "action": "坐着，被握着的手",
+                "expression": "眉毛微扬，眼睛看向左侧，嘴巴微张"
+            }
+        ],
+        "background": "豪华客厅，红色皮沙发",
+        "description_narrative": "中景镜头，白衣女子身穿白色衬衫，站立在画面左侧，握着奶奶的手，眉毛微蹙，眼睛看向右侧，嘴巴微张。奶奶身穿深蓝色丝绒旗袍，坐在画面右侧，被握着的手，眉毛微扬，眼睛看向左侧，嘴巴微张。背景为豪华客厅，红色皮沙发。",
+        "dialogue": "嗯。",
+        "speaker": "奶奶",
+        "emotion": "沉思",
+        "duration": 0.3,
+        "description_visual": "中景平拍镜头；豪华客厅，红色皮沙发；画面左侧人物，身穿白色衬衫，站立，握着奶奶的手，表情：眉毛微蹙，眼睛看向右侧，嘴巴微张；画面右侧人物，身穿深蓝色丝绒旗袍，坐着，被握着的手，表情：眉毛微扬，眼睛看向左侧，嘴巴微张。"
+    }
+]

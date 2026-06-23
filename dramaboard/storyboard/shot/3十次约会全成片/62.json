@@ -1,0 +1,809 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面左侧",
+                "action": "仰卧，双手抓着被子边缘，抬头看向右上方",
+                "expression": "眉毛微蹙，眼睛直视对方，嘴巴微张正在说话"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面右侧前景",
+                "action": "俯身靠近，背部肌肉线条可见",
+                "expression": "眉毛舒展，眼神专注，侧脸轮廓清晰"
+            }
+        ],
+        "background": "卧室床头，光线柔和昏暗，木质床头板",
+        "description_narrative": "特写镜头，池森仰卧在床上，身穿灰色吊带，双手抓着灰色被子边缘，抬头看向右侧俯身的傅总，眉毛微蹙，嘴巴微张说出台词。傅总赤裸上身，位于画面右侧前景，侧脸靠近池森，眼神专注。",
+        "dialogue": "傅总你不要这样",
+        "speaker": "池森",
+        "emotion": "抗拒",
+        "duration": 2.68,
+        "description_visual": "特写平拍镜头；卧室床头，光线柔和昏暗，木质床头板；画面左侧人物，身穿灰色吊带，仰卧，双手抓着被子边缘，抬头看向右上方，表情：眉毛微蹙，眼睛直视对方，嘴巴微张正在说话；画面右侧前景人物，身穿赤裸上身，俯身靠近，背部肌肉线条可见，表情：眉毛舒展，眼神专注，侧脸轮廓清晰。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面上方",
+                "action": "低头俯视，头发湿润",
+                "expression": "眉毛微挑，眼睛向下看，嘴唇微启"
+            },
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面下方",
+                "action": "仰卧，仅露出部分面部",
+                "expression": "眼睛向上看，眼神柔和"
+            }
+        ],
+        "background": "卧室床上，背景虚化",
+        "description_narrative": "俯拍特写，傅总位于画面上方，黑发湿润，低头俯视下方的池森，嘴唇微启呼唤名字。池森位于画面下方，仰卧，眼神向上回应。",
+        "dialogue": "池森",
+        "speaker": "傅总",
+        "emotion": "深情",
+        "duration": 0.52,
+        "description_visual": "特写俯拍镜头；卧室床上，背景虚化；画面上方人物，身穿赤裸上身，低头俯视，头发湿润，表情：眉毛微挑，眼睛向下看，嘴唇微启；画面下方人物，身穿灰色吊带，仰卧，仅露出部分面部，表情：眼睛向上看，眼神柔和。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面左侧",
+                "action": "仰卧，双手抓着被子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴唇闭合"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面右侧前景",
+                "action": "俯身，手臂支撑身体",
+                "expression": "侧脸，表情专注"
+            }
+        ],
+        "background": "卧室床头，灰色枕头",
+        "description_narrative": "过肩中近景，池森躺在左侧，双手抓着被子护在胸前，眼神注视着右侧的傅总。傅总位于右侧前景，赤裸上身，俯身靠近，手臂支撑在床边。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "暧昧",
+        "duration": 1.18,
+        "description_visual": "中近景过肩镜头；卧室床头，灰色枕头；画面左侧人物，身穿灰色吊带，仰卧，双手抓着被子，表情：眉毛舒展，眼睛注视对方，嘴唇闭合；画面右侧前景人物，身穿赤裸上身，俯身，手臂支撑身体，表情：侧脸，表情专注。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面上方",
+                "action": "低头，面部表情略带调侃",
+                "expression": "眉毛微蹙，眼睛向下看，嘴巴微张说话"
+            },
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面下方",
+                "action": "仰卧，抬头",
+                "expression": "眼睛向上看，嘴唇微张"
+            }
+        ],
+        "background": "卧室床上，光线柔和",
+        "description_narrative": "俯拍特写，傅总位于画面上方，低头看着下方的池森，眉毛微蹙，嘴巴微张说出调侃的台词。池森位于下方，抬头回应，眼神中带着一丝无奈。",
+        "dialogue": "你是不是吃干抹净就想走人啊",
+        "speaker": "傅总",
+        "emotion": "调侃",
+        "duration": 2.32,
+        "description_visual": "特写俯拍镜头；卧室床上，光线柔和；画面上方人物，身穿赤裸上身，低头，面部表情略带调侃，表情：眉毛微蹙，眼睛向下看，嘴巴微张说话；画面下方人物，身穿灰色吊带，仰卧，抬头，表情：眼睛向上看，嘴唇微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面左侧",
+                "action": "仰卧，双手抓着被子",
+                "expression": "眉毛微挑，眼睛注视对方，嘴唇微嘟"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面右侧前景",
+                "action": "俯身，手臂可见",
+                "expression": "侧脸，正在说话"
+            }
+        ],
+        "background": "卧室床头，灰色床品",
+        "description_narrative": "过肩中近景，池森躺在左侧，双手抓着被子，嘴唇微嘟，眼神看着右侧的傅总。傅总位于右侧前景，侧脸对着镜头，画外音传出他提出选择的台词。",
+        "dialogue": "那我再给你个选择",
+        "speaker": "傅总",
+        "emotion": "强势",
+        "duration": 2.86,
+        "description_visual": "中近景过肩镜头；卧室床头，灰色床品；画面左侧人物，身穿灰色吊带，仰卧，双手抓着被子，表情：眉毛微挑，眼睛注视对方，嘴唇微嘟；画面右侧前景人物，身穿赤裸上身，俯身，手臂可见，表情：侧脸，正在说话。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面上方",
+                "action": "低头，眼神坚定",
+                "expression": "眉毛舒展，眼睛向下看，嘴巴微张说话"
+            },
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面下方",
+                "action": "仰卧，抬头",
+                "expression": "眼睛向上看，眼神期待"
+            }
+        ],
+        "background": "卧室床上，背景虚化",
+        "description_narrative": "俯拍特写，傅总位于画面上方，低头看着池森，嘴巴微张说出确立关系的台词。池森位于下方，抬头注视，眼神中流露出惊讶和期待。",
+        "dialogue": "先做我的女朋友",
+        "speaker": "傅总",
+        "emotion": "认真",
+        "duration": 1.4,
+        "description_visual": "特写俯拍镜头；卧室床上，背景虚化；画面上方人物，身穿赤裸上身，低头，眼神坚定，表情：眉毛舒展，眼睛向下看，嘴巴微张说话；画面下方人物，身穿灰色吊带，仰卧，抬头，表情：眼睛向上看，眼神期待。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面左侧",
+                "action": "仰卧，双手抓着被子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴唇微张"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面右侧前景",
+                "action": "俯身",
+                "expression": "侧脸，正在说话"
+            }
+        ],
+        "background": "卧室床头，灰色床品",
+        "description_narrative": "过肩中近景，池森躺在左侧，双手抓着被子，眼神看着右侧的傅总。傅总位于右侧前景，侧脸对着镜头，画外音传出他关于恋爱的提议。",
+        "dialogue": "然后我们谈一场",
+        "speaker": "傅总",
+        "emotion": "温柔",
+        "duration": 1.38,
+        "description_visual": "中近景过肩镜头；卧室床头，灰色床品；画面左侧人物，身穿灰色吊带，仰卧，双手抓着被子，表情：眉毛舒展，眼睛注视对方，嘴唇微张；画面右侧前景人物，身穿赤裸上身，俯身，表情：侧脸，正在说话。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面上方",
+                "action": "低头，面带微笑",
+                "expression": "眉毛舒展，眼睛向下看，嘴巴微张说话"
+            },
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面下方",
+                "action": "仰卧，抬头",
+                "expression": "眼睛向上看，嘴角微扬"
+            }
+        ],
+        "background": "卧室床上，光线柔和",
+        "description_narrative": "俯拍特写，傅总位于画面上方，低头看着池森，面带微笑说出“甜甜的恋爱”。池森位于下方，抬头注视，嘴角微微上扬，显得害羞而甜蜜。",
+        "dialogue": "甜甜的恋爱",
+        "speaker": "傅总",
+        "emotion": "宠溺",
+        "duration": 1.24,
+        "description_visual": "特写俯拍镜头；卧室床上，光线柔和；画面上方人物，身穿赤裸上身，低头，面带微笑，表情：眉毛舒展，眼睛向下看，嘴巴微张说话；画面下方人物，身穿灰色吊带，仰卧，抬头，表情：眼睛向上看，嘴角微扬。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "中近景",
+        "camera_angle": "过肩",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面左侧",
+                "action": "仰卧，双手抓着被子",
+                "expression": "眉毛舒展，眼睛注视对方，嘴角上扬微笑"
+            },
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面右侧前景",
+                "action": "俯身",
+                "expression": "侧脸，表情温柔"
+            }
+        ],
+        "background": "卧室床头，灰色床品",
+        "description_narrative": "过肩中近景，池森躺在左侧，双手抓着被子，嘴角上扬露出甜蜜的微笑，眼神看着右侧的傅总。傅总位于右侧前景，侧脸对着镜头，氛围温馨。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "甜蜜",
+        "duration": 1.7,
+        "description_visual": "中近景过肩镜头；卧室床头，灰色床品；画面左侧人物，身穿灰色吊带，仰卧，双手抓着被子，表情：眉毛舒展，眼睛注视对方，嘴角上扬微笑；画面右侧前景人物，身穿赤裸上身，俯身，表情：侧脸，表情温柔。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "推进",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面上方",
+                "action": "低头靠近，准备亲吻",
+                "expression": "眉毛舒展，眼睛微闭，嘴唇靠近对方"
+            },
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面下方",
+                "action": "仰卧，抬头迎接",
+                "expression": "眼睛微闭，嘴唇微张"
+            }
+        ],
+        "background": "卧室床上，背景虚化",
+        "description_narrative": "俯拍特写，镜头推进，傅总位于画面上方，低头靠近池森，眼睛微闭准备亲吻。池森位于下方，抬头迎接，眼睛微闭，嘴唇微张，气氛暧昧。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "亲密",
+        "duration": 1.18,
+        "description_visual": "特写俯拍镜头（推进）；卧室床上，背景虚化；画面上方人物，身穿赤裸上身，低头靠近，准备亲吻，表情：眉毛舒展，眼睛微闭，嘴唇靠近对方；画面下方人物，身穿灰色吊带，仰卧，抬头迎接，表情：眼睛微闭，嘴唇微张。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "傅总",
+                "gender": "男",
+                "clothing": "赤裸上身",
+                "position": "画面上方",
+                "action": "低头，面带笑意",
+                "expression": "眉毛舒展，眼睛向下看，嘴角上扬"
+            },
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "灰色吊带",
+                "position": "画面下方",
+                "action": "仰卧，抬头",
+                "expression": "眼睛向上看，表情柔和"
+            }
+        ],
+        "background": "卧室床上，光线柔和",
+        "description_narrative": "俯拍特写，傅总位于画面上方，低头看着池森，嘴角上扬露出笑意。池森位于下方，抬头注视，表情柔和，画面定格在亲密瞬间。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "幸福",
+        "duration": 0.48,
+        "description_visual": "特写俯拍镜头；卧室床上，光线柔和；画面上方人物，身穿赤裸上身，低头，面带笑意，表情：眉毛舒展，眼睛向下看，嘴角上扬；画面下方人物，身穿灰色吊带，仰卧，抬头，表情：眼睛向上看，表情柔和。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "黑屏过渡",
+        "description_narrative": "全黑画面，场景过渡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.42,
+        "description_visual": "全景平拍镜头；黑屏过渡。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "浅蓝色蝴蝶结衬衫配白色短裙",
+                "position": "画面右侧",
+                "action": "站立，双手交握放在身前，低头看柜台",
+                "expression": "眉毛微蹙，眼睛向下看，嘴唇闭合"
+            }
+        ],
+        "background": "珠宝店柜台，玻璃展示柜，背景有电子秤",
+        "description_narrative": "中景镜头，池森站在珠宝店柜台前，身穿浅蓝色蝴蝶结衬衫和白色短裙，双手交握放在身前，低头看着柜台内的商品，神情专注。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 1.94,
+        "description_visual": "中景平拍镜头；珠宝店柜台，玻璃展示柜，背景有电子秤；画面右侧人物，身穿浅蓝色蝴蝶结衬衫配白色短裙，站立，双手交握放在身前，低头看柜台，表情：眉毛微蹙，眼睛向下看，嘴唇闭合。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "红色木质首饰盒，盒盖上有金色“珍藏品”字样",
+        "description_narrative": "特写镜头，聚焦在一个红色木质首饰盒的盒盖上，上面刻有金色的“珍藏品”字样，质感古朴。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.5,
+        "description_visual": "特写平拍镜头；红色木质首饰盒，盒盖上有金色“珍藏品”字样。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "打开的首饰盒内部，黑色绒布衬底，黄色珠串",
+        "description_narrative": "特写镜头，首饰盒打开，内部是黑色绒布衬底，上面摆放着一串黄色的珠串，光泽圆润。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.3,
+        "description_visual": "特写平拍镜头；打开的首饰盒内部，黑色绒布衬底，黄色珠串。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "首饰盒内的黄色珠串，细节清晰",
+        "description_narrative": "特写镜头，进一步展示首饰盒内的黄色珠串，珠子排列整齐，纹理清晰可见。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；首饰盒内的黄色珠串，细节清晰。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "白衬衫配深蓝色黄边马甲制服，戴黑色手套",
+                "position": "画面中央",
+                "action": "站立，双手交叠放在身前，表情冷漠",
+                "expression": "眉毛平直，眼睛直视前方，嘴唇闭合"
+            }
+        ],
+        "background": "珠宝店柜台后，背景有金色Logo",
+        "description_narrative": "中景镜头，店员站在柜台后，身穿白衬衫配深蓝色黄边马甲制服，戴着黑色手套，双手交叠放在身前，表情冷漠地看着前方。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "冷漠",
+        "duration": 1.34,
+        "description_visual": "中景平拍镜头；珠宝店柜台后，背景有金色Logo；画面中央人物，身穿白衬衫配深蓝色黄边马甲制服，戴黑色手套，站立，双手交叠放在身前，表情冷漠，表情：眉毛平直，眼睛直视前方，嘴唇闭合。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "浅蓝色蝴蝶结衬衫配白色短裙",
+                "position": "画面右侧",
+                "action": "身体前倾，双手扶着柜台边缘，低头看",
+                "expression": "眉毛微蹙，眼睛向下看，嘴唇微张"
+            }
+        ],
+        "background": "珠宝店玻璃柜台，反射出人物倒影",
+        "description_narrative": "中景镜头，池森身体前倾，双手扶着玻璃柜台边缘，低头仔细观察柜台内的商品，神情认真。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "感兴趣",
+        "duration": 1.22,
+        "description_visual": "中景平拍镜头；珠宝店玻璃柜台，反射出人物倒影；画面右侧人物，身穿浅蓝色蝴蝶结衬衫配白色短裙，身体前倾，双手扶着柜台边缘，低头看，表情：眉毛微蹙，眼睛向下看，嘴唇微张。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "特写",
+        "camera_angle": "俯拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "两个打开的首饰盒，黄色衬布，里面装着彩色珠串手链",
+        "description_narrative": "俯拍特写，桌面上放着两个打开的首饰盒，内部是黄色衬布，分别装着彩色珠串手链，色彩丰富。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.66,
+        "description_visual": "特写俯拍镜头；两个打开的首饰盒，黄色衬布，里面装着彩色珠串手链。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "浅蓝色蝴蝶结衬衫配白色短裙",
+                "position": "画面右侧",
+                "action": "身体前倾，手指指向柜台内",
+                "expression": "眉毛舒展，眼睛看着柜台，嘴巴微张说话"
+            }
+        ],
+        "background": "珠宝店柜台，玻璃展示柜",
+        "description_narrative": "中景镜头，池森身体前倾，手指指向柜台内的某件商品，嘴巴微张，向店员提出试戴请求。",
+        "dialogue": "那个我想试下这个",
+        "speaker": "池森",
+        "emotion": "礼貌",
+        "duration": 1.84,
+        "description_visual": "中景平拍镜头；珠宝店柜台，玻璃展示柜；画面右侧人物，身穿浅蓝色蝴蝶结衬衫配白色短裙，身体前倾，手指指向柜台内，表情：眉毛舒展，眼睛看着柜台，嘴巴微张说话。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "白衬衫配深蓝色黄边马甲制服，戴黑色手套",
+                "position": "画面中央",
+                "action": "低头看柜台，表情略带不屑",
+                "expression": "眉毛微挑，眼睛向下看，嘴唇紧闭"
+            }
+        ],
+        "background": "珠宝店柜台后，背景有金色Logo",
+        "description_narrative": "中景镜头，店员低头看着柜台，表情略带不屑，似乎对顾客的要求不以为然，双手放在柜台上。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "轻视",
+        "duration": 2.5,
+        "description_visual": "中景平拍镜头；珠宝店柜台后，背景有金色Logo；画面中央人物，身穿白衬衫配深蓝色黄边马甲制服，戴黑色手套，低头看柜台，表情略带不屑，表情：眉毛微挑，眼睛向下看，嘴唇紧闭。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "白衬衫配深蓝色黄边马甲制服，戴黑色手套",
+                "position": "画面中央",
+                "action": "戴着黑手套的手拿着白色戒指托盘",
+                "expression": "不可见"
+            }
+        ],
+        "background": "蓝色绒布托盘，玻璃柜台",
+        "description_narrative": "特写镜头，店员戴着黑色手套的手拿着一个白色戒指托盘，托盘上放着一枚钻戒，动作缓慢。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 0.66,
+        "description_visual": "特写平拍镜头；蓝色绒布托盘，玻璃柜台；画面中央人物，身穿白衬衫配深蓝色黄边马甲制服，戴黑色手套，戴着黑手套的手拿着白色戒指托盘，表情：不可见。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "浅蓝色蝴蝶结衬衫配白色短裙",
+                "position": "画面右侧",
+                "action": "站立，双手放在柜台上，抬头看",
+                "expression": "眉毛舒展，眼睛看着店员，嘴唇微张"
+            }
+        ],
+        "background": "珠宝店柜台，玻璃展示柜",
+        "description_narrative": "中景镜头，池森站立在柜台前，双手放在柜台上，抬头看着店员，似乎在等待回应，嘴唇微张。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 0.82,
+        "description_visual": "中景平拍镜头；珠宝店柜台，玻璃展示柜；画面右侧人物，身穿浅蓝色蝴蝶结衬衫配白色短裙，站立，双手放在柜台上，抬头看，表情：眉毛舒展，眼睛看着店员，嘴唇微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "白衬衫配深蓝色黄边马甲制服，戴黑色手套",
+                "position": "画面中央",
+                "action": "双手拿着戒指托盘，身体微侧",
+                "expression": "眉毛平直，眼睛看着托盘，嘴唇微张"
+            }
+        ],
+        "background": "珠宝店柜台后，背景有金色Logo",
+        "description_narrative": "中景镜头，店员双手拿着戒指托盘，身体微侧，似乎不打算将戒指递给顾客，表情冷淡。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "敷衍",
+        "duration": 0.72,
+        "description_visual": "中景平拍镜头；珠宝店柜台后，背景有金色Logo；画面中央人物，身穿白衬衫配深蓝色黄边马甲制服，戴黑色手套，双手拿着戒指托盘，身体微侧，表情：眉毛平直，眼睛看着托盘，嘴唇微张。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "浅蓝色蝴蝶结衬衫配白色短裙",
+                "position": "画面右侧",
+                "action": "身体前倾，手伸向柜台",
+                "expression": "眉毛微蹙，眼睛看着柜台，嘴巴微张"
+            }
+        ],
+        "background": "珠宝店柜台，玻璃展示柜",
+        "description_narrative": "中景镜头，池森身体前倾，手伸向柜台想要拿戒指，但画外音传来店员拒绝的声音，让她就这样看。",
+        "dialogue": "就这样看吧",
+        "speaker": "店员",
+        "emotion": "拒绝",
+        "duration": 1.06,
+        "description_visual": "中景平拍镜头；珠宝店柜台，玻璃展示柜；画面右侧人物，身穿浅蓝色蝴蝶结衬衫配白色短裙，身体前倾，手伸向柜台，表情：眉毛微蹙，眼睛看着柜台，嘴巴微张。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "白衬衫配深蓝色黄边马甲制服，戴黑色手套",
+                "position": "画面中央",
+                "action": "将托盘放回柜台，动作生硬",
+                "expression": "眉毛下垂，眼睛向下看，嘴唇闭合"
+            }
+        ],
+        "background": "珠宝店柜台后，蓝色绒布托盘",
+        "description_narrative": "中景镜头，店员将拿着戒指的托盘放回柜台，动作生硬，眼神向下，表现出不耐烦的态度。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "不耐烦",
+        "duration": 0.74,
+        "description_visual": "中景平拍镜头；珠宝店柜台后，蓝色绒布托盘；画面中央人物，身穿白衬衫配深蓝色黄边马甲制服，戴黑色手套，将托盘放回柜台，动作生硬，表情：眉毛下垂，眼睛向下看，嘴唇闭合。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "浅蓝色蝴蝶结衬衫配白色短裙",
+                "position": "画面右侧",
+                "action": "双手交握放在柜台上，身体前倾",
+                "expression": "眉毛舒展，眼睛看着柜台，嘴巴微张说话"
+            }
+        ],
+        "background": "珠宝店柜台，玻璃展示柜",
+        "description_narrative": "中景镜头，池森双手交握放在柜台上，身体前倾，看着柜台内的戒指，嘴巴微张，称赞戒指好看。",
+        "dialogue": "嗯挺好看的",
+        "speaker": "池森",
+        "emotion": "欣赏",
+        "duration": 1.08,
+        "description_visual": "中景平拍镜头；珠宝店柜台，玻璃展示柜；画面右侧人物，身穿浅蓝色蝴蝶结衬衫配白色短裙，双手交握放在柜台上，身体前倾，表情：眉毛舒展，眼睛看着柜台，嘴巴微张说话。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "白衬衫配深蓝色黄边马甲制服，戴黑色手套",
+                "position": "画面中央",
+                "action": "双手交叠放在身前，低头",
+                "expression": "眉毛微蹙，眼睛向下看，嘴唇微张"
+            }
+        ],
+        "background": "珠宝店柜台后，背景有金色Logo",
+        "description_narrative": "中景镜头，店员双手交叠放在身前，低头看着柜台，画外音传来池森坚持要试戴的声音。",
+        "dialogue": "我还想再试戴一下",
+        "speaker": "池森",
+        "emotion": "坚持",
+        "duration": 2.68,
+        "description_visual": "中景平拍镜头；珠宝店柜台后，背景有金色Logo；画面中央人物，身穿白衬衫配深蓝色黄边马甲制服，戴黑色手套，双手交叠放在身前，低头，表情：眉毛微蹙，眼睛向下看，嘴唇微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "浅蓝色蝴蝶结衬衫配白色短裙",
+                "position": "画面右侧",
+                "action": "双手交握放在柜台上，抬头看",
+                "expression": "眉毛微挑，眼睛看着店员，嘴巴微张"
+            }
+        ],
+        "background": "珠宝店柜台，玻璃展示柜",
+        "description_narrative": "中景镜头，池森双手交握放在柜台上，抬头看着店员，画外音传来店员介绍戒指价格高昂的声音，试图劝退。",
+        "dialogue": "这款戒指是我们秋季主打款，单主钻就二十万",
+        "speaker": "店员",
+        "emotion": "炫耀",
+        "duration": 3.66,
+        "description_visual": "中景平拍镜头；珠宝店柜台，玻璃展示柜；画面右侧人物，身穿浅蓝色蝴蝶结衬衫配白色短裙，双手交握放在柜台上，抬头看，表情：眉毛微挑，眼睛看着店员，嘴巴微张。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "白衬衫配深蓝色黄边马甲制服，戴黑色手套",
+                "position": "画面中央",
+                "action": "双手交叠放在身前，低头",
+                "expression": "眉毛平直，眼睛向下看，嘴唇闭合"
+            }
+        ],
+        "background": "珠宝店柜台后，背景有金色Logo",
+        "description_narrative": "中景镜头，店员双手交叠放在身前，低头看着柜台，表情冷漠，画外音传来池森再次坚持要试戴的声音。",
+        "dialogue": "我想试戴一下",
+        "speaker": "池森",
+        "emotion": "执着",
+        "duration": 2.86,
+        "description_visual": "中景平拍镜头；珠宝店柜台后，背景有金色Logo；画面中央人物，身穿白衬衫配深蓝色黄边马甲制服，戴黑色手套，双手交叠放在身前，低头，表情：眉毛平直，眼睛向下看，嘴唇闭合。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "池森",
+                "gender": "女",
+                "clothing": "浅蓝色蝴蝶结衬衫配白色短裙",
+                "position": "画面右侧",
+                "action": "双手交握放在柜台上，表情惊讶",
+                "expression": "眉毛微挑，眼睛睁大，嘴巴微张"
+            }
+        ],
+        "background": "珠宝店柜台，玻璃展示柜",
+        "description_narrative": "中景镜头，池森双手交握放在柜台上，表情惊讶，画外音传来店员直接拒绝让她试戴的声音。",
+        "dialogue": "您还是别戴了",
+        "speaker": "店员",
+        "emotion": "刻薄",
+        "duration": 2.28,
+        "description_visual": "中景平拍镜头；珠宝店柜台，玻璃展示柜；画面右侧人物，身穿浅蓝色蝴蝶结衬衫配白色短裙，双手交握放在柜台上，表情惊讶，表情：眉毛微挑，眼睛睁大，嘴巴微张。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "店员",
+                "gender": "女",
+                "clothing": "白衬衫配深蓝色黄边马甲制服，戴黑色手套",
+                "position": "画面中央",
+                "action": "低头看自己的手，语气轻蔑",
+                "expression": "眉毛微挑，眼睛向下看，嘴巴微张说话"
+            }
+        ],
+        "background": "珠宝店柜台后，背景有金色Logo",
+        "description_narrative": "中景镜头，店员低头看着自己的手，语气轻蔑地评价顾客手指粗糙，表情充满不屑。",
+        "dialogue": "我看你这手指挺粗糙的",
+        "speaker": "店员",
+        "emotion": "侮辱",
+        "duration": 1.9,
+        "description_visual": "中景平拍镜头；珠宝店柜台后，背景有金色Logo；画面中央人物，身穿白衬衫配深蓝色黄边马甲制服，戴黑色手套，低头看自己的手，语气轻蔑，表情：眉毛微挑，眼睛向下看，嘴巴微张说话。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色闪光过渡",
+        "description_narrative": "白色闪光画面，场景过渡，画外音传来店员担心戒指被刮花的刻薄话语。",
+        "dialogue": "别再把我们戒指刮花了",
+        "speaker": "店员",
+        "emotion": "嫌弃",
+        "duration": 1.96,
+        "description_visual": "全景平拍镜头；白色闪光过渡。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "白色画面持续",
+        "description_narrative": "白色画面持续，场景结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.98,
+        "description_visual": "全景平拍镜头；白色画面持续。"
+    }
+]

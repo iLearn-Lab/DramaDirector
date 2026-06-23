@@ -1,0 +1,891 @@
+[
+    {
+        "index": 0,
+        "shot_scale": "全景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [],
+        "background": "医院候诊区，白色墙壁，黑色连排座椅，光线明亮清冷。",
+        "description_narrative": "全景固定镜头展示空无一人的医院候诊区，阳光洒在白色墙壁和黑色座椅上，营造出安静等待的氛围。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 4.44,
+        "description_visual": "全景平拍镜头；医院候诊区，白色墙壁，黑色连排座椅，光线明亮清冷。。"
+    },
+    {
+        "index": 1,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫，深色裤子",
+                "position": "画面左侧",
+                "action": "低头看着手中的纸张，神情低落",
+                "expression": "眉毛微蹙，眼睛下视，嘴唇紧闭"
+            },
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面右侧",
+                "action": "侧身靠近语墨，手放在腿上",
+                "expression": "眉毛舒展，眼睛看向语墨，嘴唇微张"
+            }
+        ],
+        "background": "医院走廊，白色墙面贴有蓝色宣传海报，光线柔和。",
+        "description_narrative": "中景镜头，语墨低头看着手中的检查单，神情忧郁，身旁的珊珊侧身靠近，似乎在安慰她，浩然的声音从画外传来，质问语墨为何隐瞒。",
+        "dialogue": "语墨，这么大的事情，你怎么不跟我说啊？",
+        "speaker": "浩然",
+        "emotion": "焦急",
+        "duration": 3.56,
+        "description_visual": "中景平拍镜头；医院走廊，白色墙面贴有蓝色宣传海报，光线柔和。；画面左侧人物，身穿浅蓝色针织衫，深色裤子，低头看着手中的纸张，神情低落，表情：眉毛微蹙，眼睛下视，嘴唇紧闭；画面右侧人物，身穿粉色连衣裙，侧身靠近语墨，手放在腿上，表情：眉毛舒展，眼睛看向语墨，嘴唇微张。"
+    },
+    {
+        "index": 2,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "微微闭眼，头略微低下",
+                "expression": "眉毛轻垂，眼睛闭合，嘴唇微抿"
+            }
+        ],
+        "background": "医院墙面，模糊的蓝色装饰条。",
+        "description_narrative": "特写镜头聚焦语墨的面部，她微微闭眼，神情隐忍，轻声解释说不想让浩然担心。",
+        "dialogue": "我不想让你担心。",
+        "speaker": "语墨",
+        "emotion": "委屈",
+        "duration": 2.52,
+        "description_visual": "特写平拍镜头；医院墙面，模糊的蓝色装饰条。；画面中央人物，身穿浅蓝色针织衫，微微闭眼，头略微低下，表情：眉毛轻垂，眼睛闭合，嘴唇微抿。"
+    },
+    {
+        "index": 3,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "侧头看向语墨方向",
+                "expression": "眉毛微挑，眼睛注视，嘴唇微张"
+            }
+        ],
+        "background": "医院走廊，模糊的背景。",
+        "description_narrative": "近景镜头给到浩然，他戴着眼镜，神情复杂地看着语墨，语墨在画外轻唤他的名字。",
+        "dialogue": "浩然",
+        "speaker": "语墨",
+        "emotion": "犹豫",
+        "duration": 1.76,
+        "description_visual": "近景平拍镜头；医院走廊，模糊的背景。；画面左侧人物，身穿白色T恤，米色开衫，侧头看向语墨方向，表情：眉毛微挑，眼睛注视，嘴唇微张。"
+    },
+    {
+        "index": 4,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "转头看向浩然，语气关切",
+                "expression": "眉毛微扬，眼睛直视，嘴唇开合"
+            }
+        ],
+        "background": "医院墙面，蓝色装饰条。",
+        "description_narrative": "近景镜头转向珊珊，她介入对话，提醒浩然要多关心孕妇的情绪，表情看似真诚。",
+        "dialogue": "你得多关心关心语墨，孕妇的情绪是很敏感的。",
+        "speaker": "珊珊",
+        "emotion": "关切",
+        "duration": 4.0,
+        "description_visual": "近景平拍镜头；医院墙面，蓝色装饰条。；画面中央人物，身穿粉色连衣裙，转头看向浩然，语气关切，表情：眉毛微扬，眼睛直视，嘴唇开合。"
+    },
+    {
+        "index": 5,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "看向珊珊，略显惊讶",
+                "expression": "眉毛微皱，眼睛睁大，嘴唇微张"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头回到浩然，他听到珊珊的话，有些意外地唤了一声珊珊的名字。",
+        "dialogue": "珊珊",
+        "speaker": "浩然",
+        "emotion": "惊讶",
+        "duration": 1.28,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面左侧人物，身穿白色T恤，米色开衫，看向珊珊，略显惊讶，表情：眉毛微皱，眼睛睁大，嘴唇微张。"
+    },
+    {
+        "index": 6,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "眼神略微游移，嘴角带笑",
+                "expression": "眉毛舒展，眼睛侧视，嘴角微扬"
+            }
+        ],
+        "background": "医院墙面，蓝色装饰条。",
+        "description_narrative": "近景镜头中，珊珊没有直接回应，只是眼神略微游移，保持着得体的微笑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "掩饰",
+        "duration": 1.04,
+        "description_visual": "近景平拍镜头；医院墙面，蓝色装饰条。；画面中央人物，身穿粉色连衣裙，眼神略微游移，嘴角带笑，表情：眉毛舒展，眼睛侧视，嘴角微扬。"
+    },
+    {
+        "index": 7,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "眉头紧锁，看着珊珊",
+                "expression": "眉毛紧蹙，眼睛凝视，嘴唇紧闭"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头中浩然面露困惑，画外传来珊珊的声音，询问他们是否和好了。",
+        "dialogue": "你们两个和好了。",
+        "speaker": "珊珊",
+        "emotion": "试探",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面左侧人物，身穿白色T恤，米色开衫，眉头紧锁，看着珊珊，表情：眉毛紧蹙，眼睛凝视，嘴唇紧闭。"
+    },
+    {
+        "index": 8,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "表情认真，语气诚恳",
+                "expression": "眉毛微垂，眼睛直视，嘴唇开合"
+            }
+        ],
+        "background": "医院墙面，蓝色装饰条。",
+        "description_narrative": "近景镜头中珊珊继续说道，强调三人多年的感情，自己不能坐视语墨打掉孩子，表情显得十分仗义。",
+        "dialogue": "我们三个这么多年的感情，我总不能看着她把你们的孩子打掉吧？",
+        "speaker": "珊珊",
+        "emotion": "诚恳",
+        "duration": 4.92,
+        "description_visual": "近景平拍镜头；医院墙面，蓝色装饰条。；画面中央人物，身穿粉色连衣裙，表情认真，语气诚恳，表情：眉毛微垂，眼睛直视，嘴唇开合。"
+    },
+    {
+        "index": 9,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "闭着眼，神情疲惫",
+                "expression": "眉毛舒展，眼睛闭合，嘴唇微抿"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头给到语墨，她闭目听着珊珊的话，画外珊珊让她放心。",
+        "dialogue": "你放心。",
+        "speaker": "珊珊",
+        "emotion": "安抚",
+        "duration": 1.96,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，闭着眼，神情疲惫，表情：眉毛舒展，眼睛闭合，嘴唇微抿。"
+    },
+    {
+        "index": 10,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "侧头说话，语气轻松",
+                "expression": "眉毛微扬，眼睛看向一侧，嘴唇开合"
+            }
+        ],
+        "background": "医院墙面，蓝色装饰条。",
+        "description_narrative": "近景镜头中珊珊告诉浩然，她已经陪语墨做过检查，孩子很健康。",
+        "dialogue": "我陪语墨做过检查了，孩子很健康。",
+        "speaker": "珊珊",
+        "emotion": "轻松",
+        "duration": 2.68,
+        "description_visual": "近景平拍镜头；医院墙面，蓝色装饰条。；画面中央人物，身穿粉色连衣裙，侧头说话，语气轻松，表情：眉毛微扬，眼睛看向一侧，嘴唇开合。"
+    },
+    {
+        "index": 11,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "看着珊珊，神情缓和",
+                "expression": "眉毛舒展，眼睛注视，嘴唇微闭"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头中浩然听着珊珊的话，神情稍微放松了一些，默默点头。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "释然",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面左侧人物，身穿白色T恤，米色开衫，看着珊珊，神情缓和，表情：眉毛舒展，眼睛注视，嘴唇微闭。"
+    },
+    {
+        "index": 12,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "起身准备离开",
+                "expression": "眉毛微挑，眼睛看向别处，嘴唇微张"
+            }
+        ],
+        "background": "医院墙面，蓝色装饰条。",
+        "description_narrative": "近景镜头中珊珊表示自己还有事，准备先行离开。",
+        "dialogue": "我还有事",
+        "speaker": "珊珊",
+        "emotion": "匆忙",
+        "duration": 1.2,
+        "description_visual": "近景平拍镜头；医院墙面，蓝色装饰条。；画面中央人物，身穿粉色连衣裙，起身准备离开，表情：眉毛微挑，眼睛看向别处，嘴唇微张。"
+    },
+    {
+        "index": 13,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "转身，挥手告别",
+                "expression": "眉毛舒展，眼睛微笑，嘴唇开合"
+            }
+        ],
+        "background": "医院墙面，蓝色装饰条。",
+        "description_narrative": "近景镜头中珊珊说着先走了，脸上带着得体的笑容。",
+        "dialogue": "我就先走了。",
+        "speaker": "珊珊",
+        "emotion": "客气",
+        "duration": 1.24,
+        "description_visual": "近景平拍镜头；医院墙面，蓝色装饰条。；画面中央人物，身穿粉色连衣裙，转身，挥手告别，表情：眉毛舒展，眼睛微笑，嘴唇开合。"
+    },
+    {
+        "index": 14,
+        "shot_scale": "中景",
+        "camera_angle": "侧拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "坐着看向珊珊",
+                "expression": "眉毛微蹙，眼睛注视，嘴唇微闭"
+            },
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "坐着，低头",
+                "expression": "眉毛低垂，眼睛下视，嘴唇紧闭"
+            },
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面右侧",
+                "action": "站立，身体前倾",
+                "expression": "眉毛微扬，眼睛看向两人，嘴唇开合"
+            }
+        ],
+        "background": "医院候诊区，白色墙面，蓝色座椅。",
+        "description_narrative": "中景镜头展示三人同框，珊珊站着对坐着的两人说，有什么事随时联系她。",
+        "dialogue": "你们有什么事就",
+        "speaker": "珊珊",
+        "emotion": "热情",
+        "duration": 3.28,
+        "description_visual": "中景侧拍镜头；医院候诊区，白色墙面，蓝色座椅。；画面左侧人物，身穿白色T恤，米色开衫，坐着看向珊珊，表情：眉毛微蹙，眼睛注视，嘴唇微闭；画面中央人物，身穿浅蓝色针织衫，坐着，低头，表情：眉毛低垂，眼睛下视，嘴唇紧闭；画面右侧人物，身穿粉色连衣裙，站立，身体前倾，表情：眉毛微扬，眼睛看向两人，嘴唇开合。"
+    },
+    {
+        "index": 15,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面中央",
+                "action": "看着珊珊离开的方向",
+                "expression": "眉毛微皱，眼睛跟随，嘴唇微闭"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头中浩然目送珊珊，画外传来珊珊最后的话语。",
+        "dialogue": "你们有什么事就随时联系我。",
+        "speaker": "珊珊",
+        "emotion": "关切",
+        "duration": 2.12,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面中央人物，身穿白色T恤，米色开衫，看着珊珊离开的方向，表情：眉毛微皱，眼睛跟随，嘴唇微闭。"
+    },
+    {
+        "index": 16,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "眼神疑惑地看向珊珊离开的方向",
+                "expression": "眉毛微蹙，眼睛侧视，嘴唇微张"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头给到语墨，她眼神中流露出一丝疑惑，似乎在思考珊珊的突然热心。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "疑惑",
+        "duration": 1.2,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，眼神疑惑地看向珊珊离开的方向，表情：眉毛微蹙，眼睛侧视，嘴唇微张。"
+    },
+    {
+        "index": 17,
+        "shot_scale": "中景",
+        "camera_angle": "跟拍",
+        "camera_motion": "跟拍",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "走在走廊上，神情得意",
+                "expression": "眉毛舒展，眼睛下视，嘴角上扬"
+            }
+        ],
+        "background": "医院走廊，蓝色地面，白色墙壁。",
+        "description_narrative": "跟拍镜头跟随珊珊走在走廊上，她神情得意，似乎计划得逞。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "得意",
+        "duration": 4.88,
+        "description_visual": "中景跟拍镜头（跟拍）；医院走廊，蓝色地面，白色墙壁。；画面中央人物，身穿粉色连衣裙，走在走廊上，神情得意，表情：眉毛舒展，眼睛下视，嘴角上扬。"
+    },
+    {
+        "index": 18,
+        "shot_scale": "大特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "未知",
+                "gender": "未知",
+                "clothing": "未知",
+                "position": "画面中央",
+                "action": "手持红色盖子的血液样本管",
+                "expression": "未知"
+            }
+        ],
+        "background": "模糊的蓝色背景。",
+        "description_narrative": "大特写镜头聚焦一只手拿着一支红色盖子的血液样本管，背景虚化。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": null,
+        "duration": 1.88,
+        "description_visual": "大特写平拍镜头；模糊的蓝色背景。；画面中央人物，身穿未知，手持红色盖子的血液样本管，表情：未知。"
+    },
+    {
+        "index": 19,
+        "shot_scale": "中景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "拿着样本管，露出得意的笑容",
+                "expression": "眉毛微挑，眼睛注视样本管，嘴角上扬"
+            }
+        ],
+        "background": "医院走廊，远处有人走动。",
+        "description_narrative": "中景镜头中珊珊看着手中的样本管，独白道真是天助我也，表情充满野心。",
+        "dialogue": "真是天助我也",
+        "speaker": "珊珊",
+        "emotion": "窃喜",
+        "duration": 3.6,
+        "description_visual": "中景平拍镜头；医院走廊，远处有人走动。；画面中央人物，身穿粉色连衣裙，拿着样本管，露出得意的笑容，表情：眉毛微挑，眼睛注视样本管，嘴角上扬。"
+    },
+    {
+        "index": 20,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "抬头看向远方，眼神复杂",
+                "expression": "眉毛微蹙，眼睛上视，嘴唇微张"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头给到语墨，她抬头若有所思，画外传来珊珊的独白，声称秦夫人的位置她坐定了。",
+        "dialogue": "秦夫人的位置我坐定了。",
+        "speaker": "珊珊 (画外音)",
+        "emotion": "野心",
+        "duration": 1.16,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，抬头看向远方，眼神复杂，表情：眉毛微蹙，眼睛上视，嘴唇微张。"
+    },
+    {
+        "index": 21,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "看着语墨，神情专注",
+                "expression": "眉毛微皱，眼睛注视，嘴唇微闭"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头中浩然看着语墨，语墨在画外轻唤他的名字。",
+        "dialogue": "浩然",
+        "speaker": "语墨",
+        "emotion": "犹豫",
+        "duration": 1.32,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面左侧人物，身穿白色T恤，米色开衫，看着语墨，神情专注，表情：眉毛微皱，眼睛注视，嘴唇微闭。"
+    },
+    {
+        "index": 22,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "眼神游移，内心独白",
+                "expression": "眉毛微蹙，眼睛侧视，嘴唇微张"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头中语墨眼神游移，内心开始怀疑珊珊的动机。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "怀疑",
+        "duration": 2.76,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，眼神游移，内心独白，表情：眉毛微蹙，眼睛侧视，嘴唇微张。"
+    },
+    {
+        "index": 23,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "眉头紧锁，内心思考",
+                "expression": "眉毛紧蹙，眼睛下视，嘴唇微抿"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头中语墨内心独白，疑惑刘珊珊为何突然对她的孩子这么上心。",
+        "dialogue": "刘珊珊怎么会突然",
+        "speaker": "语墨 (画外音)",
+        "emotion": "困惑",
+        "duration": 7.12,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，眉头紧锁，内心思考，表情：眉毛紧蹙，眼睛下视，嘴唇微抿。"
+    },
+    {
+        "index": 24,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "闭眼思考，神情严肃",
+                "expression": "眉毛紧蹙，眼睛闭合，嘴唇紧闭"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头给到浩然，他闭眼似乎在思考，画外继续传来语墨的内心独白，猜测珊珊是否知道孩子父亲是秦牧川。",
+        "dialogue": "刘珊珊怎么会突然对我的孩子这么上心？",
+        "speaker": "语墨 (画外音)",
+        "emotion": "担忧",
+        "duration": 5.8,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面左侧人物，身穿白色T恤，米色开衫，闭眼思考，神情严肃，表情：眉毛紧蹙，眼睛闭合，嘴唇紧闭。"
+    },
+    {
+        "index": 25,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "闭眼摇头，内心否定",
+                "expression": "眉毛舒展，眼睛闭合，嘴唇微抿"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头中语墨闭眼摇头，内心独白认为珊珊若知道真相定会劝她打掉孩子。",
+        "dialogue": "无事献殷勤，非奸即盗。难道她知道孩子的爸爸是秦牧川吗？",
+        "speaker": "语墨 (画外音)",
+        "emotion": "自我安慰",
+        "duration": 1.72,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，闭眼摇头，内心否定，表情：眉毛舒展，眼睛闭合，嘴唇微抿。"
+    },
+    {
+        "index": 26,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "看着语墨，神情担忧",
+                "expression": "眉毛微皱，眼睛注视，嘴唇微闭"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头中浩然看着语墨，画外传来语墨的内心独白，认为珊珊不可能让她留下孩子。",
+        "dialogue": "不可能，她要是知道孩子是牧川的，肯定会劝我打掉。",
+        "speaker": "语墨 (画外音)",
+        "emotion": "笃定",
+        "duration": 0.92,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面左侧人物，身穿白色T恤，米色开衫，看着语墨，神情担忧，表情：眉毛微皱，眼睛注视，嘴唇微闭。"
+    },
+    {
+        "index": 27,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "抬头看向浩然",
+                "expression": "眉毛微扬，眼睛上视，嘴唇微张"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头中语墨抬头看向浩然，内心独白结束。",
+        "dialogue": "怎么可能让我把孩子留下？",
+        "speaker": "语墨 (画外音)",
+        "emotion": "疑惑",
+        "duration": 0.88,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，抬头看向浩然，表情：眉毛微扬，眼睛上视，嘴唇微张。"
+    },
+    {
+        "index": 28,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "看着语墨，开口说话",
+                "expression": "眉毛微蹙，眼睛注视，嘴唇开合"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头中浩然看着语墨，语墨在画外再次轻唤他的名字。",
+        "dialogue": "浩然",
+        "speaker": "语墨",
+        "emotion": "试探",
+        "duration": 3.16,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面左侧人物，身穿白色T恤，米色开衫，看着语墨，开口说话，表情：眉毛微蹙，眼睛注视，嘴唇开合。"
+    },
+    {
+        "index": 29,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "看着浩然，等待回应",
+                "expression": "眉毛舒展，眼睛注视，嘴唇微闭"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头中语墨看着浩然，神情期待又忐忑。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "期待",
+        "duration": 4.08,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，看着浩然，等待回应，表情：眉毛舒展，眼睛注视，嘴唇微闭。"
+    },
+    {
+        "index": 30,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "低头，语气诚恳",
+                "expression": "眉毛低垂，眼睛下视，嘴唇开合"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头中浩然低头，诚恳地向语墨道歉，提到这个孩子。",
+        "dialogue": "对不起，这个孩子。",
+        "speaker": "浩然",
+        "emotion": "愧疚",
+        "duration": 1.48,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面左侧人物，身穿白色T恤，米色开衫，低头，语气诚恳，表情：眉毛低垂，眼睛下视，嘴唇开合。"
+    },
+    {
+        "index": 31,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "抬头看着浩然",
+                "expression": "眉毛微扬，眼睛注视，嘴唇微张"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头中语墨抬头，画外传来浩然让她别多想的声音。",
+        "dialogue": "语墨，你别多想。",
+        "speaker": "浩然",
+        "emotion": "安抚",
+        "duration": 2.4,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，抬头看着浩然，表情：眉毛微扬，眼睛注视，嘴唇微张。"
+    },
+    {
+        "index": 32,
+        "shot_scale": "近景",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "浩然",
+                "gender": "男",
+                "clothing": "白色T恤，米色开衫",
+                "position": "画面左侧",
+                "action": "坚定地看着语墨",
+                "expression": "眉毛微扬，眼睛直视，嘴唇开合"
+            }
+        ],
+        "background": "医院走廊，模糊背景。",
+        "description_narrative": "近景镜头中浩然坚定地看着语墨，让她把孩子留下来。",
+        "dialogue": "把孩子留下来。",
+        "speaker": "浩然",
+        "emotion": "坚定",
+        "duration": 1.08,
+        "description_visual": "近景平拍镜头；医院走廊，模糊背景。；画面左侧人物，身穿白色T恤，米色开衫，坚定地看着语墨，表情：眉毛微扬，眼睛直视，嘴唇开合。"
+    },
+    {
+        "index": 33,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "语墨",
+                "gender": "女",
+                "clothing": "浅蓝色针织衫",
+                "position": "画面中央",
+                "action": "眼神感动，微微点头",
+                "expression": "眉毛舒展，眼睛湿润，嘴唇微张"
+            }
+        ],
+        "background": "医院墙面，模糊背景。",
+        "description_narrative": "特写镜头中语墨眼神感动，画外传来浩然承诺会把孩子当成自己的。",
+        "dialogue": "我会把他当成",
+        "speaker": "浩然",
+        "emotion": "承诺",
+        "duration": 3.16,
+        "description_visual": "特写平拍镜头；医院墙面，模糊背景。；画面中央人物，身穿浅蓝色针织衫，眼神感动，微微点头，表情：眉毛舒展，眼睛湿润，嘴唇微张。"
+    },
+    {
+        "index": 34,
+        "shot_scale": "过肩",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "黑色西装外套",
+                "position": "画面前景",
+                "action": "背对镜头坐着",
+                "expression": "未知"
+            }
+        ],
+        "background": "室内，光线柔和，模糊的背景。",
+        "description_narrative": "过肩镜头，前景是中年妇女的背影，画外音 finishes 浩然的承诺，说会当成亲生孩子对待，场景切换。",
+        "dialogue": "我会把他当成亲生孩子来对待的。",
+        "speaker": "浩然 (画外音)",
+        "emotion": "坚定",
+        "duration": 2.24,
+        "description_visual": "过肩平拍镜头；室内，光线柔和，模糊的背景。；画面前景人物，身穿黑色西装外套，背对镜头坐着，表情：未知。"
+    },
+    {
+        "index": 35,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "中年妇女",
+                "gender": "女",
+                "clothing": "黑色西装外套，白色内搭，珍珠项链",
+                "position": "画面中央",
+                "action": "侧头看向对面，神情威严",
+                "expression": "眉毛微挑，眼睛侧视，嘴唇开合"
+            }
+        ],
+        "background": "室内，模糊背景，光斑。",
+        "description_narrative": "特写镜头给到中年妇女，她神情威严地让珊珊开个价。",
+        "dialogue": "刘珊珊，你开个价吧。",
+        "speaker": "中年妇女",
+        "emotion": "威严",
+        "duration": 0.72,
+        "description_visual": "特写平拍镜头；室内，模糊背景，光斑。；画面中央人物，身穿黑色西装外套，白色内搭，珍珠项链，侧头看向对面，神情威严，表情：眉毛微挑，眼睛侧视，嘴唇开合。"
+    },
+    {
+        "index": 36,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "听着对方的话，神情复杂",
+                "expression": "眉毛微蹙，眼睛注视，嘴唇微闭"
+            }
+        ],
+        "background": "室内，模糊背景，光斑。",
+        "description_narrative": "特写镜头中珊珊听着对方的话，画外传来中年妇女问多少钱能离开牧川。",
+        "dialogue": "多少钱你能离开牧川？",
+        "speaker": "中年妇女",
+        "emotion": "冷漠",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；室内，模糊背景，光斑。；画面中央人物，身穿粉色连衣裙，听着对方的话，神情复杂，表情：眉毛微蹙，眼睛注视，嘴唇微闭。"
+    },
+    {
+        "index": 37,
+        "shot_scale": "特写",
+        "camera_angle": "平拍",
+        "camera_motion": "固定",
+        "subjects": [
+            {
+                "name": "珊珊",
+                "gender": "女",
+                "clothing": "粉色连衣裙",
+                "position": "画面中央",
+                "action": "眼神坚定，画面出现光斑特效",
+                "expression": "眉毛舒展，眼睛直视，嘴唇紧闭"
+            }
+        ],
+        "background": "室内，模糊背景，金色光斑特效。",
+        "description_narrative": "特写镜头中珊珊面对质问，眼神坚定，画面出现金色光斑和“未完待续”字样，结束。",
+        "dialogue": null,
+        "speaker": null,
+        "emotion": "坚定",
+        "duration": 1.12,
+        "description_visual": "特写平拍镜头；室内，模糊背景，金色光斑特效。；画面中央人物，身穿粉色连衣裙，眼神坚定，画面出现光斑特效，表情：眉毛舒展，眼睛直视，嘴唇紧闭。"
+    }
+]
