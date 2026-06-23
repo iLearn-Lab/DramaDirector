@@ -8,7 +8,7 @@
   <a href="https://github.com/Hengji-cs/DramaDirector">
     <img src="https://img.shields.io/badge/🎬%20Project-DramaDirector-2F6BFF?style=for-the-badge&labelColor=1a1a2e" alt="project badge">
   </a>
-  <img src="https://img.shields.io/badge/🎞️%20Task-Short%20Drama%20Generation-0F9D58?style=for-the-badge&labelColor=1a1a2e" alt="task badge">
+  <img src="https://img.shields.io/badge/🎞️%20Task-Video%20Generation-0F9D58?style=for-the-badge&labelColor=1a1a2e" alt="task badge">
   <img src="https://img.shields.io/badge/🔥%20Training-SFT%20%2B%20GRPO-F2994A?style=for-the-badge&labelColor=1a1a2e" alt="training badge">
   <img src="https://img.shields.io/badge/🧠%20Backbone-Qwen%20LoRA-8E44AD?style=for-the-badge&labelColor=1a1a2e" alt="backbone badge">
 </p>
