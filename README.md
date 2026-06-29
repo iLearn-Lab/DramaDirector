@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/🎞️%20Task-Video%20Generation-0F9D58?style=for-the-badge&labelColor=1a1a2e" alt="task badge">
   <img src="https://img.shields.io/badge/🔥%20Training-SFT%20%2B%20GRPO-F2994A?style=for-the-badge&labelColor=1a1a2e" alt="training badge">
   <img src="https://img.shields.io/badge/🧠%20Backbone-Qwen%20LoRA-8E44AD?style=for-the-badge&labelColor=1a1a2e" alt="backbone badge">
+  <a href='https://arxiv.org/pdf/2606.23643'><img src='https://img.shields.io/badge/arXiv-2606.23327-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=1a1a2e' /></a>
+
 </p>
 
 <p>
